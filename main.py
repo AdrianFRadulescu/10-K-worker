@@ -64,6 +64,8 @@ def extract_args(argv=[]):
                 fargs['ddir'] = argv[index + 1]
             elif argv[index] == '-csvstf':
                 fargs['csvstf'] = 'csvstf'
+            elif argv[index] == '-comps':
+                fargs['comps'] =argv[index + 1][1:-1].split(',')
         index += 1
 
     return fargs
@@ -98,7 +100,7 @@ def main(argv):
             print '-t <report_type> -ewdir <excel_write_directory> -y <year>'
             print
             print 'main.py -rf         -make a report for a given file'
-            print '        -rdir       -the parent directory where the database of files are located'
+            print '        -rdir       -the parent directory where the database of files is located'
             print '        -comp       -the company to which the file belongs to '
             print '                     name must be given exactly as it appears in the folder that contains all the files'
             print '                     with "\\" put in front of the spaces between words'
@@ -143,7 +145,7 @@ def main(argv):
             print '-t <report_type> -ewdir <excel_write_directory>'
             print
             print 'main.py -rc          -make a report for a company'
-            print '        -rdir       -the parent directory where the database of files are located'
+            print '        -rdir       -the parent directory where the database of files is located'
             print '        -comp       -the company to which the file belongs to '
             print '                     name must be given exactly as it appears in the folder that contains all the files'
             print '                     with "\\" put in front of the spaces between words'
@@ -174,7 +176,7 @@ def main(argv):
             print '-t <report_type> -ewdir <excel_write_directory> -fy <first_year> -ly <last_year>'
             print
             print 'main.py -rcy'
-            print '        -rdir       -the parent directory where the database of files are located'
+            print '        -rdir       -the parent directory where the database of files is located'
             print '        -comp       -the company to which the file belongs to '
             print '                     name must be given exactly as it appears in the folder that contains all the files'
             print '                     with "\\" put in front of the spaces between words'
@@ -199,6 +201,46 @@ def main(argv):
                   'For example if the name is "Zoro Corp" then the argument whould be "Zoro\ Corp"'
             print 'In order to specify the current directory in an unix based system(mac or linux) ' \
                   'type "." as argument for "rdir" or "wdir"'
+            print 'Example:'
+            print 'python main.py -rcy -rdir "/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests" ' \
+                  '-csvwdir csv_test -nw [no,none,not,useless,unless,less,unnecessary] -comp 0000320193 -t csv -csvrf test4.csv -fy 1994 -ly 2016 -ccount 0'
+
+        elif argv[1] == '-rcsy':
+
+            print 'main.py -rcy -rdir <read_directory> -comp <company_name> -categs <category_dictionary_file> '
+            print '-wdir <write_directory> -refined <true/false> -nw <negative_words_list> -rmr <remove_range>'
+            print '-t <report_type> -ewdir <excel_write_directory> -fy <first_year> -ly <last_year>'
+            print
+            print 'main.py -rcy'
+            print '        -rdir       -the parent directory where the database of files is located'
+            print '        -comps       -the companies that are to be reported, the argument must be given as a list in the format "[c1,c2,c3,c4,...]"'
+            print '                     name must be given exactly as it appears in the folder that contains all the files'
+            print '                     with "\\" put in front of the spaces between words'
+            print '        -categs     -the file that contains the categories and the words belonging to them'
+            print '                     it must be a .pkl file '
+            print '        -wdir       -the directory where the report should be writen for basic type reports'
+            print '        -refined    -"true" if the report is to be a refined one or "false" otherwise'
+            print '        -nw         -a list of the negative words that need to be provided in case of a refined report'
+            print '                     needs to be given in the format [nw1,nw2,nw3,nw4,...] with no spaces in between'
+            print '        -rmr        -the range in which words appearing after a negative one are removed'
+            print '        -t          -the type of the report: "excel" for an excel report and "raw" otherwise '
+            print '        -ewdir      -the directory in which the excel type reports will be written'
+            print '        -csvwdir    -the directory in which the csv type reports will be writen'
+            print '        -csvrf      -the file where the csv report has to be written'
+            print '        -fy         -the starting year which the report on the company has to include'
+            print '        -ly         -the ending year which the report on the company has to include'
+            print
+            print
+
+            print 'All option arguments should be inserted in full paths, if one of the directories contains a " "' \
+                  ' in its name and "\\" has to be inserted before it.\n' \
+                  'For example if the name is "Zoro Corp" then the argument whould be "Zoro\ Corp"'
+            print 'In order to specify the current directory in an unix based system(mac or linux) ' \
+                  'type "." as argument for "rdir" or "wdir"'
+            print 'Example:'
+            print 'python main.py -rcsy -rdir "/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests" ' \
+                  '-csvwdir csv_test -nw [no,none,not,useless,unless,less,unnecessary] -comps [0000320193,0000849101] ' \
+                  '-t csv -csvrf test6.csv -fy 1994 -ly 2016 -ccount 0'
 
         elif argv[1] == '-ud':
 
@@ -309,11 +351,20 @@ def main(argv):
 
             if argv[0] == '-rf' or '-rc' in argv[0]:
 
-                report = word_count_for_company.rawscore_for_words_for_company(fargs)
-
                 if argv[0] == '-rf':
-                    table = word_count_for_company.beautify_report(report)
+                    scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                    table = word_count_for_company.beautify_report(scores)
                     print table
+                elif argv[0] == '-rcy':
+                    scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                    print scores
+                elif argv[0] == '-rcsy':
+                    for comp in fargs['comps']:
+                        fargs['comp'] = comp
+                        print comp
+                        scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                        print scores
+
             else:
 
                 import os
@@ -354,7 +405,6 @@ def main(argv):
                             print 'Error while processing the files for company' + company
                             print 'moving on'
                             error_count += 1
-
 
                     i += 1
 

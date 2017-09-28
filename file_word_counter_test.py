@@ -225,6 +225,10 @@ def get_file_year(file=''):
     return int(list(filter(lambda a: a.isdigit() and len(a) is 4, file.split('-')))[0])
 
 
+def get_company_name(file=''):
+    return re.search('-(.*)-', file).group(1)
+
+
 def get_file_company(file=''):
 
     """

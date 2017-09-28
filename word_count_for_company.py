@@ -7,7 +7,7 @@ from file_word_counter_test import *
 
 # parameters
 parent_directory1 = '/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/'
-company1 = 'APPLE'
+company1 = '17206'
 
 file1 = 'word_count_test_summary.txt'
 
@@ -74,7 +74,7 @@ def beautify_report(report=None):
 
 
 def rawscore_for_words_for_company(args={}, parent_directory='/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/',
-                                   company='APPLE',
+                                   company='17206',
                                    category_file='categories.pkl',
                                    write_dir='', refined=False,
                                    negative_words=[],
@@ -83,13 +83,13 @@ def rawscore_for_words_for_company(args={}, parent_directory='/Volumes/Seagate B
                                    csv_write_dir='',
                                    csv_report_file='csv_report.csv',
                                    report_type='excel',
-                                   first_year=-1999, last_year=-1999):
+                                   first_year=-1999, last_year=-2016):
     # check arguments
     if args is not {}:
         if 'rdir' in args:
             parent_directory = args['rdir']
         if 'comp' in args:
-            company = args['comp']
+            company = (10 - len(args['comp'])) * '0' + args['comp']
         if 'categs' in args:
             category_file = args['categs']
         if 'wdir' in args:
@@ -146,7 +146,13 @@ def rawscore_for_words_for_company(args={}, parent_directory='/Volumes/Seagate B
         pass
 
     else:
-        for file in os.listdir(parent_directory+company)[0:]:
+
+        # get the years in which there are multiple files
+        import collections
+        files = os.listdir(parent_directory+company)
+        special_years = [item for item, count in collections.Counter(files).items() if count > 1]
+
+        for file in files:
 
             if first_year > 0 and get_file_year(file) not in range(first_year,last_year+1) or get_file_year(file) >= 2017:
                 continue
@@ -154,10 +160,17 @@ def rawscore_for_words_for_company(args={}, parent_directory='/Volumes/Seagate B
             if 'DS_Store' in file:
                 continue
 
-            """
-                Check that this is the correct file for the company
+            if get_file_year(file) in special_years:
+                data = open(file, 'r').split('\n')[:100]
 
-            """
+                for line in data:
+                    if 'CONFORMED SUBMISSION TYPE:' and '/A' in line:
+                        continue
+
+                """
+                    SEE IF FILE IS PROBLEMATIC
+                """
+
 
             #print 'file= ', file
 
@@ -215,7 +228,7 @@ def rawscore_for_words_for_company(args={}, parent_directory='/Volumes/Seagate B
                     csv_handling.add_year_report_as_row_to_csv_file(
                         file_path=report_name,
                         cik=get_cik(file=file),
-                        company=company,
+                        company=get_company_name(file),
                         year=get_file_year(file),
                         report_dictionary=categories_raw_scores,
                         refined_report_dictionary=categories_refined_scores,
