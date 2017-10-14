@@ -5,7 +5,7 @@ import sys
     This is a separate mini-script for renaming the files folders/directories in the
     current database
 """
-from file_word_counter_test import get_cik
+from file_word_counting import get_cik
 
 if __name__ == "__main__":
 

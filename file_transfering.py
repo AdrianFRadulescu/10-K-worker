@@ -1,6 +1,6 @@
 import os
 import shutil
-from file_word_counter_test import get_file_company
+from file_word_counting import get_file_company
 
 def transfer_subdirs(source=os.getcwd(),dest=os.getcwd(), threshold=''):
 

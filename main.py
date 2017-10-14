@@ -4,11 +4,13 @@
 #!/usr/bin/python
 
 import sys
+import csv
 
 
 def extract_args(argv=[]):
 
     fargs = {}
+    fargs['defcat'] = True
 
     index = 1
     while index < len(argv):
@@ -16,56 +18,92 @@ def extract_args(argv=[]):
             # there is an option to be configured
             if argv[index] == '-rdir':
                 fargs['rdir'] = argv[index + 1]
+
             elif argv[index] == '-comp':
                 fargs['comp'] = argv[index + 1].replace('-', ' ')
+
             elif argv[index] == '-categs':
                 fargs['categs'] = argv[index + 1]
+                fargs['defcat'] = False
+
             elif argv[index] == '-wdir':
                 fargs['wdir'] = argv[index + 1]
+
             elif argv[index] == '-refined':
                 fargs['refined'] = argv[index + 1]
+
             elif argv[index] == '-nw':
                 result = []
                 current_word = ''
                 for ch in list(argv[index + 1])[1:]:
+
                     if ch.isalpha():
                         current_word += ch
+
                     else:
                         result += [current_word]
                         current_word = ''
+
                 fargs['nw'] = result
+
             elif argv[index] == '-rmr':
                 fargs['rmr'] = int(argv[index + 1])
+
             elif argv[index] == '-t':
                 fargs['t'] = argv[index + 1]
+
             elif argv[index] == '-ewdir':
                 fargs['ewdir'] = argv[index + 1]
+
             elif argv[index] == '-y':
                 fargs['y'] = int(argv[index + 1])
+
             elif argv[index] == '-fy':
                 fargs['fy'] = int(argv[index + 1])
+
             elif argv[index] == '-ly':
                 fargs['ly'] = int(argv[index + 1])
+
             elif argv[index] == '-csv':
                 fargs['csv'] = argv[index + 1]
+
             elif argv[index] == '-i':
                 fargs['i'] = argv[index + 1]
+
             elif argv[index] == '-csvwdir':
                 fargs['csvwdir'] = argv[index + 1]
+
             elif argv[index] == '-csvrf':
                 fargs['csvrf'] = argv[index + 1]
+
             elif argv[index] == '-rblkcsv':
                 fargs['rblkcsv'] = argv[index + 1]
+
             elif argv[index] == '-ccount':
                 fargs['ccount'] = int(argv[index + 1])
+
             elif argv[index] == '-sdir':
                 fargs['sdir'] = argv[index + 1]
+
             elif argv[index] == '-ddir':
                 fargs['ddir'] = argv[index + 1]
+
             elif argv[index] == '-csvstf':
                 fargs['csvstf'] = 'csvstf'
+
             elif argv[index] == '-comps':
-                fargs['comps'] =argv[index + 1][1:-1].split(',')
+                if '[' and ']' in argv[index + 1]:
+                    fargs['comps'] = argv[index + 1][1:-1].split(',')
+                else:
+                    with open(argv[index + 1]) as csvfile:
+                        reader = csv.reader(csvfile, delimiter=',')
+                        fargs['comps'] = []
+                        for line in reader:
+                            fargs['comps'] += line
+
+            elif argv[index] == '-c_item7':
+                fargs['c_item7'] = argv[index + 1]
+
         index += 1
 
     return fargs
@@ -207,11 +245,11 @@ def main(argv):
 
         elif argv[1] == '-rcsy':
 
-            print 'main.py -rcy -rdir <read_directory> -comp <company_name> -categs <category_dictionary_file> '
+            print 'main.py -rcsy -rdir <read_directory> -comp <company_name> -categs <category_dictionary_file> '
             print '-wdir <write_directory> -refined <true/false> -nw <negative_words_list> -rmr <remove_range>'
             print '-t <report_type> -ewdir <excel_write_directory> -fy <first_year> -ly <last_year>'
             print
-            print 'main.py -rcy'
+            print 'main.py -rcsy'
             print '        -rdir       -the parent directory where the database of files is located'
             print '        -comps       -the companies that are to be reported, the argument must be given as a list in the format "[c1,c2,c3,c4,...]"'
             print '                     name must be given exactly as it appears in the folder that contains all the files'
@@ -229,6 +267,7 @@ def main(argv):
             print '        -csvrf      -the file where the csv report has to be written'
             print '        -fy         -the starting year which the report on the company has to include'
             print '        -ly         -the ending year which the report on the company has to include'
+            print '        -defcat     -True if the default categories are to be used, False otherwise'
             print
             print
 
@@ -241,6 +280,11 @@ def main(argv):
             print 'python main.py -rcsy -rdir "/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests" ' \
                   '-csvwdir csv_test -nw [no,none,not,useless,unless,less,unnecessary] -comps [0000320193,0000849101] ' \
                   '-t csv -csvrf test6.csv -fy 1994 -ly 2016 -ccount 0'
+
+            """
+                Make it take a .csv file instead of a list
+
+            """
 
         elif argv[1] == '-ud':
 
@@ -347,22 +391,22 @@ def main(argv):
         if '-r' in argv[0]:
             fargs = extract_args(argv)
 
-            import word_count_for_company
+            import company_word_counting
 
             if argv[0] == '-rf' or '-rc' in argv[0]:
 
                 if argv[0] == '-rf':
-                    scores = word_count_for_company.rawscore_for_words_for_company(fargs)
-                    table = word_count_for_company.beautify_report(scores)
+                    scores = company_word_counting.rawscore_for_words_for_company(**fargs)
+                    table = company_word_counting.beautify_report(scores)
                     print table
                 elif argv[0] == '-rcy':
-                    scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                    scores = company_word_counting.rawscore_for_words_for_company(**fargs)
                     print scores
                 elif argv[0] == '-rcsy':
                     for comp in fargs['comps']:
                         fargs['comp'] = comp
                         print comp
-                        scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                        scores = company_word_counting.rawscore_for_words_for_company(**fargs)
                         print scores
 
             else:
@@ -391,7 +435,7 @@ def main(argv):
 
                         fargs['comp'] = company
                         try:
-                            scores = word_count_for_company.rawscore_for_words_for_company(fargs)
+                            scores = company_word_counting.rawscore_for_words_for_company(**fargs)
                             print 'processed'
                             stf.write('CRE: ' + str(scores['CRE']) + ' CON: ' + str(scores['CON']) + ' COL: ' + str(scores['COL'])
                                       + ' COM: ' + str(scores['COM']) + '\n')
@@ -424,7 +468,7 @@ def main(argv):
             modules = ['pyahocorasick', 'openpyxl', 'regex', 'bs4', 'nltk', 'pysqlite', 'pandas', 'requests', 'sqlalchemy', 'BeautifulSoup4']
             import os
             for mod in modules:
-                os.system(sys.executable + ' -m pip install ' +mod)
+                os.system(sys.executable + ' -m pip install ' + mod)
         elif argv[0] == '-tf':
             fargs = extract_args(argv)
             import file_transfering
@@ -465,6 +509,7 @@ if __name__ == "__main__":
     print "     -rf          -make a report on a give file"
     print "     -rc          -make a report on a company"
     print "     -rcy         -make a report on a company between specific years"
+    print "     -rcsy        -"
     print "     -rblkcsv     -creates a csv file containing reports for all the files in the database which have not yet been reported"
     print "     -ud          -updates the EDGAR database register .csv file which contains information about all the files that are in the EDGAR detabase"
     print "     -uf          -updates the 10-K files that are contained in the local database"
