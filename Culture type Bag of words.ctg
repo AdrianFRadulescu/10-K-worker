@@ -1,0 +1,19 @@
+Culture type Bag of words
+
+#Category: Control (CON)
+
+##words: capab, collectiv, commit, competenc, conflict, consens, control, coordin, cultur, decentr, employ, empower, engag, expectat, facilitator, hir, interpers, involv, life, long-term, loyal, mentor, monit, mutual, norm, parent, partic, procedur, productiv, retain, reten, skill, social,tension, value
+
+#Category: Compete (COM)
+
+##words: achiev, acqui, aggress, agreem, attack, budget, challeng, charg, client, compet, customer, deliver, direct, driv, excellen, expand, fast, goal, growth, hard, invest, market, mov, outsourc, performanc, position, pressur, profit, rapid, reputation, result, revenue, satisf, scan, succes signal, speed, strong, superior, target, win
+
+#Category: Collaborate (COL)
+
+##words: boss, burocr, cautio, cohes, certain, chief, collab, conservat, cooperat, detail, document, efficien, error, fail,
+##words: help, human, inform, logic, method, outcom, partner, people, predictab, relation, qualit, regular, solv, share, standard, team, teamwork, train, uniform, work group
+
+#Category: Create  (CRE)
+
+##words: adapt, begin, chang, creat, discontin, dream, elabor, entrepre, envis, experim, fantas, freedom, futur, idea, init, innovat, intellec, learn, new, origin, pioneer, predict, radic, risk, start, thought, trend, unafra, ventur, vision
+

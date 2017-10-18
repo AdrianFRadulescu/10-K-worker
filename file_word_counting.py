@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 
 
 def make_automaton_from_list(args=[]):
-
     """
         Creates an automaton form a given list
     :param args:
@@ -22,7 +21,6 @@ def make_automaton_from_list(args=[]):
 
 
 def make_frequency_automaton_from_list(args=[]):
-
     """
         Convert a given string list into an searching automaton
     :param args:
@@ -32,7 +30,7 @@ def make_frequency_automaton_from_list(args=[]):
     automaton = ahocorasick.Automaton(ahocorasick.STORE_INTS)
     for a in args:
         if automaton.exists(a):
-            automaton.add_word(a, automaton.get(a)+1)
+            automaton.add_word(a, automaton.get(a) + 1)
         else:
             automaton.add_word(a, 1)
 
@@ -40,7 +38,6 @@ def make_frequency_automaton_from_list(args=[]):
 
 
 def sanitize_freqs_automaton(automaton=ahocorasick.Automaton()):
-
     """
     Cleans the dictionary of items that contain other characters besides alphas
     :param dict:
@@ -102,7 +99,7 @@ def beautify_data(data='', flag=False):
         except:
             soup = BeautifulSoup(data)
     else:
-        soup = BeautifulSoup(data,'lxml')
+        soup = BeautifulSoup(data, 'lxml')
 
     # extract the text
     text_data = soup.get_text().encode('unicode-escape')  # .decode('unicode-escape')
@@ -157,7 +154,6 @@ def get_word_frequencies(args=''):
 
 
 def get_refined_word_frequencies(args='', negative_words=[], remove_range=2):
-
     '''
         Eliminates the negative words and the words affected by them as according to the remove range
         and then calculates their frequencies
@@ -169,7 +165,7 @@ def get_refined_word_frequencies(args='', negative_words=[], remove_range=2):
 
     tokens = [str.lower() for str in word_tokenize(text=args) if check(str)]
 
-    #print tokens
+    # print tokens
     refined_tokens = []
 
     # a list of True and False which indicates if a previous token is in the negative_words list
@@ -189,14 +185,13 @@ def get_refined_word_frequencies(args='', negative_words=[], remove_range=2):
             is_any_previous_token_negative -= prev_tokens[0]
             prev_tokens.pop(0)
 
-    #print list(make_frequency_automaton_from_list(refined_tokens))
+    # print list(make_frequency_automaton_from_list(refined_tokens))
 
     freq_automaton = make_frequency_automaton_from_list(refined_tokens)
     return freq_automaton
 
 
 def get_cik(file=''):
-
     """
         Checks the file and return the comapny CIK from it
     :param file:
@@ -210,7 +205,7 @@ def get_cik(file=''):
                 rez += ch
             else:
                 break
-        return (10 - len(rez) if 10 >= len(rez) else 0)*'0' + rez
+        return (10 - len(rez) if 10 >= len(rez) else 0) * '0' + rez
     except:
         print 'CIK ERROR, invalid file'
         return ''
@@ -232,7 +227,7 @@ def get_file_year_from_content(file=''):
     :return:
     """
 
-    data = open(file,'r').read().split('\n')[:25]
+    data = open(file, 'r').read().split('\n')[:25]
     year = ''
 
     for line in data:
@@ -248,7 +243,6 @@ def get_company_name(file=''):
 
 
 def get_file_company(file=''):
-
     """
         Returns the name of the company from the file name
     :param file:    the file's name
@@ -289,10 +283,10 @@ def get_item_7(directory='', file=''):
 
     # print 'fdata = ', final_text_data
     # print 'item 7' in final_text_data or 'ITEM 7' in final_text_data or 'Item 7' in final_text_data
-    #global fw
-    #fw.write('fdata = ' + str(final_text_data) + "\n")
-    #fw.write(str('item 7' in final_text_data or 'ITEM 7' in final_text_data or 'Item 7' in final_text_data))
-    #fw.write("\n")
+    # global fw
+    # fw.write('fdata = ' + str(final_text_data) + "\n")
+    # fw.write(str('item 7' in final_text_data or 'ITEM 7' in final_text_data or 'Item 7' in final_text_data))
+    # fw.write("\n")
     # global acc
     # acc = acc and ('item' in final_text_data or 'ITEM' in final_text_data or 'Item' in final_text_data)
     # find item 7
@@ -347,7 +341,7 @@ def get_item_7(directory='', file=''):
     for p in patterns:
         result = p.findall(final_text_data)
         if result:
-            #print i, 'fjafasdfhasufhuadsfupads', result
+            # print i, 'fjafasdfhasufhuadsfupads', result
             for r in result:
                 if len(r) > len(item_7):
                     item_7 = r
@@ -379,11 +373,12 @@ def get_item_7_word_frequencies_from_file(directory='', file='', negative_words=
     :return:
     """
     text_data = get_item_7(directory=directory, file=file)
-    return get_word_frequencies(text_data) if not refined else get_refined_word_frequencies(text_data, negative_words, remove_range)
+    return get_word_frequencies(text_data) if not refined else get_refined_word_frequencies(text_data, negative_words,
+                                                                                            remove_range)
 
 
-def get_item_7_word_frequencies_for_company_from_year(parent_directory='~/', company='', year='', refined=False, negative_words=[], remove_range=2):
-
+def get_item_7_word_frequencies_for_company_from_year(parent_directory='~/', company='', year='', refined=False,
+                                                      negative_words=[], remove_range=2):
     frequencies = ahocorasick.Automaton(ahocorasick.STORE_INTS)
 
     if not os.path.exists(parent_directory + company + '/'):
@@ -396,12 +391,14 @@ def get_item_7_word_frequencies_for_company_from_year(parent_directory='~/', com
         if year in file:
             candidate = get_item_7_word_frequencies_from_file(directory=parent_directory + company + '/',
                                                               file=file) if not refined \
-                else get_item_7_word_frequencies_from_file(directory=parent_directory + company + '/', file=file, refined=True, negative_words=negative_words, remove_range=remove_range)
+                else get_item_7_word_frequencies_from_file(directory=parent_directory + company + '/', file=file,
+                                                           refined=True, negative_words=negative_words,
+                                                           remove_range=remove_range)
             if bool(candidate):
                 frequencies = candidate
-                #print 'file==', file
+                # print 'file==', file
                 # print frequencies ,"\ndasdad"
-    #print '+', frequencies
+    # print '+', frequencies
     return sanitize_freqs_automaton(frequencies)
 
 
@@ -418,12 +415,15 @@ def get_text_word_frequencies_from_file(directory='', file='', refined=False, ne
 
     # print "----- lent ------"
     # print len(beautify_data(read_text_from_file_without_tables(directory+file), flag=True))
-    return get_word_frequencies(beautify_data(read_text_from_file_without_tables(directory + file), flag=True)) if not refined \
-        else get_refined_word_frequencies(beautify_data(read_text_from_file_without_tables(directory + file), flag=True), negative_words=negative_words, remove_range=remove_range)
+    return get_word_frequencies(
+        beautify_data(read_text_from_file_without_tables(directory + file), flag=True)) if not refined \
+        else get_refined_word_frequencies(
+        beautify_data(read_text_from_file_without_tables(directory + file), flag=True), negative_words=negative_words,
+        remove_range=remove_range)
 
 
-def get_text_word_frequencies_for_company_from_year(parent_directory='~/', company='', year='', refined=False, negative_words=[], remove_range=2):
-
+def get_text_word_frequencies_for_company_from_year(parent_directory='~/', company='', year='', refined=False,
+                                                    negative_words=[], remove_range=2):
     """
         Returns the frequencies for the most likely file of the given year
     :param parent_directory:    the directory in which the database is contained
@@ -434,7 +434,6 @@ def get_text_word_frequencies_for_company_from_year(parent_directory='~/', compa
     :param remove_range:        the maximum distance after a negative word for words to be eliminated
     :return:
     """
-
 
     frequencies = ahocorasick.Automaton(ahocorasick.STORE_INTS)
     current_total = 0
@@ -448,14 +447,15 @@ def get_text_word_frequencies_for_company_from_year(parent_directory='~/', compa
     for file in files:
         if year in file:
             candidate = get_text_word_frequencies_from_file(directory=parent_directory + company + '/', file=file,
-                                                            refined=refined, negative_words=negative_words, remove_range=remove_range)
+                                                            refined=refined, negative_words=negative_words,
+                                                            remove_range=remove_range)
             candidate_total = sum(candidate.values())
             if bool(candidate) and candidate_total > current_total:
                 frequencies = candidate
                 current_total = candidate_total
-                #print 'file==', file
+                # print 'file==', file
                 # print frequencies ,"\ndasdad"
-    #print '+', frequencies
+    # print '+', frequencies
     return sanitize_freqs_automaton(frequencies)
 
 
@@ -467,9 +467,8 @@ if __name__ == "__main__":
 
     print get_cik('1599407-1847 Holdings LLC-2015-04-15')
 
-
-    negative_words = ['not', 'less', 'nothing', 'no', 'never', 'negative', 'nobody', 'nondescript', 'futile', 'unnecessary', 'useless']
-
+    negative_words = ['not', 'less', 'nothing', 'no', 'never', 'negative', 'nobody', 'nondescript', 'futile',
+                      'unnecessary', 'useless']
 
     l = os.listdir('/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/Zoro Mining Corp.')[1:]
     file_path1 = '/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/Zoro Mining Corp.' + l[0]
@@ -478,10 +477,9 @@ if __name__ == "__main__":
     # print get_item_7_word_frequencies_from_file('/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/Zoro Mining Corp.', l[1])
     import time
 
-
     time0 = time.localtime()
     print time0
-    #print get_refined_word_frequencies("I'm not your boss you fucking moron. Go see her and do not tell her that", negative_words=negative_words)
+    # print get_refined_word_frequencies("I'm not your boss you fucking moron. Go see her and do not tell her that", negative_words=negative_words)
 
 
 
@@ -493,13 +491,13 @@ if __name__ == "__main__":
     print sum(dict(map(lambda q: (q, refined_result1.get(q)), refined_result1)).values())
 
     time_r1 = time.localtime()
-    #print time_r1 - time0,'sec'
+    # print time_r1 - time0,'sec'
 
     refined_result2 = get_text_word_frequencies_for_company_from_year(
         parent_directory='/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/',
-        company='Zoro Mining Corp.', year='2011', refined=True)#, negative_words=negative_words)
+        company='Zoro Mining Corp.', year='2011', refined=True)  # , negative_words=negative_words)
     time_r2 = time.localtime()
-    #print time_r2 - time_r1,'sec'
+    # print time_r2 - time_r1,'sec'
 
 
     print dict(map(lambda q: (q, refined_result2.get(q)), refined_result2))
@@ -510,22 +508,21 @@ if __name__ == "__main__":
         company='Zoro Mining Corp.', year='2011')
 
     time1 = time.localtime()
-    #print time1-time_r2,'sec'
+    # print time1-time_r2,'sec'
 
     print dict(map(lambda q: (q, result1.get(q)), result1))
-    print sum(dict(map(lambda q: (q,result1.get(q)), result1)).values())
+    print sum(dict(map(lambda q: (q, result1.get(q)), result1)).values())
 
     result2 = get_text_word_frequencies_for_company_from_year(
         parent_directory='/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/',
         company='Zoro Mining Corp.', year='2011')
     time2 = time.localtime()
-    #print time2-time1,'sec'
+    # print time2-time1,'sec'
 
     print dict(map(lambda q: (q, result2.get(q)), result2))
     print sum(dict(map(lambda q: (q, result2.get(q)), result2)).values()), '\n'
 
-
-
     print get_cik('1599407-1847 Holdings LLC-2015-04-15')
 
-    print get_file_year_from_content('/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests/0000017206/17206-CAPITAL HOLDING CORP-1993-12-22')
+    print get_file_year_from_content(
+        '/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests/0000017206/17206-CAPITAL HOLDING CORP-1993-12-22')

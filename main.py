@@ -100,7 +100,7 @@ def extract_args(argv=[]):
                         fargs['comps'] = []
                         for line in reader:
                             fargs['comps'] += line
-
+                print fargs['comps']
             elif argv[index] == '-c_item7':
                 fargs['c_item7'] = argv[index + 1]
 
@@ -277,9 +277,9 @@ def main(argv):
             print 'In order to specify the current directory in an unix based system(mac or linux) ' \
                   'type "." as argument for "rdir" or "wdir"'
             print 'Example:'
-            print 'python main.py -rcsy -rdir "/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests" ' \
-                  '-csvwdir csv_test -nw [no,none,not,useless,unless,less,unnecessary] -comps [0000320193,0000849101] ' \
-                  '-t csv -csvrf test6.csv -fy 1994 -ly 2016 -ccount 0'
+            print "python main.py -rcsy -rdir '/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/utility_tests'  " \
+                  "-csvwdir csv_test -nw [no,none,not,useless,unless,less,unnecessary] -comps /Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/comps.csv  " \
+                  "-t csv -csvrf test6.csv -fy 1994 -ly 2016 -ccount 0 -defcat False -categs '/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/Culture type Bag of words.ctg'"
 
             """
                 Make it take a .csv file instead of a list
@@ -509,7 +509,7 @@ if __name__ == "__main__":
     print "     -rf          -make a report on a give file"
     print "     -rc          -make a report on a company"
     print "     -rcy         -make a report on a company between specific years"
-    print "     -rcsy        -"
+    print "     -rcsy        -make a report on multiple company between specific years"
     print "     -rblkcsv     -creates a csv file containing reports for all the files in the database which have not yet been reported"
     print "     -ud          -updates the EDGAR database register .csv file which contains information about all the files that are in the EDGAR detabase"
     print "     -uf          -updates the 10-K files that are contained in the local database"
