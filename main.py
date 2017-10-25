@@ -101,9 +101,13 @@ def extract_args(argv=[]):
                         for line in reader:
                             fargs['comps'] += line
                 print fargs['comps']
+
             elif argv[index] == '-c_item7':
                 fargs['c_item7'] = argv[index + 1]
 
+            elif argv[index] == '-csvfile':
+                fargs['csvrf'] = argv[index + 1].split('/')[-1]
+                fargs['csvwdir'] = (argv[index + 1][:-len(argv[index + 1].split('/')[-1])])[:-1]
         index += 1
 
     return fargs
