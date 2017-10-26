@@ -1,8 +1,9 @@
 
-This is a collection of scripts which perform Edgar 10-K files related operations
-Type the corresponding option for the operation you need to perform
-For help type -h for the full help menu
-For different options type -h -'option', for example: 'python main.py -h -rf' will give instruction on the -rf action
+This is a collection of scripts which perform Edgar 10-K files related operations.
+Type the corresponding option for the operation you need to perform.
+For help type -h for the full help menu.
+For different options type -h -'option', for example: 'python main.py -h -rf' will give instruction on the -rf action.
+
 
 Required libraries/modules:
 
@@ -47,6 +48,7 @@ Genaral arguments are:
     -csvfile      - the path to the csv output file
     -nw           - a list of negative words to be used in case of refined reports
     -comps        - the path to the file containing the list of companies to be processed
+    -c_item7      - True if the words are to be counted only from item 7, False otherwise
     -t            - the type of the report(csv, excel)
     -fy           - first year from which the proceesing starts
     -ly           - last year
@@ -54,7 +56,7 @@ Genaral arguments are:
     -defcat       - specifies if the default categories from "Culture bag og words are to be used"
     -categs       - the file containing the categories
 
-Example actions:
+Example Usage:
 
 On Windows(assuming your python interpreter is intalled in "C:\Python27\python.exe", arguments are given on individual lines):
 
@@ -65,14 +67,18 @@ On Windows(assuming your python interpreter is intalled in "C:\Python27\python.e
         -nw [no,none,not,useless,unless,less,unnecessary] 
         -comps /Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/comps.csv  
         -t csv 
+        -c_item7 True
         -fy 1994 
         -ly 2016 
         -ccount 0 
         -defcat False 
         -categs '/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/Culture type Bag of words.ctg'
     
-    This will make a report for companies on multiple years
+    This will make a report for companies on multiple years only for the item 7 section.
     
     C:\Python27\python.exe rename_database.py database_location
     
     This will rename the comapnies in the database and create an index file 
+
+
+

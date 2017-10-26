@@ -108,6 +108,7 @@ def extract_args(argv=[]):
             elif argv[index] == '-csvfile':
                 fargs['csvrf'] = argv[index + 1].split('/')[-1]
                 fargs['csvwdir'] = (argv[index + 1][:-len(argv[index + 1].split('/')[-1])])[:-1]
+
         index += 1
 
     return fargs

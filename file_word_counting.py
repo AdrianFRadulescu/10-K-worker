@@ -235,7 +235,7 @@ def get_file_year_from_content(file=''):
             year = year.join(filter(lambda ch: ch.isdigit(), line))[:4]
             break
 
-    return year
+    return int(year)
 
 
 def get_company_name(file=''):

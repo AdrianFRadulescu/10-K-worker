@@ -162,11 +162,15 @@ def rawscore_for_words_for_company(**kwargs):
         files = os.listdir(parent_directory+company)
         special_years = [item for item, count in collections.Counter(files).items() if count > 1]
 
+        print "sy = ", special_years
         for file in files:
 
-            if first_year > 0 and get_file_year(file) not in range(first_year,last_year+1) or get_file_year(file) >= 2017:
-                continue
+            print get_file_year_from_content(parent_directory + company + '/' + file)
+            print first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1)
 
+            if first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1):
+                continue
+            print "check passed"
             if 'DS_Store' in file:
                 continue
 
@@ -174,10 +178,17 @@ def rawscore_for_words_for_company(**kwargs):
 
             data = open(parent_directory + company + '/' + file, 'r').read().split('\n')[:50]
 
+            ignore = False
+
             for line in data:
                 if ('CONFORMED SUBMISSION TYPE:' and '/A' in line)\
                         or ('CONFORMED SUBMISSION TYPE:' in line and not any(map(lambda s: s in line, ['10-K', '10-K405', '10-KSB']))):
+                    ignore = True
                     continue
+
+            if ignore:
+                print 'Ignoring {}, file {}, 10-K/A'.format(company, file)
+                continue
 
             # check file size
             if count_words_in_text(beautify_data(read_text_from_file_without_tables(parent_directory + company + '/' + file))) < 2000:
@@ -207,8 +218,11 @@ def rawscore_for_words_for_company(**kwargs):
 
             # get the refined word frequencies from the whole file
             refined_text_word_freqs = get_text_word_frequencies_from_file(directory=parent_directory + company, file=file,
-                                                                  refined=False, remove_range=remove_range,
+                                                                  refined=True, remove_range=remove_range,
                                                                   negative_words=negative_words)
+
+            print "twf = ", text_word_freqs.values()
+            print "i7wf = ", word_freqs.values()
 
             # reinitialise
             categories_raw_scores = set_up_accumulator(categories)
@@ -222,10 +236,10 @@ def rawscore_for_words_for_company(**kwargs):
                         if refined_word_freqs.match(w):
                             categories_raw_scores[cat][w] += sum(list(word_freqs.values(w)))
 
-                for cat in categories_raw_scores:
-                    for w in categories_raw_scores[cat]:
+                for cat in categories_refined_scores:
+                    for w in categories_refined_scores[cat]:
                         if refined_word_freqs.match(w):
-                            categories_raw_scores[cat][w] += sum(list(refined_word_freqs.values(w)))
+                            categories_refined_scores[cat][w] += sum(list(refined_word_freqs.values(w)))
 
             else:
                 # calculate raw and refined scores for the whole text
@@ -234,10 +248,10 @@ def rawscore_for_words_for_company(**kwargs):
                         if refined_word_freqs.match(w):
                             categories_raw_scores[cat][w] += sum(list(text_word_freqs.values(w)))
 
-                for cat in categories_raw_scores:
-                    for w in categories_raw_scores[cat]:
+                for cat in categories_refined_scores:
+                    for w in categories_refined_scores[cat]:
                         if refined_word_freqs.match(w):
-                            categories_raw_scores[cat][w] += sum(list(text_word_freqs.values(w)))
+                            categories_refined_scores[cat][w] += sum(list(refined_text_word_freqs.values(w)))
 
             if report_type == 'excel' and (categories_raw_scores is not None or categories_refined_scores is not None):
 

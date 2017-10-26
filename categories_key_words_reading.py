@@ -17,13 +17,18 @@ def get_categories(file_path='/Users/adrian_radulescu1997/Documents/Uni-Courses/
     categories = {}
     current_category = ''
 
+    comment_tag = False
+
     for line in fr.readlines():
 
-        if '#Category' in line:
+        if '\'\'\'' in line:
+            continue
+
+        if '->Category' in line:
             current_category = re.findall(r'\(.*?\)', line)[0].replace('(', '').replace(')', '')
             categories[current_category] = []
 
-        if '##words' in line:
+        if '-->>words' in line:
                 for word in line.split(':')[1].split(','):
                     categories[current_category] += [word.replace(' ', '', 1).replace('\n', '')]
 
