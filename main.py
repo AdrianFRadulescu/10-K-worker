@@ -5,6 +5,7 @@
 
 import sys
 import csv
+import platform
 
 
 def extract_args(argv=[]):
@@ -119,6 +120,7 @@ def main(argv):
     if argv == []:
         return
     print argv
+    print 'extracting args'
     if argv[0] == '-h':
 
         if len(argv) is 1:
@@ -393,9 +395,11 @@ def main(argv):
 
     else:
 
+        print
+
         if '-r' in argv[0]:
             fargs = extract_args(argv)
-
+            print 'args extracted'
             import company_word_counting
 
             if argv[0] == '-rf' or '-rc' in argv[0]:
@@ -408,6 +412,7 @@ def main(argv):
                     scores = company_word_counting.rawscore_for_words_for_company(**fargs)
                     print scores
                 elif argv[0] == '-rcsy':
+                    print "comp ciks ", fargs['comps']
                     for comp in fargs['comps']:
                         fargs['comp'] = comp
                         print comp
@@ -520,4 +525,7 @@ if __name__ == "__main__":
     print "     -uf          -updates the 10-K files that are contained in the local database"
     print "     -tf          -transfers database content between given locations"
 
-    main(sys.argv[1:])
+    if platform.system() == 'Windows':
+        main(sys.argv[2:])
+    else:
+        main(sys.argv[1:])
