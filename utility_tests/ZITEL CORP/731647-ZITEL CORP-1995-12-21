@@ -1,0 +1,2078 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M+d42MTh0THjbCDvPOEOrZCMAEzUWr12U6W8Xr4w1B59TIUFgWi8qoQmgMl4D6pm
+ +lQIyjEyAgWvIyXEoEyybw==
+
+<SEC-DOCUMENT>0000950005-95-000333.txt : 19960122
+<SEC-HEADER>0000950005-95-000333.hdr.sgml : 19960122
+ACCESSION NUMBER:		0000950005-95-000333
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19950930
+FILED AS OF DATE:		19951221
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZITEL CORP
+		CENTRAL INDEX KEY:			0000731647
+		STANDARD INDUSTRIAL CLASSIFICATION:	3674
+		IRS NUMBER:				942566313
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12194
+		FILM NUMBER:		95603319
+
+	BUSINESS ADDRESS:	
+		STREET 1:		47211 BAYSIDE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538-6517
+		BUSINESS PHONE:		5104409600
+
+	MAIL ADDRESS:	
+		STREET 1:		47211 BAYSIDE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+
+
+                                    FORM 10-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+     (X)  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+          SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED)
+
+                  For the fiscal year ended September 30, 1995
+
+                                       OR
+
+     ( )  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+
+                           Commission File No. 0-12194
+
+                                ZITEL CORPORATION
+             (Exact name of Registrant as specified in its charter)
+     
+                   CALIFORNIA                          94-2566313
+         (State or other jurisdiction of             (IRS Employer
+          incorporation or organization)          Identification No.)
+
+     47211 Bayside Parkway, Fremont, California        94538-6517
+      (Address of principal executive offices)         (Zip Code)
+
+                                 (510) 440-9600
+              (Registrant's telephone number, including area code)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+                                      None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                           Common Stock, no par value
+                                (Title of Class)
+
+Indicate by check mark whether the Registrant (1) has filed reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or such shorter period that the Registrant was required
+to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. Yes   X     No      .
+                      -----      -----
+
+The aggregate market value of the Registrant's Common Stock held by
+nonaffiliates on November 30, 1995 (based upon the closing sale price of stock
+on such date) was $80,993,560. As of November 30, 1995, 7,297,187 of the
+Registrant's Common Stock were outstanding.
+
+<PAGE>
+                             PART I
+
+Item 1:  BUSINESS
+
+                            Business
+
+Zitel Corporation ("Zitel" or the "Company") specializes in the design,
+manufacture and marketing of high-performance, mission-critical storage
+subsystems for relational database, batch and on-line transaction processing.
+The Company also develops and markets single-nodal and multi-nodal performance
+management and simulation software used on a variety of UNIX and proprietary
+platforms to manage performance of LANs, MANs, WANs, and processor environments.
+Its primary products include CASD (Cached Actuator Storage Device) subsystems
+for Unisys A and V mainframes; SCP (Storage Co-Processor), products based on
+CASD technology for UNIX, NT, Open VMS and NETWARE based systems; and
+performance and modeling software products. These products are offered through
+systems integrators, value-added resellers (VARs) and distributors, OEMs
+(original equipment manufacturers), and directly to end users. The Company
+conducts its business within one industry segment.
+
+Zitel was organized in 1979 to provide semiconductor memory systems to OEM
+customers. The Company's first end user product was the solid state RAMdisk sold
+to users of Unisys Corporation mainframe computer systems. The Company then
+introduced its line of rotating memory systems incorporating its CASD
+technology, enhanced with caching solid state memory and proprietary algorithms,
+also for Unisys computer systems. In 1995, the Company announced the
+availability of the CASD products for the open systems/relational database
+market. In late fiscal 1995, the second generation of CASD (CASD-II) was
+announced for general availability into the Unisys market. CASD-II for the open
+systems/relational database markets were announced in December 1995. The Company
+operates with little backlog, so most of its orders are shipped in the quarter
+received.
+
+Three years ago, the Company entered into a joint development agreement with
+International Business Machines (IBM) Corporation. In September and October of
+1994, IBM announced general availability of RAMAC products, which incorporate
+Zitel technology, and upon which the Company is receiving royalties as RAMAC
+products are sold. In October 1995, IBM announced the general availability of
+RAMAC 2, its second generation of RAMAC which continues to include Zitel
+technology and upon which Zitel will receive royalties as RAMAC products are
+sold.
+
+                                     Page 2
+<PAGE>
+
+The Company has historically, during certain quarters, made material sales to a
+single customer which have had significant impact on net sales and on operating
+margins. Operating margins can also fluctuate from quarter to quarter due to
+product mix and other cost of sales, which do not vary directly with sales
+volume. As a result of these and other factors, the Company has experienced
+fluctuations in its quarterly operating results in the past and anticipates such
+fluctuations in the future.
+
+                    Research and Development and New Products
+
+During fiscal 1995, the Company invested in a number of development programs
+including CASD-II, the next generation of rotating memory systems incorporating
+its CASD technology; other CASD and SCSI programs; and the development of
+NetArchitect, a software package for client/server network design and
+simulation. Expenditures for research and development activities were
+approximately $5,754,000, $7,071,000 and $8,420,000 in fiscal 1995, 1994 and
+1993, respectively.
+
+The computer industry, in general, and the markets for the Company's products,
+in particular, are subject to extreme price competition, rapid technological
+change and evolving standards, resulting in relatively short product life cycles
+and continuous erosion of average selling prices. As a result, the Company must
+continually enhance its existing products and develop and introduce new products
+in an effort to maintain and increase net sales. The Company has experienced
+delays in completing the development of new products and may well encounter
+difficulties that could delay the products currently under development. There
+can be no assurance that the Company will be successful in its enhancement and
+development efforts or in achieving market acceptance of products developed.
+
+                                    Products
+
+The Company offers a family of rotating memory systems utilizing the CASD
+technology for use with Unisys A/V mainframe computers and with most UNIX, NT,
+Open VMS and NETWARE server platforms.
+
+The first generation of CASD products, introduced in 1991, integrates a
+high-capacity solid state cache with a single rotating disk drive and utilizes
+interactive caching algorithms. Modules utilizing the CASD technology are
+available in cache sizes ranging from 4 to 256 megabytes and with single
+rotating disks with capacities from 674 megabytes to 4 gigabytes,
+
+                                     Page 3
+<PAGE>
+
+depending on the market the products are sold into. These modules can be sold on
+an individual module basis or are available in cabinet configurations ranging
+from one to twenty modules. Pricing for a single module ranges from
+approximately $6,000 to $28,000. Subsystems incorporating CASD technology are
+available in prices from $12,000 to $568,000, depending on the number of modules
+utilized, the amount of cache utilized, optional equipment, and other factors.
+
+CASD-II, the second generation of CASD products, was introduced in September,
+1995. These products integrate a high-capacity solid state cache with multiple
+rotating disk drives and utilize interactive caching algorithms. Modules
+utilizing the technology are available with cache sizes ranging from 64 to 256
+megabytes and with one to four disk drives with capacities from 4.3 to 17.2
+gigabytes, depending on the market the products are sold into. These modules can
+be sold on an individual module basis or are available in cabinet configurations
+ranging from one to six modules and up to 103 gigabytes per cabinet. Pricing for
+a single module ranges from approximately $30,000 to $60,000. Subsystems
+incorporating CASD technology are available in prices from $30,000 to $350,000,
+depending on the number of modules utilized, the amount of cache utilized,
+optional equipment, and other factors.
+
+Performance and Modeling, Inc., Zitel's wholly-owned subsidiary, has designed
+and developed VAM/Perspective Capacity Planner and NetArchitect software
+products.
+
+VAM/Perspective Capacity Planner has unique features which provide Information
+Technology managers with the ability to architect and evaluate a client/server
+environment and to test for performance bottlenecks before installing expensive
+equipment. VAM/Perspective measures and simulates performance of UNIX, IBM MVS,
+Digital VMS, Unisys proprietary, and a wide variety of open systems platforms.
+This software tool aids system administrators to anticipate, track and correct
+system performance bottlenecks and I/O problems.
+
+NetArchitect is Performance and Modeling's latest sophisticated network modeling
+tool that has an intuitive, easy-to-use, Windows- based Graphical User
+Interface. This package is designed for the Network Administrator who has the
+responsibility of designing and installing a new network, or maintaining and
+expanding existing structures. As network requirements become increasingly more
+complex, computer-aided tools will be mandatory to sort through and evaluate the
+many issues and possibilities
+
+                                     Page 4
+<PAGE>
+
+prior to the investment and installation of significant amounts of capital
+equipment. With these capabilities in mind, NetArchitect also has practical
+applications as a pre-sales tool for systems integrators, VARs, and other
+channels selling or consulting on network management. NetArchitect runs under
+Windows 3.X, Windows 95 and Windows NT.
+
+Zitel offered a family of performance enhancing semiconductor memory systems
+(RAMdisk and Primary Storage Systems) to end users of Unisys medium and large
+mainframe computers for several years. These products are reaching the end of
+their life. The price for a single subsystem ranges from approximately $35,000
+to $450,000, depending on memory capacity and optional equipment.
+
+The Company sold two HIPPI interface board products and introduced a new
+HIPPI-VME Intelligent Interface Board during the year. The price of a HIPPI
+board ranges from $7,000 to $13,000. This business segment was sold during 1995.
+
+                             Marketing and Customers
+
+Zitel offers its products through system integrators, value-added resellers and
+distributors, OEMs, and directly to end users. Zitel's direct sales and service
+staff consists of employees who operate from California, Kansas, Massachusetts,
+Tennessee, Virginia, and Europe.
+
+In fiscal 1995, Lockheed Martin Missiles and Space Company accounted for 14.3%
+of net sales. In fiscal 1994, Unisys Mexico accounted for 14.5% of net sales. In
+fiscal 1993, Unisys Mexico accounted for 11.3% of net sales.
+
+During fiscal 1995, Zitel sold to approximately 140 customers including both
+domestic and international. Foreign and export sales were approximately $3.1
+million in fiscal 1995, down from approximately $4.9 million in fiscal 1994.
+
+Zitel does not maintain a field service organization. Typically, customers
+contract with a third party to maintain products. The end-user organization is
+staffed with experienced technical support personnel to make or assist in the
+initial installations; assist the service organization with problem resolution
+and field upgrades; assist customers in determining whether or not Zitel
+products can improve system reliability, performance and cost effectiveness; and
+in helping customers determine how best to deploy Zitel products in their system
+to achieve the maximum benefit.
+
+                                     Page 5
+<PAGE>
+                                   Competition
+
+During fiscal 1995, the Company generated a majority of its net sales in the
+Unisys end user market. Unisys Corporation offers alternative products by which
+a computer user can achieve enhanced performance. Zitel products compete against
+these alternatives in providing the customer with the best performance solution.
+Zitel also competes with other independent manufacturers of Winchester disk
+and/or solid state disk devices in the Unisys market and several system
+integrators. During fiscal 1995, competition remained at a high level and
+average sales prices continued to decline.
+
+Depending on the other markets served, the Company may compete with the computer
+manufacturer and/or third party companies or with a customer's in-house
+engineering department and/or third party manufacturers.
+
+                                     Patents
+
+Management believes that technical expertise, responsiveness to user
+requirements and implementation of technological advances are mandatory factors
+in Zitel's markets. Zitel applied for additional patent protection on certain
+elements of its CASD products, VAM software products and other products in the
+development stage. During the year, the Company received three patents on its
+CASD technology, VAM technology and other products in the development stage,
+bringing the total patents currently held to four. There can be no assurance
+that any of the other patents applied for will be issued or, if issued, provide
+any meaningful protection.
+
+                           Manufacturing and Suppliers
+
+Zitel manufactures a large percentage of its hardware products from standard
+component parts and subassemblies purchased from others. Certain of these parts,
+including printed circuit boards and subassemblies, are produced from Zitel's
+design and to its specifications. Use of such standard items simplifies the
+manufacturing process, reduces the number of items carried in inventory and
+permits Zitel to expand its product line while minimizing the expense of
+designing and developing new assemblies.
+
+The Company utilizes various subcontractors to assemble and solder printed
+circuit boards using material purchased by the Company or to produce surface
+mount ASICs to Zitel's workmanship
+
+                                     Page 6
+<PAGE>
+
+standards. Completed assemblies are then inspected by Zitel's receiving
+inspection department and submitted to its manufacturing test operation. This
+test operation provides board- level and system-level testing under stressed
+operating conditions.
+
+The Company's hardware products use a large number of semiconductor memory
+devices and, as a volume user, the Company has historically been able to
+purchase these devices at favorable prices. Most of the other components used in
+products are available from several sources and the Company believes that the
+loss of one or more of its suppliers will not have a material effect on
+operations.
+
+                                    Employees
+
+At the end of fiscal 1995, the Company employed 92 persons on a full time basis,
+32 in research and development, 13 in manufacturing, 26 in sales and marketing,
+and 21 in general management and administration.
+
+The Company believes that its further success will depend, in part, on its
+ability to attract and retain qualified employees, who are in great demand. None
+of Zitel's employees are represented by a labor union and the Company believes
+that its employee relations are good.
+
+Item 2:  PROPERTIES
+
+Zitel leases its primary manufacturing and office facility under a
+non-cancelable operating lease, which expires in March 1998, with an average
+annual rent of approximately $502,000 per annum.
+
+Item 3:  LEGAL PROCEEDINGS
+
+         None.
+
+Item 4:  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+The Company did not submit any matters to a vote of security holders during the
+fourth quarter of the fiscal year ended September 30, 1995.
+
+Executive Officers of the Registrant
+
+Set forth below is information regarding executive officers of the Company who
+are not directors.
+
+                                     Page 7
+<PAGE>
+
+     Name              Age            Position
+Richard F. Harapat     60       Vice President, Sales
+Henry C. Harris        47       Vice President, Finance and
+                                  Administration; Chief Financial
+                                  Officer; Chief Accounting Officer;
+                                  Secretary
+Donald F. Olker        60       Vice President, Manufacturing
+Frank J. Vukmanic      49       Vice President, Marketing
+
+Richard F. Harapat joined Zitel as Director of International Sales in March of
+1986. In October of 1987, he was promoted to Vice President of End User Sales
+and, in mid-1992, to Vice President of Sales, his current position. Prior to
+joining Zitel, he spent over 30 years in the computer industry in the sales
+management area, 15 of which were with Burroughs Corporation.
+
+Henry C. Harris, CPA, joined Zitel as Vice President of Finance and
+Administration, Chief Financial Officer and Chief Accounting Officer in December
+1986. He has served as Secretary of the Company since November 1987. Prior to
+joining Zitel, he was employed by Dynamic Disk, Inc. as Vice President of
+Finance and Administration and Chief Financial Officer from October 1983 until
+November 1986. Prior to Dynamic Disk, he spent over 10 years in financial
+management and public accounting positions.
+
+Effective September 1995, Donald F. Olker retired and resigned as an officer of
+the Company. Mr. Olker served as Vice President of Manufacturing since October
+1994 and Vice President of Business Development & Special Programs since
+November 1986. Mr. Olker also held the position of Executive Vice President of
+CHI Systems, Inc., a wholly-owned subsidiary of Zitel. He joined Zitel as
+Director of Marketing in March 1983 and held the position of Vice President of
+Sales from January 1984 to November 1986. Prior to joining Zitel, he was
+employed in various managerial positions in marketing at Intel Corporation from
+1979 to 1983.
+
+Frank J. Vukmanic has served as Vice President of Marketing since joining Zitel
+in June 1994. Prior to joining Zitel, Mr. Vukmanic was CEO of Edgetech
+International, a consulting firm, from October 1993 until joining Zitel. From
+June 1989 to September 1993, Mr. Vukmanic was Sr. Vice President of Amperif
+Corporation responsible for worldwide sales, marketing, customer support, and
+customer engineering for mass storage products. For 19 years prior to joining
+Amperif, Mr. Vukmanic held various sales and
+
+                                     Page 8
+<PAGE>
+
+marketing management positions with Unisys Corporation. His experience includes
+over 25 years in sales, marketing, product management, customer service and
+support management, and program management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - -----------------------------
+Zitel, CASD and RAMdisk are registered trademarks of Zitel Corporation.
+NetArchitect, Primary Storage Systems, SCP, and VAM are trademarks of Zitel
+Corporation. 
+All other product names and brand names are trademarks or registered trademarks
+of their respective owners.
+
+
+                                     Page 9
+<PAGE>
+                                     PART II
+
+Item 5:  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+         STOCKHOLDER MATTERS
+
+Zitel's Common Stock is traded in the NASDAQ National Market System under the
+symbol "ZITL". The following table sets forth the closing sales prices as
+reported by the National Association of Securities Dealers.
+
+           FISCAL              1995                 1994
+                       -------------------   ---------------
+                         High        Low       High     Low
+                       --------   --------   -------   -----
+     First Quarter     13 11/16    7 1/8     4 13/16   3
+     Second Quarter    20 3/4     10 11/16   3 7/8     2 1/4
+     Third Quarter     13          8 1/8     5         1 7/8
+     Fourth Quarter    13 5/8      9 1/4     8 7/8     4
+
+As of September 30, 1995, the Registrant had approximately 243 shareholders of
+record of its Common Stock.
+
+Zitel has never paid cash dividends and the Board of Directors does not
+anticipate declaring cash dividends in the foreseeable future.
+
+Item 6:  SELECTED FINANCIAL DATA
+
+Five-Year Financial Summary
+(In thousands except per share data)
+
+                                   1995     1994      1993      1992     1991
+
+Total Revenue                    $23,714  $17,452   $21,780   $47,771  $48,347
+  Net income (loss)                8,526   (6,961)   (8,277)      783    3,265
+
+Net income (loss) per share         1.12    (1.10)    (1.34)      .12      .53
+Number of shares used in
+  per share calculation            7,583    6,327     6,179     6,555    6,183
+
+At year end:
+Working capital                   19,969    7,202    15,668    18,374   18,464
+Total assets                      26,206   13,678    24,230    32,442   28,306
+Long-term liabilities                  -       13     4,355       305    1,153
+Shareholders' equity              22,957   10,004    16,203    23,802   22,033
+
+
+
+                                     Page 10
+<PAGE>
+
+Item 7:  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with the five-year
+summary of selected financial data and the Company's consolidated financial
+statements and notes thereto.
+
+Business
+
+Zitel Corporation (the "Company" ) specializes in the design, manufacture and
+marketing of high-performance, mission-critical storage subsystems for
+relational database, batch and on-line transaction processing. The Company also
+develops and markets single-nodal and multi-nodal performance management and
+simulation software used on a variety of UNIX and proprietary platforms to
+manage performance of LANs, MANs, WANs, and processor environments. These
+products are marketed worldwide through a wide variety of channels including
+systems integrators, value-added resellers and distributors, OEMs, and directly
+to end users.
+
+1995 vs. 1994
+
+Total revenue for 1995 was $23,714,000 compared with revenues of $17,452,000 in
+the prior year, an increase of 36%. The increase in revenue is attributable to
+an increase of $8,743,000 in royalties ($15,421,000 in 1995 versus $6,678,000 in
+1994), partially offset by a decrease of $2,481,000 in net sales ($8,293,000 in
+1995 versus $10,774,000 in 1994). Royalties based on a third party's sales of
+products incorporating the Company's technology were received for the entire
+1995 fiscal year.
+
+In 1994, royalties represented a one-time non-refundable prepayment of
+$6,378,000 from this third party and $300,000 from product sales in the fourth
+quarter of the fiscal year. In October 1995, the third party announced general
+availability of and commenced shipments of a second generation product
+incorporating the Company's technology and management expects significant
+continuing royalties in fiscal 1996.
+
+The decrease in net sales has continued to impact operational profitability
+excluding royalty revenue. The decrease in net sales is primarily attributable
+to competitive factors in the data storage market which have made the Company's
+original generation of CASD products to be less cost effective solutions for
+end-users of Unisys Corporation computer systems. A new generation of CASD
+products for the Unisys market was announced
+
+                                     Page 11
+<PAGE>
+
+for general availability in early October 1995. Initial response to this market
+has been very positive. Additionally, a new generation of CASD products for the
+open systems market is expected to be released during the first quarter of
+fiscal 1996. The new generation of CASD products is priced competitively while
+providing CASD's embedded intelligence based performance. Management is
+cautiously optimistic that these new products will generate increased net sales
+in fiscal 1996.
+
+Cost of goods sold as a percentage of net sales decreased to 82% during 1995
+from 90% of net sales in the prior year. The improvement in gross margin is
+primarily attributable to a decrease in other cost of sales which do not vary
+directly with sales volume.
+
+Research and development expenses were 24% of total revenue versus 41% of total
+revenue in the prior year. Spending decreased $1,317,000, primarily attributable
+to decreased development spending as a result of the completion of a major
+development program, and lower salary and related costs in connection with a
+reduction in personnel.
+
+Selling, general and administrative expenses were 29% of total revenue versus
+43% of total revenue in the prior year. Actual spending decreased $586,000. The
+decrease is primarily attributable to the reversal of a bad debt reserve for an
+expected collection of a receivable ($350,000).
+
+Interest expense in fiscal 1995 was $57,000 versus $310,000 in the prior year.
+The decrease is primarily attributable to lower levels of debt in fiscal 1995
+versus 1994. Interest income in fiscal 1995 was $399,000 versus $174,000 in
+1994. The increase is primarily related to higher cash balances invested in
+fiscal 1995 versus 1994.
+
+In 1995, the Company recorded a tax provision of 33.2% of income before income
+taxes. This provision was offset by the utilization of net operating losses and
+the recognition of deferred tax assets in accordance with SFAS No. 109,
+Accounting for Income Taxes, totaling $5,500,000.
+
+1994 vs. 1993
+
+Total revenue was $17,452,000, down 20% from the prior year revenues of
+$21,780,000. Included in the current year revenue was the receipt of $6,678,000
+of royalty resulting from a joint development agreement with a third party,
+$6,378,000 of prepaid
+
+                                     Page 12
+<PAGE>
+
+non-refundable royalties and $300,000 based on initial shipment of products in
+late September. Net sales were $10,774,000, down 51% from the prior year net
+sales of $21,780,000. The Company experienced a significant decline in demand
+for both the solid state and rotating memory products. During the year, average
+sales prices of solid state and rotating memory products in the Unisys market
+declined 43% and 63%, respectively.
+
+Cost of goods sold as a percentage of net sales increased to 90% during the year
+from 55% of net sales in the prior year. Cost of goods sold increased primarily
+as a result of reduced average selling prices and the increase in other cost of
+sales which do not vary with sales volume.
+
+Research and development expenses were 41% of revenue versus 39% of revenue in
+the prior year. Actual spending, however, decreased $1,349,000 during the year
+due to a reduction in payroll and related costs.
+
+Selling, general and administrative expenses were 43% of revenue compared to 51%
+of revenue in the prior year. Actual spending decreased $3,618,000. Spending
+declined due to a reduction of staff and their related costs ($2,100,000).
+Additionally, there was decreased spending in travel and entertainment
+($380,000), facility relocation ($350,000), facility expense ($320,000), and
+professional services ($330,000).
+
+Interest expense in 1994 was $310,000 versus $178,000 in the prior year. The
+increase is primarily related to the increase in debt during the year versus the
+prior year. Interest income received in 1994 was $174,000 compared to $183,000
+in 1993.
+
+Other expense for 1994 was immaterial, but was $425,000 in 1993, which included
+losses on the conversion of foreign currencies and hedging transactions of
+$453,000.
+
+Liquidity and Capital Resources
+
+The Company's principal sources of working capital are product sales and royalty
+revenue. Working capital increased $12,767,000 during fiscal 1995 and cash flows
+provided by operations were $7,573,000. Cash flows from operating activities
+were generated primarily from net income of $8,526,000, a decrease in inventory
+of $1,825,000 and depreciation and amortization of $1,384,000. This was offset
+by an increase in deferred and refundable taxes of $4,104,000. $1,668,000 was
+used to purchase capital equipment and other assets in the current year. Net
+cash provided by
+
+                                     Page 13
+<PAGE>
+
+financing activities in the current year was $4,350,000. $2,922,000 was
+generated from the issuance of 450,000 shares of common stock in a private
+placement and $1,492,000 from the exercise of employee stock options and from
+the sale of stock under the Company's employee stock purchase plan. The Company
+also utilized a line of credit which terminated on September 30, 1995, borrowing
+and repaying $3,646,000 during the year. Subsequent to year end, the Company
+negotiated a $3,000,000 revolving accounts receivable line of credit with terms
+substantially more favorable to the Company.
+
+Management believes that the Company will meet its cash requirements from
+current cash on hand, other existing working capital, cash flows from
+operations, and the utilization of the line of credit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 14
+
+<PAGE>
+
+Item 8:  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Balance Sheets 
+(In thousands)
+
+                                                            September 30,
+                                                          1995          1994
+Assets
+Current assets:
+  Cash and cash equivalents                            $ 11,265       $  1,010
+  Accounts receivable, less allowance for doubtful
+    accounts of $88 in 1995 and $496 in 1994              4,200          3,785
+  Inventories                                             2,987          4,988
+  Deferred and refundable taxes                           4,348            244
+  Other current assets                                      418            836
+                                                       --------       --------
+    Total current assets                                 23,218         10,863
+
+Fixed assets-net                                          1,419          1,616
+Other assets-net                                          1,569          1,199
+                                                       --------       --------
+  Total assets                                         $ 26,206       $ 13,678
+                                                       ========       ========
+
+Liabilities And Shareholders' Equity
+Current liabilities:
+  Current portion of long-term debt                    $     13       $     77
+  Accounts payable                                        1,725          2,023
+  Accrued liabilities                                     1,511          1,561
+                                                       --------       --------
+    Total current liabilities                             3,249          3,661
+
+Long-term debt                                                -             13
+                                                       --------       --------
+  Total liabilities                                       3,249          3,674
+
+Commitments (See note)
+
+Shareholders' equity:
+  Preferred stock, no par value; 1,000 shares
+    authorized, none issued
+  Common stock, no par value; 10,000 shares authorized:
+    Issued and outstanding; 7,276 and 6,485 shares
+    at September 30, 1995 and 1994, respectively         19,916         15,489
+  Retained earnings (deficit)                             3,041         (5,485)
+                                                       --------       --------
+    Total shareholders' equity                           22,957         10,004
+                                                       --------       --------
+  Total liabilities and shareholders' equity           $ 26,206       $ 13,678
+                                                       ========       ========
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+                                     Page 15
+<PAGE>
+
+Consolidated Statements of Operations
+(In thousands except per share data)
+                                                      Year Ended September 30,
+                                                  1995        1994        1993
+
+Net sales                                      $  8,293    $ 10,774    $ 21,780
+Royalty revenue                                  15,421       6,678           -
+                                               --------    --------    --------
+  Total revenue                                  23,714      17,452      21,780
+Costs and expenses:
+  Cost of goods sold                              6,807       9,682      12,079
+  Research and development                        5,754       7,071       8,420
+  Selling, general and administrative             6,944       7,530      11,148
+                                               --------    --------    --------
+    Operating income (loss)                       4,209      (6,831)     (9,867)
+
+Interest and other expense                          156         419         603
+Interest and other income                          (418)       (289)       (183)
+                                               --------    --------    --------
+    Income (loss) before income taxes             4,471      (6,961)    (10,287)
+
+Provision (benefit) for income taxes             (4,055)          -      (2,010)
+                                               --------    --------    --------
+    Net income (loss)                          $  8,526    $ (6,961)   $ (8,277)
+                                               ========    ========    ========
+Net income (loss) per share                    $   1.12    $  (1.10)   $  (1.34)
+                                               ========    ========    ========
+Number of shares used in per share 
+   calculation                                    7,583       6,327       6,179
+                                               ========    ========    ========
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+
+
+
+                                     Page 16
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Consolidated Statements of Shareholders' Equity
+(In thousands except per share data)
+                                                    Common    Common    Retained        Total
+                                                     Stock     Stock    Earnings Shareholders'
+                                                    Shares    Amount   (Deficit)       Equity
+
+<S>                                                  <C>     <C>        <C>          <C>
+
+Balances at September 30, 1992                       6,101   $ 14,049   $  9,753     $ 23,802
+
+Issuance of common stock:
+  Stock options exercised ($1.50-$5.38
+    per share)                                          52        262          -          262
+  Employee stock purchase plan ($4.46 and $6.48
+    per share)                                          80        416          -          416
+Net loss                                                 -          -     (8,277)      (8,277)
+                                                     -----   --------   --------     --------
+Balances at September 30, 1993                       6,233     14,727      1,476       16,203
+
+Issuance of common stock:
+  Stock options exercised ($0.67-$7.63
+    per share)                                         154        504          -          504
+  Employee stock purchase plan ($2.13 and $3.29
+    per share)                                          98        258          -          258
+Net loss                                                 -          -     (6,961)      (6,961)
+                                                     -----   --------   --------     --------
+Balances at September 30, 1994                       6,485     15,489     (5,485)      10,004
+
+Issuance of common stock:
+  Stock options exercised ($0.67-$9.13
+    per share)                                         272      1,262          -        1,262
+  Employee stock purchase plan ($2.13 and $7.65
+    per share)                                          67        230          -          230
+  Private placement                                    450      2,922          -        2,922
+  Stock warrants                                         2         13          -           13
+Net income                                               -          -      8,526        8,526
+                                                     -----   --------   --------     --------
+Balances at September 30, 1995                       7,276   $ 19,916   $  3,041     $ 22,957
+                                                     =====   ========   ========     ========
+<FN>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+</FN>
+</TABLE>
+
+
+                                     Page 17
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Consolidated Statements of Cash Flows
+(In thousands)
+                                                              Year Ended September 30,
+                                                             1995      1994       1993
+
+<S>                                                        <C>       <C>        <C>
+Cash flows provided by (used in) operating activities:
+
+Net income (loss)                                          $ 8,526   $(6,961)   $(8,277)
+  Adjustments to reconcile net income (loss) to
+    net cash provided by (used in) operating activities:
+  Depreciation and amortization                              1,384     2,495      2,466
+  Loss on disposal of fixed assets                             111       212          -
+  Provision for doubtful accounts                              114       237        150
+  Provision for inventory allowances                           176       233        148
+  Deferred and refundable income taxes                      (4,104)    1,412        350
+  Decrease (increase) in accounts receivable                  (529)      213      7,318
+  Decrease (increase) in inventories                         1,825     3,276     (1,811)
+  Decrease (increase) in other current assets                  418       722       (911)
+  Increase (decrease) in accounts payable                     (298)      755     (2,068)
+  Increase (decrease) in accrued liabilities                   (50)      226     (2,327)
+  Decrease in income taxes payable                               -         -     (2,350)
+  Increase (decrease) in other long-term liabilities             -      (113)       113
+  Royalty revenues utilized to retire note payable               -    (5,000)         -
+                                                           -------   -------    -------
+    Net cash provided by (used in) operating activities      7,573    (2,293)    (7,199)
+                                                           -------   -------    -------
+Cash flows used in investing activities:
+  Acquisition of fixed assets                               (1,222)     (566)    (1,569)
+  Reduction (purchase) of other assets                        (446)      (66)       155
+                                                           -------   -------    -------
+    Net cash used in investing activities                   (1,668)     (632)    (1,414)
+                                                           -------   -------    -------
+Cash flows provided by (used in) Financing activities:
+  Issuance of common stock                                   4,427       762        678
+  Proceeds from borrowings                                   3,646         -      6,600
+  Repayments of borrowings                                  (3,723)     (221)    (2,338)
+                                                           -------   -------    -------
+    Net cash provided by financing activities                4,350       541      4,940
+                                                           -------   -------    -------
+Net increase (decrease) in cash                             10,255    (2,384)    (3,673)
+Cash and cash equivalents, beginning of year                 1,010     3,394      7,067
+                                                           -------   -------    -------
+Cash and cash equivalents, end of year                     $11,265   $ 1,010    $ 3,394
+                                                           =======   =======    =======
+<FN>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+</FN>
+</TABLE>
+
+
+                                     Page 18
+<PAGE>
+
+Notes to Consolidated Financial Statements
+(In thousands except per share data)
+
+Summary of Significant Accounting Policies:
+
+Zitel Corporation specializes in the design, manufacture and marketing of
+high-performance, mission-critical storage subsystems for relational database,
+batch and on-line transaction processing. The Company also develops and markets
+single-nodal and multi-nodal performance management and simulation software used
+on a variety of UNIX and proprietary platforms to manage performance of LANs,
+MANs, WANs, and processor environments. These products are marketed worldwide
+through a wide variety of channels including systems integrators, value-added
+resellers and distributors, OEMs, and directly to end users. Zitel conducts its
+business within one industry segment. The following is a summary of Zitel's
+significant accounting policies:
+
+Principles of Consolidation:
+
+The consolidated financial statements include the accounts of Zitel Corporation
+and its wholly-owned subsidiaries. All significant intercompany accounts and
+transactions have been eliminated.
+
+Cash Equivalents:
+
+For purposes of the statements of cash flows, the Company considers all highly
+liquid debt instruments purchased with a maturity of three months or less to be
+cash equivalents.
+
+Inventories:
+
+Inventories are stated at the lower of cost (determined on a first-in, first-out
+basis) or market.
+
+Fixed Assets:
+
+Fixed assets, other than leasehold improvements, are depreciated on a
+straight-line basis over their estimated useful lives (2-7 years). Leasehold
+improvements are amortized over the lesser of their useful life or remaining
+term of the related lease. When assets are disposed of, the cost and related
+accumulated depreciation are removed from the accounts and the resulting gains
+and losses are included in the results of operations.
+
+
+
+                                     Page 19
+<PAGE>
+
+Revenue Recognition:
+
+Revenue is recognized at the time products are shipped to customers and at the
+time services are rendered. Royalty revenue is recognized when earned and
+receipt is assured.
+
+Research and Development Expenditures:
+
+Research and development expenditures are charged to operations as incurred.
+
+Foreign Currency Translation:
+
+The U.S. dollar is considered to be the functional currency for the Company's
+foreign operations. Accordingly, non-monetary assets and liabilities have been
+translated into U.S. dollars at a historical rate; monetary assets and
+liabilities have been translated into U.S. dollars using the exchange rate at
+the balance sheet date; and revenues and expenses have been generally translated
+into U.S. dollars at the weighted average exchange rate during the period.
+Foreign currency transaction gains and losses, as well as the effects of
+translation (which have not been material in the aggregate), are included in the
+accompanying statements of operations.
+
+Income Taxes:
+
+As of October 1, 1993, the Company adopted Statement of Financial
+Accounting Standards No. 109 ("SFAS No. 109"), Accounting for Income Taxes.
+Accordingly, the Company has changed its method of accounting for income taxes
+from the deferred method used in prior years (APB Opinion No. 11) to the method
+proscribed by SFAS No. 109. Under SFAS No. 109, deferred income taxes are
+recognized for the tax consequences that will occur in future years because of
+differences between the tax basis of assets and liabilities and the basis of
+such assets and liabilities for accounting purposes. Since the adoption is on a
+prospective basis, the prior year's financial statements have not been restated.
+The cumulative effect of adoption of SFAS No. 109 was not material for the
+Company's results of operations or financial position for the year ended
+September 30, 1994.
+
+Recent Accounting Pronouncement:
+
+During October 1995, the Financial Accounting Standards Board issued Statement
+No. 123 (SFAS No. 123), "Accounting for Stock- Based Compensation," which
+establishes a fair value based method
+
+                                     Page 20
+
+<PAGE>
+
+of accounting for stock-based compensation plans. The Company is currently
+following the requirements of APB Opinion No. 25, "Accounting for Stock Issued
+to Employees." The Company plans to adopt SFAS No. 123 during 1996 utilizing the
+disclosure alternative.
+
+Net Income (Loss) Per Share:
+
+Net income (loss) per share amounts are computed by dividing the net income
+(loss) by the weighted average number of common shares and common equivalent
+(when dilutive) shares outstanding during each year presented using the treasury
+stock method.
+
+Concentrations of Credit Risk:
+
+Financial instruments which potentially subject the Company to concentrations of
+credit risk consist principally of cash and trade receivables. The Company
+places its cash investments with high credit quality financial institutions and
+limits the amount of exposure to any one financial institution. Concentrations
+of credit risk with respect to trade receivables are limited due to the
+diversity of the Company's customers both geographically and within different
+industry segments.
+
+                                       Year Ended September 30,
+                                         1995    1994    1993
+
+Supplemental Cash Flow Information:
+Cash paid during the period for:
+  Interest                               $ 57    $310    $178
+  Income taxes                            136      19      35
+
+Non-cash investing and financing activities:
+
+There were no capital lease obligations incurred for the years ended September
+30, 1995 and 1994. Capital lease obligations of $209 thousand were incurred when
+the Company entered into leases for office furniture, engineering equipment and
+manufacturing equipment in the year ended September 30, 1993.
+
+
+
+
+
+                             Page 21
+<PAGE>
+                                                 September 30,
+                                                1995         1994
+Inventories:
+  Raw materials                              $    734    $  2,074
+  Work in progress                                733         751
+  Finished goods                                1,520       2,163
+                                             --------    --------
+                                             $  2,987    $  4,988
+                                             ========    ========
+
+Fixed Assets:
+  Manufacturing equipment                    $  3,504    $  4,200
+  Office furniture and equipment                2,197       2,395
+  Engineering equipment                         4,462       5,043
+  Leasehold improvements                          638         600
+                                             --------    --------
+                                               10,801      12,238
+
+  Less accumulated depreciation
+     and amortization                          (9,382)    (10,622)
+                                             --------    --------
+                                             $  1,419    $  1,616
+                                             ========    ========
+
+At September 30, 1995, office furniture, engineering equipment and manufacturing
+equipment included assets acquired under capital leases of $333 thousand, $360
+thousand and $172 thousand, respectively, less related accumulated amortization
+of $333 thousand, $360 thousand and $172 thousand, respectively. At September
+30, 1994, office furniture, engineering equipment and manufacturing equipment
+included assets acquired under capital leases of $333 thousand, $1,516 thousand
+and $172 thousand, respectively, less related accumulated amortization of $330
+thousand, $1,358 thousand and $172 thousand, respectively.
+
+                                                   September 30,
+                                                 1995        1994
+
+Other Assets:
+  Investment in unconsolidated company         $ 1,000     $ 1,000
+  Other                                            885         557
+                                               -------     -------
+                                                 1,885       1,557
+
+  Less accumulated amortization                   (316)       (358)
+                                               -------     -------
+                                               $ 1,569     $ 1,199
+                                               =======     =======
+
+                                     Page 22
+<PAGE>
+
+The investment in unconsolidated company is recorded under the cost method.
+
+                                                   September 30,
+                                                  1995        1994
+
+Accrued Liabilities:
+  Accrued payroll and related                   $   637     $   438
+  Accrued vacation                                  526         576
+  Accrued commissions                                24          37
+  Other accrued liabilities                         324         510
+                                                -------     -------
+                                                $ 1,511     $ 1,561
+                                                =======     =======
+
+Long-Term Debt:
+Obligations under capital leases at interest
+  rates ranging from 6.6% to 14.0% expiring
+  through 1995                                  $    13     $    90
+Current portion of long-term debt                   (13)        (77)
+                                                -------     -------
+                                                $     -     $    13
+                                                =======     =======
+
+Future principal payments of long-term debt are $13 thousand, payable in fiscal
+year 1996.
+
+Commitments:
+
+The Company leases its primary manufacturing and office facility under a
+noncancelable operating lease which expires in March 1998. The Company is
+responsible for taxes, maintenance and insurance. Rent expense incurred under
+all operating leases and charged to operations was $606 thousand in 1995, $682
+thousand in 1994 and $771 thousand in 1993.
+
+Future minimum obligations under the facility lease at September 30, 1995
+aggregate approximately $1,255 thousand, payable as follows:
+
+     Fiscal Year
+         1996          $502
+         1997           502
+         1998           251
+
+
+
+
+                             Page 23
+<PAGE>
+
+Capital Stock:
+- - -------------
+
+Preferred Stock:
+
+In October 1983, the Company authorized one million shares of preferred stock.
+The Board of Directors has the authority to establish all rights and terms with
+respect to the preferred stock without future vote or action by the
+shareholders.
+
+Private Placement:
+
+In November 1994, the Company issued 450 thousand shares of common stock in a
+private placement. Net proceeds from this transaction were $2.9 million. Common
+stock purchase warrants totaling approximately 23 thousand were issued as a part
+of this transaction. The warrants, which are immediately exercisable at $7.01
+per share, expire in December 1999.
+
+Stock Option Plans:
+
+At September 30, 1995, the Company had reserved 2.3 million common shares for
+issuance under its 1990 Stock Option, 1982 Incentive Option and 1984
+Supplemental Stock Option Plans.
+
+Under the Company's stock option plans, options become exercisable at dates and
+in amounts as specified by the Compensation Committee of the Board of Directors
+and expire two to ten years from the date of grant. Options may be granted to
+employees at prices not less than fair market value at the date of grant. At
+September 30, 1995, approximately 85 thousand shares were available for future
+grants.
+
+Activity in the Company's option plans during fiscal 1995 is summarized as
+follows:
+
+                                         Options Outstanding
+                                  Shares    Per Share   Amount Total
+
+Balances, September 30, 1994        998   $ .67-$ 9.13    $ 3,819
+  Granted                           272   $7.88-$19.00      3,263
+  Canceled                          (68)  $2.88-$15.88       (462)
+  Exercised                        (272)  $ .67-$ 9.13     (1,243)
+                                    ---   ------------    -------
+Balances, September 30, 1995        930   $ .67-$19.00    $ 5,377
+                                    ===   ============    =======
+
+
+                                     Page 24
+<PAGE>
+
+At September 30, 1995, options for 568 thousand shares were exercisable at
+prices ranging from $0.67 to $8.75.
+
+Employee Benefit Plans:
+- - ----------------------
+
+Stock Purchase Plan:
+
+In April 1984, the Board of Directors approved the adoption of an Employee Stock
+Purchase Plan under which 200 thousand shares of common stock were reserved for
+issuance to eligible employees. In January 1988, January 1990, January 1992, and
+January 1995, the shareholders approved amendments to increase the shares
+reserved for the Plan by 150 thousand shares, 200 thousand shares, 200 thousand
+shares, and 250 thousand shares, respectively. Employees who do not own 5% or
+more of the outstanding shares are eligible to participate through payroll
+deductions, which may not exceed 10% of an employee's compensation. At the end
+of each offering period, shares are purchased by the participants at 85% of the
+lower of the fair market value at the beginning or the end of the offering
+period. The 15% discount is treated as equivalent to the cost of issuing stock
+for financial reporting purposes. 67 thousand shares were issued under the Plan
+during fiscal 1995. Since inception of the Plan, approximately 767 thousand
+shares have been issued.
+
+Savings and Investment Plan:
+
+The Company has a Savings and Investment Plan, qualified under sections 401(k)
+and 401(a) of the Internal Revenue Code, that enables participating U.S.
+employees to prepare for retirement. The Plan allows eligible employees to defer
+up to 15%, but no greater than $9,240 per year, of their earnings on a pre-tax
+basis through contributions to the Plan. The Plan provides for employer
+contributions at the discretion of the Board of Directors; however, no such
+contributions were made in fiscal 1995, 1994, or 1993.
+
+
+
+
+
+
+                                     Page 25
+
+<PAGE>
+
+Income Taxes:
+
+For the year ended September 30, 1994, there was no provision for income taxes.
+The provision (benefit) for income taxes for the years ended September 30, 1995
+and 1993 is as follows:
+
+                                           1995        1993
+  Current expense (benefit):
+    Federal                              $   125     $(2,003)
+    Foreign                                    7        (357)
+                                         -------     -------
+                                             132      (2,360)
+  Deferred tax expense (benefit)          (4,187)        350
+                                         -------     -------
+                                         $(4,055)    $(2,010)
+                                         =======     =======
+
+The Company's effective tax rate for the years ended September 30, 1995 and 1993
+differs from the U.S. federal statutory income tax rate as follows:
+
+                                           1995        1993
+  Federal income tax (benefit) at
+     statutory rate                         34.0%      (34.0%)
+  State taxes, net of federal benefit        6.1          -
+  Tax credits                               (9.7)         -
+  Other, net                                 2.8          -
+  Loss producing no current tax benefit       -         14.5
+  Net operating losses utilized            (33.5)         -
+  Change in valuation allowance            (90.4)         -
+                                          ------       ------
+                                           (90.7%)     (19.5%)
+                                          ======       ======
+
+
+
+
+
+
+
+
+
+
+                                     Page 26
+
+<PAGE>
+
+The following table shows the major components of the deferred tax asset as of
+September 30, 1995 and 1994:
+
+Deferred tax assets:                       1995        1994
+
+  Accounts receivable, inventory and
+    other reserves                       $   691     $   701
+  Accrued liabilities                        264         312
+  Net operating losses                     1,673       3,434
+  Tax credit carryforwards                 1,114       1,258
+  Depreciation                               445         517
+                                         -------     -------
+                                           4,187       6,222
+
+Valuation allowance                            -      (6,222)
+                                         -------     -------
+Net deferred tax asset                   $ 4,187     $     -
+                                         =======     =======
+
+A valuation allowance has been established to reduce the deferred tax asset to
+the amount expected to be realized. The deferred tax provision for the year
+ended September 30, 1993 consisted principally of non-deductible reserves and
+accelerated depreciation methods. The deferred tax benefit for the year ended
+September 30, 1995 consisted primarily of net operating losses from previous
+periods.
+
+At September 30, 1995, the Company has federal and state net operating loss
+(NOL) carryforwards of $4.8 million and $.5 million, respectively, to reduce
+future taxable income. These carryforwards expire in 1998 through 2009, if not
+utilized.
+
+As a result of the acquisition of CHI Systems in 1992, CHI Systems experienced a
+change of ownership as defined by the Internal Revenue Code. Consequently,
+utilization of approximately $1 million and $500 thousand of the Company's
+federal and state NOL carryforwards, respectively, will be subject to an annual
+limitation of approximately $100 thousand available to offset CHI Systems'
+separate taxable income. These carryforwards expire in 1998 through 2008, if not
+utilized.
+
+Research and Development Contract:
+
+During fiscal year 1992, the Company entered into a joint development contract
+to develop a product with a third party. The Company received funding from the
+third party based on
+
+                                     Page 27
+<PAGE>
+
+completion milestones. In addition, upon completion of the project, the Company
+has and will receive a royalty based on sales by the third party of the product
+developed. All expenses incurred by the Company were charged to research and
+development expense as incurred. Amounts received from the third party were
+recognized as a reduction of research and development expense on a percentage of
+completion basis and amounted to $1,101 thousand and $2,707 thousand for the
+years ended September 30, 1994 and 1993, respectively. For the years ended
+September 30, 1994 and 1993, the Company incurred expenses of $2,928 thousand
+and $3,995 thousand, respectively, related to the contract. At September 30,
+1994, the Company recorded unbilled receivables associated with the project of
+$500 thousand, which was included in other current assets and was subsequently
+received. Royalties of approximately $300 thousand were received in the fourth
+quarter of fiscal year 1994 on products sold by the third party. Royalties
+totaling approximately $15.4 million were received from the third party during
+fiscal year 1995.
+
+Foreign Operations:
+
+The Company's foreign operations are those of its European branch and
+subsidiary. Substantially all of their sales are made to unaffiliated European
+customers. The following table summarizes the Company's European operations:
+
+                                   1995       1994       1993
+
+  Net sales                       $1,566     $2,138     $6,324
+  Operating loss                    (124)      (489)      (164)
+  Total assets                       386      1,176      1,513
+
+Export Sales:
+
+Export sales from domestic operations were $1.5 million, $2.8 million, and $3.3
+million in 1995, 1994 and 1993, respectively.
+
+Major Customers:
+
+Sales to one customer amounted to 14.3%, 14.5% and 11.3% of net sales in 1995,
+1994 and 1993, respectively.
+
+Subsequent Events:
+
+Effective October 1995, the Company negotiated a $3 million revolving accounts
+receivable line of credit. Interest is at the prime rate (8.75% at October 1,
+1995) and is payable monthly. The note is collateralized by accounts receivable,
+inventory,
+
+                                     Page 28
+<PAGE>
+
+equipment and intangible assets. The line of credit will expire September 30,
+1996.
+
+The investment made in an unconsolidated company in the amount of $1 million
+will be revalued due to a public offering by the company, which took place in
+October 1995. In subsequent financial statements, the 205,128 shares of common
+stock will be valued at the current fair market value.
+
+On November 17, 1995, the Company finalized an agreement to acquire 37.5% of
+MatriDigm Corporation, a privately held company. The investment, which consisted
+of preferred stock, totaled approximately $3.4 million. Under the agreement, the
+Company obtained an exclusive license from MatriDigm to incorporate its
+technology in the development of new products.
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 29
+
+<PAGE>
+
+Report of Independent Accountants
+
+To the Shareholders and Board of Directors
+Zitel Corporation
+
+We have audited the accompanying consolidated balance sheets of Zitel
+Corporation and subsidiaries as of September 30, 1995 and 1994, and the related
+consolidated statements of operations, shareholders' equity, and cash flows for
+each of the three years in the period ended September 30, 1995. These
+consolidated financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the consolidated financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+consolidated financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of Zitel
+Corporation and subsidiaries as of September 30, 1995 and 1994, and the
+consolidated results of their operations and their cash flows for each of the
+three years in the period ended September 30, 1995, in conformity with generally
+accepted accounting principles.
+
+
+
+
+Coopers & Lybrand L.L.P.
+Coopers & Lybrand L.L.P.
+San Jose, California
+October 25, 1995, except for the third paragraph of the note entitled
+"Subsequent Events" to which the date is November 17, 1995
+
+
+
+
+                                     Page 30
+
+<PAGE>
+
+Item 9:  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+         ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     None.
+
+                            PART III
+
+Item 10:  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information regarding directors under the caption "Election of Directors" on
+pages 2 and 3 of the Proxy Statement for the Annual Meeting of Shareholders to
+be held January 25, 1996, is incorporated herein by reference. The information
+regarding executive officers under the caption "Executive Officers of the
+Registrant" is included herein on pages 7 through 9.
+
+Item 11:  EXECUTIVE COMPENSATION
+
+The information under the caption "Executive Compensation" on pages 8 through 11
+of the Proxy Statement for the Annual Meeting of Shareholders to be held January
+25, 1996, is incorporated herein by reference.
+
+Item 12:  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information under the caption "Security Ownership of Certain Beneficial
+Owners and Management" on page 7 of the Proxy Statement for the Annual Meeting
+of Shareholders to be held on January 25, 1996, is incorporated herein by
+reference.
+
+Item 13:  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+          None.
+
+                                     PART IV
+
+Item 14:  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+     (a)  Financial Statements and Schedules
+
+          The consolidated financial statements, together with the report
+thereon from Coopers & Lybrand, appear in Item 8 in this Form 10-K. Financial
+statement schedules not included in this Form 10-K have been omitted because
+they are not applicable or the required information is shown in the financial
+statements or the notes thereto.
+
+                                     Page 31
+<PAGE>
+
+          (1)  Financial Statements:
+
+  Consolidated Balance Sheets (p. 15)
+  Consolidated Statements of Operations (p. 16)
+  Consolidated Statements of Shareholders' Equity (p. 17)
+  Consolidated Statements of Cash Flows (p. 18)
+  Notes to Consolidated Financial Statements (pgs. 19-29)
+  Report of Independent Accountants (p. 30)
+
+          (2)  Financial Statement Schedules:
+
+  Report of Independent Accountants (p. 39)
+  SCHEDULE VIII-Valuation and Qualifying Accounts (p. 40)
+
+          (3)  Exhibits
+
+               Exhibits filed as part of this report are listed below. Certain
+               exhibits have been previously filed with the Commission and are
+               incorporated by reference.
+
+Exhibit
+Number                       Description
+- - -------                      -----------
+
+3.1   Restated Articles of Incorporation. (7)
+
+3.2   Bylaws. (2)
+
+10.1  1982 Incentive Stock Option Plan, as amended, and form of Stock Option 
+Grant. (3)
+
+10.2  1984 Supplemental Stock Option Plan and form of Stock Option Grant. (3)
+
+10.3  1984 Stock Purchase Plan, as amended through November 1987. (7)
+
+10.4  Agreement dated February 27, 1979 among Robert H. Welch, Jack Melchor,
+Bernard Wagner, Tony Tadin, John C. Blackie, John J. DePalma, James F. Riley 
+and the Company, amended as of November 15, 1979. (1)
+
+10.5  Agreement for the Sale and Purchase of Intel Memory Product Lines dated as
+of February 2, 1983 between the Company and Intel Corporation, and amendments
+dated March 16, 1983, April 22, 1983,
+
+                                     Page 32
+
+<PAGE>
+
+June 23, 1983 and October 25, 1983 (portions deleted pursuant to a
+Confidentiality Order). (1)
+
+10.6   Stock Purchase Agreement dated September 29, 1980 between the Company and
+Oxford Venture Fund, Oxford Venture (California) Fund II, and Oxford Venture 
+Offshore Fund. (1)
+
+10.7   Stock Purchase Agreement dated June 2, 1983 between the Company and
+Oxford Venture Fund, Oxford Venture (California) Fund II, and Oxford Venture 
+Offshore Fund. (1)
+
+10.8   Agreement dated as of October 1, 1983 between the Company and Motorola,
+Inc. (portions deleted pursuant to a Confidentiality Order). (1)
+
+10.9   Agreement and Plan of Reorganization among the Company, Zitel Merger
+Corporation and Gifford Computers Systems, Inc. (4)
+
+10.10  Agreement for Purchase and Sale of Assets dated as of November 1, 1985
+between the Company and React Corporation with Exhibits (portions deleted
+pursuant to a Confidentiality Order). (5)
+
+10.11  Agreement for Purchase and Sale of Marketing Rights dated as of June 8,
+1986 between the Company and React Corporation (portions deleted pursuant to a 
+Confidentiality Order). (6)
+
+10.12  Lease agreement dated February 7, 1986 between the Company, John
+Arrillaga, Trustee, and Richard T. Peery, Trustee. (7)
+
+10.13  Senior Management Incentive Plan (SMIP) dated November 18, 1987. (8)
+
+10.14  Unisys Cooperative Marketing Agreement dated April 13, 1990 between the
+Company and Unisys Corporation and Amendment One effective October 25, 1990.
+(The Company has applied for confidential treatment of a portion of this 
+Exhibit.) (9)
+
+10.15  Amendment Two to the Unisys Cooperative Marketing Agreement effective
+February 5, 1991. (10)
+
+10.16  Amendment Three to the Unisys Cooperative Marketing Agreement effective
+March 31, 1991. (10)
+
+
+
+                                     Page 33
+<PAGE>
+
+10.17  Amendment Four to the Unisys Cooperative Marketing Agreement effective
+June 30, 1991. (10)
+
+10.18  Sublease agreement dated August 11, 1992 between the Company and Credence
+Systems Corporation. (11)
+
+10.19  Loan and Security Agreement dated August 2, 1993 between the Company and
+IBM Credit Corporation. (12)
+
+10.20  Development Agreement between the Company and IBM Corporation dated
+October 14, 1992. (Confidential treatment has been requested for a portion of 
+the exhibit.) (13)
+
+10.21  Amendment No. 1 dated June 23, 1993 to the Development Agreement between
+the Company and IBM Corporation dated October 14, 1992. (Confidential treatment
+has been requested for a portion of the exhibit.) (13)
+
+10.22  Amendment No. 2 dated July 26, 1993 to the Development Agreement between
+the Company and IBM Corporation dated October 14, 1992. (Confidential treatment
+has been requested for a portion of the exhibit.) (13)
+
+10.23  Amendment No. 3 dated November 29, 1993 to the Development Agreement
+between the Company and IBM Corporation dated October 14, 1992. (Confidential
+treatment has been requested for a portion of the exhibit.) (13)
+
+10.24  Amendment No. 4 dated April 15, 1994 to the Development Agreement between
+the Company and IBM Corporation dated October 14, 1992. (Confidential treatment
+has been requested for a portion of the exhibit.) (13)
+
+10.25  Loan and Security Agreement, dated as of September 30, 1994, between the
+Company and CoastFed Business Credit Corporation. (14)
+
+10.26  Accounts Collateral Security Agreement, dated as of September 30, 1994,
+between the Company and CoastFed Business Credit Corporation. (14)
+
+10.27  Lease Agreement dated February 16, 1995 between the Company and Renco
+Investment Company. (15)
+
+11.1   Statement regarding computation of earnings per share.
+
+
+                                    Page 34
+<PAGE>
+
+22.1  Subsidiaries of the Company.
+
+24.1  Consent of Independent Accountants.
+
+27    Financial Data Schedule.
+
+- - ----------
+(1)  Incorporated by reference to the indicated exhibits to the Company's 
+Registration Statement on Form S-1 (File No. 2-87445) filed on October 27, 1983.
+
+(2)  Incorporated by reference to the indicated exhibits to the Company's 
+Registration Statement on Form S-8 (File No. 2-90366) filed on April 6, 1984.
+
+(3)  Incorporated by reference to the indicated exhibits to the Company's 
+Registration Statement on Form S-8 (File No. 2-96804) filed on March 29, 1985.
+
+(4) Incorporated by reference to the indicated exhibits to the Company's Current
+Report on Form 8-K filed on September 20, 1984.
+
+(5) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 18, 1985.
+
+(6) Incorporated by reference to the indicated exhibits to the Company's
+Quarterly Report on Form 10-Q filed August 14, 1986.
+
+(7) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 17, 1987.
+
+(8) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 21, 1988.
+
+(9) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 20, 1990.
+
+(10) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 20, 1991.
+
+(11) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 18, 1992.
+
+(12) Incorporated by reference to the indicated exhibits to the Company's
+Quarterly Report on Form 10-Q filed August 13, 1993.
+
+
+
+                                     Page 35
+<PAGE>
+
+(13) Incorporated by reference to the indicated exhibits to the Company's
+Quarterly Report on Form 10-Q filed May 13, 1994.
+
+(14) Incorporated by reference to the indicated exhibits to the Company's Annual
+Report on Form 10-K filed December 22, 1994.
+
+(15) Incorporated by reference to the indicated exhibits to the Company's
+Quarterly Report on Form 10-Q filed May 11, 1995.
+
+     (b) Reports on Form 8-K
+
+         None.
+
+For the purposes of complying with the amendments to the rules governing Form
+S-8 under the Securities Act of 1933, the undersigned Registrant hereby
+undertakes as follows, which undertaking shall be incorporated by reference into
+Registrant's Registration Statements on Form S-8 No.'s 33-40361 and 33-47697
+(filed May 3, 1991 and May 6, 1992).
+
+Insofar as indemnification for liabilities arising under the Securities Act of
+1933 may be permitted to directors, officers and controlling persons of the
+Registrant pursuant to the foregoing provisions, or otherwise, the Registrant
+has been advised that in the opinion of the Securities and Exchange Commission
+such indemnification is against public policy as expressed in the Securities Act
+of 1933 and is, therefore, unenforceable. In the event that a claim for
+indemnification against such liabilities (other than the payment by the
+Registrant of expenses incurred or paid by a director, officer or controlling
+person of the Registrant in the successful defense of any action, suit or
+proceeding) is asserted by such director, officer or controlling person in
+connection with the securities being registered, the Registrant will, unless in
+the opinion of its counsel the matter has been settled by controlling precedent,
+submit to a court of appropriate jurisdiction the question whether such
+indemnification by it is against public policy as expressed in the Act and will
+be governed by the final adjudication of such issue.
+
+
+
+
+
+
+                                     Page 36
+<PAGE>
+
+                                   SIGNATURES
+
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this Report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                              ZITEL CORPORATION
+
+
+
+
+                              By:  Jack H. King
+                                   Jack H. King
+                                   President and Director
+                                   Chief Executive Officer
+                                   December 21, 1995
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Jack H. King and Henry C. Harris, jointly and
+severally, his attorneys-in-fact, each with the power of substitution, for him
+in any and all capacities, to sign any amendments to this Report on Form 10-K,
+and to file the same, with exhibits thereto and other documents in connection
+herewith, with the Securities and Exchange Commission, hereby ratifying and
+confirming all that each of said attorneys-in-fact, or his substitute or
+substitutes, may do or cause to be done by virtue hereof.
+
+
+
+
+
+
+
+
+
+                                     Page 37
+<PAGE>
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+
+Signature                Title                         Date
+
+
+
+Jack H. King             President and Director        December 21, 1995
+Jack H. King             (Chief Executive Officer)
+
+
+
+Henry C. Harris          Vice President - Finance      December 21, 1995
+Henry C. Harris          and Administration,
+                         Secretary (Chief Financial
+                         and Accounting Officer)
+
+
+
+Catherine P. Goodrich    Director                      December 21, 1995
+Catherine P. Goodrich
+
+
+
+William R. Lonergan      Director                      December 21, 1995
+William R. Lonergan
+
+
+
+William M. Regitz        Director                      December 21, 1995
+William M. Regitz
+
+
+
+Robert H. Welch          Director                      December 21, 1995
+Robert H. Welch
+
+
+
+
+
+
+                                     Page 38
+<PAGE>
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+
+To the Shareholders and Board of Directors
+Zitel Corporation
+Fremont, California
+
+Our audit of the consolidated financial statements of Zitel Corporation and
+Subsidiaries referred to in our report dated October 25, 1995 appearing in Item
+8 in this Annual Report on Form 10-K also included an audit of the financial
+statement schedules listed in Item 14a of this Form 10-K.
+
+In our opinion, the financial statement schedules referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+present fairly, in all material respects, the information required to be
+included therein.
+
+
+
+Coopers & Lybrand L.L.P.
+Coopers & Lybrand L.L.P.
+San Jose, California
+October 25, 1995
+
+
+
+
+
+
+
+
+                                     Page 39
+
+<PAGE>
+                                                                   SCHEDULE VIII
+
+
+
+                                ZITEL CORPORATION
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                        FISCAL YEARS 1993, 1994 AND 1995
+
+
+   Column A              Column B     Column C         Column D       Column E
+   --------              --------     ----------       --------       --------
+                                       Additions
+                                      Charged to
+                          Balance      Revenues        Write-offs     Balance at
+                         Beginning     and Costs          and           End of
+  Description            of Period    and Expense      Deductions      Period
+  -----------            ---------    -----------      ----------     --------
+
+     1993
+- - --------------
+Allowance for Doubtful
+  Accounts               $109,000       $211,000       $ 61,000       $259,000
+
+Provision for Obsolete
+  Inventory              $185,000       $430,000       $476,000       $139,000
+
+
+     1994
+- - --------------
+Allowance for Doubtful
+  Accounts               $259,000       $282,000       $ 45,000       $496,000
+
+Provision for Obsolete
+  Inventory              $139,000       $730,000       $318,000       $551,000
+
+     1995
+- - --------------
+Allowance for Doubtful
+  Accounts               $496,000      $(408,000)            -        $ 88,000
+
+Provision for Obsolete
+  Inventory              $551,000       $278,000       $520,000       $309,000
+
+
+
+
+
+
+                                     Page 40
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EARNINGS
+<TEXT>
+
+
+                                                                    EXHIBIT 11.1
+
+
+
+                                ZITEL CORPORATION
+
+                       COMPUTATION OF EARNINGS PER COMMON
+                           AND COMMON EQUIVALENT SHARE
+
+
+                                             Year Ended September 30,
+                                      ------------------------------------------
+                                             1993           1994         1995
+                                      -----------    -----------     -----------
+Average common shares
+  outstanding                           6,179,000      6,327,000       7,079,000
+
+Computation of incremental
+  outstanding shares
+    Net effect of dilutive stock
+      options based on treasury
+      stock method                              0              0         504,000
+
+                                        6,179,000      6,327,000       7,583,000
+
+
+Net income (loss)                     $(8,277,000)   $(6,961,000)     $8,526,000
+
+
+Earnings (loss) per share             $     (1.34)   $     (1.10)     $     1.12
+
+
+
+
+Primary and fully diluted income per share differ by less than one cent in all
+periods.
+
+
+
+
+
+
+
+                                     Page 41
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22.1
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF ZITEL CORPORATION
+<TEXT>
+
+
+                                                                    EXHIBIT 22.1
+
+
+
+                        SUBSIDIARIES OF ZITEL CORPORATION
+
+
+
+1.   Zitel International Corporation
+     47211 Bayside Parkway
+     Fremont, CA  94538-6517
+
+2.   Zitel SARL
+     47211 Bayside Parkway
+     Fremont, CA  94538-6517
+
+3.   Zitel Export Corporation
+     47211 Bayside Parkway
+     Fremont, CA  94538-6517
+
+4.   Performance & Modeling, Inc.
+     47211 Bayside Parkway
+     Fremont, CA  94538-6517
+
+5.   CHI Systems, Inc.
+     47211 Bayside Parkway
+     Fremont, CA  94538-6517
+
+
+
+
+
+
+
+
+
+
+                                     Page 42
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF INDEPENDENT ACCOUNTANTS
+<TEXT>
+
+
+
+                                                                    EXHIBIT 24.1
+
+
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the registration statements of
+Zitel Corporation on Form S-8 (File No.'s 33-40361 and 33-47697) of our report
+dated October 25, 1995 appearing in Item 8 in this Annual Report on Form 10-K.
+We also consent to the incorporation by reference of our report on the Financial
+Statement Schedule, which appears on page 39 of this Form 10-K.
+
+
+
+
+
+
+
+Coopers & Lybrand L.L.P.
+Coopers & Lybrand L.L.P.
+San Jose, California
+December 21, 1995
+
+
+
+
+
+
+                                     Page 43
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE FOR 10-K
+<TEXT>
+
+<TABLE> <S> <C>
+                          
+<ARTICLE>                       5
+<MULTIPLIER>                    1,000
+<CURRENCY>                      U.S. DOLLARS
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                       SEP-30-1995
+<PERIOD-START>                          OCT-01-1994
+<PERIOD-END>                            SEP-30-1995
+<EXCHANGE-RATE>                                   1
+<CASH>                                        11265
+<SECURITIES>                                      0
+<RECEIVABLES>                                  1497
+<ALLOWANCES>                                     88
+<INVENTORY>                                    2987
+<CURRENT-ASSETS>                              23218
+<PP&E>                                        10801
+<DEPRECIATION>                                 9382
+<TOTAL-ASSETS>                                26206
+<CURRENT-LIABILITIES>                          3249
+<BONDS>                                           0
+<COMMON>                                      19916
+<PREFERRED-MANDATORY>                             0
+<PREFERRED>                                       0
+<OTHER-SE>                                     3041
+<TOTAL-LIABILITY-AND-EQUITY>                  26206
+<SALES>                                        8293
+<TOTAL-REVENUES>                              23714
+<CGS>                                          6807
+<TOTAL-COSTS>                                 12698
+<OTHER-EXPENSES>                               (319)
+<LOSS-PROVISION>                                  0
+<INTEREST-EXPENSE>                               57
+<INCOME-PRETAX>                                4471
+<INCOME-TAX>                                  (4055)
+<INCOME-CONTINUING>                            8526
+<DISCONTINUED>                                    0
+<EXTRAORDINARY>                                   0
+<CHANGES>                                         0
+<NET-INCOME>                                   8526
+<EPS-PRIMARY>                                  1.12
+<EPS-DILUTED>                                  1.12
+
+                                
+
+
+</TABLE>
+</TEXT>                         
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3637 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ IuiloHm5Hs/2a1XwRaP60sqh0EZxbzLqXBKijALHHfWQR4Qjzf9YyURzhfryC0lW
+ oKACELWxzovushgkJU2fTg==
+
+<IMS-DOCUMENT>0000950123-95-001870.txt : 19950711
+<IMS-HEADER>0000950123-95-001870.hdr.sgml : 19950711
+ACCESSION NUMBER:		0000950123-95-001870
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	19950401
+FILED AS OF DATE:		19950630
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRIDEX CORP
+		CENTRAL INDEX KEY:			0000047254
+		STANDARD INDUSTRIAL CLASSIFICATION:	3577
+		IRS NUMBER:				060682273
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05513
+		FILM NUMBER:		95551370
+
+	BUSINESS ADDRESS:	
+		STREET 1:		61 WILTON RD
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		2032261144
+
+	MAIL ADDRESS:	
+		STREET 1:		61 WILTON ROAD
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HI G INC
+		DATE OF NAME CHANGE:	19840829
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K -- TRIDEX CORPORATION
+<TEXT>
+
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC. 20549
+                       -----------------------------------            
+                                     FORM 10-K
+
+(Mark One)
+
+/X/      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+         THE SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+For the fiscal year (52 weeks) ended APRIL 1, 1995
+                                     _____________  
+                                    
+                                     or
+
+/ /    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934 [No Fee Required]
+
+For the transition period from __________ to __________.
+
+Commission file number: 1-5513
+
+                               TRIDEX CORPORATION
+- - ------------------------------------------------------------------------------  
+              (Exact name of registrant as specified in its charter)
+
+CONNECTICUT                                                           06-0682273
+- - ------------------------------------------------------------------------------
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+61 WILTON ROAD, WESTPORT, CT                                              06880
+- - -------------------------------------------------------------------------------
+(Address of principal executive offices)                              (Zip Code)
+
+Registrant's telephone number,
+including area code                                                 203-226-1144
+- - --------------------------------------------------------------------------------
+Securities registered pursuant to Section 12 (b) of the Act:
+                                    
+      Title of each class                  Name of each exchange on
+                                               which registered
+- - --------------------------------------------------------------------------------
+COMMON STOCK, WITHOUT PAR VALUE             AMERICAN STOCK EXCHANGE
+
+Securities registered pursuant to Section 12 (g) of the Act:
+
+                                      NONE
+- - --------------------------------------------------------------------------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X   No
+                                      ---    ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any other amendment
+to this Form 10-K. / /
+
+As of JUNE 1, 1995 the aggregate market value of the registrant's issued and
+outstanding voting stock held by non-affiliates of the registrant was
+$18,800,000.
+
+As of JUNE 1, 1995 the registrant had outstanding 3,679,746 shares of common
+stock, without par value.
+
+                        Exhibit Index appears on page 33
+
+                                     1 of 53
+
+
+<PAGE>   2
+
+
+                                     PART I
+
+GENERAL
+
+       Tridex Corporation ("Tridex" or the "Company"), through its wholly-owned
+subsidiaries Magnetec Corporation ("Magnetec"), Ithaca Peripherals Incorporated
+("Ithaca"), Ultimate Technology Corporation ("Ultimate") and Cash Bases GB
+Limited ("Cash Bases"), is primarily engaged in the design, development,
+manufacture and sale of specialty printers, terminal devices and other
+peripheral products. The Company's market is the interface between the consumer
+and the retailer or other service provider in a variety of transactions - at the
+retail point-of-sale ("POS"), an automated teller machine ("ATM"), a kiosk, or a
+lottery terminal. The Company's products include custom-designed dot matrix and
+thermal printer mechanisms used to print receipts, coupons, event and lottery
+tickets, bank statements and product or service information; optical mark-sense
+readers and document transport systems used for automated data entry to lottery
+terminals, educational test scoring and vote tally systems; and POS printers,
+POS customer displays, POS terminal devices and cash drawers used in the retail
+industry.
+
+ITEM 1. BUSINESS
+
+       (A) GENERAL DEVELOPMENT OF BUSINESS SINCE APRIL 2, 1994
+
+       On June 20, 1994 the Company acquired Cash Bases of Newhaven, England.
+Cash Bases is the largest British manufacturer of cash drawers for POS
+applications in Europe. The acquisition of Cash Bases has provided Tridex with
+an entry into one of the largest markets in the world for POS equipment, as well
+as the opportunity to accelerate the entry of the Company's other POS products
+into the European market through joint marketing and sales efforts. The purchase
+price of pounds sterling 3.5 million (approximately $5.330 million) was paid
+pounds sterling 3.067 million (approximately $4.672 million) in cash and pounds
+sterling 433,000 (approximately $658,000) by delivery of 96,788 shares of Tridex
+common stock, of which 72,647 shares were placed in escrow to secure the
+accuracy of certain representations and warranties made by the sellers. The
+Company borrowed the cash portion of the purchase price. See "Management's
+Discussion and Analysis of the Results of Operations and Financial Condition -
+Liquidity and Capital Resources."
+
+       (B) FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+
+       Tridex presently operates in one industry segment, the design,
+manufacture and sale of specialty printers, terminal devices and other
+peripheral products.
+
+       (C) NARRATIVE DESCRIPTION OF BUSINESS
+
+       (i) PRINCIPAL PRODUCTS AND SERVICES
+
+       Tridex designs, manufactures and sells specialty dot matrix impact
+printers, thermal printers, printer mechanisms and optical mark-sense readers
+for OEM applications, and dot matrix impact printers, customer displays,
+terminal devices and custom cash drawers for POS applications.
+
+       Tridex's printers and printer mechanisms are high performance,
+full-featured peripherals that utilize the Company's electromechanical printing
+components and subassemblies. Tridex designs and manufactures a wide variety of
+printer products, including printers for automated applications such as
+interactive kiosks and ATMs, printers for lottery and pari-mutuel terminals and
+other gaming applications and standalone printers for POS and industrial
+applications. In addition to designing its own printer products, Tridex also
+provides the mechanical design services for customers of printers for integrated
+use in specialty applications. The Company's optical mark-sense readers and
+document transport systems may be used in, or in connection with, products that
+feature the Company's printer mechanisms and printheads. The Company's cash
+
+                                       2
+
+<PAGE>   3
+
+
+drawers, constructed of metal, are high quality, custom products, for use with
+POS terminals primarily in supermarkets, specialty stores and convenience
+stores. Cash drawers are fabricated in the United Kingdom and are sold primarily
+in Western Europe through a direct sales force.
+
+                Tridex manufactures and markets POS customer displays and
+terminal devices for use in Twinax, Unix/Aix and PC-based POS applications.
+Tridex's specialty printers, printer components, terminals and other peripheral
+products are sold to systems integrators, original equipment manufacturers and
+directly to end users by a direct sales force comprised of 20 people located in
+Connecticut, New York, New Hampshire, Illinois, California, Georgia, the United
+Kingdom, Germany, France and Spain.
+
+       Sales of printers, including POS printers, and printer components
+accounted for 58%, 71%, and 82% of the Company's net sales for the three fiscal
+years ended April 1, 1995, April 2, 1994 and April 3, 1993, respectively. Sales
+of POS printers, accounted for 36%, 45% and 51% of such net sales in the same
+periods. Sales of POS customer displays, terminals and related products, which
+the Company began selling in fiscal year 1993, accounted for 23%, 27% and 6% of
+the Company's net sales for the years ended April 1, 1995, April 2, 1994 and
+April 3, 1993 respectively. Solenoid sales were less than 2% of total sales in
+fiscal 1994 with none in fiscal 1995 as the product line was sold on October 1,
+1993. Sales of custom cash drawers accounted for 19% of the Company's net sales
+for the year ended April 1, 1995, the first fiscal year to include such sales.
+Cash Bases had consolidated revenues of pounds sterling 6.4 million
+(approximately $9.6 million) for its fiscal year ended April 30, 1994.
+
+       (ii) SOURCES AND AVAILABILITY OF RAW MATERIALS
+
+       The principal materials used by Magnetec are copper wire, magnetic
+metals, injection molded plastic parts, formed metal parts and electronic
+subassemblies, all of which are readily available from a number of sources.
+Ithaca is dependent upon a single source of supply for printer mechanisms for
+its POS printers. The loss of this supply source would have a material adverse
+effect on Tridex and its subsidiaries taken as a whole. Ithaca has a contract
+with this source of supply to provide sufficient quantity of printer mechanisms
+until March, 1996. Ithaca enjoys good relations with this source of supply and
+has received no indication that the supply agreement will not be renewed beyond
+the expiration of the current contract. Ithaca cannot be certain, however, that
+the supply agreement will be renewed, or if renewed, that the renewal terms will
+be as favorable as those under the current contract. The principal raw materials
+for cash drawers are sheet metal and molded plastic parts which are available
+from several sources.
+
+       (iii) PATENTS
+
+       Tridex considers two of its patents to be material to the conduct of its
+business. The Company has rights to a patent expiring in 1998 protecting unique
+technology involving mark sensing and to a patent expiring in 2008 involving a
+unique automated cut-off device which is an option offered in certain of its POS
+printers. Tridex considers certain of its other patents, manufacturing processes
+and designs to be proprietary in nature, and, therefore, valuable assets.
+
+       (iv) SEASONALITY AND PRACTICES RELATING TO WORKING CAPITAL ITEMS
+
+       Sales of the Company's products are not subject to material seasonal
+variations. As a result, the Company has not historically been required to
+maintain significant inventories of raw materials or finished goods in order to
+fill customer orders.
+
+                                       3
+
+<PAGE>   4
+
+
+       (v) CERTAIN CUSTOMERS
+
+       Sales to Indiana Cash Drawer Company, an unrelated distributor of POS
+products, accounted for 8.3%, 10.5% and 6.2% of consolidated net sales during
+fiscal years 1995, 1994 and 1993, respectively. Sales to another customer
+accounted for 5.9%, 6.9% and 5.2% of consolidated net sales during fiscal years
+1995, 1994 and 1993, respectively.
+
+       (vi) BACKLOG
+
+       The Company's backlog of firm orders was approximately $11,852,000 as of
+May 27, 1995 compared to a backlog of approximately $7,800,000 as of May 28,
+1994. Tridex expects to fill all of its backlog within the current fiscal year.
+
+       (vii) COMPETITION
+
+       The markets for the Company's products are highly competitive. Through
+its operating subsidiaries the Company competes with approximately 2 domestic
+and 5 foreign manufacturers for sales of printer mechanisms and components, with
+approximately 3 domestic and 2 foreign manufacturers for sales of optical
+mark-sense readers and POS printers, with approximately 3 domestic manufacturers
+for sales of POS terminal devices, with approximately 3 domestic and 4 foreign
+manufacturers for sales of POS customer displays, and with 4 manufacturers of
+high quality cash drawers. In the market for POS printers, the Company competes
+with Epson America, Inc., which holds a dominant market position.
+
+       All of the Company's products compete on the basis of price, performance,
+quality and reliability. Some of the Company's lower production volume products
+sold to the lottery, interactive kiosk, general gaming and automatic teller
+machine industries compete based upon the Company's ability to provide highly
+specialized and custom engineering and continuous technical support. In the
+kiosk industry, Tridex has established itself as a major independent supplier of
+printer mechanisms to a number of major interactive kiosk manufacturers. With
+respect to its higher volume products, the Company competes based on its product
+design, quality, and reliability, customer support and in some cases based upon
+the uniqueness of its products. The Company also competes on the basis of its
+design capabilities and quality control procedures.
+
+       In certain markets, the Company's competitors can sometimes offer lower
+prices than the Company because of lower overhead, attributable to higher volume
+production and off-shore manufacturing locations, which enjoy cheaper sources of
+labor and raw materials. Many of the Company's domestic competitors,
+particularly those that are divisions of substantially larger companies, have
+greater financial and other resources than Tridex.
+
+       (viii) RESEARCH AND DEVELOPMENT ACTIVITIES
+
+       The Company spent approximately $2.4, $2.0 and $1.4 million in fiscal
+years 1995, 1994 and 1993 respectively, on engineering, design and product
+development efforts in connection with specialized engineering and design to
+introduce a number of new products and to custom-tailor products for the
+Company's customers.
+
+       (ix) ENVIRONMENT
+
+         Somerville, Massachusetts - Allu Realty Trust ("Allu"), a Massachusetts
+business trust, with transferable shares, all of which are owned by Tridex, is
+the former owner of land improved with a manufacturing-warehouse building
+located at 100 Foley Street, Somerville, Massachusetts (the "Site"). Although
+Allu has sold the property to 100 Foley Street Incorporated ("Foley"), an
+unrelated entity, Allu and Tridex remain responsible for certain environmental
+problems associated with the Site.
+
+         During July 1984, Allu and Tridex disclosed to the Massachusetts
+Department of the Attorney General the existence of chromium, oil and grease at
+the Site. As a result, the Environmental Protection Division of the Department
+of the Attorney General and the Massachusetts Department of Environmental
+Protection ("MDEP") conducted an investigation of the Site. At MDEP's request,
+the Company retained an environmental engineering firm, which completed a Phase
+II
+
+
+                                       4
+
+<PAGE>   5
+
+
+investigation study of the Site. The Company has conducted further studies to
+more specifically characterize and assess the Site and to determine appropriate
+long term clean-up. In January 1993, the Company entered into an agreement with
+Foley pursuant to which Tridex and Foley agreed to pay 75% and 25%,
+respectively, of the costs incurred after January 1, 1992 in connection with the
+investigation and remediation of the Site (the "Site Participation Agreement").
+The Site Participation Agreement also provides that, to the extent there are
+available proceeds from the sale of the Site or, if not sold, from the operation
+of the Site after January 1, 1997, Tridex shall be reimbursed for all or a
+portion of the $260,000 it expended in connection with the Site prior to January
+1, 1992. Under the terms of an Escrow Agreement entered into by Tridex and Foley
+simultaneously with the Site Participation Agreement (the "Escrow Agreement"),
+Tridex and Foley each placed $125,000 into escrow to fund the payment of their
+obligations under the Site Participation Agreement. Under the terms of the
+Escrow Agreement, Tridex must place an additional $100,000 in escrow at the
+request of the Escrow Agent and thereafter the amount of any additional funds
+required by the Escrow Agent to be placed in escrow shall be contributed 75% by
+Tridex and 25% by Foley. Approximately $2,000 was being held in escrow as of
+April 1, 1995, all of which was contributed by Foley.
+
+         As of April 1, 1995, the Company had spent approximately $579,000 in
+connection with the Site. Of this amount, approximately $424,000 relates to
+investigation or remediation costs incurred at the Site. Although it is
+difficult to distinguish between amounts spent for investigation and
+remediation, the Company estimates that approximately $351,000 has been spent in
+connection with investigation and approximately $73,000 has been spent in
+connection with remediation of the Site. The Company estimates that it will
+spend approximately $100,000 to $300,000 in connection with the Site during
+fiscal 1996, including expenditures from the escrow account. Based upon
+preliminary estimates provided by a consulting environmental engineer and based
+upon the likely future uses of the property, as of April 1, 1995, the Company
+had accrued $333,000 for the estimated liability associated with the Site which
+represents the currently estimated minimum cost of remediation, after
+considering the cost sharing arrangement discussed above. Accordingly, although
+no assurances can be given regarding the materiality of the total costs which
+may be incurred, the Company does not believe at this time that the remediation
+of the Site is reasonably likely to have a material effect on the Company's
+financial condition, results of operations or liquidity. The Company believes
+that implementation of clean-up measures will commence, and may be completed, in
+fiscal 1996, in which case the entire amount of remediation costs to be borne by
+the Company would be incurred and paid in fiscal 1996. The Company expects that,
+as in the past, funds being held in escrow, cash from operations and the
+Company's credit facilities will be sufficient to pay the costs of remediation
+without a material effect on the Company's operations.
+
+         The Company has also been notified by an adjacent property owner,
+Cooper Industries ("Cooper"), that certain petroleum products that may have
+migrated from the Site have been detected in a monitoring well located on
+Cooper's property. The Company and Foley are investigating possible oil
+contamination along the border between the Site and the property owned by
+Cooper.
+
+       (x) EMPLOYEES
+
+       As of May 27, 1995, Tridex and its subsidiaries employed approximately
+422 persons.
+
+                                       5
+
+<PAGE>   6
+
+
+       (D) FINANCIAL INFORMATION ABOUT FOREIGN AND DOMESTIC OPERATIONS AND
+EXPORT SALES
+
+       Prior to fiscal 1995, the Company had no foreign operations and export
+sales were minimal. Primarily as a result of the acquisition of Cash Bases, the
+Company had approximately $10.9 million of sales which originated outside the
+United States during fiscal 1995. For the amounts of revenue, operating profit
+or loss and identifiable assets by geographic area, see Note 12 to the
+Consolidated Financial Statements included in this report. In addition, during
+fiscal 1995, the Company had export sales from the United States of
+approximately $4.0 million, of which $2.4 million was to Canada and the majority
+of the balance to Europe.
+
+       (E) DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+       (i) DIRECTORS OF THE REGISTRANT
+
+                                                                                
+
+<TABLE>
+<CAPTION>
+                                                                                      Principal Business
+    Director Name                Principal Occupation           Employer Name                of Employer
+    -------------                --------------------           -------------            ------------------
+<S>                              <C>                          <C>                      <C>          
+Seth M. Lukash                   Chairman of the Board,       Tridex Corporation        Manufacturer of computer
+                                 President, Chief Executive                             peripheral equipment
+                                 Officer and Chief Operating
+                                 Officer
+
+Richard T. Bueschel              Chairman                     Northern Equities, Inc.   Investments and commercial real
+                                                                                        estate development
+
+Paul J. Dunphy                   Management Consultant        Self-employed             Management consulting
+
+Ralph I. Fine                    President and Chief          Integral Resources, Inc.  Telemarketing company
+                                 Executive
+                                 Officer
+
+Alvin Lukash                     Consultant                   Tridex Corporation        Manufacturer of computer
+                                                                                        peripheral equipment
+
+Richard W. Sonnenfeldt           Senior Advisor               NAPP Systems, Inc.        Manufacturer of printing plates
+
+Graham Y. Tanaka                 President                    Tanaka Capital            Investment advising
+                                                               Management, Inc.
+</TABLE>
+
+
+                                       6
+
+<PAGE>   7
+
+
+       (ii) EXECUTIVE OFFICERS OF THE REGISTRANT
+
+<TABLE>
+<CAPTION>
+             Name                         Age                                  Position
+             ----                         ---                                  ---------
+<S>                                       <C>             <C>  
+Seth M. Lukash                             49             Chairman of the Board of Directors, President, Chief
+                                                          Executive Officer, Chief Operating Officer and Director
+
+Richard L. Cote                            53             Senior Vice President and Chief Financial Officer
+
+George T. Crandall                         48             Vice President, Treasurer, Controller and Assistant
+                                                          Secretary
+
+S. Scott Kumpf                             47             President, Ithaca Peripherals Incorporated, a wholly-
+                                                          owned subsidiary of the Company
+
+Dennis J. Lewis                            40             President, Ultimate Technology Corporation, a wholly-
+                                                          owned subsidiary of the Company
+
+Bart C. Shuldman                           38             President, Magnetec Corporation, a wholly-owned subsidiary
+                                                          of the Company
+
+Hugh T. Burnett                            55             Managing Director, Cash Bases GB Limited, a wholly-owned
+                                                          subsidiary of the Company
+
+Ralph I. Fine                              55             Secretary and Director
+</TABLE>
+
+       Seth M. Lukash has been a senior Executive Officer of the Company since
+1977 and has been a Director since 1979. He has served as Chairman of the Board
+of Directors of the Company since November, 1988, Chief Executive Officer since
+August, 1987, and President and Chief Operating Officer since June, 1989. Mr.
+Lukash previously served as President of the Company from September, 1983 to
+August, 1988 and as Chief Operating Officer from September, 1983 to August,
+1987. Mr. Lukash is the son of Alvin Lukash, a Director of the Company.
+
+       Richard L. Cote joined the Company in March, 1993, and has been a Vice
+President since June 1993 and Senior Vice President and Chief Financial Officer
+since September 15, 1993. Mr. Cote was a self-employed management consultant
+from October, 1991 to March, 1993; Vice President and Corporate Controller of
+Wang Laboratories, Inc. from January, 1991 to September, 1991; and Executive
+Vice President of Capital Resources Management, Inc. from November, 1989 to
+December, 1990. Previously, Mr. Cote had been employed by Emhart Corporation,
+Xerox Corporation and Price Waterhouse LLP.
+
+       George T. Crandall has been a Vice President of the Company since
+September, 1992, Treasurer since November, 1990 and Corporate Controller since
+March, 1989. Prior to joining Tridex in November, 1988, Mr. Crandall was a
+consultant to Northeast Manufacturing Companies, Inc. and was previously
+employed by Revere Copper and Brass Incorporated.
+
+       S. Scott Kumpf has been President of Ithaca since its acquisition by the
+Company on May 10, 1990. Prior to the acquisition, Mr. Kumpf had served as
+Ithaca's President, Chief Executive Officer and a Director since April, 1989.
+From May, 1987, to April, 1989, Mr. Kumpf was President and a Director of
+Ithaca.
+
+       Dennis J. Lewis has been President of Ultimate since its acquisition by
+the Company on January 20, 1993. Prior to the acquisition, Mr. Lewis had served
+as Ultimate's President, Chief Executive Officer and a Director since founding
+Ultimate in 1988. Prior to 1988, Mr. Lewis held senior management positions
+related to the sales, engineering and service of computer peripherals with
+Digital Equipment Corporation, Naum Brothers, RS Engineering, Serv Tech and Add
+Electronics.
+
+                                       7
+
+<PAGE>   8
+
+
+       Bart C. Shuldman was appointed President of Magnetec in July 1993. Prior
+to joining Magnetec he was employed by Mars Electronics International, a
+division of Mars, Incorporated from 1989 to 1993 in several management
+positions, most recently as Business Manager for the North American Amusement,
+Gaming and Lottery operations. Mr. Shuldman previously held manufacturing and
+sales management positions with General Electric Company from 1979 to 1989.
+
+       Hugh T. Burnett was appointed Managing Director of Cash Bases
+simultaneously with its acquisition by Tridex Corporation on June 20, 1994.
+Prior to the acquisition and since 1991, he was senior marketing executive with
+Cash Bases. Mr. Burnett previously was Managing Director of Omron Systems UK
+Ltd. from 1983 to 1991.
+
+       Ralph I. Fine has been Secretary of the Company since August, 1985 and a
+Director since August, 1984. Mr. Fine has been President and Chief Executive
+Officer of Integral Resources, Inc. since October, 1992. Integral Resources,
+Inc. is a telemarketing company principally engaged in raising funds through
+telephone solicitations for nonprofit organizations. From May, 1992 until he
+assumed his current position, Mr. Fine consulted with various corporations and
+nonprofit organizations. From May, 1991 to May, 1992, Mr. Fine was Executive
+Director of International Physicians for the Prevention of Nuclear War, a
+nonprofit organization committed to the elimination of nuclear weapons. From
+July, 1990 to March, 1991, Mr. Fine was of counsel to the law firm of Hinckley,
+Allen & Snyder, which is counsel to the Company. Prior to joining Hinckley,
+Allen & Snyder, Mr. Fine was a partner in the law firm of Fine & Ambrogne,
+which, until its dissolution in July, 1990, was counsel to the Company .
+
+ITEM 2.         PROPERTIES.
+
+       The Company's operations are currently conducted at the six facilities
+described below:
+
+<TABLE>
+<CAPTION>
+                                                                 Size             Owned or   Lease Expiration
+Location               Operations Conducted               (Approx. Sq. Ft.)        Leased         Date
+- - --------               --------------------                ----------------       --------   ---------------- 
+<S>                    <C>                                   < C>                <C>         <C>
+Westport, Connecticut  Principal executive offices              5,000             Leased      July 31, 2001
+
+Wallingford,           Manufacturing facility                  44,000             Leased      March 31, 2005
+Connecticut
+
+Ithaca, New York       Manufacturing facility                  36,000             Leased      November 21, 2002
+
+Victor, New York       Manufacturing facility                  18,000             Leased      May 30, 1997
+
+Newhaven, England      Manufacturing facility                  28,000             Leased      March 25, 2000
+
+Bloomfield,            Non-operating                           23,000              Owned      N/A
+Connecticut            facility held for sale
+</TABLE>
+
+
+       The Company believes that its facilities generally are in good condition,
+adequately maintained and suitable for their present and currently contemplated
+uses.
+
+ITEM 3.         LEGAL PROCEEDINGS.
+
+       See Item 1(C)(ix) "Environment" set forth above and Note 7(c) of the
+Notes to Consolidated Financial Statements included in this report.
+
+ITEM 4.         SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+       No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+                                       8
+
+<PAGE>   9
+
+
+                                     PART II
+
+ITEM 5.         MARKET FOR THE COMPANY'S COMMON STOCK AND RELATED SECURITY
+                HOLDER MATTERS.
+
+         The Company's common stock is traded on the American Stock Exchange
+(the "Exchange"). As of May 27, 1995 there were 1,339 holders of record of the
+common stock. The high and low sales prices of the common stock on the Exchange
+during fiscal years 1995 and 1994, by quarter, were as follows:
+
+<TABLE>
+<CAPTION>
+                                                            For the Fiscal Years Ended
+                                 ------------------------------------------------------------------------------
+                                        April 1, 1995                                       April 2, 1994
+                                 --------------------------                            ------------------------
+                                 High                   Low                            High                 Low
+                                 ----                   ---                            ----                 ---
+<S>                              <C>                   <C>                            <C>                  <C>                 
+April - June                     7-3/4                 5-3/8                          10-1/2               7-5/8
+July - September                 8-1/8                   5                            11-3/4                 9
+October - December               7-1/2                 5-3/8                          10-3/4               6-7/8
+January - March                  7-1/2                 5-5/8                          10-1/8                 7
+</TABLE>
+
+
+       No dividends on the common stock have been declared in more than five
+years. The Company does not anticipate declaring dividends in the foreseeable
+future. The Company's agreement with Fleet Bank, N.A. prohibits the payment of
+cash dividends for the term of the agreement. The indenture covering the
+Company's 10.5% Debentures limits the payment of cash dividends to 50% of
+aggregate consolidated net income earned after December 27, 1992 for so long as
+any of the debentures are outstanding. The Company is permitted by the indenture
+to pay dividends in common stock.
+
+ITEM 6.         SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                                                                   For the Fiscal Years Ended
+                                                               =====================================================================
+                                                                April 1,       April 2,      April 3,      March 28,      March 30,
+                                                                  1995           1994          1993            1992          1991
+                                                               (52 Weeks)     (52 Weeks)    (53 Weeks)     (52 Weeks)     (52 Weeks)
+                                                               ----------     ----------    ----------     ----------     ----------
+                                                                  (A)                          (B)                           (C)
+                                                                      (In thousands of dollars, except per share amounts)
+<S>                                                              <C>            <C>           <C>           <C>            <C>     
+Statement of Operations:
+   Net sales from continuing operations                           $ 54,677      $ 33,688      $ 28,477      $ 20,345       $ 17,658
+                                                                  ========      ========      ========      ========       ========
+   Income (loss) from continuing operations                       $  2,686      $  1,613      $  1,368      $   (507)      $ (3,701)
+                                                                  ========      ========      ========      ========       ========
+   Income (loss) per common and common equivalent
+     share from continuing operations                             $   0.69      $   0.44      $   0.46      $  (0.23)      $  (1.86)
+                                                                  ========      ========      ========      ========       ========
+   Cash dividends per common share                                    None          None          None          None           None
+                                                                  ========      ========      ========      ========       ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                                 As of
+                                                                    ================================================================
+                                                                    April 1,      April 2,      April 3,      March 28,    March 30,
+                                                                       1995          1994         1993          1992         1991
+                                                                    ----------   ----------    ----------     ----------  ----------
+<S>                                                                 <C>           <C>           <C>           <C>         <C>      
+Balance Sheet Data:
+   Total Assets                                                      $36,362       $24,461       $23,521       $14,646     $14,272
+                                                                     =======       =======       =======       =======     =======
+   Long-term obligations and redeemable preferred                    $ 6,185       $ 5,307       $ 8,248       $ 5,980     $ 7,450
+                                                                     =======       =======       =======       =======     =======
+     stock
+</TABLE>
+
+
+(A) Includes the results of operations of Cash Bases GB Limited since June 20,
+    1994.
+
+(B) Includes the results of operations of Ultimate Technology Corporation since
+    January 20, 1993.
+
+(C) Includes the results of operations of Ithaca Peripherals Incorporated since
+    May 10, 1990.
+
+                                       9
+
+<PAGE>   10
+
+
+ITEM 7.         MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE RESULTS OF
+                OPERATIONS AND FINANCIAL CONDITION.
+ 
+       (A) RESULTS OF OPERATIONS
+       
+       (i) 1995 COMPARED TO 1994
+
+       Consolidated net sales for the fiscal year (52 weeks) ended April 1, 1995
+increased $20,989,000 (62%) to $54,677,000 from $33,688,000 in the prior year
+(52 weeks) ended April 2, 1994. Sales of all printers and printer components
+accounted for 58% and 71% of total sales in fiscal 1995 and 1994, respectively.
+Terminal devices and customer displays represented 23% and 27%, respectively, of
+total sales in fiscal 1995 and 1994. Cash drawers represented 19% of total sales
+in fiscal 1995. The inclusion of Cash Bases' operations from the date of
+acquisition on June 20, 1994 contributed $10,528,000 of the revenue increase
+over the prior year. The remainder of the period-to-period increase primarily
+was the result of increased unit shipments of printers into the POS market, as
+well as increased shipments of printer products into the gaming and wagering and
+financial services markets, and increased sales of terminal devices.
+
+       Consolidated gross profit increased $6,168,000 (51%) to $18,249,000 from
+$12,081,000 in the prior year, primarily as a result of the contribution of Cash
+Bases and the increased sales in the gaming and wagering market and in the POS
+market. Consolidated gross profit as a percentage of net sales decreased to 33%
+of sales from 36% of sales in the prior year. The decrease in gross margin
+primarily reflects the sales of lower margin products into the POS and gaming
+and wagering markets, and to a lesser degree, the inclusion of Cash Bases. The
+gross margin is expected to remain at or near its current level during fiscal
+1996.
+
+       Consolidated engineering, design and product development costs increased
+$382,000 (19%) to $2,359,000 from $1,977,000 in the prior year. The increase
+reflects the inclusion of such costs for Cash Bases, as well as the cost of
+developing new products and enhancing existing products.
+
+       Consolidated selling, administrative and general expenses increased
+$3,319,000 (41%) to $11,350,000 from $8,031,000 in the prior year. The increase
+in selling expenses is the result of the inclusion of such costs for Cash Bases,
+increased sales commissions and the increased staff to support a greater selling
+effort in both the United States and European markets. The increase in general
+and administrative expenses is the result of additional employee costs and
+professional services to support business growth.
+
+       Consolidated operating profit for the current year increased $2,467,000
+(119%) to $4,540,000 from $2,073,000 in the prior year, primarily as a result of
+the contribution of Cash Bases and increased sales in the gaming and wagering
+market and in the POS market. Consolidated operating profit as a percentage of
+net sales increased to 8% from 6% in the prior year.
+
+       Net interest expense increased $151,000 (15%) to $1,171,000 from
+$1,020,000 in the prior year. The increase in interest expense was due primarily
+to the additional indebtedness incurred to acquire Cash Bases offset by the
+effect of the conversion of debt securities to common stock in the prior year.
+
+       Other non-operating expense (net) for the current year includes
+provisions for estimated loss on the disposal of non-productive property of
+$170,000 and estimated clean-up costs associated with certain environmental
+matters of $60,000, offset by an additional gain of $115,000 from a contingent
+payment related to the October 1993 sale of the Company's solenoid product line
+and net realized gains on foreign exchange of $84,000.
+
+       The provision for income taxes for fiscal 1995 reflects an effective tax
+rate of 19.7%. The provision is net of a tax credit of $770,000 recorded in the
+fourth quarter which reflects an adjustment to the Company's valuation allowance
+to recognize federal deferred tax benefits available to be used by the Company.
+The effective income tax rate in fiscal 1996 is expected to be in the mid-40%
+range.
+
+                                       10
+
+<PAGE>   11
+
+
+       Net income for the current year was $2,686,000 (or $.69 per share) as
+compared to $1,613,000 (or $.44 per share) in the prior year. The average number
+of common and common equivalent shares outstanding increased to 3,867,827 shares
+from 3,661,278 shares in the prior year due primarily to the issuance of common
+stock to acquire Cash Bases, the exercise of options and warrants, and the
+effect of conversion of various debt securities to common stock at the end of
+the prior year.
+
+       (ii) 1994 COMPARED TO 1993
+
+       Consolidated net sales for the fiscal year (52 weeks) ended April 2, 1994
+increased $5,211,000 (18%) to $33,688,000 from $28,477,000 in the prior year (53
+weeks) ended April 3, 1993. Sales of all printers and printer components
+accounted for 71% ($23,939,000) and 82% ($23,391,000) of total sales in fiscal
+1994 and fiscal 1993, respectively. Terminal devices and customer displays
+represented 27% ($9,182,000) and 6% ($1,767,000) of total sales in fiscal 1994
+(the first full year including Ultimate) and fiscal 1993 (which included less
+than one fiscal quarter of Ultimate), respectively. Solenoid sales were less
+than 2% of fiscal 1994 revenues versus 6% in fiscal 1993; the product line was
+sold effective October 1, 1993. The year-over-year increase in net sales
+resulting from the inclusion of Ultimate's operations for a full year was
+approximately $7,400,000. The prior year includes the results of Ultimate only
+from the date of acquisition, January 20, 1993. A substantial increase in the
+shipment of POS printers and kiosk printers was offset by reduced shipments of
+certain gaming and wagering printers, including sales of video lottery terminal
+("VLT") printers which were significant in the prior year. 
+
+       The Company's consolidated gross profit margin increased $3,214,000 
+(36%) to $12,081,000 from $8,867,000 in the prior year. The consolidated gross
+profit margin increased to 36% of sales from 31% of sales in the prior year. 
+The improved gross margin reflects the contribution of Ultimate, the favorable
+sales mix of products in the POS and financial services sectors, and, to a
+lesser degree, the reduced sales of the low margin solenoid products.
+
+       Consolidated engineering and design and product development costs
+increased $586,000 (42%) to $1,977,000 from $1,391,000 in the prior year period.
+The increase reflects the inclusion of these costs for Ultimate, as well as the
+cost of developing new products. In particular, the Company invested in the
+development of specialty printers and paper handling systems exclusively for
+GTECH Holdings Corporation ("GTECH"), a major supplier to the lottery industry.
+
+       Consolidated selling, administrative and general expenses increased
+$3,027,000 (60%) to $8,031,000 from $5,004,000 in the prior year. The increase
+in selling expenses is the result of the inclusion of these expenses for
+Ultimate and of the increased staff to support a greater selling effort in both
+the United States and European markets. The increase in general and
+administrative expenses is the result of the inclusion of such expenses for
+Ultimate, as well as the increase in the amortization of the excess of cost over
+fair value of net assets acquired and financing costs associated with the
+acquisition of Ultimate. The Company's corporate expense increased 59% from the
+prior year due to higher personnel costs, outside professional service costs,
+the amortization of acquisition and financing costs and a special provision for
+litigation matters totaling $280,000.
+
+       Consolidated operating profit for the 1994 fiscal year decreased $399,000
+(16%) to $2,073,000 from $2,472,000 in the prior year. Consolidated operating
+profit as a percentage of revenue decreased to 7% from 9% in the prior year. The
+additional operating profit generated by Ultimate was offset by a decrease in
+operating profit from the Company's other product lines. Such decrease in
+operating results was due principally to increased engineering and sales
+expenses discussed above, and the increased amortization of the excess of cost
+over fair value of net assets acquired.
+
+       The Company's Magnetec subsidiary operated in a "turn-around" mode during
+1994. The Company believes that Magnetec has made significant progress toward
+achieving acceptable levels of sales and operating profits.
+
+                                       11
+
+<PAGE>   12
+
+
+
+       Net interest expenses increased $294,000 (41%) to $1,020,000 from
+$726,000 in the prior year. The increase in interest expense was due to the
+higher average level of long term indebtedness resulting from the issuance, in
+conjunction with the acquisition of Ultimate, of the 10.5% Senior Subordinated
+Convertible Debentures due December 31, 1997 (the "10.5% Debentures") and the 8%
+Subordinated Convertible Term Promissory Notes due 1997 (the "8% Notes").
+
+       Other non-operating income for the 1994 fiscal year includes a gain of
+$175,000 on the sale of the Company's general solenoid product line. Proceeds of
+the sale were cash and common stock of the purchaser. Other non-operating
+expenses for the 1993 fiscal year include a provision for the estimated loss of
+$132,000 on the disposal of non-productive property and estimated clean-up costs
+of $270,000 associated with certain environmental matters.
+
+       The 1994 fiscal year provision for income taxes is a net benefit of
+$878,000 representing alternative minimum federal income taxes, state and local
+income taxes, the reversal of an excess income tax accrual relating to a prior
+year tax matter of $300,000 and a fourth quarter adjustment to the valuation
+allowance of $1,287,000 to recognize the benefit of certain deferred tax assets
+in accordance with FAS 109.
+
+       Net income for fiscal year 1994 was $1,613,000 (or $0.44 per share) as
+compared to $1,368,000 (or $0.46 per share) in the prior year. The average
+number of common and common equivalent shares outstanding increased to 3,661,278
+shares from 3,005,028 shares in the prior year due primarily to the conversion
+of various debt securities to common stock and the exercise of warrants and
+options.
+
+       (iii) LIQUIDITY AND CAPITAL RESOURCES
+
+       The Company's working capital at April 1, 1995 was $5,963,000 compared
+with $7,722,000 at April 2, 1994. The current ratio was 1.4 to 1.0 at April 1,
+1995 compared with 2.3 to 1.0 at April 2, 1994. The decrease in working capital
+and current ratio are due primarily to the additional debt classified as short
+term, issued in connection with the acquisition of Cash Bases.
+
+       On June 17, 1994, the Company replaced a prior line of credit with an
+agreement (the "Fleet Credit Agreement") with Fleet Bank N.A., which provides
+the Company with a Working Capital Facility of $4,625,000 (increased on June 22,
+1995 from an original amount of $4,000,000) and an acquisition facility of
+$3,500,000. The Working Capital Facility bears interest payable monthly at a
+rate one percentage point above Fleet's prime rate and bears a non-utilization
+fee. Although the Working Capital Facility is scheduled to expire on August 31,
+1995, the Company expects to renew it for a period of at least one year. The
+Acquisition Facility is for a term of three years, bears interest payable
+monthly at a rate 1.5 percentage points above Fleet's prime rate and requires
+principal to be paid in quarterly installments.
+
+       The Working Capital Facility provides critical capital for the Company.
+If for any reason this or comparable financing is not available to the Company,
+it would have an adverse effect on the Company and its ability to conduct its
+operations as previously conducted. The Company is required to comply with
+certain financial covenants, including minimum tangible capital base, minimum
+working capital, maximum leverage ratios and minimum interest coverage ratios,
+otherwise the lender may withdraw its commitment. The Company was in full
+compliance with these covenants for the period ended April 1, 1995 and expects
+to be in full compliance with these covenants during fiscal 1996. The Company
+has been in compliance with the covenants in its loan agreements for the past
+three years, other than four instances when it obtained waivers under its
+previous lender's loan agreement: September and December 1992 waivers of the
+covenants regarding maximum inventory and February and May 1993 waivers of the
+covenant regarding quick ratio.
+
+       On June 20, 1994 the Company completed the acquisition of Cash Bases. The
+purchase price of pounds sterling 3,500,000 (approximately $5.330 million) was
+paid pounds sterling 3,067,000 (approximately $4.672 million) in cash and pounds
+sterling 433,000 (approximately
+
+                                       12
+
+<PAGE>   13
+
+
+$658,000) by delivery of 96,788 shares of Tridex common stock, of which 72,647
+shares were placed in escrow to secure the accuracy of certain representations
+and warranties made by the sellers. The escrowed shares were released as
+scheduled, since the Company made no claims against the sellers for breach of
+representations and warranties prior to the scheduled release date. In
+addition, the Company guaranteed the sellers that the sales price of all such
+shares sold by sellers would not be less than the average market price of
+Tridex common stock at the time of the acquisition ($6.80 per share). The
+Company's liability must be settled in U.K. pounds sterling when the shares are
+sold. During fiscal 1995, the Company reimbursed the sellers an aggregate of
+$91,000 on the sale of 68,846 shares of common stock including losses on
+foreign exchange. Based on the current market price for the Company's common
+stock and current foreign exchange rates, the Company's potential liability for
+27,942 shares recently released from escrow would approximate $50,000 if the
+subject shares are sold by the sellers. The Company financed the cash portion
+of the purchase price through the Fleet Credit Agreement.
+
+       During the 1995 fiscal year, the Company's operating cash needs were
+satisfied with cash generated from operations and borrowings under its credit
+facilities. At April 1, 1995, the Company had no material commitments for
+capital expenditures and had availability of $1,600,000 remaining under the
+Working Capital Facility. During the first quarter of fiscal 1996, the Company
+relocated Magnetec to a new facility and experienced a temporary decrease in
+distributor demand for POS printers. As a result, cash flow from operations was
+adversely affected. In order to meet anticipated cash requirements during the
+first and second quarters of fiscal 1996, the Company and Fleet amended the
+Working Capital Facility to increase its borrowing limit to $4,625,000. In
+addition, to assure sufficient working capital availability, several senior
+executives agreed to defer payment of incentive bonuses totaling approximately
+$380,000 from June until early in the second quarter. The Company expects that
+funds generated from operations, supplemented by borrowings under the Working
+Capital Facility, will be sufficient to satisfy its cash needs for working
+capital, scheduled debt retirements and capital expenditures, including tooling
+for new products during fiscal 1996.
+
+       Over the long term, the Company believes that funds generated from
+operations and borrowings under the Working Capital Facility, if necessary, will
+continue to satisfy its working capital needs, support a certain level of growth
+and meet scheduled debt retirements. Nevertheless, to facilitate anticipated
+growth and provide additional liquidity, as well as take advantage of the
+current favorable financial market, the Company is reviewing refinancing
+alternatives regarding its short and long term debt.
+
+                                       13
+
+<PAGE>   14
+
+
+       (B) IMPACT OF INFLATION
+
+       Tridex believes that its business has not been affected to a significant
+degree by inflationary trends because of the low rate of inflation during its
+past three fiscal years and the increased efficiencies in its manufacturing
+process. Tridex believes that any increase in cost due to inflation can be
+recovered by price increases or offset by productivity improvements.
+
+<TABLE>
+<CAPTION>
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.                                                       Page
+                                                                                                               Number
+                                                                                                               ------
+<S>              <C>                                                                                             <C>
+                 Report of Independent Accountants                                                               15 
+
+                 Tridex Corporation and  Subsidiaries consolidated financial statements:   
+            
+                 Consolidated balance sheets as of April 1, 1995 and April 2, 1994.                              16
+ 
+                 Consolidated statements of operations for the years ended
+
+                      April 1, 1995, April 2, 1994, and April 3, 1993.                                           18
+
+                 Consolidated statements of shareholders' equity for the years ended
+
+                      April 1, 1995, April 2, 1994 and April 3, 1993.                                            19
+
+                 Consolidated statements of cash flows for the years ended
+
+                      April 1, 1995, April 2, 1994 and April 3, 1993.                                            20
+
+                 Notes to consolidated financial statements.                                                     21
+</TABLE>
+
+
+            Financial Statement Schedules - All schedules are omitted since the
+            required information is either (a) not present or not present in
+            amounts sufficient to require submission of the schedule or (b)
+            included in the financial statements or notes thereto.
+
+                                       14
+
+<PAGE>   15
+
+
+
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+         May 5, 1995     
+
+         To the Board of Directors and Shareholders
+         of Tridex Corporation
+
+         In our opinion, the consolidated financial statements listed in the
+         accompanying index present fairly, in all material respects, the
+         financial position of Tridex Corporation and its subsidiaries at April
+         1, 1995 and April 2, 1994, and the results of their operations and
+         their cash flows for each of the three years in the period ended April
+         1, 1995, in conformity with generally accepted accounting principles.
+         These financial statements are the responsibility of the Company's
+         management; our responsibility is to express an opinion on these
+         financial statements based on our audits. We conducted our audits of
+         these statements in accordance with generally accepted auditing
+         standards which require that we plan and perform the audit to obtain
+         reasonable assurance about whether the financial statements are free of
+         material misstatement. An audit includes examining, on a test basis,
+         evidence supporting the amounts and disclosures in the financial
+         statements, assessing the accounting principles used and significant
+         estimates made by management, and evaluating the overall financial
+         statement presentation. We believe that our audits provide a reasonable
+         basis for our opinion.
+
+         As discussed in Note 7 to the financial statements, the Company is
+         involved in an environmental remediation matter. The ultimate outcome
+         of the matter cannot presently be determined. A provision of the
+         estimated liability has been provided in the accompanying financial
+         statements.
+
+         Price Waterhouse LLP
+         Hartford, Connecticut
+
+         
+
+                                       15
+
+<PAGE>   16
+                      TRIDEX CORPORATION AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                        APRIL 1, 1995 AND APRIL 2, 1994
+
+                                    ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                    1995           1994
+                                                                -----------     -----------  
+<S>                                                             <C>             <C>
+Current assets:
+ Cash and cash equivalents                                      $   347,000     $    39,000
+ Receivables (Note 3)                                             9,635,000       6,842,000
+ Inventories (Note 4)                                             8,238,000       5,515,000
+ Prepaid expenses                                                   601,000         355,000
+ Deferred tax assets (Note 9)                                       742,000       1,020,000
+                                                                -----------     -----------  
+    Total current assets                                         19,563,000      13,771,000
+                                                                -----------     -----------
+Plant and equipment:
+ Machinery, furniture and equipment                              10,854,000       7,187,000
+ Leasehold improvements                                             360,000         503,000
+                                                                -----------     -----------
+                                                                 11,214,000       7,690,000
+ Less accumulated depreciation                                    6,791,000       5,480,000
+                                                                -----------     -----------
+                                                                  4,423,000       2,210,000
+                                                                -----------     -----------
+Excess of cost over fair value of net assets acquired            10,260,000       7,136,000
+
+Other assets                                                      1,977,000       1,205,000
+
+Loans receivable, officers                                          139,000         139,000
+                                                                -----------     -----------
+                                                                $36,362,000     $24,461,000
+                                                                ===========     ===========
+</TABLE>
+
+
+                        See notes to consolidated financial statements. 
+
+
+                                                16
+
+
+<PAGE>   17
+                      TRIDEX CORPORATION AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+                        APRIL 1, 1995 AND APRIL 2, 1994
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+                                                          1995            1994
+                                                      ------------    ------------
+<S>                                                   <C>             <C>
+Current liablities:                               
+  Bank loan payable (Note 6)                           $ 2,400,000     $   
+  Current portion of long term debt (Note 6)             2,346,000         689,000     
+  Accounts payable                                       4,877,000       3,255,000  
+  Accrued liabilities (Note 5)                           3,343,000       2,043,000
+  Income taxes payable                                     634,000          62,000
+                                                       -----------     -----------
+    Total current liabilities                           13,600,000       6,049,000
+                                                       -----------     -----------
+Long term debt, less current portion (Note 6)            6,185,000       5,307,000
+                                                       -----------     -----------
+Commitments and contingencies (Note 7)
+
+Shareholders' equity (Notes 2 and 6):
+  Preferred stock, $1 par value;
+    authorized 2,000,000 shares;
+    issued none
+  Common stock, no par value, stated value $.25;
+    authorized 10,000,000 shares;
+    issued 3,789,682 and 3,643,454 shares                  950,000         913,000
+  Additional paid-in capital                            21,853,000      21,228,000
+  Accumulated deficit                                   (5,612,000)     (8,298,000)
+
+  Cumulative translation adjustment                        124,000        
+
+  Common stock held in
+    treasury, 109,996 shares, at cost                     (738,000)       (738,000)
+                                                      ------------     -----------
+                                                        16,577,000      13,105,000
+                                                      ------------     -----------
+                                                       $36,362,000     $24,461,000
+                                                      ============     ===========
+
+</TABLE>
+
+
+                See notes to consolidated financial statements.
+
+
+                                       17
+
+<PAGE>   18
+
+                        TRIDEX CORPORATION AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF OPERATIONS
+                                     YEARS ENDED
+                  APRIL 1, 1995, APRIL 2, 1994 AND APRIL 3, 1993
+
+<TABLE>
+<CAPTION>
+                                                            1995           1994           1993
+                                                         -----------    -----------    -----------
+                                                        <C>            <C>            <C>
+
+
+Net sales                                                $54,677,000    $33,688,000    $28,477,000
+                                                         -----------    -----------    -----------
+
+Operating costs and expenses:
+  Cost of sales                                           36,428,000     21,607,000     19,610,000
+  Engineering, design and product
+    development costs                                      2,359,000      1,977,000      1,391,000
+  Selling, administrative and general expenses            11,350,000      8,031,000      5,004,000
+                                                         -----------    -----------    -----------
+                                                          50,137,000     31,615,000     26,005,000
+                                                         -----------    -----------    -----------
+Operating profit                                           4,540,000      2,073,000      2,472,000
+                                                         -----------    -----------    -----------
+Other charges:
+  Interest, net (Note 6)                                   1,171,000      1,020,000        726,000
+  Other, net                                                  24,000        318,000        177,000
+                                                         -----------    -----------    -----------
+                                                           1,195,000      1,338,000        903,000
+                                                         -----------    -----------    -----------
+
+Profit before income taxes                                 3,345,000        735,000      1,569,000
+
+Income tax provision (benefit) (Note 9)                      659,000       (878,000)       201,000
+                                                         -----------    -----------    -----------
+
+Net income                                               $ 2,686,000    $ 1,613,000    $ 1,368,000
+                                                         ===========    ===========    ===========
+
+Earnings per common and
+  common equivalent shares:                              $      0.69    $      0.44    $      0.46
+                                                         ===========    ===========    ===========
+
+Average common and common
+  equivalent shares outstanding:                           3,867,827      3,661,278      3,005,028
+                                                         ===========    ===========    ===========
+
+</TABLE>
+                            See notes to consolidated financial statements.
+
+
+                                              18
+
+
+
+<PAGE>   19
+                      TRIDEX CORPORATION AND SUBSIDIARIES
+
+                CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                                  YEARS ENDED
+                 APRIL 1, 1995, APRIL 2, 1994 AND APRIL 3, 1993
+
+<TABLE>
+<CAPTION>
+                                                                    Common stock
+                                              Common stock        held in treasury     Additional                    Cumulative
+                                         ---------------------   ------------------     paid-in      Accumulated    translation 
+                                           Shares      Amount     Shares    Amount      capital        deficit       adjustment
+                                          ---------   --------   -------   --------   -----------   ------------    -----------
+<S>                                       <C>         <C>        <C>       <C>        <C>           <C>             <C>
+Balance, March 28, 1992                   2,420,258   $608,000   109,996   $738,000   $14,811,000   $(11,279,000)                
+Conversion of debentures                    771,417    193,000                          3,721,000                               
+Warrants issued                                                                           138,000                               
+Issuance of Interest Shares                  25,992      6,000                            108,000                                
+Exercise of stock options                    52,515     13,000                             37,000                               
+Net income                                                                                             1,368,000                
+                                          ---------   --------   -------   --------   -----------   ------------    --------
+Balance, April 3, 1993                    3,270,182    820,000   109,996    738,000    18,815,000     (9,911,000)              
+
+Conversion of notes and debentures          261,571     66,000                          2,103,000                               
+Issuance of Interest Shares                   1,994      1,000                             17,000                               
+Exercise of warrants and stock options      109,707     26,000                            293,000                               
+Net income                                                                                             1,613,000                 
+                                          ---------   --------   -------   --------   -----------   ------------    --------
+Balance, April 2, 1994                    3,643,454    913,000   109,996    738,000    21,228,000     (8,298,000)                 
+
+Issuance of acquisition shares               96,788     24,000                            589,000                                 
+Exercise of warrants and stock options       49,440     13,000                             36,000                   
+Translation adjustments                                                                                             $124,000
+Net Income                                                                                             2,686,000
+                                          ---------   --------   -------   --------   -----------   ------------    --------
+Balance, April 1, 1995                    3,789,682   $950,000   109,996   $738,000   $21,853,000   $ (5,612,000)   $124,000
+                                          =========   ========   =======   ========   ===========   ============    ========
+</TABLE>
+
+
+                 See notes to consolidated financial statements.
+
+                                       19
+
+
+
+<PAGE>   20
+
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   YEARS ENDED
+                 APRIL 1, 1995, APRIL 2, 1994 AND APRIL 3, 1993
+
+<TABLE>
+<CAPTION>
+                                                                              1995               1994                1993
+                                                                          -----------        -----------         -----------
+<S>                                                                       <C>                <C>                 <C> 
+Cash flows from operating activities:                           
+      Net income                                                          $ 2,686,000        $ 1,613,000         $ 1,368,000
+      Adjustments to reconcile net income to net                
+       cash provided by operating                               
+        activities:                                             
+          Depreciation and amortization                                     2,264,000          1,796,000          1,086,000
+          Deferred income taxes                                              (522,000)        (1,020,000)
+          Loss (gain) on disposal of assets                                    (5,000)          (166,000)            27,000
+          Changes in operating assets and liabilities:          
+            Receivables                                                      (683,000)        (2,065,000)        (1,209,000)
+            Inventory and prepaid expenses                                 (1,728,000)           602,000         (1,810,000)
+            Other assets                                                     (239,000)           (12,000)          (463,000)
+            Accounts payable, accrued liabilities and           
+              income taxes payable                                          1,390,000             69,000          1,036,000
+            Other                                                              36,000            132,000
+                                                                          -----------        -----------         -----------
+                Net cash provided by operating activities                   3,199,000            949,000             35,000
+                                                                          -----------        -----------         -----------
+Cash flows from investing activities:                           
+      Purchases of plant and equipment                                     (2,485,000)          (950,000)        (1,056,000)
+      Proceeds from sale of assets                                            121,000            608,000
+      Acquired net assets and acquisition costs, net of cash               (5,576,000)                           (5,507,000)
+      Other                                                                    15,000            139,000
+                                                                          -----------        -----------         -----------
+        Net cash used in investing activities                              (7,925,000)          (203,000)        (6,563,000)
+                                                                          -----------        -----------         -----------
+Cash flows from financing activities:                           
+      Net change in borrowings under line of credit                         2,400,000
+      Net proceeds from issuance of long-term debt                          3,606,000                             6,358,000
+      Principal payments on long term borrowings                           (1,666,000)        (1,294,000)          (680,000)
+      Issuance of capital stock and warrants                                  614,000                               138,000
+      Proceeds from exercise of stock options                                  48,000            319,000             50,000
+      Other                                                                    24,000
+                                                                          -----------        -----------         -----------
+        Net cash provided by (used in) financing activities                 5,026,000           (975,000)         5,866,000
+                                                                          -----------        -----------         -----------
+Effect of exchange rate changes on cash                                         8,000
+Increase (decrease) in cash and cash equivalents                              308,000           (229,000)          (662,000)
+Cash and cash equivalents at beginning of year                                 39,000            268,000            930,000
+                                                                          -----------        -----------         -----------
+Cash and cash equivalents at end of year                                  $   347,000        $    39,000         $  268,000
+                                                                          -----------        -----------         -----------
+Supplemental cash flow information:                             
+      Interest paid                                                       $ 1,018,000        $ 1,064,000         $  760,000   
+      Income taxes paid                                                     1,092,000            310,000            176,000
+Supplemental non-cash investing and financing activities:       
+      Conversion of convertible debentures to common stock                                   $ 2,169,000        $ 3,914,000
+      Acquisitions:                                             
+        Fair market value of assets acquired,                   
+           excluding cash acquired                                        $ 3,957,000                           $ 1,045,000
+        Goodwill                                                            3,985,000                             4,962,000
+        Debt incurred                                                      (4,800,000)                           (6,797,000)
+        Liabilities assumed                                                (2,366,000)                             (500,000)
+        Issuance of warrants                                                 (614,000)                             (138,000)
+                                                                          -----------                           ------------
+          Net cash used (received)                                        $   162,000                           $(1,428,000)
+                                                                          ===========                           ============
+</TABLE>                                                        
+                                                                
+
+                 See notes to consolidated financial statements.
+
+                                       20
+
+<PAGE>   21
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+     Tridex Corporation (the "Company"), through its wholly-owned subsidiaries
+Magnetec Corporation ("Magnetec"), Ithaca Peripherals Incorporated ("Ithaca"),
+Ultimate Technology Corporation ("Ultimate") and Cash Bases GB Limited ("Cash
+Bases"), (collectively the "Company"), operates in one industry segment,
+computer peripheral equipment. Operations in this segment include the design,
+development, manufacture and sale of specialty dot matrix impact printers,
+thermal printers, printer mechanisms, and optical mark-sense readers for OEM
+applications, and dot matrix impact printers, customer displays, terminal
+devices and cash drawers for POS applications.
+
+     The financial position and results of operations of the Company's foreign
+subsidiaries are measured using local currency as the functional currency.
+Assets and liabilities of such subsidiaries have been translated at current
+exchange rates, and related revenues and expenses have been translated at
+weighted average exchange rates. The aggregate effect of translation adjustments
+so calculated is included as a separate component of shareholders' equity.
+Transaction gains and losses are included in other income.
+
+       In the 1995 and 1993 fiscal years, no one customer accounted for more
+than 10% of consolidated net sales. In the 1994 fiscal year, one customer
+accounted for 10% of consolidated net sales. 
+
+       Principles of consolidation: The accompanying consolidated financial 
+statements include the accounts of the Company after elimination of all 
+material intercompany accounts and transactions. All subsidiaries are 
+wholly-owned.
+
+     Fiscal year: The Company's fiscal year ends on the Saturday closest to
+March 31. The fiscal years ended April 1, 1995 and April 2, 1994 consisted of 52
+weeks. The fiscal year ended April 3, 1993 consisted of 53 weeks.
+
+     Cash and cash equivalents: Cash equivalents consist primarily of
+certificates of deposit with maturities of less than ninety days and are carried
+at cost which approximates market value.
+
+       Inventories: Inventories are stated at the lower of cost (principally
+first-in, first-out) or market.
+
+       Plant and equipment and depreciation: Plant and equipment and leasehold
+improvements are stated at cost. Depreciation is provided for primarily by the
+straight-line method over the estimated useful lives. The estimated useful life
+of machinery, furniture and equipment is five to ten years. Leasehold
+improvements are amortized over the shorter of the term of the lease or the
+useful life of the asset.
+
+     Excess of cost over fair value of net assets acquired: The excess of cost
+over fair value of net assets acquired (goodwill) resulted from the acquisitions
+of Cash Bases in fiscal year 1995, Ultimate in 1993 and Ithaca in 1991. The
+amount applicable to these acquisitions totaled $10,260,000 at April 1, 1995,
+and is being amortized between ten and twenty years. Accumulated amortization of
+the excess of cost over fair value of net assets acquired was $2,238,000 and
+$1,408,000 at April 1, 1995 and April 2, 1994, respectively. The Company
+periodically reviews goodwill to assess recoverability based upon expectations
+of nondiscounted cash flows from operations for each subsidiary having a
+material goodwill balance. The Company believes that no material impairment of
+goodwill exists at April 1, 1995 or April 2, 1994.
+
+     Other assets: Included in other assets are deferred tax assets of $794,000
+(See Note 9) and the net book value of real estate held for sale in the amount
+of $238,000 and shares of common stock of the purchaser of the Company's general
+solenoid product line. Also included in other assets are the following: bond
+issue costs (see Note 6) which are being amortized on a straight line method
+over the term of the bond; the cost of patents acquired and other related
+acquisition costs which are being amortized on a straight line method over a
+seven and five year life, respectively. Accumulated amortization of other assets
+was $637,000 and $624,000 at April 1, 1995 and April 2, 1994, respectively.
+
+     Revenue recognition:  Sales are recognized when the product is shipped.
+
+     Income taxes: Income tax expense is based on estimated taxes payable or
+refundable on a tax return basis for the current year and changes in the amount
+of deferred tax assets and liabilities during the year. Deferred income taxes
+are provided for revenue and expenses which are recognized in different periods
+for income tax and financial statement purposes. Effective April 4, 1993, the
+Company adopted FAS 109 "Accounting for Income Taxes," which mandates the
+liability method for computing deferred income taxes. The objective of the
+liability method is to recognize the amount of current and deferred taxes
+payable or refundable at the financial statement date resulting from all events
+that have been recognized in the financial statement based upon the provisions
+of enacted tax laws. See Note 9 for a further discussion.
+
+     Earnings per share: Primary earnings per common and common equivalent share
+are based on the weighted average number of common shares outstanding during the
+period, including stock options and warrants. Fully diluted earnings per common
+share assumes conversion of dilutive securities, when the result is dilutive.
+
+                                       21
+
+<PAGE>   22
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+2.   BUSINESS COMBINATIONS:
+
+     On June 20, 1994 the Company completed the acquisition of Cash Bases, of
+Newhaven, England. The purchase price of pounds sterling 3,500,000
+(approximately $5.330 million) was paid pounds sterling 3,067,000 (approximately
+$4.672 million) in cash and pounds sterling 433,000 (approximately $658,000) by
+delivery of 96,788 shares of Tridex common stock, of which 72,647 shares were
+placed in escrow to secure the accuracy of certain representations and
+warranties made by the sellers. The escrowed shares were released as scheduled
+since the Company made no claim against the sellers for breach of
+representations and warranties prior to a scheduled release date. In addition,
+the Company guaranteed the sellers that the sales price of all such shares sold
+by sellers will not be less than the average market price of Tridex common
+stock at the time of the acquisition ($6.80 per share). The Company's potential
+liability must be settled in U.K. pounds sterling when the shares are sold.
+During fiscal 1995, the Company reimbursed the sellers an aggregate of $91,000
+on the sale of 68,846 shares of common stock including losses on foreign
+exchange. Based upon the current market price for the Company's common stock
+and current foreign exchange rates, the Company's potential liability for the
+remaining 27,942 shares to be released from escrow would approximate $50,000.
+The Company financed the cash portion of the purchase price through the Fleet
+Credit Agreement discussed in Note 6.    
+
+     On January 20, 1993, the Company purchased all of the common stock of
+Ultimate, a privately held New York corporation. The total purchase price of
+$7,160,000 was payable in cash and debt. The selling shareholders received
+$3,000,000 principal amount (before discount of $700,000 for imputed interest)
+of 8% Subordinated Convertible Term Promissory Notes (the "8% Notes"). The
+balance was paid in cash from the proceeds of the sale of $4,200,000 principal
+amount 10.5% Senior Subordinated Convertible Debentures due December 31, 1997
+(the "10.5% Debentures") and associated Warrants to purchase 42,000 shares (the
+"Warrants") of Tridex common stock. The 8% Notes, 10.5% Debentures and Warrants
+are discussed further in Note 6.
+
+     The acquisitions have been accounted for using the purchase method of
+accounting. The acquired company's assets and liabilities have been recorded in
+the Company's financial statements at their estimated fair values at the
+acquisition date. The Consolidated Statements of Operations include the results
+of operations of the acquired company from the acquisition date.
+
+     The following pro forma data (unaudited) reflect the fiscal 1995
+acquisition of Cash Bases as if the acquisition had occurred at the beginning of
+fiscal 1995 and fiscal 1994 and the fiscal 1993 acquisition of Ultimate as if
+the acquisition had occurred at the beginning of fiscal 1993; such data does not
+purport to be indicative of what would have occurred had these transactions been
+made on that date:
+
+<TABLE>
+<CAPTION>
+                                                      For the Fiscal Years Ended
+                                           ---------------------------------------------------
+                                           April 1, 1995      April 2, 1994      April 3, 1993
+                                           -------------      -------------      -------------
+                                                  (In thousands except per share amounts)
+<S>                                            <C>               <C>                <C>
+Revenue                                        $57,302            $43,321            $34,618
+Operating profit                               $ 4,747            $ 3,274            $ 3,289
+Net income                                     $ 2,749            $ 1,922            $ 1,370
+Earnings per common
+     and common equivalent share               $  0.70            $  0.51            $  0.46
+</TABLE>
+
+
+                                       22
+
+<PAGE>   23
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+3.   RECEIVABLES:
+
+     Receivables are net of the allowance for doubtful accounts. The
+reconciliation of the allowance for doubtful accounts is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                            For the Fiscal Years Ended
+                                                           -------------------------------------------------------------
+                                                           April 1, 1995          April 2, 1994            April 3, 1993
+                                                           -------------          -------------            -------------
+                                                                                 (In thousands)
+<S>                                                         <C>                    <C>                       <C>   
+     Balance at beginning of year                           $      85               $     44                 $     43
+          Provision for doubtful accounts                          74                     85                       16
+          Accounts written off, net of recoveries                (117)                   (44)                     (15)
+                                                            ---------               --------                 --------
+     Balance at end of year                                 $      42               $     85                 $     44
+                                                            =========               ========                 ========
+</TABLE>
+ 
+
+4.   INVENTORIES:
+
+The components of inventories are:
+
+<TABLE>
+<CAPTION>
+                                                       April 1, 1995   April 2, 1994
+                                                       -------------   -------------
+                                                               (In thousands)
+<S>                                                        <C>            <C> 
+Raw materials and component parts                          $6,232         $4,209
+Work-in-process                                               869            582
+Finished goods                                              1,137            724
+                                                           ------         ------
+                                                           $8,238         $5,515
+                                                           ======         ======
+</TABLE>
+
+
+5.   ACCRUED LIABILITIES:
+
+The components of accrued liabilities are:
+
+<TABLE>
+<CAPTION>
+                                                            April 1, 1995     April 2, 1994
+                                                            -------------     -------------
+                                                                    (In thousands)
+<S>                                                            <C>               <C>
+Payroll, fringe benefits and commissions                       $1,803            $  840
+Taxes other than income taxes                                      73                64
+Interest                                                           25                30
+Customer advances, deferred revenue and warranty                  346               263
+Environmental matters                                             333               310
+Professional services and insurance                               199               111
+Other                                                             564               425
+                                                               ------            ------
+                                                               $3,343            $2,043
+                                                               ======            ======
+</TABLE>
+
+                                      23
+
+
+<PAGE>   24
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+6.   BANK CREDIT AGREEMENT AND LONG TERM DEBT:
+
+     On June 17, 1994, the Company and Fleet Bank, N.A. ("Fleet"), entered
+into an agreement (the "Fleet Credit Agreement") to provide the Company with
+$4,000,000 working capital revolving credit facility (the "Working Capital
+Facility") and a $3,500,000 acquisition term loan facility (the "Acquisition
+Facility"). (See Note 13, Events Subsequent to April 1, 1995 (unaudited)). The
+Working Capital Facility, included on the accompanying balance sheet as "Bank
+loan payable", expires on August 31, 1995, bears interest payable monthly at a
+rate one percentage point above Fleet's prime rate or 10.0% at April 1, 1995,
+and bears a non-utilization fee. Availability under the Working Capital Facility
+is limited to 80% of the Company's eligible accounts receivable. The Acquisition
+Facility, included in the accompanying table as "Term loan payable", which was 
+used to fund the acquisition of Cash Bases discussed in Note 2, is for a term 
+of three years, bears interest payable monthly at a rate 1.5 percentage points 
+above Fleet's prime rate, or 10.5% on April 1, 1995, and requires principal to 
+be paid in quarterly installments. The Fleet Credit Agreement is secured by a 
+first priority security interest in certain assets, imposes certain covenants 
+(including minimum tangible capital base, minimum working capital, maximum 
+leverage ratios and minimum interest coverage ratios) and restricts the amount 
+available for payment in cash dividends and capital stock distributions.
+
+     The components of long term debt are:
+
+<TABLE>
+<CAPTION>
+                                                                                 April 1, 1995            April 2, 1994
+                                                                                 -------------            -------------
+                                                                                             (In thousands)
+<S>                                                                               <C>                        <C> 
+     Term loan payable                                                             $    2,625
+     10.5% Senior Subordinated Convertible Debentures
+          due 1997, net of discount of $22 and $30                                      3,448                $   3,440
+     8% Subordinated Convertible Term Promissory
+          Notes due 1997, net of discount $308 and $487                                 1,742                    1,938
+     Other                                                                                716                      618
+                                                                                   ----------                ---------
+                                                                                        8,531                    5,996
+     Current portion                                                                    2,346                      689
+                                                                                   ----------                ---------
+                                                                                   $    6,185                $   5,307
+                                                                                   ==========                =========
+</TABLE>
+
+     The 10.5% Debentures were privately placed in 1993 in conjunction with the
+acquisition of Ultimate. Interest is payable quarterly on March 15, June 15,
+September 15 and December 15. The Company is required to make a sinking fund
+payment of $740,000 on December 15, 1996. The 10.5% Debentures are convertible
+into Tridex common stock at $9.00 per share. As of April 1, 1995, the Company
+has reserved 385,555 shares of common stock pursuant to the conversion feature.
+The indenture restricts the amount available for the payment of cash dividends
+and capital stock distributions. In conjunction with the issuance of the 10.5%
+Debentures, the Company issued to each debenture holder detachable warrants to
+purchase common stock of Tridex Corporation (the "Warrants") at a rate of 10
+shares per $1,000 principal amount of debentures. The Warrants are exercisable
+for a period of five years at $9.25 per share. As of April 1, 1995, the Company
+had reserved 45,500 shares of common stock for the exercise of the Warrants. The
+estimated fair market value of the Warrants has been recorded as a discount to
+the principal amount of the outstanding debentures and is being amortized over
+the term of the debt. Costs incurred in connection with the issuance of the
+10.5% Debentures of approximately $448,000 are recorded in other assets and are
+being amortized over the term of the debentures.
+
+     The 8% Notes were issued in conjunction with the acquisition of Ultimate
+from its former shareholders. The 8% Notes are payable in quarterly installments
+over five years and are convertible into Tridex common stock at $12.00 per
+share. As of April 1, 1995, the Company had reserved 170,833 shares of common
+stock pursuant to this conversion feature. The discount on the 8% Notes
+represents imputed interest at a rate of approximately 18%. The discount,
+recorded as a reduction of the purchase price of Ultimate, is being amortized
+over the life of the notes using the interest rate method.
+
+     Other long term debt consists of a mortgage note payable and an equipment
+financing note payable. The mortgage note payable of $319,000 at April 1, 1995
+and $361,000 at April 2, 1994 is collateralized by certain land and buildings
+with a net book value of $238,000 at April 1, 1995. The note is payable at the
+rate of $6,535 per month, including interest at 12.0% and has a final payment of
+approximately $300,000 due in October 1995. The equipment note payable is
+collateralized by the underlying equipment.
+
+                                       24
+
+<PAGE>   25
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+6.   BANK CREDIT AGREEMENT AND LONG TERM DEBT:  (CONTINUED)
+
+     Maturities of long-term debt, including sinking fund requirements and
+retirement of the 10.5% Debentures and 8% Notes are as follows: $2,346,000 in
+1996, $3,138,000 in 1997 and $3,377,000 in 1998. Interest expense is stated net
+of interest income of $33,000 in 1995, $11,000 in 1994 and $14,000 in 1993.
+
+7.   COMMITMENTS AND CONTINGENCIES:
+  
+    (A)  LEASE OBLIGATIONS:
+
+          At April 1, 1995, the Company was lessee on long term operating leases
+     for equipment and real property. The terms of certain leases provide for
+     payment of minimum rent and real estate taxes. Rent expense amounted to
+     approximately $997,000 in 1995, $676,000 in 1994 and $535,000 in 1993.
+     Minimum aggregate rental payments required under operating leases that have
+     initial or remaining non-cancelable lease terms in excess of one year as of
+     April 1, 1995 are as follows: $966,000 in 1996, $983,000 in 1997; $909,000
+     in 1998; $874,000 in 1999; $856,000 in 2000 and $2,695,000 thereafter.
+
+     (B) ENVIRONMENTAL MATTERS:
+
+          The Company is involved in one significant environmental matter:
+
+          Allu Realty Trust ("Allu"), a Massachusetts business trust, with
+     transferable shares, all of which are owned by Tridex, is the former owner
+     of land improved with a manufacturing-warehouse building located at 100
+     Foley Street, Somerville, Massachusetts (the "Site"). Although Allu has
+     sold the property to 100 Foley Street Incorporated ("Foley"), an unrelated
+     entity, Allu and Tridex remain responsible for certain environmental
+     problems associated with the Site.
+
+          During July 1984, Allu and Tridex disclosed to the Massachusetts
+     Department of the Attorney General the existence of chromium, oil and
+     grease at the Site. As a result, the Environmental Protection Division of
+     the Department of the Attorney General and the Massachusetts Department of
+     Environmental Protection ("MDEP") conducted an investigation of the Site.
+     At MDEP's request, the Company retained an environmental engineering firm,
+     which completed a Phase II investigation study of the Site. The Company has
+     conducted further studies to characterize and assess the Site more
+     specifically and to determine appropriate long term clean-up measures. In
+     January 1993, the Company entered into an agreement with Foley pursuant to
+     which Tridex and Foley agreed to pay 75% and 25%, respectively, of the
+     costs incurred after January 1, 1992 in connection with the investigation
+     and remediation of the Site (the "Site Participation Agreement"). The Site
+     Participation Agreement also provides that, to the extent there are
+     available proceeds from the sale of the Site or, if not sold, from the
+     operation of the Site after January 1, 1997, Tridex shall be reimbursed for
+     all or a portion of the $260,000 it expended in connection with the Site
+     prior to January 1, 1992. Under the terms of an Escrow Agreement entered
+     into by Tridex and Foley simultaneously with the Site Participation
+     Agreement (the "Escrow Agreement"), Tridex and Foley each placed $125,000
+     into escrow to fund the payment of their obligations under the Site
+     Participation Agreement. Under the terms of the Escrow Agreement, Tridex
+     must place an additional $100,000 in escrow at the request of the Escrow
+     Agent and thereafter the amount of any additional funds required to be
+     placed in escrow by the Escrow Agent shall be contributed 75% by Tridex and
+     25% by Foley. Approximately $2,000 is being held in escrow as of April 1,
+     1995, all of which was contributed by Foley.
+
+          As of April 1, 1995, the Company had spent approximately $579,000 in
+     connection with the Site. Of this amount, approximately $424,000 relates to
+     investigation or remediation costs incurred at the Site. Although it is
+     difficult to distinguish between amounts spent for investigation and
+     remediation, the Company estimates that approximately $351,000 has been
+     spent in connection with investigation and approximately $73,000 has been
+     spent in connection with remediation of the Site. The Company estimates
+     that approximately $100,000 to $300,000 will be spent in connection with
+     the Site during fiscal 1996, including expenditures from the escrow
+     account. Based upon preliminary estimates provided by a consulting
+     environmental engineer and based upon the likely future uses of the
+     property, as of April 1, 1995, the Company had accrued $333,000 for the 
+     estimated liability associated with the Site which represents currently 
+     estimated minimum cost of remediation, after considering the cost sharing 
+     arrangement discussed above. Accordingly, although no assurances can be
+     given regarding the materiality of the total costs which may be incurred,
+     the Company does not believe at this time that the remediation of the Site
+     is reasonably likely to have a material effect on the Company's financial
+     condition, results of operations or liquidity. The Company believes that
+     implementation of clean-up measures will commence, and may be completed, in
+     fiscal 1996, in which case the entire amount of remediation costs to be
+     borne by the Company would be incurred and paid in fiscal 1996.
+
+
+                                       25
+
+<PAGE>   26
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ 7.  COMMITMENTS AND CONTINGENCIES:  (CONTINUED)
+
+     (B) ENVIRONMENTAL MATTERS:  (CONTINUED)
+
+          The Company expects that, as in the past, funds being held in escrow,
+     cash from operations and the Company's credit facilities will be sufficient
+     to pay the costs of remediation without a material effect on the Company's
+     operations.
+
+          The Company has also been notified by an adjacent property owner,
+     Cooper Industries ("Cooper"), that certain petroleum products that may have
+     migrated from the Site have been detected in a monitoring well located on
+     Cooper's property. The Company and Foley are investigating possible oil
+     contamination along the border between the Site and the property owned by
+     Cooper.
+
+     (C)  LEGAL PROCEEDINGS:
+
+          In November, 1990, Tridex filed suit against a former landlord, Gorham
+     Island Associates ("GIA") seeking monetary damages and rescission of a
+     lease covering 5,700 square feet of office space in Westport, Connecticut
+     (the "Lease"). In January, 1991, GIA filed suit against Tridex seeking
+     payment of all amounts due under the Lease for the balance of the Lease
+     term (aggregating approximately $1,021,000) and other damages. The Company,
+     and its legal counsel in the matter, believe GIA's suit is without merit
+     and the Company does not believe that the outcome is likely to have a
+     material effect on the Company's financial condition, operating results or
+     liquidity. Tridex intends to prosecute its claims against GIA vigorously
+     and defend the suit brought by GIA. The trial commenced in April, 1994. The
+     outcome is not expected before the third quarter of fiscal year 1996.
+
+     (D)  CONSULTING SERVICES AGREEMENT:
+
+          The Company has a Consulting Services Agreement with one of its
+     corporate directors and significant shareholder. Under the terms of this
+     agreement, the consulting services will be provided through April 1, 1997,
+     for $75,000 per annum.
+
+8.   STOCK OPTIONS AND WARRANTS:
+
+     1989 LONG TERM INCENTIVE PLAN
+
+     The 1989 Long Term Incentive Plan (the "Plan") permits stock-based
+incentive compensation in the form of: (a) stock options, (b) stock appreciation
+rights, (c) restricted stock, (d) deferred stock, (e) stock purchase rights and
+(f) other stock-based compensation. Pursuant to the Plan, up to 1,250,000 shares
+of common stock may be distributed to officers and key employees of the Company.
+Options granted are at prices equal to 100% of the fair market value of the
+common stock at the date of grant. No charge against income was required with
+respect to options. Options granted are exercisable at the discretion of the
+Stock Option Committee, but in no event shall the period be for more than ten
+years. Ninety days after an employee's termination, the outstanding options are
+canceled. At April 1, 1995 the Company had reserved 1,140,595 shares of common
+stock for issuance upon the exercise of options granted under the Plan. The
+following table summarizes the activity of the Plan for the past three years.
+
+
+
+                                       26
+
+<PAGE>   27
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+8.   STOCK OPTIONS AND WARRANTS:  (CONTINUED)
+
+<TABLE>
+<CAPTION>
+                                                                                                 Options
+                                                                                               Exercisable
+                                      Shares Under Option               Price Per Share        at Year End
+                                      -------------------               ---------------        -----------
+<S>                                        <C>                         <C>                      <C>     
+       Options outstanding 3/28/92          343,050                     $0.750 - $  4.375         99,845
+          Options granted                   209,500                     $4.000 - $  9.075      ===========
+          Options exercised                 (52,515)                    $0.750 - $  1.875
+          Options canceled                  (15,800)                    $0.750 - $  5.250
+                                      -------------------
+       Options outstanding 4/3/93           484,235                                               116,515
+                                                                                               ===========
+          Options granted                   119,000                     $7.250 - $10.750
+          Options exercised                 (29,000)                    $0.750 - $ 5.250
+          Options canceled                  (60,380)                    $0.750 - $ 9.000
+                                      -------------------
+       Options outstanding 4/2/94           513,855                     $0.750 - $10.750          173,905
+                                                                                               ===========
+          Options granted                   127,150                     $6.625 - $ 8.000
+          Options exercised                 (14,440)                    $0.750 - $ 5.250
+          Options canceled                  (14,100)                    $8.750 - $10.750
+                                      -------------------
+       Options outstanding 4/1/95           612,465                     $0.750 - $10.750          255,295
+                                      ===================                                      ===========
+</TABLE>
+
+     WARRANTS:
+
+     As of April 1, 1995, the Company had outstanding stock purchase warrants
+for an aggregate of 283,832 shares of common stock. Stock purchase warrants for
+165,000 shares expiring five years from date of grant are held by directors of
+the Company, for 73,332 shares expiring December 31, 1997 are held by Value
+Investing Partners, Inc., placement agent for the Company for the 10.5%
+Debentures, and for 45,500 shares expiring December 31, 1997 are held by
+purchasers of the 10.5% Debentures. The following table summarizes the activity
+of outstanding warrants for the past three years.
+
+<TABLE>
+<CAPTION>
+                                                                                                   Warrants
+                                                                                                 Exercisable
+                                        Shares Under Warrant              Price Per Share        at Year End
+                                        --------------------              ---------------        -----------
+<S>                                          <C>                          <C>                      <C>
+       Outstanding 3/28/92                   135,707                      $0.875 - $4.250          135,707
+                                                                                                   =======
+          Granted to directors                75,000                      $5.250 - $9.250
+          Issued to debenture holders         45,500                               $9.250
+          Issued to placement agent           73,332                               $9.250
+                                             -------
+
+       Outstanding 4/3/93                    329,539                      $0.875 - $9.250          329,539
+                                                                                                   =======
+          Granted to directors                70,000                               $7.250
+          Exercised                          (80,707)                     $0.875 - $4.250
+                                             -------
+       Outstanding 4/2/94                    318,832                      $0.875 - $9.250          248,832
+                                                                                                   =======
+          Exercised                          (35,000)                              $0.875
+                                             -------
+       Outstanding 4/1/95                    283,832                      $0.875 - $9.250          236,932
+                                             =======                                               =======
+</TABLE>
+
+
+
+                                       27
+
+<PAGE>   28
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   INCOME TAXES:
+
+     Effective April 4, 1993, the Company adopted FAS 109, "Accounting for
+Income Taxes." Upon adoption of FAS 109, the Company recorded deferred tax
+assets of $3,262,000, additional deferred tax liabilities of $162,000 and a
+related valuation allowance of $3,100,000. The net cumulative effect upon
+adoption was not material.
+
+     The components of the income tax provision (benefit) are as follows:
+
+<TABLE>
+<CAPTION>
+                                                 For the Fiscal Years Ended
+                                          -------------------------------------------
+                                          April 1, 1995  April 2, 1994  April 3, 1993
+                                                       (In thousands)
+<S>                                           <C>           <C>         <C>
+Current:
+     Federal                                  $   464       $(136)      $     9
+     State                                        287         278           192
+     Foreign                                      430
+                                              -------       -----       -------
+                                                1,181         142           201
+                                              -------       -----       -------
+Deferred:
+     Federal                                     (477)       (867)
+     State                                          1        (153)
+     Foreign                                      (46)
+                                              -------       -----       -------
+                                                 (522)     (1,020)
+                                              -------       -----       -------
+Total income tax provision (benefit)          $   659       $(878)      $   201
+                                              =======       =====       =======
+</TABLE>
+
+     At April 1, 1995, the Company had $6,879,000 of state net operating loss
+carryforwards that expire principally in fiscal years 1996 through 1998. In
+1995, the Company recognized tax expense of $30,000 which represents the tax
+effect of the utilization of acquired federal net operating loss carryforwards
+of $90,000 from the Company's Ithaca subsidiary; such recognition resulted in an
+adjustment to the purchase cost (reducing goodwill). Federal business and
+foreign tax credit carryforwards which are available to offset future federal
+income taxes total $787,000 and principally expire in fiscal years 1997 through
+2002. The Company has a federal minimum tax credit carryforward of approximately
+$211,000 which will be available to reduce federal tax in future years.
+
+     Differences between the U.S. statutory federal income tax rate and the 
+company's effective income tax rate are analyzed below:
+
+
+<TABLE>
+<CAPTION>
+                                                       For the Fiscal Years Ended
+                                                 -------------------------------------------
+                                                April 1, 1995  April 2, 1994  April 3, 1993
+                                                             (In thousands)
+<S>                                                    <C>         <C>           <C>
+Federal statutory tax rate                              34.0%        34.0%       34.0%
+  Income tax benefit of net operating loss
+      carryforward                                                              (12.4)
+    Overaccrual of prior year income taxes                          (41.0)       (9.5)
+    Changes attributable to temporary                                            (6.4)
+      differences
+    State income taxes, net of federal income            5.7          4.0         7.4
+      tax
+    Non-deductible purchase accounting
+      adjustments                                        8.4         31.5         3.0
+    Valuation allowance                                (33.7)      (166.0)         
+    Federal benefit of acquired loss
+      carryforwards                                      1.0         20.0           
+      used to reduce goodwill
+    Effect of foreign operations                         3.8
+    Other                                                 .5         (2.5)       (3.3)
+                                                       -----       ------        ----
+Effective tax rate                                      19.7%      (120.0)%      12.8%
+                                                       =====       ======        ====    
+</TABLE>
+
+
+                                       28
+
+<PAGE>   29
+
+
+                       TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   INCOME TAXES: (CONTINUED)
+
+     The Company's gross deferred tax assets and liabilities were comprised of
+the following:
+
+<TABLE>
+<CAPTION>
+                                                                                 April 1, 1995           April 2, 1994
+                                                                                 -------------           -------------
+                                                                                             (In thousands)
+<S>                                                                                <C>                     <C>
+       Gross deferred tax assets:                                                            
+       Currently non-deductible liabilities and reserves                           $    1,048              $    1,033
+       Net operating loss carryforwards                                                   514                     910
+       Federal business and foreign  tax credit                                           787                     835
+         carryforwards
+       Federal minimum tax credit carryforwards                                           211                     208
+                                                                                   ----------              ----------
+                                                                                   $    2,560              $    2,986
+                                                                                   ==========              ==========
+       Gross deferred tax liabilities:
+       Depreciation                                                                $      135              $      153
+                                                                                   ==========              ==========
+</TABLE>
+
+
+     At April 1, 1995, a valuation allowance of $889,000 has been recorded which
+relates primarily to state net operating loss and federal foreign tax credit
+carryforwards, and certain state deferred tax deductions for which a tax benefit
+will not likely be realized. The net change in the valuation allowance for
+deferred tax assets was a decrease of $924,000 in the fourth quarter of fiscal
+1995 related primarily to benefits relating to federal operating loss, business
+and Alternative Minimum Tax credit carryforwards and certain federal deferred 
+deductions which will more likely than not be realized. Deferred tax assets and
+liabilities are offset for presentation in the consolidated balance sheet.
+
+10.  NEW ACCOUNTING PRONOUNCEMENTS:
+
+     The Financial Accounting Standards Board (the "FASB") issued Financial
+Accounting Standard No. 121, "Accounting for the Impairment of Long-Lived Assets
+and for Long-Lived Assets to be Disposed Of" (FAS 121) in March 1995. FAS 121
+requires that long-lived assets and certain identifiable intangibles be reviewed
+for impairment whenever changes in circumstances indicate that the carrying
+amount of an asset may not be recoverable. The entity must estimate the future
+cash flows expected to result from the use of the asset and its eventual
+disposition, and recognize an impairment loss for any difference between the
+fair value of the asset and the carrying amount of the asset. FAS 121 must be
+adopted for the year beginning after December 15, 1995. The effect, if any, on
+the Company's financial position or results of operations from adoption of FAS
+121 is not expected to be material.
+
+11.  SIGNIFICANT FOURTH QUARTER TRANSACTIONS:
+
+     During the fourth quarter of 1995, the Company recorded an additional
+provision for the estimated loss on disposal of unused real estate of $50,000
+and an additional provision for estimated environmental clean-up costs of
+$60,000. Also in the fourth quarter, the Company recorded an adjustment to fully
+recognize federal deferred tax benefits as discussed in Note 9. During the
+fourth quarter of the prior year, the Company recorded several non-recurring
+charges, including: a provision for the estimated loss on disposal of unused
+real estate of $132,000; estimated environmental clean-up costs of $270,000; and
+a provision for litigation matters totaling $280,000. Also in the fourth
+quarter, the Company recorded one-time tax credits, including the reversal of an
+excess income tax accrual of $300,000 and the adjustment to the valuation
+allowance discussed in Note 9.
+
+
+
+                                       29
+
+<PAGE>   30
+
+                      TRIDEX CORPORATION AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+12.  INTERNATIONAL OPERATIONS
+
+     Prior to fiscal year 1995, the Company had no foreign operations and export
+sales were minimal. As a result of the acquisition of Cash Bases, the Company
+acquired manufacturing facilities in the United Kingdom. Amounts included in the
+accompanying consolidated financial statements associated with operations
+outside the United States consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                  For the Fiscal Year Ended
+                                                                        April 1, 1995
+                                                                  -------------------------
+<S>                                                               <C>
+Sales:
+   Domestic                                                                $44,000
+   Foreign                                                                  10,883
+   Elimination                                                                (206)
+                                                                           -------
+   Total                                                                   $54,677
+                                                                           -------
+Operating Profit:
+   Domestic                                                                $ 3,635
+   Foreign                                                                     905
+                                                                           -------
+   Total                                                                   $ 4,540
+                                                                           -------
+Identifiable Assets:
+   Domestic                                                                $27,349
+   Foreign                                                                   9,013
+                                                                           -------
+   Total                                                                   $36,362
+                                                                           =======
+</TABLE>
+
+     Net sales are based on the location of the operation. Transfers between
+geographic areas are recorded at amounts generally above cost and in accordance
+with the regulations of applicable taxing jurisdictions. Operating profit
+consists of total net sales less operating expenses and corporate expenses, and
+does not include either interest, other income or income taxes. Identifiable
+assets of geographic areas are those assets related to the Company's operations
+in each area.
+
+     The Company had export sales from its United States operations of
+approximately $4,073,000 in 1995. Such sales in prior years were not material.
+During 1995, the Company recorded foreign exchange gains of $85,000. At April 1,
+1995 the Company had no forward exchange contracts outstanding.
+
+13.  EVENTS SUBSEQUENT TO APRIL 1, 1995 (UNAUDITED)
+
+     On June 22, 1995, the Fleet Credit Agreement was amended to increase the
+Working Capital Facility to $4,625,000 from $4,000,000. In addition,
+availability under the Working Capital Facility was expanded to include 25% of
+the Company's eligible inventories.
+
+
+
+                                       30
+
+
+<PAGE>   31
+
+
+
+ITEM 9.         CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+                FINANCIAL DISCLOSURE.
+
+                None.
+
+
+                                    PART III
+
+ITEM 10.        DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+         (A)    DIRECTORS.
+
+                The information contained in "Information Concerning Nominees
+for Election as Directors and Executive Officers" of the Company's Proxy
+Statement (the "Proxy Statement") for its Annual Meeting of Shareholders which
+is scheduled to be held on September 19, 1995 is hereby incorporated herein
+by reference. Also see Item 1(E)(i) above.
+
+         (B)    EXECUTIVE OFFICERS.
+
+                See Item 1(E)(ii) above.
+
+         (C)    COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT.
+
+                The information contained in "Compliance with Section 16(a)" of
+the Proxy Statement is hereby incorporated by reference.
+
+ITEM 11.        EXECUTIVE COMPENSATION.
+
+                The information contained in "Compensation of Directors and
+Executive Officers" of the Proxy Statement is hereby incorporated herein by
+reference.
+
+ITEM 12.        SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+                The information contained in "Security Ownership of Certain
+Beneficial Owners and Management" of the Proxy Statement is hereby incorporated
+herein by reference.
+
+ITEM 13.        CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+                The information contained in "Certain Relationships and Related
+Transactions" of the Proxy Statement is hereby incorporated herein by reference.
+
+
+                                    PART IV
+
+ITEM 14.        EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+                FORM 8-K.
+
+         (A)    THE FOLLOWING FINANCIAL STATEMENTS AND EXHIBITS ARE FILED AS
+                PART OF THIS REPORT:
+
+         (i)    Financial statements
+
+                See Item 8 on page 14.
+
+        (ii)    Financial statement schedules
+
+                See Item 8 on page 14.
+
+       (iii)    List of Exhibits.
+
+                See Exhibit Index on page 33.
+
+         (B)    REPORTS ON FORM 8-K.
+
+                The Company did not file any Current Reports on Form 8-K during
+the last quarter of the period covered by this report.
+
+
+
+                                       31
+
+
+<PAGE>   32
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+                          TRIDEX CORPORATION
+
+
+
+                          By:  /s/ Seth M. Lukash
+                             --------------------------------------------------
+                               Seth M. Lukash
+                               Chairman of the Board, President,
+                               Chief Executive Officer, Chief Operating Officer
+                               and Director
+
+                               Date: June 26, 1995
+
+Pursuant to the requirements of the Securities Act of 1934, this report has been
+signed below by the following persons on behalf of the registrant and in the
+capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+Signature                                                   Title                                    Date
+- - ---------                                                   -----                                    ----
+<S>                                         <C>                                                  <C>
+   /s/ Seth M. Lukash                       Chairman of the Board, President, Chief              June 26, 1995
+- - ----------------------------                Executive Officer, Chief Operating Officer
+Seth M. Lukash                              and Director
+(Principal Executive Officer)
+
+
+   /s/ Richard L. Cote                      Senior Vice President and                            June 26, 1995
+- - ----------------------------                Chief Financial Officer
+Richard L. Cote
+(Principal Financial Officer)
+
+   /s/ George T. Crandall                   Vice President, Treasurer,                           June 26, 1995
+- - ----------------------------                Controller and Assistant Secretary
+George T. Crandall
+(Principal Accounting Officer)
+
+   /s/ Ralph I. Fine                        Director and Secretary                               June 26, 1995
+- - ----------------------------
+Ralph I. Fine
+
+   /s/ Alvin Lukash                         Director                                             June 26, 1995
+- - ----------------------------
+Alvin Lukash
+
+   /s/ Graham Y. Tanaka                     Director                                             June 26, 1995
+- - -----------------------------
+Graham Y. Tanaka
+
+   /s/ Richard T. Bueschel                  Director                                             June 26, 1995
+- - -----------------------------
+Richard T. Bueschel
+
+   /s/ Paul J. Dunphy                       Director                                             June 26, 1995
+- - -----------------------------
+Paul J. Dunphy
+
+   /s/ Richard W. Sonnenfeldt               Director                                             June 26, 1995
+- - -----------------------------
+Richard W. Sonnenfeldt
+</TABLE>
+
+
+                                       32
+
+
+<PAGE>   33
+
+                                  Exhibit Index
+<TABLE>
+<CAPTION>
+                                                                                                              Page
+                                                                                                             Number
+                                                                                                             ------
+<S>       <C>                                                                                                <C>
+3.1       Certificate of Incorporation of Tridex, as amended, filed on June 28,
+          1985 as Exhibit 3.1 to the Company's Annual Report on Form 10-K for
+          the fiscal year ended March 30, 1985, is hereby incorporated herein by
+          reference.
+
+3.2       Certificate of Amendment of Incorporation of Tridex, dated October 1,
+          1987, filed on July 18, 1988 as Exhibit 3.2 to the Company's Annual
+          Report on Form 10-K for the fiscal year ended April 2, 1988 is hereby
+          incorporated herein by reference.
+
+3.3       Certificate of Amendment of Incorporation of Tridex, dated August 15,
+          1988, filed on June 29, 1989 as Exhibit 3.3 to the Company's Annual
+          Report on Form 10-K for the fiscal year ended April 1, 1989 is hereby
+          incorporated herein by reference.
+
+3.4       Certificate of Amendment of Incorporation of Tridex, dated March
+          31,1989 filed on June 29, 1989 as Exhibit 3.4 to the Company's Annual
+          Report on Form 10-K for the fiscal year ended April 1, 1989 is hereby
+          incorporated herein by reference.
+
+3.5       Bylaws of Tridex, as amended and restated on May 26, 1994 filed on
+          June 30, 1994 as Exhibit 3.5 to the Company's Annual Report on Form
+          10-K for the fiscal year ended April 2, 1994 is hereby incorporated by
+          reference.
+
+4.1       Description of the Company's common stock set forth in the Company's
+          Registration Statement on Form 8-A filed July 14, 1986, is hereby
+          incorporated herein by reference.
+
+4.2       The Tridex Corporation 1989 Long Term Incentive Plan (as amended and
+          restated) filed as Exhibit A to the Company's Proxy Statement for
+          Annual Meeting of Shareholders filed July 23, 1992 is hereby
+          incorporated herein by reference.
+
+4.3       Form of 8% Subordinated Convertible Term Promissory Notes dated
+          January 20, 1993, by and among the Company and the shareholders of
+          Ultimate Technology Corporation, filed as an Exhibit to Current Report
+          on Form 8-K filed February 10, 1993, is hereby incorporated herein by
+          reference.
+
+4.4       Form of Registration Rights Agreement, dated January 20, 1993, filed
+          as an Exhibit to Current Report on Form 8-K filed February 10, 1993,
+          is hereby incorporated herein by reference.
+
+4.5       Indenture dated as of December 31, 1992 by and among the Company and
+          American Stock Transfer & Trust Company, as Trustee, filed as an
+          Exhibit to Current Report on Form 8-K filed February 10, 1993, is
+          hereby incorporated herein by reference.
+
+4.6       Form of 10.5% Senior Subordinated Convertible Debentures due December
+          31, 1997, filed as an Exhibit to Current Report on Form 8-K filed
+          February 10, 1993, is hereby incorporated herein by reference.
+
+4.7       Form of Warrant, dated January 20, 1993, to purchase shares of Tridex
+          common stock, filed as an Exhibit to Current Report on Form 8-K filed
+          February 10, 1993, is hereby incorporated herein by reference.
+
+4.8       Form of Registration Rights Agreement, filed as an Exhibit to Current
+          Report on Form 8-K filed February 10, 1993, is hereby incorporated
+          herein by reference.
+
+4.9       Form of 10% Subordinated Convertible Term Promissory Note due May 10,
+          1994 filed as an Exhibit to the Company's Current Report on Form 8-K
+          filed May 25, 1990, is hereby incorporated herein by reference.
+
+4.10      Registration Rights Agreement, dated as of May 10, 1990, by and among
+          the Company, Ithaca Peripherals Incorporated and Noteholders filed as
+          an Exhibit of the Company's Current Report on Form 8-K filed May 25,
+          1990 is hereby incorporated herein by reference.
+
+4.11      Form of Warrant dated January 20, 1993, to purchase common stock of
+          Tridex Corporation, filed as an exhibit to the Company's Annual Report
+          on Form 10-K for the fiscal year ended April 3, 1993 is hereby
+          incorporated herein by reference.
+</TABLE>
+
+
+                                       33
+
+
+<PAGE>   34
+
+<TABLE>
+<CAPTION>
+                                                                                                              Page
+                                                                                                             Number
+                                                                                                             ------
+<S>       <C>                                                                                                <C>
+10.1      Consulting Services Agreement, dated as of April 16, 1992, between
+          Tridex and Alvin Lukash, filed as an exhibit to the Company's Annual
+          Report on form 10-K for the fiscal year ended March 28, 1992, is
+          hereby incorporated herein by reference.
+
+10.2      Employment Agreement, dated as of April 16, 1995, between Tridex and                                 36
+          Seth M. Lukash.
+
+10.3      Severance Agreement, dated as of April 16, 1990, between Tridex and
+          Seth M. Lukash filed as an Exhibit to the Company's Annual Report on
+          Form 10-K for the fiscal year ended March 31, 1990 is hereby incorporated
+          by reference.
+
+10.4      First Amendment to Severance Agreement, dated as of April 16, 1992
+          between Tridex and Seth M. Lukash, filed as an exhibit to the
+          Company's Annual Report on Form 10-K for the fiscal year ended March
+          28, 1992, is hereby incorporated by reference.
+
+10.5      Second Amendment to Severance Agreement, dated as of June 1, 1995,                                   37
+          between Tridex and Seth M. Lukash
+
+10.6      Severance Agreement, dated as of April 39, 1990, between Tridex and
+          George T. Crandall filed as an Exhibit to the Company's Annual Report
+          on Form 10-K for the fiscal year ended March 28, 1992, is hereby
+          incorporated by reference.
+
+10.7      Employment and Non-competition Agreement, dated May 10, 1990, between
+          Ithaca Peripherals Incorporated and S. Scott Kumpf, filed as an
+          Exhibit to the Company's Annual Report on Form 10-K for the fiscal
+          year ended March 30, 1991, is incorporated herein by reference.
+
+10.8      Employment and Non-competition Agreement, dated as of January 20,
+          1993, between Ultimate Technology Corporation and Dennis J. Lewis,
+          filed as an exhibit to the Company's Annual Report on Form 10-K for
+          the fiscal year ended April 3, 1993 is hereby incorporated herein by
+          reference.
+
+10.9      Severance Agreement, dated as of June 1, 1993 between Tridex and
+          Richard L. Cote, filed as an exhibit to the Company's Annual Report on
+          Form 10-K for the fiscal year ended April 3, 1993 is hereby
+          incorporated herein by reference.
+
+10.10     First Amendment to Severance Agreement, dated as of June 1, 1995, between                            38
+          Tridex and Richard L. Cote.
+
+10.11     Letter Agreement, dated as of June 1, 1995, between Tridex and Richard L.                            39
+          Cote regarding severance.
+
+10.12     The Tridex Corporation 1989 Long Term Incentive Plan (as amended and
+          restated) filed as Exhibit A to the Company's Proxy Statement for
+          Annual Meeting of Shareholders filed July 23, 1992 is hereby
+          incorporated herein by reference.
+
+10.13     Employee Performance Compensation Agreement, dated January 20, 1993 by
+          and among Tridex and the Ultimate shareholders, filed as an exhibit to
+          the Company's Annual Report on Form 10-K for the fiscal year ended
+          April 3, 1993 is hereby incorporated herein by reference.
+
+10.14     Credit Agreement dated as of June 17, 1994 between Tridex Corporation,
+          Ithaca Peripherals Incorporated, Ultimate Technology Corporation,
+          Magnetec Corporation and Fleet Bank, National Association filed on
+          June 30, 1994 as Exhibit 10.12 to the Company's Annual Report on Form
+          10-K for the fiscal year ended April 2, 1994 is hereby incorporated by
+          reference.
+
+10.15     Amendment No. 1 to Credit Agreement dated as of June 22, 1995 between                                40
+          Tridex Corporation, Ithaca Peripherals Incorporated, Ultimate Technology
+          Corporation, Magnetec Corporation, Cash Bases Incorporated and Fleet Bank,
+          National Association.
+
+10.16     Service Agreement, dated June 20, 1994, between Cash Bases G.B.
+          Limited and Hugh T. Burnett filed on June 30, 1994 as Exhibit 10.13 to
+          the Company's Annual Report on Form 10-K for the fiscal year ended
+          April 2, 1994 is hereby incorporated by reference.
+
+11.1      Statement re:  computation of per share earnings.                                                    51
+</TABLE>
+
+
+                                       34
+
+
+<PAGE>   35
+
+<TABLE>
+<CAPTION>
+                                                                                                              Page
+                                                                                                             Number
+                                                                                                             ------
+<S>       <C>                                                                                                 <C>
+21.1      List of Subsidiaries of Tridex.                                                                      52
+
+23.1      Consent of Independent Accountants.                                                                  53
+
+27.1      Financial Data Schedule
+</TABLE>
+
+
+                                       35
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>2
+<DESCRIPTION>EMPLOYMENT AGREEMENT DATED 4/16/95
+<TEXT>
+
+<PAGE>   1
+
+                               TRIDEX CORPORATION
+
+                                  EXHIBIT 10.2
+
+             EMPLOYMENT AGREEMENT BETWEEN TRIDEX AND SETH M. LUKASH
+
+
+                                                                   June 1, 1995
+
+Seth M. Lukash
+404 Harvest Commons
+Westport, CT  06880
+
+RE:      Employment Arrangement/Tridex Corporation ("Company")
+
+Dear Seth:
+
+         Confirming our recent discussions, you will continue as the Chairman
+and Chief Executive Officer of the Company to serve at the pleasure of the
+Board, and will be paid therefor the following:
+
+                   -  Base Salary of $270,000
+                   -  Participation in the Company's Incentive Compensation Plan
+                   -  Life Insurance and Disability Insurance
+                   -  Participation in the Company's benefit plans as provided
+                      to senior management
+                   -  Reimbursement for expenses upon presentation of vouchers
+                   -  $1,000 per year for tax advice
+
+         Additionally, the board of directors has agreed that you will receive a
+severance equal to eighteen (18) month's base pay in effect at the time of the
+termination of your employment other than for cause and other than as a result
+of a change in control, as defined in that certain Severance Agreement between
+you and the Company, dated April 18, 1990 as amended to the date hereof, payable
+in equal monthly installments over the 18-month period and a continuation of
+medical, dental and life insurance benefits during such time. For purposes of
+this paragraph, "cause" shall mean (i) your death or mental or physical
+incapacity, (ii) any action or inaction by you that constitutes larceny, fraud,
+gross negligence, a willful or negligent material representation to the
+directors or officers of the Company, its successors or assigns, a crime
+involving moral turpitude or (iii) your intentional disregard of board
+instructions or directives.
+
+         Any debt you have to the Company at the time your employment is
+terminated shall be deducted from the severance payment ratably over the
+eighteen (18) month period unless you elect to pay such indebtedness in full by
+transfer, to the Company, Common Stock of the Company owned by you, valued at
+its market value at the close of business preceding the date such stock is
+tendered in payment of the debt.
+
+         During the period of your employment with the Company and for the
+period that you receive the severance payments as set forth above, you shall
+not, directly or indirectly, participate in any business located in, or doing
+business in, North America, Western Europe, Japan, Korea, The Middle East,
+Central America, or South America whose activities or products are competitive
+with the activities or products of the Company or its affiliates.
+
+
+                                             Sincerely,
+
+                                             ------------------------------
+                                             Chairman
+                                             Compensation Committee
+
+Agreed to this ______ day
+of________________, 199___
+
+
+- - -----------------------------------------
+Seth M. Lukash
+
+
+
+                                       36
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>3
+<DESCRIPTION>SECOND AMENDMENT TO SEVERANCE AGREEMENT OF 6/1/95
+<TEXT>
+
+<PAGE>   1
+
+                               TRIDEX CORPORATION
+
+                                  EXHIBIT 10.5
+
+                     SECOND AMENDMENT TO SEVERANCE AGREEMENT
+                        BETWEEN TRIDEX AND SETH M. LUKASH
+
+
+         This Second Amendment to Severance Agreement is made in Westport,
+Connecticut, as of June 1, 1995, by and between Seth M. Lukash residing at 404
+Harvest Commons, Westport, Connecticut 06880 ("Employee") and Tridex
+Corporation, with its principal place of business at 61 Wilton Road, Westport,
+Connecticut 06880 ("Tridex").
+
+WHEREAS, Tridex and the Employee entered into a Severance Agreement dated as of
+April 16, 1990 as amended by a First Amendment to Severance Agreement dated as
+of April 16, 1992 (the "Severance Agreement"); and
+
+WHEREAS, Tridex and the Employee desire to amend further the Severance Agreement
+in accordance with the terms and conditions hereinafter set forth.
+
+NOW, THEREFORE, intending to be legally bound hereby, and in consideration of
+the mutual agreements contained herein and other good and valuable
+consideration, the parties hereto agree as follows:
+
+1.     Paragraph 2(a) (ii) of the Severance Agreement is hereby amended in its
+       entirety to read as follows:
+
+       "(ii)  an amount equal to 3 times the sum of (A) Employee's annual base
+              salary immediately prior to the Severance of Employment and (B)
+              Employee's bonus for the fiscal year ending immediately prior to
+              the Severance of Employment or the Change of Control Transaction,
+              whichever is greater, less $1.00; plus"
+
+2.     Paragraph 2(e) of the Severance Agreement is hereby amended in its
+       entirety to read as follows:
+
+       "(e)   Tridex further agrees that in the event the amounts payable to
+              Employee hereunder are reduced pursuant to Section 2(d), Tridex
+              shall, at its option, either (i) enter into a Consulting Agreement
+              with the Employee pursuant to which it shall pay the Employee
+              consulting fees equal to the amount by which the payment under
+              Section 2(a) was reduced pursuant to Section 2(d), or (ii) pay the
+              Employee the full amount due under Section 2(a) plus an amount
+              equal to any excise tax due pursuant to Section 4999 of the
+              Internal Revenue Code of 1986, as amended, and any regulation
+              promulgated by the Internal Revenue Service thereunder payable by
+              the Employee as a result of such 'excess parachute' payments."
+
+3.     Except as expressly set forth herein, the provisions of the Severance
+Agreement have not been altered, amended or rescinded in any way, and are hereby
+ratified, approved and confirmed.
+
+       IN WITNESS WHEREOF, Tridex Corporation has caused this Second Amendment
+to be executed in its corporate name by its corporate officer thereunto duly
+authorized and SETH M. LUKASH has hereunto set his hand and seal as of the day
+and year first above written.
+
+                               TRIDEX CORPORATION
+
+                               By:
+                                  -----------------------------
+                               Title:  Chairman of the
+                                         Compensation Committee
+
+                               --------------------------------
+                               Seth M. Lukash
+
+
+
+                                       37
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>4
+<DESCRIPTION>FIRST AMENDMENT TO SEVERANCE AGREEMENT OF 6/1/95
+<TEXT>
+
+<PAGE>   1
+
+                               TRIDEX CORPORATION
+
+                                  EXHIBIT 10.10
+
+   FIRST AMENDMENT TO SEVERANCE AGREEMENT BETWEEN TRIDEX AND RICHARD L. COTE
+
+
+       This First Amendment is made in Westport, Connecticut, as of June 1,
+1995, by and between Richard L. Cote residing at 71 Wedgewood Road, Southington,
+Connecticut 06489 ("Employee") and Tridex Corporation, with its principal place
+of business at 61 Wilton Road, Westport, Connecticut 06880 ("Tridex").
+
+WHEREAS, Tridex and the Employee entered into a Severance Agreement dated as of
+June 1, 1993 (the "Severance Agreement"); and
+
+WHEREAS, Tridex and the Employee desire to amend the Severance Agreement in
+accordance with the terms and conditions hereinafter set forth.
+
+NOW, THEREFORE, intending to be legally bound hereby, and in consideration of
+the mutual agreements contained herein and other good and valuable
+consideration, the parties hereto agree as follows:
+
+1.     Paragraph 2(a) of the Severance Agreement is hereby amended to read in
+       its entirety as follows:
+
+       "(a)   In the event of a Severance of Employment, Tridex shall, within
+              ten days after the Severance of Employment, pay to the Employee an
+              amount in cash equal to the sum of:
+
+              (1)  any amounts earned by and unpaid to the Employee for periods
+                   prior to the Severance of Employment; plus
+
+              (2)  an amount equal to two (2) times the sum of A) Employee's
+                   annual base salary immediately prior to the Severance of
+                   Employment and B) Employee's bonus for the fiscal year
+                   ending immediately prior to the Severance of Employment or
+                   the Change of Control transaction, whichever is greater; plus
+
+              (3)  at the option of the Employee and in lieu of his exercising
+                   the exercisable portion of any options to purchase shares of
+                   Tridex stock that he might hold at the time, an amount equal
+                   to the difference between the option price or prices for the
+                   shares representing the exercisable portion of such stock
+                   options and the market price of the class of Tridex stock
+                   covered by the option, at the close of business on the date
+                   of the Severance of Employment."
+
+2.     Paragraph 2(e) of the Severance Agreement is hereby amended to read in
+       its entirety as follows:
+
+       "(e)   Tridex further agrees that in the event the amounts payable to
+              Employee hereunder are reduced pursuant to Section 2(d), Tridex
+              shall, at its option, either (I) enter into a Consulting Agreement
+              with the Employee pursuant to which it shall pay the Employee
+              consulting fees equal to the amount by which the payment under
+              Section 2(a) was reduced pursuant to Section 2(d), or (ii) pay the
+              Employee the full amount due under Section 2(a) plus an amount
+              equal to any excise tax due pursuant to Section 4999 of the
+              Internal Revenue Code of 1986, as amended, and any regulation
+              promulgated by the Internal Revenue Service thereunder payable by
+              the Employee as a result of such 'excess parachute' payments."
+
+3.     Except as expressly set forth herein, the provisions of the Severance
+Agreement have not been altered, amended or rescinded in any way, and are hereby
+ratified, approved and confirmed.
+
+IN WITNESS WHEREOF, Tridex Corporation has caused this Amendment to be executed
+in its corporate name by its corporate officer thereunto duly authorized and
+Richard L. Cote has hereunto set his hand and seal as of the day and year first
+above written.
+
+                               TRIDEX CORPORATION
+
+                               By:______________________
+
+                                  Its:__________________
+
+                               -------------------------
+                               Richard L. Cote
+
+
+
+                                       38
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>5
+<DESCRIPTION>LETTER AGREEMENT DATED AS OF JUNE 1, 1995
+<TEXT>
+
+<PAGE>   1
+
+                               TRIDEX CORPORATION
+
+                                  EXHIBIT 10.11
+
+               LETTER AGREEMENT BETWEEN TRIDEX AND RICHARD L. COTE
+
+
+                                                                   June 1, 1995
+
+Richard L. Cote
+71 Wedgewood Road
+Southington, CT  06489
+
+RE:      Severance Terms
+
+Dear Dick:
+
+         We are pleased to advise you that, at the Compensation Committee
+meeting of March 28, 1995, a new Severance Plan was approved for you, which
+includes:
+
+   1.   Providing you with an amount equal to twelve (12) month's base salary
+        and a continuation of medical, dental and life insurance benefits,
+        should your services be terminated, without cause, other than because of
+        a change of control. For the purposes of this paragraph, "cause" shall
+        mean (i) your death or mental or physical incapacity, (ii) any action or
+        inaction by you that constitutes larceny, fraud, gross negligence, a
+        willful or negligent material representation to the directors or
+        officers of the Company, its successors or assigns, a crime involving
+        oral turpitude or (iii) your intentional disregard of board instructions
+        or directives.
+
+   2.   Increasing your severance as a result of a change in control of the
+        company to two times your base salary.
+
+I have enclosed a First Amendment to the Severance Agreement adopting the change
+referenced in Paragraph 2 above. Please indicate your acceptance of the new
+severance term set forth in Paragraph 1 above by signing below.
+
+
+                                                 Sincerely,
+
+                                                 Seth M. Lukash
+                                                 Chairman and CEO
+
+Enclosure
+
+SIGNED AND ACCEPTED BY:
+
+- - -----------------------------------------
+Richard L. Cote
+
+This _____ day of __________________, 199___.
+
+
+
+                                       39
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.15
+<SEQUENCE>6
+<DESCRIPTION>AMENDMENT NO. 1 TO CREDIT AGREEMENT DATED 6/22/95
+<TEXT>
+
+<PAGE>   1
+
+                                                                  Exhibit 10.15
+
+                                 AMENDMENT NO. 1
+
+                            Dated as of June 22, 1995
+
+                  This AMENDMENT among TRIDEX CORPORATION, a corporation
+organized under the laws of the State of Connecticut, ITHACA PERIPHERALS
+INCORPORATED, a corporation organized under the laws of the State of Delaware,
+ULTIMATE TECHNOLOGY CORPORATION, a corporation organized under the laws of the
+State of New York, MAGNETEC CORPORATION, a corporation organized under the laws
+of the State of Connecticut, and CASH BASES INCORPORATED, a corporation
+organized under the laws of the State of Delaware (collectively, all such
+corporations being the "Borrowers" and each, individually, a "Borrower"), and
+FLEET BANK, NATIONAL ASSOCIATION, a national banking association organized under
+the laws of the United States of America (the "Bank").
+
+                  PRELIMINARY STATEMENT.
+
+                  A.      The Borrowers (other than Cash Bases Incorporated) and
+the Bank have entered into a Credit Agreement dated as of June 17, 1994. Cash
+Bases Incorporated was added as a "Borrower" under said Credit Agreement as of
+December 23, 1994 and said Credit Agreement was amended by a letter amendment
+dated as of March 31, 1995 (as so amended, the "Credit Agreement"; the terms
+defined therein being used herein as therein defined unless otherwise defined
+herein).
+
+                  B.      The Borrower and the Bank have agreed to amend the
+Credit Agreement and the Working Capital Note as hereinafter set forth.
+
+SECTION 1.        AMENDMENTS TO CREDIT AGREEMENT.  THE CREDIT AGREEMENT IS,
+EFFECTIVE AS OF THE DATE HEREOF AND SUBJECT TO THE SATISFACTION OF THE
+CONDITIONS PRECEDENT SET FORTH IN SECTION 3 HEREOF, HEREBY AMENDED AS FOLLOWS:
+
+                           (a)      The definition of the term "Borrowing Base"
+contained in Section 1.1 is amended and restated in full to read as follows:
+
+                           "Borrowing Base" means, as of any date of
+                  determination thereof, an amount equal to the sum of (i) 80%
+                  of Eligible Receivables, plus (ii) 25% of Eligible Inventory.
+                  Unless the Bank shall otherwise determine, the Borrowing Base
+                  as of any date shall be the Borrowing Base set forth on the
+                  most current Borrowing Base Certificate certified and
+                  delivered by a Borrower pursuant to either Section 6.8 or
+                  Section 4.2. If, at any time, the Borrowing Base shall exceed
+                  the Working Capital Commitment, for purposes of this Agreement
+                  the Borrowing Base shall be deemed to be equal to the Working
+                  Capital Commitment.
+
+
+
+                                       40
+
+
+<PAGE>   2
+
+                           (b)      The definition of the term "Working Capital
+Commitment" contained in Section 1.1 is amended and restated in full to read as
+follows:
+
+                           "Working Capital Commitment" means the obligation of
+                  the Bank to make the Working Capital Loans under this
+                  Agreement up to the aggregate principal amount of $4,625,000,
+                  subject to Borrowing Base limitations, and as such amount may
+                  be reduced or otherwise modified from time to time pursuant to
+                  Section 2.7 or otherwise.
+
+                           (c)      The following new definitions are added to
+Section 1.1 of the Credit Agreement in proper alphabetical order:
+
+                           "Inventory" means all inventory, now or hereafter
+                  owned and wherever located, of the Borrowers, including
+                  (without limitation) raw materials, work-in-process, finished
+                  goods, supplies and packaging materials.
+
+                           "Eligible Inventory" means, as of any date of
+                  determination thereof, all Inventory (valued at the lower of
+                  the cost or fair market value on a first-in-first-out basis),
+                  but excluding (a) those items that have no use in the current
+                  product line of the Borrowers, (b) obsolete items and used
+                  parts, (c) those finished goods that are not of merchantable
+                  quality in the ordinary course of business, (d) all Inventory
+                  in which the Bank does not have a first perfected security
+                  interest, subject to no other Lien prior to or on a parity
+                  with such security interest, (e) scrap, (f) work-in-process
+                  and (g) all other Inventory which is determined by the Bank to
+                  be ineligible for any other reason generally accepted in the
+                  commercial finance business as a reason for ineligibility.
+                  Notwithstanding the preceding sentence, "Eligible Inventory"
+                  shall not include any Inventory not located at premises owned
+                  by or leased to a Borrower unless such Inventory is in transit
+                  (and insured) or such Borrower has made a formal financing
+                  statement filing against the consignee of such Inventory and
+                  has given any party claiming of record a security interest in
+                  such consignee's inventory, or other assets that might include
+                  such Inventory, notice of such Borrower's consignment
+                  arrangements with such consignee or has taken equivalent
+                  protective steps satisfactory to the Bank.
+
+                           (d)      Exhibit G to the Credit Agreement (Form of
+Borrowing Base Certificate) is amended and restated in its entirety in the form
+of Exhibit G to this Amendment.
+
+                           (e)      The definition of the term "Excess Cash
+Flow" contained in Section 1.1 is amended and restated in full to read as
+follows:
+
+                           "Excess Cash Flow" means, for each fiscal year of the
+                  Borrowers, the amount by which (i) the aggregate of the net
+                  cash provided by operating activities, investing activities
+                  and financing activities exceeds (ii) the sum of (A) the
+                  aggregate of the net cash used in operating activities,
+                  investing activities and financing activities, plus (B) the
+                  principal amount outstanding under the Working Capital Note as
+                  at the end of such fiscal year, all as determined in
+                  accordance with GAAP and as set forth on the Borrowers'
+                  consolidated statements of cash flows contained within the
+                  annual audited financial statements furnished pursuant to
+                  Section 6.8(a).
+
+
+
+                                       41
+
+
+<PAGE>   3
+
+                           (f)      The Borrowers' address appearing on the
+signature page is amended and restated in full to read as follows:
+
+                           Address for Notices:
+                           61 Wilton Road
+                           Westport, Connecticut  06880
+                           Attention:  Richard L. Cote
+                           Facsimile No.:  (203) 226-8806
+
+SECTION 2.        AMENDMENTS TO OTHER FACILITY DOCUMENTS.
+
+                           (a)      Working Capital Note.  The Working Capital
+Note is amended and restated in its entirety in the form of Schedule 1 hereto.
+
+                           (b)      Security Agreement.  The address of the
+principal place of business of Magnetec Corporation set forth in Schedule 1 to
+the Security Agreement is amended to read: "7 Laser Lane, Wallingford,
+Connecticut 06492." Ithaca Peripherals Incorporated no longer maintains any
+assets at 147 Main Street, Groton, New York 13073 or 5500 Main Street,
+Williamsville, New York 14221, and the references to such locations set forth in
+Schedule 1 to the Security Agreement are hereby deleted.
+
+SECTION 3.        CONDITIONS OF EFFECTIVENESS. THIS AMENDMENT SHALL BECOME
+EFFECTIVE WHEN, AND ONLY WHEN, THE BANK SHALL HAVE RECEIVED COUNTERPARTS OF THIS
+AMENDMENT EXECUTED BY THE BORROWERS AND THE BANK, AND SECTIONS 1 AND 2 HEREOF
+SHALL BECOME EFFECTIVE WHEN, AND ONLY WHEN, THE BANK SHALL HAVE ADDITIONALLY
+RECEIVED ALL OF THE FOLLOWING DOCUMENTS, EACH DOCUMENT (UNLESS OTHERWISE
+INDICATED) BEING DATED THE DATE OF RECEIPT THEREOF BY THE BANK (WHICH DATE SHALL
+BE THE SAME FOR ALL SUCH DOCUMENTS), IN FORM AND SUBSTANCE SATISFACTORY TO THE
+BANK:
+
+                           (a)      The executed Amended and Restated Working
+Capital Note in the form of Schedule 1 hereto.
+
+                           (b)      Certified copies of (i) the resolutions of
+the Board of Directors of each Borrower approving this Amendment and the matters
+contemplated hereby and thereby and (ii) all documents evidencing other
+necessary corporate action and governmental approvals, if any, with respect to
+this Amendment and the matters contemplated hereby.
+
+                           (c)      A certificate of the Secretary or an
+Assistant Secretary of each Borrower certifying the names and true signatures of
+the officers of such Borrower authorized to sign this Amendment and the other
+documents to be delivered hereunder.
+
+                           (d)      A favorable opinion of Hinckley, Allen &
+Snyder, counsel for the Borrowers, to the effect that this Amendment, and the
+Amended and Restated Working Capital Note have been duly authorized, executed
+and delivered by the Borrowers, and such instruments constitute the legal, valid
+and binding obligations of the Borrowers, enforceable against the Borrowers, in
+accordance with their respective terms, and confirming the opinion of such
+counsel furnished on June 17, 1994, pursuant to Section 4.1(m) of the Credit
+Agreement, with references therein to the Credit Agreement to mean the Credit
+Agreement as amended by this Amendment.
+
+                           (e)      A certificate signed by a duly authorized
+officer of each Borrower stating that:
+
+                                    (i) The representations and warranties
+                  contained in Section 4 hereof are correct on and as of the
+                  date of such certificate as though made on and as of such
+                  date, and
+
+                                    (ii) No event has occurred and is continuing
+                  which constitutes a Default or Event of Default.
+
+
+
+                                       42
+
+
+<PAGE>   4
+
+SECTION 4.        REPRESENTATIONS AND WARRANTIES OF THE BORROWER.  
+EACH BORROWER REPRESENTS AND WARRANTS AS FOLLOWS:
+
+                           (a)      Such Borrower is duly incorporated, validly
+existing and in good standing under the laws of the jurisdiction of its
+incorporation, has the corporate power and authority to own its assets and to
+transact the business in which it is now engaged or proposed to be engaged, and
+is duly qualified as a foreign corporation and in good standing under the laws
+of each other jurisdiction in which such qualification is required.
+
+                           (b)      The execution, delivery and performance by
+such Borrower of this Amendment, the Amended and Restated Working Capital Note
+and the Facility Documents, as amended hereby, to which it is a party have been
+duly authorized by all necessary corporate action and do not and will not: (a)
+require any consent or approval of its stockholders; (b) contravene its charter
+or by-laws; (c) violate any provision of, or require any filing, registration,
+consent or approval under, any law, rule, regulation (including, without
+limitation, Regulation U), order, writ, judgment, injunction, decree,
+determination or award presently in effect having applicability to such Borrower
+or any of its Subsidiaries or Affiliates; (d) result in a breach of or
+constitute a default or require any consent under any indenture or loan or
+credit agreement or any other agreement, lease or instrument to which such
+Borrower is a party or by which it or its properties may be bound or affected;
+(e) result in, or require, the creation or imposition of any Lien , upon or with
+respect to any of the properties now owned or hereafter acquired by such
+Borrower; or (f) cause such Borrower (or any Subsidiary or Affiliate, as the
+case may be) to be in default under any such law, rule, regulation, order, writ,
+judgment, injunction, decree, determination or award or any such indenture,
+agreement, lease or instrument.
+
+                           (c)      This Amendment, the Amended and Restated
+Working Capital Note and each other Facility Document, as amended hereby, to
+which such Borrower is a party is, or when delivered under this Amendment will
+be, a legal, valid and binding obligation of such Borrower enforceable against
+such Borrower in accordance with its terms, except to the extent that such
+enforcement may be limited by applicable bankruptcy, insolvency and other
+similar laws affecting creditors' rights generally.
+
+                           (d)      There are no actions, suits or proceedings
+pending or, to the knowledge of such Borrower, threatened, against or affecting
+such Borrower or any of its Subsidiaries before any court, governmental agency
+or arbitrator, which may, in any one case or in the aggregate, materially
+adversely affect the financial condition, operations, properties or business of
+such Borrower or any such Subsidiary or of or the ability of such Borrower to
+perform its obligation under this Amendment, the Amended and Restated Working
+Capital Note or any of the other Facility Documents, as amended hereby.
+
+                           (e)      The Security Agreement constitutes valid and
+perfected first priority Liens in and to the Collateral covered thereby
+enforceable against all third parties in all jurisdictions and secure the
+payment of all obligations of the Borrowers under the Facility Documents, as
+amended hereby, including all obligations of the Borrower under the Amended and
+Restated Working Capital Note, and the execution, delivery and performance of
+this Amendment do not adversely affect the aforesaid Liens of such Security
+Agreement.
+
+SECTION 5.        REFERENCE TO AND EFFECT ON THE FACILITY DOCUMENTS.
+
+                           (a)      Upon the effectiveness of Sections 1 and 2
+hereof, on and after the date hereof each reference in the Credit Agreement to
+"this Agreement," "hereunder," "hereof," "herein" or words of like import, and
+each reference in the other Facility Documents to the Credit Agreement and
+Notes, shall mean and be a reference to the Credit Agreement and Notes as
+amended hereby.
+
+                           (b)      Except as specifically amended above, the
+Credit Agreement and the Notes, and all other Facility Documents, shall remain
+in full force and effect and are hereby ratified and confirmed. Without limiting
+the generality of the foregoing, the Pledge Agreement and all of the Pledged
+Collateral described therein, the Security Agreement and all of the Collateral
+described therein, and the Cash Bases Pledge Agreement and all of the Charged
+Property described therein do and shall continue to secure the payment of all
+Obligations, in each case as amended hereby.
+
+                           (c)      The execution, delivery and effectiveness of
+this Amendment shall not, except as expressly provided herein, operate as a
+waiver of any right, power or remedy of the Bank under any of the Facility
+Documents, nor constitute a waiver of any provision of any of the Facility
+Documents.
+
+
+
+                                       43
+
+
+<PAGE>   5
+
+SECTION 6.        COSTS, EXPENSES AND TAXES. THE BORROWERS JOINTLY AND SEVERALLY
+AGREE TO PAY ON DEMAND ALL COSTS AND EXPENSES OF THE BANK IN CONNECTION WITH THE
+PREPARATION, EXECUTION AND DELIVERY OF THIS AMENDMENT, THE AMENDED AND RESTATED
+WORKING CAPITAL NOTE AND THE OTHER INSTRUMENTS AND DOCUMENTS TO BE DELIVERED
+HEREUNDER, INCLUDING, WITHOUT LIMITATION, THE REASONABLE FEES AND OUT-OF-POCKET
+EXPENSES OF COUNSEL FOR THE BANK WITH RESPECT THERETO AND WITH RESPECT TO
+ADVISING THE BANK AS TO ITS RIGHTS AND RESPONSIBILITIES HEREUNDER AND
+THEREUNDER. THE BORROWERS FURTHER JOINTLY AND SEVERALLY AGREE TO PAY ON DEMAND
+ALL COSTS AND EXPENSES, IF ANY (INCLUDING, WITHOUT LIMITATION, REASONABLE
+COUNSEL FEES AND EXPENSES), IN CONNECTION WITH THE ENFORCEMENT (WHETHER THROUGH
+NEGOTIATIONS, LEGAL PROCEEDINGS OR OTHERWISE) OF THIS AMENDMENT, THE AMENDED AND
+RESTATED WORKING CAPITAL NOTE AND THE OTHER INSTRUMENTS AND DOCUMENTS TO BE
+DELIVERED HEREUNDER, INCLUDING, WITHOUT LIMITATION, REASONABLE COUNSEL FEES AND
+EXPENSES IN CONNECTION WITH THE ENFORCEMENT OF RIGHTS UNDER THIS SECTION 6. IN
+ADDITION, THE BORROWERS SHALL PAY ANY AND ALL STAMP AND OTHER TAXES PAYABLE OR
+DETERMINED TO BE PAYABLE IN CONNECTION WITH THE EXECUTION AND DELIVERY OF THIS
+AMENDMENT, THE AMENDED AND RESTATED WORKING CAPITAL NOTE AND THE OTHER
+INSTRUMENTS AND DOCUMENTS TO BE DELIVERED HEREUNDER, AND AGREES TO SAVE THE BANK
+HARMLESS FROM AND AGAINST ANY AND ALL LIABILITIES WITH RESPECT TO OR RESULTING
+FROM ANY DELAY IN PAYING OR OMISSION TO PAY SUCH TAXES.
+
+SECTION 7.        EXECUTION IN COUNTERPARTS. THIS AMENDMENT MAY BE EXECUTED IN
+ANY NUMBER OF COUNTERPARTS AND BY DIFFERENT PARTIES HERETO IN SEPARATE
+COUNTERPARTS, EACH OF WHICH WHEN SO EXECUTED AND DELIVERED SHALL BE DEEMED TO BE
+AN ORIGINAL AND ALL OF WHICH TAKEN TOGETHER SHALL CONSTITUTE BUT ONE AND THE
+SAME INSTRUMENT.
+
+SECTION 8.        GOVERNING LAW.  THIS AMENDMENT SHALL BE GOVERNED BY, AND
+CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF CONNECTICUT.
+
+
+
+                                       44
+
+
+<PAGE>   6
+
+                  IN WITNESS WHEREOF, the parties hereto have caused this
+Amendment to be executed by their respective officers thereunto duly authorized,
+as of the date first above written.
+
+
+                     TRIDEX CORPORATION
+
+                     By___________________________________________________
+                            Richard L. Cote, Senior Vice President and
+                            Chief Financial Officer
+
+
+                     ITHACA PERIPHERALS INCORPORATED,
+                     ULTIMATE TECHNOLOGY CORPORATION,
+                     MAGNETEC CORPORATION
+
+                     By___________________________________________________
+                            George T. Crandall
+                            Secretary as to each of the above corporations
+
+
+                     CASH BASES INCORPORATED
+
+                     By___________________________________________________
+                            George T. Crandall
+                            Treasurer
+
+
+                     FLEET BANK, NATIONAL ASSOCIATION
+
+                     By___________________________________________________
+                            Frederick A. Meagher
+                            Vice President
+
+
+
+
+
+
+                                       45
+
+
+<PAGE>   7
+
+                                    EXHIBIT G
+
+                           BORROWING BASE CERTIFICATE
+
+                                     [DATE]
+
+Fleet Bank, N.A.
+263 Tresser Boulevard
+Stamford, CT  06901
+ATTN:  Frederick A. Meagher
+
+Ladies and Gentlemen:
+
+                  The undersigned hereby certifies that the following
+computations of the Borrowing Base, as defined in the Credit Agreement, dated as
+of June 17, 1994, among the undersigned, and Fleet Bank, N.A. are true and
+correct as of [                 ].
+
+<TABLE>
+<S>                                                                                     <C>
+          TOTAL RECEIVABLES                                                              $_________
+
+          LESS:
+
+                  Customary Reserves                                                    ($_________)
+                  Unearned Customer Deposits                                            ($_________)
+                  Taxes                                                                 ($_________)
+                  Trade or Other Documents                                              ($_________)
+                  Discounts                                                             ($_________)
+                  Claims, Credits or Returns                                            ($_________)
+                  Rebates, Allowances or Setoffs                                        ($_________)
+                  Unpaid more than 90 days                                              ($_________)
+                  Not Absolute Sale, Consignment, etc.                                  ($_________)
+                  Evidenced by Chattel Paper or Instrument                              ($_________)
+                  Ineligible Account Debtor                                             ($_________)
+                  Uncollectable                                                         ($_________)
+                  Incomplete Performance                                                ($_________)
+                  Subject to Defenses                                                   ($_________)
+                  Not Evidenced by an Invoice                                           ($_________)
+                  From a Borrower or Affiliate                                          ($_________)
+                  Not Assignable                                                        ($_________)
+                  Foreign                                                               ($_________)
+                  Advance Billings                                                      ($_________)
+                  Nonconformance with Reps and Warranties                               ($_________)
+                  Not a First Perfected Security  Interest                              ($_________)
+                  Not Denominated in Dollars                                            ($_________)
+                  Account Debtor Past Due on Too Many Receivables                       ($_________)
+
+                  Account Debtor Exceeds Concentration Allowance                        ($_________)
+                  Account Debtor Has Disputed Liability                                 ($_________)
+                  Other Ineligible                                                      ($_________)
+          TOTAL Ineligible Receivables                                                  ($_________)
+
+          TOTAL Eligible Receivables                                                  US $_________ A
+
+          TOTAL INVENTORY                                                                $_________
+
+          LESS:                                                                         ($_________)
+</TABLE>
+
+
+                                       46
+
+
+<PAGE>   8
+
+<TABLE>
+<S>                                                                                     <C>
+          Not in current product line                                                   ($_________)
+          Obsolete or used                                                              ($_________)
+          Not merchantable                                                              ($_________)
+          Not First Perfected                                                           ($_________)
+          Scrap                                                                         ($_________)
+          Work-in-Process                                                               ($_________)
+          Other Ineligible
+
+          TOTAL Ineligible Inventory                                                    ($_________)
+
+          TOTAL Eligible Inventory                                                    US $_________ B
+
+          Borrowing Base [A x 80% + B x 25%]                                          US $_________ C
+
+          TOTAL Working Capital Commitment                                            US $_________ D
+
+          Lesser of Borrowing Base (C) and Commitment (D)                             US $_________ E
+
+          Less:
+
+                  Working Capital Loans Outstanding under Credit Agreement              ($_________) F
+
+                  F/E Credits                                                           ($_________) G
+
+          TOTAL Unused portion of Borrowing Base as of _____________ (E minus         US $_________
+                  (F plus G))
+</TABLE>
+
+                  The undersigned further certifies and warrants that no Default
+or Event of Default is existing as of the date of this Certificate.
+
+
+                       [TRIDEX CORPORATION,]
+                       [ITHACA PERIPHERALS INCORPORATED,]
+                       [ULTIMATE TECHNOLOGY CORPORATION,]
+                       [MAGNETEC CORPORATION]
+                       [CASH BASES INCORPORATED]
+
+                       By_____________________________________
+                         Name:
+                         Title:
+
+
+
+                                       47
+
+
+<PAGE>   9
+
+                                   SCHEDULE 1
+
+                                                           WORKING CAPITAL NOTE
+
+
+
+                      AMENDED AND RESTATED PROMISSORY NOTE
+
+
+$4,625,000                                             Stamford, Connecticut
+                                                              June ___, 1995
+
+
+                  For value received, TRIDEX CORPORATION, ITHACA PERIPHERALS
+INCORPORATED, ULTIMATE TECHNOLOGY CORPORATION, CASH BASES INCORPORATED and
+MAGNETEC CORPORATION (each, a "Borrower" and collectively, the "Borrowers"),
+hereby promise, jointly and severally, to pay to the order of FLEET BANK,
+NATIONAL ASSOCIATION (the "Bank") at the principal office of the Bank, at One
+Constitution Plaza, Hartford, Connecticut 06115, for the account of the
+appropriate Lending Office of the Bank, the principal sum of FOUR MILLION SIX
+HUNDRED TWENTY-FIVE THOUSAND DOLLARS ($4,625,000) or, if less, the amount of
+Working Capital Loans made by the Bank to the Borrowers pursuant to the Credit
+Agreement referred to below, in lawful money of the United States of America and
+in immediately available funds, on the date(s) and in the manner provided in
+said Credit Agreement. The Borrowers also promise to pay interest on the unpaid
+principal balance hereof, for the period such balance is outstanding, at said
+principal office for the account of said Lending Office, in like money, at the
+rates of interest as provided in the Credit Agreement referred to below, on the
+date(s) and in the manner provided in said Credit Agreement.
+
+                  The date and amount of each Working Capital Loan made by the
+Bank to the Borrowers under the Credit Agreement referred to below, and each
+payment of principal thereof, shall be recorded by the Bank on its books and,
+prior to any transfer of this Note (or, at the discretion of the Bank, at any
+other time), endorsed by the Bank on the schedule attached hereto or any
+continuation thereof.
+
+                  This is the Working Capital Note referred to in that certain
+Credit Agreement (as amended from time to time the "Credit Agreement") dated of
+even date herewith among the Borrowers and the Bank and evidences the Working
+Capital Loans made by the Bank thereunder. All terms not defined herein shall
+have the meanings given to them in the Credit Agreement.
+
+                  The Credit Agreement provides for the acceleration of the
+maturity of this Note upon the occurrence of certain Events of Default and for
+prepayments on the terms and conditions specified therein.
+
+                  Each Borrower waives presentment, notice of dishonor, protest
+and any other notice or formality with respect to this Note.
+
+
+
+                                       48
+
+
+<PAGE>   10
+
+                  This Note shall be governed by, and interpreted and construed
+in accordance with, the laws of the State of Connecticut.
+
+                  This Note amends and restates in its entirety a certain
+Promissory Note, dated June 17, 1994, from the Borrowers to the Bank, in the
+original principal amount of Four Million Dollars ($4,000,000) (the "Existing
+Note"). Upon the execution and delivery of this Note, this Note shall replace
+the Existing Note and shall immediately evidence all outstanding indebtedness
+under the Existing Note. The Borrowers and the Bank hereby agree that the
+indebtedness embodied in and evidenced by this Note is the same indebtedness
+embodied in and evidenced by the Existing Note, as increased as provided herein,
+and that such indebtedness is a continuing obligation of the Borrowers to the
+Bank, and has been and continues to be fully enforceable, absolute and in
+existence.
+
+
+                       TRIDEX CORPORATION
+
+                       By______________________________________________
+                         Richard L. Cote, Senior Vice President and
+                         Chief Financial Officer
+
+
+                       ITHACA PERIPHERALS INCORPORATED,
+                       ULTIMATE TECHNOLOGY CORPORATION,
+                       MAGNETEC CORPORATION
+
+                       By______________________________________________
+                         George T. Crandall
+                         Secretary as to each of the above corporations
+
+
+                       CASH BASES INCORPORATED
+
+                       By______________________________________________
+                         George T. Crandall
+                         Treasurer
+
+
+
+                                       49
+
+
+<PAGE>   11
+
+<TABLE>
+<CAPTION>
+                        Amount                 Amount of               Balance              Notation
+     Date               of Loan                 Payment              Outstanding               By
+     ----               -------                ---------             -----------            --------
+<S>                     <C>                    <C>                   <C>                    <C>
+
+
+</TABLE>
+
+
+                                       50
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>7
+<DESCRIPTION>STATEMENT RE: COMPUTATION OF PER SHARE EARNINGS
+<TEXT>
+
+<PAGE>   1
+
+                      TRIDEX CORPORATION AND SUBSIDIARIES
+
+                  EXHIBIT 11 COMPUTATION OF PER SHARE EARNINGS
+
+                (DOLLARS IN THOUSANDS EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                            FOR THE FISCAL YEARS ENDED
+                                                                      -----------------------------------------
+                                                                      APRIL 1, 1995               APRIL 2, 1994
+                                                                      -------------               -------------
+<S>                                                                     <C>                         <C>
+  Net income                                                            $    2,686                  $    1,613
+                                                                        ==========                  ==========
+
+  Shares:
+  Average common shares outstanding                                      3,638,340                   3,326,561
+  Dilutive effect of outstanding options and warrants
+    as determined by the treasury stock method                             229,487                     334,717
+                                                                        ----------                  ----------
+                                                                         3,867,827                   3,661,278
+                                                                        ==========                  ==========
+  Earnings per common
+    and common equivalent share:                                        $     0.69                  $     0.44
+                                                                        ==========                  ==========
+</TABLE>
+
+
+                                       51
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>8
+<DESCRIPTION>LIST OF SUBSIDIARIES OF TRIDEX
+<TEXT>
+
+<PAGE>   1
+
+                               TRIDEX CORPORATION
+
+                EXHIBIT 21.1 SUBSIDIARIES OF TRIDEX CORPORATION
+
+<TABLE>
+<CAPTION>
+                                                  Jurisdiction of                           Percentage
+Name                                               Incorporation             Owner             Owned
+- - ----------------------------------                --------------             -----          ----------
+<S>                                               <C>                      <C>                 <C>
+Allu Realty Trust *                               Massachusetts              Tridex            100%
+
+Cash Bases Incorporated                           Delaware                   Tridex            100%
+
+Cash Bases GB, Ltd.                               United Kingdom             Tridex            100%
+
+     Cash Bases (Deutschland) GmbH                Germany                  Cash Bases          100%
+
+     Cash Bases Iberica, S.A.                     Spain                    Cash Bases           80%
+
+Digital Matrix Corporation*                       Connecticut                Tridex            100%
+
+Hi-G Canada, Ltd.*                                Canada                     Tridex            100%
+
+Hi-G Relais Vertriebs GmbH*                       West Germany               Tridex            100%
+
+Hi-G S.A.R.L.*                                    France                     Tridex            100%
+
+Ithaca Peripherals Incorporated                   Delaware                   Tridex            100%
+
+     Ithaca Peripherals Limited                   United Kingdom             Ithaca            100%
+
+Magnetec Corporation                              Connecticut                Tridex            100%
+
+RIL Corporation*                                  Connecticut                Tridex            100%
+
+TDX Corp.*                                        Connecticut                Tridex            100%
+
+Transcom Incorporated*                            Maryland                   Tridex            100%
+
+Tritel Corporation*                               California                 Tridex            100%
+
+Ultimate Technology Corporation                   New York                   Tridex            100%
+</TABLE>
+
+*Inactive
+
+                                       52
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>9
+<DESCRIPTION>CONSENT OF INDEPENDENT ACCOUNTANTS
+<TEXT>
+
+<PAGE>   1
+
+                                                                   Exhibit 23.1
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration 
+Statement on Form S-8 of the Tridex Corporation 1989 Long-Term Incentive Plan 
+of our report dated May 5, 1995 appearing on page 15 of this Form 10-K.
+
+
+
+PRICE WATERHOUSE LLP
+June 28, 1995
+Hartford, Connecticut
+
+
+
+                                       53
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>10
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM TRIDEX
+CORPORATION ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED APRIL 1, 1995 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          APR-01-1995
+<PERIOD-START>                             APR-03-1994
+<PERIOD-END>                               APR-01-1995
+<CASH>                                             347
+<SECURITIES>                                         0
+<RECEIVABLES>                                    9,971
+<ALLOWANCES>                                        42
+<INVENTORY>                                      8,238
+<CURRENT-ASSETS>                                19,563
+<PP&E>                                          11,214
+<DEPRECIATION>                                   6,791
+<TOTAL-ASSETS>                                  36,362
+<CURRENT-LIABILITIES>                           13,600
+<BONDS>                                          6,185
+<COMMON>                                           950
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      15,627
+<TOTAL-LIABILITY-AND-EQUITY>                    36,362
+<SALES>                                         54,677
+<TOTAL-REVENUES>                                54,677
+<CGS>                                           36,428
+<TOTAL-COSTS>                                   36,428
+<OTHER-EXPENSES>                                13,659
+<LOSS-PROVISION>                                    74
+<INTEREST-EXPENSE>                               1,171
+<INCOME-PRETAX>                                  3,345
+<INCOME-TAX>                                       659
+<INCOME-CONTINUING>                              2,686
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     2,686
+<EPS-PRIMARY>                                      .69
+<EPS-DILUTED>                                      .69
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

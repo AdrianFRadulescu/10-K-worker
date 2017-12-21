@@ -1,0 +1,2822 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KtxCE/13FLdWglv2r8SrMoPAjhXM1orNv5be8u5MaZAI9k8FyqB7/oFMjn9yu05L
+ shQP6dHgea/rzOy4TWrvHg==
+
+<SEC-DOCUMENT>0000912057-96-005515.txt : 19960401
+<SEC-HEADER>0000912057-96-005515.hdr.sgml : 19960401
+ACCESSION NUMBER:		0000912057-96-005515
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960329
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			U S HEALTHCARE INC
+		CENTRAL INDEX KEY:			0000711405
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOSPITAL & MEDICAL SERVICE PLANS [6324]
+		IRS NUMBER:				232229683
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10819
+		FILM NUMBER:		96540814
+
+	BUSINESS ADDRESS:	
+		STREET 1:		980 JOLLY RD
+		STREET 2:		PO BOX 1109
+		CITY:			BLUE BELL
+		STATE:			PA
+		ZIP:			19422
+		BUSINESS PHONE:		2156284800
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED STATES HEALTH CARE SYSTEMS INC
+		DATE OF NAME CHANGE:	19861202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>1995 FORM 10-K, U.S. HEALTHCARE, INC.
+<TEXT>
+
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+ 
+                                   FORM 10-K
+(MARK ONE)
+/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT
+    OF 1934 (FEE REQUIRED)
+ 
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 1995
+ 
+                                       OR
+ 
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 (NO FEE REQUIRED)
+ 
+FOR THE TRANSITION PERIOD FROM _______ TO ______________________
+ 
+                         COMMISSION FILE NUMBER 0-11531
+ 
+                             U.S. HEALTHCARE, INC.
+             (Exact name of Registrant as specified in its charter)
+ 
+<TABLE>
+<S>                                            <C>
+                PENNSYLVANIA                                    23-2229683
+       (State or other jurisdiction of                       (I.R.S. Employer
+       incorporation or organization)                       Identification No.)
+ 
+   980 JOLLY ROAD, BLUE BELL, PENNSYLVANIA                         19422
+  (Address of principal executive offices)                      (Zip Code)
+</TABLE>
+ 
+        Registrant's telephone number, including area code: 215-628-4800
+ 
+          Securities registered pursuant to Section 12(b) of the Act:
+                                      None
+ 
+          Securities registered pursuant to Section 12(g) of the Act:
+                    Common Stock, Par Value $.005 Per Share
+ 
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12  months (or  for such shorter  period that  the Registrant was
+required to  file  such  reports), and  (2)  has  been subject  to  such  filing
+requirements for the past 90 days. Yes. /X/ No. / /
+ 
+Indicate  by check mark if disclosure of  delinquent filers pursuant to Item 405
+of Regulation S-K is  not contained herein,  and will not  be contained, to  the
+best  of Registrant's knowledge,  in definitive proxy  or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  / /
+ 
+The aggregate market  value of the  voting stock held  by non-affiliates of  the
+Registrant  as of February  29, 1996 was  $6,686,577,885 calculated by excluding
+all shares held  by executive  officers, directors  and 5%  shareholders of  the
+Registrant  without  conceding that  all such  persons  are "affiliates"  of the
+Registrant for purposes of the federal securities laws.
+ 
+As  of  February  29,  1996  there  were  139,511,168  shares  of  Common  Stock
+outstanding and 14,429,867 shares of Class B Stock outstanding.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+Portions of the following documents are incorporated herein by reference:
+ 
+Parts II and IV -- The  Registrant's Annual Report to  Shareholders for the year
+                   ended   December   31,   1995   ("1995   Annual   Report   to
+                   Shareholders").
+ 
+Part III       -- The  Registrant's  definitive  Proxy  Statement  for  its 1996
+                  Annual Meeting of Shareholders, to be filed not later than 120
+                  days  after  the  close  of  the  fiscal  year  ("1996   Proxy
+                  Statement").
+<PAGE>
+                                     PART I
+ 
+ITEM 1:    BUSINESS
+THE HEALTH CARE INDUSTRY
+ 
+    Annual  health care  expenditures in the  United States have  grown from $27
+billion in  1960,  which represented  approximately  5% of  the  gross  domestic
+product,  to $938  billion in 1994,  which represented approximately  14% of the
+gross domestic product. As a  consequence, employers, insurers and  governmental
+authorities  have been increasingly focusing on alternative health care delivery
+systems such as  health maintenance organizations  ("HMOs") that provide  better
+controls  on rising  costs without  sacrificing quality.  HMO enrollment  in the
+United States has increased from approximately three million members in 1970  to
+approximately 51 million at January 1, 1995, served by 562 HMOs.
+ 
+    The goals of HMOs are to provide their members with access to quality health
+care,  while employing  a business strategy  and management  systems designed to
+encourage more cost-effective  use of  health care delivery  systems. Such  cost
+containment  strategies include providing  access to primary  physician care and
+other services on  a fixed,  prepaid basis, monitoring  hospital admissions  and
+length of stay, using a system of specialist referrals, using non-hospital based
+medical   services,  and  emphasizing  preventive   care.  To  accomplish  these
+objectives, several  basic  HMO  models have  evolved:  staff,  group,  network,
+individual practice, and individual practice association. The key distinguishing
+feature  of each model is the relationship between the HMO and the participating
+physicians. Under  the staff  model, the  HMO employs  the physicians  and  uses
+capital  to provide  the facilities  in which  the physicians  see patients. The
+physicians receive a salary and  often a bonus based  on the performance of  the
+HMO.  Under the  group model, the  HMO contracts with  one large multi-specialty
+medical group practice which typically receives a monthly fixed fee for each HMO
+member (capitation), regardless of the medical services provided to each member.
+The network  model  is predicated  on  an HMO  contracting  with more  than  one
+physician  group  to  provide  services  on  a  capitated  fee  basis.  Under an
+individual practice model, the HMO contracts with independent physicians who are
+broadly dispersed throughout a community and who care for patients in their  own
+offices.  The  individual practice  association (IPA)  model  is similar  to the
+individual practice model except an IPA model HMO contracts with an organization
+(the IPA) that in turn contracts with the physicians. The HMOs operated by  U.S.
+Healthcare,  Inc. (the "Company") most closely adhere to the individual practice
+model. Unless the context otherwise requires, references to the Company  include
+its subsidiaries.
+ 
+THE COMPANY'S MANAGED HEALTH CARE DELIVERY SYSTEM
+ 
+    The Company provides comprehensive managed health care services through HMOs
+it   owns  and  operates  in  Pennsylvania,  New  Jersey,  New  York,  Delaware,
+Connecticut, Massachusetts, New  Hampshire, Maryland,  Georgia, Virginia,  Rhode
+Island, North Carolina, South Carolina and the District of Columbia.
+ 
+    The services of the Company's HMOs are marketed primarily to employer groups
+and  are  provided  through  networks  of  independent  health  care  providers,
+including  selected  primary  care  physicians  who  coordinate  each   person's
+individual  medical care. In  addition to comprehensive  primary physician care,
+specialist care and hospital services,  the Company makes available home  health
+care and other outpatient services as well as optional prescription drug, vision
+care  and  dental plans.  The Company  contracts  with independent  primary care
+physicians who are reimbursed under prospective payment arrangements in order to
+remove traditional barriers to care. The Company encourages preventive care  and
+the  use  of  alternative  medical delivery  services,  and  provides  access to
+comprehensive traditional health care services.
+ 
+    The Company  contracts with  providers  to participate  in its  HMO  service
+network  as it expands into new geographic areas or as it considers necessary to
+serve its HMO membership. At December 31, 1995, the HMO service network included
+approximately 13,400 primary care physicians, 40,600 specialists, 441  hospitals
+and 7,000 pharmacies.
+ 
+                                       2
+<PAGE>
+THE COMPANY'S HEALTH PLANS
+ 
+    The  Company's health  plans consist of  HMO plans  and indemnity-type plans
+offered  both  on   a  fully-insured   and  an   employer-funded  basis.   Under
+fully-insured health plans, the Company charges a premium and bears the risk for
+medical  costs incurred. Under employer-funded health plans, the Company charges
+a fee for providing administrative services and the employer bears substantially
+all risk for  medical costs incurred.  The Company's health  plans served  about
+2,442,000  members as of December 31, 1995, an increase of 475,000 or 24.1% from
+approximately 1,967,000 at December 31,  1994. The following tables show  health
+plan  membership at December 31, 1995 and the increase in membership compared to
+December 31, 1994 by plan type and by state:
+ 
+<TABLE>
+<CAPTION>
+BY PLAN TYPE:                                                                               12/31/95    INCREASE
+- -----------------------------------------------------------------------------------------  -----------  ---------
+<S>                                                                                        <C>          <C>
+U.S. Healthcare-insured health plans:
+  HMO plans
+    Commercial...........................................................................    1,864,000    269,000
+    Medicare.............................................................................      108,000     70,000
+    Medicaid and other...................................................................       89,000     32,000
+                                                                                           -----------  ---------
+                                                                                             2,061,000    371,000
+  Indemnity plans -- Commercial..........................................................       10,000      4,000
+                                                                                           -----------  ---------
+        Total U.S. Healthcare-insured health plans.......................................    2,071,000    375,000
+Employer-funded health plans.............................................................      371,000    100,000
+                                                                                           -----------  ---------
+    Total health plans...................................................................    2,442,000    475,000
+                                                                                           -----------  ---------
+                                                                                           -----------  ---------
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                                                    EMPLOYER-FUNDED
+                                                INSURED               HEALTH PLANS          TOTAL HEALTH PLANS
+                                              HEALTH PLANS       ----------------------  ------------------------
+                                         ----------------------              INCREASE                  INCREASE
+BY STATE:                                 12/31/95    INCREASE   12/31/95   (DECREASE)    12/31/95    (DECREASE)
+- ---------------------------------------  -----------  ---------  ---------  -----------  -----------  -----------
+<S>                                      <C>          <C>        <C>        <C>          <C>          <C>
+Pennsylvania...........................      782,000    110,000    123,000      40,000       905,000     150,000
+New Jersey.............................      561,000    108,000    101,000      26,000       662,000     134,000
+New York...............................      531,000     81,000     23,000       5,000       554,000      86,000
+Massachusetts..........................       60,000     14,000     19,000       3,000        79,000      17,000
+Connecticut............................       47,000     15,000      8,000       1,000        55,000      16,000
+Maryland and the District of
+ Columbia..............................       29,000     13,000      7,000       1,000        36,000      14,000
+Delaware...............................       26,000      6,000      4,000       3,000        30,000       9,000
+Georgia................................       21,000     21,000     11,000       6,000        32,000      27,000
+New Hampshire..........................       10,000      3,000      4,000          --        14,000       3,000
+Virginia...............................        3,000      3,000      4,000       1,000         7,000       4,000
+Rhode Island...........................        1,000      1,000      1,000          --         2,000       1,000
+North Carolina and South Carolina......           --         --      5,000      (1,000)        5,000      (1,000)
+Other states...........................           --         --     61,000      15,000        61,000      15,000
+                                         -----------  ---------  ---------  -----------  -----------  -----------
+Total..................................    2,071,000    375,000    371,000     100,000     2,442,000     475,000
+                                         -----------  ---------  ---------  -----------  -----------  -----------
+                                         -----------  ---------  ---------  -----------  -----------  -----------
+</TABLE>
+ 
+    Under  fully-insured  HMO  plans,  members  receive  comprehensive   medical
+coverage  in exchange for a fixed monthly  premium. The Company offers HMO plans
+with minimum  out-of-pocket member  expense (copayments)  and plans  with  lower
+premium rates and higher member copayments. When an individual enrolls in one of
+the  Company's HMOs, he or  she selects a primary  care physician from among the
+physicians who have contracted with the Company. The primary care physicians are
+family practitioners,  general practitioners,  internists or  pediatricians  who
+provide  necessary  preventive  and  primary  medical  care  and  are  generally
+responsible for making referrals to specialists. Except in
+ 
+                                       3
+<PAGE>
+emergency situations,  hospital  care generally  requires  a referral  from  the
+member's primary care physician and takes place in hospitals that have contracts
+to serve the HMOs' members for an agreed compensation.
+ 
+    Commercial  members  join  the  Company's  HMOs  generally  through employer
+groups. See "Marketing" below.  In many instances,  employers offer employees  a
+choice of managed care or indemnity coverage. Employees may select their desired
+health  coverage during  a designated period  (usually one  month annually). New
+employees make their selections at  the time of employment. Employers  generally
+pay  all or  part of the  monthly premiums  and make payroll  deductions for any
+portion of the premium not provided as an employee benefit.
+ 
+    In 1994,  the Company  introduced its  Quality Point-of-Service-TM-  Program
+(QPOS-TM-),  a joint offering  of the Company's  HMO and insurance subsidiaries.
+Members can utilize comprehensive  HMO benefits through participating  providers
+or  go directly, without  a referral, to  any provider they  choose, subject to,
+among other things, certain deductibles and coinsurance. Membership in QPOS  was
+about  325,000 at December  31, 1995, an  increase of 292,000  from December 31,
+1994. These members  are classified  as U.S.  Healthcare-insured commercial  HMO
+members in the preceding table.
+ 
+    In  New York and New Jersey,  the Company makes fully-insured commercial HMO
+coverage available on a direct-pay basis to individual subscribers. At  December
+31, 1995, about 11,000 members were enrolled in these plans.
+ 
+    The  Company has annual contracts with the federal government in most of the
+states in which the Company operates HMOs to provide fully-insured HMO  coverage
+to  Medicare beneficiaries  who choose to  receive their health  care through an
+HMO. Under these contracts, the federal government agrees to pay the Company  at
+a  rate equal  to 95% of  the estimated  average cost for  services per Medicare
+beneficiary that would have been incurred for treatment of such beneficiaries in
+the same geographic areas. Amounts payable under these contracts are subject  to
+periodic  unilateral revision by the federal government. In addition to payments
+from the federal government, some of the Company's Medicare HMO plans require  a
+small premium to be paid by the member. At December 31, 1995, the Company served
+about 108,000 Medicare beneficiaries.
+ 
+    The  Company  has contracts  with certain  state and  local agencies  in New
+Jersey, New York and  Pennsylvania to provide  fully-insured medical and  health
+benefits  to persons eligible for Medicaid benefits in certain counties in those
+states. The  Company's contracts  are for  periods  of one  to three  years.  At
+December  31, 1995,  about 81,000  Medicaid beneficiaries  were enrolled  in the
+Company's HMO plans. The Company's contract  to provide health care coverage  to
+Medicaid  beneficiaries in Massachusetts terminated effective December 31, 1995.
+As of that date, the Company served about 200 Medicaid members in Massachusetts.
+ 
+    The Company  offers the  Children's Health  Insurance Program  (CHIP)  under
+contract  with  the  Commonwealth  of  Pennsylvania.  CHIP  is  a  fully-insured
+comprehensive health care plan for children  of low-income families who are  not
+covered  by Medicaid  or other  health insurance.  The Company  also offers CHIP
+Plus, a program  whereby the  Company pays  all or a  part of  the premiums  for
+certain  children ineligible  for fully  state-funded coverage.  At December 31,
+1995, about 8,000 members were enrolled in these programs.
+ 
+    The Company offers indemnity health insurance products to employers based in
+the states in  which it operates  HMOs. At  December 31, 1995,  the Company  had
+about 10,000 enrollees in its fully-insured indemnity plans.
+ 
+COST CONTAINMENT
+ 
+    The  Company has developed  contractual arrangements with  providers to help
+control the high cost of medical services. These contractual arrangements  cover
+the  majority of medical services. In the Company's managed health care delivery
+system, the  primary  care  physician  plays an  important  role  in  practicing
+preventive  medicine and acts on  behalf of the HMO  member to provide access to
+ 
+                                       4
+<PAGE>
+specialist physicians, hospitals, and other health care providers. These primary
+care physicians contract with  the Company to participate  in a system that  has
+attracted  an increasing number of  people interested in cost-effective, quality
+medical care;  to more  effectively  influence health  care planning;  to  enjoy
+stable  and timely remuneration; and to  reduce bad debt experience, billing and
+other   paperwork.   Participating   physicians   are   primarily    independent
+practitioners  who  generally also  have  patients who  are  not members  of the
+Company's HMOs.
+ 
+    The Company generally  compensates HMO primary  care physicians pursuant  to
+its  Quality Care  Compensation System  ("QCCS"). The  system employs  a monthly
+capitation payment feature as well  as quality assessment, comprehensiveness  of
+care,  utilization and  office status components.  These components  are used to
+adjust the capitation payments to individual physician offices and to  determine
+the amount of additional periodic payments.
+ 
+    The  Company has capitated payment arrangements for mental health, substance
+abuse,  diagnostic  laboratory,  radiology  and  diagnostic  imaging   services,
+podiatric  treatment,  physical therapy  and  prescription drug  dispensing. The
+Company has contracts with specialist physicians at specified rates per visit or
+procedure.
+ 
+    The Company has contracts  that provide for all-inclusive  per diem and  per
+case hospitalization rates, and fixed rates for ambulatory surgery and emergency
+room  services. The Company  compensates certain contracted  hospitals using the
+Company's CapTainer-Registered  Trademark- compensation  methodology that  takes
+into account the attainment of agreed upon quality and cost containment goals to
+help determine the final compensation paid to the hospitals. Under the CapTainer
+methodology,  hospitals are paid  certain fees based on  use of their facilities
+but can  earn  financial incentives  based  on patient  satisfaction  and  other
+performance measurements.
+ 
+    The Company also has contractual arrangements with certain integrated health
+delivery  systems under  which the  systems are  compensated on  a substantially
+fixed prospective basis for medical services, including primary, specialist  and
+hospital  care. At  December 31, 1995,  about 86,000 members  were enrolled with
+primary care physicians who participate in such integrated delivery systems.
+ 
+    In addition to its contractual arrangements, the Company uses other means to
+deliver access to  quality care  in a cost-effective  manner. Company  employees
+monitor  hospital cases and assist participating  physicians who wish to arrange
+for medically  appropriate  but  less  costly  alternatives.  In  addition,  the
+Company's  HMOs generally  require precertification  of elective  admissions and
+monitor the length of hospital  stays. Participating physicians generally  admit
+their  HMO  patients  to hospitals  using  referral procedures  that  direct the
+hospital to the Company's patient management unit, which confirms the  patient's
+membership  status while  obtaining pertinent  data. This  unit also coordinates
+related activities, including the subsequent transition to the home  environment
+and  home  care,  if  necessary.  Case  management  assistance  for  complex  or
+"catastrophic" cases is provided by a special case unit.
+ 
+    The Company generally provides participating primary care physicians with  a
+monthly  report  of services  and  costs rendered  to  HMO members.  This report
+contains cost and  utilization data,  including hospital  and specialist  costs,
+which  enables  the  physician to  monitor  hospital and  specialist  costs. The
+Company's information  systems  also enable  it  to monitor  enrollment,  member
+eligibility, and the historical use and cost of various services.
+ 
+OTHER PRODUCTS AND SERVICES
+ 
+    The  Company offers  network-based workers compensation  case management and
+network-based managed disability services. At December 31, 1995, the Company had
+contracts to provide such services for approximately 250,000 employees, compared
+to 224,000 employees at December 31, 1994.
+ 
+    The Company  provides assistance  to multi-state  employers by  coordinating
+their  relationships with other HMOs. Services include evaluation of the HMOs in
+areas such as quality  of care, efficiency and  financial stability, as well  as
+enrollment and billing management.
+ 
+                                       5
+<PAGE>
+    The  Company offers quality and outcome measurement and improvement programs
+and healthcare  data analysis  systems for  providers and  purchasers of  health
+care.
+ 
+    The  Company offers a number of supplemental benefit coverages to employers,
+either as supplements to  HMO plans or as  stand-alone products. Such  coverages
+include dental plans, prescription drug plans, vision plans, employee assistance
+programs and wellness programs.
+ 
+QUALITY ASSESSMENT
+ 
+    The   Company  is  an   industry  leader  in   developing  and  implementing
+comprehensive quality assessment programs.  The Company believes that  providing
+access  to  demonstrably  high  quality health  care  services  is  an essential
+ingredient for success.
+ 
+    The Company's quality assessment program  begins with the initial  selection
+of  primary care physicians. Those who wish to participate in the Company's HMOs
+must satisfy an  extensive set  of criteria. These  criteria include  licensure,
+hospital  admitting  privileges, demonstrated  proficiency,  written references,
+patient access, office standards, after-hours coverage and many other factors.
+ 
+    Participating   primary   care   physicians   are   recertified    annually.
+Recertification  covers  many aspects  of patient  care,  an analysis  of member
+grievances, the transfer and termination rate of HMO members from the  practice,
+on-site  interviews, analysis of utilization patterns, extensive member surveys,
+and drug prescription patterns.
+ 
+    Committees,  each  composed  of  a  peer  group  of  participating   private
+physicians,  review  primary care  physician  applicants and  participants being
+recertified. These committees  recommend certification,  recertification or,  if
+appropriate,  sanctions, which may include termination from participation in the
+Company's HMOs. Regular reports of their  determinations are made to each  HMO's
+Board of Directors.
+ 
+    The  Company's  member  relations  department  deals  directly  with members
+concerning their health  care benefits.  It also investigates  grievances. On  a
+routine  basis, survey questionnaires are sent  to members regarding the quality
+of care they  receive. Physician  committees and medical  directors also  review
+issues related to the delivery of medical care.
+ 
+    Each  participating  primary care  physician  is obligated  to  carry direct
+medical malpractice liability insurance in an amount no less than the greater of
+the minimum amount required in the state  in which the physician is licensed  or
+the  Company's requirements. In addition, the Company carries contingent medical
+malpractice professional liability insurance.
+ 
+    The Company has developed  criteria and systems to  measure the quality  and
+effectiveness  of health care services provided in a variety of settings ranging
+from physicians' offices to hospitals. These systems are used by the Company  in
+its quality assessment program.
+ 
+MARKETING
+ 
+    The  Company  employs  a  direct  sales  force  of  approximately  885 sales
+representatives  and  marketing  management  personnel.  Marketing  efforts  are
+supported  by an advertising program that includes television, radio, billboards
+and print  media,  as well  as  extensive  market research  and  a  computerized
+database.
+ 
+    The  Company's 25 largest customers,  including the Federal Employees Health
+Benefits  Plan,  in  the  aggregate  comprised  22%  of  the  fully-insured  HMO
+membership  at December 31, 1995. For the year ended December 31, 1995, premiums
+billed to the federal government for the Federal Employees Health Benefits  Plan
+were  approximately 8% of  total premium revenue.  The Company's agreements with
+employer groups are generally for a term of 12 months and are subject to  annual
+renewal.
+ 
+TRADEMARKS
+ 
+    The  registered trademark U.S. Healthcare-Registered  Trademark- is owned by
+the Company. The Company considers U.S. Healthcare-Registered Trademark- and its
+other trademarks and  trade names important  in the operation  of its  business.
+However,  the  business  of  the  Company is  not  dependent  on  any individual
+trademark or trade name.
+ 
+                                       6
+<PAGE>
+COMPETITION
+ 
+    Competition in the  health care  industry has intensified  in recent  years,
+primarily  due  to  more  aggressive  marketing,  a  proliferation  of competing
+products from  new and  existing  competitors and  increased quality  and  price
+sensitivity.  Employer  groups  have  increasingly  demanded  additional benefit
+options,  including  HMOs,  point-of-service  products  and  preferred  provider
+organizations   (PPOs).  In   addition,  some  larger   employers  have  adopted
+self-funded health benefit plans, with  plan administration provided by a  third
+party.  The Company competes  with Blue Cross and  Blue Shield plans, commercial
+insurers and other HMOs. Some of these organizations have greater enrollment  or
+financial  resources  than  the  Company.  Management  believes  that  the  most
+significant   factors   which   distinguish    competing   health   plans    are
+comprehensiveness of coverage, quality of care and service, cost (including both
+premium and member out-of-pocket costs), product design, financial stability and
+provider networks. The Company strives to be competitive in each of these areas.
+The  ability of  the Company to  increase the  number of persons  covered by its
+health plans  or  to  increase  premiums  is  affected  by  competition  in  any
+particular  area  and the  desire and  ability of  employers to  self-fund their
+health benefit  plans.  Competition may  also  affect the  availability  to  the
+Company  of  the  services  of health  care  providers,  including  primary care
+physicians and hospitals.
+ 
+EMPLOYEES
+ 
+    At December 31, 1995,  the Company had 4,980  full and part-time  employees.
+The Company believes that its relationship with its employees is good.
+ 
+GOVERNMENT REGULATION
+ 
+    The  federal government and the states in which the Company conducts its HMO
+and other businesses have adopted laws and regulations that govern the  business
+activities  of the  Company to varying  degrees. These laws  and regulations may
+restrict how the Company  conducts its businesses and  may result in  additional
+burdens  and  costs to  the Company.  Areas  of governmental  regulation include
+licensure, premium rates,  benefits, service area  expansion, quality  assurance
+procedures,  plan design, eligibility requirements, provider contracts and rates
+of payment, underwriting, financial arrangements, financial condition (including
+reserves) and corporate governance. Laws and regulations governing the Company's
+businesses are  subject  to  amendments and  changing  interpretations  in  each
+jurisdiction.
+ 
+    There  have been diverse legislative and  regulatory initiatives at both the
+federal and state  levels to  address, among other  aspects of  the health  care
+system,  increases in health  care costs and  the lack of  health coverage for a
+significant segment of  the population.  Several bills have  been introduced  in
+Congress  in recent years to reform the nation's health care system. These bills
+include elements  such  as  prohibitions on  preexisting  condition  exclusions;
+guaranteed  issue  and renewability  of health  insurance; revisions  to current
+Medicare HMO laws which would have the effect of reducing Medicare HMO  premiums
+payable  by the federal government; subsidies  for individuals who are uninsured
+or underinsured;  mandates on  employers to  provide health  coverage for  their
+employees;  medical  savings accounts;  minimum  or standardized  health benefit
+packages; limitations  on  premium  rate increases  and  other  price  controls;
+mandatory  community rating of premiums; medical liability reforms; amendment of
+the antitrust laws to benefit  providers; authorization of provider networks  to
+obtain  federal  licensure  as  Medicare  health  plans;  mandatory  or optional
+single-payer systems for all or part  of the population; and changes in  federal
+tax,  Medicare and Medicaid laws and the Employee Retirement Income Security Act
+of 1974  ("ERISA").  To varying  degrees,  many  of the  bills  contemplate  the
+involvement of state governments in the regulation and implementation of federal
+health care reform legislation.
+ 
+    Recent  legislation  and  regulation  in certain  of  the  states  where the
+Company's HMOs  operate  has included  mandatory  minimum hospital  stays  after
+childbirth;  incentives to  enroll individuals (including  Medicare and Medicaid
+beneficiaries) and  small  groups  (including  financial  penalties  if  defined
+enrollment targets are not achieved); "any willing provider" statutes that would
+require  the  Company's HMOs  to  accept all  providers  who agree  to  meet the
+Company's terms, restrictions on medical
+ 
+                                       7
+<PAGE>
+underwriting;  mandated  offering  of  small  group  and  individual   coverage,
+including  specified  plan  designs;  guaranteed  policy  renewability; mandated
+continuous  open  enrollment  for   individuals  and  small  groups;   financial
+assessments  for the  individual and small  group markets  intended to subsidize
+eligible carriers (some or all of which assessments may or may not be  reflected
+in increased premium rates); mandatory or voluntary regional health alliances or
+purchasing  cooperatives; and  minimum medical loss  ratios in  certain lines of
+business. Similar  legislation or  regulation  is likely  to be  introduced  and
+possibly  enacted  in other  states in  which the  Company does  business. Other
+proposed state  laws and  regulations  include restrictions  on the  ability  of
+managed care entities to negotiate payment rates with providers, restrictions on
+the  Company's discretion to make benefit determinations, disclosure obligations
+relative  to  marketing   and  advertising,  more   stringent  license   renewal
+requirements,  and mandated benefits. Several  states, including New Jersey, are
+contemplating major  revisions  to HMO  regulation  which include  many  of  the
+foregoing areas.
+ 
+    The  Company is  unable to  predict how existing  federal or  state laws and
+regulations may be changed or  interpreted, what additional laws or  regulations
+affecting  its businesses  may be  enacted or  proposed, when  and which  of the
+proposed laws will be adopted and what effect the new laws and regulations  will
+have on its businesses.
+ 
+    Federally  qualified  HMOs,  such  as those  operated  by  the  Company, are
+required to establish premium rates  prospectively and without regard to  actual
+utilization  of services  by individual  members, using  one of  three community
+rating methods.  These  rates  may  vary from  account  to  account  to  reflect
+projected  family size and contract mix, benefit levels, renewal date, and other
+factors. Under  one of  these methods,  "traditional community  rating," an  HMO
+establishes  premium  rates based  on its  revenue  requirements for  its entire
+enrollment in  a given  community. Under  "community rating  by class,"  an  HMO
+establishes premium rates based on its revenue requirements for broad classes of
+membership  distinguished by factors such as  age and sex. Under "group specific
+community rating," an HMO establishes premium  rates based on the HMO's  revenue
+requirements for providing services to the group. New York, one of the principal
+states  in which  the Company operates,  generally permits HMOs  to set premiums
+only in accordance with the traditional community rating method. Several of  the
+other  states  in  which the  Company  operates  HMOs permit  use  of  all three
+community rating  methods. State  laws in  certain of  the states  in which  the
+Company  operates HMOs require the filing with  and approval by the state of HMO
+premium rates. In addition to  reviewing anticipated medical costs, some  states
+also  review anticipated administrative  costs as part  of the approval process.
+Future results of the Company could  be affected if the premium rates  requested
+by  the Company are  not approved or  are adjusted downward  (possibly to levels
+lower than rates previously approved) by state regulators.
+ 
+    Most states, including those in which the Company now operates HMOs, require
+HMOs to be licensed prior to  commencing operations. If the Company  establishes
+an HMO in any state where it does not presently operate an HMO, it generally has
+to seek licensure. The time necessary to obtain an HMO license varies from state
+to  state. Each HMO must file periodic  financial and operating reports with the
+states in which  it does business.  In addition, HMO  operations are subject  to
+state examination and periodic license renewal.
+ 
+    The Company has three insurance subsidiaries, one domiciled in Minnesota and
+licensed  in 46 other states and the  District of Columbia, one domiciled in New
+York and one domiciled in Connecticut. The Company's insurance subsidiaries  are
+subject to regulation in each state in which licensed.
+ 
+    The  Company is subject  to federal and state  regulations which require the
+Company's subsidiaries to  maintain certain  levels of tangible  net assets,  as
+defined,  for use  in their  own operations.  Certain states  also require prior
+approval before  dividends  are  paid  or funds  are  otherwise  transferred  to
+affiliates.
+ 
+    The provision of goods and services to certain employee health benefit plans
+is  subject  to  ERISA,  a  complex  set  of  laws  and  regulations  subject to
+interpretation  and  enforcement  by  the  Internal  Revenue  Service  and   the
+Department  of  Labor.  ERISA  regulates certain  aspects  of  the relationships
+ 
+                                       8
+<PAGE>
+between the Company and employers who maintain employee benefit plans subject to
+ERISA. Some of the administrative services  and other activities of the  Company
+may  also be subject to regulation under ERISA. In addition, some states require
+licensure or registration  of companies  such as the  Company's subsidiary  that
+provides third party claims administration services for benefit plans.
+ 
+CAUTIONARY STATEMENTS
+ 
+    The  Private Securities Litigation  Reform Act of 1995  provides a new "safe
+harbor"  for  forward-looking  statements  to  encourage  companies  to  provide
+prospective information about their companies without fear of litigation so long
+as  those statements  are identified as  forward-looking and  are accompanied by
+meaningful cautionary statements identifying important factors that could  cause
+actual  results to differ materially from those projected in the statements. The
+Company desires to take advantage of this "safe harbor" and, accordingly, hereby
+identifies the  following  important factors  which  could cause  the  Company's
+actual  financial  and enrollment  results to  differ  materially from  any such
+results which might be projected, forecast, estimated or budgeted by the Company
+in forward-looking statements.
+ 
+(a) Heightened competition, including specifically the intensification of  price
+    competition;  the  entry of  new competitors;  and  the introduction  of new
+    products by new and existing competitors.
+ 
+(b) Adverse state and federal legislation and regulation, including  limitations
+    on  premium  levels;  increases in  minimum  capital and  reserve  and other
+    financial viability  requirements; prohibition  or limitation  of  capitated
+    arrangements  or provider financial  incentives; benefit mandates (including
+    mandatory length of stay  and emergency room  coverage); limitations on  the
+    ability to manage care and utilization; and any willing provider or pharmacy
+    laws.
+ 
+(c)  Increases in medical costs, including increases in utilization and costs of
+    medical services and  the effects  of actions  by competitors  or groups  of
+    providers.
+ 
+(d)  Termination of provider  contracts or renegotiation  at less cost-effective
+    rates or terms of payment.
+ 
+(e) Price  increases in  pharmaceuticals, durable  medical equipment  and  other
+    covered items.
+ 
+(f)  Adverse actions of  governmental payors, including  unilateral reduction of
+    Medicare and Medicaid premiums payable to the Company and discontinuance  or
+    limitations on governmentally-funded programs.
+ 
+(g)  Inability to increase premiums or  prospective or retroactive reductions to
+    premium rates for federal  employees apace with  increases in medical  costs
+    due to competition, government regulation, or other factors.
+ 
+(h)  Failure to obtain new customers, retain existing customers or reductions in
+    force by existing customers.
+ 
+(i) Governmental financial assessments or taxes to subsidize uncompensated care,
+    other insurance carriers, or academic medical institutions.
+ 
+(j)  Adverse publicity and news coverage.
+ 
+(k) Inability to carry out marketing and sales plans.
+ 
+(l) Loss or retirement of key executives.
+ 
+(m) Denial of accreditation by independent quality accrediting agencies such  as
+    the National Committee for Quality Assurance (NCQA).
+ 
+(n) The selection by employers and individuals of higher
+    copayment/deductible/coinsurance  plans  with relatively  lower  premiums or
+    margins.
+ 
+                                       9
+<PAGE>
+(o) The migration of employers from insured to self-funded coverage resulting in
+    reduced margins to the Company.
+ 
+(p) The impact upon the Company's  medical loss ratio of greater net  enrollment
+    in  higher  medical  loss  ratio  lines of  business  such  as  Medicare and
+    Medicaid.
+ 
+(q) Adverse results in significant litigation matters.
+ 
+(r) Adverse  regulatory  determinations  resulting in  loss  or  limitations  of
+    licensure, certification or contracts with governmental payors.
+ 
+(s)  Higher sales, administrative or general expenses occasioned by the need for
+    additional advertising, marketing, administrative, or management information
+    systems expenditures.
+ 
+(t) Changes in interest rates causing a reduction of investment income or in the
+    market value of interest rate sensitive investments.
+ 
+(u) Increases by regulatory  authorities of minimum  capital, reserve and  other
+    financial viability requirements.
+ 
+    The  foregoing  cautionary  statements pursuant  to  the  Private Litigation
+Securities Reform Act of 1995  should not be construed  as exhaustive or as  any
+admission regarding the adequacy of disclosures made by the Company prior to the
+effective  date  of said  Act,  and should  be  read in  conjunction  with other
+sections of  this  filing, including  Management's  Discussion and  Analysis  of
+Financial Condition and Results of Operations.
+ 
+ITEM 2:    PROPERTIES
+ 
+    The  Company owns three office buildings  having an aggregate 457,000 square
+feet  in  Blue   Bell,  Pennsylvania.  These   buildings  house  the   Company's
+headquarters and much of its administrative and customer service operations. The
+Company  also  owns  and  occupies  a 110,000  square  foot  office  building in
+Fairfield, New Jersey, which  houses certain regional  activities, and a  65,000
+square  foot warehouse  near its headquarters.  The Company  leases an aggregate
+490,000 square feet of  office space in sixteen  other facilities housing  other
+regional  and branch offices,  additional warehouse space  and additional member
+relations and provider payments personnel.
+ 
+ITEM 3:    LEGAL PROCEEDINGS
+ 
+    On October 12, 1993, the  Company filed a petition  with the New York  State
+Supreme   Court  seeking  to  stay  and   annul  the  Opinion  and  Decision  of
+Superintendent of Insurance of the State  of New York dated September 30,  1993,
+which  would have reduced the  premium rates for the  Company's New York HMO for
+the twelve month period beginning October 1, 1993 by a weighted average of  3.9%
+from  the rates in effect for the  preceding twelve month period. On November 1,
+1993, the  Court held  a hearing  and ordered  that a  stay should  be  granted.
+Accordingly, for New York HMO group contracts renewed or entered into during the
+first quarter of 1994, the Company generally charged the premium rates in effect
+during the third quarter of 1993. The Court entered a written Order and Decision
+on  July 8, 1994, implementing  the November 1, 1993  oral decision on the basis
+that the Superintendent  violated the New  York Insurance Law  (by reducing  the
+Company's  premium rates without giving the Company an opportunity to oppose the
+reduction) and remanding the matter to the Superintendent for a proper  hearing.
+On  August  4,  1994, the  Superintendent  filed  a Notice  of  Appeal  with the
+Appellate Division; the appeal was dismissed on October 11, 1994. On October 13,
+1994, the  Superintendent  moved  for  permission to  appeal  to  the  Appellate
+Division; this motion was denied on January 17, 1995. The Superintendent did not
+appeal  from  the  decisions  of  the Appellate  Division.  The  portion  of the
+litigation related to rates  for contracts entered into  or renewed on or  after
+April  1,  1994  through  September  30,  1994  was  implicitly  mooted  by  the
+Superintendent's Opinion and  Decision dated  April 29,  1994 approving  revised
+rates  for such period, leaving  only that portion of  the litigation related to
+rates for contracts  entered into or  renewed during the  first quarter of  1994
+subject  to a possible hearing. On  August 15, 1995, the Superintendent notified
+the Company that he had decided not  to hold a hearing concerning the  Company's
+premium rates for the first quarter of 1994, thereby
+ 
+                                       10
+<PAGE>
+leaving  in place the third quarter of  1993 premium rates generally charged for
+that quarter. Subsequently, a stipulation executed by the Superintendent and the
+Company dismissing the action was filed.
+ 
+    Two class action complaints  have been filed in  the United States  District
+Court  for the Eastern District of Pennsylvania seeking unspecified damages. The
+complaints allege that the  Company and two of  its executive officers,  through
+certain  misrepresentations and  omissions about  the Company,  violated federal
+securities laws and  related state law.  The court has  granted the  plaintiffs'
+motion  for class certification as to the federal claims but has denied it as to
+the state claims. The litigation is still in the preliminary stages, and  merits
+discovery  has just begun. The Company  has denied the allegations and continues
+to defend the actions vigorously.
+ 
+    The Company  is  also involved  in  legal actions  concerning  benefit  plan
+coverage  and other decisions by the Company, and alleged medical malpractice by
+participating providers. If found liable  in such actions, which are  vigorously
+defended  on several grounds, the Company may bear financial responsibility. The
+Company is also involved  in certain other claims  and legal actions arising  in
+the  ordinary course of business. In the opinion of management, these claims and
+legal actions  will  not  have  a  material  adverse  effect  on  the  Company's
+consolidated financial position, results of operations or cash flows.
+ 
+ITEM 4:    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+    No  matter was  submitted to  a vote of  security holders  during the fourth
+quarter of 1995.
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+    The executive officers of U.S. Healthcare, Inc. are as follows:
+ 
+<TABLE>
+<CAPTION>
+          NAME AND AGE               PRESENT POSITION (PRINCIPAL FUNCTION) WITH THE COMPANY
+- ---------------------------------  ----------------------------------------------------------
+<S>                                <C>
+Leonard Abramson (63)              Chairman and principal executive officer
+Michael J. Cardillo (53)           Co-President and principal marketing officer
+Joseph T. Sebastianelli (49)       Co-President and principal medical administrative officer
+James H. Dickerson, Jr. (49)       Principal financial officer
+Timothy E. Nolan (40)              Senior operations officer
+David F. Simon (42)                Principal legal officer
+</TABLE>
+ 
+    The Company's executive officers  are elected by the  board and serve  until
+their successors are duly elected and qualified.
+ 
+    Mr.  Abramson has been the principal  executive officer of the Company since
+1982. From 1982 until he also was elected as Chairman in 1995, Mr. Abramson also
+held the position of President.
+ 
+    Mr. Cardillo has been Co-President of  the Company since 1995 and  principal
+marketing officer since 1989.
+ 
+    Mr.  Sebastianelli  has  been Co-President  of  the Company  since  1995 and
+principal medical  administrative officer  since 1994.  From 1984  to 1994,  Mr.
+Sebastianelli  was the sole  proprietor of Sebastianelli  Law Associates, Paoli,
+Pennsylvania.
+ 
+    Mr. Dickerson has been  an executive officer of  the Company since 1994  and
+principal  financial officer of the  Company since 1995. From  1983 to 1994, Mr.
+Dickerson held a  number of  positions at  Bell Atlantic  Corp., including  Vice
+President-Special  Assignment, Vice  President-Finance and  Controller, and Vice
+President-Treasurer.
+ 
+    Mr. Nolan has been an executive officer of the Company since 1994 and senior
+operations officer since  1995, and  held various marketing  positions with  the
+Company from 1985 to 1994.
+ 
+                                       11
+<PAGE>
+    Mr.  Simon  has been  an executive  officer  of the  Company since  1994 and
+principal legal officer since 1990. From 1985  to 1990, Mr. Simon was a  partner
+at   the  law  firm   of  Wolf  Block   Schorr  and  Solis-Cohen,  Philadelphia,
+Pennsylvania.
+ 
+                                    PART II
+ 
+    Information for  Items  5  through 8  of  this  Report is  included  in  the
+Company's  1995  Annual  Report  to  Shareholders  as  indicated  below,  and is
+incorporated herein by reference.
+ 
+<TABLE>
+<CAPTION>
+                                                                                                    1995 ANNUAL
+                                              ITEM                                                 REPORT PAGE(S)
+- -------------------------------------------------------------------------------------------------  --------------
+<S>        <C>                                                                                     <C>
+ITEM 5.    MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ 
+           Price Range of Common Stock...........................................................        29
+           Dividends.............................................................................        29
+ 
+ITEM 6.    SELECTED FINANCIAL DATA
+ 
+           Selected Financial Data...............................................................        30
+           Supplementary Financial Information...................................................        31
+ 
+ITEM 7.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+           Management's Discussion and Analysis of Financial Condition and Results of
+           Operations............................................................................     32 - 35
+ 
+ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+           Consolidated Financial Statements.....................................................     17 - 28
+ 
+ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+ 
+           No change of accountants and/or disagreements on any matter of accounting principles
+           or financial statement disclosures have occurred within the last two years.
+</TABLE>
+ 
+                                    PART III
+ 
+    The information called for by Item  10, Directors and Executive Officers  of
+the  Registrant (except for the  information regarding executive officers called
+for by  Item 401  of  Regulation S-K  which  is included  in  Part I  hereof  in
+accordance with General Instruction G(3)); Item 11, Executive Compensation; Item
+12, Security Ownership of Certain Beneficial Owners and Management; and Item 13,
+Certain  Relationships  and  Related  Transactions,  is  incorporated  herein by
+reference to the Registrant's definitive Proxy Statement for its Annual  Meeting
+of  Shareholders,  which  shall  be  filed  with  the  Securities  and  Exchange
+Commission within 120 days from the end of the Registrant's fiscal year.
+ 
+                                       12
+<PAGE>
+                                    PART IV
+ 
+ITEM 14:    EXHIBITS, FINANCIAL STATEMENTS SCHEDULES, AND REPORTS ON FORM 8-K
+ 
+   (a) 1.  Financial Statements
+           The following consolidated statements  are included in the  Company's
+           1995  Annual  Report to  Shareholders as  indicated on  the following
+           table and are incorporated herein by reference.
+ 
+INDEX TO FINANCIAL STATEMENTS
+ 
+<TABLE>
+<CAPTION>
+                                                                                          1995 ANNUAL
+                                                                                         REPORT PAGE(S)
+                                                                                       ------------------
+<S>                                                                                    <C>
+Report of Ernst & Young LLP, independent auditors....................................          17
+Consolidated balance sheets at December 31, 1995 and 1994............................          18
+Consolidated statements of income for each of the three years in the period ended
+December 31, 1995....................................................................          19
+Consolidated statements of shareholders' equity for each of the three years in the
+period ended December 31, 1995.......................................................       20 - 21
+Consolidated statements of cash flows for each of the three years in the period ended
+December 31, 1995....................................................................          22
+Notes to consolidated financial statements...........................................       23 - 28
+</TABLE>
+ 
+   2. Financial statement schedules
+ 
+<TABLE>
+<CAPTION>
+                                                                                       PAGES IN FORM 10-K
+                                                                                       ------------------
+ 
+<S>                                                                                    <C>
+Schedule I -- Condensed Financial Information of Registrant..........................       14 - 16
+</TABLE>
+ 
+      All other  schedules are  omitted  because they  are not  applicable,  not
+      required,   or  because  the  required  information  is  included  in  the
+      consolidated financial statements or notes thereto.
+ 
+   3. Exhibits required to be filed by Item 601 of Regulation S-K.
+ 
+      Exhibits required to be filed by Item 601 of Regulation S-K, whether filed
+      herewith or incorporated herein by reference,  are listed on the Index  to
+      Exhibits of this filing.
+ 
+      Executive Compensation Plans and Arrangements.
+      Management contracts and compensatory plans, contracts and arrangements in
+      which  directors or executive officers participate, whether filed herewith
+      or incorporated herein by reference, are  listed on the Index to  Exhibits
+      of  this filing  as Exhibits  10.1, 10.2,  10.3, 10.4,  10.5, 10.6, 10.10,
+      10.12, 10.13, 10.14, 10.15, 10.16, 10.17, 10.22, 10.26 and 10.27.
+ 
+   (b) 1.  Reports on Form 8-K
+ 
+       None were filed during the fourth quarter of 1995.
+ 
+                                       13
+<PAGE>
+                             U.S. HEALTHCARE, INC.
+          SCHEDULE I -- CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                      PARENT COMPANY FINANCIAL INFORMATION
+                            CONDENSED BALANCE SHEETS
+                             (amounts in thousands)
+ 
+<TABLE>
+<CAPTION>
+                                                                                               DECEMBER 31
+                                                                                       ---------------------------
+                                                                                           1995           1994
+                                                                                       -------------  ------------
+<S>                                                                                    <C>            <C>
+ASSETS
+  Current assets:
+    Cash and cash equivalents........................................................  $     135,142  $      7,503
+    Marketable securities............................................................          7,602       123,242
+    Receivable from subsidiaries, net................................................             --        10,995
+    Other receivables................................................................            498         2,132
+    Current and deferred income taxes................................................         11,974         9,746
+    Other............................................................................         12,010         5,687
+                                                                                       -------------  ------------
+        Total current assets.........................................................        167,226       159,305
+  Property and equipment, less accumulated depreciation..............................         76,262        62,710
+  Investments in and advances to subsidiaries, net of borrowings.....................        748,618       717,158
+  Other long-term assets.............................................................         33,985        22,733
+                                                                                       -------------  ------------
+        Total assets.................................................................  $   1,026,091  $    961,906
+                                                                                       -------------  ------------
+                                                                                       -------------  ------------
+LIABILITIES AND SHAREHOLDERS' EQUITY
+  Current liabilities:
+    Accounts payable and accrued liabilities.........................................  $      36,343  $     38,132
+    Payable to subsidiaries, net.....................................................          8,081            --
+    Income taxes payable.............................................................          3,714         7,709
+                                                                                       -------------  ------------
+        Total current liabilities....................................................         48,138        45,841
+  Long-term liabilities..............................................................         13,822        10,392
+                                                                                       -------------  ------------
+        Total liabilities............................................................         61,960        56,233
+                                                                                       -------------  ------------
+  Shareholders' equity:
+    Common stock, Class B stock and additional paid-in capital.......................        170,175       158,089
+    Retained earnings................................................................      1,121,616       899,072
+    Net unrealized gains (losses) on marketable securities, less applicable income
+     taxes:
+      Related to marketable securities of U.S. Healthcare, Inc.......................            (26)       (4,093)
+      Related to marketable securities of subsidiaries...............................          4,784       (23,110)
+    Common stock held in treasury -- at cost.........................................       (311,767)     (105,892)
+    Unearned portion of restricted common stock......................................        (20,651)      (18,393)
+                                                                                       -------------  ------------
+        Shareholders' equity.........................................................        964,131       905,673
+                                                                                       -------------  ------------
+        Total liabilities and shareholders' equity...................................  $   1,026,091  $    961,906
+                                                                                       -------------  ------------
+                                                                                       -------------  ------------
+</TABLE>
+ 
+                                       14
+<PAGE>
+                             U.S. HEALTHCARE, INC.
+          SCHEDULE I -- CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                      PARENT COMPANY FINANCIAL INFORMATION
+                         CONDENSED STATEMENTS OF INCOME
+                             (amounts in thousands)
+ 
+<TABLE>
+<CAPTION>
+                                                                                    YEARS ENDED DECEMBER 31
+                                                                             -------------------------------------
+                                                                                1995         1994         1993
+                                                                             -----------  -----------  -----------
+<S>                                                                          <C>          <C>          <C>
+REVENUE:
+  Investment income, including net realized gains and losses...............  $    13,501  $     4,088  $    12,957
+  Intercompany, principally administrative services fees...................      211,104      170,652      144,255
+  Other income.............................................................        2,860        1,095          459
+  Equity in net income of subsidiaries.....................................      359,537      370,914      269,646
+                                                                             -----------  -----------  -----------
+                                                                                 587,002      546,749      427,317
+ 
+EXPENSES:
+  Administrative, marketing and other operating costs, net of
+   reimbursements from subsidiaries for shared costs.......................      149,056      113,287       87,272
+  Intercompany interest expense, net.......................................       45,204       25,443       16,763
+                                                                             -----------  -----------  -----------
+                                                                                 194,260      138,730      104,035
+                                                                             -----------  -----------  -----------
+Income before income taxes.................................................      392,742      408,019      323,282
+Provision for income taxes.................................................       12,077       16,900       23,607
+                                                                             -----------  -----------  -----------
+Net income.................................................................  $   380,665  $   391,119  $   299,675
+                                                                             -----------  -----------  -----------
+                                                                             -----------  -----------  -----------
+</TABLE>
+ 
+                                       15
+<PAGE>
+                             U.S. HEALTHCARE, INC.
+          SCHEDULE I -- CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                      PARENT COMPANY FINANCIAL INFORMATION
+                       CONDENSED STATEMENTS OF CASH FLOWS
+                             (amounts in thousands)
+ 
+<TABLE>
+<CAPTION>
+                                                                                  YEARS ENDED DECEMBER 31
+                                                                          ----------------------------------------
+                                                                              1995          1994          1993
+                                                                          ------------  ------------  ------------
+<S>                                                                       <C>           <C>           <C>
+OPERATING ACTIVITIES:
+  Net income............................................................  $    380,665  $    391,119  $    299,675
+  Adjustments to reconcile net income to cash flow from operating
+   activities:
+    Depreciation and amortization.......................................        25,460        21,405        18,823
+    Equity in net income of subsidiaries................................      (359,537)     (370,914)     (269,646)
+    Net realized (gains) losses on sales of marketable securities.......         1,017        10,195        (4,460)
+    Other non-cash (credits) charges, net...............................         8,234         1,043        (2,220)
+  Changes in operating assets and liabilities:
+    Receivables.........................................................         1,634         2,681        (3,327)
+    Accounts payable and accrued liabilities............................        (1,789)       10,052         6,458
+    Receivable from or payable to subsidiaries, net.....................        19,076       (96,789)     (102,238)
+    Income taxes payable................................................        (1,618)         (166)       12,531
+    Other, net..........................................................       (12,558)       (2,168)        1,452
+                                                                          ------------  ------------  ------------
+        Cash flow from operating activities.............................        60,584       (33,542)      (42,952)
+                                                                          ------------  ------------  ------------
+INVESTING ACTIVITIES:
+  Purchase of marketable securities.....................................      (306,041)     (311,800)     (984,585)
+  Purchase of property and equipment, net...............................       (33,376)      (14,794)      (15,405)
+  Proceeds from maturities or sales of marketable securities............       426,976       412,563       772,086
+  Dividends received from subsidiaries..................................       114,000        70,000       120,000
+  Borrowings from subsidiaries, net.....................................       249,971        70,579       232,500
+  Capital contributed to subsidiaries...................................        (8,000)      (12,900)      (13,550)
+  Other.................................................................       (16,678)      (11,859)      (10,644)
+                                                                          ------------  ------------  ------------
+        Cash flow from investing activities.............................       426,852       201,789       100,402
+                                                                          ------------  ------------  ------------
+FINANCING ACTIVITIES:
+  Proceeds from exercise of stock options...............................         4,199         4,660         3,804
+  Purchase of treasury stock............................................      (205,875)      (99,896)       (5,996)
+  Cash dividends paid...................................................      (158,121)     (114,862)      (61,871)
+                                                                          ------------  ------------  ------------
+        Cash flow from financing activities.............................      (359,797)     (210,098)      (64,063)
+                                                                          ------------  ------------  ------------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS........................       127,639       (41,851)       (6,613)
+Cash and cash equivalents at beginning of year..........................         7,503        49,354        55,967
+                                                                          ------------  ------------  ------------
+Cash and cash equivalents at end of year................................  $    135,142  $      7,503  $     49,354
+                                                                          ------------  ------------  ------------
+                                                                          ------------  ------------  ------------
+</TABLE>
+ 
+                                       16
+<PAGE>
+                                   SIGNATURES
+ 
+    Pursuant  to  the requirements  of  Section 13  or  15(d) of  the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed by
+the undersigned thereunto duly authorized.
+ 
+                                          U.S. HEALTHCARE, INC.
+ 
+                                          By:         /s/ LEONARD ABRAMSON
+ 
+                                              ----------------------------------
+                                                         LEONARD ABRAMSON
+                                                  PRINCIPAL EXECUTIVE OFFICER
+ 
+                                          Dated: March 25, 1996
+ 
+    Pursuant to the requirements  of the Securities Exchange  Act of 1934,  this
+report  has  been  signed  below  by the  following  persons  on  behalf  of the
+registrant and in the capacities and on the dates indicated.
+ 
+<TABLE>
+<C>                                       <S>                               <C>
+               SIGNATURE                     TITLE (PRINCIPAL FUNCTION)          DATE
+- ----------------------------------------  --------------------------------  --------------
+ 
+         /s/  LEONARD ABRAMSON
+ --------------------------------------   Chairman, Principal Executive     March 25, 1996
+            LEONARD ABRAMSON              Officer and Director
+ 
+      /s/  JAMES H. DICKERSON, JR.
+ --------------------------------------   Principal Financial Officer       March 25, 1996
+        JAMES H. DICKERSON, JR.
+ 
+       /s/  THOMAS A. MASCI, JR.
+ --------------------------------------   Principal Accounting Officer      March 25, 1996
+          THOMAS A. MASCI, JR.
+ 
+          /s/  BETSY Z. COHEN
+ --------------------------------------   Director                          March 25, 1996
+             BETSY Z. COHEN
+ 
+         /s/  JEROME S. GOODMAN
+ --------------------------------------   Director                          March 25, 1996
+           JEROME S. GOODMAN
+ 
+        /s/  ALLEN MISHER, PH.D.
+ --------------------------------------   Director                          March 25, 1996
+          ALLEN MISHER, PH.D.
+ 
+        /s/  DAVID B. SOLL, M.D.
+ --------------------------------------   Director                          March 25, 1996
+          DAVID B. SOLL, M.D.
+ 
+ --------------------------------------   Director
+          TIMOTHY T. WEGLICKI
+</TABLE>
+ 
+                                       17
+<PAGE>
+                               INDEX TO EXHIBITS
+ 
+<TABLE>
+<S>        <C>        <C>
+Exhibit    3.         Articles of incorporation and by-laws.
+           3.1        Articles of Incorporation (incorporated by reference to Exhibit 3.1 to the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1989).
+           3.2        By-laws (incorporated by reference to Exhibit 3.2 to the Registrant's Annual
+                      Report on Form 10-K for the year ended December 31, 1990).
+Exhibit    4.         Specimen of common stock certificate.
+           4.1        Specimen of Common Stock Certificate (incorporated by reference to Exhibit 4.1
+                      to the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1989).
+           4.2        Specimen of Class B Stock Certificate (incorporated by reference to Exhibit
+                      4.2 to the Registrant's Annual Report on Form 10-K for the year ended December
+                      31, 1989).
+Exhibit    10.        Material contracts.
+           10.1       Employment Agreement dated as of January 1, 1993 between U.S. Healthcare, Inc.
+                      and Leonard Abramson (incorporated by reference to Exhibit 10.1 to the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1992).
+           10.2       Employment Agreement dated as of January 1, 1993 between U.S. Healthcare, Inc.
+                      and Michael Cardillo (incorporated by reference to Exhibit 10.3 to the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1992).
+           10.3       Employment Agreement dated as of January 1, 1993 between U.S. Healthcare, Inc.
+                      and Timothy Nolan (incorporated by reference to Exhibit 10.4 to the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1994).
+           10.4       Employment Agreement dated as of January 1, 1993 between U.S. Healthcare, Inc.
+                      and David F. Simon (incorporated by reference to Exhibit 10.5 to the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1994).
+           10.5       Employment Agreement dated as of January 24, 1994 between U.S. Healthcare,
+                      Inc. and Joseph T. Sebastianelli (incorporated by reference to Exhibit 10.6 to
+                      the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1994).
+           10.6       Employment Agreement dated as of February 4, 1994 between U.S. Healthcare,
+                      Inc. and James H. Dickerson, Jr. (incorporated by reference to Exhibit 10.7 to
+                      the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1994).
+           10.7       1982 Incentive Stock Option Plan (incorporated by reference to Exhibit 10.13
+                      to the Registrant's Registration Statement on Form S-1, No. 2-81039).
+           10.8       Second Incentive Stock Option Plan (incorporated by reference to Exhibit 10.21
+                      to the Registrant's Registration Statement on Form S-1, No. 2-84210).
+           10.9       Third Incentive Stock Option Plan (incorporated by reference to Exhibit 10.3
+                      to the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1987).
+           10.10      U.S. Healthcare, Inc. Incentive Plan (incorporated by reference to Exhibit
+                      10.8 to the Registrant's Annual Report on Form 10-K for the year ended
+                      December 31, 1992).
+           10.11      Form of Non-statutory Stock Option (incorporated by reference to Exhibit 10.25
+                      to the Registrant's Registration Statement on Form S-1, No. 2-84210).
+</TABLE>
+ 
+                                       18
+<PAGE>
+<TABLE>
+<S>        <C>        <C>
+           10.12      1987 Non-statutory Option Plan (incorporated by reference to Exhibit 10.4 to
+                      the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1987).
+           10.13      Form of Stock Option Contract for Stock Options granted under the U.S.
+                      Healthcare, Inc. Incentive Plan (incorporated by reference to Exhibit 10.12 to
+                      the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1992).
+           10.14      Form of Restricted Stock Agreement for restricted stock awarded under the U.S.
+                      Healthcare, Inc. Incentive Plan (incorporated by reference to Exhibit 10.13 to
+                      the Registrant's Annual Report on Form 10-K for the year ended December 31,
+                      1992).
+           10.15      Form of Restricted Stock Bonus Agreement (incorporated by reference to Exhibit
+                      10.13 to the Registrant's Annual Report on Form 10-K for the year ended
+                      December 31, 1988).
+           10.16      Amended and Restated U.S. Healthcare, Inc. Savings Plan (incorporated by
+                      reference to Exhibit 10.18 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1994).
+           10.17      Amended and Restated Pension Plan for Employees of U.S. Healthcare, Inc.
+                      (incorporated by reference to Exhibit 10.19 to the Registrant's Annual Report
+                      on Form 10-K for the year ended December 31, 1994).
+           10.18      Form of Incentive Stock Option Agreement (incorporated by reference to Exhibit
+                      10.27 to the Registrant's Annual Report on Form 10-K for the year ended
+                      December 31, 1989).
+           10.19      Amendment No. 1 to 1982 Incentive Stock Option Plan (incorporated by reference
+                      to Exhibit 10.28 to the Registrant's Annual Report on Form 10-K for the year
+                      ended December 31, 1989).
+           10.20      Amendment No. 1 to Second Incentive Stock Option Plan (incorporated by
+                      reference to Exhibit 10.29 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1989).
+           10.21      Amendment No. 2 to Second Incentive Stock Option Plan (incorporated by
+                      reference to Exhibit 10.30 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1989).
+           10.22      Amendment No. 1 to 1987 Non-statutory Stock Option Plan (incorporated by
+                      reference to Exhibit 10.31 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1989).
+           10.23      Amendment No. 1 to Third Incentive Stock Option Plan (incorporated by
+                      reference to Exhibit 10.30 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1990).
+           10.24      Split Dollar Insurance Agreement dated February 1, 1990 by and between Madlyn
+                      K. Abramson, Marcy A. Shoemaker (formerly Marcy Abramson), Nancy Wolfson,
+                      Judith Abramson and David B. Soll, and U.S. Healthcare, Inc., and the related
+                      Collateral Assignment Agreement dated February 1, 1990 by and between Madlyn
+                      K. Abramson, Marcy A. Shoemaker (formerly Marcy Abramson), Nancy Wolfson,
+                      Judith Abramson and David B. Soll and U.S. Healthcare, Inc. (incorporated by
+                      reference to Exhibit 10.33 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1990).
+</TABLE>
+ 
+                                       19
+<PAGE>
+<TABLE>
+<S>        <C>        <C>
+           10.25      Split Dollar Insurance Agreement Dated January 21, 1991 by and between Marcy
+                      A. Shoemaker (formerly Marcy Abramson), Nancy Wolfson, Judith Abramson, David
+                      B. Soll, Jerome Goodman and Edward M. Glickman, and U.S. Healthcare, Inc., and
+                      the related Collateral Assignment Agreement dated January 21, 1991 by and
+                      between Marcy A. Shoemaker (formerly Marcy Abramson), Nancy Wolfson, Judith
+                      Abramson, David B. Soll, Jerome Goodman and Edward M. Glickman, and U.S.
+                      Healthcare, Inc. (incorporated by reference to Exhibit 10.24 of the
+                      Registrant's Annual Report on Form 10-K for the year ended December 31, 1991).
+           10.26      Description of Deferred Compensation Plan (incorporated by reference to
+                      Exhibit 10.26 to the Registrant's Annual Report on Form 10-K for the year
+                      ended December 31, 1992).
+           10.27      Description of Executive Incentive Compensation Plan (incorporated by
+                      reference to Exhibit 10.27 to the Registrant's Annual Report on Form 10-K for
+                      the year ended December 31, 1992).
+Exhibit    11.        Computation of Net Income Per Common and Common Equivalent Share.
+Exhibit    13.        The 1995 Annual Report to Shareholders of U.S. Healthcare, Inc. is not deemed
+                      filed as part of this report (with the exception of the information
+                      incorporated by reference to Items 5, 6, 7 and 8 of this Annual Form 10-K in
+                      the 1995 Annual Report to Shareholders).
+Exhibit    21.        Subsidiaries of the Registrant.
+Exhibit    23.        Consent of Ernst & Young LLP, independent auditors.
+Exhibit    27.        Financial Data Schedule.
+</TABLE>
+ 
+                                       20
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>STATEMENT RE COMPUTATION OF PER SHARE EARNINGS
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 11
+ 
+                             U.S. HEALTHCARE, INC.
+                      COMPUTATION OF NET INCOME PER COMMON
+                          AND COMMON EQUIVALENT SHARE*
+ 
+<TABLE>
+<CAPTION>
+                                                                                    Years ended December 31
+                                                                             -------------------------------------
+               (amounts in thousands except per share data)                     1995         1994         1993
+- ---------------------------------------------------------------------------  -----------  -----------  -----------
+<S>                                                                          <C>          <C>          <C>
+NET INCOME.................................................................  $   380,665  $   391,119  $   299,675
+                                                                             -----------  -----------  -----------
+                                                                             -----------  -----------  -----------
+ 
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES:
+Shares outstanding at beginning of period..................................      145,486      146,718      145,172
+Effect of purchase of treasury stock.......................................       (4,097)      (1,725)        (167)
+Effect of conversion of Class B stock......................................          106          520        1,070
+Effect of exercise of stock options........................................          192          233          679
+Effect of restricted stock awarded.........................................           80          302           24
+ 
+WEIGHTED AVERAGE NUMBER OF COMMON EQUIVALENT SHARES:
+Class B stock..............................................................       14,431       14,537       15,057
+Assumed exercise of stock options..........................................          817        1,061          819
+                                                                             -----------  -----------  -----------
+ 
+WEIGHTED AVERAGE NUMBER OF COMMON AND COMMON EQUIVALENT SHARES OUTSTANDING
+  -- PRIMARY BASIS.........................................................      157,015      161,646      162,654
+                                                                             -----------  -----------  -----------
+Incremental additional equivalent shares from application of the fully
+  diluted computation......................................................          421           58          144
+                                                                             -----------  -----------  -----------
+ 
+WEIGHTED AVERAGE NUMBER OF COMMON AND COMMON EQUIVALENT SHARES OUTSTANDING
+  -- FULLY DILUTED BASIS...................................................      157,436      161,704      162,798
+                                                                             -----------  -----------  -----------
+                                                                             -----------  -----------  -----------
+ 
+NET INCOME PER COMMON AND COMMON EQUIVALENT SHARE:
+  Primary and fully diluted................................................        $2.42        $2.42        $1.84
+                                                                             -----------  -----------  -----------
+                                                                             -----------  -----------  -----------
+</TABLE>
+ 
+*After giving effect to a 3 for 2 stock split paid on March 29, 1994.
+ 
+                                       21
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>THE 1995 ANNUAL REPORT TO SHAREHOLDERS
+<TEXT>
+
+<PAGE>
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors and Shareholders
+U.S. Healthcare, Inc.
+
+We have audited the accompanying consolidated balance sheets of U.S. 
+Healthcare, Inc. as of December 31, 1995 and 1994, and the related 
+consolidated statements of income, shareholders' equity and cash flows for 
+each of the three years in the period ended December 31, 1995. These 
+financial statements are the responsibility of the Company's management. Our 
+responsibility is to express an opinion on these financial statements based 
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement. An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above 
+present fairly, in all material respects, the consolidated financial position 
+of U.S. Healthcare, Inc. at December 31, 1995 and 1994, and the consolidated 
+results of its operations and its cash flows for each of the three years in 
+the period ended December 31, 1995, in conformity with generally accepted 
+accounting principles.
+
+As discussed in Note 1 to the consolidated financial statements, the Company 
+changed its method of accounting for marketable securities as of December 31, 
+1993.
+
+                                             /s/ ERNST & YOUNG LLP
+      
+
+Philadelphia, Pennsylvania
+February 2, 1996
+
+                                     22
+
+<PAGE>
+
+CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                      December 31
+                                                ------------------------
+(amounts in thousands except per share data)       1995         1994
+- ------------------------------------------------------------------------
+<S>                                             <C>           <C>
+ASSETS
+   Current assets:
+      Cash and cash equivalents                  $ 804,631    $  123,814
+      Marketable securities                        450,006     1,009,244
+      Receivables                                  144,571       103,465
+      Other                                         31,945        38,453
+                                                ------------------------
+         Total current assets                    1,431,153     1,274,976
+
+   Property and equipment, less accumulated 
+      depreciation                                 142,137       127,562
+   Marketable securities                            50,771        33,405
+   Other long-term assets                           43,083        27,944
+                                                ------------------------
+         Total assets                           $1,667,144    $1,463,887
+                                                ------------------------
+                                                ------------------------
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+   Current liabilities:
+      Medical costs payable                      $ 505,832     $ 378,321
+      Unearned premiums                             68,655        32,283
+      Accounts payable and accrued liabilities      77,511        84,747
+      Income taxes payable                          28,179        46,525
+                                                ------------------------
+         Total current liabilities                 680,177       541,876
+
+   Long-term liabilities                            22,836        16,338
+                                                ------------------------
+      Total liabilities                            703,013       558,214
+                                                ------------------------
+Shareholders' equity:
+   Common stock, $.005 par value-275,000 shares 
+     authorized; 148,891 and 148,307 shares 
+     issued in 1995 and 1994                           744           741
+   Class B stock, $.005 par value-50,000 shares 
+      authorized; 14,431 and 14,537 shares 
+      issued and outstanding in 1995 and 1994           72            73
+   Additional paid-in capital                      169,359       157,275
+   Retained earnings                             1,121,616       899,072
+   Net unrealized gains (losses) on marketable 
+      securities, less applicable income 
+      taxes                                          4,758       (27,203)
+   Common stock held in treasury-at cost; 
+      9,710 and 2,821 shares in 1995 
+      and 1994                                    (311,767)     (105,892)
+   Unearned portion of restricted common stock     (20,651)      (18,393)
+                                                ------------------------
+      Shareholders' equity                         964,131       905,673
+                                                ------------------------
+      Total liabilities and shareholders'equity $1,667,144    $1,463,887
+                                                ------------------------
+                                                ------------------------
+</TABLE>
+
+See accompanying notes.
+
+                                     23
+
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+                                                            Years ended December 31
+                                                    -----------------------------------
+(amounts in thousands except per share data)            1995        1994        1993
+- ---------------------------------------------------------------------------------------
+<S>                                                  <C>         <C>         <C>
+OPERATING REVENUE:
+   Commercial premiums                               $2,971,365  $2,635,621  $2,402,431
+   Government premiums                                  490,677     240,891     157,277
+   Other, principally administrative services fees       55,764      32,770      20,212
+                                                    -----------------------------------
+                                                      3,517,806   2,909,282   2,579,920
+OPERATING EXPENSES:
+   Medical costs                                      2,577,833   1,994,780   1,861,985
+   Administrative, marketing and other 
+      operating costs                                   412,878     322,372     279,586
+                                                    -----------------------------------
+                                                      2,990,711   2,317,152   2,141,571
+                                                    -----------------------------------
+Income from operations                                  527,095     592,130     438,349
+Investment income, including net realized 
+   gains and losses                                      91,873      65,214      65,315
+                                                    -----------------------------------
+Income before income taxes                              618,968     657,344     503,664
+Provision for income taxes                              238,303     266,225     203,989
+                                                    -----------------------------------
+NET INCOME                                            $ 380,665   $ 391,119   $ 299,675
+                                                    -----------------------------------
+                                                    -----------------------------------
+NET INCOME PER COMMON AND COMMON 
+   EQUIVALENT SHARE-PRIMARY AND 
+   FULLY DILUTED                                          $2.42       $2.42       $1.84
+                                                    -----------------------------------
+                                                    -----------------------------------
+Weighted average number of common and 
+   common equivalent shares outstanding:
+      Primary                                           157,015     161,646     162,654
+      Fully diluted                                     157,436     161,704     162,798
+</TABLE>
+
+See accompanying notes.
+
+                                     24
+
+
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+
+<TABLE>
+<CAPTION>
+                                                                    Common stock               Class B Stock
+                                                               ----------------------    ------------------------
+                                                                 Number                    Number
+(amounts in thousands except per share data)                   of shares    Par value    of shares    Par value
+- -----------------------------------------------------------------------------------------------------------------
+<S>                                                            <C>          <C>          <C>          <C>
+
+BALANCE AT JANUARY 1, 1993                                       96,781      $484           10,751         $54
+ Exercise of stock options and related tax benefits                 453         2                -           -
+ Net unrealized gains on marketable securities,                
+  less applicable income taxes                                        -         -                -           -
+ Restricted common stock transactions, net                           20         -                -           -
+ Conversion of Class B stock to common stock                        713         4             (713)         (4)
+ Purchase of treasury stock                                           -         -                -           -
+ Cash dividends paid:                                           
+  $.3867 per common share                                             -         -                -           -
+  $.3480 per Class B share                                            -         -                -           -
+ Net income                                                           -         -                -           -
+ Shares distributed under a 3 for 2 stock split                  48,984       245            5,019          25
+                                                               -----------------------------------------------
+BALANCE AT DECEMBER 31, 1993                                    146,951       735           15,057          75
+ Exercise of stock options and related tax benefits                 402         2                -           -
+ Net unrealized (losses) on marketable securities,              
+  less applicable income taxes                                        -         -                -           -
+ Restricted common stock transactions, net                          434         2                -           -
+ Conversion of Class B stock to common stock                        520         2             (520)         (2)
+ Purchase of treasury stock                                           -         -                -           -
+ Cash dividends paid:                                            
+  $.7233 per common share                                             -         -                -           -
+  $.6510 per Class B share                                            -         -                -           -
+ Net income                                                           -         -                -           -
+                                                               -----------------------------------------------
+BALANCE AT DECEMBER 31, 1994                                    148,307       741           14,537          73
+ Exercise of stock options and related tax benefits                 333         1                -           -
+ Net unrealized gains on marketable securities,                    
+  less applicable income taxes                                        -         -                -           -
+ Restricted common stock transactions, net                          145         1                -           -
+ Conversion of Class B stock to common stock                        106         1             (106)         (1)
+ Purchase of treasury stock                                           -         -                -           -
+ Cash dividends paid:
+  $1.0250 per common share                                            -         -                -           -
+  $.9225 per Class B share                                            -         -                -           -
+ Net income                                                           -         -                -           -
+                                                               -----------------------------------------------
+BALANCE AT DECEMBER 31, 1995                                    148,891      $744           14,431         $72
+                                                               -----------------------------------------------
+                                                               -----------------------------------------------
+</TABLE>
+
+See accompanying notes.
+
+                                   25
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                  
+                                                                                   Common stock       
+                                                               Net unrealized    held in treasury   
+                                         Additional            gains (losses)  --------------------
+                                            paid-in  Retained  on marketable   Number             
+                                            capital  earnings   securities     of shares   Cost   
+- ---------------------------------------------------------------------------------------------------
+<S>                                      <C>        <C>        <C>            <C>        <C>     
+BALANCE AT JANUARY 1, 1993               $120,506     $385,011           -             -          - 
+ Exercise of stock options and related
+ tax benefits                               8,993            -           -             -          - 
+ Net unrealized gains on marketable 
+  securities,  less applicable income
+  taxes                                         -            -     $23,301             -          - 
+ Restricted common stock 
+  transactions, net                         1,253            -           -             -          - 
+ Conversion of Class B stock to 
+  common stock                                  -            -           -             -          - 
+ Purchase of treasury stock                     -            -           -          (155) $  (5,996)
+ Cash dividends paid:
+  $.3867 per common share                       -      (56,490)          -             -          -
+  $.3480 per Class B share                      -       (5,381)          -             -          -
+ Net income                                     -      299,675           -             -          -
+ Shares distributed under a 3 for 2
+   stock split                               (270)           -           -           (78)         -
+                                         ----------------------------------------------------------
+BALANCE AT DECEMBER 31, 1993              130,482      622,815      23,301          (233)    (5,996)
+ Exercise of stock options and 
+  related tax benefits                      8,146            -           -             -          -
+ Net unrealized (losses) on 
+  marketable securities,
+  less applicable income taxes                  -            -     (50,504)            -          -
+ Restricted common stock
+  transactions, net                        18,647            -           -             -          -
+ Conversion of Class B stock to
+  common stock                                  -            -           -             -          -
+ Purchase of treasury stock                     -            -           -        (2,588)   (99,896)
+ Cash dividends paid:
+  $.7233 per common share                       -     (105,157)          -             -          -
+  $.6510 per Class B share                      -       (9,705)          -             -          -
+ Net income                                     -      391,119           -             -          -
+                                         ----------------------------------------------------------
+BALANCE AT DECEMBER 31, 1994              157,275      899,072     (27,203)       (2,821)  (105,892)
+ Exercise of stock options and
+  related tax benefits                      6,575            -           -             -          -   
+ Net unrealized gains on 
+  marketable securities,
+  less applicable income taxes                  -            -      31,961             -          -   
+ Restricted common stock 
+  transactions, net                         5,509            -           -             -          -   
+ Conversion of Class B stock
+  to common stock                               -            -           -             -          -   
+ Purchase of treasury stock                     -            -           -        (6,889)  (205,875)
+ Cash dividends paid:
+  $1.0250 per common share                      -     (144,711)          -             -          -   
+  $.9225 per Class B share                      -      (13,410)          -             -          -   
+ Net income                                     -      380,665           -             -          -   
+                                         ----------------------------------------------------------
+BALANCE AT DECEMBER 31, 1995             $169,359   $1,121,616     $ 4,758        (9,710) $(311,767)
+                                         ----------------------------------------------------------
+                                         ----------------------------------------------------------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                            Unearned portion
+                                            of restricted
+                                             common stock
+                                            ------------------- 
+                                            Number              Shareholders'
+                                           of shares   Amount        equity
+- --------------------------------------------------------------------------
+<S>                                        <C>       <C>        <C>
+BALANCE AT JANUARY 1, 1993                    (103)  $  (965)    $505,090
+ Exercise of stock options and related
+ tax benefits                                    -         -        8,995
+ Net unrealized gains on marketable 
+  securities,  less applicable income
+  taxes                                          -         -       23,301
+ Restricted common stock 
+  transactions, net                             37      (720)         533
+ Conversion of Class B stock to 
+  common stock                                   -         -            -
+ Purchase of treasury stock                      -         -       (5,996)
+ Cash dividends paid:
+  $.3867 per common share                        -         -      (56,490)
+  $.3480 per Class B share                       -         -       (5,381)
+ Net income                                      -         -      299,675
+ Shares distributed under a 3 for 2
+   stock split                                 (33)        -            -
+                                         ---------------------------------
+BALANCE AT DECEMBER 31, 1993                   (99)   (1,685)     769,727
+ Exercise of stock options and 
+  related tax benefits                           -         -        8,148
+ Net unrealized (losses) on 
+  marketable securities,
+  less applicable income taxes                   -         -      (50,504)
+ Restricted common stock
+  transactions, net                           (370)  (16,708)       1,941
+ Conversion of Class B stock to
+  common stock                                   -         -            -
+ Purchase of treasury stock                      -         -      (99,896)
+ Cash dividends paid:
+  $.7233 per common share                        -         -     (105,157)
+  $.6510 per Class B share                       -         -       (9,705)
+ Net income                                      -         -      391,119
+                                         ---------------------------------
+BALANCE AT DECEMBER 31, 1994                  (469)  (18,393)     905,673
+ Exercise of stock options and
+  related tax benefits                           -         -        6,576
+ Net unrealized gains on 
+  marketable securities,
+  less applicable income taxes                   -         -       31,961
+ Restricted common stock 
+  transactions, net                            (48)   (2,258)       3,252
+ Conversion of Class B stock
+  to common stock                                -         -            -
+ Purchase of treasury stock                      -         -     (205,875)
+ Cash dividends paid:
+  $1.0250 per common share                       -         -     (144,711)
+  $.9225 per Class B share                       -         -      (13,410)
+ Net income                                                -      380,665
+                                         ---------------------------------
+BALANCE AT DECEMBER 31, 1995                  (517) $(20,651)   $ 964,131
+                                         ---------------------------------
+                                         ---------------------------------
+</TABLE>
+
+                                     26
+
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                        Years ended December 31
+                                                                    ------------------------------
+(amounts in thousands)                                                  1995         1994      1993
+- --------------------------------------------------------------------------------------------------------
+<S>                                                                 <C>          <C>          <C>
+OPERATING ACTIVITIES:
+ Net income                                                         $  380,665   $  391,119   $  299,675
+ Adjustments to reconcile net income to cash flow
+  from operating activities:
+   Depreciation and amortization                                        33,279       27,763       21,786
+   Net realized (gains) losses on sales of marketable securities       (15,079)       2,461      (10,769)
+   Other non-cash (credits) charges, net                                 9,297        3,267       (1,885)
+Changes in operating assets and liabilities:
+    Receivables                                                        (41,106)      (5,171)     (15,277)
+    Medical costs payable                                              127,511      (40,577)      35,651
+    Unearned premiums                                                   36,372        4,759        7,740
+    Accounts payable and accrued liabilities                            (7,236)      40,151       12,610
+    Income taxes payable                                               (15,969)      (2,327)      29,763
+    Other, net                                                         (14,048)      (4,067)       2,863
+                                                                    ------------------------------------
+     Cash flow from operating activities                               493,686      417,378      382,157
+                                                                    ------------------------------------
+INVESTING ACTIVITIES:
+ Purchase of marketable securities                                    (904,735)  (1,161,082)  (1,604,199)
+ Purchase of property and equipment, net                               (42,100)     (27,219)     (40,871)
+ Proceeds from maturities or sales of marketable securities          1,514,656    1,024,618    1,299,363
+ Other                                                                 (20,893)     (16,122)      (7,614)
+                                                                    ------------------------------------
+     Cash flow from investing activities                               546,928     (179,805)    (353,321)
+                                                                    ------------------------------------
+FINANCING ACTIVITIES:
+ Proceeds from exercise of stock options                                 4,199        4,660        3,804
+ Purchase of treasury stock                                           (205,875)     (99,896)      (5,996)
+ Cash dividends paid                                                  (158,121)    (114,862)     (61,871)
+                                                                    ------------------------------------
+     Cash flow from financing activities                              (359,797)    (210,098)     (64,063)
+                                                                    ------------------------------------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                       680,817       27,475      (35,227)
+Cash and cash equivalents at beginning of year                         123,814       96,339      131,566
+                                                                    ------------------------------------
+Cash and cash equivalents at end of year                            $  804,631   $  123,814   $   96,339
+                                                                    ------------------------------------
+                                                                    ------------------------------------
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Income taxes paid, net of state income tax refunds                  $  258,170   $  270,476   $  176,904
+
+SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES:
+Income tax benefits related to exercise of stock options            $    2,377   $    3,488   $    5,191
+
+</TABLE>
+
+See accompanying notes.
+
+
+                                   27
+
+
+
+<PAGE>
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION-The consolidated financial statements include the 
+accounts of U.S. Healthcare, Inc. and its subsidiaries (the Company), all of 
+which are wholly owned except for certain subsidiaries which are not health 
+maintenance organizations (HMOs). All significant intercompany transactions 
+have been eliminated in consolidation.
+
+USE OF ESTIMATES-The preparation of financial statements in conformity with 
+generally accepted accounting principles requires management to make 
+estimates and assumptions that affect the amounts reported in the 
+consolidated financial statements and notes to consolidated financial 
+statements. Actual results could differ from those estimates.
+
+CASH, CASH EQUIVALENTS AND MARKETABLE SECURITIES-Cash equivalents classified 
+with cash consist of all highly liquid instruments which mature within three 
+months from the date of purchase. The carrying amounts of cash and cash 
+equivalents reported in the accompanying consolidated balance sheets 
+approximate fair value. Marketable securities consist of debt securities. The 
+Company determines the appropriate classification of debt securities at the 
+time of purchase and reevaluates such classification as of each balance sheet 
+date. At December 31, 1995 and 1994, all securities are classified as 
+available for sale. Such securities are carried at fair value and cumulative 
+net unrealized gains or losses, less applicable income taxes, are recorded as 
+a separate component of shareholders' equity. Realized gains and losses and 
+unrealized losses judged to be other than temporary are included in net 
+income. Fair values of marketable securities are based on quoted market 
+prices, where available. If quoted market prices are not available, fair 
+values are based on market prices of comparable instruments. The cost of 
+securities sold is based on the specific identification method.
+
+At December 31, 1995 and 1994, $50,771,000 and $33,405,000, 
+respectively, of the Company's marketable securities were held by trustees
+or state regulatory agencies in accordance with certain state requirements
+relating principally to HMOs. Such securities are classified as non-current
+assets. The Company determined that other marketable securities held as of
+December 31, 1995 and 1994 were available for use in current operations and,
+accordingly, classified such securities as current assets without regard to
+the securities' contractual maturity dates. 
+
+The Company adopted Statement of Financial Accounting Standards Number 115 
+(FAS 115), "Accounting for Certain Investments in Debt and Equity Securities" 
+as of December 31, 1993. The adoption of FAS 115 had no effect on net income 
+but, as of December 31, 1993, increased marketable securities by $38,204,000, 
+representing net unrealized gains, and shareholders' equity by $23,301,000 
+(net unrealized gains less deferred income taxes of $14,903,000). 
+
+PROPERTY AND EQUIPMENT-Property and equipment, stated at cost, are 
+depreciated on the straight-line method over their estimated useful lives for 
+financial reporting purposes and under accelerated methods for income tax 
+purposes.
+
+OPERATING REVENUE-Premiums for prepaid health care are recognized as income 
+in the month in which the enrollees are entitled to health care services. 
+Administrative services fees are recognized as income as services are 
+rendered.
+
+MEDICAL COSTS-Medical costs consist principally of medical claims and 
+capitation costs. Medical claims include estimates of payments to be made on 
+claims reported as of the balance sheet date and estimates of health care 
+services rendered but not reported to the Company as of the balance sheet 
+date. Such estimates include the cost of services which will continue to be 
+rendered after the balance sheet date if the Company
+
+                                     28
+<PAGE>
+
+is obligated to pay for such services in accordance with contract provisions 
+or regulatory requirements. Medical claims payable are estimated periodically 
+and any resulting adjustments are included in current operations. Capitation 
+costs represent monthly fees to participating primary care physicians and 
+other medical providers as retainers for providing continuing health care 
+services.
+
+ADVERTISING COSTS-The Company expenses advertising costs as incurred. 
+Advertising costs were $47,057,000, $37,129,000 and $28,435,000 in 1995, 
+1994, and 1993, respectively.
+
+INCOME TAXES-Deferred income taxes reflect the net tax effects of temporary 
+differences between the carrying amounts of assets and liabilities for 
+financial reporting purposes and the amounts used for income tax purposes. 
+Such temporary differences include depreciation and amortization, allowance 
+for doubtful accounts, accrued compensated absences, deferred compensation 
+and net unrealized gains or losses on marketable securities.
+
+RETIREMENT PLANS-The Company has a defined contribution pension plan covering 
+substantially all of its employees, subject to certain age and service 
+requirements. The Company's contribution for each eligible employee is a 
+percentage of the employee's compensation, as defined. The Company also has 
+an employee savings plan (401(k)) available to all its employees, subject to 
+certain age and service requirements. The Company matches 33 1/3% of the 
+employee's contribution, up to a maximum of 2% of the employee's annual 
+compensation. The Company funds pension and savings plan costs accrued. The 
+Company has a retiree health benefit plan covering substantially all its 
+employees (except for certain "key employees," as defined in the plan), 
+subject to certain age and service requirements set forth in the plan. 
+Company contributions, which are at the Company's sole discretion, are paid 
+to a voluntary employees' beneficiary association (VEBA) trust. Any such 
+contributions to the VEBA trust are allocated and credited to separate 
+accounts established for each eligible employee and for each employee's 
+eligible spouse. Funds accumulated in these separate accounts are used to 
+fund all or a portion of the premiums for health care benefit coverage for 
+eligible retired employees and their eligible spouses. When funds in these 
+separate accounts are exhausted, neither the Company nor the VEBA trust have 
+any obligation to make any further contributions or payments. Retirement plan 
+costs were $14,199,000, $14,375,000 and $14,322,000 in 1995, 1994 and 1993, 
+respectively.
+
+NET INCOME PER COMMON AND COMMON EQUIVALENT SHARE-Primary and fully diluted 
+net income per common and common equivalent share are based upon the 
+applicable weighted average number of common and common equivalent (Class B 
+stock and stock options) shares outstanding during the year, after giving 
+effect to the stock split explained in Note 7.
+
+ACCOUNTING STANDARDS ISSUED BUT NOT YET ADOPTED-In March 1995, the Financial 
+Accounting Standards Board (FASB) issued Financial Accounting Standard Number 
+121 (FAS 121), "Accounting for the Impairment of Long-Lived Assets and for 
+Long-Lived Assets to Be Disposed Of," which addresses accounting for the 
+impairment of long-lived assets such as property and equipment, identifiable 
+intangible assets and goodwill. The prospective implementation of FAS 121, 
+which must be adopted in 1996, is not expected to have a material effect on 
+the Company's consolidated financial position or results of operations. 
+
+In October 1995, the FASB issued Financial Accounting Standard Number 123 
+(FAS 123), "Accounting for Stock-Based Compensation," which prescribes 
+accounting and reporting standards for all stock-based compensation plans, 
+including employee stock options and restricted stock plans. Under FAS 123, 
+companies may adopt a fair value method of expense recognition for all 
+stock-based compensation or continue to account for all stock-based 
+compensation under the measurement standards of Accounting Principles Board 
+Opinion Number 25, "Accounting for Stock Issued to Employees" (APB 25). The 
+implementation of FAS 123 in 1996 is not expected to affect the Company's 
+consolidated financial position or results of operations because the Company 
+presently expects to continue to apply the principles of APB 25.
+
+                                     29
+<PAGE>
+
+2. MARKETABLE SECURITIES
+
+The following is a summary of marketable securities as of December 31, 1995 
+and 1994:
+
+<TABLE>
+<CAPTION>
+                                                Gross        Gross   Estimated
+                               Amortized   unrealized   unrealized        fair
+(amounts in thousands)              cost        gains       losses       value
+- -------------------------------------------------------------------------------
+<S>                           <C>          <C>          <C>         <C>
+December 31, 1995
+ Certificates of deposit      $    4,767            -            -  $    4,767
+ U.S. Government obligations     338,377       $3,507     $   (519)    341,365
+ Municipal tax-exempt bonds      146,699        5,580          (34)    152,245
+ Other                             2,400            -            -       2,400
+                              ------------------------------------------------
+                              $  492,243       $9,087     $   (553) $  500,777
+                              ------------------------------------------------
+                              ------------------------------------------------
+ Classified as current        $  441,570       $8,761     $   (325) $  450,006
+ Classified as non-current        50,673          326         (228)     50,771
+                              ------------------------------------------------
+                              $  492,243       $9,087     $   (553) $  500,777
+                              ------------------------------------------------
+                              ------------------------------------------------
+
+December 31, 1994
+ Certificates of deposit      $    5,460            -            -  $    5,460
+ U.S. Government obligations     962,493       $  237     $(40,863)    921,867
+ Municipal tax-exempt bonds      117,632          505       (4,315)    113,822
+ Other                             1,500            -            -       1,500
+                              ------------------------------------------------
+                              $1,087,085       $  742     $(45,178) $1,042,649
+                              ------------------------------------------------
+                              ------------------------------------------------
+
+ Classified as current        $1,050,932       $  718     $(42,406) $1,009,244
+ Classified as non-current        36,153           24       (2,772)     33,405
+                              ------------------------------------------------
+                              $1,087,085       $  742     $(45,178) $1,042,649
+                              ------------------------------------------------
+                              ------------------------------------------------
+</TABLE>
+
+The contractual maturities of marketable securities as of December 31, 1995 
+were as follows:
+
+<TABLE>
+<CAPTION>
+                                                                     Estimated
+                                                         Amortized        fair
+(amounts in thousands)                                        cost       value
+- ------------------------------------------------------------------------------
+<S>                                                      <C>         <C>
+Due in one year or less                                   $110,318    $110,312
+Due after one year through five years                      246,444     250,105
+Due after five years through ten years                     113,131     116,991
+Due after ten years                                         22,350      23,369
+                                                         ---------------------
+                                                          $492,243    $500,777
+                                                         ---------------------
+                                                         ---------------------
+</TABLE>
+
+Gross realized gains on sales of marketable securities were $18,081,000 and 
+$13,890,000 in 1995 and 1994, respectively. Gross realized losses on sales of 
+marketable securities were $3,002,000 and $16,351,000 in 1995 and 1994, 
+respectively.
+
+                                     30
+
+
+
+<PAGE>
+
+3. RECEIVABLES
+Receivables consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                          December 31
+                                                                       -----------------
+(amounts in thousands)                                                  1995      1994
+- ----------------------------------------------------------------------------------------
+<S>                                                                  <C>       <C>
+Premiums (net of allowance for doubtful accounts of $15,779 in 1995
+ and $12,910 in 1994)                                                $133,303  $ 83,711
+Interest                                                                7,196    16,441
+Other                                                                   4,072     3,313
+                                                                     -------------------
+                                                                     $144,571  $103,465
+                                                                     -------------------
+                                                                     -------------------
+</TABLE>
+
+For the years ended December 31, 1995, 1994 and 1993, premiums billed to the 
+Federal Government, excluding premiums for Medicare beneficiaries, represented 
+8%, 9% and 10%, respectively, of premium revenue. These premiums are 
+classified as commercial premiums in the accompanying consolidated statements 
+of income.
+
+4. PROPERTY AND EQUIPMENT
+
+Property and equipment consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                             December 31
+                                                        ------------------
+(amounts in thousands)                                      1995      1994
+- --------------------------------------------------------------------------
+<S>                                                     <C>       <C>
+Land                                                    $  5,899  $  5,888
+Buildings                                                 58,936    55,297
+Furniture and equipment                                  135,615   101,877
+Aircraft                                                  35,767    37,881
+                                                        ------------------
+                                                         236,217   200,943
+ Less accumulated depreciation                            94,080    73,381
+                                                        ------------------
+                                                        $142,137  $127,562
+                                                        ------------------
+                                                        ------------------
+</TABLE>
+
+5. INCOME TAXES
+
+The provision for income taxes consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                    Years ended December 31
+                                               -----------------------------
+(amounts in thousands)                             1995      1994       1993
+- ----------------------------------------------------------------------------
+<S>                                            <C>       <C>        <C>
+Current provision:
+  Federal                                      $198,958  $211,206   $165,657
+  State                                          35,145    55,404     41,892
+                                               -----------------------------
+                                                234,103   266,610    207,549
+Deferred provision (benefit):
+  Federal                                         2,517      (307)    (3,055)
+  State                                           1,683       (78)      (505)
+                                               -----------------------------
+                                                  4,200      (385)    (3,560)
+                                               -----------------------------
+                                               $238,303  $266,225   $203,989
+                                               -----------------------------
+                                               -----------------------------
+</TABLE>
+                                       31
+
+<PAGE>
+
+A reconciliation between the federal statutory income tax rate and the 
+Company's effective income tax rates is as follows:
+
+<TABLE>
+<CAPTION>
+                                                    Years ended December 31
+                                                   ------------------------
+(percentage of income before income taxes)           1995    1994     1993
+- ---------------------------------------------------------------------------
+<S>                                                 <C>     <C>      <C>
+Federal statutory income tax rate                   35.0%   35.0%    35.0%
+Income tax rates are affected by:
+ State income taxes                                  3.7%    5.4%     5.3%
+ Other, net                                         (0.2%)   0.1%     0.2%
+                                                    ----------------------
+Effective income tax rates                          38.5%   40.5%    40.5%
+                                                    ----------------------
+                                                    ----------------------
+</TABLE>
+
+6. LEGAL PROCEEDINGS
+
+Two class action complaints have been filed the United States District Court 
+for the Eastern District of Pennsylvania seeking unspecified damages. The 
+complaints allege that the Company and two of its executive officers, through 
+certain misrepresentations and omissions about the Company, violated federal 
+securities laws and related state law. The Court has granted the plaintiffs' 
+motion for class certification as to the federal claims but has denied it as 
+to the state claims. The litigation is still in the preliminary stages, and 
+merits discovery has just begun. The Company has denied the allegations and 
+continues to defend the actions vigorously. 
+
+The Company is also involved in legal actions concerning benefit plan coverage 
+and other decisions by the Company, and alleged medical malpractice by 
+participating providers. If found liable in such actions, which are vigorously 
+defended on several grounds, the Company may bear financial responsibility. 
+The Company is also involved in certain other claims and legal actions arising 
+in the ordinary course of business. In the opinion of management, these claims 
+and legal actions will not have a material adverse effect on the Company's 
+consolidated financial position, results of operations or cash flows.
+
+7. SHAREHOLDERS' EQUITY 
+
+On February 22, 1994, the Board of Directors declared a 3 for 2 stock split on 
+common and Class B stock effected in the form of a 50% stock dividend paid on 
+March 29, 1994. The effects of this stock split have been reflected in 
+shareholders' equity as of December 31, 1993 as if the stock split had 
+occurred as of that date. Amounts shown as cash dividends paid per common and 
+Class B share for all periods presented reflect the effects of this stock 
+split.
+
+
+
+
+
+Class B stock is convertible into common stock on a share for share basis and 
+is entitled to receive cash dividends in an amount not to exceed 90% of cash 
+dividends paid on common stock. Voting rights are one vote per share for 
+common stock and fifty votes per share for Class B stock.
+
+The Company is authorized to issue 50,000,000 shares of preferred stock with 
+no par value. No shares were issued as of December 31, 1995 and 1994.
+
+The Company has incentive stock plans that provide for grants of stock options 
+and restricted stock awards. Recipients of stock options include employees, 
+members of the Board of Directors and certain physicians who contract with the 
+Company. Generally, the option price is not less than the market value of the 
+stock when the options are granted. Options granted under the plans are 
+generally exercisable commencing one year from the date of grant in increments 
+ranging from 20% to 33 1/3% a year. Continued affiliation with the Company is a 
+condition of vesting and exercise. Restricted stock awards of common stock are 
+granted to selected employees and certain physicians who contract with the 
+Company, subject to forfeiture if affiliation with the Company terminates or 
+violations of other terms of the awards occur prior to the end of the 
+prescribed restriction period. Shares are granted without payment to the 
+Company. Recipients have all of 
+
+                                       32
+
+<PAGE>
+
+the rights of shareholders except that the shares are deposited with the 
+Company and cannot be disposed of until the restrictions have lapsed. The 
+approximate fair value (as of the award date) of shares awarded is accrued, 
+and charged to expense ratably as the restrictions are lifted and the shares 
+released to the recipients.
+
+Information concerning options outstanding for the two most recent years, 
+after giving effect to the stock split described above, is as follows:
+
+<TABLE>
+<CAPTION>
+                                                 Number of shares under option     
+                                                 -----------------------------     Option price
+(amounts in thousands except per share data)   Incentive  Non-Statutory    Total      per share
+- -----------------------------------------------------------------------------------------------
+<S>                                            <C>        <C>              <C>     <C>
+Outstanding at December 31, 1993                 2,253         510         2,763   $ 1.55-32.45
+Granted                                            386         483           869   $37.09-46.09
+Exercised                                         (383)        (26)         (409)  $ 1.55-29.73
+Canceled                                           (81)        (39)         (120)  $13.67-37.98
+                                                 -------------------------------
+Outstanding at December 31, 1994                 2,175         928         3,103   $ 1.55-46.09
+Granted                                          1,427         830         2,257   $12.33-43.18
+Exercised                                         (258)        (75)         (333)  $ 1.55-37.98
+Canceled                                          (516)        (75)         (591)  $ 6.50-46.09
+                                                 -------------------------------
+Outstanding at December 31, 1995                 2,828       1,608         4,436   $ 4.74-33.95
+                                                 -------------------------------
+                                                 -------------------------------
+Exercisable at December 31, 1995                   726         186           912
+                                                 -------------------------------
+                                                 -------------------------------
+</TABLE>
+
+At December 31, 1995 and 1994, 27,055,000 and 28,018,000 shares, respectively, 
+of common stock were reserved for issuance under the plans discussed above.
+
+8. CONTRACTUAL ARRANGEMENTS WITH PROVIDERS
+
+The Company generally compensates primary care physicians through prospective 
+compensation arrangements which incorporate quality assessment standards, 
+comprehensiveness of care, utilization and office status components. These 
+components are used to adjust the capitation payments to individual physician 
+offices and to determine the amount of additional periodic payments. The 
+Company has prospective compensation arrangements for mental health, substance 
+abuse, diagnostic laboratory, radiology and diagnostic imaging services, 
+podiatric treatment, physical therapy and prescription drug dispensing. The 
+Company has contracts that provide for all-inclusive per diem and per case 
+hospitalization rates and fixed rates for ambulatory surgery, emergency room 
+services and specialist services. The Company has also entered into 
+quality-based compensation arrangements with certain hospitals, as well as 
+agreements with certain integrated health delivery systems under which the 
+systems are compensated on a substantially fixed prospective basis for medical 
+services, including primary, specialist and hospital care. The arrangements 
+described above cover the majority of medical services.
+
+                                       33
+
+<PAGE>
+
+PRICE RANGE OF COMMON STOCK
+
+The common stock of the Company is traded on The Nasdaq Stock Market under the 
+symbol USHC. The following table sets forth for the indicated periods the high 
+and low prices of the common stock as reported by Nasdaq. All quotations have 
+been rounded to the nearest one-eighth.
+
+<TABLE>
+<CAPTION>
+                                     1995               1994
+                               ----------------    ----------------
+                                High      Low       High     Low
+- -------------------------------------------------------------------
+<S>                            <C>       <C>       <C>       <C>
+First Quarter                  47 1/2    39 1/2    45 1/2    36 5/8
+Second Quarter                 44 1/2    26 1/2    47 1/2    35
+Third Quarter                  36 1/8    29 7/8    47 1/4    33 3/4
+Fourth Quarter                 46 1/2    34 3/8    49        38
+
+</TABLE>
+
+On February 29, 1996, there were 3,679 and 19 shareholders of record of common 
+and Class B stock, respectively. The Class B stock cannot be traded but is 
+convertible into common stock on a share for share basis.
+
+DIVIDENDS
+
+The table below sets forth the cash dividends per share paid during 1995 and 
+1994.
+
+
+<TABLE>
+<CAPTION>
+                               1995                           1994
+                    ----------------------------   ----------------------------
+                    Common stock   Class B stock   Common stock   Class B stock
+                    ------------   -------------   ------------    ------------
+<S>                 <C>            <C>             <C>             <C>
+First Quarter           $ .250        $.2250          $.1333         $.1200
+Second Quarter            .250         .2250           .1700          .1530
+Third Quarter             .250         .2250           .2100          .1890
+Fourth Quarter            .275         .2475           .2100          .1890
+                    ------------   -------------   ------------    ------------
+ Total for year         $1.025        $.9225          $.7233         $.6510
+                    ------------   -------------   ------------    ------------
+                    ------------   -------------   ------------    ------------
+</TABLE>
+
+Future dividends will be declared and paid at the discretion of the Company's 
+Board of Directors and will depend upon, among other things, future earnings, 
+capital requirements and the general financial condition of the Company. Cash 
+dividends on the Class B stock may be paid only when dividends on the common 
+stock are declared and paid. Cash dividends on a share of Class B stock cannot 
+exceed 90% of the cash dividends on a share of common stock.
+
+                                       34
+
+
+<PAGE>
+
+
+SELECTED FINANCIAL DATA
+
+This data should be read in conjunction with the accompanying financial 
+statements and related notes thereto and Management's Discussion and Analysis 
+of Financial Condition and Results of Operations included elsewhere in this 
+report.
+
+<TABLE>
+<CAPTION>
+
+                                                                   Years ended December 31
+                                              -----------------------------------------------------------------
+(amounts in thousands except per share data)    1995          1994         1993           1992         1991
+- ---------------------------------------------------------------------------------------------------------------
+<S>                                           <C>           <C>          <C>           <C>           <C>
+INCOME STATEMENT DATA:
+OPERATING REVENUE:
+ Commercial premiums                          $2,971,365    $2,635,621   $2,402,431    $2,010,963    $1,584,860
+ Government premiums                             490,677       240,891      157,277       105,600        74,807
+ Other, principally administrative 
+  services fees                                   55,764        32,770       20,212        12,522         4,733
+                                              -----------------------------------------------------------------
+                                               3,517,806     2,909,282    2,579,920     2,129,085     1,664,400
+OPERATING EXPENSES:
+ Medical costs                                 2,577,833     1,994,780    1,861,985     1,631,317     1,279,960
+ Administrative, marketing and other
+  operating costs                                412,878       322,372      279,586       227,770       182,723
+                                              -----------------------------------------------------------------
+                                               2,990,711     2,317,152    2,141,571     1,859,087     1,462,683
+                                              -----------------------------------------------------------------
+Income from operations                           527,095       592,130      438,349       269,998       201,717
+Investment income, including
+ net realized gains and losses                    91,873        65,214       65,315        60,139        44,101
+Other income                                           -             -            -             -         1,485
+                                              -----------------------------------------------------------------
+Income before income taxes                       618,968       657,344      503,664       330,137       247,303
+Provision for income taxes                       238,303       266,225      203,989       130,091        96,203
+                                              -----------------------------------------------------------------
+NET INCOME                                    $  380,665    $  391,119   $  299,675    $  200,046    $  151,100
+                                              -----------------------------------------------------------------
+                                              -----------------------------------------------------------------
+NET INCOME PER COMMON AND 
+ COMMON EQUIVALENT SHARE: (a)
+  PRIMARY                                          $2.42         $2.42        $1.84         $1.23          $.93
+  FULLY DILUTED                                    $2.42         $2.42        $1.84         $1.23          $.92
+Weighted average number of common and
+ common equivalent shares outstanding: (a)
+  Primary                                        157,015       161,646      162,654       162,401       162,968
+  Fully diluted                                  157,436       161,704      162,798       162,614       163,397
+
+Cash dividends paid per common share (a)         $1.0250        $.7233       $.3867        $.2733        $.1600
+Cash dividends paid per Class B share (a)        $ .9225        $.6510       $.3480        $.2460        $.1440
+
+Medical costs as a percentage of premiums          74.5%         69.3%        72.7%         77.1%         77.1%
+
+BALANCE SHEET DATA: (b)
+ Total assets                                 $1,667,144    $1,463,887   $1,343,653    $  981,094    $  758,218
+ Total liabilities                               703,013       558,214      573,926       476,004       411,324
+ Shareholders' equity                            964,131       905,673      769,727       505,090       346,894
+
+</TABLE>
+
+(a) After giving effect to 3 for 2 stock splits effected in the form of 
+    50% stock dividends paid in September 1992 and March 1994.
+
+(b) After giving effect to a change in the method of accounting for marketable 
+    securities as of December 31, 1993, explained in Note 1 of Notes to 
+    Consolidated Financial Statements.
+
+                                       35
+
+<PAGE>
+
+SUPPLEMENTARY FINANCIAL INFORMATION
+
+The following table contains certain selected quarterly unaudited financial 
+data for 1995 and 1994.
+
+<TABLE>
+<CAPTION>
+                                                   First     Second      Third     Fourth
+(amounts in thousands except per share data)     Quarter    Quarter    Quarter    Quarter     Total
+- ----------------------------------------------------------------------------------------------------
+<S>                                             <C>       <C>         <C>        <C>       <C>
+1995
+Operating revenue                               $814,029  $840,514    $909,225   $954,038  $3,517,806
+Income from operations                           135,201   123,888     131,395    136,611     527,095
+Income before income taxes                       155,002   150,052     149,859    164,055     618,968
+Net income                                        94,552    93,056      92,163    100,894     380,665
+Net income per common and common
+ equivalent share-primary and
+ fully diluted                                      $.59      $.59        $.60       $.65       $2.42
+
+1994
+Operating revenue                               $703,447  $712,036    $736,946   $756,853  $2,909,282
+Income from operations                           137,650   141,938     152,472    160,070     592,130
+Income before income taxes                       150,149   156,754     170,346    180,095     657,344
+Net income                                        89,339    93,268     101,361    107,151     391,119
+Net income per common and common     
+ equivalent share-primary and
+ fully diluted                                      $.55      $.58        $.63       $.67       $2.42
+
+</TABLE>
+                                       36
+
+<PAGE>
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF 
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+GENERAL
+
+Substantially all of the Company's revenue is generated from premiums received 
+for health care coverage provided to its members. These premiums represent 
+approximately 98%, 99% and 99% of the Company's operating revenue for the 
+years ended December 31, 1995, 1994 and 1993, respectively. The Company's 
+operating expenses are primarily medical costs consisting principally of 
+medical claims and capitation costs.
+
+The Company's results of operations depend in large part on accurately 
+predicting and effectively managing medical costs and other operating 
+expenses. A variety of factors and risks, including competition, changes in 
+health care practices, changes in federal or state laws and regulations or the 
+interpretations thereof, inflation, provider contract changes, new 
+technologies, government-imposed surcharges, taxes or assessments, reductions 
+in provider payments by governmental payors (including Medicare and Medicaid) 
+(such reductions may cause providers to seek higher payments from private 
+payors), major epidemics, disasters, changes in product mix and entry into new 
+geographic markets (both of which may result in an increase in members 
+obtaining care from providers not under contract with the Company) and 
+numerous other factors affecting the delivery and cost of health care, may in 
+the future affect the Company's ability to control its medical costs and other 
+operating expenses. Governmental action (including downward adjustments to 
+premium rates) or business conditions (including intensification of 
+competition and the other factors described above) could result in premium 
+revenues not increasing to offset increases in medical costs and other 
+operating expenses. Once set, premiums are generally fixed for one-year 
+periods and, accordingly, unanticipated costs during such periods cannot be 
+recovered through higher premiums. The expiration, suspension, termination of, 
+or failure to obtain contracts to provide health coverage for governmental 
+entities or other significant customers would also negatively impact the 
+Company. Due to these factors and risks, no assurance can be given with 
+respect to the Company's premium levels or its ability to control its medical 
+costs. 
+
+Legislative and regulatory proposals have been made at the federal and state 
+government levels related to the health care system, including but not limited 
+to limitations on managed care organizations (including benefit mandates, 
+provider contract limitations, restrictions on utilization management, premium 
+assessments or taxes to pay for uncompensated care and any willing provider 
+requirements) and changes in the Medicare and Medicaid programs. Legislative 
+or regulatory action could also have the effect of reducing the premiums paid 
+to the Company by governmental programs or increasing the Company's medical 
+costs. Specifically, potential federal legislation would reduce the premiums 
+payable to the Company under the Medicare program as compared to previously 
+announced levels; other potential legislation and regulation could have the 
+result of reducing the premiums payable to the Company under state Medicaid 
+programs. The Company is unable to predict the specific content of any 
+legislation or regulation that may be enacted or when or in what jurisdictions 
+any such legislation or regulation will be adopted. Therefore, the Company 
+cannot predict the effect of such legislation or regulation on the Company's 
+business. For additional factors and risks, see the Company's Annual Report on 
+Form 10-K for the year ended December 31, 1995.
+
+OPERATIONS
+
+1995 COMPARED TO 1994
+
+Operating revenue increased $608,524,000 or 21%, principally due to growth in 
+U.S. Healthcare-insured health plan enrollment (375,000 additional members). 
+
+                                       37
+
+<PAGE>
+
+Commercial premiums increased $335,744,000 or 13%. The principal factor for 
+the increase was a 13% increase in Commercial member months (the sum of 
+members enrolled in each month during the year). The average premium for the 
+Commercial plans, which at December 31, 1995, had about 1,874,000 members, 
+decreased 1% to approximately $138 per member per month.
+
+Government premiums consist principally of Medicare and Medicaid premiums. 
+Medicare premiums increased $205,600,000 or 115%. The principal factor for the 
+increase was a 125% increase in Medicare member months, offset by the effect 
+of lower average premiums per member. The average premium for the Medicare 
+plans, which at December 31, 1995, had about 108,000 members, decreased 4% to 
+$437 per member per month. Medicaid and other premiums increased $44,186,000 
+or 71%. The principal factor for the increase was a 105% increase in Medicaid 
+member months offset by the effects of lower premiums per member. The average 
+premium for the Medicaid plans, which at December 31, 1995, had about 81,000 
+members, decreased 9% to $125 per member per month.
+
+The following table shows total premiums earned in 1995 and the increase in 
+premiums compared to 1994 by plan type.
+
+<TABLE>
+<CAPTION>
+                                        1995
+(amounts in thousands)              Premiums      Increase
+- ----------------------------------------------------------
+<S>                               <C>             <C>
+Commercial plans                  $2,971,365      $335,744
+Government plans:
+ Medicare plans                      384,005       205,600
+ Medicaid and other plans            106,672        44,186
+                                  ------------------------
+                                  $3,462,042      $585,530
+                                  ------------------------
+                                  ------------------------
+</TABLE>
+
+Other operating revenue, which consists principally of administrative services 
+fees, increased $22,994,000 or 70%, principally due to a 37% increase in 
+employer-funded health plan members. At December 31, 1995, the Company had 
+about 371,000 members in employer-funded health plans.
+
+Medical costs increased $583,053,000 or 29% over 1994, primarily due to a 17% 
+growth in U.S. Healthcare-insured member months, and higher costs per member. 
+Compared to 1994, the weighted average medical cost per member increased 11% 
+to $111 per member per month. Factors for the per member increase include 
+changes in product and geographic mix, contractual changes in provider rates, 
+higher specialist usage, higher capitation rates and the inclusion of a 
+pharmacy benefit for most Medicare members. Compared to 1994, medical costs 
+rose 5% to $101 per member per month for Commercial plans, 6% to $352 per 
+member per month for Medicare plans and 22% to $109 per member per month for 
+Medicaid plans. 
+
+
+
+
+Administrative, marketing and other operating costs increased $90,506,000 or 
+28% over 1994. Personnel costs contributed the largest increase as a result of 
+higher salaries and an increase in the number of employees necessitated, in 
+part, by higher business volume and changes in product mix, and increased 
+marketing capability.
+
+Investment income increased $26,659,000 or 41% from 1994, principally due to
+realized gains on sales of marketable securities and earnings on higher
+average portfolio balances. Net realized gains were $15,079,000 in 1995
+compared to net realized losses of $2,461,000 in 1994.
+
+Net income for 1995 was $381 million compared to $391 million in 1994. On a 
+per share basis, net income was $2.42 in 1995 and 1994, reflecting the effects 
+of the Company's repurchase of 6.9 million shares of its common stock during 
+1995. 
+
+                                       38
+
+<PAGE>
+
+1994 COMPARED TO 1993
+
+Operating revenue increased $329,362,000 or 13%, principally due to growth in 
+U.S. Healthcare-insured health plan enrollment (175,000 additional members).
+
+Commercial premiums increased $233,190,000 or 10%. The principal factors for 
+the increase were an 8% increase in Commercial member months and higher premium 
+rates. The average premium for the Commercial plans, which at December 31, 
+1994, had about 1,595,000 members, increased 1% to approximately $139 per 
+member per month.
+
+Government premiums consist principally of Medicare and Medicaid premiums. 
+Medicare premiums increased $43,581,000 or 32%. The principal factor for the 
+increase was a 35% increase in Medicare member months, offset by the effect of 
+lower average premiums per member. The average premium for the Medicare plans, 
+which at December 31, 1994, had about 38,000 members, decreased 2% to $457 per 
+member per month. Medicaid and other premiums increased $40,033,000 or 178%. 
+The principal factor for the increase was a 216% increase in Medicaid member 
+months offset by the effects of lower premiums per member. The average premium 
+for the Medicaid plans, which at December 31, 1995, had about 51,000 members, 
+decreased 7% to $138 per member per month. On December 31, 1994, the Company 
+also had about 271,000 members in employer-funded health plans.
+
+The following table shows total premiums earned in 1994 and the increase in 
+premiums compared to 1993 by plan type.  
+
+<TABLE>
+<CAPTION>
+                                 1994
+(amounts in thousands)       Premiums     Increase
+- --------------------------------------------------
+<S>                        <C>            <C>
+Commercial plans           $2,635,621     $233,190
+Government plans:
+ Medicare plans               178,405       43,581
+ Medicaid and other plans      62,486       40,033
+                           -----------------------
+                           $2,876,512     $316,804
+                           -----------------------
+                           -----------------------
+</TABLE>
+
+Medical costs increased $132,795,000 or 7% over 1993, primarily due to a 12% 
+growth in U.S. Healthcare-insured membership, partly offset by lower costs per 
+member.
+
+Administrative, marketing and other operating costs increased $42,786,000 or 
+15% over 1993. Personnel costs contributed the largest increase as a result of 
+higher salaries and an increase in the number of employees necessitated, in 
+part, by higher business volume and changes in product mix, and increased 
+marketing capability.
+
+Investment income was virtually unchanged from 1993, because net realized 
+losses on sales of marketable securities and a decrease in the yield on 
+investments combined to offset the effect of higher investment portfolio 
+balances.
+
+                                       39
+
+<PAGE>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's liquidity requirements have been met from cash flows generated 
+by operating activities. In 1995, net cash flows from such activities were 
+$493,686,000. The Company believes that its existing financial resources are 
+sufficient to meet its liquidity needs.
+
+The Company's operations are conducted principally through HMO and insurance 
+subsidiaries. These subsidiaries are subject to state regulations which 
+require the subsidiaries to maintain certain levels of equity, as defined. 
+Levels of required equity vary by state and, in some states, vary depending on 
+premium revenue, medical costs, the cost of care delivered by providers not 
+under contract to the Company and other factors. As of December 31, 1995, the 
+amount of equity so required was approximately $88 million. The effect of this 
+required equity is to limit, for use in the subsidiaries' own respective 
+operations, assets such as cash, marketable securities and receivables in an 
+amount equal to the sum of the subsidiaries' liabilities plus their required 
+equity. As of December 31, 1995, cash and marketable securities limited for 
+such use in the subsidiaries' operations under these requirements totaled 
+approximately $560 million. Regulations which were adopted but were not yet 
+effective would have increased the subsidiaries' required equity (and 
+increased the amount of assets limited as aforesaid) by approximately $30 
+million as of December 31, 1995. Other changes in equity requirements are 
+being considered at the state and federal levels, which may cause the amount 
+of equity required to be maintained by subsidiaries to increase. Changes in 
+the factors underlying existing equity requirements (such as an increase in 
+premium revenue, medical costs or the cost of care delivered by providers not 
+under contract to the Company) and expansion into new geographic markets may 
+also cause the amount of the subsidiaries' required equity to increase. Most 
+states also require the subsidiaries to obtain approval or provide notice 
+before funds in excess of certain thresholds are transferred to affiliates.
+
+                                       40
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 21
+ 
+                             U.S. HEALTHCARE, INC.
+                                  SUBSIDIARIES
+ 
+<TABLE>
+<CAPTION>
+                                                                                                    STATE OF
+                                                                                                  INCORPORATION
+                                                                                               -------------------
+<S>                                                                                            <C>
+United States Health Care Systems of Pennsylvania, Inc.,
+ d/b/a The Health Maintenance Organization of Pennsylvania and also U.S. Healthcare..........  Pennsylvania
+Health Maintenance Organization of New Jersey, Inc. also d/b/a U.S. Healthcare...............  New Jersey
+U.S. Healthcare, Inc.........................................................................  New York
+U.S. Healthcare, Inc.........................................................................  Delaware
+U.S. Healthcare, Inc.........................................................................  Connecticut
+U.S. Healthcare, Inc.........................................................................  Massachusetts
+U.S. Healthcare, Inc.........................................................................  Virginia
+U.S. Healthcare of New Hampshire, Inc........................................................  New Hampshire
+U.S. Healthcare of Georgia, Inc..............................................................  Georgia
+U.S. Healthcare of the Carolinas, Inc........................................................  North Carolina
+U.S. Healthcare, Inc. d/b/a U.S. Managed Care................................................  Ohio
+U.S. Managed Care, Inc.......................................................................  Maryland
+Advent HMO Corporation.......................................................................  North Dakota
+U.S. Healthcare Dental Plan, Inc.............................................................  Pennsylvania
+U.S. Healthcare Dental Plan, Inc.............................................................  New Jersey
+U.S. Healthcare Dental Plan, Inc.............................................................  Delaware
+U.S. Health Insurance Company................................................................  New York
+U.S. Health Insurance Company................................................................  Connecticut
+Corporate Health Insurance Company...........................................................  Minnesota
+United States Home Health Care Systems, Inc..................................................  Pennsylvania
+United States Physicians Care Systems, Inc...................................................  Pennsylvania
+U.S. Healthcare Properties, Inc..............................................................  Pennsylvania
+U.S. Healthcare Financial Services, Inc......................................................  Delaware
+Primary Investments, Inc.....................................................................  Delaware
+Primary Holdings, Inc........................................................................  Delaware
+U.S. Health Aviation Corp....................................................................  Pennsylvania
+Advent Financial Services, Inc...............................................................  Delaware
+U.S. Healthcare Advantage, Inc...............................................................  Delaware
+Advent Investments, Inc......................................................................  Delaware
+Independent Investments, Inc.................................................................  Delaware
+Corporate Health Administrators, Inc.........................................................  Pennsylvania
+Managed Care Coordinators, Inc...............................................................  Delaware
+Wissahickon Payment Administrators, Inc......................................................  Delaware
+U.S. Mental Health Systems, Inc..............................................................  Pennsylvania
+U.S. Quality Algorithms, Inc. d/b/a USQA.....................................................  Pennsylvania
+Workers Comp Advantage, Inc..................................................................  Pennsylvania
+Healthcare Data Interchange Corporation......................................................  Delaware
+Orion Computer Systems, Inc..................................................................  Pennsylvania
+Criterion Communications, Inc................................................................  Delaware
+Inteli-Health, Inc...........................................................................  Delaware
+USHC Management Services Corporation.........................................................  Delaware
+</TABLE>
+ 
+                                       41
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>CONSENT OF ERNST & YOUNG, LLP INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 23
+ 
+               CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+ 
+    We  consent to  the incorporation  by reference  in the  Annual Report (Form
+10-K) of U.S. Healthcare, Inc. of our report dated February 2, 1996, included in
+the 1995 Annual Report to Shareholders of U.S. Healthcare, Inc.
+ 
+    Our  audits  also  included  the   financial  statement  schedule  of   U.S.
+Healthcare,  Inc. listed in  Item 14(a). This schedule  is the responsibility of
+the Company's management.  Our responsibility is  to express an  opinion on  the
+schedule  based on our audits. In  our opinion, the financial statement schedule
+referred to above, when considered in relation to the basic financial statements
+taken as a whole, presents fairly  in all material respects the information  set
+forth therein.
+ 
+    We  consent to the incorporation by reference in the Registration Statements
+of U.S. Healthcare, Inc. pertaining to the 1982 Incentive Stock Option Plan  and
+the  Second  Incentive  Stock  Option  Plan (Form  S-8  No.  2-91754);  the U.S.
+Healthcare, Inc.  Savings Plan  (Form S-8  No. 33-36049);  the Second  Incentive
+Stock  Option  Plan,  the  Third  Incentive  Stock  Option  Plan  and  the  1987
+Non-Statutory Option Plan  (Form S-8  No. 33-26157); the  U.S. Healthcare,  Inc.
+Incentive  Plan (Form S-8 No. 33-80632); and  the registration of shares of U.S.
+Healthcare, Inc. common  stock under various  non-statutory stock option  grants
+and  for the registration  of 187,073 shares (as  adjusted to reflect subsequent
+stock splits) of U.S. Healthcare, Inc.  common stock (Form S-3 No. 33-14653)  of
+our  report dated February  2, 1996, with respect  to the consolidated financial
+statements of  U.S. Healthcare,  Inc. incorporated  by reference  in the  Annual
+Report  (Form  10-K)  for the  year  ended  December 31,  1995  and  the related
+financial statement schedule included therein.
+ 
+                                          /s/ ERNST & YOUNG LLP
+ 
+Philadelphia, Pennsylvania
+March 26, 1996
+ 
+                                       42
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE DECEMBER
+31, 1995 ANNUAL REPORT TO SHAREHOLDERS OF U.S. HEALTHCARE, INC. AND IS QUALIFIED
+IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1995
+<PERIOD-END>                               DEC-31-1995
+<CASH>                                         804,631
+<SECURITIES>                                   450,006
+<RECEIVABLES>                                  149,082
+<ALLOWANCES>                                    15,779
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                             1,431,153
+<PP&E>                                         236,217
+<DEPRECIATION>                                  94,080
+<TOTAL-ASSETS>                               1,667,144
+<CURRENT-LIABILITIES>                          680,177
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           744
+<OTHER-SE>                                     963,387
+<TOTAL-LIABILITY-AND-EQUITY>                 1,667,144
+<SALES>                                              0
+<TOTAL-REVENUES>                             3,609,679
+<CGS>                                                0
+<TOTAL-COSTS>                                2,990,711
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                618,968
+<INCOME-TAX>                                   238,303
+<INCOME-CONTINUING>                            380,665
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   380,665
+<EPS-PRIMARY>                                     2.42
+<EPS-DILUTED>                                     2.42
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

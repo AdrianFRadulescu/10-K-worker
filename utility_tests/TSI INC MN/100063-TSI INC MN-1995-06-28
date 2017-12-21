@@ -1,0 +1,2211 @@
+<IMS-DOCUMENT>0000897101-95-000220.txt : 19950802
+<IMS-HEADER>0000897101-95-000220.hdr.sgml : 19950802
+ACCESSION NUMBER:		0000897101-95-000220
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950628
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TSI INC /MN/
+		CENTRAL INDEX KEY:			0000100063
+		STANDARD INDUSTRIAL CLASSIFICATION:	3823
+		IRS NUMBER:				410843524
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02958
+		FILM NUMBER:		95550348
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 CARDIGAN ROAD
+		CITY:			SHOREVIEW
+		STATE:			MN
+		ZIP:			55126
+		BUSINESS PHONE:		6124830900
+
+	MAIL ADDRESS:	
+		STREET 1:		500 CARDIGAN ROAD
+		STREET 2:		D
+		CITY:			ST PAUL
+		STATE:			MN
+		ZIP:			55126-3996
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<TEXT>
+
+
+                                   FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D. C. 20549
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934 FOR THE FISCAL YEAR ENDED MARCH 31, 1995.
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 FOR THE TRANSITION PERIOD FROM _____ TO _____.
+
+Commission File Number 0-2958.
+
+                                TSI INCORPORATED
+             (Exact name of registrant as specified in its charter)
+
+          Minnesota                                   41-0843524
+(State or other jurisdiction of          (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+500 Cardigan Road, Shoreview, Minnesota    55126
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code: (612) 483-0900
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+         National Association of Securities Dealers
+         Automated  Quotations System (NASDAQ)    Common Stock, $10 par value
+         (Name of each exchange on which registered)  (Title of each class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X No ___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Aggregate market value of the voting stock held by non-affiliates of registrant
+as of June 1, 1995: $37,174,576.
+
+Number of shares  outstanding  as of June 1,  1995:  5,218,033  shares of Common
+Stock, $.10 par value.
+
+Documents incorporated by reference: See Index of Exhibits,  Financial Statement
+Schedules and Reports on Form 8-K, located at pages 19 and F-1 of this report.
+
+Total number of pages including cover - 31
+
+PART I
+
+Item 1. BUSINESS
+
+Development of the Business
+
+     The Company was founded in 1961 as a manufacturer of scientific measuring
+instruments for research applications. In 1968, the Company went public under
+the name Thermo-Systems Inc. and later became TSI Incorporated. In recent years,
+the Company has applied its research instrumentation technology to industrial
+applications in order to address the needs of a variety of market niches.
+
+Products
+
+     The Company develops, manufactures and markets measuring instruments for
+two types of phenomena. The first involves the measurements of surface motion
+and fluid flow characteristics of gases and liquids. The second involves
+measuring the presence of and certain characteristics of small particles and/or
+gases in fluids or fluid flows, such as those found in air pollution studies,
+workplace environments, or clean rooms. The Company's business is characterized
+by many "niche" markets, wherein the applications of a few basic measuring
+technologies can satisfy the measurement needs in many different industrial and
+research situations.
+
+     The percentage contribution to net sales for these two classes of products
+for the periods indicated was as follows:
+
+                                              Year Ended March 31,
+    Classes of Products                   1995        1994       1993
+
+    Flow measuring instruments              61%        64%        64%
+    Particle & gas measuring instruments    39%        36%        36%
+                                           100%       100%        100%
+
+
+Particle and gas measuring instruments recorded a 21 percent increase in net
+sales in fiscal 1995 as compared with fiscal 1994, while net sales of fluid flow
+instruments increased 6 percent during the same period. There was a shift in
+fiscal 1995 in the percentage of total net sales toward particle measuring
+instruments, mainly due to the sale of Portacount fit testers under a U.S. Army
+contract.
+
+Flow Measuring Instruments
+
+     On May 1, 1995, the Company acquired Alnor Instrument Company, located in
+Skokie, Illinois. As part of the Company, Alnor products will fall under the
+Flow Measuring Instruments class of products in fiscal 1996 and beyond. These
+products will add capability and market share in applications to monitor and
+control air flow, pressure and other safety and comfort factors in rooms and
+balancing of air flow and temperature between rooms.
+
+     The Company's flow measuring instruments utilize several measurement
+techniques, including thermal anemometry, laser Doppler velocimetry, particle
+image velocimetry and several other techniques used in certain types of
+products. Thermal technology has been used in the Company's flow measuring
+instruments since its earliest products were developed. A probe containing a
+small electrically heated element is exposed to a flow. The cooling effect of
+the flow on the element provides a measure of the velocity and/or flow rate in
+gas or liquid. The instrument can then portray the flow rate in an analog
+display or convert it into a digital signal for further processing by a
+computer. The output signal can be used to monitor, analyze or control the flow
+or velocity within a flow channel or process. The Company has developed
+companion products and software for convenient signal analysis and data
+interpretation.
+
+     For over 20 years, the Company has been developing and producing various
+flow measureing instruments which utilize a laser based technology (using
+lasers manufactured by others). These instruments use a laser beam and optical
+measurement technique to measure velocity and movement, rather than a probe as
+used with the thermal instruments. The laser instruments are used to obtain
+measurements in locations where a probe would be destroyed or is undesirable
+because it would disturb the flow of the liquid or gas being measured. This
+technology has been enhanced in a variety of ways to meet new applications.
+Reducing the size, increasing the ruggedness of instruments and allowing for
+more than one measurement to be taken at a point in time are some of these
+enhancements. Also, the Company has developed and is selling a variety of user-
+friendly software packages to expand and enhance the applications of these
+instruments. The Company's laser instruments are used in conjunction with
+computers (manufactured by others) which compile and interpret the data obtained
+by the laser measurement devices.
+
+     Through engineering development work, licensing and acquisition of product
+lines, the Company has added the capability of providing instruments and
+software packages that measure or map flow patterns over an area of flow around
+objects, ect., by visual means. This area is referred to as particle-image
+velocimetry because the technique is based on the simultaneous tracking of the
+movement of numerous particles in the flow stream. Optical techniques are used
+to show images of the flow patterns. This area has been emerging as an important
+addition to flow measuring and analysis capability which the Company expects to
+grow over the next few years.
+
+     Another research application of laser based technology has been developed
+and added during the last two years, called adaptive phase-Doppler velocimetry.
+These instruments add the capability of measuring in two-phase flows where there
+are liquid or solid particles or droplets in air (or other gas) as well as
+gaseous particles in liquids. Specific applications are for simultaneous flow
+and particle size distribution in sprays such as fuel sprays or inhalers.
+
+     With the acquisition in 1986 of Handar, in Sunnyvale, California, other
+measurement techniques were added to the Company's capabilities, including "cup
+and vane" and propeller-type wind speed measuring devices, for measuring the
+characteristics of air and air flow.
+
+     Applications for flow measuring instruments include measurement and imaging
+of velocity and turbulence in wind tunnels, ducts, pipes and in the atmosphere;
+measurements of air speed or flow in building spaces for heating,
+air-conditioning and ventilation work; measurements and imaging in gas turbine
+engines and automotive exhaust gas pulses to improve efficiency or lower
+pollution and noise, measurements of speed and length of solid surfaces, such as
+steel, aluminum, fibers, paper and other materials; and as a part of closed loop
+systems to control the velocity of flow or movement.
+
+     In addition to general research applications, several industrially oriented
+flow measuring niches have been pursued by the Company over the years using the
+Company's basic technologies. These products and niches are changing with time
+as continuing product improvements and new applications are found. An outline of
+these product lines and niches include the following:
+
+- -    Air flow sensors using thermal sensing techniques to monitor and/or control
+     air flow through laboratory fume hoods. A similar device measures and
+     controls static pressure in laboratories and other controlled rooms like
+     hospital isolation rooms by controlling the air flow through the space.
+     Engineering development work has continued during the past year in order to
+     improve performance of energy saving and safety enhancement devices for
+     hospital isolation rooms as well as laboratories.
+
+
+
+- -    An instrument using laser and optical techniques to measure surface speed
+     and length of aluminum, steel and similar materials for industrial process
+     control. This product line is performing well for measurements in rolling
+     mills and similar metals forming operations. Additional engineering work
+     has been done during the past year to adapt these instruments to
+     measurement of speed, length, diameter, etc., of fibers and film in process
+     applications such as textiles, paper, rubber and optical fibers.
+
+
+
+- -    Instruments that determine cloud height and visibility in moving air masses
+     using laser and optical techniques. These products are used for
+     meteorological applications at airports and other open areas. While these
+     products have been manufactured and sold for a number of years, additional
+     engineering work to enhance performance and broaden applicability continued
+     during fiscal 1995.
+
+- -    A new generation data collection platform used to collect and transmit
+     meteorological and environmental data was introduced during fiscal 1992.
+     This platform is used in conjunction with the Company's meteorology and
+     related monitoring systems for environmental measurements. During the past
+     year additional software capability has been added to enhance performance
+     and to broaden applications to other than meteorological and hydrological
+     data collections. Development continues to further enhance performance and
+     software applicability.
+
+Particle and Gas Measuring Instruments
+
+     The Company's particle and gas measuring instruments utilize a number of
+different techniques to analyze various characteristics of small particles in
+gases and liquids as well as the presence and amount of various gases in air. A
+variety of instruments are offered to detect, measure, sample, generate and
+count small particles and to detect and measure other gases in air.
+
+     With the acquisition of Transducer Research, Incorporated in fiscal 1993,
+the Company added to its particle measuring product lines the capability for
+detection of gases that are important in measuring indoor air quality and
+various toxic or polluting gases in outdoor environments.
+
+     In fiscal 1994, the Company's product lines for monitoring contamination
+levels in clean rooms were sold to Particle Measuring Systems, Inc. (PMS) of
+Boulder, Colorado. The Company is continuing, until December, 1998 or longer,
+subject to options, to manufacture some of the products for PMS on an Original
+Equipment Manufacturer (OEM) basis.
+
+     During fiscal 1994, based on licensed technology, a new analytical
+instrument, called a nephelometer, was introduced for measuring the presence of
+particles in the atmosphere that affect the penetration of the sun's rays,
+related to global warming research.
+
+     During fiscal 1995, the Company received contracts to produce its
+Aerodynamic Particle Sizer (APS) for the U.S. Army and U.S. Navy to be used as
+an early detection device for sensing the presence of bio-hazard material in the
+air. These contracts have included funding for development work to further
+enhance the capabilities of the APS for these applications.
+
+     Applications for particle measuring instruments include a variety of
+research and testing instruments designed to measure the size distribution of
+extremely small particles; to collect and classify the particles into size
+ranges for further analysis; to detect and count particles in a fluid at a given
+location; and to generate known, uniform particles in a wide variety of types
+and sizes. Gas measuring instruments are designed to detect the presence and
+levels of various polluting gases or abnormal levels of gases in air. The
+measurements obtained through these processes are then used to monitor
+contamination levels; to make measurements in aerosol generation studies; to
+measure air pollution levels in buildings or in outside air; to measure the size
+distribution of various powders; to measure toxic gases at waste sites; to
+measure indoor air quality and to test for leaks in filters and similar media.
+Many of the Company's particle and gas measuring instruments are also used in
+conjunction with computers (manufactured by others) which compile and interpret
+the data obtained. Also, the Company has developed and sells a variety of
+user-friendly software packages to expand and enhance the applications of these
+instruments.
+
+     Like the flow measuring instruments, the Company has expanded on the
+general research applications of its particle and gas measuring instruments by
+pursuing industrially oriented niches over the past several years. Using the
+Company's basic technologies, the product lines have expanded into industrial
+niches where new applications are found. An outline of these product lines and
+niches include the following:
+
+- -    An instrument that uses particle sensing techniques to measure for leaks in
+     face masks and respirators that result from inadequate fit, called the
+     PORTACOUNT(R) fit tester. The products are used in industrial hygiene
+     applications where people may be at risk from exposure to hazardous
+     environments. This product has been fully development and has been marketed
+     for about seven years. During fiscal 1993, the product was packaged for
+     military use by the U.S. Army and U.S. Marines for fit testing of their gas
+     masks and during fiscal 1994, production of the military version commenced
+     under a contract that extended through most of fiscal 1995. Additional
+     contracts are expected from U.S. defense agencies and from other allied
+     nations. Instruments that determine the efficiencies of filters and filter
+     media using particle sensing techniques to measure for leaks. This product
+     line is used for quality control by filter manufacturers and has been
+     manufactured and marketed for several years. Additional development work
+     occurred in fiscal 1994 to enhance and broaden the filter product line.
+
+
+- -    With the addition of gas detecting sensors and instruments to this product
+     classification through the acquisition of Transducer Research Inc. in
+     fiscal 1993, potential applications have expanded. During fiscal 1995,
+     instruments were introduced to measure various indoor air quality
+     parameters including levels of carbon dioxide to indicate the "sick
+     building syndrome" levels; and early in fiscal 1996 this product line was
+     expanded to also measure carbon monoxide. Development work is continuing to
+     add other gas detecting instrument to these product lines.
+
+- -    Manufacturing, as an OEM supplier, instruments for monitoring the particle
+     contamination levels in air and other gases in industrial clean room
+     applications and residue in ultra-clean water, using particle sensors that
+     incorporate light scattering optical techniques. These instruments are used
+     by manufacturers of semiconductor devices, pharmaceutical products and
+     other products which require very low contamination levels during critical
+     manufacturing processes. Continued engineering development in fiscal 1995
+     added to the performance capabilities of these instrument lines.
+
+Raw Materials and Parts
+
+     The Company purchases most of its electronic components and materials from
+suppliers in the United States and, generally, has not experienced problems with
+availability. Some materials such as laser diodes and fibers for fiber optics
+are imported. Import restrictions could impair availability of some of these
+materials. Engineering design of the Company's products does not require exotic
+parts or materials and the selection of readily available materials has been an
+important design goal. The Company's vendor certification program, which has
+been in operation for several years, has been and is expected to continue being
+a positive step toward increased quality and timeliness on incoming parts. The
+Company continues to seek and maintain alternative vendors and has generally
+been able to locate alternative sources for materials during past periods of
+short supply. A severe shortage of electronic parts could impair the Company's
+ability to produce certain products but a broad and diversified product line
+helps to alleviate this risk.
+
+Customers
+
+     The Company sells to a broad range of customers throughout the world. These
+customers include many industrial companies, educational institutions, research
+organizations and agencies of the United States and foreign governments.
+
+     The Company's sales can be divided into market categories based upon
+customer classification as follows: (i) environmental instrumentation customers,
+(ii) research and analytical instrumentation customers, including universities,
+colleges and technical schools as well as governmental and non-governmental
+research institutes and (iii) process instrumentation customers. Some
+educational and non-governmental research sales are funded in whole or in part
+by government.
+
+     Sales to defense customers accounted for about 15 percent of total net
+sales in fiscal 1995 and 12 percent in fiscal 1994, but have accounted for no
+more than 10 percent of total sales for each of the prior eight years. The
+increases in fiscal 1995 and fiscal 1994 were mainly due to PortaCount fit
+testers under the aforementioned U.S. military contract.
+
+     Reduction or changes in federal spending may adversely affect the Company's
+governmental and, to some extent, educational sales. United States governmental
+sales may be canceled at the government's convenience.
+
+     Approximately 69 percent of the Company's sales during fiscal 1995 were to
+domestic customers, with the balance to international customers, mainly in
+Europe and the Pacific basin. Sales to international customers consist
+principally of products manufactured in the United States.
+
+     Sales to international customers by classes of products, as a percentage of
+the Company's net sales were as follows for the periods indicated.
+
+                                                  Year Ended March 31
+      Classes of Products                    1995       1994         1993
+
+      Flow measuring instruments              23%        22%          24%
+      Particle & gas measuring instruments     8%         9%          14%
+                                              31%        31%          38%
+
+Overall, the Company's fiscal 1995 international net sales increased about 9
+percent compared to fiscal 1994 and sales of both flow measuring and particle
+and gas measuring instruments increased at about the same rate. From fiscal 1993
+to fiscal 1994, international sales decreased in particle and gas measuring
+instruments, mostly in the product line of microcontamination monitoring
+instruments for clean rooms that was divested in fiscal 1994. The Company's
+export markets improved for most product lines during fiscal 1995, as global
+economic conditions improved.
+
+     Further segment information about domestic vs foreign operations is
+included under Note I of the Notes to Consolidated Financial Statements on page
+19 of the Company's 1995 Annual Report to Shareholders (Exhibit 13, page F-8).
+The decreases in net sales from fiscal 1993 to 1994 and 1994 to 1995 through
+foreign operations do not reflect changes in total foreign sales, but rather a
+shift toward more of the foreign sales going through independent distributors.
+Refer to page 10 of the Management's Discussion and Analysis of Results of
+Operations and Financial Condition for added discussion regarding international
+sales.
+
+
+Marketing
+
+     The Company markets its products through Company-employed sales engineers
+who operate out of offices located in the United States and international sales
+offices located in Europe. In addition, independent sales representatives and
+distributors represent the Company in other domestic and international markets.
+The Company uses promotional catalogs, technical bulletins, seminars, displays,
+trade shows and advertising in trade journals to promote its products. The
+Company's sales consist primarily of products listed in its catalogs, although
+the Company also sells specialized products designed to meet specific customer
+requirements.
+
+     The nature of the Company's products requires a marketing approach that is
+customer application oriented. Accordingly, sales engineers and independent
+representatives are technically competent in a variety of engineering and
+scientific disciplines as well as trained in the market niches and product lines
+on which they concentrate. The sales force provides the Company with information
+for development of new products and identification of new markets. In addition
+to direct sales efforts and after-sales servicing, the Company provides its
+customers with technical support, advice, training and application information
+related to the Company's products.
+
+     At March 31, 1995, the Company's backlog of orders was approximately
+$11,364,000 compared to $12,514,000 at March 31, 1994 and $6,109,000 at March
+31, 1993. The Company estimates that approximately 90% of the 1995 backlog will
+be shipped by March 31, 1996.
+
+     As of March 31, 1994, about $5 million of the Company's backlog was due to
+the aforementioned U.S. Army contract for fit testers, which was shipped prior
+to March 31, 1995, so a major part of the backlog decrease from that contract
+was replaced during fiscal 1995 by other orders and contracts.
+
+Competition
+
+     The Company's products compete with products utilizing different
+technologies as well as directly competitive products. For example, the
+Company's fluid flow measuring instruments which use thermal measurement
+techniques compete with instruments utilizing differential pressure or ultra-
+sonic sound wave measurement techniques. New products could be introduced by
+competitors that would make existing Company products obsolete. The Company's
+ability to compete is dependent upon its ability to develop or license products
+in a changing technological environment. The Company's competitive strength
+often comes from its ability to fit instruments to new applications on an
+ongoing basis such that new applications or market niches replace those where
+needs have changed, as well as its ability to grow by adding more niches.
+
+     Competitive forces vary in accordance with the various market niches into
+which the Company sells products. Competition can best be described by starting
+with the two product classes and further categorizing product types in each
+class, as shown in the table that follows. In the table, when "significant
+market share" is indicated, it is due to the Company's long term presence in a
+niche or because the product is so unique that it may, essentially, be the only
+product available to make the measurement required, thus creating its own niche
+The exact number of international competitors is not always known, particularly
+in cases where the Company does not have international experience with that
+product type. The Company typically confronts the same group of competitors in
+about 20% of its total sales.
+
+
+<TABLE>
+<CAPTION>
+                                           COMPETITORS                                  COMPANY'S MARKET SHARE
+                                Major                       Minor                 Significant                 Minor
+Product Type               Int'l    Domestic           Int'l    Domestic            Share                     Share
+Flow Measuring Instruments
+
+<S>                          <C>           <C>         <C>           <C>               <C>                       <C>
+Flow Research                1             1           4             2                 X
+
+Industrial Flow              3             2         more         more                                           X*
+                                                     than 6       than 6
+
+Lab/Room Air
+ Flow Control                -             3           -             3                 X*
+
+Surface Motion               1             -           1             -                 X
+
+Meteorology/
+ Environmental
+ Monitoring                  4             3         more       more                   X*
+                                                     than 6     than 6
+
+Particle & Gas Measuring Instruments
+
+Particle Research            2             2         more       more                   X*
+                                                     than 6     than 6
+
+Clean Room
+ Monitoring                  3             3         more       more                                             X*
+                                                     than 6     than 6
+
+Respirator
+ Fit Test                    1             -           -             2                 X
+
+Indoor Air
+ Quality                     2             4         more       more                                             X*
+                                                     than 6     than 6
+
+Filter Testing               -             1           2             -                 X
+</TABLE>
+- ------
+*Market share varies considerably by specific product within the product type
+
+Research and Product Development
+
+     The Company is engaged in research and development activities principally
+for the development of proprietary products. These activities, which occur in
+all aspects of the Company's business, generally consist of the development,
+design and testing of potential new products with emphasis on applied (as
+distinct from basic) research. Approximately 75% of the Company's engineering
+and technical staff are engaged in research and development activities on a
+full-time basis. The Company also engages in some contract research work for
+others that varies from time to time. This type of contract work generally
+relates to the development of a future instrument or product enhancements to
+better meet market needs and applications. In addition, the Company utilizes
+various outside consultants in the research and development area. In fiscal year
+1995, the Company spent approximately $7,196,000 (14.7% of net sales) in
+research and product development activities, compared to $6,360,000 (14.5% of
+net sales) and $5,874,000 (14.4% of net sales) in fiscal 1994 and 1993,
+respectively.
+
+
+Patents and Licenses
+
+     One or more aspects of several products currently marketed by the Company
+are covered by patents owned by the Company or licensed to the Company by
+outside inventors. While the Company believes that patent protection is
+important to its business, it does not believe that the expiration or
+invalidation of any particular patent would have a materially adverse effect
+upon its business. All licenses held with respect to technology used by the
+Company are believed to be fully enforceable. The loss of any one of several
+licenses held by the Company would probably not have significant adverse effect
+upon the Company.
+
+Employees
+
+     As of March 31, 1995, the Company had 362 employees. The Company's
+employees are not represented by a union, there has never been a work stoppage
+due to labor difficulties and the Company considers its relationship with
+employees to be satisfactory.
+
+
+Item 2. PROPERTIES
+
+     The Company's general offices and main manufacturing facilities are located
+at 500 Cardigan Road, Shoreview, Minnesota 55126. This building contains
+approximately 83,000 square feet. The building is basically one story of about
+71,000 square feet, with a mezzanine area of about 12,000 square feet, and
+primarily of masonry construction. It was constructed for, and has been in use
+by the Company since 1976 and is well suited to the Company's operations. This
+building was built in two parts, the first being built in 1976 and the second
+part in 1980. The Company has been utilizing all of the floor space in this
+facility during the past few years, and due to process improvements has been
+able to grow without additional space. During fiscal 1995 the Company began a
+project to build 58,000 square feet of space as a two story addition, providing
+a total of about 140,000 square feet of space at the Shoreview facility. This
+project along with improvements in the existing space, will be completed in the
+fall of calendar year 1995 at a total project cost of about $3.5 million. The
+Company owns additional land at the same location on which to build about 80,000
+square feet of additional space in the future as required.
+
+     Handar, a subsidiary located in Sunnyvale, California, leases approximately
+22,000 square feet of space under a five year lease commenced in January 1994.
+This space was modified to suit Handar's operations.
+
+     TSI GmbH, a subsidiary located in Aachen, Germany, leases about 10,000
+square feet of space which was constructed for TSI GmbH and occupied under a ten
+year lease (with options) entered into in 1985.
+
+     The Company also leases space for subsidiary operations and several sales
+offices.
+
+Item 3. LEGAL PROCEEDINGS
+
+     See Notes C and G of the Notes to Consolidated Financial Statements (pages
+20 and 22) in the Company's 1995 Annual Report to Shareholders for information
+regarding disqualification of The Company's Domestic International Sales
+Corporation ("DISC") by the Internal Revenue Service (IRS), and the favorable
+settlement of private civil litigation relating to the disqualification of the
+DISC during fiscal 1993.
+
+     No material legal proceedings were pending or threatened against the
+Company or its subsidiaries as of March 31, 1995.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted during the fourth quarter of the year ended March
+31, 1995, for a vote by the shareholders.
+
+PART II
+
+Item 5. MARKET FOR REGISTRANTS' COMMON EQUITY & RELATED MATTERS
+
+     The information in the sections titled "Stock and Dividend Data" and "Stock
+Data" on page 8 of the Company's 1995 Annual Report to Shareholders is
+incorporated herein by reference.
+
+Item 6. SELECTED FINANCIAL DATA
+
+     The information in the section titled "Eleven-Year Financial Data Summary"
+for the year 1991 through 1995 on page 8 of the Company's 1995 Annual Report to
+Shareholders is incorporated herein by reference.
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+        FINANCIAL CONDITION
+
+     The information in the section titled "Management Discussion and Analysis
+of Results of Operations and Financial Condition" on pages 9 through 11 of the
+Company's 1995 Annual Report to Shareholders is incorporated herein by
+reference.
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Consolidated Financial Statements and notes thereto on pages 12 through
+20 of the Company's 1995 Annual Report to Shareholders are incorporated herein
+by reference.
+
+     The following supplemental financial data are included herein and should be
+read in conjunction with the consolidated financial statements in the Company's
+1995 Annual Report to Shareholders:
+
+         Schedule VIII:    Valuation and Qualifying Accounts, page F-4.
+
+         Schedule X:       Supplementary Income Statement Information, page F-5.
+
+Item 9. CHANGES IN AND DISAGREEMENT WITH ACCOUNTANTS ON ACCOUNTING AND 
+        FINANCIAL DISCLOSURE 
+        None
+
+PART III
+
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+               (a)  The information concerning the Company's directors set forth
+                    in the Company's Proxy Statement for 1995 Annual Meeting of
+                    Shareholders, dated June 21, 1995, is incorporated by
+                    reference herein.
+
+               (b)  The executive officers of the Company are:
+
+<TABLE>
+<CAPTION>
+                                                     Position with the Company
+         Name                       Age              and Business Experience
+<S>                                 <C>              <C>         
+Leroy M. Fingerson                  62               Chairman of the Board of Directors and Chief
+                                                     Executive Officer.  Dr. Fingerson has been Chief
+                                                     Executive Officer of the Company since 1961 and
+                                                     Chairman of the Board since 1986.
+
+James E. Doubles                    54               President and Chief Operating Officer since 1992 and
+                                                     a Director.  Executive Vice President and Chief
+                                                     Operating Officer from 1989 to 1992.
+
+Lowell D. Nystrom                   59               Vice President, Treasurer and Chief Financial Officer
+                                                     and a Director.  Mr. Nystrom has been Vice President,
+                                                     Treasurer and Chief Financial Officer of the Company
+                                                     since 1961.
+</TABLE>
+
+
+
+               (c)  Section 16(a). See the Company's Proxy Statement for 1995
+                    Annual Meeting of Shareholders, dated June 21, 1995, which
+                    is incorporated herein by reference, referring to the
+                    caption "Compliance with Section 16(a) of the Securities
+                    Exchange Act of 1934".
+
+               (d)  There are no family relationships between and among
+                    directors or officers.
+
+               (e)  Business experience of Directors may be found in the
+                    Company's Proxy Statement for 1995 Annual Meeting of
+                    Shareholders, dated June 21, 1995, which is incorporated
+                    herein by reference.
+
+Item 11. EXECUTIVE COMPENSATION
+
+     The information required by Item 11 is incorporated herein by reference
+from Proxy Statement for 1995 Annual Meeting of Shareholders, dated June 21,
+1995, under the caption "Executive Compensation".
+
+Item 12. PRINCIPAL SHAREHOLDERS
+
+     The information required by Item 12 is incorporated herein by reference
+from the Company's Proxy Statement for 1995 Annual Meeting of Shareholders,
+dated June 21, 1995, under the caption "Principal Shareholders".
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+         None
+
+PART IV
+
+Item 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS
+         ON FORM 8-K
+
+         (a)      See accompanying Index to Financial Statements on page F-1.
+
+
+         (b)      Reports on Form 8-K:
+                  No reports on Form 8-K were filed during the fourth quarter of
+                  fiscal 1995.
+
+         (c)      Exhibits included herein:
+
+                  Exhibit 3a:       Restated  Articles of  Incorporation  as
+                                    amended in November, 1984 and October, 1986,
+                                    hereby incorporated by reference.
+
+                  Exhibit 3b.       Restated Bylaws adopted June, 1987, hereby 
+                                    incorporated by reference.
+
+                  Exhibit 10.a*     TSI   Incorporated   Incentive  Stock
+                                    Option   Plan  of  1982,   incorporated   by
+                                    reference  from Form S-8, File No.  1-91697,
+                                    June 14, 1984.
+
+                  Exhibit 10.b:*    TSI   Incorporated   Employee  Stock
+                                    Purchase  Plan  of  1987,   incorporated  by
+                                    reference from Form S-8, File No.  33-23247,
+                                    July 25, 1988.
+
+                  Exhibit 10.c:*    TSI Incorporated Stock Option Plan of
+                                    1988,  incorporated  by reference  from Form
+                                    S-8, File No. 33-20627, August 22, 1989.
+
+                  Exhibit 10.d:*    TSI Incorporated Stock Option Plan of
+                                    1992,  incorporated  by reference  from Form
+                                    S-8, File No. 33-66194, July 19, 1993.
+
+                  Exhibit 10.e:*    TSI Incorporated  Stock Purchase Plan
+                                    of 1994, incorporated by reference from Form
+                                    S-8, File No. 33-86468, November 17, 1994.
+
+                  Exhibit 11:       Computation of Per Share Earnings
+
+                  Exhibit 13:       The  Company's  1995  Annual  Report to
+                                    Shareholders for the fiscal year ended March
+                                    31, 1995.
+
+                  Exhibit 21:       Subsidiaries of the Company
+
+                  Exhibit 23:       Consent of Independent Auditors
+
+                  Exhibit 27:       Financial Data Schedule for SEC use only.
+- -------
+
+*    Indicates management contract or compensation plan or arrangement required
+     to be filed as an exhibit.
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934, the Registrant has caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+Date: June 22, 1995          TSI INCORPORATED
+
+                             /s/ Leroy M. Fingerson
+                                 Leroy M. Fingerson, Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following  persons on behalf of the  Registrant and
+in the capacities and on the dates indicated:
+
+<TABLE>
+<CAPTION>
+         Signature                          Title                           Date
+<S>                        <C>                                         <C> 
+/s/ Leroy M. Fingerson     Chief Executive Officer and a Director      June 22, 1995
+Leroy M. Fingerson         (Principal Executive Officer)
+
+/s/ Lowell D. Nystrom      Vice President, Chief Financial Officer     June 22, 1995
+Lowell D. Nystrom          and a Director (Principal Financial and
+                           Accounting Officer)
+
+/s/ James E. Doubles       President, Chief Operating Officer and      June 22, 1995
+James E. Doubles           Director
+
+/s/ John F. Carlson        Director                                    June 22, 1995
+John F. Carlson
+
+/s/ Frank D. Dorman        Director                                    June 22, 1995
+Frank D. Dorman
+
+/s/ Kenneth J. Roering     Director                                    June 22, 1995
+Kenneth J. Roering
+
+/s/ Donald M. Sullivan     Director                                    June 22, 1995
+Donald M. Sullivan
+
+/s/ Lawrence J. Whalen     Director                                    June 22, 1995
+Lawrence J. Whalen
+</TABLE>
+
+
+TSI INCORPORATED 10-K
+
+                       TSI INCORPORATED AND SUBSIDIARIES
+                         INDEX TO FINANCIAL STATEMENTS
+
+A.       STATEMENTS OF REGISTRANT
+
+         No separate financial  statements of the Registrant are included herein
+         as the  Registrant is primarily an operating  company.  All  subsidiary
+         companies are wholly owned, and their  indebtedness to any person other
+         than  the  Registrant  or  its  consolidated  subsidiaries  is,  in the
+         aggregate,  less than 5% of consolidated  assets at March 31, 1995. The
+         financial  statements  of  the  Registrant  and  all  subsidiaries  are
+         included in the consolidated financial statements.
+
+B.       CONSOLIDATED FINANCIAL STATEMENTS
+
+         Reference  is  made to the  consolidated  financial  statements  in the
+         Company's  1995 Annual Report to  Shareholders  which are  incorporated
+         herein by reference in accordance with Rule 12b-23 under the Securities
+         Exchange Act of 1934 and attached hereto.
+
+<TABLE>
+<CAPTION>
+                                                               Annual
+                                                               Report
+                                                                Page
+<S>                                                               <C>
+Quarterly Financial Information (Unaudited)                       12
+
+Consolidated Statements of Earnings for the Years Ended           12
+March 31, 1995,1994 and 1993
+
+Consolidated Balance Sheets - March 31, 1995 and 1994             13
+
+Consolidated Statements of Cash Flows for the Years Ended
+March 31, 1995, 1994, and 1993.                                   14
+
+Consolidated Statements of Shareholders' Equity for Years
+Ended March 31, 1995, 1994 and 1993.                              15
+
+Notes to Consolidated Financial Statements                        15
+
+Report of Independent Public Accountants                          20
+</TABLE>
+
+C.       REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+         ON SCHEDULES
+
+
+
+D.       CONSOLIDATED SCHEDULES
+
+Schedule          Description
+
+VIII              Valuation and Qualifying Accounts
+
+X                 Supplementary Income Statement Information
+
+All schedules  except those listed above have been omitted as not required,  not
+applicable,  or the information  required  therein is contained in the financial
+statements or the footnotes thereto.
+
+
+
+                          Independent Auditors' Report
+
+The Board of Directors and Shareholders
+TSI Incorporated:
+
+Under date of May 19, 1995, we reported on the  consolidated  balance  sheets of
+TSI Incorporated and subsidiaries as of March 31, 1995 and 1994, and the related
+consolidated  statements  of earnings,  shareholders'  equity and cash flows for
+each of the years in the three-year  period ended March 31, 1995 as contained in
+the 1995 annual report to shareholders.  These consolidated financial statements
+and our report  thereon are  incorporated  in the annual report on Form 10-K for
+the year 1995. In connection with our audits of the aforementioned  consolidated
+financial  statements,  we also have  audited  the related  financial  statement
+schedules  as listed in the  accompanying  index (see Item 8).  These  financial
+statement  schedules are the  responsibility  of the Company's  management.  Our
+responsibility is to express an opinion on these financial  statement  schedules
+based on our audits.
+
+In our opinion, such financial statement schedules,  when considered in relation
+to the basic consolidated financial statements taken as a whole, present fairly,
+in all material respects, the information set forth therein.
+
+
+
+Minneapolis, Minnesota
+May 19, 1995
+                           /s/ KPMG Peat Marwick LLP
+
+
+
+<TABLE>
+<CAPTION>
+                  Schedule VIII: VALUATION AND QUALIFYING ACCOUNTS
+                           TSI INCORPORATED AND SUBSIDIARIES
+- -----------------------------------------------------------------------------------------------------
+   COL. A                   COL. B                     COL. C              COL. D            COL. E
+- -----------------------------------------------------------------------------------------------------
+                                                     Additions
+                                              (1)               (2)       Bad debts
+Description                  Balance        Charged to        Charged     charged           Balance of
+                            beginning       cost and          to other    against           end of
+                            of Period       expenses          accounts    reserve           Period
+- ------------------------------------------------------------------------------------------------------
+<S>                        <C>              <C>               <C>         <C>              <C>     
+Year ended
+March 31, 1995
+Deducted from
+asset account:
+Allowance for
+doubtful accounts:         $183,000         $27,000           $34,000     $102,000         $142,000
+
+Year ended
+March 31, 1994
+Deducted from
+asset accounts:
+Allowance for
+doubtful accounts:         $133,000         $50,000                -            -          $183,000
+
+Year ended
+March 31, 1993
+Deducted from
+asset accounts:
+Allowance for
+doubtful accounts:         $109,000         $24,000           $14,000     $ 14,000         $133,000
+</TABLE>
+
+
+                  Schedule X: SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                                    TSI INCORPORATED AND SUBSIDIARIES
+
+
+  COL. A                                 COL. B
+
+                             Charged to Costs and Expenses
+   Item                           Year Ended March 31,
+                       1995                 1994             1993
+
+
+Advertising         $1,086,000            $897,000         $892,000
+
+
+Amounts for  royalties,  amortization  on  intangible  assets,  taxes other than
+payroll and income,  and  maintenance  and  repairs  are not  presented  as such
+amounts are less than 1% of net sales.
+
+
+                                 EXHIBIT INDEX
+
+EXHIBIT NO.                DESCRIPTION                        
+
+   11        Computation of Per Share Earnings           
+
+   13        Annual Report to Shareholders for the fiscal        
+              year ended March 31, 1995
+
+   21        Subsidiaries of the Company                         
+
+   23        Consent of Auditors                                 
+
+   27        Financial Data Schedule                               
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<TEXT>
+
+
+
+                                   EXHIBIT 11
+                       COMPUTATION OF PER SHARE EARNINGS
+                       TSI INCORPORATED AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+                                                              Year Ended March 31
+Primary                                     1995              1994              1993
+                                            ----              ----              ----
+<S>                                         <C>            <C>              <C>      
+Average shares outstanding                  5,151,012      5,083,462        5,173,433
+Net effect of dilutive stock options, based
+on the treasury stock method using average
+market price                                  157,159         98,700           93,009
+
+TOTAL                                       5,308,170      5,182,162        5,266,442
+
+
+Net Earnings                               $3,432,079     $3,199,093       $2,344,303
+
+Per Share Amounts                                $.65           $.62             $.45
+
+
+Full Diluted
+
+Average shares outstanding                  5,151,012      5,083,462        5,173,433
+Net effect of dilutive stock options,
+based on the treasury stock method
+using the year-end market price, if
+higher than the average market price          175,795        182,451           62,968
+
+TOTAL                                       5,326,807      5,265,913        5,236,401
+
+Net Earnings                               $3,432,079     $3,199,093       $2,344,303
+
+Per Share Amounts                                $.64           $.61             $.45
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<TEXT>
+
+
+                                   EXHIBIT 13
+                     ANNUAL REPORT TO SHAREHOLDERS FOR THE
+                        FISCAL YEAR ENDED MARCH 31, 1995
+
+
+
+
+
+INVESTOR INFORMATION
+
+Eleven-Year Financial Data Summary*
+(000s omitted)
+
+<TABLE>
+<CAPTION>
+
+                            1995     1994     1993     1992     1991     1990     1989     1988     1987     1986     1985
+<S>                      <C>       <C>      <C>      <C>      <C>      <C>      <C>      <C>      <C>      <C>      <C>   
+Net Sales                $48,903   43,979   40,589   40,293   39,660   35,916   33,733   29,293   23,080   19,377   16,516
+Gross Profit              28,566   25,301   22,877   22,880   23,491   21,402   19,444   17,047   13,399   11,282    9,257
+R&D                        7,195    6,360    5,847    6,112    5,538    4,535    4,461    4,813    3,551    3,417    3,776
+Selling &Admin.           16,657   15,077   14,884   14,493   14,167   13,548   12,068   10,308    7,587    6,439    5,382
+Operating Income           4,714    3,864    2,145    2,275    3,786    3,319    2,915    1,926    2,261    1,426       99
+Earnings from
+ Continuing Operations     3,432    3,199    2,344    1,830    2,660    2,295    1,927    1,518    1,620    1,359      761
+Net Earnings               3,432    3,199    2,344    1,903    2,660    2,072    1,872    1,414    1,390    1,090      791
+Earnings Per Share:
+ Continuing Operations       .65      .62      .45      .33      .48      .41      .35      .27      .29      .25      .14
+ Net Earnings                .65      .62      .45      .34      .48      .37      .33      .25      .25      .19      .15
+Dividends Per Share         .120     .107     .107     .107     .083     .067     .049     .045     .035     .035     .035
+Working Capital           16,855   15,783   13,365   14,615   13,275   12,461   12,609   10,969    9,892   10,517    9,204
+Total Assets              32,167   28,450   25,661   25,894   26,681   24,900   23,675   21,361   20,300   16,946   15,678
+Shareholders' Equity      26,342   22,839   20,335   19,918   18,943   17,800   16,073   14,562   13,344   11,937   10,978
+Capital Expenditures       3,124    1,204    1,138    1,204    1,057    1,439      782      871      708      715      608
+
+</TABLE>
+
+Stock and Dividend Data*
+
+      TSI common stock is traded in the National Market System of the NASDAQ
+over-the-counter market under the symbol TSII. Stock price quotations are
+printed daily in The Wall Street Journal and other major newspapers. During the
+fiscal year ended March 31, 1995, average trading volume of TSI common stock was
+113,900 shares per month, based on NASDAQ records.
+
+      There were 5,218,033 shares of TSI common stock outstanding as of June 1,
+1995 of which 20 percent were owned by officers and directors of TSI. There were
+576 shareholders of record on that date and an additional number of about 1,190
+shareholders for whom securities firms acted as nominees.
+
+      The range of market prices as reported by NASDAQ, dividends declared and
+the trailing 12-month closing price/earnings ratio for each quarterly period are
+shown in the table below. TSI has a policy of paying dividends quarterly in May,
+August, November and February. Dividends have been paid each year since 1975. As
+of July 21, 1994, the quarterly dividend rate was $.03 per share.
+
+STOCK DATA*
+                                                      Trailing
+                       Market Range         Dividend  12-Month
+Fiscal 1995       High      Low     Close   Declared  P/E Ratio
+Fourth Quarter   $9 1/2    7 3/4    9 1/8    $.030      14.0
+Third Quarter     9        7        8 1/4     .030      10.0
+Second Quarter    9 1/4    5 1/4    8 3/4     .030      10.0
+First Quarter     9 1/8    5        8 1/8     .030       9.5
+Fiscal 1994
+Fourth Quarter   $9        7 1/2    8 21/64  $.027      13.4
+Third Quarter     8 11/64  5 21/64  7 43/64   .027      12.5
+Second Quarter    6 11/64  5        5 27/64   .027      15.9
+First Quarter     6        5 11/64  5 21/64   .027      17.8
+
+*Data are based on results from continuing operations where applicable.
+Applicable earnings, stock and dividends declared per share data for all prior
+years shown have been retroactively adjusted to reflect the three-for-two stock
+splits effective August 17, 1994 and May 28, 1991.
+
+
+[graph]
+
+Dividends Per Share *
+(dollars)
+
+1991       .083
+1992       .107
+1993       .107
+1994       .107
+1995       .120
+
+
+
+
+                                FINANCIAL REVIEW
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS
+OF OPERATIONS AND FINANCIAL CONDITION
+
+INTRODUCTION
+
+The following discussion supplements the information presented in the
+consolidated financial statements beginning on page 12. This information may be
+better understood in several instances by referring to the accompanying graphs.
+Additional data are given in the Eleven-Year Financial Data Summary on page 8.
+
+The Company's Board of Directors declared a three-for-two stock split in the
+form of a stock dividend, effective August 17, 1994. Earnings per share data for
+all prior years have been restated to reflect this split.
+
+RESULTS OF OPERATIONS
+
+NET SALES Net sales totaled $48,903,000 in fiscal 1995, an increase of 11.2
+percent from $43,979,000 in 1994. Sales in fiscal 1993 were $40,589,000. The Net
+Sales graph on this page shows how sales in the Company's major market areas
+have varied over the past five years. In fiscal 1995, Environmental
+Instrumentation sales increased 24 percent, becoming 59 percent of sales;
+Research/Analytical Instrumentation decreased 9 percent, accounting for 30
+percent of total sales; and Process Instrumentation increased 18 percent,
+representing 11 percent of sales. In fiscal 1994, these three areas were 53
+percent, 37 percent and 10 percent of net sales, respectively.
+
+Fiscal 1995 showed continued growth in the Environmental Instrumentation area as
+well as a resumption of growth in the Process Instrumentation area. About $5.0
+million in sales in the environmental area came from a contract with the U.S.
+Army and Marines for PORTACOUNT(R) fit testers for respirators and gas masks, up
+from $3.5 million in fiscal 1994. Added to this increase was continuing sales
+growth of indoor air distribution and air quality measuring instruments. The
+increase in Process Instrumentation sales was due to increased sales of
+LaserSpeed(R) instruments for non-contact measurement of speed and length in
+process industries. Unlike fiscal 1994, this continuing increase in sales of
+non-contact, process measuring instruments was no longer affected by the
+decrease in sales of the clean room product line that was divested in fiscal
+1994.
+
+The decrease in Research/Analytical Instrumentation sales was due to a decline
+in sales of fluid mechanics instruments, partially offset by an increase in
+particle research instrument sales. This decrease is considered to be due to
+some shifting of government supported research along with timing of shipment
+dates on some orders. The Company has reduced expense levels and has added new
+products and enhancements to compensate for these shifts, and further declines
+in research sales are not expected.
+
+
+<TABLE>
+<CAPTION>
+[graph]
+NET SALES
+                                       1991       1992      1993      1994      1995
+(millions of dollars)                 $39.7      $40.3     $40.6     $44.0     $48.9
+
+<S>                                     <C>       <C>       <C>       <C>       <C>
+Environmental Instrumentation           46%       46%       50%       53%       59%
+
+Research/Analytical Instrumentation     38%       40%       36%       37%       30%
+
+Process Instrumentation                 16%       14%       14%       10%       11%
+</TABLE>
+
+
+[graph]
+R&D EXPENDITURES
+(percent of sales)
+
+     1991      1992      1993      1994      1995
+     14.0%     15.2%     14.4%     14.5%     14.7%
+
+[graph]
+INTERNATIONAL SALES
+(percent of sales)
+
+     1991      1992      1993      1994      1995
+     35%       40%       38%       31%       31%
+
+[graph]
+
+GROSS PROFIT MARGIN
+(percent of sales)
+
+     1991      1992      1993      1994      1995
+     69.2%     56.8%     56.4%     57.5%     58.4%
+
+[graph]
+
+SELLING & ADMINISTRATIVE EXPENDITURES
+(percent of sales)
+
+     1991      1992      1993      1994      1995
+     35.7%     36.0%     36.7%     34.3%     34.1%
+
+[graph]
+
+OPERATING INCOME
+(millions of dollars)
+
+     1991      1992      1993      1994      1995
+     $3.79     $2.27     $2.15     $3.86     $4.71
+
+
+
+The Company's international net sales increased 9 percent, or $1,265,000 to
+$14,965,000, which was 31 percent of sales in fiscal 1995 compared to
+$13,700,000, or 31 percent, in fiscal 1994 and $15,626,000, or 38 percent, in
+fiscal 1993. Domestic net sales increased 12 percent, or $3,659,000, during
+fiscal 1995. Higher international sales during fiscal 1995 came in the areas of
+environmental and process instruments.
+
+As the accompanying graph shows, the Company has a strong ongoing commitment to
+long-term growth through research and product development, which has continued
+to enhance product offerings in most of the Company's market niches during the
+past five years, and is expected to result in stronger sales growth in future
+years. 
+
+Sales to federal and state agencies, including defense, comprised 32 percent of
+the Company's net sales for fiscal 1995, compared with 29 and 19 percent for
+fiscal 1994 and 1993, respectively. This increase was primarily due to sales of
+respirator fit testers under the $8.6 million contract with the U.S. Army and
+Marines. Since sales to government agencies represent a significant portion of
+the Company's sales, it is important to consider the potential effects of
+changes in government spending. Due to the Company's diverse line of products,
+sales occur in a wide range of U.S. and state government agencies, so total
+government sales during the past several years, excluding the contract, have
+been quite stable as a percent of total sales. A higher percentage of government
+sales occurred during fiscal 1995 and 1994, because of shipments on the
+previously mentioned military contract. With that contract completed in January
+1995, sales to government agencies could return to a lower percentage of the
+total for fiscal 1996.
+
+GROSS PROFIT Gross Profit was $28,566,000 in fiscal 1995, or 58.4 percent of net
+sales, compared with $25,301,000, or 57.5 percent of net sales, in 1994 and
+$22,877,000, or 56.4 percent, in 1993. Over the past several years, the
+Company's gross profit rate has generally been in a range of about 57 to 60
+percent. In fiscal 1995, gross profit fell within the range, with some
+improvement due to several factors, including product mix variation and shipment
+volume resulting in manufacturing efficiencies.
+
+OPERATING EXPENSES Research and product development expenses were 14.7 percent
+of net sales in fiscal 1995 as compared to 14.5 percent for 1994 and 14.4
+percent in fiscal 1993. Historically, the Company's research and product
+development expenses have ranged from 12 to 15 percent of net sales. Fiscal 1996
+research and development expenses are expected to again be in this range as the
+Company continues a commitment to growth through new products in promising
+markets.
+
+Selling expenses were 26.4 percent of net sales in fiscal 1995, 26.1 percent in
+fiscal 1994 and 28.1 percent in fiscal 1993. Fiscal 1996 selling expenses, as a
+percentage of sales, are expected to be near fiscal 1995 levels.
+
+Administrative expenses decreased to 7.7 percent of net sales in fiscal 1995,
+from 8.1 and 8.6 percent in fiscal 1994 and 1993, respectively. The Company
+expects administrative costs to continue in a normal range of 7 to 9 percent.
+
+OTHER INCOME Other income totaled $409,000 in fiscal 1995, compared with
+$835,000 in 1994 and $969,000 in 1993. The major element of other income in
+fiscal 1995 was investment income, while the major factor in fiscal 1994 was the
+divestiture of the Company's product line for clean room monitoring. In fiscal
+1993, the major factor was the favorable resolution of litigation involving the
+Company's Domestic International Sales Corporation (DISC) (also see Note C on
+page 16 and Note G on page 18).
+
+PROVISION FOR INCOME TAXES The provision for income taxes was $1,691,000, or 33
+percent of pretax earnings in fiscal 1995. This compares to provisions of
+$1,500,000, or 32 percent of pretax earnings in fiscal 1994, and $770,000, or 25
+percent of pretax earnings in fiscal 1993. The fiscal 1993 provision was lower
+than the other years mainly because of the litigation settlement being
+excludable from taxable income (see "Other Income" discussion above). The fiscal
+1996 effective tax rate is expected to be in the range of 32 to 34 percent of
+pretax earnings, assuming no significant changes in the tax laws. See Note G on
+page 18 for additional information.
+
+[graph]
+
+NET EARNINGS*
+(millions of dollars)
+
+     1991      1992      1993      1994      1995
+     $2.66     $1.83     $2.34     $3.20     $3.43
+
+
+*Data are based on results from continuing operations, as applicable, for fiscal
+years prior to fiscal 1993.
+
+[graph]
+
+CURRENT RATIO
+
+     1991      1992      1993      1994      1995
+     3.19      3.95      3.62      3.81      3.89
+
+[graph]
+
+LONG-TERM DEBT-TO-EQUITY RATIO
+
+     1991      1992      1993      1994      1995
+     .051      .044        0         0         0
+
+
+NET EARNINGS Net earnings were $3,432,000, or $.65 per share, in fiscal 1995.
+This was an increase of 7.3 percent from $3,199,000, or $.62 per share, in 1994
+and $2,344,000, or $.45 per share in 1993.
+
+Both fiscal 1994 and 1993 were effected by one-time events as outlined under
+Other Income . If these events were removed, the net earnings would have been
+about $.53 per share in fiscal 1994 and about $.31 per share in fiscal 1993.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+CASH AND CASH EQUIVALENTS Cash and cash equivalents increased by $4,347,000
+during fiscal 1995 to $9,552,000 at March 31, 1995. The major factor in the
+increase was the cash generated by net earnings. Other significant contributions
+from operating activities were decreased receivables and depreciation and
+amortization. Other major items affecting cash and cash equivalents were
+$3,124,000 in capital additions, reduced by a $1,619,000 drop in current
+investments. Items are classified as investments rather than cash equivalents
+when maturities exceed three months. Capital additions were higher than prior
+years due to a building expansion.
+
+Net cash provided by operating activity
+totaled $5,841,000 in fiscal 1995, compared with $4,503,000 in fiscal 1994 and
+$3,553,000 in fiscal 1993.
+
+Management believes internally-generated funds and short-term borrowings on
+existing credit lines will provide adequate resources to support operations
+through fiscal 1996.
+
+CURRENT ASSETS AND LIABILITIES Accounts receivable decreased by $1,557,000 to
+$6,733,000 at March 31, 1995. This decrease corresponded with lower shipments in
+February and March of 1995 compared to 1994 when shipments were occurring under
+the major U.S. Army contract previously discussed. Also, the fiscal 1994 total
+included $500,000 to be received from the product line divestiture.
+
+Working capital rose $1,072,000 to $16,855,000 at March 31, 1995. The current
+ratio was 3.89 compared to 3.81 at the end of fiscal 1994.
+
+The Company has two short-term lines of credit totaling $2,500,000 and had no
+outstanding loans on either during fiscal 1995 or 1994. The Company had no
+long-term debt at March 31, 1995 or 1994.
+
+STOCK REPURCHASE As of March 31, 1995, the Company has authority to repurchase a
+total of 223,300 shares under plans previously approved by its Board of
+Directors. No shares were repurchased during fiscal 1995. There are no plans to
+acquire all or a portion of the authorized shares or to repurchase shares at any
+prescribed rate over time.
+
+ACQUISITION On May 1, 1995 the Company acquired the operating assets and
+business operations of Alnor Instrument Company (Alnor) of Skokie, Illinois, a
+maker of air flow, safety and indoor environmental monitoring instruments.
+
+Alnor, which had revenues of about $8.7 million and profitable operations in
+calendar year 1994, is continuing to operate in Illinois as a wholly owned
+subsidiary. Alnor fits into the Company's Environmental Instrumentation
+category, particularly enhancing market share in heating, ventilating and air
+conditioning applications for indoor environmental monitoring.
+
+The transaction was for a cash amount of about $4.5 million, net of cash
+acquired.
+
+
+IMPACT OF ACCOUNTING STANDARDS
+
+The Company was not required to nor chose to adopt any new accounting standard
+during fiscal 1995. No new accounting standards were issued during fiscal 1995
+that will have a significant impact on the Company.
+<TABLE>
+<CAPTION>
+
+STATEMENTS OF EARNINGS
+
+CONSOLIDATED STATEMENTS OF EARNINGS
+TSI Incorporated and Subsidiaries
+
+YEAR ENDED MARCH 31                                     1995              1994                1993
+<S>                                          <C>               <C>               <C>
+Net sales                                    $    48,902,605   $    43,978,899   $      40,589,082
+Cost of products sold                             20,336,422        18,678,155          17,712,128
+         GROSS PROFIT                             28,566,183        25,300,744          22,876,954
+Operating expenses
+ Research and product development                  7,195,547         6,360,384           5,846,778
+ Selling                                          12,907,365        11,494,774          11,409,139
+ Administrative                                    3,749,488         3,581,515           3,475,603
+                                                  23,852,400        21,436,673          20,731,520
+         OPERATING INCOME                          4,713,783         3,864,071           2,145,434
+Other income -- Note C                               409,296           835,022             968,869
+         EARNINGS BEFORE INCOME TAXES              5,123,079         4,699,093           3,114,303
+Provision for income taxes -- Note G               1,691,000         1,500,000             770,000
+         NET EARNINGS                        $     3,432,079   $     3,199,093   $       2,344,303
+EARNINGS PER COMMON SHARE                               $.65             $ .62               $ .45
+
+Weighted average number of shares for
+ computation of earnings per common share           5,308,170         5,182,163           5,266,442
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+QUARTERLY FINANCIAL INFORMATION
+TSI Incorporated and Subsidiaries (Unaudited)
+
+Following is a summary of unaudited quarterly results. Due to the nature of the
+weighted average number of shares calculation, the sum of earnings per share for
+the four fiscal 1994 quarters does not equal the fiscal 1994 total earnings per
+share amount (see Note D).
+
+<TABLE>
+<CAPTION>
+FISCAL 1995                                   1ST QTR           2ND QTR          3RD QTR           4TH QTR            TOTAL
+<S>                                       <C>               <C>              <C>               <C>              <C>
+NET SALES                                 $11,983,020       $12,159,348      $13,715,960       $11,044,277      $48,902,605
+GROSS PROFIT                                7,297,019         7,224,284        7,920,823         6,124,057       28,566,183
+NET EARNINGS                                  936,015           942,177        1,290,089           263,798        3,432,079
+   NET EARNINGS PER SHARE                         .18               .18              .24               .05              .65
+Fiscal 1994
+Net sales                                  $8,740,032       $11,322,778      $12,311,803       $11,604,286      $43,978,899
+Gross profit                                4,643,626         6,488,761        7,141,578         7,026,779       25,300,744
+Net earnings (loss)                          (322,958)          849,780        1,472,252         1,200,019        3,199,093
+   Net earnings (loss) per share                 (.06)              .17              .29               .23              .62
+</TABLE>
+
+
+BALANCE SHEETS
+
+
+<TABLE>
+<CAPTION>
+CONSOLIDATED BALANCE SHEETS
+TSI Incorporated and Subsidiaries
+
+MARCH 31                                                                    1995          1994
+ASSETS
+CURRENT ASSETS
+<S>                                                                  <C>           <C>
+  Cash and cash equivalents                                          $ 9,551,552   $ 5,204,501
+  Investments                                                               --       1,618,771
+  Accounts receivable, less allowance of
+    $142,000 and $183,000, respectively                                6,732,602     8,290,073
+  Prepaid expenses                                                       222,629       258,909
+  Inventories
+    Finished products                                                  1,699,460     1,422,634
+    Work-in-process                                                    1,124,753     1,182,136
+    Materials and supplies                                             3,349,073     3,417,209
+                                                                       6,173,286     6,021,979
+                        TOTAL CURRENT ASSETS                          22,680,069    21,394,233
+
+INTANGIBLES AND OTHER ASSETS
+  Goodwill, net of accumulated amortization
+   of $566,000 and $449,000, respectively                              1,726,915     1,843,172
+  Note receivable                                                        610,000          --
+  Deferred income tax benefit                                            289,073       119,130
+  Other assets                                                         1,389,129     1,001,777
+                                                                       4,015,117     2,964,079
+PROPERTY, PLANT AND EQUIPMENT
+  Land                                                                   128,503       259,730
+  Buildings                                                            1,039,070     1,039,070
+  Construction in progress                                             1,819,482          --
+  Machinery and equipment                                             12,310,360    11,591,237
+                                                                      15,297,415    12,890,037
+  Less allowance for depreciation                                      9,825,402     8,798,336
+                                                                       5,472,013     4,091,701
+                        TOTAL ASSETS                                 $32,167,199   $28,450,013
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+  Accounts payable and accrued expenses --  Note H                   $ 2,867,214   $ 2,709,996
+  Employee compensation                                                2,505,273     2,042,430
+  Taxes, other than income taxes                                         272,957       324,415
+  Income taxes payable                                                   179,998       534,022
+                        TOTAL CURRENT LIABILITIES                      5,825,442     5,610,863
+DEFERRED INCOME TAXES -- Note G                                             --            --
+                        TOTAL LIABILITIES                              5,825,442     5,610,863
+
+SHAREHOLDERS' EQUITY -- Notes D and E
+  Common shares, $.10 par value-authorized
+    8,000,000 shares, issued and
+    outstanding 1995--5,212,058 shares;
+    1994--5,108,581 shares                                               521,206       340,572
+  Additional paid-in capital                                           6,002,771     5,578,029
+  Retained earnings                                                   19,471,422    16,641,594
+  Equity adjustment from translation                                     346,358       278,955
+                        TOTAL SHAREHOLDERS' EQUITY                    26,341,757    22,839,150
+
+  Commitments and contingencies -- Note B
+                        TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY   $32,167,199   $28,450,013
+</TABLE>
+
+See notes to consolidated financial statements.
+
+<TABLE>
+<CAPTION>
+CASH FLOWS
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+TSI Incorporated and Subsidiaries
+
+YEAR ENDED MARCH 31                                                               1995           1994           1993
+OPERATING ACTIVITIES
+<S>                                                                        <C>            <C>            <C>
+  Net earnings                                                            $ 3,432,079    $ 3,199,093    $ 2,344,303
+  Adjustments to reconcile net earnings to net
+   cash provided by operating activities:
+    Provision for losses on accounts receivable                                40,696         49,934         (6,383)
+    Depreciation and amortization of property, plant and equipment          1,165,923      1,157,575      1,082,953
+    Amortization of goodwill                                                  116,257        116,257         59,999
+    (Gain) loss on sale of assets                                               1,286         (5,274)        (1,746)
+    Provision for deferred income taxes                                      (169,943)      (346,342)      (169,530)
+    Income tax benefit from stock plans                                        67,060         55,333         27,358
+    Changes in operating assets and liabilities:
+     Accounts receivable                                                    1,516,775        543,709     (1,176,324)
+     Prepaid expenses                                                          36,280        (47,545)       (10,901)
+     Income taxes receivable                                                     --             --           25,587
+     Inventories                                                             (151,307)      (908,808)       969,412
+     Other assets                                                            (387,352)       127,588        431,243
+     Accounts payable and accrued expenses                                    157,218         27,422       (337,017)
+     Employee compensation                                                    462,843        298,056        (11,518)
+     Taxes, other than income taxes                                           (51,458)        17,862        (48,082)
+     Current income taxes payable                                            (354,024)       168,621        365,401
+    Foreign currency transaction (gain) loss                                  (41,431)        49,035          8,190
+                        NET CASH PROVIDED BY OPERATING ACTIVITIES           5,840,902      4,502,516      3,552,945
+
+INVESTING ACTIVITIES
+  Decrease (increase) in current investments                                 1,618,771     (1,618,771)          --
+  Additions to property, plant and equipment                                (3,124,261)    (1,204,113)    (1,138,020)
+  Proceeds from disposal of property, plant and equipment                       23,610         56,715         30,551
+  Purchase of TRI, net of cash acquired                                           --             --         (510,049)
+                        NET CASH USED IN INVESTING ACTIVITIES               (1,481,880)    (2,766,169)    (1,617,518)
+
+FINANCING ACTIVITIES
+  Principal payments on long-term liabilities                                     --             --         (965,000)
+  Proceeds from stock options exercised                                        230,173        211,589         58,101
+  Proceeds from employee stock purchases                                       308,143        300,327        315,343
+  Dividends paid                                                              (602,251)      (543,931)      (554,339)
+  Purchases of common stock                                                       --         (744,937)    (2,498,900)
+                        NET CASH USED IN FINANCING ACTIVITIES                  (63,935)      (776,952)    (3,644,795)
+
+Effect of exchange rate changes on cash and cash equivalents                    51,964        (10,496)        12,977
+                        INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS     4,347,051        948,899     (1,696,391)
+
+Cash and cash equivalents at beginning of year                               5,204,501      4,255,602      5,951,993
+                        CASH AND CASH EQUIVALENTS AT END OF YEAR           $ 9,551,552    $ 5,204,501    $ 4,255,602
+
+Interest paid                                                              $    75,000    $     5,000    $   102,000
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+
+
+SHAREHOLDERS' EQUITY
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+TSI Incorporated and Subsidiaries
+<TABLE>
+<CAPTION>
+                                                                                                                           Equity
+                                                                                      Additional                         Adjustment
+                                                         Common Shares                  Paid-In         Retained            from
+                                                    Shares            Amount            Capital         Earnings         Translation
+
+<S>                                               <C>                <C>              <C>             <C>                  <C>      
+Balance March 31, 1992                            3,575,630          $ 357,563        $ 4,397,542     $ 14,937,552         $ 224,990
+   Net earnings for year ended March 31, 1993                                                            2,344,303
+   Cash dividends paid ($.107 per share)                                                                  (554,339)
+   Current year translation adjustment                                                                                        27,424
+   Stock issued in merger                            72,998              7,300            690,898
+   Employee stock purchases                          40,120              4,012            311,331
+   Stock options exercised                            8,250                825             57,276
+   Income tax benefit from stock plans                                                     27,358
+   Shares repurchased and retired                  (258,800)           (25,880)          (332,862)      (2,140,158)
+   Stock split adjustment                           (10,021)            (1,002)             1,002
+
+Balance March 31, 1993                            3,428,177            342,818          5,152,545       14,587,358           252,414
+   Net earnings for year ended March 31, 1994                                                            3,199,093
+   Cash dividends paid ($.107 per share)                                                                  (543,931)
+   Current year translation adjustment                                                                                        26,541
+   Employee stock purchases                          34,284              3,428            296,899
+   Stock options exercised                           32,760              3,276            208,313
+   Income tax benefit from stock plans                                                     55,333
+   Shares repurchased and retired                   (89,500)            (8,950)          (135,061)        (600,926)
+
+Balance March 31, 1994                            3,405,721            340,572          5,578,029       16,641,594           278,955
+   Net earnings for year ended March 31, 1995                                                            3,432,079
+   Cash dividends paid ($.120 per share)                                                                  (602,251)
+   Current year translation adjustment                                                                                        67,403
+   Employee stock purchases                          52,706              5,271           302,872
+   Stock options exercised                           42,979              4,298           225,875
+   Income tax benefit from stock plans                                                    67,060
+   Stock split adjustment--Note D                 1,710,652            171,065          (171,065)
+BALANCE MARCH 31, 1995                            5,212,058          $ 521,206       $ 6,002,771      $ 19,471,422         $ 346,358
+</TABLE>
+
+
+See notes to consolidated financial statements.
+
+
+NOTES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+TSI Incorporated and Subsidiaries March 31, 1995
+
+NOTE A -SIGNIFICANT ACCOUNTING POLICIES
+
+   PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include
+the accounts of TSI and its wholly-owned subsidiaries after elimination of
+significant intercompany accounts and transactions.
+
+   CASH EQUIVALENTS AND INVESTMENTS: Cash equivalents of $9,321,000 and
+$1,935,000 at March 31, 1995 and 1994, respectively, consist of short-term
+highly liquid investments with maturity periods of less than three months from
+date of purchase. Investments of $1,619,000 at March 31, 1994 consist of
+government securities with maturities between three and six months. These
+investments are carried at the lower of cost or market.
+
+   INVENTORIES: Inventories are valued at cost which is not in excess of market.
+Inventories valued under the last-in, first-out (LIFO) method were $4,702,000
+and $4,885,000 at March 31, 1995 and 1994, respectively. Inventories valued
+under the first-in, first-out (FIFO) method were $1,471,000 and $1,137,000 at
+March 31, 1995 and 1994, respectively. If the first-in, first-out (FIFO) method
+of inventory valuation had been used by the Company, inventories would have been
+approximately $1,661,000 and $1,720,000 higher than reported at March 31, 1995
+and 1994, respectively.
+
+   PROPERTY, PLANT AND EQUIPMENT: Property, plant and equipment is carried at
+cost. Expenditures for improvements that add materially to the productive
+capacity or extend the useful life of an asset are capitalized. Depreciation
+includes amortization of capitalized lease obligations on the Company's
+manufacturing plant and related components of equipment and fixtures, provided
+on the straight line method for book purposes. Depreciation on other machinery
+and equipment is provided using accelerated methods for the first half of the
+asset life and the straight line method for the second half of the asset life.
+
+   At March 31, 1995, the Company is constructing an addition to its building in
+Shoreview, Minnesota. A portion of the cost is being funded through Tax
+Increment Financing (TIF). The estimated portion to be funded through the TIF
+has been reflected as a note receivable offsetting the project costs.
+
+   INTANGIBLE ASSETS: Goodwill represents the excess of cost of businesses
+acquired over the fair market value of net tangible and identifiable intangible
+assets. The carrying value of goodwill is periodically evaluated based on
+forecasts of future operations. Goodwill and other intangible assets are being
+amortized on a straight line basis over periods of up to forty years.
+
+   REVENUE RECOGNITION: The Company recognizes sales when the product is shipped
+and revenue on research and development contracts using the
+percentage-of-completion method of accounting.
+
+   INCOME TAXES: The provision for income taxes is based on earnings before
+income taxes reported for financial statement purposes. Included in the
+provision are deferred taxes which result from transactions that are reported in
+different periods for financial statement and income tax purposes. The Company
+adopted the asset and liability method for computing its deferred taxes as
+specified by Financial Accounting Standard No. 109 (FAS 109) "Accounting for
+Income Taxes." Under the asset and liability method, deferred taxes are based on
+the difference between the financial statement and tax basis of assets and
+liabilities and the enacted tax rates that will be in effect when these
+differences reverse. Deferred tax expense represents the change in the deferred
+tax liability during the year.
+
+   EARNINGS PER COMMON SHARE: Earnings per common share is primary earnings per
+share, computed by dividing net earnings by the weighted average number of
+shares outstanding during the year, including any dilutive effect of shares
+issuable under terms of the stock option or the employee stock purchase plans.
+Primary and fully diluted earnings per share are substantially the same.
+Earnings per share data for fiscal 1994 and 1993 have been adjusted to reflect
+the stock split discussed in Note D.
+
+   FOREIGN CURRENCY: Foreign currency assets and liabilities are translated into
+U.S. dollars using the exchange rates in effect at the balance sheet date.
+Results of operations are generally translated using the average exchange rates
+in effect throughout the period. The effects of exchange rate fluctuations on
+translation of assets and liabilities are reported as an equity adjustment from
+translation in shareholders' equity.
+
+   Foreign currency transaction gains (losses) are included in other income as
+set forth in Note C.
+
+   The Company hedges foreign receivables and backlog against fluctuations in
+currency values. Hedge transactions involve the purchase of forward and option
+contracts for the delivery of foreign currencies in exchange for U.S. dollars at
+a future date which corresponds to the collection of the related receivables.
+Gains and losses on forward and option contracts and the related foreign
+receivables are recognized simultaneously in other income. Market value changes
+of forward and option contracts hedging backlog are deferred until the sale
+transaction is complete.
+
+   At March 31, 1995, the Company had outstanding forward contracts of
+$2,150,000 and had no outstanding option contracts. These contracts have
+maturity dates of less than a year. Deferred market value changes on forward
+contracts hedging backlog were not significant at March 31, 1995.
+
+
+NOTE B - LONG-TERM LIABILITIES AND LEASE COMMITMENTS
+
+   The Company paid the full balance on the industrial development revenue bonds
+and the 1979 loan and mortgage agreement during fiscal 1993. The Company leases
+office, plant facilities and equipment under operating leases ranging from two
+to ten years.
+
+   Rental expense for all operating leases was $394,000, $489,000 and $575,000
+in 1995, 1994 and 1993, respectively. Future minimum lease obligations each
+fiscal year under noncancelable operating leases are $348,000 in 1996, $156,000
+in 1997, $148,000 in 1998, $132,000 in 1999; all lease obligations will be
+fulfilled in 1999.
+
+   The Company has unsecured short-term lines of credit totaling $2,500,000
+available under two agreements. The interest rate on the $2,000,000 line is the
+lesser of either the reference rate or 1.15% over the Federal Funds rate. The
+rate on the $500,000 line of credit is the lesser of the reference rate or 1.50%
+over the Federal Funds rate. As of March 31, 1995 neither credit line had an
+outstanding balance, however, the total available funds were reduced by
+outstanding standby letters of credit totaling $291,000 issued against these two
+facilities. Additionally, the Company had contingent liabilities of $427,000 in
+the form of performance and foreign customs guarantees.
+
+NOTE C - OTHER INCOME
+
+<TABLE>
+<CAPTION>
+YEAR ENDED MARCH 31                                1995         1994         1993
+<S>                                           <C>          <C>          <C>
+Settlement--Note G                            $    --      $    --      $ 676,000
+Gain on disposal of product line                   --        704,000         --
+Provision for loss on long-term note               --       (167,000)        --
+Interest income                                 426,000      137,000      263,000
+Foreign currency transaction gains (losses)      (9,000)     (10,000)    (168,000)
+Other                                            (8,000)     171,000      198,000
+                                              $ 409,000    $ 835,000    $ 969,000
+</TABLE>
+
+
+   In December, 1993 the Company sold its microcontamination product line to
+Particle Measuring Systems (PMS), adding approximately $479,000 ($.09 per share)
+to fiscal 1994 net earnings. The Company has a five year agreement with PMS
+whereby it will continue to manufacture certain of these products.
+
+   Fiscal 1993 other income includes a settlement of approximately $676,000 from
+the resolution of litigation which the Company pursued following the Internal
+Revenue Service's disqualification of TSI's Domestic International Sales
+Corporation (see Note G). The total effect of this settlement on fiscal 1993
+earnings was approximately $710,000 ($.14 per share), net of income taxes.
+
+
+NOTE D - SHAREHOLDERS' EQUITY
+
+   On July 21, 1994, the Board of Directors declared a three-for-two stock split
+in the form of a stock dividend paid to shareholders of record on August 1,
+1995, distributed August 17, 1995. For each share issued in connection with the
+stock split, an amount equal to the par value of $.10 was transferred to the
+common shares amount from additional paid-in capital in fiscal 1995. This
+transfer is reflected in the Consolidated Statements of Shareholders' Equity.
+All other references in the financial statements and related notes to per share
+information, stock options, weighted average number of shares, as well as the
+number of common shares outstanding for all prior years presented, have been
+retroactively adjusted to reflect this stock split.
+
+NOTE E - STOCK OPTIONS AND STOCK PURCHASE PLAN
+
+   Stock options have been granted to employees, officers and directors under
+incentive stock option plans adopted in 1982, 1988, and 1992. No new options
+will be granted under the 1982 or 1988 plans. Under all plans, incentive stock
+options are generally granted at prices not less than fair market value at date
+of grant. Options granted under the 1982 and 1988 plans become exercisable 40%
+after two years and increase 20% per year until exercisable in full after five
+years. Options granted under the 1992 plan become exercisable one-third after
+one year and increase one-third per year until exercisable in full after three
+years. Stock options and shares reserved for grant are as follows (see Note D):
+
+<TABLE>
+<CAPTION>
+                                  1982 Plan             1988 Plan               1992 Plan
+
+                             Shares                 Shares                  Shares
+                            Available    Shares    Available   Shares      Available       Shares
+                            for Grant    Granted   for Grant   Granted     for Grant       Granted        Price Per Share
+<S>                             <C>      <C>       <C>         <C>          <C>            <C>           <C>  
+Balance March 31, 1992           --      80,438     42,525     294,975            --            --       $2.52  to  $7.25
+  Reserved                                         (45,525)                  150,000
+  Granted                                                                   (123,659)      123,659        2.77  to   6.59
+  Exercised                              (4,725)                (7,650)                                   3.86  to   6.00
+  Canceled                                 (675)               (13,125)                                   3.86  to   7.00
+Balance March 31, 1993           --      75,038     --         274,200        26,341       123,659
+  Reserved                                                                   102,845
+  Granted                                                                   (119,476)      119,476        5.33  to   8.59
+  Exercised                             (26,625)               (22,050)                       (465)       3.39  to   7.00
+  Canceled                               (3,375)               (22,875)        3,000        (3,000)       3.86  to   7.00
+Balance March 31, 1994           --      45,038     --         229,275        12,710       239,670
+  Reserved                                                                   102,172
+  Granted                                                                    (46,324)       46,324        8.58  to   9.00
+  Exercised                             (13,613)               (27,000)                    (10,266)       2.77  to   7.25
+  Canceled                                                      (5,925)        4,525        (4,525)       6.33  to   8.58
+BALANCE MARCH 31, 1995           --      31,425     --         196,350        73,083       271,203
+Exercisable:
+  March 31, 1994                         45,038                175,950                      71,603       $2.77  to  $7.25
+  March 31, 1995                         31,425                166,995                     158,893        2.77  to   8.67
+
+</TABLE>
+
+
+   On July 21, 1994, the Company adopted the Employee Stock Purchase Plan of
+1994. This Plan authorized the issuance of a total of 450,000 shares over the
+life of the Plan. Shares may be purchased at 85% of market value. As of March
+31, 1995, 390,257 shares remain reserved for grant and 59,743 shares are
+subscribed but unissued under this plan. There are no shares issued or
+subscribed under the Employee Stock Purchase Plan of 1987 adopted on July 16,
+1987. No further shares will be sold under the 1987 plan. An aggregate of
+1,022,061 shares are reserved for issuance under stock option and Employee Stock
+Purchase Plans.
+
+NOTE F - PROFIT SHARING PLAN
+
+   The Company has trusteed profit sharing and 401(k) plans which cover
+substantially all of its employees. The profit sharing plan calls for a minimum
+contribution of 4% in fiscal 1995 and 3% in fiscals 1994 and 1993 of credited
+compensation for all eligible participants so long as sufficient profits are
+generated in that year. In addition, if average return on assets exceeds 12%, an
+additional 15% of pretax profits above this level are paid to eligible
+participants. The expense relating to these plans, based on return on assets and
+credited compensation, was $1,104,000, $838,000 and $554,000 in 1995, 1994 and
+1993, respectively.
+
+
+NOTE G - INCOME TAXES
+
+<TABLE>
+<CAPTION>
+
+YEAR ENDED MARCH 31                                                                    1995              1994              1993
+<S>                                                                             <C>               <C>               <C>
+Provision for Income Taxes
+  Federal
+    Current                                                    $ 1,900,481       $ 1,666,342       $   861,080
+    Research and development credit                                (39,538)          (10,000)          (12,550)
+                                                                 1,860,943         1,656,342           848,530
+  Deferred (federal and state)                                    (169,943)         (346,342)         (169,530)
+  State                                                               --             190,000            91,000
+                                                               $ 1,691,000       $ 1,500,000       $   770,000
+Deferred Income Tax Provisions:
+    Depreciation                                               $   (55,487)      $   (45,824)      $      (419)
+    Inventory obsolescence                                         (15,722)          (78,282)           10,459
+    Safe harbor leases                                            (155,297)          (87,893)          (70,776)
+    Deferred research and development costs                         54,587             4,137            13,472
+    Reserve on note receivable                                        --             (87,164)          (70,781)
+    Net operating loss--foreign subsidiary                        (225,732)             --                --
+    Valuation allowance                                            225,732              --                --
+    Other                                                            1,976           (51,316)          (51,485)
+                                                               $  (169,943)      $  (346,342)      $  (169,530)
+Reconciliation of the Statutory Federal
+ Income Tax Rate to the Company's
+  Effective Tax Rate:
+    Statutory rate                                                    34.0%             34.0%             34.0%
+    Increase (decrease) resulting from:
+      State income tax, net of federal tax benefit                    --                 2.7               2.0
+      Foreign Sales Corporation tax exempt income                     (1.4)             (4.0)             (6.3)
+      Research and development credit                                  (.8)              (.6)              (.4)
+      Settlement of private civil litigation relating to the .
+        DISC disqualification                                         --                --                (8.5)
+      Net operating loss--foreign subsidiary                          (4.4)             --                --
+      Valuation allowance                                              4.4              --                --
+      Other                                                            1.2               (.2)              3.9
+                                  Effective Tax Rate                  33.0%             31.9%             24.7%
+
+Earnings Before Income Taxes:
+    Domestic                                                   $ 5,698,030       $ 3,901,855       $ 2,912,050
+    Foreign                                                       (574,951)          797,238           202,253
+                                                               $ 5,123,079       $ 4,699,093       $ 3,114,303
+
+                                  Income Taxes Paid
+                                   (net of refunds received)   $ 2,187,703       $ 1,633,378       $   506,829
+
+
+
+
+</TABLE>
+
+   As of March 31, 1995, the Company had a deferred tax benefit of $289,073,
+including such items as depreciation, inventory valuation adjustments, safe
+harbor leases, deferred research and development costs and vacation pay
+accruals.
+
+   The Internal Revenue Service (IRS) had disqualified the Company's Domestic
+International Sales Corporation (DISC) for fiscal years 1983, 1984 and 1985.
+Because of carryover computations, fiscal years 1981 through 1990 were affected
+by the disqualification. The Company unsuccessfully challenged the IRS's
+disqualification of the DISCthrough the Eighth Circuit Court of Appeals. As a
+result of the Court's action, in fiscal 1992 $1,030,000 was paid in taxes.
+
+   In March 1993, the Company settled private civil litigation relating to the
+disqualification of the DISC (see Note C).
+
+
+NOTE H - ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+YEAR ENDED MARCH 31                                   1994              1995
+
+Trade accounts payable                         $  1,259,089      $  1,704,276
+Deferred revenue                                     93,429            73,484
+Commissions and royalties payable                   635,705           457,133
+Other accounts payable and accrued expenses         721,773           632,321
+                                               $  2,709,996      $  2,867,214
+
+NOTE I - SEGMENT INFORMATION
+
+<TABLE>
+<CAPTION>
+
+YEAR ENDED MARCH 31                         1995                  1994                    1993
+
+<S>                                     <C>                  <C>                      <C>         
+Net Sales
+  Domestic operations
+    Unaffiliated domestic customers     $ 33,937,713         $ 30,278,773             $ 24,962,966
+    Unaffiliated foreign customers        12,415,020            9,763,496               10,836,159
+    Intercompany                           1,133,602            1,778,942                2,701,997
+                                          47,486,335           41,821,211               38,501,122
+
+  Foreign operations
+    Unaffiliated customers                 2,664,364            3,936,630                4,789,957
+    Intercompany                             400,426              660,442                  571,391
+                                           3,064,790            4,597,072                5,361,348
+  Eliminations                            (1,648,520)          (2,439,384)              (3,273,388)
+       Net Sales                        $ 48,902,605         $ 43,978,899             $ 40,589,082
+
+Net Earnings
+  Domestic operations                   $  6,496,066         $  5,549,945             $  4,446,180
+  Foreign operations                        (971,852)             (26,281)                (627,576)
+  Eliminations                              (401,135)            (824,571)                (704,301)
+       Earnings Before Income Taxes        5,123,079            4,699,093                3,114,303
+  Income taxes                            (1,691,000)           1,500,000                  770,000
+       Net Earnings                     $  3,432,079         $  3,199,093             $  2,344,303
+
+Assets
+  Domestic operations                   $ 35,993,803         $ 31,107,195             $ 26,887,489
+  Foreign operations                       2,603,633            2,515,474                2,937,409
+  Eliminations                            (6,430,237)          (5,172,656)              (4,163,649)
+       Total Assets                     $ 32,167,199         $ 28,450,013             $ 25,661,249
+
+</TABLE>
+
+   The Company's domestic operations export products to unaffiliated foreign
+customers in many countries, including exports to the Pacific Basin which
+represented approximately 14%, 12%, and 16% of net sales in 1995, 1994, and
+1993, respectively. The Company's foreign operations are located and primarily
+sell to unaffiliated customers in Western Europe. Intercompany sales are set at
+the standard price to unaffiliated customers less a discount based upon
+marketing effort.
+
+   Sales to educational, research and defense customers, which are heavily
+reliant on U.S. government funding, accounted for approximately 36%, 36% and 24%
+of net sales in 1995, 1994 and 1993, respectively. Sales directly to federal and
+state agencies, including defense, during the same three years were 32%, 29% and
+19% of net sales. 
+
+NOTE J - SUBSEQUENT EVENT
+
+   Effective May 1, 1995, the Company purchased the assets and liabilities of
+Alnor Instruments Company (Alnor) of Skokie, Illinois for cash. Alnor is a maker
+of airflow, safety and indoor environmental monitoring products. The acquisition
+will be accounted for by the purchase method of accounting. The following
+represent summary proforma unaudited results of operations for the twelve months
+ended March 31, 1995, for the combined operations.
+
+                                                 (UNAUDITED)
+
+   Sales                                         $57,555,605
+   Net earnings                                   $3,677,000
+   Earnings per share                                   $.69
+
+                                    REPORTS
+
+REPORT OF KPMG PEAT MARWICK LLP, INDEPENDENT AUDITORS
+
+The Board of Directors
+and Shareholders
+TSI Incorporated:
+
+   We have audited the accompanying consolidated balance sheets of TSI
+Incorporated and subsidiaries as of March 31, 1995 and 1994, and the related
+consolidated statements of earnings, cash flows and shareholders' equity for
+each of the years in the three-year period ended March 31, 1995. These
+consolidated financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+
+   We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+   In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of TSI
+Incorporated and subsidiaries as of March 31, 1995 and 1994, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended March 31, 1995 in conformity with generally accepted accounting
+principles.
+
+
+/s/ KPMG Peat Marwick LLP
+
+Minneapolis, Minnesota
+May 19, 1995
+
+
+
+MANAGEMENT'S REPORT
+
+   Management is responsible for the accuracy and objectivity of the data
+included in this report. The financial statements have been prepared in
+accordance with generally accepted accounting principles using management's best
+estimates and judgements where appropriate.
+
+   Established accounting procedures and related systems of internal control
+provide reasonable assurance that assets are protected, that the accounting
+books and records properly reflect all transactions, and that policies and
+procedures are implemented by qualified personnel.
+
+   The Audit Committee, composed of two members of the Board of Directors who
+are not employees of the Company, meets regularly with representatives of
+management and the independent auditors to monitor the functioning of the
+accounting and control systems and to review the results of the auditing
+activities. The Audit Committee recommends independent auditors for appointment
+by the Board. The independent auditors have full and free access to the Audit
+Committee.
+
+   The independent public accounting firm,KPMGPeat Marwick LLP, is retained to
+conduct an objective, independent audit of the
+financial statements.
+
+
+/s/ Lowell D. Nystrom
+Lowell D. Nystrom
+Vice President and
+Chief Financial Officer
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+
+
+                                   EXHIBIT 21
+                          SUBSIDIARIES OF THE COMPANY
+
+Company                    Jurisdiction                       Ownership
+- ----------------------------------------------------------------------
+
+
+Handar                     California                               100%
+
+TSI Foreign Sales          Barbados, West Indies                    100%
+ Corporation
+
+TSI France Inc.            Minnesota                                100%
+
+TSI GmbH                   Germany                                  100%
+
+TSI/TPM                    Minnesota                                100%
+
+Transducer Research Inc.   Minnesota                                100%
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<TEXT>
+
+
+
+
+                                   EXHIBIT 23
+                               AUDITORS' CONSENT
+
+The Board of Directors
+TSI Incorporated:
+
+We consent to incorporation by reference in Registration Statement No. 1-91697
+on Form S-8 filed with the Securities and Exchange Commission on June 14, 1984
+for the TSI Incorporated Incentive Stock Option Plan of 1982, Registration
+Statement No. 33-23247 on Form S-8, filed with the Security and Exchange
+Commission on July 25, 1988 for the TSI Incorporated Employee Stock Purchase
+Plan of 1987, Registration Statement No. 33-20627 on Form S-8 filed with the
+Securities and Exchange Commission on August 22, 1989 for the TSI Incorporated
+Stock Option Plan of 1988, Registration Statement No. 33-66194 on Form S-8,
+filed with the Securities and Exchange Commission on July 19, 1993 for the TSI
+Incorporated Stock Option Plan of 1992, and Registration Statement No. 33-86468
+on Form S-8, filed with the Securities and Exchange Commission on November 17,
+1994 for the TSI Incorporated Employee Stock Purchase Plan of 1994 of our report
+dated May 19, 1995, relating to the consolidated balance sheets of TSI
+Incorporated and subsidiaries as of March 31, 1995 and 1994 and the related
+consolidated statements of earnings, cash flows and shareholders' equity for
+each of the years in the three-year period ended March 31, 1995, which reports
+appear in or are incorporated by reference in the March 31, 1995 annual report
+on Form 10-K of TSI Incorporated.
+
+
+
+Minneapolis, Minnesota
+June 23, 1995
+                           /s/ KPMG Peat Marwick LLP
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+       
+<S>                                        <C>
+
+ 
+<PERIOD-TYPE>                              12-MOS
+<FISCAL-YEAR-END>                          MAR-31-1995
+<PERIOD-END>                               MAR-31-1995
+<CASH>                                       9,551,552
+<SECURITIES>                                         0
+<RECEIVABLES>                                6,874,602
+<ALLOWANCES>                                   142,000
+<INVENTORY>                                  6,173,286
+<CURRENT-ASSETS>                            22,680,069
+<PP&E>                                      15,297,415
+<DEPRECIATION>                               9,825,402
+<TOTAL-ASSETS>                              32,167,199
+<CURRENT-LIABILITIES>                        5,825,442
+<BONDS>                                              0
+<COMMON>                                       521,206
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                  25,820,551
+<TOTAL-LIABILITY-AND-EQUITY>                32,167,199
+<SALES>                                     48,902,605
+<TOTAL-REVENUES>                            48,902,605
+<CGS>                                       20,336,422
+<TOTAL-COSTS>                               23,852,400
+<OTHER-EXPENSES>                               409,296
+<LOSS-PROVISION>                                40,696
+<INTEREST-EXPENSE>                              74,845
+<INCOME-PRETAX>                              5,123,079
+<INCOME-TAX>                                 1,691,000
+<INCOME-CONTINUING>                          3,432,079
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 3,432,079
+<EPS-PRIMARY>                                      .65
+<EPS-DILUTED>                                      .64
+
+
+        
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

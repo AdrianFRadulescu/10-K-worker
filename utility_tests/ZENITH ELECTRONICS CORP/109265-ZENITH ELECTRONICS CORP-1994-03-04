@@ -1,0 +1,2916 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ TZd6KxrzZGNZdvraq5TfPeC7nyw16fher/KntIwrp4+E9JJcRzj7jciWSa6EaE1H
+ xYAgPXFvNaT+gfbyJDOslg==
+
+<IMS-DOCUMENT>0000912057-94-000789.txt : 19940307
+<IMS-HEADER>0000912057-94-000789.hdr.sgml : 19940307
+ACCESSION NUMBER:		0000912057-94-000789
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940304
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZENITH ELECTRONICS CORP
+		CENTRAL INDEX KEY:			0000109265
+		STANDARD INDUSTRIAL CLASSIFICATION:	3651
+		IRS NUMBER:				361996520
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-04115
+		FILM NUMBER:		94514633
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 MILWAUKEE AVE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		7083917000
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 MILWAUKEE AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZENITH RADIO CORP
+		DATE OF NAME CHANGE:	19840508
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+
+<PAGE>
+
+- -----------------------------------------------------------------------------
+
+                     UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                                Washington, D.C. 20549
+
+                                     FORM 10-K
+
+                      Annual Report Pursuant to Section 13 or 15(d)
+                         of the Securities Exchange Act of 1934
+
+For the Fiscal Year Ended December 31, 1993       Commission File Number 1-4115
+
+                            Zenith Electronics Corporation
+                (Exact name of registrant as specified in its charter)
+
+                  Delaware                                     36-1996520
+     (State or other jurisdiction of                       (I.R.S. Employer
+      incorporation or organization)                    Identification Number)
+
+1000 Milwaukee Avenue, Glenview, Illinois                         60025
+(Address of principal executive offices)                       (Zip code)
+
+            Registrant's telephone number, including area code (708)391-7000
+
+                Securities registered pursuant to Section 12(b) of the Act:
+
+    Title of each class           Name of each exchange on which registered
+    --------------------          ------------------------------------------
+   Common Stock, $1 par value,           New York Stock Exchange
+   and associated purchase rights        Chicago Stock Exchange
+                                         Basel, Geneva and Zurich, Switzerland
+                                         Stock Exchange
+
+   6 1/4 % Convertible Subordinated      New York Stock Exchange
+   Debentures, due 2011
+
+          Securities registered pursuant to Section 12(g) of the Act:  None
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation herein, and will not be contained, to the best of Registrant's
+knowledge, in definitive proxy statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.  X
+                                                          ---
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.    Yes  X    No
+                                         -----    -----
+
+The aggregate market value of the registrant's Common Stock held by
+non-affiliates based on the New York Stock Exchange closing price on
+February 8, 1994, was $342,334,305.
+
+As of February 8, 1994, there were 37,009,114 shares of Common Stock,
+par value $1 per share outstanding.
+
+                  Documents Incorporated by Reference
+
+Portions of the Registrant's definitive Proxy Statement are incorporated by
+reference into Part III of this report.
+
+- -----------------------------------------------------------------------------
+
+<PAGE>
+
+                        ZENITH ELECTRONICS CORPORATION
+
+                                 FORM 10-K
+
+                                   INDEX
+                                                                   Page
+                                                                  Number
+
+PART I
+
+    Item 1.  BUSINESS                                                3
+    Item 2.  PROPERTIES                                              5
+    Item 3.  LEGAL PROCEEDINGS                                       6
+    Item 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS     7
+
+PART II
+
+    Item 5.  MARKET FOR THE REGISTRANT'S COMMON
+                 STOCK AND RELATED STOCKHOLDER MATTERS               7
+    Item 6.  SELECTED FINANCIAL DATA                                 8
+    Item 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS       8
+    Item 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA            14
+    Item 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                 ON ACCOUNTING AND FINANCIAL DISCLOSURE             14
+
+PART III
+
+    Item 10. DIRECTORS AND EXECUTIVE OFFICERS
+                  OF THE REGISTRANT                                 14
+    Item 11. EXECUTIVE COMPENSATION                                 15
+    Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+                  OWNERS AND MANAGEMENT                             15
+    Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS         15
+
+PART IV
+
+    Item 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+                  AND REPORTS ON FORM 8-K                           15
+
+SIGNATURES                                                          21
+
+INDEX TO FINANCIAL STATEMENT SCHEDULES AND EXHIBITS                 23
+
+
+
+<PAGE>
+
+                                    PART I
+ITEM 1. BUSINESS
+
+  The company was founded in 1918 and has been a leader in consumer electronics,
+first in radio and later in monochrome and color television and other video
+products.  The company's operations involve a dominant industry segment,
+the design, development, and manufacture of video products (including color
+television sets and other consumer products) along with parts and accessories
+for such products. These products along with purchased video cassette recorders
+are sold principally to retail dealers and wholesale distributors in the
+United States, Canada and other foreign countries. Independently owned and
+operated distributors sell to retail dealers who, in turn, sell to consumers.
+The company sells directly to retail dealers, buying groups, private label
+customers and the lodging, health care and rent-to-own industries.
+  Also included in the company's video products business are color picture
+tubes that are produced for and sold to other manufacturers; video monitors
+which are primarily produced for and sold to computer manufacturers; and cable
+and subscription television products which are sold primarily to cable
+television operators.  The company also makes power supplies and high-security
+electronic equipment.
+   During 1993, the monochrome video monitor business was sold and the company
+reached an agreement (subject to certain contingencies) to sell the power supply
+business in early 1994.
+
+Raw Materials
+  Many materials, such as copper, plastic, steel, wood, glass, aluminum and
+zinc, are essential to the business.  The company experienced shortages in
+1993 of picture tube glass and certain other components. Shortages may
+possibly recur in 1994.
+
+Patents
+  The company is licensed under a number of patents which are of importance
+to its business, and holds numerous patents that expire at various times
+through 2010.  The company has patents and patent applications for numerous
+high-definition television (HDTV) related inventions. To the extent these
+inventions are incorporated into the HDTV standard adopted by the Federal
+Communications Commission, any royalties resulting from these patents would be
+pooled and shared with the other participants of the Grand Alliance formed in
+1993 by the company and other proponents of various HDTV systems. Non-HDTV
+applications of these patents could produce royalties which would accrue
+entirely to the company. In addition, major manufacturers of televisions and
+video cassette recorders agreed during 1992 to take licenses under some of
+the company's U.S. tuning system patents (the licenses expire in 2003).
+Based on 1993 U.S. industry unit sales levels and technology, more than
+$20 million in annual royalty income is expected.
+  While in the aggregate its patents and licenses are valuable, the business
+of the company is not materially dependent on them.
+
+Seasonal Variations in Business
+  Sales of the company's consumer electronics products are generally at a
+higher level during the second half of the year. Sales of consumer electronics
+products typically increase in the fall, as the summer vacation season ends
+and people spend more time indoors, with the new fall programming on the
+television networks, and during the Christmas holiday season. During 1993,
+1992 and 1991, approximately 54 percent, 56 percent and 56 percent,
+respectively, of the company's net sales were recorded in the second half
+of the year and approximately 30 percent of the company's net sales were
+recorded in the fourth quarter of each of the three years ended December
+31, 1993.
+
+Competitive Conditions
+  Competitive factors in North America include price, performance, quality,
+variety of products and features offered, marketing and sales capabilities,
+manufacturing costs, and service and support.  The company believes it
+competes well with respect to each of these factors.
+  The company's major product areas, including the color television market,
+are highly competitive. The company's major competitors are foreign-owned
+global giants, generally with greater worldwide television volume and
+overall resources. In efforts to increase market share or achieve higher
+production volumes, the company's competitors have aggressively lowered
+their selling prices in the past several years. Some of the company's
+foreign competitors have been capable of offsetting the effects of U.S.
+price reductions through sales at higher margins in their home markets and
+through direct governmental supports. During 1993, the company continued to
+pursue efforts to reduce unfair competition from television imports.
+
+Research and Development
+  During 1993, expenditures, net of outside funding, for company-sponsored
+engineering and research relating to new products and services and to
+improvements of existing products and services amounted to $47.8 million.
+Amounts expended in 1992 and 1991 were $55.4 million and $54.1 million,
+respectively.
+
+Environmental Issues
+  Compliance with Federal, State and local environmental protection provisions
+is not expected to have a material effect on capital expenditures, earnings or
+the competitive position of the company.  Further information regarding
+environmental compliance is set forth under Item 3 of this report.
+
+<PAGE>
+
+Number of Employees
+  At the end of December 1993, the company employed approximately 22,100 people,
+of whom approximately 15,600 are hourly workers covered by collective
+bargaining agreements.  Approximately 4,400 of the company's employees are
+located in the Chicago, Illinois area, of whom approximately 2,800 are
+represented by unions.  Approximately 16,700 of the company's employees are
+located in Mexico, of whom approximately 12,400 are represented by unions.
+Mexican labor contracts expire every two years and wages are renegotiated
+annually. The company believes that its relations with its employees are good.
+
+Financial Information about Foreign and Domestic Operations and Export Sales
+  The North American Free Trade Agreement (NAFTA), which took effect on
+January 1, 1994, will significantly reduce duty costs in 1994 and beyond.
+This should improve the company's ability to compete against Asian imports
+in North America and is expected to increase sales of the company's color
+television receivers in Mexico and Canada and color picture tube production
+in the U.S. Since the passage of the NAFTA, the company has added more than
+300 U.S. jobs that are directly related to increased demand for U.S. picture
+tubes.
+  Information regarding foreign operations is included in "Note Five -
+Geographic Segment Data" on page 36 of this report.  Export sales are less
+than 10% of consolidated net sales.
+  The company's product lines are dependent on the continuing operations of
+the company's manufacturing and assembly facilities located in Mexico.
+
+ITEM 2. PROPERTIES
+
+  The company utilizes a total of approximately 6.7 million square feet for
+manufacturing, warehousing, engineering and research, administration and
+distribution, as described below. In addition, the company owns 95 acres of
+vacant land adjacent to its Glenview, Illinois headquarters, which is
+available for sale.
+
+
+                                                                Square Feet
+    Location                   Nature of Operation             (in millions)
+- -------------------     -------------------------------------   ------------
+Domestic:
+- -------------------
+Chicago, Illinois       Six  locations - production of color        2.7 (1)
+(including suburban     picture tubes; parts and service; engi-
+ locations)             neering and research, marketing and
+                        administration activities; and assembly
+                        of electronic components
+
+Springfield, Missouri   Production of plastic cabinets for          1.0 (2)
+                        color television and other plastic
+                        parts; and warehouses and
+                        distribution
+
+McAllen, El Paso and    Four locations - warehouses                  .2
+ Brownsville, Texas;
+ Douglas, Arizona
+
+Various                 Nine locations - domestic distribution       .2
+
+Foreign:
+- -------------------
+Mexico                 Fourteen manufacturing and warehouse         2.4 (3)
+                       locations - sub-assembly production
+                       of television chassis, tuners, wooden
+                       television cabinets and other components
+                       and final assembly of color television,
+                       color video monitors and cable products;
+                       and assembly of power supplies
+
+Canada                 Three locations - distribution of             .2
+                       consumer electronics products
+
+Taiwan                 One location - purchasing office               -
+                                                                   -------
+             Total                                                  6.7
+                                                                   =======
+
+(1) The company owns a 500,000 square foot warehouse in Northlake, Illinois
+of which 100,000 square feet is used for storage (included in the above table)
+with the remainder leased to another company (not included in the above table).
+A contract is currently pending to sell the entire facility to this lessee and
+to thereafter vacate that portion currently occupied by the company.
+
+(2) The company owns a 400,000 square foot warehouse in Springfield, Missouri
+which is being leased to another company and as such is not included in the
+above table. A contract is currently pending to sell the entire 1.7 million
+square foot facility to this lessee and to leaseback that portion the company
+is currently utilizing. The company expects to vacate this space by mid - 1995.
+
+(3) The company owns, and has offered for sale or lease, 230,000 square feet of
+manufacturing and warehousing space in Chihuahua, Mexico.  Currently this
+space is not being utilized by the company and as such is not included in the
+above table.
+
+  The company's facilities are suitable and adequate to meet current and
+anticipated requirements.  Substantially all of the total square footage
+of property used is owned by the company.
+
+<PAGE>
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+The company is involved in various legal actions, environmental matters,
+patent claims, and other proceedings relating to a wide range of matters
+that are incidental to the conduct of its business. The company believes,
+after reviewing such matters with the company's counsel, that any liability
+which may ultimately be incurred with respect to these matters is not
+expected to have a material effect on either the company's consolidated
+financial position or results of operations.
+  The company and other potentially responsible parties have completed
+negotiations with the United States and the State of Indiana with respect to
+settlement of certain natural resources claims for environmental damage that
+were not disposed of in settlement of the so-called Midco environmental
+litigation at Gary, Indiana.  On March 26, 1993, the company signed the
+Amendment to Consent Decree and the Midco Natural Resources Participation
+Agreement.  The company's share of the settlement  was approximately
+$100,000 which was paid during 1993.
+  On April 27, 1993, the U.S. Environmental Protection Agency sent written
+notices to all potentially responsible parties, advising the parties of the
+EPA's proposed plan of remediation at the American Chemical Services
+site near Griffith, Indiana.  The EPA notified the parties that they
+would be expected to make a good faith offer to perform the remedial action
+and thereafter to negotiate and enter into a consent decree with the agency.
+The EPA estimates that the cost of remedial action could range from $38 to
+$64 million, depending upon the type of remedy actually needed to effect the
+cleanup.  The company is alleged to have contributed less than one-tenth
+of one percent of the hazardous waste identified at the site.  The company
+and other de minimus waste generators intend to seek a separate de minimus
+settlement with the EPA.
+  In October 1989, the EPA filed a civil action against certain generator and
+owner/operator defendants under CERCLA seeking reimbursement for its response
+costs in connection with an environmental cleanup at a site located at
+Collegeville, Pennsylvania.  One of the original defendants to the EPA case
+brought a third party action for contribution against a number of third party
+defendants, including Ford Electronics and Refrigeration Corporation
+("FERCO").  FERCO is now seeking $600,000 in contribution from the company
+on the ground that FERCO is being held liable in part because it hauled
+certain waste from the company's former Lansdale, Pennsylvania picture
+tube plant.  The claim is now under investigation.
+  Numerous lawsuits against major computer and peripheral equipment
+manufacturers are pending in the U.S. District Court, Eastern District of
+New York, the U.S. District Court of New Jersey as well as in the New
+York State courts.  These lawsuits seek several billion dollars in damages
+from various defendants for repetitive stress injuries claimed to have
+been caused by the use of word processor equipment.  The company has been
+named as a defendant in sixteen of these cases which relate to keyboards
+allegedly manufactured by the company for its former subsidiary, Zenith Data
+Systems Corporation.  Plaintiffs in the company's cases seek to recover
+$22 million actual and $230 million punitive damages from the company.
+The company believes it has meritorious defenses to the cases.
+  In April, 1993, a group of 47 plaintiffs, individually and on behalf of
+certain minors and decedents, filed suit in the District Court of Cameron
+County, Texas against 130 defendants, including the company's subsidiaries,
+Zenith Electronics Corporation of Texas and Electro Partes de Matamoros,
+S.A. de C.V., alleging that plaintiffs suffered injuries or death as a result
+of defendants' negligence, negligent design for and implemented practices of
+managing, handling, storage, transportation, utilization and disposal of
+toxic compounds.  Plaintiffs seek judgment for actual and exemplary damages
+against defendants, jointly and severally, in an unspecified amount.  The
+company's two subsidiaries filed answers denying the material allegations
+of the complaint.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+  No matter was submitted to a vote of security holders during the fourth
+quarter of 1993, through the solicitation of proxies or otherwise.
+
+<PAGE>
+
+                                   PART II
+
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND
+         RELATED STOCKHOLDER MATTERS
+
+  The New York Stock Exchange is the principal United States market in which
+the company's common stock is traded.  The number of stockholders of record
+was 16,636 as of February 18, 1994.  No dividends were paid to stockholders
+during the two years ended December 31, 1993.
+
+ The high and low price range by quarter for the past two years is listed
+below:
+
+<TABLE>
+<CAPTION>
+
+ Quarter Ended             High         Low
+- -----------------         ------       ------
+<S>                       <C>          <C>
+March 28, 1992            11-1/8       7-1/4
+June 27, 1992              9-3/8       6-3/4
+September 26, 1992         8           6-1/8
+December 31, 1992          7           5
+
+April 3, 1993              8-3/8       5-7/8
+July 3, 1993              10-1/2       6-1/2
+October 2, 1993            8-3/8       6-1/4
+December 31, 1993          8-1/8       6-1/4
+
+</TABLE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Five-Year Summary of Selected Financial Data
+
+<TABLE>
+<CAPTION>
+
+In millions, except
+per share amounts                  1993      1992      1991      1990      1989
+- -------------------------------------------------------------------------------
+<S>                            <C>       <C>       <C>       <C>       <C>
+Results of operations:
+ Net sales.................... $1,228.2  $1,243.5  $1,321.6  $1,409.9  $1,548.9
+ Pre-tax income (loss)
+   from continuing operations.    (97.0)   (121.8)    (51.4)    (53.3)    (14.8)
+ Income (loss) from
+   continuing operations...... $  (97.0) $ (105.9)  $ (51.6) $  (54.2)  $ (15.0)
+ Income (loss) from
+   discontinued operations....       -         -         -      (11.0)    (51.4)
+                               --------  --------   -------  --------   -------
+
+     Net income (loss).......  $  (97.0) $ (105.9)  $ (51.6) $  (65.2)  $ (66.4)
+                               ================================================
+Financial position:
+ Total assets................  $  559.4  $  578.6   $ 686.9  $  722.7   $ 920.7
+ Long-term debt..............     170.0     149.5     149.5     151.1     150.9
+ Stockholders' equity........     152.4     210.1     308.8     345.9     404.5
+
+Per share of common stock
+ (primary and fully diluted):
+ Income (loss) from
+   continuing operations.....  $(3.01)   $(3.59)    $(1.79)  $(2.02)    $ (.56)
+ Income (loss) from
+   discontinued operations...     -         -           -      (.41)     (1.92)
+                               ------------------------------------------------
+ Net income (loss)...........  $(3.01)   $(3.59)    $(1.79)  $(2.43)    $(2.48)
+                               ================================================
+
+Book value per share.........  $ 4.25    $ 6.94     $10.60   $12.49     $15.14
+
+</TABLE>
+
+<PAGE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS
+
+Analysis of Operations
+
+<TABLE>
+<CAPTION>
+                                                          Year-to-Year Changes
+In Millions                      Year-Ended December 31       Better/(Worse)
+- --------------------------------------------------------------------------------
+                                                            1993      1992
+                                  1993    1992    1991    vs. 1992  vs. 1991
+- --------------------------------------------------------------------------------
+<S>                              <C>     <C>     <C>      <C>       <C>
+Operating income (loss) before
+ restructuring and other charges $(51)   $(61)   $(42)       $10      $(19)
+
+Restructuring and other charges   (31)    (48)      -         17       (48)
+                                ------------------------------------------------
+   Operating income (loss)        (82)   (109)    (42)        27       (67)
+
+Interest expense, net, and other  (15)    (13)     (9)        (2)       (4)
+                                ------------------------------------------------
+   Income (loss) before
+      income taxes                (97)   (122)    (51)        25       (71)
+
+Income taxes (credit)               -     (16)      -        (16)       16
+                                ------------------------------------------------
+   Net income (loss)             $(97)  $(106)   $(51)      $  9      $(55)
+                                ================================================
+
+</TABLE>
+
+Operating Results -- 1993 vs. 1992
+
+The operating loss before special charges for restructuring and other
+actions was $51 million in 1993 and $61 million in 1992.
+   Consolidated sales in 1993 were $1,228 million, down 1% from $1,244
+million in 1992.  The decline was principally due to lower sales in the
+noncore product areas and lower consumer product pricing, largely offset by
+higher unit volume in the consumer product line.
+   The effect on operating results of unit volume increases in consumer
+products was offset by volume declines in the non-core product areas.
+Substantial cost reductions in all product areas of about $75 million
+resulted from process and design improvements, consolidation of operations
+in Mexico, headcount reductions and other operating changes. These
+cost reductions were offset by $42 million in consumer products price
+reductions that had been implemented throughout 1992 and early 1993,
+and $20 million of inflationary cost increases, primarily labor
+costs in Mexico.
+   Despite the adverse impact of an industry glass shortage, industry color
+TV unit sales to dealers rose 11 percent in 1993 (following an 11 percent
+increase in 1992) to set a new record.  Zenith's unit sales increase outpaced
+the industry growth, leading to an increase in market share.  While industry
+unit sales to dealers of video cassette recorder decks remained about equal
+to 1992, Zenith's volume increased.
+   Unit sales of color picture tubes to other TV manufacturers decreased
+in 1993 because the company used more of its capacity to support increased
+sales of Zenith color TVs and because of an industry glass shortage,
+which also adversely impacted  Zenith color TV sales.  Additional picture
+tube capacity became available in late 1993 when the dedicated FTM tube
+production line was converted to be able to produce both television and
+monitor picture tubes.
+   Operating results were improved by the full year effect of certain
+manufacturing operations that were consolidated in Mexico during 1992,
+as well as continued efforts to reduce headcounts and  product costs.
+These programs, together with new manufacturing process improvements
+that were initiated in late 1993, should have a positive effect on 1994
+operations.
+   Sales of cable products declined in 1993 as a new product for a major
+contract manufacturing customer was delayed. However, due to major cost
+savings associated with headcount reductions and consolidations of
+manufacturing operations, operating results improved compared to 1992.
+   Sales of other products decreased in 1993 as Zenith downsized its non-
+core magnetics and monitor product areas.  However, the cost structures
+of these areas were improved so that operating results in 1993 were
+somewhat better than 1992.  During the year, the monochrome monitor
+business was sold (production ended in early 1994) and the company
+reached an agreement (subject to certain contingencies) to sell the
+power supply business in early 1994.  Operating results in 1994 should
+benefit from these actions.
+   Engineering and research expenses were $48 million in 1993, compared
+to $55 million in 1992, with reductions principally in non-core product
+areas. Selling, general, and administrative expenses declined slightly to $93
+million in 1993 from $94 million.  These improvements were primarily the
+result of headcount reductions initiated in late 1992.
+   Other operating income (net) increased to $25 million from $24 million in
+1993, as a result of increased royalty income from new licensing activities.
+Royalty income arising from licensing of Zenith patented tuning-system
+technology to other color TV and VCR manufacturers was about $26 million
+in both 1993 and 1992 and is included in Other operating income (net).
+Based on 1993 U.S. industry unit sales levels and technology, more than
+$20 million in annual royalty income is expected.
+   Interest expense (net) of $15 million in 1993 was higher than 1992's
+$13 million as a result of increased average borrowings.
+   The income tax credit in 1992 consisted principally of the reversal of
+previously accrued tax reserves no longer required in connection with
+earnings of a foreign subsidiary, and net operating loss carryback
+applications.
+
+<PAGE>
+
+Operating Results - 1992 vs. 1991
+
+The operating loss before special charges for restructuring and other
+actions was $61 million in 1992, compared with $42 million in 1991.
+   Consolidated sales in 1992 were $1,244 million, down 6% from $1,322
+million in 1991. The decline was principally due to price reductions and
+lower unit shipments of consumer electronics products.
+   Cost reductions of about $50 million in 1992 were more than offset by
+the price reductions and lower consumer electronics unit sales volumes, by
+sales declines in other categories, and by the effect of increases in the
+costs of labor, material and services.
+   After two years of declines (approximately 4 percent in both 1990 and
+1991), industry color TV unit sales to dealers rose 11 percent in 1992 to a
+new record level.  However, unit shipments of Zenith color TVs declined in
+1992, principally as a result of delayed responses to price reductions
+initiated by competitors during the year.  Pricing declined by $21 million in
+1992, compared with 1991.
+   Industry sales to dealers of video cassette recorder products increased
+in 1992.  Zenith shipments declined, partially as a result of the company's
+planned phaseout of camcorders due to inadequate margins.
+   Zenith unit sales of color picture tubes to other TV manufacturers
+increased in 1992 as the domestic industry increased.
+   The benefits of transferring certain consumer electronics manufacturing
+operations to Mexico began to be realized in 1992, but were offset in part
+by startup costs.
+   Sales and operating results for cable products declined in 1992 due to
+the continuing deferral of equipment purchases by U.S. cable operators.
+   Computer monitor sales increased in 1992, compared with 1991, but
+operating results were adversely affected by costly new-product start-up
+and by costs associated with moving monochrome monitor operations from
+Taiwan to Mexico.
+   Sales of other products declined in 1992 from the prior year, primarily
+due to reduced lighting products requirements by a customer and the
+phasing out of several low-margin products.
+   Selling, general and administrative expenses declined to $94 million in
+1992 from $101 million in 1991 as a result of reduced compensation and
+other costs.  Engineering and research expenses were $55 million in 1992,
+compared with $54 million in 1991.
+   Other operating income (net) increased sharply to $24 million in 1992
+from $0.5 expense in 1991, principally as a result of $26 million of royalty
+income arising from licensing of Zenith patented tuning-system technology
+to other color TV and VCR manufacturers.
+   Interest expense (net) of $13 million in 1992 was higher than 1991's $9
+million as a result of increased average borrowings.
+   The income tax credit in 1992 consisted principally of the reversal of
+previously accrued tax reserves no longer required in connection with
+earnings of a foreign subsidiary, and net operating loss carryback
+applications.
+   Operating results for 1991 include a gain on the sale of Zenith's Taiwan
+monochrome monitor plant which was offset by restructuring charges
+related to the consolidations of color TV and monitor assembly operations
+in Mexico.
+
+Restructuring and Other Charges
+
+   In the fourth quarter of 1993, the company initiated major restructuring,
+re-engineering and other actions designed to reduce ongoing operating
+expenses and to revalue certain assets.  Special charges for these
+actions were $31 million.
+   The computer monitor and magnetics product areas were restructured
+in order to downsize  production capacity to be more in line with expected
+reduced levels of business. The charge includes the anticipated expenses
+of the major efforts to re-engineer processes in all areas of the core
+business's operations. Major elements of this charge were the non-cash
+writedown of fixed assets and inventory ($23 million) as well as
+re-engineering and severance costs ($6 million) to be paid during 1994
+and early 1995.  The restructuring actions are expected to reduce 1994
+operating expenses including reduced compensation expense of about $10
+million and reduced depreciation of about $4 million.
+   The 1992 results also included special charges for restructuring and
+other actions of $48 million.  Included in the actions were manufacturing
+consolidations and related employment reductions in Mexico; consolidation
+of company-owned distribution; and salaried employment reductions
+throughout the company.  In addition to valuation reserves for inventories
+and manufacturing equipment ($22 million) and severance and relocation
+costs ($18 million) of which $11 million was paid in 1993, the special
+charges also provided for trade-receivable write-offs ($6 million).
+
+Liquidity and Capital Resources
+
+Following is a three-year summary of cash provided and used:
+
+<TABLE>
+<CAPTION>
+                                           Cash Provided (Used)
+                                  ----------------------------------------
+                                                 Year Ended December 31
+                                   Three-Year   -------------------------
+In millions                           Total        1993    1992    1991
+- ---------------------------------------------------------------------------
+<S>                               <C>           <C>        <C>     <C>
+Cash at beginning of period           $ 56         $  6    $ 36    $ 56
+
+Operating Activities                   (53)         (28)    (16)     (9)
+
+Investing Activities                   (75)         (26)    (25)    (24)
+
+Financing Activities                    93           69      11      13
+                                      -------------------------------------
+Cash at end of period                 $ 21         $ 21    $  6    $ 36
+                                      =====================================
+
+</TABLE>
+
+<PAGE>
+
+Liquidity
+Cash decreased $35 million during the three year period of 1991-1993. The
+decrease consisted of $53 million of cash used by operating activities and
+$75 million , net , used to purchase fixed assets. These uses of cash were
+offset by $93 million of cash provided from financing activities which
+included the issuance of  long-term debt and sales of the company's
+common stock.
+   Operating activities:  In 1993, $28 million of  cash was used by
+operating activities mainly to fund $45 million of net losses from operations
+as adjusted for depreciation and fixed asset write downs as a part of
+restructuring and other charges. A decrease in current accounts provided
+$3 million of cash and was composed of a $15 million decrease in
+receivables offset by a $8 million increase in inventories and a $4 million
+decrease in accounts payable and accrued expenses.  The decrease in
+receivables was due to lower sales. Also, the company  reduced cash used
+by operating activities by issuing common stock to the profit-sharing
+retirement plans to fulfill  both the 1992 obligation to salaried employees
+and the 1993 obligation to salaried  employees and a portion of the hourly
+employees. These issuances increased stockholders' equity by $15 million.
+   In 1992, $16 million of cash was used by operating activities mainly to
+fund $64 million of net losses from operations as adjusted for depreciation,
+fixed asset write downs as a part of a restructuring and a loss on the
+disposition of properties. This was offset by cash provided from a $41
+million decrease in current accounts composed of a $39 million decrease in
+inventories and a  $21 million decrease in receivables, offset by a $15
+million decrease in net income taxes payable and a $4 million decrease in
+accounts payable and accrued expenses. Also, the company reduced cash
+used by operating activities by issuing common stock to the profit-sharing
+retirement plan to fulfill the 1991 obligation to salaried employees,
+increasing stockholders' equity by $6 million.
+   In 1991, $9 million of cash was used by operating activities mainly to
+fund $23 million of net losses from operations, as adjusted for depreciation
+and a gain on the sale of properties. This was offset by cash provided from
+a $13 million decrease in current accounts which consisted mainly of a $12
+million decrease in inventories.
+   Investing activities:  In 1993, investing activities used $26 million of
+cash  for capital additions. In 1992, $25 million of cash was used which
+consisted of capital additions of $32 million offset by $7 million of
+proceeds from a 1991 property sale. In 1991, $24 million of cash was used
+which consisted of capital additions of $37 million offset by $13 million of
+proceeds from property sales.
+   Financing activities:  In  1993, financing activities provided $69 million
+of cash which included $55 million provided from the sale of  8.5% senior
+subordinated convertible debentures and $24 million provided from sales of
+the company's common stock (including option exercises). This was offset
+by $10 million of cash used to repay  borrowings under the company's
+working capital Credit Agreement with a lending group led by General
+Electric Capital Corporation (the "Credit Agreement"). In 1992, financing
+activities provided $11 million of cash which included $10 million provided
+from borrowings under the company's revolving credit and security agreement
+and $1 million provided from the exercise of stock options. In 1991,
+financing activities provided $13 million of cash which included $15
+million provided from the sale of common stock to GoldStar Co. Ltd.,
+offset by $2 million used to repurchase a portion of the 12 1/8% notes
+in a private transaction.
+
+Capital Resources
+As of December 31, 1993, total interest-bearing obligations of the company
+consisted of $170 million of long-term debt , $35 million of long-term debt
+classified as current and $9 million of extended-term payables with a
+foreign supplier.  The company's long-term debt is composed of $115
+million of convertible subordinated debentures due 2011 that require
+annual sinking fund payments of $6 million beginning in 1997 and $55
+million aggregate principal amount of 8.5% senior subordinated convertible
+debentures due 2000 that were issued and sold during 1993 in a private
+placement.  The $35 million of long-term debt classified as current
+represents notes due January 1995 that were redeemed by the company in
+January 1994.
+   In May 1993, the company entered into the Credit Agreement. The
+maximum commitment for funds available for borrowing under the Credit
+Agreement is $90 million, but is defined by a defined borrowing base
+formula related to eligible accounts receivable and inventory. The company
+used the initial  advance under the agreement to repay all amounts
+outstanding under its former bank agreement, which was simultaneously
+terminated. The Credit Agreement contains restrictive financial covenants
+that must be maintained as of the end of each fiscal quarter, including a
+liabilities to net worth ratio and a minimum net worth amount. As a
+result of the company's  fourth quarter 1993 restructuring charge of $31
+million the agreement was amended in January 1994 to relax these financial
+covenants as of December 31, 1993.  The Credit Agreement terminates on
+December 31, 1994 (unless extended by agreement of the lenders), at which
+time all outstanding indebtedness under the agreement would have to be
+refinanced. There can be no assurance that the Credit Agreement will be
+extended or refinanced. As of December 31, 1993, no borrowings were
+outstanding under the Credit Agreement in keeping with the seasonal
+nature of the company's working capital needs.
+   A Registration Statement filed with the Securities and Exchange
+Commission covering 5 million shares of common stock became effective
+in May 1993. During 1993, the company sold approximately 3.4 million
+shares of authorized but unissued shares of common stock to investors
+under this shelf registration for approximately $23 million, net of expenses.
+
+<PAGE>
+
+  Subsequent to December 31, 1993, the company sold the remaining
+shares available under the shelf registration. Thereafter, in order to take
+advantage of favorable market conditions, the company determined to file
+another Registration Statement with the Securities and Exchange
+Commission covering an additional 2 million shares of common stock. The
+new Registration Statement became effective in February 1994, and the
+company subsequently sold the 2 million shares registered thereunder to
+investors on the open market. The 1994 common stock sales under both
+registration statements generated approximately $34 million, net of
+expenses. On March 1, 1994, the company announced its intention to file
+a Registration Statement for 5 million shares of the company's common
+stock to be sold by means of a prospectus. In addition, during January
+1994, the company issued and sold $12 million aggregate principal
+amount of 8.5% senior subordinated convertible debentures due 2001
+(similar to the $55 million sold during 1993) in a private placement
+and, as indicated above, also redeemed the $35 million of notes due
+January 1995 at a redemption price equal to par value plus accrued interest.
+   Although the company believes that the Credit Agreement, together with
+extended-term payables expected to be available from a foreign supplier
+and its continuing efforts to obtain other financing sources, will be
+adequate to meet its seasonal working capital and other needs in 1994,
+there can be no assurance that the company will not experience liquidity
+problems in the future because of adverse market conditions or other
+unfavorable events. In such event, the company would be required to seek
+other sources of liquidity, if available.
+
+Outlook
+
+   The company's major product areas,  including the color television
+market, are highly competitive.  The company's major competitors are
+foreign-owned global giants, generally with greater worldwide television
+volume and overall resources.  In efforts to increase market share or
+achieve higher production volumes, the company's competitors have
+aggressively lowered their selling prices in the past several years.
+Some of the company's foreign competitors have been capable of offsetting
+the effects of U.S. price reductions through sales at higher margins
+in their home markets and through direct governmental supports. There
+can be no assurance that such competition will not continue to adversely
+affect the company's performance or that the company will be able to
+maintain its market share in the face of such competition. Price
+competition continued in the first quarter of 1994, and the company selectively
+reduced color television prices to maintain its historical competitive
+price position.
+   The North American Free Trade Agreement (NAFTA), which took effect on
+January 1, 1994, will significantly reduce duty costs in 1994 and beyond.
+This should improve the company's ability to compete against Asian imports
+in North America and is expected to increase sales of the company's color
+television receivers in Mexico and Canada and color picture tube production
+in the U.S.
+   In light of the company's losses from continuing operations, competitive
+environment and inflationary cost pressures (including labor costs in Mexico
+where labor contracts expire every two years and wages are renegotiated
+annually), the company has undertaken major cost reduction programs each year.
+In 1994, the company expects to reduce costs by about $50 million from
+continued process and design improvements, headcount reductions and other
+operating changes. The company continues to seek additional cost reduction
+opportunities for 1994 and beyond, although there can be no assurance that
+any such cost reductions will be achieved. Also, as in 1993, the company
+may experience an adverse impact as industry shortages of picture tube
+glass or other components continue in 1994.
+   The goals of the company's business strategy are to improve profitability,
+to introduce new products (such as home theater TVs), to develop new
+products (such as digital cable products incorporating the company-developed
+transmission technology selected in February 1994 by the HDTV Grand
+Alliance and the FCC Advisory Committee review panel), and to re-engineer
+operations. This strategy is expected to continue to involve significant
+expenditures by the company in 1994 and beyond. There can be no assurance that
+the company will achieve the goals of its business strategy, including an
+expected improvement in financial results.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+  The financial information required by Item 8 is contained in Item 14 of
+Part IV (page 15) of this report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+         AND FINANCIAL DISCLOSURE
+
+  None.
+
+<PAGE>
+
+                            PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+  Information concerning directors is incorporated herein by reference from
+the sections entitled "Election of Directors", "Nominees for Election as
+Directors" and "Board of Directors, Committees and Directors' Compensation"
+from the company's definitive Proxy Statement, copies of which will be
+electronically transmitted to the Commission via EDGAR.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+
+Name                              Office Held                        Age
+- --------------------  ------------------------------------------  ---------
+Jerry K. Pearlman      Chairman and Chief Executive                   55
+                       Officer since 1983; Chairman,
+                       President and Chief Executive
+                       Officer 1983-1993
+
+
+Gerald M. McCarthy     Executive Vice President and                   52
+                       member of the Office of the Chairman
+                       since 1993; Senior Vice President,
+                       Sales and Marketing and member of
+                       the Office of the President 1991 -
+                       1993.  President, Zenith Sales
+                       Company Division since 1983
+
+Albin F. Moschner      President  and Chief Operating Officer         41
+                       and member of the Office of the
+                       Chairman since 1993; Senior Vice
+                       President, Operations and member
+                       of the Office of the President 1991 -
+                       1993
+
+Kell B. Benson         Vice President-Finance and Chief               46
+                       Financial Officer since 7/89;
+                       Vice President-Controller 1989;
+                       Corporate Controller 1987-1989;
+                       Director, Financial Control-
+                       Consumer and Cable Products
+                       1983-1987
+
+
+
+Michael J. Kaplan      Vice President-Human Resources since           54
+                       1993; Vice President-Human Resources and
+                       Public Affairs 1988 - 1993; Director
+                       of Personnel and Industrial Relations
+                       1982-1988
+
+John Borst, Jr.        Vice President-General Counsel                 66
+                       since 1985
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+  Incorporated by reference from the sections entitled "Summary Compensation
+Table", "Employment Agreement", "Termination and Change of Control Agreements",
+"Option Grants in 1993", "Option Exercises in 1993 and Year-End Option Values"
+and "Compensation Committee Report on Executive Compensation" from the
+company's definitive Proxy Statement, copies of which will be electronically
+transmitted to the Commission via EDGAR.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+          MANAGEMENT
+
+ Incorporated by reference from the sections entitled "Security Ownership of
+Certain Beneficial Owners" and "Security Ownership of Management" from the
+company's definitive Proxy Statement, copies of which will be electronically
+transmitted to the Commission via EDGAR.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+  No material transactions occurred during 1993.
+
+<PAGE>
+
+                               PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) 1.  The following Consolidated Financial Statements of Zenith Electronics
+        Corporation, the Report of Independent Public Accountants, and the
+        Unaudited Quarterly Financial Data are included in this report on
+        pages 30 through 42:
+
+                Statements of Consolidated Operations and Retained Earnings -
+                Years ended December 31, 1993, 1992 and 1991
+
+                Consolidated Balance Sheets - December 31, 1993 and 1992
+
+                Statements of Consolidated Cash Flows -
+                Years ended December 31, 1993, 1992 and 1991
+
+                Notes to Consolidated Financial Statements
+
+                Report of Independent Public Accountants
+
+                Unaudited Quarterly Financial Data
+
+(a) 2.  The following consolidated financial statement schedules for Zenith
+        Electronics Corporation are included in this report on pages 25
+        through 29:
+
+                 Schedule V - Property, Plant and Equipment
+
+                 Schedule VI - Accumulated Depreciation, Depletion
+                               and Amortization of Property,
+                               Plant and Equipment
+
+                 Schedule VIII - Valuation and Qualifying Accounts
+
+                 Schedule IX - Short-term Borrowings
+
+                 Schedule X - Supplementary Income Statement Information
+
+        The Report of Independent Public Accountants on Financial Statement
+        Schedules is included in this report on page 24.
+
+        All other schedules for which provision is made in Regulation S-X of
+        the Securities and Exchange Commission, are not required under the
+        related instructions or are inapplicable and, therefore, have
+        been omitted.
+
+
+    3. Exhibits:
+
+     (3a)  Restated Certificate of Incorporation of the company, as amended
+           (incorporated by reference to Exhibit 3a of the company's Report
+           on Form 10-K for the year ended December 31, 1992)
+
+     (3b)  Certificate of Amendment to Restated Certificate of Incorporation
+           of the company dated May 4, 1993 (incorporated by reference to
+           Exhibit 4l of the company's Quarterly Report on Form 10-Q for the
+           quarter ended April 3, 1993)
+
+     (3c)  By-Laws of the company, as amended (incorporated by reference to
+           Exhibit 3 of the company's Current Report on Form 8-K, dated
+           January 31, 1994)
+
+     (4a)  Indenture, dated as of January 15, 1985, for 12-1/8% Notes due 1995
+           with the Irving Trust Company (incorporated by reference to
+           Exhibit 2 of the company's Report on Form 10-K for the year ended
+           December 31, 1989)
+
+     (4b)  Indenture, dated as of April 1, 1986,  for 6-1/4% Convertible
+           Subordinated Debentures due 2011 with The First National Bank of
+           Boston, Trustee  (incorporated by reference to Exhibit 1 of the
+           company's Quarterly Report on Form 10-Q for the quarter ended
+           March 30, 1991)
+
+     (4c)  Stockholder Rights Agreement dated as of October 3, 1986
+           (incorporated by reference to  Exhibit 4c of the company's Quarterly
+           Report on Form 10-Q for the quarter ended September 28,  1991)
+
+     (4d)  Amendment, dated April 26, 1988, to Stockholder Rights Agreement
+           (incorporated by reference to Exhibit 4d of the company's
+           Quarterly Report on Form 10-Q for the quarter ended  April 3, 1993)
+
+     (4e)  Amended and Restated Summary of Rights to Purchase Common Stock
+           (incorporated by reference to Exhibit 4e of the company's Quarterly
+           Report on Form 10-Q for the quarter ended July 3, 1993)
+
+     (4f)  Amendment, dated July 7, 1988, to Stockholder Rights Agreement
+          (incorporated by reference to Exhibit 4f of the company's Quarterly
+          Report on Form 10-Q for  the quarter ended July 3, 1993)
+
+<PAGE>
+
+     (4g)  Agreement, dated May 23, 1991, among Zenith Electronics Corporation,
+           The First National Bank of Boston and Harris Trust and Savings Bank
+           (incorporated by reference to Exhibit 1 of  Form 8, dated May 30,
+           1991)
+
+     (4h)  Amendment, dated May 24, 1991, to Stockholder Rights Agreement
+           (incorporated by reference to Exhibit 2 of Form 8 dated May 30, 1991)
+
+     (4i)  Agreement, dated as of February 1, 1993, among Zenith Electronics
+           Corporation, Harris Trust  and Savings Bank and The Bank of New
+           York (incorporated by reference to Exhibit 1 of Form 8  dated
+           March 25, 1993)
+
+     (4j)  Credit Agreement, dated as of May 21, 1993, with General Electric
+           Capital Corporation, as agent and lender, and the other lenders
+           named therein (incorporated by reference to Exhibit 4 of the
+           company's Current Report on Form 8-K dated May 21, 1993)
+
+     (4k)  Amendment No. 1 dated November 8, 1993 to the Credit Agreement
+           dated May 21, 1993, with General Electric Capital Corporation, as
+           agent and lender, and the other lenders named therein (incorporated
+           by reference to Exhibit 4(b) of the company's Current Report on
+           Form 8-K, dated November 19, 1993)
+
+     (4l)  Amendment No. 3 dated January 7, 1994 to the Credit Agreement dated
+           May 21, 1993, with  General Electric Capital Corporation, as agent
+           and lender, The Bank of New York Commercial Corporation, as lender,
+           and Congress Financial Corporation, as lender (incorporated by
+           reference to Exhibit 4(b) of the company's Current Report on Form
+           8-K dated January 11, 1994)
+
+     (4m)  Fourth Amendment dated January 28, 1994 to the Credit Agreement
+           dated May 21, 1993, with General Electric Capital Corporation,
+           as agent and lender, The Bank of New York Commercial Corporation,
+           as lender, and Congress Financial Corporation, as lender
+           (incorporated by reference to Exhibit 4 of the company's Current
+           Report on Form 8-K dated January 31, 1994)
+
+     (4n)  Debenture Purchase Agreement dated as of November 19, 1993 with the
+           institutional investors named therein (incorporated by reference to
+           Exhibit 4(a) of the company's Current Report on Form 8-K dated
+           November 19, 1993)
+
+     (4o)  Amendment No. 1 dated November 24, 1993 to the Debenture Purchase
+           Agreement dated as of November 19, 1993 with the institutional
+           investor named therein (incorporated by reference to Exhibit
+           4(a) of the company's Current Report on Form 8-K dated
+           November 24, 1993)
+
+     (4p)  Amendment No. 2 dated January 11, 1994 to the Debenture Purchase
+           Agreement dated as of November 19, 1993 (incorporated by
+           reference to Exhibit 4(c) of the company's Current Report on Form
+           8-K dated January 11, 1994)
+
+     (4q)  Debenture Purchase Agreement dated as of January 11, 1994 with the
+           institutional investor named therein (incorporated by reference to
+           Exhibit 4(a) of the company's Current Report on Form 8-K dated
+           January 11, 1994)
+
+   *(10a)  1987 Zenith Stock Incentive Plan (as amended subject to shareholder
+           approval on April 28, 1992) (incorporated by reference to Exhibit
+           A of the company's definitive Proxy Statement dated March 13, 1992)
+
+  *(10b)  Form of Amended and Restated Employment Agreement with Jerry K.
+          Pearlman, Gerald M. McCarthy, Albin F. Moschner, Kell B. Benson and
+          John Borst, Jr. (incorporated by reference to Exhibit 2 of the
+          company's Report on Form 10-K for the year ended December 31, 1990)
+
+  *(10c)  Restricted Stock Agreement, dated December 3, 1986, of Jerry K.
+          Pearlman (incorporated by reference to Exhibit 10c of the company's
+          Report on Form 10-K for the year ended December 31, 1991)
+
+<PAGE>
+
+  *(10d)  Amendment, dated May 27, 1987, to Restricted Stock Agreement of Jerry
+          K. Pearlman (incorporated by reference to Exhibit 10d of the
+          company's Report on Form 10-K for the year ended December 31,
+          1992)
+
+  *(10e)  Amendment, dated March 28, 1988, to Restricted Stock Agreement of
+          Jerry K. Pearlman
+
+  *(10f)  Amendments, dated October 1, 1990, and January 23, 1991, to
+          Restricted Stock Agreement of Jerry K. Pearlman (incorporated by
+          reference to Exhibit 3 of the company's Report on Form 10-K
+          for the year ended December 31, 1990)
+
+  *(10g)  Restricted Stock Agreement, dated March 31, 1987, with Gerald M.
+          McCarthy, and Amendments thereto dated December 2, 1987, March 28,
+          1988, August 22, 1988, and January 23, 1991 (incorporated by
+          reference to Exhibit 10b of the company's Quarterly Report on
+          Form 10-Q for the quarter ended June 29, 1991)
+
+  *(10h)  Forms of Amendments, dated as of July 24, 1991, to Restricted Stock
+          Agreement dated December 3, 1986, with Jerry K. Pearlman and to
+          Restricted Stock Agreement dated March 31, 1987, with Gerald M.
+          McCarthy (incorporated by reference to Exhibit 10c of the company's
+          Quarterly Report on Form 10-Q for the Quarter ended June 29, 1991)
+
+  *(10i)  Supplemental Agreement, dated September 12, 1986, with Jerry K.
+          Pearlman (incorporated by reference to Exhibit 10m of the company's
+          Report on Form 10-K for the year ended December 31, 1991)
+
+  *(10j)  Amendment to Supplemental Agreement with Jerry K. Pearlman
+          (incorporated by reference to Exhibit 10j of the company's Report on
+          Form 10-K for the year ended December 31, 1992)
+
+  *(10k)  Form of Amendment, dated as of May 19, 1989, to Supplemental
+          Agreement with Jerry K. Pearlman, (incorporated by reference to
+          Exhibit 6 of the company's Report on Form 10-K for the year ended
+          December 31, 1989)
+
+  *(10l)  Form of Amendment, dated as of July 24, 1991, to Supplemental
+          Agreement with Jerry K. Pearlman (incorporated by reference to
+          Exhibit 10a of the company's Quarterly Report on Form 10-Q for the
+          Quarter ended June 29, 1991)
+
+  *(10m)  Form of Supplemental Agreement with Gerald M. McCarthy, Albin F.
+          Moschner, Kell B. Benson and John Borst, Jr. (incorporated by
+          reference to Exhibit 10q of the company's Report on Form 10-K for
+          the year ended December 31, 1991)
+
+  *(10n)  Form of Stock Indemnification Rights Grant with Jerry K. Pearlman and
+          Kell B. Benson
+
+  *(10o)  Form of Amendment to Stock Indemnification Rights Grant with Jerry K.
+          Pearlman and Kell B. Benson (incorporated by reference to Exhibit 7
+          of the company's Report on Form 10-K for the year ended December 31,
+          1989)
+
+  *(10p)  Letter Agreement, dated October 21, 1991, with Albin F. Moschner
+          (incorporated by reference to Exhibit 10u of the company's Report on
+          Form 10-K for the year ended December 31, 1991)
+
+  *(10q)  Form of Indemnification Agreement with Officers and Directors
+          (incorporated by reference to Exhibit 8 of the company's Report on
+          Form 10-K for the year ended December 31, 1989)
+
+  *(10r)  Form of Directors Stock Units Compensation Agreement with Harry G.
+          Beckner (2,000 units) and with G. Ralph Guthrie (1,000 units)
+          (incorporated by reference to Exhibit 10r of the company's
+          Report on Form 10-K for the year ended December 31, 1992)
+
+  *(10s)  Form of Directors 1989 Stock Units Compensation Agreement with Harry
+          G. Beckner, T. Kimball Brooker and G. Ralph Guthrie (1000 units
+          each) (incorporated by reference to Exhibit 9 of the company's
+          Report on Form 10-K for the year ended December 31, 1989)
+
+<PAGE>
+
+  *(10t)  Form of Directors 1990 Stock Units Compensation Agreement with Harry
+          G. Beckner, G. Ralph Guthrie, T. Kimball Brooker, David H. Cohen,
+          Charles Marshall, Andrew McNally IV and Peter S. Willmott (1000
+          units each) (incorporated by reference to Exhibit 6 of the
+          company's Report on Form 10-K for the year ended December 31, 1990)
+
+  *(10u)  Form of Directors 1991 Stock Units Compensation Agreement with Harry
+          G. Beckner, T. Kimball Brooker, David H. Cohen, G. Ralph Guthrie,
+          Charles Marshall, Andrew McNally IV and Peter S. Willmott (1,000
+          units each) (incorporated by reference to Exhibit 10d of the
+          company's Quarterly Report on Form 10-Q for the Quarter ended
+          June 29, 1991)
+
+  *(10v)  Form of Amendment, dated as of July 24, 1991, to Directors Stock
+          Units Compensation Agreements for 1987, 1988, 1990 and 1991
+          (incorporated by reference to Exhibit 10e of the company's Quarterly
+          Report on Form 10-Q for the Quarter ended June 29, 1991)
+
+  *(10w)  Directors Retirement Plan and form of Agreement (incorporated by
+          reference to Exhibit 10 of the company's Report on Form 10-K for the
+          year ended December 31, 1989)
+
+  *(10x)  Form of Amendment, dated as of July 24, 1991, to Directors
+          Retirement Plan and form of Agreement (incorporated by reference
+          to Exhibit 10f of the company's quarterly Report on Form 10-Q for
+          the Quarter ended June  29, 1991)
+
+   (10y)  Investment Agreement, dated as of February 25, 1991, with GoldStar
+          Co., Ltd. (incorporated by reference to Exhibit 1 of the company's
+          Current Report on Form 8-K, dated February 25, 1991)
+
+   (10z)  Registration Rights Agreement, dated as of February 25, 1991, with
+          GoldStar Co., Ltd. (incorporated by reference to Exhibit 2 of
+          the company's Current Report on Form 8-K, dated February 25, 1991)
+
+   (10aa) Investment Agreement dated as of March 25, 1993 between Zenith
+          Electronics Corporation and Fletcher Capital Markets, Inc.
+          (incorporated by reference to Exhibit 1 of the company's Current
+          Report on Form 8-K dated March 26, 1993)
+
+   (10bb) Investment Agreement dated as of July 29, 1993 between Zenith
+          Electronics Corporation and Fletcher Capital Markets, Inc.
+          (incorporated reference to Exhibit 5(a) of the company's Current
+          Report on Form 8-K dated July 29, 1993)
+
+   (21)   Subsidiaries of the company
+
+   (23)   Consent of Independent Public Accountants
+
+* Represents a management contract, compensation plan or arrangement.
+
+
+(b) Reports on Form 8-K
+
+The following reports on Form 8-K were filed during the quarter ended December
+31, 1993.
+
+     A report on Form 8-K dated October 21, 1993 was filed by the company
+stating under Item 5 that Zenith had issued a press release which reported
+third quarter 1993 financial results.
+
+     A report on Form 8-K dated  November 19, 1993 was filed by the company
+stating under Item 5 that Zenith had sold to certain institutional investors
+$42 million principal amount of its 8.5% Senior Subordinated Convertible
+Debentures due November 19, 2000, pursuant to a Debenture Purchase Agreement
+dated November 19, 1993, entered into by the company and the purchasers.
+
+     A report on Form 8-K dated November 24, 1993 was filed by the company
+stating under Item 5 that Zenith had agreed to sell to certain institutional
+investors an additional $13 million principal amount of its 8.5% Senior
+Subordinated Convertible Debentures due November 19, 2000, pursuant to a
+Debenture Purchase Agreement dated November 19, 1993 entered into by the
+company and amended on November 24, 1993 to add the additional purchasers.
+
+     A report on Form 8-K dated December 14, 1993 was filed by the company
+stating under Item 5 that Zenith had issued a press release announcing that it
+has called for redemption of its outstanding 12 1/8% Notes due on January 13,
+1994.
+
+     A report on Form 8-K dated December 15, 1993 was filed by the company
+stating under Item 5 that Zenith had issued a press release announcing that it
+is planning to restructure its computer monitor and magnetics areas and
+re-engineer its core consumer electronics and cable business which will result
+in a fourth quarter special charge of up to $30 million.
+
+(c) and (d) Exhibits and Financial Statement Schedules
+
+Certain exhibits and financial statement schedules required by this portion
+of Item 14 are filed as a separate section of this report.
+
+<PAGE>
+
+                                SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                        ZENITH ELECTRONICS CORPORATION
+                                        (Registrant)
+
+
+                                        By: /S/ Jerry K. Pearlman
+                                            ---------------------
+                                        Jerry K. Pearlman
+                                        Chairman, and Chief Executive Officer
+
+                                        Date  March 1, 1994
+                                             --------------------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+      Signatures                   Title                           Date
+ -------------------------   ----------------------       ------------------
+
+                                  Director
+- --------------------------
+Harry G. Beckner
+
+/s/ T. Kimball Brooker            Director                   March 1, 1994
+- -------------------------
+T. Kimball Brooker
+
+/s/ David H. Cohen                Director                   March 1, 1994
+- -------------------------
+David H. Cohen
+
+/s/ Charles Marshall              Director                   March 1, 1994
+- ------------------------
+Charles Marshall
+
+/s/ Gerald M. McCarthy      Director, Executive Vice         March 1, 1994
+- -----------------------     President - Sales and Marketing,
+Gerald M. McCarthy          and President - Zenith Sales
+                            Company
+
+/s/ Andrew McNally IV            Director                    March 1, 1994
+- ----------------------
+Andrew McNally IV
+
+/s/ Albin F. Moschner       Director, President and Chief    March 1, 1994
+- ----------------------      Operating Officer
+Albin F. Moschner
+
+/s/ Jerry K. Pearlman       Director, Chairman and Chief     March 1, 1994
+- ---------------------       Executive Officer
+Jerry K. Pearlman          (Principal Executive Officer)
+
+
+/s/ Peter S. Willmott            Director                    March 1, 1994
+- ---------------------
+Peter S. Willmott
+
+/s/ Kell B. Benson          Vice President - Finance and     March 1, 1994
+- --------------------        Chief Financial Officer
+Kell B. Benson             (Principal Financial Officer)
+
+<PAGE>
+
+             INDEX TO FINANCIAL STATEMENT SCHEDULES AND EXHIBITS
+
+                                                                     Page
+                                                                    Number
+                                                                    ------
+Report of Independent Public Accountants on
+  Financial Statement Schedules                                       24
+
+Financial Statement Schedules:
+
+    Schedule V     -  Property, Plant and Equipment                   25
+
+    Schedule VI    -  Accumulated Depreciation, Depletion and
+                       Amortization of Property, Plant and Equipment  26
+
+    Schedule VIII  -  Valuation and Qualifying Accounts               27
+
+    Schedule IX    -  Short-Term Borrowings                           28
+
+    Schedule X     -  Supplementary Income Statement Information      29
+
+Consolidated Financial Statements                                     30
+
+Notes to Consolidated Financial Statements                            33
+
+Report of Independent Public Accountants                              41
+
+Unaudited Quarterly Financial Data                                    42
+
+Exhibits:
+
+    (10e)  Amendment, dated March 28, 1988, to Restricted Stock
+            Agreement of Jerry K. Pearlman                            43
+
+    (10n)  Form of Stock Indemnification Rights Grant with
+            Jerry K. Pearlman and Kell B. Benson                      46
+
+    (21)   Subsidiaries of the company                                50
+
+    (23)   Consent of Independent Public Accountants                  51
+
+<PAGE>
+
+               REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON
+               -------------------------------------------
+                      FINANCIAL STATEMENT SCHEDULES
+                      -----------------------------
+
+To the Stockholders of
+Zenith Electronics Corporation:
+
+We have audited, in accordance with generally accepted auditing standards,
+the consolidated financial statements included in ZENITH ELECTRONICS
+CORPORATION's annual report to stockholders included in this Fork 10-K, and
+have issued our report thereon dated February 14, 1994. Our audit was made
+for the purpose of forming an opinion on those statements taken as a whole.
+The schedules listed in the preceding index are the responsibility of the
+Company's management and are presented for purposes of complying with the
+Securities and Exchange Commission's rules and are not part of the basic
+consolidated financial statements. These schedules have been subjected to
+the auditing procedures applied in the audit of the basic consolidated
+financial statements and, in our opinion, fairly state in all material
+respects the financial data required to be set forth therein in relation to
+the basic consolidated financial statements taken as a whole.
+
+
+                                               /s/ARTHUR ANDERSEN & CO.
+                                               ------------------------
+                                               ARTHUR ANDERSEN & CO.
+
+Chicago, Illinois,
+February 14, 1994
+
+<PAGE>
+
+                      FINANCIAL STATEMENT SCHEDULES
+           ---------------------------------------------------
+
+
+                       ZENITH ELECTRONICS CORPORATION
+
+                SCHEDULE V-PROPERTY, PLANT AND EQUIPMENT
+                        (Amounts in millions)
+
+
+<TABLE>
+<CAPTION>
+
+  Column A                    Column B     Column C      Column D      Column E      Column F
+- -----------------------------------------------------------------------------------------------
+                              Balance at                                 Other       Balance at
+                              beginning    Additions                    changes        end of
+Classification                of period     at cost     Retirements    add (deduct)    period
+- -----------------------------------------------------------------------------------------------
+<S>                          <C>          <C>           <C>            <C>           <C>
+YEAR ENDED DECEMBER 31, 1993
+  Land                        $  8.0       $   -          $   -         $  (.6)        $  7.4
+  Buildings                    159.5          4.5             .2         (12.8)         151.0
+  Machinery and equipment      537.0         21.6            8.7             -          549.9
+                              -----------------------------------------------------------------
+    Total                     $704.5       $ 26.1         $  8.9        $(13.4) (1)    $708.3
+                              =================================================================
+
+YEAR ENDED DECEMBER 31, 1992
+  Land                        $  8.0       $   -          $   -         $   -          $  8.0
+  Buildings                    154.6          4.9             -             -           159.5
+  Machinery and equipment      522.0         27.7           11.8           (.9)         537.0
+                              -----------------------------------------------------------------
+    Total                     $684.6       $ 32.6         $ 11.8        $  (.9)        $704.5
+                              =================================================================
+
+YEAR ENDED DECEMBER 31, 1991
+  Land                        $  8.4      $    -          $   .4        $   -          $  8.0
+  Buildings                    154.0          6.4            5.8            -           154.6
+  Machinery and equipment      500.8         30.3            9.1            -           522.0
+                              ----------------------------------------------------------------
+    Total                     $663.2      $  36.7         $ 15.3        $   -          $684.6
+                              ================================================================
+
+
+
+<FN>
+(1) Represents the reclassification of property pending disposal into other
+    noncurrent assets.
+
+</TABLE>
+
+<PAGE>
+
+
+                        ZENITH ELECTRONICS CORPORATION
+
+        SCHEDULE VI-ACCUMULATED DEPRECIATION, DEPLETION AND AMORTIZATION
+                      OF PROPERTY, PLANT AND EQUIPMENT
+
+                            (Amounts in millions)
+
+
+<TABLE>
+<CAPTION>
+
+      Column A                  Column B       Column C     Column D     Column E      Column F
+- ------------------------------------------------------------------------------------------------------
+                                               Additions                    Other
+                               Balance at     charged to                   changes    Balance at
+                               beginning      costs and                    (add)        end of
+Classification                 of period     expenses(1)   Retirements    (deduct)      period
+- ------------------------------------------------------------------------------------------------------
+<S>                            <C>           <C>           <C>            <C>         <C>
+YEAR ENDED DECEMBER 31, 1993
+  Buildings                    $  84.0         $  6.0        $   .2       $ (7.5)       $  82.3
+  Machinery and equipment        434.4           29.4           7.0         15.3          472.1
+                               ---------------------------------------------------------------------
+    Total                      $ 518.4         $ 35.4        $  7.2       $  7.8 (3)    $ 554.4
+                               =====================================================================
+
+YEAR ENDED DECEMBER 31, 1992
+  Buildings                    $  78.0         $  6.0         $  -        $   -          $ 84.0
+  Machinery and equipment        406.1           31.7           8.9          5.5          434.4
+                               ---------------------------------------------------------------------
+    Total                      $ 484.1         $ 37.7         $ 8.9       $  5.5 (2)     $518.4
+                               =====================================================================
+
+YEAR ENDED DECEMBER 31, 1991
+  Buildings                    $  74.4         $  5.5         $ 1.9       $   -          $ 78.0
+  Machinery and equipment        379.8           32.4           6.1           -           406.1
+                               --------------------------------------------------------------------
+    Total                      $ 454.2         $ 37.9         $ 8.0       $   -          $484.1
+                               =====================================================================
+
+
+<FN>
+(1)  Additions of plant and equipment with lives of eight years or more are
+     depreciated by the straight-line method over their useful lives.
+     Accelerated methods are used for depreciation of virtually all other
+     plant and equipment items, including high technology equipment that may
+     be subject to rapid economic obsolescence.
+
+(2)  Represents adjustments to manufacturing equipment reserves as a part of
+     the company's restructuring actions.
+
+(3)  Represents the net effect of adjustments to manufacturing equipment
+     reserves as a part of the company's restructuring actions and the
+     reclassification of property pending disposal into other noncurrent
+     assets.
+
+</TABLE>
+
+<PAGE>
+
+
+                      ZENITH ELECTRONICS CORPORATION
+
+             SCHEDULE VIII-VALUATION AND QUALIFYING ACCOUNTS
+                         (Amounts in millions)
+
+
+<TABLE>
+<CAPTION>
+            Column A                  Column B           Column C              Column D    Column E
+- ----------------------------------------------------------------------------------------------------------
+                                                        Additions
+                                                  -------------------------
+                                     Balance at   Charged                                Balance at
+     Reserves and allowances          beginning   to costs    Charged to                    end of
+  deducted from asset accounts        of period  &  expenses  other accts.  Deductions      period
+- -----------------------------------------------------------------------------------------------------------
+<S>                                 <C>          <C>          <C>           <C>          <C>
+Allowance for doubtful accounts:
+   Year Ended December 31, 1993      $    2.7    $    1.8       $   -       $    2.0 (1)  $    2.5
+                                     ======================================================================
+
+   Year Ended December 31, 1992      $    2.6    $    5.7       $   -       $    5.6 (1)  $    2.7
+                                     ======================================================================
+
+   Year Ended December 31, 1991      $    1.5    $    1.8       $   -       $     .7 (1)  $    2.6
+                                     ======================================================================
+
+
+Valuation allowance for deferred
+  tax assets: (2)
+
+   Year Ended December 31, 1993      $  134.5    $   44.7       $   -       $     -       $  179.2
+                                     ======================================================================
+
+   Year Ended December 31, 1992      $   88.6    $   45.9       $   -       $     -       $  134.5
+                                     =======================================================================
+
+
+<FN>
+(1)  Uncollectible accounts written off, net of recoveries.
+
+(2)  This account reflects the adoption of SFAS No. 109, Accounting for Income
+     Taxes, which was adopted in 1992.
+
+
+</TABLE>
+
+<PAGE>
+
+
+                      ZENITH ELECTRONICS CORPORATION
+
+                     SCHEDULE IX-SHORT-TERM BORROWINGS
+                         (Amounts in millions)
+
+
+<TABLE>
+<CAPTION>
+
+      Column A                     Column B     Column C     Column D     Column E    Column F
+- -------------------------------------------------------------------------------------------------
+                                                              Maximum       Average     Weighted
+                                                 Weighted     amount       amount       average
+                                    Balance     average     outstanding   outstanding    rate
+                                   at end of    interest    during the     during the  during the
+Short-Term Borrowings               period        rate       period(2)     period(3)    period(4)
+- -------------------------------------------------------------------------------------------------
+<S>                               <C>           <C>        <C>             <C>          <C>
+YEAR ENDED DECEMBER 31, 1993
+ Amounts payable to banks (1)      $   -          - %        $ 66.4         $ 35.0        8.1%
+                                  ===============================================================
+
+YEAR ENDED DECEMBER 31, 1992
+ Amounts payable to banks (1)      $ 10.1        7.3%        $ 40.1         $ 23.1        7.5%
+                                  ===============================================================
+
+YEAR ENDED DECEMBER 31, 1991
+ Amounts payable to banks (1)      $   -          - %        $   -          $   -          - %
+                                  ===============================================================
+
+
+<FN>
+(1)  Amounts payable to banks represent borrowings under credit arrangements
+     which are established to cover short-term borrowing needs for portions
+     of the year.
+
+(2)  Represents maximum amount outstanding at any month-end during the period.
+
+(3)  The average amount outstanding during the period was computed by dividing
+     the total of daily principal balances outstanding by 365.
+
+(4)  The weighted average interest rate during the period was computed based on
+     the interest rates applicable to the average amount outstanding during the
+     period.
+
+
+</TABLE>
+
+<PAGE>
+
+
+                        ZENITH ELECTRONICS CORPORATION
+
+              SCHEDULE X-SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                           (Amounts in millions)
+
+<TABLE>
+<CAPTION>
+
+         Column A                                Column B
+ ------------------------     -------------------------------------------
+         Item                        Charged to costs and expenses
+ ------------------------     -------------------------------------------
+
+                                          Year Ended December 31
+                                        1993        1992       1991
+                                    -----------------------------------
+
+<S>                                  <C>         <C>        <C>
+Maintenance and repairs              $  29.1     $  31.2    $  34.5
+
+Advertising costs                    $  34.9     $  32.8    $  35.5
+
+</TABLE>
+
+Amounts for royalties; depreciation and amortization of intangible assets,
+pre-operating costs and similar deferrals; and taxes other than payroll
+and income taxes are not presented as such amounts are less 1% of total
+sales and revenues.
+
+<PAGE>
+
+                       CONSOLIDATED FINANCIAL STATEMENTS
+         -----------------------------------------------------------------
+
+Statements of Consolidated operations and retained earnings
+In millions, except per share amounts
+
+<TABLE>
+<CAPTION>
+
+                                                    Year Ended December 31
+                                                   1993      1992      1991
+- ------------------------------------------------------------------------------
+<S>                                              <C>       <C>       <C>
+Revenues
+ Net sales                                       $1,228.2  $1,243.5  $1,321.6
+                                                 -----------------------------
+Costs, Expenses and Other
+ Cost of products sold                            1,163.9   1,179.3   1,208.4
+ Selling, general and administrative                 92.5      94.0     101.2
+ Engineering and research                            47.8      55.4      54.1
+ Other operating expense (income), net
+   (Notes 1 and 6)                                  (25.2)    (24.3)       .5
+ Restructuring and other charges (Note 3)            31.0      48.1        -
+                                                 -----------------------------
+Income
+ Operating income (loss)                            (81.8)   (109.0)   (42.6)
+ Interest expense                                   (15.5)    (13.7)   (12.4)
+ Interest income                                       .3        .9      3.6
+                                                 -----------------------------
+ Income (loss) before income taxes                  (97.0)   (121.8)   (51.4)
+ Income taxes (credit) (Note 4)                        -      (15.9)      .2
+                                                 -----------------------------
+  Net income (loss)                                $(97.0)  $(105.9)  $(51.6)
+                                                 =============================
+Per Share
+ Income (loss) per common share (Note 1)           $(3.01)  $(3.59)   $(1.79)
+
+Retained Earnings
+ Balance at beginning of year                        $8.9   $114.8    $166.4
+ Net income (loss)                                  (97.0)  (105.9)    (51.6)
+                                                  ----------------------------
+  Retained earnings (deficit) at end of year       $(88.1)    $8.9    $114.8
+                                                  ============================
+
+</TABLE>
+
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these statements.
+
+<PAGE>
+
+Consolidated balance sheets
+In millions
+
+<TABLE>
+<CAPTION>
+                                                      December 31
+                                                     1993      1992
+- -----------------------------------------------------------------------
+<S>                                                <C>       <C>
+Assets
+Current Assets
+ Cash (Note 1)                                     $ 20.8    $  5.8
+ Receivables, net of allowance for doubtful
+ accounts of $2.5 and $2.7, respectively            162.5     179.7
+ Inventories (Note 7)                               206.2     197.9
+ Other                                                6.1       6.2
+                                                   --------------------
+  Total current assets                              395.6     389.6
+
+Noncurrent Assets
+ Property, plant and equipment, net (Note 8)        153.9     186.1
+ Other (Note 1)                                       9.9       2.9
+                                                   --------------------
+  Total assets                                     $559.4    $578.6
+                                                   ====================
+
+Liabilities and Stockholders' Equity
+Current Liabilities
+ Short-term debt (Note 9)                           $  -      $10.1
+ Current portion of long-term debt (Note 10)         34.5        -
+ Accounts payable (Note 9)                           81.8      73.5
+ Compensation and retirement benefits (Note 13)      25.9      42.4
+ Product warranties                                  24.2      21.2
+ Co-op advertising and merchandising programs        21.7      22.5
+ Income taxes payable                                 1.1       2.3
+ Other accrued expenses                              47.8      47.0
+                                                    ------------------
+  Total current liabilities                         237.0     219.0
+
+Noncurrent Liabilities
+ Long-term debt (Note 10)                           170.0     149.5
+
+Stockholders' Equity
+ Preferred stock, $1 par value; 8,000,000
+  shares authorized; none outstanding                  -         -
+ Common stock, $1 par value; 100,000,000
+  shares authorized; 35,909,617 and 30,283,769
+  shares issued                                      35.9      30.3
+ Additional paid-in capital                         205.1     171.4
+ Retained earnings (deficit)                        (88.1)      8.9
+ Cost of 21,000 common shares in treasury             (.5)      (.5)
+                                                   --------------------
+  Total stockholders' equity (Note 11)              152.4     210.1
+                                                   --------------------
+   Total liabilities and stockholders' equity      $559.4    $578.6
+                                                   ====================
+
+</TABLE>
+
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these statements.
+
+
+<PAGE>
+
+Statements of Consolidated cash flows
+In millions
+
+<TABLE>
+<CAPTION>
+                                                  Increase (Decrease) in Cash
+                                                     Year Ended December 31
+                                                    1993      1992      1991
+- -----------------------------------------------------------------------------
+<S>                                               <C>        <C>       <C>
+Cash Flows from Operating Activities
+ Income (loss) from operations                     $(97.0)   $(105.9)  $(51.6)
+ Adjustments to reconcile income (loss)
+ to net cash used by operations:
+  Depreciation                                       35.4       37.7     37.9
+  Write down of fixed assets as a part of
+   restructuring (Note 3)                            16.2        3.7       -
+  Employee retirement plan contribution in stock     14.6        6.2       -
+  Other (Note 3)                                       .2        1.1    (8.9)
+  Changes in assets and liabilities:
+   Current accounts                                   3.4       40.7    12.9
+   Other assets                                      (1.0)        .6      .7
+                                                   ----------------------------
+ Net cash used by operating activities              (28.2)     (15.9)   (9.0)
+                                                   ----------------------------
+
+Cash Flows from Investing Activities
+ Capital additions                                  (26.1)     (32.6)  (36.7)
+  Proceeds from sale of property, plant
+   and equipment                                       .4        6.9    12.8
+                                                   ----------------------------
+ Net cash used by investing activities              (25.7)     (25.7)  (23.9)
+                                                   ----------------------------
+
+Cash Flows from Financing Activities
+ Short-term borrowings, net                         (10.1)      10.1      -
+ Proceeds from issuance of long-term debt            55.0         -       -
+ Proceeds from issuance of common stock, net         24.0        1.0    14.5
+ Principal payments on long-term debt                  -          -     (1.6)
+                                                   ----------------------------
+ Net cash provided by financing activities           68.9       11.1    12.9
+                                                   ----------------------------
+
+Cash
+  Increase (decrease) in cash                        15.0      (30.5)  (20.0)
+  Cash at beginning of year                           5.8       36.3    56.3
+                                                   ----------------------------
+  Cash at end of year                               $20.8       $5.8   $36.3
+                                                   ============================
+
+Changes in Current Assets and Liabilities
+ Increase (decrease) in cash attributable
+ to changes in:
+  Receivables, net                                  $15.2      $20.6    $1.1
+  Income taxes, net                                    .8      (14.5)   (7.4)
+  Inventories                                        (8.3)      38.6    12.1
+  Other assets                                         .1         .1      .3
+  Accounts payable and accrued expenses              (4.4)      (4.1)    6.8
+                                                    ---------------------------
+   Net change in current accounts                    $3.4      $40.7   $12.9
+                                                    ===========================
+
+ Supplemental  Disclosure
+ Supplemental disclosure of cash flow information-
+  Cash paid (refunded) during the period for:
+   Interest                                         $15.0      $13.5   $12.3
+   Income taxes                                      (1.2)      (1.5)    7.5
+
+</TABLE>
+
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these statements.
+
+<PAGE>
+
+                 Notes to Consolidated Financial Statements
+            ---------------------------------------------------------
+
+Note One - Significant Accounting Policies:
+
+Principles of consolidation: The consolidated financial statements include
+the accounts of Zenith Electronics Corporation and all domestic and
+foreign subsidiaries (the company). All significant intercompany balances
+and transactions have been eliminated.
+
+Statements of consolidated cash flows: The company considers time
+deposits, certificates of deposit and all highly liquid investments purchased
+with an original maturity of three months or less to be cash.
+
+Inventories: Inventories are stated at the lower of cost or market. Costs are
+determined for all inventories except picture tube inventories using the
+first-in, first-out (FIFO) method. Picture tube inventories are valued using
+the last-in, first-out (LIFO) method.
+
+Properties and depreciation: Additions of plant and equipment with lives
+of eight years or more are depreciated by the straight-line method over
+their useful lives. Accelerated methods are used for depreciation of
+virtually all other plant and equipment items, including high technology
+equipment that may be subject to rapid economic obsolescence.
+  Property held for disposal is stated at the lower of cost or estimated net
+realizable value. As of December 31, 1993, $5.9 million of property held
+for disposal was included in Other Noncurrent Assets and included certain
+facilities and land no longer used in the company's operations.
+  Most tooling expenditures are charged to expense in the year acquired,
+except for picture tube tooling which is amortized over four years. Certain
+production fixtures are capitalized as machinery and equipment.
+  Rental expenses under operating leases were $9.0 million, $8.8 million
+and $8.9 million in 1993, 1992 and 1991, respectively. Commitments for
+lease payments in future years are not material.
+  The company capitalizes interest on major capital projects. Such interest
+has not been material.
+
+Engineering, research, product warranty and other costs: Engineering and
+research costs are expensed as incurred. Estimated costs for product
+warranties are provided at the time of sale based on experience factors. The
+costs of co-op advertising and merchandising programs are also provided
+at the time of sale.
+
+Foreign currency: The company uses the U.S. dollar as the functional
+currency for all foreign subsidiaries. Foreign exchange gains and losses are
+included in Other Operating Expense (Income) and were not material in
+1993, 1992 and 1991.
+
+Earnings per share: Primary earnings per share are based upon the
+weighted average number of shares outstanding and common stock
+equivalents, if dilutive. Fully diluted earnings per share, assuming
+conversion of the 6 1/4% convertible subordinated debentures and the
+8.5% convertible senior subordinated debentures, are not presented
+because the effect of the assumed conversion is antidilutive. The number of
+shares used in the computation were 32.3 million, 29.5 million and 28.8
+million in 1993, 1992 and 1991, respectively.
+
+Note Two - Financial Results and Liquidity:
+The company has incurred losses from operations of $97.0 million, $105.9
+million and $51.6 million in 1993, 1992 and 1991, respectively. For many
+years the company's major competitors, many with greater resources, have
+aggressively lowered their selling prices in an attempt to increase market
+share. Although the company has benefited from cost reduction programs,
+these lower color television prices together with inflationary cost increases
+have more than offset such cost reduction benefits.
+  The company's 1994 operating plan is designed to improve financial
+results through cost reductions, repositioning of product lines and
+intensified asset management. The plan also seeks to improve the
+profitability of the core business and contemplates the introduction of new
+products such as home theater TVs. These efforts along with continued
+investments in the development of new technologies (such as high
+definition television and new digital cable products) are expected to involve
+significant expenditures by the company in 1994 and beyond.
+  The company's Credit Agreement (see Note Nine) expires on December
+31, 1994. The maximum commitment for funds available for borrowing
+under the Credit Agreement is $90 million, but is limited by a defined
+borrowing base formula related to eligible accounts receivable and inventory.
+Although the company believes that the Credit Agreement, together with
+extended-term payables expected to be available from a foreign supplier
+and its continuing efforts to obtain other financing sources, will be
+adequate to meet its seasonal working capital needs in 1994, there can be
+no assurances that the company will not experience liquidity problems in
+the future because of adverse market conditions or other unfavorable
+events.
+
+<PAGE>
+
+Note Three - Restructuring and Other Charges:
+During the fourth quarter of 1993, the company recorded a charge of $31.0
+million primarily to restructure certain product areas and re-engineer its
+core consumer electronics and cable business.  The restructuring will affect
+computer monitors and magnetics, product areas in which the company is
+bringing its production capacity more in line with expected reduced levels
+of business.  The fourth-quarter charge was primarily for non-cash fixed asset
+and inventory write-downs, as well as severance costs, and is designed to
+reduce fixed costs and operating expenses.
+  During 1992, the company recorded $48.1 million of restructuring and
+other charges. These included provisions for severance, inventory valuation
+and other restructuring costs, along with writeoffs of trade receivables.
+Designed to reduce fixed costs and operating expenses, the restructuring
+actions include manufacturing consolidations and related employment
+reductions in Mexico, consolidation of company-owned distribution and
+other activities, and salaried employment reductions throughout the
+company.
+  During 1991, the company initiated certain restructuring actions.
+Integral to the restructuring was the sale and leaseback of the land and
+building in Taiwan and the consolidation of the color television final
+assembly operation into Mexico. Taken as a whole, the restructuring
+actions had no impact on the operating results of the company as the $8.9
+million net gain on the sale of the Taiwan property was offset by charges
+relating to the restructuring.
+
+Note Four - Income Taxes:
+In the fourth quarter of 1992, the company elected early adoption of
+Statement of Financial Accounting Standards (SFAS) No. 109,
+"Accounting for Income Taxes",  which requires the use of the liability
+method in accounting for income taxes. This statement superseded SFAS
+No. 96, which the company adopted retroactively in October 1989. The
+adoption of SFAS No. 109 had no effect on the financial statements of the
+company because the related net deferred tax assets were offset by a
+valuation allowance. The valuation allowance was established since the
+realization of these assets cannot be reasonably assured, given the
+company's recurring losses.
+  The components of income taxes (credit) were:
+
+<TABLE>
+<CAPTION>
+                                                 Year Ended December 31
+In millions                                      1993     1992      1991
+- -------------------------------------------------------------------------
+<S>                                              <C>     <C>        <C>
+Currently payable (refundable):
+  Federal                                        $(.1)   $  (5.9)   $ -
+  State                                            .1         .1      .1
+  Foreign                                          -         (.1)     .1
+Currently deferred                                 -       (10.0)     -
+                                                 ------------------------
+ Total income taxes (credit)                     $ -     $ (15.9)   $ .2
+                                                 ========================
+
+</TABLE>
+
+  The $15.9 million income tax credit in 1992, resulted from the reversal
+of $10.0 million of previously accrued tax reserves no longer required in
+connection with earnings of a foreign subsidiary and $5.9 million of net
+operating loss carryback applications which resulted in cash refunds.
+  The statutory federal income tax rate and the effective tax rate are
+compared below:
+
+<TABLE>
+<CAPTION>
+                                                 Year Ended December 31
+                                                  1993     1992    1991
+- --------------------------------------------------------------------------
+<S>                                              <C>     <C>      <C>
+ Statutory federal income tax rate               (35.0)% (34.0)%  (34.0)%
+ State income taxes, net                            .1      .1       .2
+ Foreign tax effects                                .5     2.0       .9
+ Tax benefits not recognized
+  subject to future realization                   34.5    31.9     33.2
+ Net operating loss carryback                      (.1)   (4.9)      -
+ Reversal of previously
+  accrued reserve                                   -     (8.2)      -
+ Other                                              -       -        .1
+                                                 -------------------------
+ Effective tax rate                                 -    (13.1)%     .4%
+                                                 =========================
+
+</TABLE>
+
+Deferred tax assets (liabilities) are comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                 Year Ended December 31
+In millions                                          1993      1992
+- -----------------------------------------------------------------------
+<S>                                              <C>         <C>
+Loss carryforwards                                  $145.3     $114.8
+Inventory valuation                                   16.5       12.7
+Product warranty                                      13.0       10.1
+Co-op advertising                                      4.0        1.4
+Merchandising                                          6.7        7.0
+Other                                                 25.7       21.4
+                                                 ----------------------
+ Deferred tax assets                                 211.2      167.4
+                                                 ----------------------
+Depreciation                                          12.6       14.0
+Employee benefits                                       .6         .5
+Other                                                 18.8       18.4
+                                                 ----------------------
+ Deferred tax liabilities                            (32.0)     (32.9)
+                                                 ----------------------
+Valuation allowance                                 (179.2)    (134.5)
+                                                 ----------------------
+ Net deferred tax assets                            $   -      $   -
+                                                 ======================
+
+</TABLE>
+
+<PAGE>
+
+  As of December 31, 1993, the company had $383.5 million of net
+operating loss carryforwards (NOLs) available for financial statement
+purposes. For federal income tax purposes, the company had net operating
+loss carryforwards of $365.5 million and unused tax credits of $4.6 million,
+(which expire from 2000 through 2008).
+  The company expects these NOLs and tax credits to be available in the
+future to reduce the Federal income tax liability of the company. However,
+should there occur a 50% "ownership change" of the company as defined
+under section 382 of the Internal Revenue Code of 1986, the company's
+ability to utilize the NOLs and available tax credits would be restricted
+to a prescribed annual amount (currently 5.06% of the market value of
+the company at the time of the ownership change). The company has
+knowledge of equity holdings and stock options which must be counted
+as changes in the ownership of the company aggregating about 37 percent
+as of the three years ended December 31, 1993. As of the three years
+ended February 28, 1994, this percentage has decreased to about 33 percent.
+   Additional equity-related transactions initiated by the company as well as
+investment decisions made independently by investors may increase this
+percentage in the future.
+
+Note Five - Geographic Segment Data:
+The company's operations involve a dominant industry segment-the
+design, development, manufacture and sale of video products, including
+color television sets, video cassette recorders and other consumer
+electronics products, color picture tubes, computer monitors, cable TV
+products, and parts and accessories for these products.
+   Financial information, summarized by geographic area, is as follows:
+
+<TABLE>
+<CAPTION>
+                                                Year Ended December 31
+In millions                                    1993      1992      1991
+- -------------------------------------------------------------------------
+<S>                                        <C>       <C>       <C>
+Net sales to unaffiliated customers:
+ Domestic companies                        $1,158.8  $1,183.7  $1,258.6
+ Foreign companies                             69.4      59.8      63.0
+                                           ------------------------------
+ Total net sales                           $1,228.2  $1,243.5  $1,321.6
+                                           ==============================
+Income (loss) before income taxes:
+ Domestic companies                        $  (97.6) $ (116.9) $  (48.4)
+ Foreign companies                               .6      (4.9)     (3.0)
+                                           ------------------------------
+ Total income (loss) before income taxes   $  (97.0) $ (121.8) $  (51.4)
+                                           ==============================
+Identifiable assets:
+ Domestic companies                        $  448.6  $  467.3  $  559.8
+ Foreign companies                            110.8     111.3     127.1
+                                           ------------------------------
+ Total identifiable assets                 $  559.4  $  578.6  $  686.9
+                                           =============================
+
+</TABLE>
+
+   Foreign operations consist of manufacturing and sales subsidiaries in
+Mexico and distribution subsidiaries in Canada and Taiwan. Sales to
+affiliates are principally accounted for at amounts based on local costs of
+production plus a reasonable return.
+
+Note Six -- Other Operating Expense (Income):
+Major manufacturers of televisions and video cassette recorders agreed
+during 1992 to take licenses under some of the company's U.S. tuning
+system patents (the licenses expire in 2003). Royalty income related to the
+tuning system patents (after deducting legal expenses) was $25.7 million
+and $26.0 million in 1993 and 1992, respectively, and is included in Other
+Operating Expense (Income). The $26.0 million in 1992 included $5.3
+million of past royalties.
+
+Note Seven - Inventories:
+Inventories consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                       December 31
+In millions                                          1993       1992
+- --------------------------------------------------------------------
+<S>                                                <C>        <C>
+Raw materials and work-in-process                  $137.2     $130.4
+Finished goods                                       78.1       72.8
+                                                   -----------------
+                                                    215.3      203.2
+Excess of FIFO cost over LIFO cost                   (9.1)      (5.3)
+                                                   -----------------
+ Total inventories                                 $206.2     $197.9
+                                                   =================
+
+</TABLE>
+
+   As of December 31, 1993 and 1992, inventories of $24.1 million and
+$19.6 million, respectively, were valued using the LIFO method.
+
+Note Eight - Property, Plant and Equipment:
+Property, plant and equipment consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                     December 31
+In millions                                        1993      1992
+- ---------------------------------------------------------------------
+<S>                                              <C>        <C>
+Land                                             $  7.4     $  8.0
+Buildings                                         151.0      159.5
+Machinery and equipment                           549.9      537.0
+                                               ----------------------
+                                                  708.3      704.5
+Less accumulated depreciation                    (554.4)    (518.4)
+                                               ----------------------
+ Total property, plant and equipment, net        $153.9     $186.1
+                                               ======================
+
+</TABLE>
+
+<PAGE>
+
+Note Nine - Short-term Debt and Credit Arrangements:
+The company entered into a Credit Agreement dated as of May 21, 1993,
+with a lending group led by General Electric Capital Corporation, for
+working capital purposes. Borrowings under the Credit Agreement are
+secured by accounts receivable, inventory, general intangibles, trademarks
+and the tuning system patent license agreements of the company and
+certain of its domestic subsidiaries. The Credit Agreement is scheduled to
+expire on December 31, 1994. The maximum commitment of funds available
+for borrowing under the Credit Agreement is $90 million, but is limited by
+a defined borrowing base formula related to eligible receivables and eligible
+inventory. Net proceeds arising from material asset transactions will result
+in a partial reduction in the maximum commitment of the lenders
+thereunder.  Interest on borrowing is based on market rates with a
+commitment fee of 1/2 % per annum payable monthly on the unused
+balance of the facility. As of December 31, 1993, no borrowings were
+outstanding under the Credit Agreement.
+   The Credit Agreement contains restrictive financial covenants that must
+be maintained as of the end of each fiscal quarter, including a liabilities to
+net worth ratio and a minimum net worth amount. As amended, the ratio of
+liabilities to net worth, as of December 31, 1993, was required to be not
+greater than 3.70 to 1.0 and was actually 2.67 to 1.0, and net worth was
+required to be equal to or greater than 140.0 million and was actually 152.4
+million. At the end of each of the first three fiscal quarters of 1994, the
+liabilities to net worth ratio is required to be maintained at various levels
+ranging from a high of 4.95 to 1.0 to a low of 3.70 to 1.0 and minimum net
+worth is required to be maintained at amounts ranging from a high of
+$120.0 million to a low of $101.0 million. In addition, there are restrictions
+regarding capital expenditures, specified dollar limits on the amount of
+inventory for certain of the company's products, investments, acquisitions,
+guaranties, transactions with affiliates, sales of assets, mergers and
+additional borrowings, along with limitations on liens. The Credit
+Agreement prohibits dividend payments on the company's common stock,
+restricts dividend payments on any of its preferred stock, if issued, and
+prohibits the redemption or repurchase of stock.
+   As of December 31, 1992, the company had $10.1 million outstanding
+under its previous $60 million revolving credit and security agreement. The
+agreement, which was terminated by the company on May 21, 1993,
+contained restrictive covenants similar in nature to the current Credit
+Agreement.
+   Borrowings and interest rates on short-term debt were:
+
+<TABLE>
+<CAPTION>
+                                                Year Ended December 31
+In millions                                    1993      1992      1991
+- -------------------------------------------------------------------------
+<S>                                           <C>       <C>        <C>
+Maximum month-end borrowings                  $66.4     $40.1       $-
+Average daily borrowings                       35.0      23.1        -
+Weighted average interest rate                  8.1%      7.5%       -
+
+</TABLE>
+
+   Contracts with certain foreign suppliers permit the company to elect
+interest-bearing extended-payment terms. As of December 31, 1993 and
+1992, $8.5 million and $10.8 million, respectively, of these obligations
+were outstanding and shown as accounts payable.
+
+
+Note Ten - Long-term Debt:
+The components of long-term debt were:
+
+<TABLE>
+<CAPTION>
+                                                      December 31
+In millions                                          1993     1992
+- ---------------------------------------------------------------------
+<S>                                               <C>      <C>
+12 1/8% notes due 1995                            $  34.5   $ 34.5
+6 1/4% convertible subordinated
+ debentures due 2011                                115.0    115.0
+8.5% senior subordinated
+ convertible debentures due 2000                     55.0       -
+                                                   ------------------
+                                                    204.5    149.5
+Less current portion                                 34.5       -
+                                                   ------------------
+   Total long-term debt                            $170.0   $149.5
+                                                   ==================
+
+</TABLE>
+
+   Subsequent to December 31, 1993, the company redeemed its
+outstanding 12 1/8% notes due 1995 at a redemption price equal to par
+value, totaling $34.5 million plus accrued interest.
+   The 6 1/4% convertible subordinated debentures are unsecured general
+obligations, subordinate in right of payment to certain other debt
+obligations, and are convertible into common stock at $31.25 per share.
+Terms of the debenture agreement include annual sinking-fund payments of
+$5.8 million beginning in 1997. The debentures are redeemable at the
+option of the company, in whole or in part, at specified redemption prices
+at par or above. In November 1993, the company sold to certain institutional
+investors $55 million of 8.5% senior subordinated convertible debentures
+due 2000.  The debentures are unsecured general obligations, subordinate
+in right of payment to certain other debt obligations, and are convertible
+into shares of common stock at an initial conversion price of $9.76 per
+share.  The debentures are redeemable at the option of the company,
+in whole or in part, at any time on or after November 19, 1997, at
+specified redemption prices at par or above.
+   The fair value of long-term debt is $134.4 million as of December 31,
+1993, as compared to the carrying amount of $170.0 million. The fair value
+of the company's 6 1/4% convertible subordinated debentures is based on
+the quoted market price from the New York Stock Exchange. The fair
+value of the 8.5% convertible senior subordinated debentures is based on
+the quoted price obtained from third party financial institutions. Currently,
+the company's Credit Agreement would not allow the company to
+extinguish the long-term debt through purchase and thereby realize the
+gain.
+
+<PAGE>
+
+Note Eleven - Stockholders' Equity:
+Changes in stockholders' equity accounts are shown below:
+
+<TABLE>
+<CAPTION>
+                                                       Additional
+                                             Common     Paid-in     Treasury
+In millions                                   Stock     Capital      Shares
+- -----------------------------------------------------------------------------
+<S>                                          <C>       <C>          <C>
+Balance, December 31, 1990                    $27.7      $152.5       $(.7)
+ Sale of common stock                           1.5        12.9          -
+ Other                                           -          (.1)        .2
+                                              -------------------------------
+Balance, December 31, 1991                     29.2       165.3        (.5)
+ Stock issued for benefit plans                 1.0         5.2          -
+ Stock issued for stock options                  .1          .7          -
+ Other                                           -           .2          -
+                                              -------------------------------
+Balance, December 31, 1992                     30.3       171.4        (.5)
+ Sales of common stock                          3.4        19.8          -
+ Stock issued for benefit plans                 2.0        12.6          -
+ Stock issued for stock options                  .1          .6          -
+ Other                                           .1          .7          -
+                                              -------------------------------
+Balance, December 31, 1993                    $35.9      $205.1       $(.5)
+                                              ===============================
+
+</TABLE>
+
+   A Registration Statement filed with the Securities and Exchange
+Commission covering 5 million shares of common stock became effective
+in May 1993. The company sold 3.4 million shares of authorized but
+unissued shares of common stock to investors under this shelf registration
+during 1993. Subsequent to December 31, 1993, the company sold the
+remaining 1.6 million shares under this registration and an additional 2.0
+million shares under a new shelf registration and intends to file a
+shelf registration for an additional 5.0 million shares.
+   On February 25, 1991, the company entered into investment and
+technology agreements with GoldStar Co. Ltd. Under the investment
+agreement, the company sold to GoldStar 1,450,000 shares of previously
+authorized but unissued common stock for $15.0 million.
+   Pursuant to a Rights Agreement (as amended), a "right" entitling the
+holder thereof to purchase under certain conditions, one-half of one share
+of common stock at an exercise price of $37.50, subject to adjustment, was
+distributed with respect to each outstanding share of common stock in
+1986, and with respect to each additional share of common stock that has
+become outstanding since then.
+   The rights will become exercisable upon the earlier to occur of (i) the
+10th day after a public announcement that a third party has become the
+beneficial owner of 25% or more of the outstanding common stock (an
+"acquiring person") or (ii) the 10th day after the commencement of, or the
+announcement of an intention to commence, an offer the consummation of
+which would result in a third party beneficially owning 25% or more of the
+common stock.
+   In the event any person becomes an acquiring person, each holder of a
+right (other than the acquiring person) will thereafter have the right to
+receive upon exercise that number of shares of common stock having a
+market value of two times the exercise price of the right. The rights, which
+have no voting rights, expire in 1996. The rights may be redeemed at the
+option of the company at any time prior to such time as any person
+becomes an acquiring person. Under certain conditions and following a
+stockholder vote, the rights shall be redeemed by the company. In either
+case, the redemption price will be $.05 per right, subject to adjustment.
+   The Rights Agreement also provides that under certain circumstances at
+any time after any person has become an acquiring person, the Board of
+Directors may exchange the rights (other than rights owned by such
+person) in whole or in part, for common stock at an exchange ratio of one-
+half of a share of common stock per right, subject to adjustment.
+   At the company's Annual Meeting of Stockholders in May 1993, the
+stockholders approved the authorization of 8 million shares of preferred
+stock of which none are issued or outstanding as of December 31, 1993.
+The Board of Directors of the company is authorized to issue the preferred
+stock from time to time in one or more series and to determine all relevant
+terms of each such series, including but not limited to the following (i)
+whether and upon what terms, the shares of such series would be
+redeemable; (ii) whether a sinking fund would be provided for the
+redemption of the shares of such series and, if so, the terms thereof; and
+(iii) the preference, if any, to which shares of such series would be entitled
+in the event of voluntary or involuntary liquidation of the company.
+
+Note Twelve - Stock Options and Awards:
+The 1987 Stock Incentive Plan authorizes the granting of incentive and
+non-qualified stock options, restricted stock awards and stock appreciation
+rights to key management personnel. The purchase price of shares under
+option is the market price of the shares on the date of grant. Options expire
+10 years from the date granted.
+   Transactions in 1993 and 1992 are summarized below:
+
+<TABLE>
+<CAPTION>
+                                                      1993           1992
+- -----------------------------------------------------------------------------
+<S>                                                 <C>            <C>
+Options outstanding at January 1                    1,854,430      1,598,206
+Options granted                                       433,550        471,050
+Options exercised                                     (95,675)       (98,600)
+Options canceled or expired                          (211,300)      (116,226)
+                                                   --------------------------
+Options outstanding at December 31                  1,981,005      1,854,430
+
+Options exercisable at December 31                  1,388,005      1,192,255
+
+Shares available for grant at December 31             695,431        189,309
+
+Option prices per share:
+ Outstanding at January 1                      6 3/8 - 13 3/4  6 3/8 - 14 1/8
+ Granted                                       6 3/4 -  7 1/4  6 5/8 -  9 3/4
+ Exercised                                     6 3/8 -  8 3/8  6 7/8 -  8 3/8
+ Canceled or expired                           6 7/8 - 13 3/4  6 7/8 - 14 1/8
+ Outstanding at December 31                    6 3/8 -  9 3/4  6 3/8 - 13 3/4
+
+</TABLE>
+
+   The company had 63,837 and 69,836 restricted stock awards issued and
+outstanding as of December 31, 1993 and 1992, respectively. The market
+value of the restricted shares is deferred in the additional paid-in capital
+account and amortized over the years the restrictions lapse. Total
+compensation expense in 1993 and 1992, related to these awards, was not
+material.
+
+<PAGE>
+
+Note Thirteen - Retirement Plans and Employee Benefits:
+Virtually all employees in the United States and Canada are eligible to
+participate in noncontributory profit-sharing retirement plans after
+completing one full year of service. The plans provide for a minimum
+annual contribution of 6% of employees' eligible compensation.
+Contributions above the minimum could be required based upon profits in
+excess of a specified return on net worth. Profit-sharing contributions were
+$9.7 million, $11.1 million and $11.5 million in 1993, 1992 and 1991,
+respectively. The 1993, 1992 and 1991 contributions were partially funded
+through the issuance of approximately 1,021,000, 982,000 and 1,000,000
+shares, respectively, of the company's common stock.
+   Employees in Mexico and Taiwan are covered by government- mandated
+plans, the costs of which are accrued by the company.
+   In the fourth quarter of 1993, the company elected early adoption of
+Statement of Financial Accounting Standards (SFAS) No.112, "Employers'
+Accounting for Postemployment Benefits." This statement requires that the
+company follow an accrual method of accounting for the benefits payable
+to employees when they leave the company other than by reason of
+retirement. Since most of these benefits were already accounted for by the
+company by the accrual method, adoption of SFAS No 112 did not have a
+material effect on the financial statements of the company, nor is it
+expected to have a material effect on future results of operations.
+   Presently, the company does not offer any postretirement benefits; as a
+result, the 1992 adoption of SFAS No. 106 did not have any effect on the
+financial statements of the company.
+
+
+Note Fourteen - Contingencies:
+The company is involved in various legal actions, environmental matters,
+patent claims, and other proceedings relating to a wide range of matters
+that are incidental to the conduct of its business. In addition, the company
+remains liable for certain retained obligations of a discontinued business,
+principally income and other taxes prior to the closing of the sale. The
+company believes, after reviewing such matters and consulting with the
+company's counsel, that any liability which may ultimately be incurred with
+respect to these matters is not expected to have a material effect on either
+the company's consolidated financial position or results of operations.
+
+Note Fifteen - Reclassifications:
+Certain prior-year amounts have been reclassified to conform with the
+presentation used in the current year.
+
+<PAGE>
+
+               REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+       --------------------------------------------------------------
+
+To the Stockholders of Zenith Electronics Corporation:
+We have audited the accompanying consolidated balance sheets of Zenith
+Electronics Corporation (a Delaware corporation) and subsidiaries as of
+December 31, 1993 and 1992, and the related statements of consolidated
+operations and retained earnings and cash flows for each of the three years
+in the period ended December 31, 1993. These financial statements are the
+responsibility of the company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+   We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits provide
+a reasonable basis for our opinion.
+   In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Zenith
+Electronics Corporation and subsidiaries as of December 31, 1993 and
+1992, and the results of their operations and their cash flows for each of
+the three years in the period ended December 31, 1993, in conformity with
+generally accepted accounting principles.
+
+                                               /S/ARTHUR ANDERSEN & CO.
+                                               ------------------------
+                                                 ARTHUR ANDERSEN & CO.
+Chicago, Illinois,
+February 14, 1994
+
+<PAGE>
+
+
+                 UNAUDITED QUARTERLY FINANCIAL INFORMATION
+            -----------------------------------------------------
+
+In millions, except per share amounts
+
+<TABLE>
+<CAPTION>
+                                  1993 Quarters Ended                     1992 Quarters Ended
+                        -----------------------------------  -------------------------------------------
+                        Dec. 31(1)  Oct. 2  July 3  April 3   Dec. 31(2)  Sept. 26(3)  June 27  Mar. 28
+- --------------------------------------------------------------------------------------------------------
+<S>                     <C>         <C>     <C>     <C>       <C>         <C>         <C>       <C>
+Net sales                $361.2     $301.8  $274.7  $290.5     $385.0      $313.3       $280.0   $265.2
+
+Gross margin               26.1       17.2     9.0    12.0       27.1        17.4          9.6     10.1
+
+Net income (loss)         (36.0)     (14.5)  (24.7)  (21.8)     (20.3)      (41.8)       (15.2)   (28.6)
+
+Per share of common
+ stock (primary and
+ fully diluted):
+ Net income (loss)       $(1.04)     $(.44)  $(.79)  $(.72)     $(.67)     $(1.42)       $(.52)   $(.98)
+
+New York Stock Exchange
+ market price per
+ share:
+ High                     8 1/8      8 3/8   10 1/2   8 3/8      7         8              9 3/8    11 1/8
+ Low                      6 1/4      6 1/4    6 1/2   5 7/8      5         6 1/8          6 3/4     7 1/4
+ End of quarter           7          6 1/2    7 7/8   7          5 7/8     6 1/4          7 1/4     9 1/8
+
+
+<FN>
+ (1) Includes $31.0 million of restructuring and other charges (see Note 3
+of Notes to Consolidated Financial Statements).
+
+ (2) Includes $24.8 million of restructuring and other charges (see Note 3
+of Notes to Consolidated Financial Statements) and $10.0 million of income
+tax credits (see Note 4 of Notes to Consolidated Financial Statements).
+
+ (3) Includes $23.3 million of restructuring and other charges (see Note 3
+of Notes to Consolidated Financial Statements).
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10(E) TO 1993 FORM 10-K
+<TEXT>
+
+<PAGE>
+
+                                                EXHIBIT (10e)
+
+                             AMENDMENT TO
+                       RESTRICTED STOCK AGREEMENT
+
+
+          AGREEMENT, made and entered into this 28th day of March, 1988
+between Zenith Electronics Corporation, a Delaware corporation (the "Company")
+and Jerry K. Pearlman ("Executive").
+
+
+                                Recitals
+
+
+          Pursuant to a Restricted Stock Agreement dated December 3, 1986
+between the Company and Executive (the "Restricted Stock Agreement"), the
+Company issued to Executive certain shares of Common Stock of the Company
+subject to restrictions on transfer and risks of forfeiture (the "Restricted
+Shares").
+
+
+          Sections 6 and 7 of the Restricted Stock Agreement require, in
+certain circumstances, that the Company repurchase from the Executive some
+or all of the Restricted Shares.
+
+
+          In recognition of the fact that the Company may, by contractual or
+legal requirements, be prohibited from repurchasing Restricted Shares, the
+Company and Executive desire to amend the Restricted Stock Agreement.
+
+
+          NOW, THEREFORE, the parties agree as follows:
+
+
+          1.    Section 6(a) of the Restricted Stock Agreement is amended
+by adding the following sentence at the end of said subsection:
+
+          "Notwithstanding the foregoing provision, the
+           Company may, by written notice delivered to the
+           Executive's estate within 90 days following the
+           date of Executive's death, elect not to repurchase
+           any Restricted Shares owned by Executive at the
+           date of his death in which event all Restricted
+           Shares so held shall be and become free of all
+           restrictions under this Agreement and, in addition,
+           the Company shall pay to Executive's estate as
+           additional compensation for Executive's past ser-
+           vices a lump sum cash amount equal to the excess,
+           if any, of $20.00 per share for each Restricted
+           Share so held, (appropriately adjusted to reflect
+           any stock splits, stock dividends or other capital
+           changes) over the market price per share determined
+           as of the date of Executive's death."
+
+
+          2.     Section 7(b) of the Restricted Stock Agreement is amended
+by adding the following sentence at the end of said subsection:
+
+
+          "Notwithstanding the foregoing provision of this
+          subsection, the Company may, by written notice
+          delivered to Executive within 90 days following the
+          determination date, elect to waive all restrictions
+          and risks of forfeiture, so as to permit the sale
+          of all Restricted Shares by Executive, in which
+          event the Company shall not be obligated to pur-
+          chase the Restricted Shares.  In the event of such
+          election by the Company, the Company shall direct
+          the Escrow Agent to deliver certificates repre-
+          senting the Restricted Shares to Executive.  If
+          Executive desires to sell such Restricted Shares,
+          he shall within 90 days following receipt of the
+          certificates therefore, advise the Company in writ-
+          ing and the Company shall within 20 days after
+          receipt of such written advice designate a third
+          party purchaser to purchase such shares for cash.
+          Within 20 days following the closing of such sale
+          and purchase, the Company shall pay to executive as
+          additional compensation a lump sum cash payment
+          equal to the excess, if any, of the market value of
+          the Restricted Shares on the determination date
+          over the sales price received by Executive upon sale
+          of the Restricted Shares to the designated third
+          party.  If Executive does not advise the Company
+          within 90 days following receipt of a certificate
+          for the Restricted Shares that he desires to
+          sell them, the Company shall have no further
+          obligations under this Agreement."
+
+               IN WITNESS WHEREOF, the parties have executed
+this Agreement this 28th day of March, 1988.
+
+
+                                ZENITH ELECTRONICS CORPORATION
+
+
+                                By /s/ H.H Graham
+                                   --------------------------
+
+                                   /s/ Jerry K. Pearlman
+                                   --------------------------
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 10(N) TO 1993 FORM 10-K
+<TEXT>
+
+<PAGE>
+
+                                                 Exhibit (10n)
+
+
+
+                        ZENITH ELECTRONICS CORPORATION
+                      STOCK INDEMNIFICATION RIGHTS GRANT
+
+          AGREEMENT, made this______day of___________, 1988 between
+ZENITH ELECTRONICS CORPORATION, a Delaware corporation (the "Corporation")
+and ________________________________________________("Grantee").
+
+          WHEREAS, the 1987 Zenith Stock Incentive Plan (the "Plan") of the
+Corporation permits the grant of Stock Indemnification Rights with respect
+to previously or simultaneously granted stock options; and
+
+          WHEREAS, under date(s) of Grantee was granted option(s) to purchase
+shares respectively of common stock (the "related options"); and
+
+          WHEREAS, Grantee has been granted Stock Indemnification Rights
+with respect to the related options pursuant to the Plan; and
+
+          WHEREAS, the Corporation desires by this Agreement to set forth
+the terms and conditions of the Stock Indemnification Rights;
+
+          NOW, THEREFORE, the parties agree as follows:
+
+          1.     Definitions.  As used in this Agreement, the following
+terms shall have the following defined meanings:
+
+               (a)     "Rights" shall mean the Stock Indemnification
+          Rights granted by this Agreement.
+
+               (b)     "Window Period" shall mean the ten consecutive
+          business day period beginning on the third business day
+          following the release by the Corporation of its quarterly or
+          annual summary statement of sales and earnings.
+
+               (c)     "Fair Market Value" shall mean the mean between
+          the high and low sales price of a share of common stock of the
+          Corporation of the New York Stock Exchange Composite Tape on
+          the date for which such value is to be determined as reported
+          in the Wall Street Journal, or if there are no sales prices so
+          reported for the date upon which such value is to be determined,
+          the value as so determined on the latest date preceding the date
+          for which the value is to be determined for which sales prices
+          are reported, or if the Corporation's common stock is not traded
+          on the New York Stock Exchange, the value determined by the
+          Corporation on such other basis as it shall, in its discretion,
+          deem reasonable.
+
+               (d)     "Option Price" shall mean the per share price which
+          Grantee is required to pay to the Corporation as the
+          consideration for the purchase of shares under the related option.
+
+               (e)     "Exercise Date" shall mean the date or dates upon
+          which Grantee shall exercise the related options.
+
+               (f)     "Valuation Date" shall mean the date occurring six
+          months following the Exercise Date, provided that if prior to the
+          date occurring six months following the Exercise Date the Grantee
+          is free to sell shares purchased under the related options free of
+          any restrictions imposed by the Corporation and without liability
+          under Section 16(b) of the Securities and Exchange Act of 1934,
+          the Valuation Date shall mean the first date upon which Grantee
+          may so sell such shares.
+
+               (g)     "Sale Date" shall mean the date occurring on or after
+          the Valuation Date and during the term of the Right on which
+          Grantee, or in the event of his death, his personal representative,
+          estate or beneficiary shall sell in an arm's length transaction
+          shares purchased on the Exercise Date pursuant to exercise of the
+          related option.
+
+<PAGE>
+
+          2.     Grant.  Provided that Grantee is an officer, director, or
+employee of the Corporation on whom the Corporation or the Securities and
+Exchange Commission imposes a holding period restriction with respect to
+shares of common stock of the Corporation acquired at the time of exercise,
+in whole or in part, of the related option, the Grantee is hereby granted
+Rights with respect to shares of common stock so purchased on exercise of
+the related option if such exercise occurs during a Window Period.
+
+          3.     Term of Rights.  The term of the Rights shall commence with
+respect to shares purchased pursuant to exercise of the related option on
+the Exercise Date and shall terminate on the first to occur of (i) the
+fifth anniversary of the Exercise Date, or (ii) the date upon which the
+Grantee voluntarily terminates his employment with the Corporation other
+than by reason of disability or retirement, provided that if Grantee's
+employment shall terminate by reason of his death, the right shall
+terminate on the first to occur of the third anniversary of the date
+of death of Grantee or the fifth anniversary of the Exercise Date.
+
+          4.     Indemnification.  In the event Grantee, or in the event of
+his death, his personal representative, estate of beneficiary, shall
+sell in an arm's length transaction shares of common stock of the
+Corporation purchased by Grantee upon exercise of the related option
+during the period commencing on the Valuation Date and during the term of
+the Right, the Corporation agrees to indemnify the Grantee, or in
+the event of his death, his personal representative, estate or beneficiary
+to the extent herein provided.  If on the Sale Date, the Fair Market Value
+of the shares so sold shall be less than the Fair Market Value of such
+shares on the Exercise Date, the Corporation shall pay to Grantee, or
+his personal representative, estate or beneficiary, an indemnification
+payment (the "indemnification payment") in an amount equal to the lesser of
+(a) the excess of the Fair Market Value on the Sale Date or (b) the
+excess of the Fair Market Value of such shares on the Exercise
+Date over the Option Price, or (c) the excess of the Fair Market Value of
+such shares on the Exercise Date over the Fair Market Value of such shares
+on the Valuation Date.
+
+          5.     Form and Time of Payment.  Any indemnification payment to
+which Grantee or his personal representative, estate or beneficiary is
+entitled pursuant to Section 4 above shall be made in cash as soon as
+practicable following delivery to the Corporation of evidence of the sale
+of the shares at a price and on conditions giving rise to entitlement
+to the indemnification payment.
+
+          6.     Non-Transferability.  The rights of Grantee hereunder may
+not be sold, transferred, pledged, assigned or otherwise alienated or
+hypothecated.
+
+          IN WITNESS WHEREOF, the parties have executed this Agreement as of
+the day and year first above stated.
+
+
+                                          ZENITH ELECTRONICS CORPORATION
+
+
+
+                                          By
+                                            -----------------------------
+
+
+                                          -------------------------------
+                                                     GRANTEE
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 21 TO 1993 FORM 10-K
+<TEXT>
+
+
+<PAGE>
+
+                                                       EXHIBIT 21
+
+
+                ZENITH ELECTRONICS CORPORATION SUBSIDIARIES
+
+
+                                                         State or Other
+                                                Jurisdiction of Incorporation
+- -----------------------------------------------------------------------------
+
+Cableproductos de Chihuahua, S.A. de C.V.                    Mexico
+Electro Partes de Matamoros, S.A. de C.V.                    Mexico
+Interocean Advertising Corporation                           New York
+Interocean Advertising Corporation of California             California
+Interocean Advertising Corporation of Illinois               Illinois
+Productos Magneticos de Chihuahua, S.A. de C.V.              Mexico
+Partes de Television de Reynosa, S.A. de C.V.                Mexico
+Radio Componentes de Mexico, S.A. de C.V.                    Mexico
+Telson, S.A. de C.V.                                         Mexico
+Zenco de Chihuahua, S.A. de C.V.                             Mexico
+Zenith Distributing Corporation of Illinois                  Illinois
+Zenith Distributing Corporation-Midstates                    Kansas
+Zenith Distributing Corporation of New England               Delaware
+Zenith Distributing Corporation of New York                  New York
+Zenith Distributing Corporation-Southeast                    Delaware
+Zenith Distributing Corporation-West                         California
+Zenith Distributing Corporation of Arizona                   Arizona
+Zenith Electronics Corporation of Pennsylvania               Pennsylvania
+Zenith Electronics Corporation of Texas                      Texas
+Zenith Electronics (Europe) Limited                          England
+Zenith Electronics (Ireland) Limited                         Ireland
+Zenith Electronics (Pacific) Ltd.                            Hong Kong
+Zenith Electronics Universal Sales Corporation               Delaware
+Zenith/Inteq, Inc.                                           Delaware
+Zenith Microcircuits Corporation                             Delaware
+Zenith Radio Canada Ltd/Zenith Radio Canada Ltee             Canada
+Zenith Taiwan Corporation                                    Taiwan
+Zenith Video Tech Corporation                                Delaware
+Zenith Video Tech Corporation-Florida                        Delaware
+Zentrans, Inc.                                               Delaware
+
+* All subsidiaries are wholly-owned by Zenith Electronics Corporation except
+for Radio Componentes de Mexico, S.A. de C.V. which is a wholly-owned
+subsidiary of Cableproductos de Chihuahua S.A. de C.V.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT 23 TO 1993 FORM 10-K
+<TEXT>
+
+
+<PAGE>
+
+                                                               EXHIBIT 23
+
+                    CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                    -----------------------------------------
+
+As independent public accountants, we hereby consent to the incorporation
+of our reports dated February 14, 1994, included in this Form 10-K for the
+year ended December 31, 1993, into the Company's previously filed
+Registration Statements on Form S-8, File Nos. 33-15643 and 33-11295.
+
+
+                                                 /s/ ARTHUR ANDERSEN & CO.
+                                                 -------------------------
+                                                 ARTHUR ANDERSEN & CO.
+
+Chicago, Illinois,
+March 3, 1994
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

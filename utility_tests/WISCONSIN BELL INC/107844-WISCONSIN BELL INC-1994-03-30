@@ -1,0 +1,2762 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ YOEqO/qVxMIV2VK1eArG35y3zAPmTQc2VIl6D+XWz8zJ0kw519VM42sCy9M0nQBo
+ p1VqpBRYsShfq3XTYUvoeQ==
+
+<IMS-DOCUMENT>0000107844-94-000006.txt : 19940404
+<IMS-HEADER>0000107844-94-000006.hdr.sgml : 19940404
+ACCESSION NUMBER:		0000107844-94-000006
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WISCONSIN BELL INC
+		CENTRAL INDEX KEY:			0000107844
+		STANDARD INDUSTRIAL CLASSIFICATION:	4813
+		IRS NUMBER:				390716650
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-06589
+		FILM NUMBER:		94519266
+
+	BUSINESS ADDRESS:	
+		STREET 1:		722 N BROADWAY
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		4145497102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WISCONSIN TELEPHONE CO
+		DATE OF NAME CHANGE:	19840330
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>1993 10-K
+<TEXT>
+
+                                   FORM 10-K
+
+                                            
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            WASHINGTON, D.C. 20549
+
+                                                  
+
+
+             (X) ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF
+              THE SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+                  For the fiscal year ended December 31, 1993
+
+             ( ) Transition Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+                                                  
+
+
+                         Commission file number 1-6589
+
+
+                             WISCONSIN BELL, INC.
+
+               A Wisconsin                       I.R.S. Employer
+               Corporation                       No. 39-0716650
+
+                722 North Broadway, Milwaukee, Wisconsin 53202
+                         Telephone Number 414 549-7102
+
+                                                  
+
+Securities registered pursuant to Section 12(b) of the Act:  See attached
+                                                             Schedule A.
+
+Securities registered pursuant to Section 12(g) of the Act:  None.
+
+
+THE REGISTRANT, A WHOLLY-OWNED SUBSIDIARY OF AMERITECH 
+CORPORATION, MEETS THE CONDITIONS SET FORTH IN GENERAL 
+INSTRUCTION J(1)(a) AND (b) OF FORM 10-K AND IS THEREFORE FILING 
+THIS FORM WITH REDUCED DISCLOSURE FORMAT PURSUANT TO GENERAL 
+INSTRUCTION J(2).  
+
+
+     Indicate by check mark whether the registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act 
+of 1934 during the preceding 12 months (or for such shorter period that the 
+registrant was required to file such reports), and (2) has been subject to 
+such filing requirements for the past 90 days.  Yes   X    No      
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Schedule A
+
+
+     Securities registered pursuant to Section 12(b) of the Act:  
+
+     ______________________________________________________________________
+                                                    Name of each exchange
+               Title of each class                   on which registered   
+
+     Thirty-Six Year 7 1/4% Debentures,           New York Stock Exchange
+          due February 1, 2007
+
+                                                                           
+
+<PAGE>
+                             TABLE OF CONTENTS
+
+                                  PART I
+                                Description
+
+Item                                                                    Page 
+
+ 1.  Business ..........................................................  4
+
+ 2.  Properties ........................................................ 14
+
+ 3.  Legal Proceedings ................................................. 14
+
+ 4.  Submission of Matters to a Vote of Security Holders (Omitted
+       pursuant to General Instruction J(2)).  
+
+
+                                  PART II
+                                Description
+
+ 5.  Market for the Registrant's Common Equity and Related Stockholder
+       Matters (Inapplicable).  
+
+ 6.  Selected Financial and Operating Data ............................. 15
+
+ 7.  Management's Discussion and Analysis of the Results of Operations
+       (Abbreviated pursuant to General Instruction J(2))............... 17
+
+ 8.  Financial Statements and Supplementary Data ....................... 23
+
+ 9.  Changes in and Disagreements on Accounting and Financial 
+       Disclosure....................................................... 42
+
+
+                                 PART III
+                                Description
+
+10.  Directors and Executive Officers of Registrant (Omitted pursuant
+       to General Instruction J(2)).  
+
+11.  Executive Compensation (Omitted pursuant to General Instruction
+       J(2)).  
+
+12.  Security Ownership of Certain Beneficial Owners and Management
+       (Omitted pursuant to General Instruction J(2)).  
+
+13.  Certain Relationships and Related Transactions (Omitted pursuant 
+       to General Instruction J(2)).  
+
+
+                                  PART IV
+                                Description
+
+14.  Exhibits, Financial Statement Schedules, and Reports on Form 
+       8-K ............................................................. 43
+<PAGE>
+                                   PART I
+
+Item 1.  Business.  
+
+General
+
+Wisconsin Bell, Inc. (the Company), is incorporated under the laws of the 
+State of Wisconsin and has its principal office at 722 North Broadway, 
+Milwaukee, Wisconsin 53202 (telephone number 414-549-7102).  The Company is a 
+wholly owned subsidiary of Ameritech Corporation (Ameritech), a Delaware 
+corporation.  Ameritech is the parent of the Company, Illinois Bell Telephone 
+Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone 
+Company and The Ohio Bell Telephone Company (the "landline telephone 
+companies"), as well as several other communications businesses and has its 
+principal executive offices at 30 South Wacker Drive, Chicago, Illinois 60606 
+(telephone number 312-750-5000).  The Company is managed by its sole 
+shareholder rather than a Board of Directors as permitted by Wisconsin law.  
+
+In 1993, Ameritech restructured its landline telephone companies and two other 
+related businesses into a structure of customer-specific business units 
+supported by a single, regionally coordinated network unit.  The five Bell 
+companies continue to function as legal entities, owning Bell company assets 
+in each state and continue to be regulated by the individual state public 
+utility commissions.  Products and services are now marketed under a single 
+common brand identity, "Ameritech," rather than using the "Bell" name.  
+While the Ameritech logo in now used to identify all the Ameritech companies, 
+the Company is sometimes regionally identified as Ameritech Wisconsin.  
+
+The Company is engaged in the business of furnishing a wide variety of 
+advanced telecommunications services in Wisconsin, including local exchange 
+and toll service and network access services in Wisconsin.  In accordance with 
+the Consent Decree and resulting Plan of Reorganization (Plan) described 
+below, the Company provides two basic types of telecommunications services 
+within speci-fied geograph-ical areas termed Local Access and Transport Areas 
+(LATAs), which are generally centered on a city or other identifiable 
+community of interest.  The first of these services is the transporting of 
+telecommunica-tions traffic between telephones and other equipment on 
+customers' premises located within the same LATA (intraLATA service), which 
+can include toll service as well as local service.  The second service is 
+providing exchange access service, which links a customer's telephone or other 
+equipment to the network of transmission facilities of interexchange carriers 
+which provide telecommunications service between LATAs (interLATA service).  
+
+About 67 percent of the population and 14 percent of the area of Wisconsin is 
+served by the Company.  The remainder of the state is served by other local 
+telecommunications companies.  La Crosse, Wisconsin, is the only city of over 
+50,000 population in the State in which local service is furnished by a non-
+affiliated company.  Other communications services offered by the Company 
+include data transmission, transmission of radio and television programs and 
+private line voice and data services.  
+
+<PAGE>
+The following table sets forth for the Company the number of customer lines 
+in service at the end of each year.  
+
+                                                 Thousands                
+                                  1993      1992     1991     1990     1989     
+Customer Lines
+in Service . . . . . . . . .     1,898     1,834    1,784    1,738    1,684
+
+The Company has certain agreements with Ameritech Publishing, Inc. ("Ameritech 
+Publishing"), an Ameritech business unit doing business as "Ameritech 
+Advertising Services," under which Ameritech Publishing publishes and 
+distributes classified directories under a license from the Company and 
+provides services to the Company relating to both classified and alphabetical 
+directories.  API pays license fees to the Company under the agreements.  
+
+Ameritech Services, Inc. (ASI) is a company jointly owned by the Company and 
+the other Ameritech landline telephone companies.  ASI provides to those 
+companies human resources, technical, marketing, regulatory planning and real 
+estate asset management services, purchasing and material management support, 
+as well as labor contract bargaining oversight and coordination.  ASI acts as 
+a shared resource for the Ameritech subsidiaries providing operational support 
+for the landline telephone companies and integrated communications and 
+information systems for all the business units.  
+
+Ameritech Information Systems, Inc., a subsidiary of Ameritech, sells, 
+installs and maintains business customer premises equipment, and sells network 
+and central office-based services provided by the Company and the other four 
+landline telephone companies.  It also provides expanded marketing, product 
+support and technical design resources to large business customers in the 
+Ameritech region.  
+
+In 1993, about 91% of the total operating revenues of the Company were from 
+telecommunications services and the remainder principally from billing and 
+collection services, rents, directory advertising and other miscellaneous 
+nonregulated operations.  About 75% of the revenues from communication 
+services were attributable to intrastate operations.  
+
+Capital expenditures represent the single largest use of Company funds.  The 
+Company has been making and expects to continue to make large capital 
+expenditures to meet the demand for telecommunications services and to further 
+improve such services.  The total investment in telecommunications plant 
+increased from about $2,571,000,000 at December 31, 1988, to about 
+$2,724,000,000 at December 31, 1993, after giving effect to retirements but 
+before deducting accumulated depreciation at either date.  Capital 
+expenditures of the Company since January 1, 1989, were approximately as 
+follows:  
+
+     1989 .............. $174,000,000      1992 .............. $174,000,000
+     1990 .............. $155,000,000      1993 .............. $147,000,000
+     1991 .............. $164,000,000      
+
+Expanding on the aggressive deployment plan it began it 1992, in January 1994, 
+Ameritech unveiled a multi-billion dollar plan for a digital network to 
+deliver video services.  Ameritech is launching a digital video network 
+upgrade that by the end of the decade will enable 6,000,000 customers in its 
+<PAGE>
+region to access interactive information and entertainment services, as well 
+as traditional cable TV services, from their homes, schools, offices, 
+libraries and hospitals.  The Company, for its part in the network upgrade 
+has made an initial filing with the Federal Communications Commission (FCC) 
+seeking approval of the program.  The filing reflects capital expenditures of 
+approximately $53.0 over the next three years.  
+
+The Company may also, depending on market demand make additional capital 
+expenditures under the digital video network upgrade program.  The Company 
+anticipates that its capital expenditures for the program will be funded 
+without increasing its recent historical level of capital expenditures.  
+Capital expenditures are expected to be about $156.0 in 1994.  This amount 
+excludes any capital expenditures that may occur in 1994 related to the above 
+described video network upgrade program.  
+
+Consent Decree and Line of Business Restrictions
+
+On August 24, 1982, the United States District Court for the District of 
+Columbia (Court) approved and entered a consent decree entitled the 
+"Modification of Final Judgment" (Consent Decree), which arose out of 
+antitrust litigation brought by the Department of Justice (DOJ), and which 
+required AT&T to divest itself of ownership of those portions of its wholly--
+owned Bell operating communications company subsidiaries (Bell Companies) that 
+related to exchange telecommunications, exchange access and printed directory 
+advertising, as well as AT&T's cellular mobile communications business.  On 
+August 5, 1983, the Court approved a Plan outlining the method by which AT&T 
+would comply with the Consent Decree.  Pursuant to the Consent Decree and the 
+Plan, effective January 1, 1984, AT&T divested itself of, by transferring to 
+Ameritech, its ownership of the exchange telecommunications, exchange access 
+and printed directory advertising portions of the Ameritech Bell Companies, 
+as well as its regional cellular mobile communications business.  
+
+The Consent Decree, as originally approved by the Court in 1982, provided 
+that the Company (as well as the other Bell Companies) could not, directly 
+or through an affiliated enterprise, provide interLATA telecommunica-tions 
+services or information services, manufacture or provide telecommun-ications 
+products or provide any product or service, except exchange telecom-
+munications and exchange access service, that is not a natural monopoly 
+service actually regulated by tariff.  The Consent Decree allowed the Company 
+and the other Bell Companies to provide printed directory advertising and to 
+provide, but not manufacture, customer premises equipment.  
+
+The Consent Decree provided that the Court could grant a waiver to a Bell 
+Company or its affiliates upon a showing to the Court that there is no 
+substantial possibility that the Bell Company could use its monopoly power 
+to impede competition in the market it seeks to enter.  The Court has, from 
+time to time, granted waivers to the Company and other Bell Companies to 
+engage in various activities.  
+
+The Court's order approving the Consent Decree provides for periodic reviews 
+of the restrictions imposed by it.  Following the first triennial review, in 
+decisions handed down in September 1987 and March 1988, the Court continued 
+the prohibitions against Bell Company manufacturing of telecommunications 
+products and provision of interLATA services.  The rulings allowed limited 
+provision of information services by transmission of information and provision 
+<PAGE>
+of information gateways, but excluded generation or manipulation of 
+information content.  In addition, the rulings eliminated the need for a 
+waiver for entry into non-telephone related businesses.  
+
+In April 1990, a Federal appeals court decision affirmed the Court's decision 
+continuing the restriction on Bell Company entry into interLATA services and 
+the manufacture of telecommunications equipment, but directed the Court to 
+review its ruling that restricted RHC involvement in the information services 
+business and to determine whether removal of the information services 
+restriction would be in the public interest.  In July 1991, the Court lifted 
+the information services ban but stayed the effect of the decision pending 
+outcome of the appeals process.  Soon after the stay was lifted on appeal and 
+in July 1993, the U.S. Court of Appeals unanimously upheld the Court's order 
+allowing the Bell companies to produce and package information for sale across 
+business and home phone lines.  In November 1993, the U.S. Supreme Court 
+declined to review the lower court ruling.  
+
+Members of Congress and the White House are intensifying efforts to enact 
+legislative reform of telecommunications policy in order to stimulate the 
+development of a modern national information infrastructure to bring the 
+benefits of advanced communications and information services to the American 
+people.  
+
+Intrastate Rates and Regulation
+
+The Company, in providing communications services, is subject to regulation 
+by the Public Service Commission of Wisconsin (PSCW) with respect to 
+intrastate rates and services, depreciation rates (for intrastate services), 
+issuance of securities and other matters.  Unless otherwise indicated, the 
+amounts of the changes in revenues resulting from changes in intrastate rates 
+referred to below are stated on an annual basis and are estimates without 
+adjustment for subsequent changes in volumes of business.  The principal 
+changes in intrastate rates authorized since January 1, 1989, were:
+
+On June 29, 1989, the PSCW approved an order which extended competition to 
+some intraLATA toll services by authorizing interexchange carriers to provide 
+certain services in competition with the Company and other local carriers.  As 
+a result, effective July 6, 1989, the PSCW approved the Company's proposals to 
+reprice the intraLATA toll services that would be affected by the new 
+competitive environment.  These services include WATS and 800 Services and 
+Value Calling Plans.  This repricing order caused long distance revenue to 
+decrease by about $5,800,000 annually.  
+
+On July 1, 1989, the PSCW ordered a 14% return on equity which resulted in 
+credits on customer bills.  This would have caused an annual decrease of 
+$34,700,000 in local service and access revenues, however, this amount was 
+reduced by $3,500,000 due to a temporary injunction granted by the Milwaukee 
+County Circuit Court on August 9, 1989.  The injunction was a result of an 
+appeal filed by the Company relating to the inside wire installation and 
+maintenance portion of the PSCW order.  
+
+On December 27, 1989, the PSCW issued an interim and amended order which 
+decreased the ongoing rate credit by $5,200,000 per quarter year starting 
+January 1, 1990.  This adjustment was in consideration of the shortfall 
+<PAGE>
+Wisconsin Bell was expected to incur due to the implementation of access rates 
+for intrastate long distance service and the mirroring of interstate access 
+rates.  Additionally, the PSCW established this adjustment on a 
+subject-to-refund with interest provision basis, pending final determination 
+of the Company's shortfall at a later date.  
+
+On June 15, 1990, the PSCW ordered a refund of $23,500,000 to residential and 
+business customers as well as interexchange carriers, related to the level of 
+earnings experienced during the moratorium period covering August 1987 through 
+July 1989.  At the same time, the PSCW also ordered the Company to refund 
+approximately $2,000,000 to customers in order to pass back savings resulting 
+from a gross receipts tax rate reduction effective January 1, 1989.  The 
+order resulted in credits on customer bills and refunds to interexchange 
+carriers during the month of July 1990.  The Company made sufficient 
+provisions in the financial statements throughout the 1987-89 period in 
+anticipation of the PSCW findings.  The PSCW also ruled that an additional 
+$9,300,000 was subject to refund pending the outcome of the appeal associated 
+with inside wire.  
+
+On September 5, 1990, the PSCW approved two alternate plans for intrastate 
+regulation - the Base Case Plan and the Three-Year Plan.  The Company chose to 
+participate in the Three-Year Plan.  The terms and conditions of the plan were 
+effective October 1, 1990, and resulted in an annual decrease of $3,943,000 in 
+local service revenues.  Under the Three--Year Plan, the rate of return on 
+equity was set at 13.75 percent and the Company's revenues were not subject--
+to-refund on a going forward basis.  This trial, which was to remain in effect 
+until December 31, 1993, has been extended while the PSCW reviews a new price 
+regulation plan.  In February 1994, bills were introduced in the Wisconsin 
+legislature that, if passed, would replace rate-of-return regulation with 
+price regulation for companies choosing it.  
+
+On February 21, 1991, the PSCW authorized the elimination of the subject--
+to-refund with interest provision pertaining to the Company's expected 
+quarterly shortfall of $5,200,000 due to the change from independent company 
+settlements to access charges.  The PSCW also determined that no refund is 
+necessary for this item during the January 1, 1990, through September 30, 
+1990, subject-to--refund period.  
+
+On May 1, 1991, the Company repriced its Value Calling Plans reducing long 
+distance revenue by approximately $900,000 annually.  
+
+Effective June 1991 and in accordance with provisions of the Three-Year Plan, 
+the Company implemented a volume discount rate structure that replaced the 
+previous residential local service calling plans.  The new rate structure 
+reduces local service revenue by nearly $23,000,000 annually.  
+
+On September 1, 1992, the Company eliminated Business Touchtone charges 
+reducing local service revenue by $4,800,000 annually.  
+
+On October 5, 1992, the Company repriced its Value Calling Plans reducing long 
+distance revenue by approximately $600,000 annually.  
+
+On March 30, 1993, the PSCW reached a final decision concerning inside wire 
+and moratorium refund issues.  In April 1993, the Company commenced refunding 
+$22,500,000 to residential and business customers and interexchange carriers.  
+<PAGE>
+The $21,300,000 credit/rate reduction consisted of three elements:  
+$17,300,000 for settlement of inside wire appeals; $3,900,000 for an addi-
+tional refund from the 1987-89 moratorium review; and $158,000 for additional 
+gross receipts tax rate reductions that must be passed back to customers.  
+
+Additionally during 1993, the Company repriced other specific services which 
+resulted in the following approximate rate reductions:  
+
+   Effective Date         Revenue Category/Service             Annual Impact
+
+   January 1, 1993        Access Revenue                        $  (500,000)
+                            Carrier Directory Assistance
+                          Long Distance Revenue                    (145,000)
+                            Special Toll Billing
+
+   February 1, 1993       Local Svc./Long Dist. Revenue          (2,330,000)
+                            Optinet Bell Channel
+
+   March 1, 1993          Access Revenue                           (560,000)
+                            Optinet DS1
+
+   May 15, 1993           Access Revenue                         (6,130,000)
+                            Switched Access CCL and TS
+
+   August 1, 1993         Local Service Revenue                  (1,400,000)
+                            Business Volume Discount Plan
+ 
+FCC Regulatory Jurisdiction
+
+The Company is subject to the jurisdiction of the Federal Communications 
+Commission (FCC) with respect to intraLATA interstate services, interstate 
+access services and other matters.  The FCC prescribes for communications 
+companies a uniform system of accounts apportioning costs between regulated 
+and nonregulated services, depreciation rates (for interstate services) and 
+the principles and standard procedures (separations procedures) used to 
+separate property costs, revenues, expenses, taxes and reserves between those 
+applicable to interstate services under the jurisdiction of the FCC and those 
+appli-cable to services under the jurisdiction of the respective state 
+regulatory authorities.  
+
+For certain companies, including the Company, interstate services regulated 
+by the FCC are covered by a price cap plan.  The Plan creates incentives to 
+improve productivity over benchmark units in order to retain higher 
+earnings.  Price cap regulation sets maximum limits on the prices that may 
+be charged for telecommunications services but also provides for a sharing of 
+productivity gains.  Earnings in excess of 12.25% will result in prospective 
+reductions of the price ceilings on interstate services.  
+
+In January 1994, the FCC began a scheduled fourth-year comprehensive review of 
+price cap regulation for local exchange companies.  
+
+Access Charges Arrangements
+
+Interstate Access Charges.  
+
+<PAGE>
+The Ameritech landline telephone companies provide access services for the 
+origination and termination of interstate telecommunications.  The access 
+charges are of three types:  common line, switched access and trunking.  
+
+The common line portion of interstate revenue requirements are recovered 
+through monthly subscriber line charges and per minute carrier common line 
+charges.  The carrier common line rates include recovery of transitional and 
+long-term support payments for distribution to other local exchange carriers.  
+Transitional support payments were made over a four-year period which ended on 
+April 1, 1993.  Long-term support payments will continue indefinitely.  
+
+Effective January 1, 1994, rates for local transport services were 
+restructured and a new "trunking" service category created.  Trunking services 
+consist of two types:  those associated with the local transport element of 
+switched access and those associated with special access.  Trunking services 
+associated with switched access handle the transmission of traffic between a 
+local exchange carrier's serving wire center and a Company end office where 
+local switching occurs.  Trunking services associated with special access 
+handle the transmission of telecommunications services between any two 
+customer-designated premises or between a customer-designated premise and a 
+Company end office where multiplexing occurs.  High volume customers generally 
+use the flat-rated dedicated facilities associated with special access, while 
+usage sensitive rates apply for lower-volume customers that utilize a common 
+switching center.  
+
+Local transport rate elements for switched services assess a flat monthly rate 
+and a mileage sensitive rate for the physical facility between the customer's 
+point of termination and the end office, a usage sensitive and mileage 
+sensitive rate assessed for the facilities between the end office through the 
+access tandem to the customer's serving wire center, and a minute of use 
+charge assessed to all local transport.  The flat rate transport rates and 
+structure generally mirror special access rate elements.  Customers can order 
+direct transport between the serving wire center or end office and the access 
+tandem and tandem switched transport between the access tandem and the end 
+office.  
+
+Special access charges are monthly charges assessed to customers for access to 
+interstate private line service.  Charges are paid for local distribution 
+channels, interoffice mileage and optional features and functions.  
+
+State Access Charges.  
+
+Compensation arrangements required in connection with origination and 
+termination of intrastate communications by interexchange carriers are 
+subject to the jurisdiction of the state regulatory commissions.  The 
+Ameritech landline telephone companies currently provide access services to 
+interexchange carriers authorized by the state regulatory commissions to 
+provide service between local serving areas pursuant to tariffs which 
+generally parallel the terms of the interstate access tariffs.  In the event 
+interexchange carriers are authorized by the state regulatory commissions to 
+provide service within their local serving areas, the Ameritech landline 
+telephone companies intend to provide access service under the same tariffs 
+applicable to intrastate services provided by such carriers between the 
+Ameritech landline telephone companies' local serving areas.  
+
+<PAGE>
+Separate arrangements govern compensation between Ameritech landline telephone 
+companies and independent telephone companies for jointly provided 
+communications within the five Ameritech companies' local serving areas and 
+associated independent telephone company exchanges.  These arrangements are 
+subject to the jurisdiction of the FCC and the state regulatory commissions.  
+
+Competition
+
+Regulatory, legislative and judicial decisions, technological advances 
+as well as heightened customer interest in advanced telecommunications 
+services, have expanded the types of available communications services and 
+products and the number of companies offering such services.  Market 
+convergence, already a reality, is expected to intensify.  
+
+The FCC has taken a series of steps that are expanding opportunities for 
+companies to compete with local exchange carriers in providing services that 
+fall under the FCC's jurisdiction.  In September 1992, the FCC mandated that 
+local exchange carriers provide network access for special transmission paths 
+to competitive access providers, interexchange carriers and end users.  In 
+February 1993, Ameritech filed a tariff with the FCC, which was effective in 
+May, making possible this type of interconnection.  In August 1993, the FCC 
+issued an order that permits competitors to interconnect to local telephone 
+company switches.  Under the new rules, certain telephone companies must allow 
+all interested parties to terminate their switched access transmission 
+facilities at telephone company central offices, wire centers, tandem switches 
+and certain remote nodes.  Ameritech filed a tariff in November 1993 to effect 
+that change which was effective in February 1994.  
+
+Ameritech is seeking opportunities to compete on an equal footing.  Although 
+the Company is barred from providing interLATA and nationwide cable services, 
+its competitors are not.  Cellular telephone and other wireless technologies 
+are poised to bypass Ameritech's local access network.  Cable providers, who 
+currently service more than eighty percent of American homes, could provide 
+telephone service and have expressed their desire to do so.  Certain 
+interexchange carriers and competitive access providers have demonstrated 
+interest in providing local exchange service.  Ameritech's plan is to 
+facilitate competition in the local exchange business in order to compete in 
+the total communications marketplace.  
+
+Customers First:  Ameritech's Advanced Universal Access Plan
+
+In 1993, Ameritech embarked on a long-range restructuring with the intent of 
+dramatically changing the way it serves its customers, and in the process 
+altered its corporate framework, expanding the nature and scope of its 
+services and supporting the development of a fully competitive marketplace.  
+In March, Ameritech filed a plan with the FCC to change the way local 
+telecommunications services are provided and regulated and to furnish a policy 
+framework for advanced universal access to modern telecommunications services 
+- - voice, data and video information.  
+
+Ameritech proposes to facilitate competition in the local exchange business 
+by allowing other service providers to purchase components of its network and 
+to repackage them with their own services for resale, in exchange for the 
+freedom to compete in both its existing and currently prohibited businesses.  
+<PAGE>
+Ameritech has requested regulatory reforms to match the competitive environ-
+ment as well as support of its efforts to remove restraints, such as the 
+interLATA service restriction, which currently restrict its participation in 
+the full telecommunications marketplace.  In addition, Ameritech asks for more 
+flexibility in pricing new and competitive services and replacement of caps on 
+earnings with price regulation.  Under the plan, customers would be able to 
+choose from competitive providers for local service as they now can choose a 
+provider for interexchange service.  
+
+To demonstrate conclusively the substantial customer and economic benefits of 
+full competition, in December 1993, Ameritech proposed a trial of its plan, 
+beginning in 1995.  Ameritech has petitioned the DOJ to recommend Federal 
+District Court approval of a waiver of the long-distance restriction of the 
+Consent Decree so that Ameritech can offer interexchange service.  At the same 
+time, Ameritech would facilitate the development of local communications 
+markets by unbundling the local network and integrating competitors' 
+switches.  The trial would begin in Illinois in the first quarter of 1995 and 
+would last indefinitely.  Other states could be added over time.  If the trial 
+is approved by the DOJ, the request must be acted on by the Court which 
+retains jurisdiction over administering the terms of the Consent Decree.  In 
+February 1994, Ameritech filed tariffs with the Illinois Commerce Commission 
+that propose specific rates and procedures to open the local network in that 
+state.  Approval could take up to 11 months.  
+
+Ameritech has received broad support for the plan from Midwest elected 
+officials, national and Midwest business leaders, and education, health 
+industry, economic development and consumer leaders.  The national and local 
+offices of the Communications Workers of America (CWA) and the International 
+Brotherhood of Electrical Workers (IBEW) also support the plan.  
+
+Ameritech has alternative regulatory proposals pending with the state 
+regulatory commissions in its region to support implementation of the plan.  
+
+Ameritech Video Network Concept
+
+In January 1994, Ameritech filed plans with the FCC to construct a digital 
+video network upgrade that will enable it to reach 6,000,000 customers by the 
+end of the decade.  Ameritech expects to spend $4.4 billion to upgrade its 
+network to provide video services, part of a total of approximately $29 
+billion Ameritech estimates it will spend on network improvements over the 
+next fifteen years.  Ameritech is pursuing alliances and partnerships that 
+will position it as a key participant in the emerging era of interactive video 
+experiences.  Pending FCC approval of Ameritech's plan and clearing of other 
+regulatory hurdles, the construction of the first phase of the network could 
+begin as soon as the fourth quarter of 1994.  The new network, which will be 
+separate from Ameritech's core local communications network, will be expanded 
+to approximately 1,000,000 additional Midwest customers in each of the next 
+five years.  
+
+Ameritech will be only one of many users of the broadband network.  A 
+multitude of competing video information providers, businesses, institutions, 
+interexchange carriers and video telephony customers will also have access to 
+the technology.  
+
+<PAGE>
+With the new system, customers will have access to a virtually unlimited 
+variety of programming sources.  These will include basic broadcast services, 
+similar to today's cable service, and advanced interactive services such as 
+video on demand, home healthcare, interactive educational software, distance 
+learning, interactive games and shopping, and a variety of other entertainment 
+and information services that can be accessed from homes, offices, schools, 
+hospitals, libraries and other public and private institutions.  
+
+Cable/Telco Cross Ownership Ban
+
+In November 1993, Ameritech filed motions in two federal courts seeking 
+freedom from the ban on providing video services in its own service area.  
+Ameritech asked U.S. District Courts in Illinois and Michigan to declare 
+unconstitutional the provisions of the Cable Act of 1984 that bar the RHCs 
+from providing cable TV service in areas where they hold monopolies on local 
+phone service.  In August 1993, a U.S. District Court in Washington D.C. 
+granted a request by Bell Atlantic Corporation for such an order, but that 
+court denied similar requests by Ameritech and the other RHCs.  
+
+Legislation has been introduced in Congress that would repeal the 
+cross ownership ban.  
+
+Employee Relations
+
+As of December 31, 1993, the Company employed 5,137 persons, a decrease 
+from 5,659 at December 31, 1992.  During 1993, approximately 270 employees 
+left the payroll as a result of voluntary and involuntary workforce programs, 
+and 156 nonmanagement employees took advantage of a Supplemental Protection 
+Program (SIPP) established under labor agreements to voluntarily exit the 
+workforce.  Additional restructuring was done by normal attrition.  On 
+March 25, 1994, Ameritech announced that it will reduce its nonmanagement 
+workforce by 6,000 employees by the end of 1995, including approximately 600 
+at the Company.  Under terms of agreements between Ameritech, the CWA and the 
+IBEW, Ameritech is implementing an enhancement to the Ameritech pension plan 
+by adding three years to the age and net credited service of eligible 
+nonmanagement employees who leave the business during a designated period that 
+ends in mid-1995.  In addition, Ameritech's network business unit is offering 
+financial incentives under the terms of its current contracts with the CWA and 
+IBEW to selected nonmanagement employees who leave the business before the end 
+of 1995.  
+
+The reduction of the workforce results from technological improvements, 
+consolidations and initiatives identified by management to balance its cost 
+structure with emerging competition.  
+
+Approximately 3,875 employees are represented by the Communications Workers of 
+America (CWA), a union affiliated with the AFL-CIO.  
+
+In July and August 1993, the Ameritech landline telephone companies and 
+Ameritech Services reached agreement with the union on a workforce transition 
+plan for assigning union-represented employees to the newly established 
+business units.  The agreement with the CWA extends existing union contracts 
+with the landline telephone companies and Ameritech Services to the new units.  
+The pacts address a number of force assignment, employment security and union 
+representation issues.  In 1995, when union contracts are due to expire, the 
+parties will negotiate regional contracts.  
+
+<PAGE>
+During 1992, 171 of the Company's management employees left the Company 
+through a voluntary early retirement program and involuntary terminations.  
+Through 1995, the Company expects to eliminate additional positions through 
+job consolidations and force reduction initiatives resulting from 
+technological efficiencies.  
+
+Item 2.  Properties.  
+
+The properties of the Company do not lend themselves to description by 
+character and location of principal units.  At December 31, 1993, central 
+office equipment represented 36% of the Company's investment in telecommunica-
+tions plant in service; land and buildings (occupied principally by central 
+offices) represented 12%; telecommunications instruments and related wiring 
+and equipment, including private branch exchanges, substantially all of which 
+are on the premises of customers, represented 10%; and connecting lines which 
+constitute outside plant, the majority of which are on or under public roads, 
+highways or streets and the remainder of which are on or under private 
+property, represented 42%.  
+
+Substantially all of the installations of central office equipment and 
+administrative offices are located in buildings owned by the Company 
+situated on land which it owns in fee.  Many garages, administrative offices, 
+business offices and some installations of central office equipment are in 
+rented quarters.  
+
+Item 3.  Legal Proceedings.  
+
+Pre-divestiture Contingent Liabilities Agreement
+
+The Plan provides for the recognition and payment of liabilities that are 
+attributable to pre-divestiture events (including transactions to implement 
+the divestiture) but that do not become certain until after divestiture.  
+These contingent liabilities relate principally to litigation and other 
+claims with respect to the former Bell System's rates, taxes, contracts, 
+equal employment matters, environmental matters and torts (including 
+business torts, such as alleged violations of the antitrust laws).  
+
+With respect to such liabilities, AT&T and the Bell Companies, including 
+the Company, will share the costs of any judgment or other determination of 
+liability entered by a court or administrative agency, the costs of 
+defending the claim (including attorneys' fees and court costs) and the 
+cost of interest or penalties with respect to any such judgment or 
+determination.  Except to the extent that affected parties may otherwise 
+agree, the general rule is that responsibility for such contingent 
+liabilities will be divided among AT&T and the Bell Companies on the basis 
+of their relative net investment (defined as total assets less reserves for 
+depreciation) as of the effective date of divestiture.  Different 
+allocation rules apply to liabilities which relate exclusively to 
+pre-divestiture interstate or intrastate operations.  
+
+Although complete assurance cannot be given as to the outcome of any 
+litigation, in the opinion of the Company's management any monetary 
+liability or financial impact to which the Company would be subject after 
+final adjudication of all of the foregoing actions would not be material in 
+amount to the financial position of the Company.  
+
+<PAGE>
+                                    PART II
+                             WISCONSIN BELL, INC.
+                Item 6.  SELECTED FINANCIAL AND OPERATING DATA
+                             (Dollars in Millions)
+
+                                   1993      1992     1991     1990     1989    
+Revenues                                                                      
+  Local service. . . . . . . .     $  488    $  475   $  471   $  476   $  433 
+  Interstate network access. .        239       225      221      219      212 
+  Intrastate network access. .         88        93       85       73       72 
+  Long distance. . . . . . . .        207       200      198      193      137 
+  Other. . . . . . . . . . . .        100        94       98       99      106 
+Total. . . . . . . . . . . . .      1,122     1,087    1,073    1,060      960 
+                                                                              
+Operating expenses . . . . . .        867       866      865      848      764 
+Operating income . . . . . . .        255       221      208      212      196 
+Interest expense . . . . . . .         32        42       44       41       43 
+Other (income) expense, net  .         11         6       (2) 1 2 
+Income taxes . . . . . . . . .         74        56       57       56       41 
+Income before cumulative 
+  effect of change in 
+  accounting principles. . . .        138       117      109      114      110 
+Cumulative effect of change                                                   
+  in accounting principles . .          -      (152)      -      -      - 
+                                                                              
+Net income (loss)  . . . . . .     $  138    $ ( 35) $  109 $  114 $  110 
+                                                                              
+Total assets . . . . . . . . .     $2,038    $2,043   $2,048   $2,056   $2,011 
+                                                                              
+Property, plant and 
+  equipment, net . . . . . . .     $1,658    $1,700   $1,711   $1,723   $1,746 
+                                                                              
+Capital Expenditures . . . . .     $  147    $  174   $  164   $  155   $  174 
+                                                                              
+Long-term debt . . . . . . . .     $  307    $  379   $  476   $  507   $  509 
+ 
+                              
+<PAGE>
+                                    PART II
+                             WISCONSIN BELL, INC.
+                Item 6.  SELECTED FINANCIAL AND OPERATING DATA
+                             (Dollars in Millions)
+                                  (Continued)
+
+                                1993      1992     1991     1990     1989       
+
+Debt ratio . . . . . . . . . .       44.6%   44.9%   40.0%   39.2%   39.8% 
+                                                                              
+Pretax interest coverage . . .        7.4       5.4      5.3      5.4      4.9 
+                                                                              
+Return to average equity . . .       20.9%   (5.2)%   13.2%   14.1%   13.6% 
+                                                                              
+Return on average total 
+  capital. . . . . . . . . . .       13.8%     .4%   10.5%   11.0%   10.6% 
+                                                                              
+Customer lines - at end of                                                    
+  year (000's) . . . . . . . .      1,898     1,834    1,784    1,738    1,684 
+                                                                              
+% Customer lines served by 
+  digital electronic offices .       64.3% 49.0% 32.6% 28.3% 26.9% 
+                                                                              
+% Customer lines served by                                                    
+  analog electronic offices. .       35.7% 51.0% 67.4% 71.7% 73.1% 
+                                                                              
+Customer lines per employee. .        369       324      292      260      244 
+                                                                              
+Employees - at end of year . .      5,137     5,659    6,106    6,690    6,908 
+ 
+
+<PAGE>
+                 Item 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS
+                           OF RESULTS OF OPERATIONS
+                             (Dollars in Millions)
+
+
+The Year 1993 Compared to the Year 1992
+
+Following is a discussion and analysis of the results of operations of 
+the Company for the years ended December 31, 1993 and 1992, based on the 
+Statements of Income and Rein-vested Earnings.  Other pertinent data are also 
+given in the Selected Financial and Operating Data.  
+
+Revenues
+
+Total operating revenues were $1,122.3 for 1993 and $1,087.4 for 1992.  The 
+increase of $34.9 or 3.2%, consisted of the following:  
+
+                                                       Increase        Percent
+                              1993         1992       (Decrease)        Change
+
+Local service                $487.7       $474.9         $12.8            2.7%
+ 
+Local service revenues increased $12.8 which resulted from an $18.9 increase 
+in business and residence revenue volumes.  Customer lines increased 3.5% from 
+1,833,722 at December 31, 1992, to 1,898,159 at December 31, 1993.  In 
+addition, public telephone revenues increased $1.0 and Directory revenues 
+increased $0.5.  These increases were partially offset by a $3.0 decrease due 
+to the business touchtone rate elimination effective September 1992, and a 
+$2.6 reduction related to a refund for inside wire that was charged against 
+local message revenues effective April 1, 1993.  In addition, private line 
+revenues decreased $2.0.  
+
+                                                       Increase        Percent
+                              1993         1992       (Decrease)        Change
+
+Network access
+   Interstate access         $239.1       $224.6        $ 14.5           6.5%
+   Intrastate access         $ 88.6       $ 93.3        $ (4.7)         (5.0%)
+ 
+Interstate access charge revenues increased $14.4 due in part to a $6.4 
+decrease in National Exchange Carriers Association (NECA) transitional support 
+funding and a $5.9 demand and rate increase in end user revenues.  In 
+addition, payments to American Telephone and Telegraph (AT&T) for 800 
+settlements decreased $3.6.  A demand increase of $5.7 in traffic sensitive 
+access revenues also contributed to the increase.  Interstate switched minutes 
+of use increased 5.3%.  This increase was partially offset by a $7.3 decrease 
+in traffic sensitive access revenues caused by rate reductions.  
+
+Intrastate access revenues decreased $4.7 primarily from a $11.4 decrease in 
+switched access revenues caused by rate reductions.  This decrease was 
+partially offset by a $6.0 increase in switched access volumes.  Intrastate 
+switched minutes of use increased 8.3%.  
+
+<PAGE>
+                                                         Increase      Percent
+                                  1993        1992      (Decrease)      Change
+
+Long distance                    $206.8      $200.4         $6.4         3.2%
+ 
+Long distance revenues increased $6.4 primarily due to a $5.2 increase 
+associated with increased message toll volumes, a $2.1 increase in independent 
+company toll revenue and a $1.8 increase related to the finalization of 
+independent company cost studies.  These increases were partially offset by 
+$2.7 in volume decreases in private line, wide area telephone service (WATS) 
+and coin revenues.  
+                                                         Increase      Percent
+                                  1993        1992      (Decrease)      Change
+
+Miscellaneous - net              $100.1       $94.2         $5.9         6.3%
+ 
+Miscellaneous revenues increased $5.9 due to a $2.8 increase in revenues from 
+inside wire due to the price restructuring of inside wire maintenance plans 
+and increased time and material rates.  In addition, affiliated company cost 
+recovery billings increased $1.1, and uncollectible expense decreased $1.6. 
+
+Operating Expenses
+
+Operating expenses were $867.3 in 1993 and $865.9 in 1992.  The increase of 
+$1.4 or 0.1% consisted of the following:  
+
+                                                         Increase      Percent
+                                  1993        1992      (Decrease)      Change
+
+Depreciation                     $186.1      $186.4        $(0.3)        (.1%)
+ 
+Depreciation decreased $0.3 as a result of completing the amortization of a 
+reserve deficiency authorized by the Public Service Commission of Wisconsin 
+(PSCW) of $24.3.  This decrease was partially offset by increased rates due to 
+the PSCW represcription, and the amortization of an additional reserve 
+deficiency authorized by the PSCW effective July 1, 1993.  
+
+                                                         Increase      Percent
+                                  1993        1992      (Decrease)      Change
+
+Employee related expenses        $255.8      $260.7        $(4.9)       (1.9%)
+ 
+Employee related expenses decreased $4.9.  Force reductions reduced employee 
+related expenses by $15.3.  At December 31, 1993, the Company had 5,137 
+employees compared to 5,659 at December 31, 1992, a decrease of 522 employees.  
+This decrease due to force reductions was partially offset by wage and salary 
+increases of $7.4 and overtime increases of $2.5.  
+
+<PAGE>
+                                                          Increase     Percent
+                                  1993        1992       (Decrease)     Change
+
+Taxes other than income taxes     $62.8       $61.7         $1.1         1.8%
+ 
+The increase in taxes other than income taxes resulted from an increase in 
+remainder assessment fees and a sales/use tax assessment.  
+
+                                                          Increase     Percent
+                                  1993        1992       (Decrease)     Change
+
+Other operating expenses         $362.6      $357.1         $5.5         1.5%
+ 
+The increase in other operating expenses resulted primarily from affiliated 
+billing increases of $10.7 for the Company's allocation of common Ameritech 
+costs.  These increases were partially offset by a $2.0 decrease in contract 
+services, a $2.0 decrease in materials and supplies and a $1.2 decrease in 
+miscellaneous other expenses.  
+
+Other Income and Expenses
+
+                                                          Increase     Percent
+                                  1993        1992       (Decrease)     Change
+
+Interest Expense                  $32.0       $42.0       ($10.0)      (23.8%)
+ 
+The decrease in interest expense is due to the retirements in 1993 of $300.0 
+in long-term debt, bearing interest ranging from 8% to 8-3/4%.  This debt was 
+refinanced with short-term debt with Ameritech, which bears lower interest 
+rates, and $150.0 of long-term debt bearing interest at 6-3/4%.  
+
+                                                          Increase     Percent
+                                  1993        1992       (Decrease)     Change
+
+Other (Income)/Expense            $10.7        $6.2         $4.5        72.6%
+ 
+The increase in other expense is due primarily to $5.8 in interest income from 
+Internal Revenue Service refunds that occurred during 1992.  In addition, the 
+Company expensed $9.0 in debt refinancing costs in 1993 and $8.0 of such costs 
+in 1992.  
+
+                                                       Increase        Percent
+                              1993         1992       (Decrease)        Change
+
+Income Tax Expense            $74.3        $56.0         $18.3          32.7%
+ 
+The increase in income tax expense reflects the increase in the federal tax 
+rate from 34% to 35% and a $39.0 or 22.5% increase in income before income 
+taxes and cumulative change in accounting principles.  
+
+<PAGE>
+Other Matters
+
+Effects of Regulatory Accounting
+
+The Company presently gives accounting recognition to the actions of 
+regulators where appropriate, as prescribed by Statement of Financial 
+Accounting Standards No. 71, "Accounting for the Effects of Certain Types of 
+Regulation" (SFAS No. 71).  Under SFAS No. 71, the Company records certain 
+assets and liabilities because of actions of regulators.  Further, amounts 
+charged to operations for depreciation expense reflect estimated useful lives 
+and methods prescribed by regulators rather than those that might otherwise 
+apply to unregulated enterprises.  In the event the Company determines that it 
+no longer meets the criteria for following SFAS No. 71, the accounting impact 
+to the Company would be an extraordinary noncash charge to operations of an 
+amount which could be material.  Criteria that give rise to the discontinuance 
+of SFAS No. 71 include:  (1) increasing competition which restricts the 
+Company's ability to establish prices to recover specific costs, and (2) a 
+significant change in the manner in which rates are set by regulators from 
+cost-based regulation to another form of regulation.  The Company periodically 
+reviews these criteria to ensure that continuing application of SFAS No. 71 is 
+appropriate.  
+
+Regulatory Environment
+
+Customer demand, technology and the preferences of policy makers are all 
+converging to increase competition in the local exchange business.  The 
+effects of increasing competition are apparent in the marketplace the Company 
+serves.  For example, competitive access providers have requested regulatory 
+authority to provide full local exchange service in Wisconsin.  Additionally, 
+increasing volumes of intraLATA long distance services purchased by large and 
+medium sized business customers are sold by carriers other than the Company.  
+
+Recognizing the trend, the Company's regulatory/public policy activities are 
+focused on achieving a framework that allows for expanding competition while 
+providing a fair opportunity for all carriers, including the Company, to 
+succeed.  The cornerstone of this effort is Ameritech's "Customers First Plan" 
+that was filed with the Federal Communications Commission (FCC) on March 1, 
+1993.  In a subsequent filing with the U.S. Department of Justice, Ameritech 
+proposed that the Customers First Plan be implemented on a trial basis 
+beginning in January, 1995 in Illinois and other states thereafter.  
+
+The Customers First Plan proposed to open all of the local telephone business 
+in the Company's service area to competition.  In exchange, Ameritech has 
+requested three regulatory changes.  First, Ameritech has requested relief 
+from the Modification of Final Judgment (MFJ) interLATA ban.  Such relief 
+would mean that the Company would be allowed to offer all long distance 
+services.  Second, Ameritech has requested a number of modifications in the 
+FCC's price cap rules.  These modifications would apply only to Ameritech, 
+including the Company, and would eliminate any obligation to refund, in the 
+form of its share of future rate reductions, its share of interstate earnings 
+in excess of 12.25%.  The modifications would also provide the Company 
+increased ability to price its interstate access services in a manner 
+appropriate to competitive conditions.  Third, Ameritech has requested FCC 
+authority to collect in a competitively neutral manner, the social subsidies 
+currently embedded in the rates that the Company charges long distance 
+carriers for access to the local network.  
+
+<PAGE>
+Status of Business Units
+
+In February 1993, following a year-long examination of its business called 
+"Breakthrough Leadership," Ameritech announced it would restructure its  
+business into separate units organized around specific customer groups - such 
+as residential customers, small businesses, interexchange companies and large 
+corporations - and a single unit that will run Ameritech's network in 
+Illinois, Indiana, Michigan, Ohio and Wisconsin.  The Ameritech Bell Companies 
+will continue to function as legal entities owning current Bell Company assets 
+in each state.  The network unit will provide network and information 
+technology resources in response to the needs of the other business units.  
+This unit will be the source of network capabilities for products and services 
+offered by the other business units and will be responsible for the 
+development and day-to-day operation of an advanced information 
+infrastructure.  
+
+All of the business units and the network unit are currently operational.  
+Ameritech has developed a new logo and is marketing all of its products and 
+services under the single brand name "Ameritech."  
+
+Digital Video Network
+
+In January 1994, Ameritech Corporation (Ameritech), the parent of the Company, 
+announced a program to launch a digital video network upgrade that is 
+expected, by the end of the decade, to make available interactive information 
+and entertainment services, as well as traditional cable TV services, to 
+approximately 6,000,000 Ameritech customers.  The Company has filed an 
+application with the FCC seeking approval of the program.  The application 
+reflects capital expenditures of approximately $53.0 over the next three 
+years.  The Company may also, depending on market demand, make additional 
+capital expenditures under this program.  The Company anticipates that its 
+capital expenditures for the program will be funded without an increase to its 
+recent historical level of capital expenditures.  
+
+Changes in Accounting Principles
+
+Effective January 1, 1993, the Company adopted Statement of Financial 
+Accounting Standards (SFAS) No. 109, "Accounting for Income Taxes."  The new 
+accounting method is essentially a refinement of the method the Company had 
+been following and, accordingly, did not have a material impact on the 
+Company's financial statements upon adoption.  
+
+As more fully discussed in Note C to the financial statements, effective 
+January 1, 1992, the Company adopted SFAS No. 106, "Employers' Accounting for 
+Postretirement Benefits Other than Pensions," and SFAS No. 112, "Employers' 
+Accounting for Postemployment Benefits."  The cumulative effect of these 
+accounting changes was recognized in the first quarter of 1992 as a change in 
+accounting principles of $151.8, net of a deferred income tax benefit of 
+$93.8.  
+
+<PAGE>
+Workforce Resizing
+
+On March 25, 1994, Ameritech announced that it will reduce its nonmanagement 
+workforce by 6,000 employees by the end of 1995, including approximately 600 
+at the Company.  Under terms of agreements between Ameritech, the 
+Communications Workers of America (CWA) and the International Brotherhood of 
+Electrical Workers (IBEW), Ameritech is implementing an enhancement to the 
+Ameritech pension plan by adding three years to the age and net credited 
+service of eligible nonmanagement employees who leave the business during a 
+designated period that ends in mid-1995.  In addition, Ameritech's network 
+business unit is offering financial incentives under the terms of its current 
+contracts with the CWA and IBEW, to selected nonmanagement employees who leave 
+the business before the end of 1995.  
+
+The above actions will result in a charge to first quarter 1994 earnings of 
+approximately $53.0 or $31.7 after-tax.  A significant portion of the program 
+cost will be funded by Ameritech's pension plan, whereas financial incentives 
+to be paid from company funds are estimated to be approximately $14.2.  
+Settlement gains, which result from terminated employees accepting lump-sum 
+payments from the pension plan, will be reflected in income as employees leave 
+the payroll.  The Company believes this program will reduce its employee-
+related costs by approximately $30.0 on an annual basis upon completion of 
+this program.  
+
+The reduction of the workforce results from technological improvements, 
+consolidations and initiatives identified by management to balance its cost 
+structure with emerging competition.  
+
+<PAGE>
+             ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To the Shareholder of
+Wisconsin Bell, Inc.:  
+
+We have audited the accompanying balance sheets of Wisconsin Bell, Inc., (a 
+Wisconsin corporation) as of December 31, 1993 and 1992, and the related 
+statements of income and reinvested earnings and cash flows for each of three 
+years in the period ended December 31, 1993.  These financial statements and 
+the schedules referred to below are the responsibility of the Company's 
+management.  Our responsibility is to express an opinion on these financial 
+statements and schedules based on our audits.  
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free of 
+material misstatement.  An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements.  An audit 
+also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation.  We believe that our audits provide a reasonable basis 
+for our opinion.  
+
+In our opinion, the financial statements referred to above present fairly, in 
+all material respects, the financial position of Wisconsin Bell, Inc. as of 
+December 31, 1993 and 1992, and the results of its operations and its cash 
+flows for each of the three years in the period ended December 31, 1993 in 
+conformity with generally accepted accounting principles.  
+
+As discussed in Note C to the financial statements, the Company changed its 
+method of accounting for certain postretirement and postemployment benefits in 
+1992.  
+
+Our audits were made for the purpose of forming an opinion on the basic 
+financial statements taken as a whole.  The financial statement schedules 
+listed in Item 14(a)(2) are presented for purposes of complying with the 
+Securities and Exchange Commission's rules and are not a required part of the 
+basic financial statements.  These schedules have been subjected to the 
+auditing procedures applied in our audits of the basic financial statements 
+and, in our opinion, fairly state in all material respects the financial data 
+required to be set forth therein in relation to the basic financial statements 
+taken as a whole.  
+
+
+
+
+                                                  Arthur Andersen & Co.
+Milwaukee, Wisconsin
+January 28, 1994
+<PAGE>
+                             WISCONSIN BELL, INC. 
+                 STATEMENTS OF INCOME AND REINVESTED EARNINGS
+                             (Dollars in Millions)
+
+
+                                                     Year Ended December 31,
+                                                   1993       1992       1991 
+
+
+Revenues . . . . . . . . . . . . . . . . . . .  $1,122.3   $1,087.4   $1,072.8 
+                                                                 
+Operating expenses                                                          
+  Depreciation and amortization  . . . . . . .     186.1      186.4      181.6 
+  Employee related expenses  . . . . . . . . .     255.8      260.7      285.3 
+  Taxes other than income taxes. . . . . . . .      62.8       61.7       59.6 
+  Other operating expenses . . . . . . . . . .     362.6      357.1      338.7 
+                                                   867.3      865.9      865.2 
+                                                                            
+Operating income   . . . . . . . . . . . . . .     255.0      221.5      207.6 
+                                                                            
+Interest expense   . . . . . . . . . . . . . .      32.0       42.0       43.6 
+Other expense (income), net. . . . . . . . . .      10.7        6.2       (1.6) 
+                                                                            
+Income before income taxes and cumulative                                   
+  effect of change in accounting principles. .     212.3      173.3      165.6 
+                                                                            
+Income taxes . . . . . . . . . . . . . . . . .      74.3       56.0       56.8 
+                                                                            
+Income before cumulative effect of                                          
+  change in accounting principles. . . . . . .     138.0      117.3      108.8 
+                                                                            
+Cumulative effect of change in                                              
+  accounting principles, net of related                                     
+  tax benefits ($93.8) . . . . . . . . . . . .       -       (151.8)       - 
+                                                                            
+Net income (loss)  . . . . . . . . . . . . . .     138.0      (34.5)     108.8 
+                                                                            
+Reinvested earnings, beginning                                              
+  of year  . . . . . . . . . . . . . . . . . .      11.9      171.6      166.8 
+                                                                            
+Less:  dividends . . . . . . . . . . . . . . .     125.0      125.2      104.0 
+                                                                            
+Reinvested earnings, end of year . . . . . . .   $  24.9    $  11.9    $ 171.6
+                                                 _______    _______    _______
+
+                              
+                              
+The accompanying notes are an integral part of the financial statements.   
+                              
+<PAGE>
+                             WISCONSIN BELL, INC. 
+                                BALANCE SHEETS 
+                            (Dollars in Millions) 
+
+                                                December 31,     December 31, 
+                                                    1993             1992    
+ASSETS                                                                  
+                                                                        
+Current Assets:                                                         
+  Cash  . . . . . . . . . . . . . . . . .       $     -            $   3.1
+  Receivables                                                           
+    Customers (less allowance for 
+      uncollectibles of $9.2 and $9.3
+      respectively)                                 179.0            177.2
+    Ameritech and affiliates. . . . . . .            31.2              6.6
+    Other . . . . . . . . . . . . . . . .            12.6             16.4
+  Material and supplies . . . . . . . . .             6.4              7.8
+  Prepaid directories . . . . . . . . . .            10.8             10.9
+  Prepaid and other . . . . . . . . . . .            21.0              9.0
+                                                    261.0            231.0
+
+Property, plant and equipment . . . . . .         2,724.4          2,704.1
+Less, accumulated depreciation. . . . . .         1,066.2          1,003.9
+                                                  1,658.2          1,700.2
+                                                                        
+Investments, principally in affiliates. .            27.5             22.6
+
+Other assets and deferred charges . . . .            91.6             89.6
+                                                                        
+Total assets. . . . . . . . . . . . . . .        $2,038.3         $2,043.4
+                                                 ________         ________
+LIABILITIES AND SHAREOWNER'S EQUITY                                     
+                                                                        
+Current Liabilities:                                                    
+  Debt maturing within one year -                                       
+    Ameritech . . . . . . . . . . . . . .       $   237.8        $    61.3
+    Other . . . . . . . . . . . . . . . .              .9            100.4
+  Accounts payable -                                                    
+    Ameritech and affiliates. . . . . . .            27.4             32.7
+    Other . . . . . . . . . . . . . . . .           109.0             85.6
+  Other current liabilities . . . . . . .            76.9            111.6
+                                                    452.0            391.6
+                                                                        
+Long-term debt. . . . . . . . . . . . . .           306.5            379.0
+
+Deferred Credits and Other Long-Term                                    
+Liabilities:                                                            
+  Accumulated deferred income taxes . . .           201.6            155.2
+  Unamortized investment tax credits. . .            42.9             52.2
+  Postretirement benefits other                                         
+    than pensions . . . . . . . . . . . .           225.8            231.3
+  Long-term payable to affiliate (ASI)                                  
+    for SFAS 106 adoption . . . . . . . .             8.8              9.9
+  Other . . . . . . . . . . . . . . . . .           124.2            160.7
+                                                    603.3            609.3
+
+<PAGE>
+                             WISCONSIN BELL, INC. 
+                          BALANCE SHEETS (Continued) 
+                            (Dollars in Millions) 
+
+
+                                                December 31,     December 31, 
+                                                    1993             1992    
+
+Shareowner's Equity:                                                    
+  Common shares, $20 par value per                                      
+  share, 31,995,000 shares authorized,                                  
+  31,960,395 shares issued and                                          
+  outstanding . . . . . . . . . . . . . .           639.2            639.2
+  Proceeds in excess of par value . . . .            12.4             12.4
+  Reinvested earnings . . . . . . . . . .            24.9             11.9
+                                                    676.5            663.5
+Total liabilities and                                                   
+shareowner's equity . . . . . . . . . . .        $2,038.3         $2,043.4
+                                                 ________         ________
+                                                       
+ 
+The accompanying notes are an integral part of the financial statements. 
+
+<PAGE>
+                             WISCONSIN BELL, INC.
+                           STATEMENTS OF CASH FLOWS
+                             (Dollars in Millions)
+
+                                                   Year Ended December 31,
+                                                   1993      1992     1991
+Cash flows from operating activities:                                   
+                                                                        
+  Net income (loss). . . . . . . . . . . . .     $138.0    $(34.5)  $108.8
+  Adjustments to net income (loss):                                     
+      Cumulative effect of change 
+       in accounting principles. . . . . . .        -       151.8      -
+      Depreciation and amortization. . . . .      186.1     186.4    181.6
+      Deferred income taxes, net . . . . . .       10.7     (18.3)   (16.8)
+      Investment tax credits, net. . . . . .       (9.3)     (6.9)    (9.0)
+      Interest during construction . . . . .        (.4)      (.4)     (.3)
+      Provision for uncollectibles . . . . .       10.4      12.0      9.5
+      Change in accounts receivable. . . . .      (33.0)    (16.5)    18.9
+      Change in materials and supplies . . .        1.4      (0.6)    (4.9)
+      Change in prepaid expenses and
+        certain other current assets . . . .      (24.6)     (1.0)   (49.7)
+      Change in accounts payable . . . . . .       18.1      18.1     18.6
+      Change in accrued taxes. . . . . . . .       (2.4)     (4.5)     2.1
+      Change in certain other current
+        liabilities. . . . . . . . . . . . .         .7      11.0    (14.1)
+      Net change in certain noncurrent . . .                            
+       assets and liabilities. . . . . . . .      (27.8)     20.0      3.7
+      Other. . . . . . . . . . . . . . . . .       12.6         -    (.2) 
+                                                                        
+Net cash from operating activities . . . . .      280.5     316.6    248.2 
+                                                                        
+Cash flows used for investing activities:                               
+                                                                        
+  Capital expenditures, net. . . . . . . . .     (147.4)   (174.4)  (164.3)
+  Proceeds (net of removal costs)
+    from disposal of property, 
+    plant and equipment. . . . . . . . . . .        2.3       1.2      (.2)
+  Additional equity investments in 
+    ASI (affiliates) . . . . . . . . . . . .       (3.0)              (4.0)    -
+                                                                        
+Net cash used for investing activities           (148.1)   (177.2)  (164.5)
+                                                                        
+<PAGE>
+                             WISCONSIN BELL, INC.
+                     STATEMENTS OF CASH FLOWS (Continued)
+                             (Dollars in Millions)
+
+                                                   Year Ended December 31,
+                                                   1993      1992     1991
+
+Cash flows used for financing activities:                               
+                                                                        
+  Net change in short-term debt. . . . . . .        -       (42.0)    23.3
+  Intercompany financing, net. . . . . . . .      176.5      61.3      -
+  Issuance of long-term debt, 
+    net of discount  . . . . . . . . . . . .      145.6       -        -
+  Retirements of long-term debt. . . . . . .     (320.0)    (30.7)    (2.7)
+  Cost of refinancing long term debt . . . .      (12.6)      -        -
+  Dividend payments. . . . . . . . . . . . .     (125.0)   (125.2)  (104.0)
+                                                                        
+Net cash used for financing activities           (135.5)   (136.6)   (83.4)
+                                                                        
+Net increase (decrease) in cash. . . . . . .       (3.1)      2.8       .3
+                                                                        
+Cash, beginning of period. . . . . . . . . .        3.1        .3     - 
+                                                                        
+Cash, end of period  . . . . . . . . . . . .     $  -      $  3.1   $   .3
+                                                 ______    ______   ______
+     The accompanying notes are an integral part of the financial statements.   
+      
+<PAGE>
+                           WISCONSIN BELL, INC.
+                       NOTES TO FINANCIAL STATEMENTS
+                           (Dollars in Millions)
+
+
+Wisconsin Bell, Inc. ("the Company"), is a wholly-owned subsidiary of 
+Ameritech Corporation ("Ameritech").  
+
+(A)  ACCOUNTING POLICIES - The financial statements of the Company reflect 
+     the application of the accounting policies described in this Note. 
+
+     Basis of Accounting - The financial statements have been prepared in 
+     accordance with generally accepted accounting principles.  In 
+     compliance with Statement of Financial Accounting Standards (SFAS 
+     No. 71), "Accounting for the Effects of Certain Types of Regulation" 
+     the Company gives accounting recognition to the actions of regulators 
+     where appropriate.  Such actions can provide reasonable assurance of 
+     the existence of an asset, reduce or eliminate the value of an asset 
+     or impose a liability.  Actions of a regulator can also eliminate a 
+     liability previously imposed by the regulator.  
+
+     Transactions with Affiliates - The Company has various agreements with 
+     affiliated companies.  Below is a description of the significant 
+     arrangements followed by a table of the amounts involved.  
+
+     1.   Ameritech Services, Inc. (ASI) - The Company has a 10% ownership 
+          interest in ASI, an Ameritech controlled affiliate, that provides 
+          consolidated planning, development, management and support services 
+          to all of the Ameritech Bell companies.  The Company also provides 
+          certain services, such as loaned employees, to ASI.  
+
+                                                   1993      1992      1991
+
+           . Purchases of materials and          $174.4    $178.1    $161.4
+             charges for services from ASI
+           . Recovery of cost for services       $ 15.0    $ 14.1    $ 11.3
+             provided to ASI
+ 
+     2.   Ameritech (the Company's parent) - Ameritech provides various 
+          administrative, planning, financial and other services to the 
+          Company.  These services are billed to the Company at cost.  
+
+                                                   1993      1992      1991
+
+           . Charges incurred for services       $ 11.4     $12.8     $12.9
+ 
+<PAGE>
+     3.   Ameritech Publishing, Inc. (API) - The Company has an agreement 
+          under which payments are made to the Company by API for license fees 
+          and billing and collection services by the Company.  The Company 
+          also purchases directory services from API under the same agreement.  
+
+                                                   1993      1992      1991
+
+           . Fees paid to the Company by API      $40.6     $40.9     $40.8
+           . Purchases by the Company from API    $ 9.1     $ 8.3     $ 7.9
+ 
+     4.   Ameritech Information Systems, Inc. (AIS) - The Company has an 
+          agreement under which the Company reimburses AIS for costs 
+          incurred by AIS in connection with the sale of network services 
+          by AIS employees.  
+
+                                                   1993      1992      1991
+
+           . Charges incurred for services         $5.6      $4.5      $4.6
+ 
+     5.   Bell Communications Research, Inc. (Bellcore) - Bellcore provides 
+          research and technical support to the Company.  ASI has a 
+          one-seventh interest in Bellcore and bills the Company for the 
+          costs.  
+
+                                                   1993      1992      1991
+
+           . Charges incurred for services        $12.6     $15.2     $14.6
+ 
+
+     Property, Plant and Equipment - Property, plant and equipment is 
+     stated at original cost.  The original cost of property, plant and 
+     equipment acquired from ASI includes a return on investment to ASI. 
+     
+     The provision for depreciation is based principally on the 
+     straight-line remaining life and the straight-line equal life group 
+     methods of depreciation applied to individual categories of property, 
+     plant and equipment with similar characteristics.  The provision for 
+     intrastate deprecia-tion is prescribed by the Public Service Commission of 
+     Wisconsin (PSCW) and differs from the Federal Communications Commission 
+     (FCC) prescribed methods.  The PSCW permits only the use of the 
+     straight-line remaining life method.  
+
+     Generally, when depreciable plant is retired, the amount at which such 
+     plant has been carried in property, plant and equipment in service is 
+     charged to accumulated depreciation.  
+
+     The cost of maintenance and repairs of plant is charged to expense.  
+
+     Investments - The Company's investment in ASI (10% ownership or $26.7 for 
+     1993 and 10% or $22.0 for 1992, respectively) is reflected in the 
+     financial statements using the equity method of accounting.  All other 
+     investments are carried at cost.  
+
+<PAGE>
+     Material and Supplies - Inventories of new and reusable material and 
+     supplies are stated at the lower of cost or market with cost determined 
+     generally on an average cost basis.  
+
+     Interest During Construction - Regulatory authorities allow the Company 
+     to accrue interest as a cost of constructing certain plant and as an item 
+     of income, i.e., allowance for debt and equity funds used to finance 
+     construction.  Such income is not realized in cash currently but will be 
+     realized over the service life of the plant as the resulting higher 
+     depreciation expense is recovered in the form of increased revenues.  
+
+     Income Taxes - The Company is included in the consoli-dated federal 
+     income tax return filed by Ameritech and its subsidiaries.  Consolidated 
+     income tax currently payable has been allocated to the Company based on 
+     the Company's contribution to consolidated taxable income and tax 
+     credits.  Effective January 1, 1993, the Company adopted Statement of 
+     Financial Accounting Standards No. 109, "Accounting for Income Taxes," 
+     (SFAS No. 109).  The new accounting method is essentially a refinement of 
+     the liability method already followed by the Company and accordingly, did 
+     not have a significant impact on the Company's financial statements upon 
+     adoption.  
+
+     Deferred tax assets and liabilities are based on differences between the 
+     financial statement bases of assets and liabilities and the tax bases of 
+     those same assets and liabilities.  Under the liability method, deferred 
+     tax assets and liabilities at the end of each period are determined using 
+     the statutory tax rates in effect when these temporary differences are 
+     expected to reverse.  Deferred income tax expense is measured by the 
+     change in the net deferred income tax asset or liability during the year.  
+     In addition, for regulated companies, SFAS No. 109 requires that all 
+     deferred regulatory liabilities be recognized at the revenue requirement 
+     level.  It further requires that a deferred tax liability be recorded to 
+     reflect the amount of cumulative tax benefits previously flowed through 
+     to ratepayers and that a long-term deferred asset be recorded to reflect 
+     the revenue to be recovered in telephone rates when the related taxes 
+     become payable in future years.  
+
+     The Company uses the deferral method of accounting for investment tax 
+     credits.  Therefore, credits earned prior to the repeal of investment 
+     tax credits by the Tax Reform Act of 1986 and also certain 
+     transitional credits earned after the repeal are being amortized as 
+     reductions in tax expense over the life of the plant which gave rise 
+     to the credits.  
+
+     Temporary Cash Investments - Temporary cash investments are stated at 
+     cost, which approximates market.  The Company considers all highly 
+     liquid, short-term investments with an original maturity of three months 
+     or less to be cash equivalents.  
+
+     Short Term Financing Arrangement - During 1991, Ameritech entered into 
+     an arrangement with its subsidiaries for the provision of short-term 
+     financing.  This arrangement became effective for the Company June 1, 
+     1992.  Ameritech issues commercial paper and notes and secures bank 
+     loans to fund the working capital requirements of its subsidiaries and 
+     invests short-term, excess funds on their behalf.  See Note D and H.
+
+<PAGE>
+(B)  INCOME TAXES - The components of income tax expense before accounting 
+     changes were as follows:
+
+                                                 Year Ended December 31,
+                                                1993      1992       1991
+     Federal                                                            
+          Current . . . . . . . . . . .       $ 60.1      $65.8      $68.5
+          Deferred - net. . . . . . . .          2.4      (22.3)     (20.3)
+          Investment tax credits - net.         (9.3)      (6.9)      (9.0)
+               Total. . . . . . . . . .         53.2       36.6       39.2 
+                                                                        
+     State and Local                                                    
+          Current . . . . . . . . . . .         12.8       15.4       14.1
+          Deferred - net. . . . . . . .          8.3        4.0        3.5 
+               Total. . . . . . . . . .         21.1       19.4       17.6 
+                                                                        
+     Total income tax expense . . . . .       $ 74.3      $56.0      $56.8 
+
+     Deferred income tax expense (credits) results principally from temporary 
+     differences caused by the change in the book and tax bases of property, 
+     plant and equipment due to the use of different depreciation methods 
+     and lives for financial reporting and income tax purposes.  
+
+     Total income taxes paid were $74.5, $89.0 and $77.1 in 1993, 1992 and 
+     1991, respectively.  
+
+The following is a reconciliation between the statutory federal income tax 
+rate for each of the last three years and the Company's effective tax rate:
+
+                                                    Year Ended December 31,
+                                                    1993     1992     1991 
+
+      Statutory tax rate. . . . . . . . . . .       35.0%    34.0%    34.0%
+                                                                        
+      State income taxes, net of federal                                
+      benefit . . . . . . . . . . . . . . . .        6.5      7.4      7.0
+                                                                        
+      Reduction in tax expense due to
+      amortization of investment tax
+      credits . . . . . . . . . . . . . . . .       (4.3)    (4.1)    (5.4)
+                                                                        
+      Benefit of tax rate differential                                  
+      applied to reversing temporary                                    
+      differences . . . . . . . . . . . . . .       (2.4)    (3.3)    (3.5)
+                                                                        
+      Other - net . . . . . . . . . . . . . .        0.2     (1.7)     2.2 
+                                                                        
+      Effective tax rate. . . . . . . . . . .       35.0%    32.3%    34.3%
+                                                    _____    _____    _____
+<PAGE>
+     The Revenue Reconciliation Act of 1993, enacted in August of 1993, 
+     increased the statutory federal income tax rate for 1993 to 35 percent.  
+     In accordance with the liability method of accounting, the Company 
+     adjusted, on the enactment date, its deferred income tax balances not 
+     subject to regulatory accounted prescribed by SFAS No. 71 (see Note A).  
+     The result was a reduction in deferred income tax expense of $2.3, 
+     primarily from increasing the deferred tax assets associated SFAS Nos. 
+     106 and 112 (see Note C).  
+
+     As of December 31, 1993, the Company had a regulatory asset of $41.7 
+     (reflected in Other Assets and Deferred Charges) related to the 
+     cumulative amount of income taxes on temporary differences previously 
+     flowed through to ratepayers.  In addition, on that date, the Company had 
+     a regulatory liability of $72.2 (reflected in Other Deferred Credits) 
+     related to the reduction of deferred taxes resulting from the change in 
+     the federal statutory income tax rate of 35 percent and deferred taxes 
+     provided on unamortized investment tax credits.  These amounts will be 
+     amortized over the regulatory lives of the related depreciable assets 
+     concurrent with recovery in rates.  The accounting for and the impact on 
+     future net income of these amounts will depend on the ratemaking 
+     treatment authorized in future regulatory proceedings.  
+
+     As of December 31, 1993 and 1992, the components of long-term accumulated 
+     deferred income taxes were as follows:  
+
+                                                  1993            1992
+     Deferred tax assets:  
+        Postretirement benefits                  $ 87.0          $ 90.2
+        Postemployment benefits                     3.5             3.5
+        SFAS No. 71 accounting                     25.6            71.8
+        Other, net                                 13.3            11.1
+                                                  129.4           176.6
+
+     Deferred tax liabilities:
+        Accelerated depreciation                  323.3           331.4
+        Other                                       7.7              .4
+                                                  331.0           331.8
+
+     Net deferred tax liability                  $201.6          $155.2
+ 
+     Deferred income taxes in current assets and liabilities are not shown as 
+     they are not significant.  
+
+<PAGE>
+(C)  EMPLOYEE BENEFIT PLANS 
+
+     Pension Plans - Ameritech maintains noncontributory defined pension and 
+     death benefit plans covering substantially all of the Company's 
+     management and nonmanagement employees.  The pension benefit formula used 
+     in the determination of pension cost is based on the average compensation 
+     earned during the five highest consecutive years of the last ten years of 
+     employment for the management plan and a flat dollar amount per year of 
+     service for the nonmanagement plan.  Pension (credit) cost is allocated 
+     to subsidiaries based upon the percentage of compensation for the 
+     management plan and per employee for the nonmanagement plan.  The 
+     Company's funding policy is to contribute annually an amount up to the 
+     maximum amount that can be deducted for federal income tax purposes.  
+     However, due to the funded status of the plans, no contributions have 
+     been made for the years reported below.  The following data provides 
+     information on the Company's (credit) cost for the Ameritech plans:  
+
+                                                    Year Ended December 31,
+                                                    1993     1992     1991    
+
+     Pension credit . . . . . . . . . . . . . .    $(9.8)   $(10.6)  $(7.3)
+                                                   ______   _______  ______
+     Current year credit as a percentage                             
+     of salaries and wages. . . . . . . . . . .     (4.7%)    (4.8%)  (3.0%)
+                                                   _______  ________ _______
+     Pension credit was determined using the projected unit credit actuarial 
+     method in accordance with Statement of Financial Accounting Standards 
+     No. 87, "Employers' Accounting for Pensions."  The resulting pension 
+     credits are primarily attributable to favorable investment performance 
+     and the funded status of the plans.  
+
+     Certain disclosures are required to be made of the components of pension 
+     costs and the funded status of the plans, including the actuarial present 
+     value of accumulated plan benefits, accumulated projected benefit 
+     obligation and the fair value of plan assets.  Such disclosures are not 
+     presented for the Company because the structure of the Ameritech plans 
+     does not permit the plans' data to be readily disaggregated.  
+
+     The assets of the Ameritech plans consist principally of debt and equity 
+     securities, fixed income securities and real estate.  As of December 31, 
+     1993, the fair value of plan assets available for plan benefits exceeded 
+     the projected benefit obligation (calculated using a discount rate of 
+     5.8% as of December 31, 1993 and 1992).  The assumed long-term rate of 
+     return on plan assets used in determining pension cost was 7.25% for 
+     1993, 1992 and 1991.  The assumed increase in future compensation levels 
+     also used in the determination of the projected obligation was 4.5% in 
+     1993 and 1992.  
+
+<PAGE>
+     Postretirement Benefits Other Than Pensions - Effective January 1, 1992, 
+     the Company adopted Statement of Financial Accounting Standards No. 106, 
+     "Employers Accounting for Postretirement Benefits Other Than Pensions" 
+     (SFAS No. 106).  SFAS No. 106 requires the cost of postretirement 
+     benefits granted to employees to be accrued as expense over the period in 
+     which the employee renders service and becomes eligible to receive 
+     benefits.  The cost of health care costs and post-retirement life 
+     insurance benefits for current and future retirees was recognized as 
+     determined under the projected unit credit actuarial method.  
+
+     In adopting SFAS No. 106, the Company elected to immediately recognize 
+     effective January 1, 1992, the transition obligation for current and 
+     future retirees.  The unrecognized obligation was $230.2 less deferred 
+     income taxes of $90.3 or $139.9, net.  To this amount, is added the 
+     Company's 10 percent share of ASI's transition benefit obligation of $6.2 
+     for a total charge of $146.1.  
+
+     As defined by SFAS No. 71, a regulatory asset and any corresponding 
+     regulatory liability associated with the recognition of the transition 
+     obligation was not recorded because of uncertainties as to the timing and 
+     extent of recovery in the ratemaking process.  
+
+     Substantially all current and future retirees are covered under 
+     postretirement benefit plans sponsored by Ameritech.  Such benefits 
+     include medical, dental and group life insurance.  Ameritech has been 
+     prefunding (including cash received from the Company) certain of these 
+     benefits through Voluntary Employee Benefit Associations (VEBAs) and 
+     Retirement Funding Accounts (RFAs).  The associated plan assets 
+     (primarily corporate securities and bonds) were considered in determining 
+     the transition obligation under SFAS No. 106.  Ameritech intends to 
+     continue to fund its obligation appropriately, and is exploring other 
+     available funding and cost containment alternatives.  Ameritech allocates 
+     its retiree health-care costs on per participant basis, whereas group 
+     life insurance is allocated based on compensation levels.  
+
+     SFAS No. 106 requires certain disclosures as to the components of 
+     postretirement benefit costs and the funded status of the plans.  Such 
+     disclosures are not presented for the Company as the structure of the 
+     Ameritech plans does not permit the data to be readily disaggregated.  
+
+     However, the Company has been advised by Ameritech as to the following 
+     assumptions used in determining its SFAS No. 106 costs.  
+
+     As of December 31, 1993, the projected benefit obligation exceeded the 
+     fair value of plant assets available for plan benefits.  The assumed 
+     discount rate used to measure the accumulated postretirement benefit 
+     obligation was 7.0% as of December 31, 1993 and 7.5% as of December 31, 
+     1992.  The assumed rate of future increases in compensation level was 
+     4.5% as of December 31, 1993 and December 31, 1992.  The expected 
+     long-term rate of return on plan assets was 7.25% in 1993 and 1992 on 
+     VEBAs and 8.0% in 1993 and 1992 on RFAs.  The assumed healthcare cost 
+     trend rate in 1993 was 9.6% and 10% in 1992, and is assumed to decrease 
+     gradually to 4% in 2007 and remain at that level.  The assumed increase 
+     in healthcare cost is 9.2% for 1994.  The healthcare cost trend rates 
+     have a significant effect on the amounts reported for costs each year.  
+     <PAGE>
+ Specifically, increasing the assumed healthcare cost trend rates by one 
+     percentage point in each year would have increased the transition 
+     obligation and annual expense by 18%.  
+
+     Postretirement benefit cost under SFAS No. 106 for 1993 and 1992 was 
+     $23.7 and $21.9, respectively.  During 1991, the cost of postretirement 
+     health care benefits for retirees was $20.3.  
+
+     As of December 31, 1993, the company had approximately 4,359 retirees 
+     eligible to receive health care and group life insurance benefits.  
+
+     Postemployment Benefits - Effective January 1, 1992, the Company adopted 
+     Statement of Financial Accounting Standards No. 112, "Employers 
+     Accounting for Postemployment Benefits" (SFAS No. 112).  SFAS No. 112 
+     requires employers to accrue the future cost of certain benefits such as 
+     workers compensation, disability benefits and health care continuation 
+     coverage.  A one-time charge related to adoption of this statement was 
+     recognized as a change in accounting principle, effective as of 
+     January 1, 1992.  The charge was $5.5, net of deferred taxes of $3.5.  To 
+     this amount is added the Company's 10% share of ASI's one-time charge of 
+     $.2 for a total charge of $5.7.  Previously the Company used the cash 
+     method to account for such costs.  Future expense levels are dependent 
+     upon actual claim experience, but are not expected to be materially 
+     different than prior charges to income.  
+
+     Workforce Reductions - During 1993, 270 employees left the Company 
+     through a voluntary early retirement program and involuntary 
+     terminations.  The net cost of this effort including termination 
+     benefits, settlement and curtailment gains from the pension plan, was a 
+     credit to expense of $2.8.  The involuntary termination plan remains in 
+     effect until December 31, 1994.  
+
+     During 1992, 172 employees left the Company through a voluntary early 
+     retirement program and involuntary terminations.  The net cost of this 
+     effort including termination benefits, settlement and curtailment gains 
+     from the pension plan, was a credit to expense of $0.1.  
+
+     During 1991, the Company offered most of its management employees an 
+     early retirement program.  The net cost of this program, including 
+     termination benefits and a settlement gain from the pension plan, was 
+     $0.9.  
+
+<PAGE>
+(D)  DEBT MATURING WITHIN ONE YEAR - Debt maturing within one year is included 
+     as debt in the computation of debt ratios and consists of the following 
+     at December 31:  
+                                                               Weighted
+                                                                Average
+                                      Amounts                Interest Rates    
+                               1993     1992     1991    1993      1992    1991
+     Notes Payable -                                     
+       Commercial Paper . .   $  -     $  -     $42.1     - %       - %    4.7%
+       Parent (Ameritech) .    237.8     61.3     -      3.1%      3.3%     -
+     Long-term debt maturing
+       within one year. . .       .9    100.4    30.7
+             Total. . . . .   $238.7   $161.7   $72.8
+                              ______   ______   _____
+     Average notes payable                               
+     outstanding during                                  
+     the year . . . . . . .   $115.7   $ 43.5   $13.6    3.1%*    3.5%*    5.5%*
+                              ______   ______   _____    ___      ___      ___
+     Maximum notes payable                               
+     at any month-end                                    
+     during the year. . . .   $237.8   $ 65.2   $42.1
+                              ______   ______   _____
+ 
+     * Computed by dividing the average daily face amount of advances and 
+       notes payable into the aggregate-related interest expense.  
+
+     During 1991, Ameritech consolidated the short-term financing of its 
+     subsidiaries at Ameritech Corporate.  See Note A - short-term financing 
+     arrangements.  
+
+(E)  LONG-TERM DEBT - Long-term debt consists principally of mortgage bonds 
+     and debentures issued by the Company.  
+
+     The following table sets forth interest rates and other information on 
+     long-term debt outstanding at December 31.  
+
+     Interest               Maturities      1993        1992  
+
+     4.88%                  1995          $  -        $ 20.0
+     4.38%                  2002            20.0        20.0
+     6.25%                  2004            50.0        50.0
+     7.25%                  2007            90.0        90.0
+     8.00%                  2014             -         100.0
+     8.25%                  2016             -         100.0
+     6.75%                  2024           150.0         -  
+                                           310.0       380.0
+
+     Capital lease obligation . . .           .9          .6
+     Other  . . . . . . . . . . . .          (.9)        (.3)
+     Unamortized discount, net  . .         (3.5)       (1.3)
+     Total  . . . . . . . . . . . .       $306.5      $379.0 
+                                          _______     _______
+
+<PAGE>
+     On December 30, 1992, the Company announced a plan to call its 8-3/4% 
+     $100.0 bonds effective February 1, 1993.  The premium paid to call the 
+     bonds, ($5.1) along with the unamortized discount and debt issuance costs 
+     related to the bonds ($2.9) have been expensed as of December 31, 1992 
+     and are included in other expense (income).  The bond call was financed 
+     with short-term borrowings from Ameritech.    
+
+     On August 11, 1993, the Company issued $150.0 of 6-3/4% debentures due 
+     August 15, 2024.  The proceeds from the sale, along with short-term 
+     borrowings, were used to retire $100.0 of 8-1/4% debentures due 
+     November 15, 2016 and $100.0 of 8% debentures due January 1, 2014.  The 
+     Company has filed a registration statement with the Securities and 
+     Exchange Commission for the issuance of up to $200.0 in unsecured debt 
+     securities for general corporate purposes.  
+
+     Early extinguishment of debt costs (including call premiums and 
+     write-offs of unamortized deferred costs) were $9.0, $8.0 and $0.0 in 
+     1993, 1992 and 1991, respectively, and were included in other expense 
+     (income) on the statements of income.  
+ 
+(F)  LEASE COMMITMENTS - The Company leases certain facilities and equipment 
+     used in its operations under both operating and capital leases.  Rental 
+     expense under operating leases was $14.1, $14.7 and $19.3 for 1993, 1992 
+     and 1991, respectively.  At December 31, 1993 the aggregate minimum 
+     rental commitments under noncancelable leases were approximately as 
+     follows:  
+
+     Years                                               Operating   Capital
+
+     1994 . . . . . . . . . . . . . . . . . . . . .        $2.3        $1.0
+     1995 . . . . . . . . . . . . . . . . . . . . .         1.9          .8
+     1996 . . . . . . . . . . . . . . . . . . . . .         1.2          .2
+     1997 . . . . . . . . . . . . . . . . . . . . .          .7           -
+     1998 . . . . . . . . . . . . . . . . . . . . .          .3           - 
+     Thereafter . . . . . . . . . . . . . . . . . .          .2           -
+     Total minimum rental commitments . . . . . . .        $6.6         2.0
+                                                           ____
+     Less:  amount representing executory costs . .                      .1
+            amount representing interest costs  . .                      .1
+
+     Present value of minimum lease payments  .                        $1.8
+                                                                       ____
+ 
+(G)  FINANCIAL INSTRUMENTS - The following table presents the estimated fair 
+     value of the Company's financial instruments as of December 31, 1993:  
+
+                                                              1993
+                                                     Carrying        Fair
+                                                       Value        Value 
+
+     Cash and temporary cash investments. . . . . .   $  -         $  -
+     Debt . . . . . . . . . . . . . . . . . . . . .    551.7        549.5
+     Long-term payable to ASI (for postretirement
+         benefits). . . . . . . . . . . . . . . . .      8.8          8.8
+     Other assets . . . . . . . . . . . . . . . . .      3.1          3.1
+     Other liabilities. . . . . . . . . . . . . . .      6.8          6.8
+ 
+<PAGE>
+                                                              1992
+                                                     Carrying        Fair
+                                                       Value        Value 
+
+     Cash and temporary cash investments. . . . . .  $   3.1      $   3.1
+     Debt . . . . . . . . . . . . . . . . . . . . .    555.6        541.8
+     Long-term payable to ASI (for postretirement
+         benefits). . . . . . . . . . . . . . . . .      9.9          9.9
+     Other assets . . . . . . . . . . . . . . . . .      7.3          7.3
+     Other liabilities. . . . . . . . . . . . . . .     23.1         23.1
+ 
+     The following methods and assumptions were used to estimate the fair 
+     value of financial instruments:  
+
+     Cash and Temporary Cash Investments - Carrying value approximates fair 
+     value because of short-term maturity of these instruments.  
+
+     Debt - The carrying amount (including accrued interest) of the Company's 
+     debt maturing within one year approximates fair value because of the 
+     short-term maturities involved.  The fair value of the Company's 
+     long-term debt was estimated based on the year-end quoted market price 
+     for the same or similar issues.  
+
+     Other Assets and Liabilities - These financial instruments consist 
+     primarily of other investments, other accrued liabilities and customer 
+     deposits.  The fair values of these items was based on expected cash 
+     flows or, if available, quoted market prices.  
+
+     Long-Term Payable to ASI (For Postretirement Benefits) - This item 
+     represents the long-term payable to ASI for the Company's proportional 
+     share of ASI's transition benefit obligation related to the adoption of 
+     SFAS No. 106.  
+
+(H)  ADDITIONAL FINANCIAL INFORMATION
+
+     Balance Sheet                                 December 31,
+
+     Other current liabilities:                   1993      1992 
+
+       Accrued payroll . . . . . . . . . . .    $  6.1    $ 12.6        
+       Compensated absences. . . . . . . . .      17.7      17.9
+       Accrued taxes . . . . . . . . . . . .       4.3       6.7        
+       Income taxes deferred one year  . . .       -         8.8        
+       Advance billings and customers'                        
+         deposits  . . . . . . . . . . . . .      32.4      32.0        
+       Accrued interest  . . . . . . . . . .       9.5      11.2        
+       Other . . . . . . . . . . . . . . . .       6.9      22.4        
+         Total . . . . . . . . . . . . . . .    $ 76.9    $111.6        
+                                                _______   _______
+                                                              
+<PAGE>
+     Statements of Income                         Year Ended December 31,
+                                                 1993      1992      1991
+     Interest Expense:                                                   
+       Interest on long-term debt  . . . . .    $ 29.3    $ 37.5    $ 38.2 
+       Interest on notes payable - Ameritech       4.0        .9       -
+       Interest on notes payable - Other . .       -          .6        .8
+       Other . . . . . . . . . . . . . . . .      (1.3)      3.0       4.6  
+         Total . . . . . . . . . . . . . . .    $ 32.0    $ 42.0    $ 43.6 
+                                                _______   _______   _______
+  
+     Interest paid, net of amounts capitalized was $29.7, $40.9 and $39.7 
+     in 1993, 1992 and 1991, respectively.  
+
+     Taxes other than income taxes                                      
+       Gross receipts. . . . . . . . . . . .    $ 59.7    $ 59.8    $ 57.7 
+       Other . . . . . . . . . . . . . . . .       3.1       1.9       1.9  
+         Total . . . . . . . . . . . . . . .    $ 62.8    $ 61.7    $ 59.6  
+                                                _______   _______   _______
+     Maintenance and repair expense             $158.0    $160.1    $158.3 
+                                                _______   _______   _______
+     Advertising                                $ 12.7    $  9.4    $  9.7  
+                                                _______   _______   _______
+     Depreciation - Percentage of                                       
+       average depreciable property,                                    
+       plant and equipment . . . . . . . . .       7.0%      7.1%      7.1% 
+                                                _______   _______   _______
+ 
+     Revenues from AT&T, consisting principally of interstate network access 
+     and billing and collection service revenues, comprised approximately 14% 
+     of total operating revenues in 1993, 1992 and 1991. No other customer 
+     accounted for more than 10% of total revenues.
+
+(I)  QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+                                                                      Net
+     Calendar                                        Operating       Income
+     Quarter                          Revenues         Income        (Loss)
+
+     1993
+     1st . . . . . . . . . . .        $  272.8         $ 67.0       $ 37.6
+     2nd . . . . . . . . . . .           281.4           62.1         35.7
+     3rd . . . . . . . . . . .           282.7           59.3         30.2
+     4th . . . . . . . . . . .           285.4           66.6         34.5 
+
+         Total . . . . . . . .        $1,122.3         $255.0       $138.0 
+                                      ________         ______       _______
+
+     1992
+     1st . . . . . . . . . . .        $  264.8         $ 54.2      $(120.4)
+     2nd . . . . . . . . . . .           269.6           55.2         28.0
+     3rd . . . . . . . . . . .           276.7           61.7         30.4
+     4th . . . . . . . . . . .           276.3           50.4         27.5 
+
+         Total . . . . . . . .        $1,087.4         $221.5      $ (34.5)
+                                      ________         ______      ________
+ 
+<PAGE>
+     The fourth quarters of 1993 and 1992 were affected by several income and 
+     expense items.  The fourth quarter of 1993 was affected by gains from a 
+     workforce resizing and charges for the early retirement of debt.  In the 
+     1992 quarter, the Company recognized higher costs and charges resulting 
+     from its market realignment efforts, the early retirement of debt, and 
+     increased advertising.  These costs were offset by gains resulting from 
+     workforce resizing and higher than expected pension credits.  
+
+     First quarter 1992 results reflect charges related to the adoption of 
+     SFAS Nos. 106 and 112 for postretirement and postemployment benefits, as 
+     discussed previously in Note C.  The charges totaled $151.8.  
+
+     All adjustments necessary for a fair statement of results for each period 
+     have been included.  
+
+(J)  CALCULATION OF RATIO OF EARNINGS TO FIXED CHARGES  
+
+     The ratio of earnings to fixed charges of the Company for the years ended 
+     December 31, 1993, 1992, 1991, 1990 and 1989 were 6.78, 4.70, 4.31, 4.57 
+     and 4.00, respectively.  
+
+     For the purpose of calculating this ratio, (i) earnings have been 
+     calculated by adding to income before interest expense and accounting 
+     changes, the amount of related taxes on income and the portion of rentals 
+     representative of the interest factor, (ii) the Company considers 
+     one-third of rental expense to be the amount representing return on 
+     capital, and (iii) fixed charges comprise total interest expense and such 
+     portion of rentals.  
+
+(K)  EVENT SUBSEQUENT TO DATE OF AUDITORS' REPORT - (UNAUDITED)
+
+     On March 25, 1994, Ameritech announced it would reduce its nonmanagement 
+     workforce resulting in an after-tax charge to the Company of $31.7.  The 
+     charge will be recorded in the first quarter of 1994.  The details of 
+     this plan are discussed on page 22 in MD&A.  
+
+<PAGE>
+Item 9.  Changes in and Disagreements on Accounting and Financial Disclosure.  
+
+No changes in nor disagreements with accountants on any matter of accounting 
+principles or practices, financial statement disclosure or auditing scope or 
+procedure occurred during the period covered by the annual report.  
+
+<PAGE>
+                                    PART IV
+
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K.  
+
+     (a)  Documents filed as a part of this report:  
+
+          (1)  Financial Statements:                                    Page
+
+                 Selected Financial and Operating Data................   15
+
+                 Report of Independent Public Accountants.............   23
+
+                 Statements of Income and Reinvested Earnings.........   24
+
+                 Balance Sheets.......................................   25
+
+                 Statements of Cash Flows.............................   27
+
+                 Notes to Financial Statements........................   29
+
+          (2)  Financial Statement Schedules:  
+
+                    V - Telecommunications Plant......................   46
+
+                   VI - Accumulated Depreciation......................   50
+
+                 VIII - Allowance for Uncollectibles..................   54 
+
+
+               Financial statement schedules other than those listed above 
+               have been omitted because the required information is contained 
+               in the financial statements and notes thereto, or because such 
+               schedules are not required or applicable.  
+
+
+<PAGE>
+          (3)  Exhibits:  
+
+               Exhibits identified in parentheses below, on file with the 
+               Securities and Exchange Commission ("SEC"), are incorporated 
+               herein by reference as exhibits hereto.  
+
+               Exhibit 
+               Number 
+
+               (3)a           Articles of Association of the registrant as 
+                              amended March 27, 1990.  (Exhibit 3a to 
+                              Form 10-K for 1989, File No. 1-6589.)
+
+               (3)b           By-Laws of the registrant as amended March 27, 
+                              1990.  (Exhibit 3b to Form 10-K for 1989, File 
+                              No. 1-6589.)
+
+               (4)            No instrument which defines the rights of 
+                              holders of long and intermediate term debt of 
+                              the registrant is filed herewith pursuant to 
+                              Regulation S-K, Item 601(b)(4)(iii)(A).  
+                              Pursuant to this regulation, the registrant 
+                              hereby agrees to furnish a copy of any such 
+                              instrument to the SEC upon request.  
+
+               (10)a          Reorganization and Divestiture Agreement among 
+                              American Telephone and Telegraph Company, 
+                              American Information Technologies Corporation 
+                              and Affiliates dated November 1, 1983.  
+                              (Exhibit 10a to Form 10-K for 1983 for American 
+                              Information Technologies Corporation, File No. 
+                              1-8612.)  
+
+               (10)b          Agreement Concerning Contingent Liabilities, Tax 
+                              Matters and Termination of Certain Agreements 
+                              among American Telephone and Telegraph Company, 
+                              Bell System Operating Companies, Regional 
+                              Holding Companies and Affiliates dated 
+                              November 1, 1983.  (Exhibit 10j to Form 10-K for 
+                              1983 for American Information Technologies 
+                              Corporation, File No. 1-8612.)  
+
+               (12)           Computation of ratio of earnings to fixed 
+                              charges.  
+
+               (24)           Consent of independent public accountants.
+
+               (28)           Authorization of deputization.  
+
+     (b)  Reports on Form 8-K:  
+
+          No report on Form 8-K was filed by the registrant during the last 
+          quarter of the year covered by this report.  
+
+<PAGE>
+                                  SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange 
+Act of 1934, the registrant has duly caused this report to be signed on its 
+behalf by the undersigned, thereunto duly authorized.  
+
+                                   Wisconsin Bell, Inc.  
+
+
+                              By  Paul J. LaRosa                    
+                                 (Paul J. LaRosa, Treasurer)
+
+
+
+March 30, 1994
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this 
+report has been signed below by the following persons on behalf of the 
+registrant and in the capacities and on the date indicated.  
+
+
+
+Principal Executive Officer:
+
+  Bronson J. Haase         President 
+
+
+
+Principal Financial Officer:  
+
+  Richard H. Witte         Vice President and    By Paul J. LaRosa           
+                            Comptroller            (Paul J. LaRosa, 
+                                                    Treasurer and by   
+                                                    written authorization)
+                                                    December 16, 1993)
+
+
+
+                                   Ameritech Corporation
+
+                                   By Richard H. Brown                     
+                                     (Richard H. Brown, Vice Chairman) 
+     
+                                   the sole shareholder of the registrant, 
+                                   which is a statutory close corporation 
+                                   managed by the shareholder rather than 
+                                   by a board of directors.  
+
+
+March 30, 1994
+     
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Land....................  $   16.5     $  0.8    $  0.3    $   -     $   17.0
+
+Buildings...............     315.2        9.4       2.9        -        321.7
+
+Computers and Other 
+ Office Equipment.......     153.9        7.3      13.8        -        147.4
+
+Vehicles and Other 
+ Work Equipment.........      26.7        2.3       1.6        -         27.4
+
+Central Office 
+ Equipment..............     968.7       98.2      97.2        -        969.7
+
+Information Origination/
+ Termination Equipment..      26.6        2.1       1.9        -         26.8
+
+Cable and Wire 
+ Facilities.............   1,144.9       40.8       8.8        -      1,176.9
+                                                            
+Capitalized Lease 
+ Assets.................       4.4        1.5       0.7        -          5.2
+
+Miscellaneous Other 
+ Property...............       6.2        0.9      (0.2)       -          7.3
+                                                     
+Total Telecommunications 
+ Plant in Service.......   2,663.1      163.3     127.0        -      2,699.4
+                                
+Telecommunications Plant
+ Under Construction.....      41.0      (16.0)      -          -         25.0
+                                
+Total Telecommunications
+ Plant..................  $2,704.1     $147.3     $127.0   $   -     $2,724.4
+                          ________     _______    ______   _______   ________
+ 
+
+The notes on page 50 are an integral part of this Schedule.  
+
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Land....................  $   16.0     $  0.7    $  0.2    $   -     $   16.5
+                                
+Buildings...............     306.4       12.2       3.4        -        315.2
+                                
+Computers and Other             
+ Office Equipment.......     156.2        7.1       9.4        -        153.9
+                                
+Vehicles and Other              
+ Work Equipment.........      27.4        2.1       2.8        -         26.7
+                                
+Central Office                  
+ Equipment..............     971.1       86.9      89.3        -        968.7
+                                
+Information Origination/        
+ Termination Equipment..      25.3        3.1       1.8        -         26.6
+                                
+Cable and Wire                  
+ Facilities.............   1,109.6       45.6      10.3        -      1,144.9
+                                                            
+Capitalized Lease               
+ Assets.................       4.6        0.2       0.4        -          4.4
+                                
+Miscellaneous Other             
+ Property...............       7.4       (1.2)       -         -          6.2
+                                                     
+Total Telecommunications        
+ Plant in Service.......   2,624.0      156.7     117.6        -      2,663.1
+                                
+Telecommunications Plant        
+ Under Construction.....      23.3       17.7       -          -         41.0
+                                
+Total Telecommunications        
+ Plant..................  $2,647.3     $174.4     $117.6   $   -     $2,704.1
+                          ________     _______    ______   _______   ________
+ 
+
+The notes on page 50 are an integral part of this Schedule.  
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Land....................  $   14.8     $  1.7    $  0.5    $   -     $   16.0
+                                
+Buildings...............     294.6       14.0       2.2        -        306.4
+                                
+Computers and Other             
+ Office Equipment.......     165.0       14.5      23.3       -         156.2
+                                
+Vehicles and Other              
+ Work Equipment.........      27.1        3.2       2.9        -         27.4
+                                
+Central Office                  
+ Equipment..............     942.3       80.0      51.2        -        971.1
+                                
+Information Origination/        
+ Termination Equipment..      25.2        2.8       2.7        -         25.3
+                                
+Cable and Wire                  
+ Facilities.............   1,072.3       51.0      13.7        -      1,109.6
+                                                            
+Capitalized Lease               
+ Assets.................       5.2        0.1       0.7        -          4.6
+                                
+Miscellaneous Other             
+ Property...............       8.5       (1.1)       -         -          7.4
+                                                     
+Total Telecommunications        
+ Plant in Service.......   2,555.0      166.2      97.2        -      2,624.0
+                                
+Telecommunications Plant        
+ Under Construction.....      19.6        3.7       -          -         23.3
+                                
+Total Telecommunications        
+ Plant..................  $2,574.6     $169.9     $97.2    $   -     $2,647.3
+                          ________     _______    _____    _______   ________
+ 
+
+The notes on page 50 are an integral part of this Schedule.  
+<PAGE>
+                            FOOTNOTES TO SCHEDULE V
+                             (Millions of Dollars)
+
+_______________
+
+(a)  Additions, other than to buildings, include material purchased from 
+     Ameritech Services Inc., a centralized procurement subsidiary in which 
+     the Company has a 10 percent ownership interest (see Note (A) to 
+     Financial Statements).  Additions shown also include:  (1) the original 
+     cost (estimated if not known) of reused material, which is concurrently 
+     credited to material and supplies, and (2) interest during construction.  
+     Transfers between the classifications listed are included in Column E.  
+
+
+(b)  Items of telecommunications plant, when retired or sold, are deducted 
+     from the property accounts at the amounts at which they are included 
+     therein, estimated if not known.  
+
+
+(c)  Comprised principally of reclassifications between plant categories.  
+
+
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Buildings...............    $ 64.1     $  7.7     $ 4.4     $(0.2)     $ 67.2
+                                
+Computers and Other             
+ Office Equipment.......      98.3       14.1      13.4        -         99.0
+                                
+Vehicles and Other              
+ Work Equipment.........       9.0        1.6       1.9        -          8.7
+                                
+Central Office                  
+ Equipment..............     376.2       95.9      92.9        -        379.2
+                                
+Information Origination/        
+ Termination Equipment..      13.9        2.8       2.0        -         14.7
+                                
+Cable and Wire                  
+ Facilities.............     438.6       63.2      10.6        -        491.2
+                                                            
+Capitalized Lease               
+ Assets.................       3.5        0.4       0.7        -          3.2
+                                
+Miscellaneous Other             
+ Property...............       0.3        0.4      (2.1)       0.2        3.0
+                                                     
+Total Telecommunications        
+ Plant in Service.......   1,003.9      186.1     123.8        -      1,066.2
+                                
+Telecommunications Plant        
+ Under Construction.....       -          -         -          -          -  
+                                
+Total Telecommunications        
+ Plant..................  $1,003.9     $186.1    $123.8    $   -     $1,066.2
+                          ________     ______    ______    _______   ________
+ 
+
+
+
+The notes on page 54 are an integral part of this Schedule.  
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Buildings...............    $ 61.4     $  7.7     $ 5.0     $  -       $ 64.1
+                                
+Computers and Other             
+ Office Equipment.......      88.3       19.3       9.3        -         98.3
+                                
+Vehicles and Other              
+ Work Equipment.........       9.6        1.8       2.4        -          9.0
+                                
+Central Office                  
+ Equipment..............     362.9       99.7      86.4        -        376.2
+                                
+Information Origination/        
+ Termination Equipment..      13.6        2.2       1.9        -         13.9
+                                
+Cable and Wire                  
+ Facilities.............     396.5       54.1      12.0        -        438.6
+                                                            
+Capitalized Lease               
+ Assets.................       3.4        0.5       0.4        -          3.5
+                                
+Miscellaneous Other             
+ Property...............        .7        1.1       1.5        -          0.3
+                                                     
+Total Telecommunications        
+ Plant in Service.......     936.4      186.4     118.9        -      1,003.9
+                                
+Telecommunications Plant        
+ Under Construction.....       -          -         -          -          -  
+                                
+Total Telecommunications        
+ Plant..................    $936.4     $186.4    $118.9    $   -     $1,003.9
+                            ______     ______    ______    _______   ________
+ 
+
+
+
+The notes on page 54 are an integral part of this Schedule.  
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+        COL. A              COL. B     COL. C     COL. D   COL. E     COL. F
+______________________________________________________________________________
+
+                          Balance at  Additions  Retire-    Other    Balance
+                          Beginning    at Cost    ments    Changes   at End  
+     Classification       of Period   -Note(a)  -Note(b)   -Note(c)  of Period
+______________________________________________________________________________
+       Year 1993
+
+Buildings...............    $ 57.8     $  7.4     $ 3.8     $  -       $ 61.4
+                                
+Computers and Other             
+ Office Equipment.......      90.4       20.7 7      22.8       -  88.3
+                                
+Vehicles and Other              
+ Work Equipment.........      10.2        1.9       2.5        -          9.6
+                                
+Central Office                  
+ Equipment..............     317.3       96.4      50.8        -        362.9
+                                
+Information Origination/        
+ Termination Equipment..      14.4        2.0       2.8        -         13.6
+                                
+Cable and Wire                  
+ Facilities.............     357.5       53.9      14.9        -        396.5
+                                                            
+Capitalized Lease               
+ Assets.................       3.4        0.6       0.6        -          3.4
+                                
+Miscellaneous Other             
+ Property...............       1.0       (1.3)     (1.0)       -          0.7
+                                                     
+Total Telecommunications        
+ Plant in Service.......     852.0      181.6      97.2        -        936.4
+                                
+Telecommunications Plant        
+ Under Construction.....       -          -         -          -          -  
+                                
+Total Telecommunications        
+ Plant..................    $852.0     $181.6     $97.2    $   -       $936.4
+                            ______     ______     _____    _______     ______
+ 
+
+
+
+The notes on page 54 are an integral part of this Schedule.  
+<PAGE>
+                           FOOTNOTES TO SCHEDULE VI
+                             (Millions of Dollars)
+
+_______________
+
+(a)  Comprised of depreciation related to short-term interest during 
+     construction charged initially to deferred charges and reclassifications 
+     between plant categories.  
+
+<PAGE>
+______________________________________________________________________________
+______________________________________________________________________________
+       COL. A              COL. B           COL. C          COL. D     COL. E
+______________________________________________________________________________
+
+                                               Charged to                
+                         Balance at               Other                Balance
+                         Beginning  Charged to  Accounts  Deductions  at End
+   Classification        of Period   Expenses  -Note(a)    -Note(b)  of Period
+________________________________________________________________________________
+
+Year 1993 ..........        $9.3       $10.4      $19.1      $29.6       $9.2
+
+Year 1992 ..........        $6.3       $12.0      $19.6      $28.6       $9.3
+
+Year 1991 ..........        $4.8        $9.5      $11.9      $19.9       $6.3
+
+ 
+
+
+
+__________________________
+
+(a)  Includes principally amounts previously written off which were credited 
+     directly to this account when recovered and amounts related to 
+     interexchange carrier receivables which are billed by the Company.  
+
+(b)  Amounts written off as uncollectible.  
+
+<PAGE>
+                                 EXHIBIT INDEX
+
+
+Exhibit
+Number                                                                  Page
+
+(3)a              Articles of Incorporation of the registrant, 
+                  as amended March 27, 1990.   (Exhibit 3a to 
+                  Form  10-K  for  1989,  File  No.  1-6589.) 
+                                                                       
+(3)b              By-laws   of   the   registrant,  as  amended 
+                  March 27, 1990.  (Exhibit 3b to Form 10-K for
+                  1989, File No. 1-6589.)
+                                                                       
+4                 No  instrument  which  defines  the  rights of       
+                  holders of long-term debt of the registrant is       
+                  filed  herewith  pursuant  to  Regulation S-K,       
+                  Item 601(b)(4)(iii)(A).    Pursuant  to  this        
+                  regulation,  the  registrant  hereby agrees to       
+                  furnish  a  copy of any such instrument to the       
+                  SEC upon request.                                    
+                                                                       
+(10)a             Reorganization and Divestiture Agreement among       
+                  American   Telephone  and  Telegraph  Company,       
+                  American  Information Technologies Corporation       
+                  and   Affiliates   dated   November  1,  1983.       
+                  (Exhibit  10a  to  Form  10-K  for  1983  for        
+                  American Information Technologies Corporation,       
+                  File No. 1-8612.)                                    
+                                                                       
+(10)b             Agreement Concerning Contingent Liabilities,         
+                  Tax   Matters  and  Termination  of  Certain         
+                  Agreements   among  American  Telephone  and         
+                  Telegraph  Company,  Bell  System  Operating         
+                  Companies,  Regional  Holding  Companies and         
+                  Affiliates dated November 1, 1983.  (Exhibit         
+                  10j  to  Form  10-K  for  1983  for American          
+                  Information Technologies Corporation, File 
+                  No. 1-8612.)                                         
+                                                                       
+(12)              Computation of ratio of earnings to fixed               56 
+                  charges.                                             
+
+(24)              Consent of independent public accountants.              57 
+
+(28)              Authorization of deputization.                          58 
+                                                                       
+<PAGE>
+                                 WISCONSIN BELL, INC.
+                   COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+                                 (Dollars in Millions)
+
+
+                                                Year Ended December 31,
+
+                                    1993      1992     1991     1990     1989
+
+EARNINGS                                                                     
+                                                                             
+(a) Income before interest                                                   
+    deductions and cumulative                                                
+    effect of change in                                                      
+    accounting principles . . .  $ 170.0   $ 159.3  $ 152.4  $ 155.6  $ 153.8
+                                                                             
+(b) Federal and state income                                                 
+    taxes . . . . . . . . . . .     74.3      56.0     56.8     55.9     41.2
+                                                                             
+(c) Portion of rental expense                                                
+    representative of interest                                               
+    factor  . . . . . . . . . .      4.7       4.9      6.4      6.0      7.2
+                                                                             
+                                 $ 249.0   $ 220.2  $ 215.6  $ 217.5  $ 202.2
+                                                                             
+FIXED CHARGES                                                                
+                                                                             
+(a) Total interest deductions                                                
+    including capital lease                                                  
+    obligations . . . . . . . .  $  32.0   $  42.0  $  43.6  $  41.6  $  43.3
+                                                                             
+(b) Portion of rental expense                                                
+    representative of the                                                    
+    interest factor . . . . . .      4.7       4.9      6.4      6.0      7.2
+
+                                 $  36.7   $  46.9  $  50.0  $  47.6  $  50.5
+                                                                             
+
+Ratio . . . . . . . . . . . . .     6.78      4.70     4.31     4.57     4.00
+                                 _______   _______  _______  _______  _______
+
+ 
+
+<PAGE>
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+     As independent public accountants, we hereby consent to the incorporation 
+by reference of our report dated January 28, 1994, included as an Exhibit to 
+this Form 10-K, into Wisconsin Bell, Inc.'s previously filed Registration 
+Statement File No. 33-53510.  
+
+
+
+
+                                                  Arthur Andersen & Co.
+
+
+Milwaukee, Wisconsin
+March 30, 1994
+
+<PAGE>
+Ameritech                                                           Exhibit 28
+
+
+
+                         AUTHORIZATION OF DEPUTIZATION
+ 
+
+                                AUTHORIZATION                               
+
+                                                  Date   12   /  16  / 93   
+                                                                            
+ I, (Principal Name)     Richard H. Witte                      hereby appoint
+                                                                            
+ (Deputy Name)     Paul J. LaRosa              (Title)     Treasurer         
+                                                                            
+ (Location)    722 N. Broadway, Milwaukee      to sign on my behalf.         
+                                                                            
+      X   All papers requiring my signature.                                 
+                                                                            
+          Only those papers listed below (specify).                          
+                                                                            
+         __________________________________________________________________ 
+                                                                            
+         __________________________________________________________________ 
+                                                                            
+ Principal's Approval Status Indicator(s):                                   
+                                                                            
+   4   Capital Expenditures        4   General Expenditures                  
+                                                                            
+ Length of deputization (maximum one year):                                  
+                                                                            
+ From Date   12  /  16  /  93          To Date   12  /  16  /  94            
+                                                                            
+ Signature of Deputy  /s/ Paul J. LaRosa           Title   Treasurer         
+                                                        Vice President and  
+ Signature of Principal  /s/ Richard H. Witte      Title Comptroller         
+
+
+
+                                CANCELLATION                                
+
+ Effective Date       /      /                                              
+                                                                            
+ Signature of Principal ____________________________________________________
+                                                                            
+       or                                                                   
+                                                                            
+ Signature of Deputy ________________________________________________________
+
+
+
+                                DISTRIBUTION                                
+
+              Forward original to the appropriate voucher unit.             
+              Forward copies to others on a need-to-know basis.             
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

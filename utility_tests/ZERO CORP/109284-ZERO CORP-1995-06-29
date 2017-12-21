@@ -1,0 +1,1763 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ nxpG9B//93Z12sAAX7iXZzgpLIygIj5t7jbNLb9xrDqvp58UnoeZhn8t3p4eDm7I
+ F+MHYrgXTLzzhS3venWl/g==
+
+<IMS-DOCUMENT>0000898430-95-001188.txt : 19950630<IMS-HEADER>0000898430-95-001188.hdr.sgml : 19950630
+ACCESSION NUMBER:		0000898430-95-001188
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950629
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZERO CORP
+		CENTRAL INDEX KEY:			0000109284
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL FORGING & STAMPINGS [3460]
+		IRS NUMBER:				951718077
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05260
+		FILM NUMBER:		95550447
+
+	BUSINESS ADDRESS:	
+		STREET 1:		444 S FLOWER ST STE 2100
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071-2922
+		BUSINESS PHONE:		2136297000
+
+	MAIL ADDRESS:	
+		STREET 1:		444 S FLOWER ST
+		STREET 2:		STE 2100
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZERO MANUFACTURING CO
+		DATE OF NAME CHANGE:	19761105
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>10-K405 DATED 03/31/95
+<TEXT>
+
+<PAGE>
+ 
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, DC 20549
+
+                                   FORM 10-K
+(Mark One)
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 FOR THE FISCAL YEAR ENDED MARCH 31, 1995
+                                       OR
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM__________TO___________
+
+Commission file number 1-5260
+
+                               ZERO CORPORATION
+- -------------------------------------------------------------------------------
+            (Exact name of registrant as set forth in its charter)
+                                        
+       Delaware                                          95-1718077
+- -------------------------------------------------------------------------------
+(State or other jurisdiction of incorporation or         (I.R.S. Employer
+organization)                                            Identification Number)
+
+
+444 South Flower Street, Ste. 2100, Los Angeles, CA      90071-2922
+- -------------------------------------------------------------------------------
+(Address of principal executive offices)                 (Zip Code)
+
+
+Registrant's telephone number, including area code:    213/629-7000
+                                                       ------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+     Title of each class        Name of each exchange on which registered
+     -------------------        -----------------------------------------
+Common Stock, $.01 Par Value          New York Stock Exchange
+                                      Pacific Stock Exchange
+
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES  X . NO    .
+                                       ---     ---
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+The aggregate market value of the registrant's voting common stock held by non-
+affiliates was $229,256,000 as of June 16, 1995 (based upon the closing sale
+price of $14.63 per share of such stock on the New York Stock Exchange on June
+16, 1995).
+
+Common stock outstanding as of June 16, 1995 -- 15,987,505 shares.
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Only those portions of Registrant's Annual Report for the year ended March 31,
+1995 attached hereto as Exhibit 13 and specifically incorporated by reference
+herein (the "1995 Annual Report") and the Proxy Statement for its annual meeting
+to be held July 26, 1995 (the "1995 Proxy Statement"), which are specifically
+referred to in Part I - Items 1 and 3, Part II - Items 5, 6, 7, and 8 and Part
+III - Items 10, 11 and 12, are incorporated herein by reference.
+
+                                       1
+<PAGE>
+ 
+                                     PART I
+
+ITEM 1.  BUSINESS.
+
+ZERO Corporation (the "Company", ZERO, or "Registrant") was incorporated in
+Delaware in 1988 as a successor in interest to a California corporation of the
+same name that was originally incorporated in 1952. Its executive offices are
+located at 444 South Flower Street, Suite 2100, Los Angeles, CA 90071-2922,
+telephone (213) 629-7000.
+
+The Company considers itself a leading designer, manufacturer and marketer of
+engineered solutions to enclose, cool and carry electronic equipment. The
+Company's system packaging business designs and integrates standard and custom
+electronic enclosures and cabinets, and related components such as card cages
+for printed circuit boards, backplanes, power supplies and thermal management
+systems. Over seventy percent of ZEROs net sales in fiscal 1995 were linked to
+the electronics industry, primarily through customers doing business in the
+telecommunications, data processing and instrumentation markets. ZEROs
+engineered cases include custom and standard deep drawn aluminum ZERO boxes; the
+ZERO Halliburton(R) luggage, carrying cases and attaches; thermoformed and
+rotationally molded plastic cases and enclosures; other standard and custom
+fabricated cases (marketed under the Anvil(R) Cases brand name); and specialized
+case hardware. The Company is also a designer, manufacturer and marketer of
+various products used in the airline/air cargo industry including specialized
+aluminum, polycarbonate and fiberglass air cargo containers; patented
+telescoping baggage/cargo systems; air cargo restraint systems and hardware; and
+transit cases engineered to meet specifications of the Air Transport
+Association.
+
+ZERO's operations are classified under two business segments: Enclosures and
+Accessories, and Other. Information about ZERO's business segments is set forth
+in Note 8 "Segment Information" on page 24 of the 1995 Annual Report, which is
+incorporated herein by reference.
+
+During the three years ended March 31, 1995, the Company did not derive a
+material portion of its sales or net income from its foreign operations nor has
+the Company been dependent upon a single customer, or a few customers, the loss
+of which would have a material adverse effect on its operations.
+
+Patents, licenses, franchises and concessions are not an important factor in
+ZERO's overall production process and are not material to its results of
+operation.
+
+Research and development activities are not a significant part of the Company's
+business. During the year ended March 31, 1995, the Company spent less than 1%
+of net sales on research and development activities.
+
+Acquisitions
+
+ZERO is committed to enhance its growth through acquisitions that would
+complement the existing business. Prior to June 16, 1995, the Company acquired
+the assets of Electro-Mechanical Imagineering, Inc. (EMI), a manufacturer of
+products to encase, protect and mount closed-circuit television security devices
+that generated annual revenues of approximately $4.5 million. In addition, as of
+June 16, 1995, the Company has signed letters of intent outstanding to acquire
+two other companies, which, when combined with EMI, have combined sales of
+approximately $16 million. Negotiations of definitive agreements and diligence
+reviews are currently being performed and the Company expects to complete these
+acquisitions in the summer of 1995. These companies' product lines complement
+existing operations and markets.
+
+Market Trends
+
+Three trends have increased ZERO's sales activity within the rapidly growing 
+electronics marketplace. One trend is the miniaturization of electronic 
+products, which has increased the demand for highly specialized systems 
+packaging and thermal management solutions. A second trend is lower-priced 
+electronic products, which has increased both unit sales and the size of the 
+markets ZERO serves. A third trend is the worldwide growth in 
+telecommunications, which has greatly expanded the opportunity to enclose and 
+cool products globally.
+
+ZERO's sales in the telecommunications, data processing and instrumentation 
+markets increased to $115 million from $100 million for the years ended 
+March 31, 1995 and 1994, respectively. This is due to the strength in the 
+telecommunications industry as well as the demand for products to cool machine 
+tool controls, cellular antennae equipment and other electronics that are 
+located in inclement environments. Increased activity within the data processing
+market was greatly influenced by a price performance curve which accelerated the
+sale of mid-range computers requiring sophisticated cooling and packaging. 
+ZERO's increased sales within the electronics markets more than offset the lower
+volumes in the air cargo market which decreased in sales to $22 million from
+$26 million and government/military markets which decreased in sales to $16
+million from $21 million for the years ended March 31, 1995 and 1994,
+respectively.
+
+Marketing
+
+ZERO employs manufacturers' representatives, direct sales people and some
+distributors to market its non-consumer products worldwide. Technical support is
+provided by engineering personnel from ZERO's various plants. The Company's
+standard enclosures products and accessories are sold through catalogs,
+advertisements, trade journals and independent distributors. Nonstandard or
+specialized enclosure products and accessories are marketed through
+manufacturers' representatives and direct sales people. ZERO's consumer oriented
+products are marketed worldwide through catalogs, advertisements, telemarketing
+programs and trade journals, and are distributed through established independent
+dealers.
+
+Competition
+
+While reliable statistics are not available to permit the Company to accurately
+estimate its share of the total market for each of its business segments, the
+Company believes it has a significant share of the enclosures and accessories
+market that it serves. ZERO competes with a number of other larger and smaller
+companies. The degree and type of competition that ZERO encounters varies for
+both of its business segments.
+
+                                       2
+<PAGE>
+ 
+The Company believes it effectively competes in both of its business segments by
+providing engineering expertise, innovative design, superior quality and on-time
+delivery at a competitive price. ZERO's ability to successfully compete in the
+Enclosures and Accessories segment is also attributable to its broad range of
+standard products. Approximately 2,000 dies, capable of producing over 75,000
+standard deep drawn aluminum enclosures, provide ZERO with both a cost and
+service advantage in a large portion of its metal case and enclosure business.
+In addition, ZERO offers thousands of sizes of fabricated cases and hundreds of
+standard configurations for system packaging. The thermal management systems,
+which cool or heat a wide range of electronics, includes products such as
+blowers, fans, air conditioning systems and electronic controlling systems.
+Competitive strength is also derived by the Company's ability to modify standard
+products to satisfy a variety of applications and customer requirements.
+
+Sales and Backlog
+
+ZERO's backlog at March 31, 1995 and 1994 was $40,278,000 and $40,302,000,
+respectively. Backlog is based on contracts which were signed as of the
+respective dates set forth. The backlog at March 31, 1995 is scheduled for
+delivery during fiscal 1996.
+
+Certain contracts, particularly those with the United States Government and its
+contractors, provide for cancellation for convenience of the customer. If such
+cancellation occurs, the contractor is paid for costs incurred to date plus the
+costs of settling and paying claims of terminated subcontractors, other
+settlement expenses and a reasonable profit on its costs. During the five years
+ended March 31, 1995, the aggregate amount of orders cancelled for the
+convenience of the United States Government has not been material. However, no
+assurance can be given that this pattern will continue in the future.
+
+For the year ended March 31, 1995, approximately 9% of ZERO's sales were made to
+the government/military market.
+
+A majority of ZERO's sales orders are in amounts of less than $10,000 each.
+These orders generally are delivered 1 to 6 weeks from the time the order is
+booked. Larger orders and custom orders may take several weeks to over a year
+depending on the delivery schedule set by the customer. Because of the large
+number of customers served (in excess of 20,000), the relatively small size of
+each order and the relatively short delivery cycles involved, the Company
+believes the risk is low of any order being cancelled which would have a
+significant adverse effect on operations.
+
+Raw Materials
+
+The principal raw materials used by ZERO in manufacturing its products are
+aluminum and steel and, to a lesser extent, plastics. Such materials are
+purchased under competitive bids at levels sufficient to meet foreseeable
+production and delivery schedules from an adequate source of suppliers. Other
+raw materials and supplies necessary for the production of ZERO's products are
+purchased from a variety of suppliers. As of June 16, 1995, the Company was not
+experiencing shortages in the supply of its raw materials. Based on market and
+economic conditions at that date, ZERO believes that the supply and availability
+of these materials will be adequate to support its level of operations projected
+through March 31, 1996. However, the Company can make no assurances that such
+materials will be available beyond that period, and any shortage of such
+materials could have a significant and material adverse impact on the operations
+of the Company.
+
+Environmental Matters
+
+The information regarding environmental matters relating to operations in prior
+years is discussed in Note 7 - "Contingent Liabilities" on page 22 of the 1995
+Annual Report addressing environmental matters in which ZERO has been named a
+"potentially responsible party" is incorporated herein by reference.
+
+ZERO has developed and implemented an environmental program to reduce or
+eliminate the use of hazardous material in its current operations. Through
+changes in production processes, capital expenditures, proper training and
+the use of state-of-the-art treatment and monitoring equipment, the Company
+believes its program is controlling the use and discharge of hazardous materials
+and is in substantial compliance with applicable local, state and Federal
+regulations. The Company does not expect that any assertions of noncompliance
+with such laws relating to its current operations will materially adversely
+affect its earnings or competitive position or will require any significant
+capital expenditures during fiscal year 1996.
+
+                                       3
+<PAGE>
+ 
+Employees
+
+As of May 31, 1995, ZERO employed approximately 1,800 persons. Employee
+relations are considered good. Only certain employees at the Company's Samuel
+Groves & Co. Limited subsidiary and ZERO Stantron Cabinets division are
+represented by unions which are not affiliated with any national union.
+
+ITEM 2.  PROPERTIES.
+
+As of June 16, 1995, ZERO used manufacturing plants, facilities and office
+buildings containing an aggregate of approximately 1,483,000 square feet of
+floor space. ZERO's plants and facilities are located in California (Camarillo,
+Chino, City of Industry, El Monte, Pacoima, Rancho Dominguez and San Diego);
+Utah (North Salt Lake); Massachusetts (Monson); New Jersey (Princeton Junction
+and Windsor); Minnesota (Champlin); Connecticut (Hartford); Tijuana, Mexico; and
+Birmingham, Feltham, and West Midlands, England. The plants located in
+Camarillo, City of Industry, El Monte, Pacoima and San Diego, California; in
+North Salt Lake, Utah; in Princeton Junction and Windsor, New Jersey; and in
+Champlin, Minnesota, are used in the production of enclosures and accessories.
+The remaining plants are used by both business segments.
+
+ZERO owns all its plants and facilities, except for the following leased
+properties:
+<TABLE>
+<CAPTION>
+ 
+PLANT                     SQUARE FOOTAGE                 LEASE EXPIRES
+- ----------------------------------------------------------------------------
+<S>                       <C>                            <C>
+Camarillo, CA                 35,000                     June 30, 1996*
+Camarillo, CA                 27,000                     February 28, 1996*
+Chino, CA                      7,000                     March 31, 1996
+City of Industry, CA          63,000                     November 30, 1996*
+El Monte, CA                  72,000                     May 31, 2004
+Hartford, CT                   8,000                     January 31, 1996
+Hartford, CT                   6,000                     June 30, 1995
+Pacoima, CA                  114,000                     August 5, 1999*
+Rancho Dominguez, CA          30,000                     December 1, 1995
+Rancho Dominguez, CA         110,000                     September 29, 1999*
+Windsor, NJ                   24,000                     September 30, 1996*
+Tijuana, Mexico               35,000                     January 31, 1996*
+Feltham, England              31,000                     January 10, 2007
+West Midlands, England        26,000                     May 22, 2000
+                             -------
+                             588,000
+         TOTAL
+</TABLE>
+
+* Lease contains renewal option.
+
+ZERO's plants and facilities used in operations are generally constructed of
+concrete block, brick, concrete tilt-up, steel or a combination thereof. ZERO's
+facilities and equipment are well maintained and are believed to be adequate to
+support a substantial increase in its operations, assuming a comparable product
+mix.
+
+ITEM 3.  LEGAL PROCEEDINGS.
+
+Information concerning legal proceedings in Note 7 - "Contingent Liabilities" on
+page 22 of the 1995 Annual Report is incorporated herein by reference.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+Registrant submitted no matters to a vote of its security holders during the
+fiscal quarter ended March 31, 1995.
+
+                                       4
+<PAGE>
+ 
+                     EXECUTIVE OFFICERS OF THE REGISTRANT
+                     ------------------------------------
+
+
+Information regarding the Company's officers as of June 16, 1995 is as follows:
+
+<TABLE>
+<CAPTION>
+ 
+                                                                   EXECUTIVE
+NAME                      AGE     POSITION                         OFFICER SINCE
+- --------------------------------------------------------------------------------
+<S>                       <C>     <C>                              <C>
+Howard W. Hill             68     Chairman of the Board                 1960
+John B. Gilbert            74     Chairman Emeritus and Director        1952
+Wilford D. Godbold Jr.     57     President, Chief Executive            1982
+                                  Officer and Director               
+George A. Daniels          57     Vice President and Chief              1987
+                                  Financial Officer                  
+Bernard B. Heiler          49     Vice President of Marketing           1992
+                                  and Sales                          
+James F. Hermanson         58     Vice President                        1984
+Michael D. LeRoy           47     Vice President of Corporate           1995
+                                  Development                        
+Anita J. Cutchall          56     Director of Legal Affairs and         1992
+                                  Corporate Secretary
+</TABLE>
+
+None of the directors or executive officers are related to one another. All
+executive officers except Messrs. Heiler and LeRoy and Ms. Cutchall have served
+in their current capacities or in other managerial positions with the
+Company for a minimum of five years. Mr Heiler has held his current position
+with the Company since October 1992, prior to which he was Vice President of GTE
+California, a telephone public utility, from 1984 through 1992, and President of
+GTEL, a telecommunications integrator and a subsidiary of GTE, from 1986 through
+1992. Mr. LeRoy has held his current position with the Company since January
+1995, prior to which he was Chief Operating Office of Biner Ellison Packaging
+Systems, Inc., a manufacturing company, from 1990 through 1994, and a private
+investor from 1994 through 1995. Ms. Cutchall has held her current position with
+the Company since August 1992, prior to which she held the same position with
+Continental Graphics Corporation, a provider of specialty graphics, commercial
+printing and film services, from 1990 through 1992.
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+The information under the caption "Market and Dividend Information" on page 28
+of the 1995 Annual Report is incorporated herein by reference. On June 16, 1995
+the Company had 6,176 stockholders of record.
+
+ITEM 6.  SELECTED FINANCIAL DATA.
+
+The information under the caption "Five-Year Selected Financial Data" on page 27
+of the 1995 Annual Report is incorporated herein by reference.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+         FINANCIAL CONDITION.
+
+The information under the caption "Management's Discussion and Analysis of
+Results of Operations and Financial Condition" on page 9 of the 1995 Annual
+Report is incorporated herein by reference.
+
+                                       5
+<PAGE>
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+The following consolidated financial statements of the Registrant and its
+subsidiaries included in the 1995 Annual Report (on the page numbers shown) are
+incorporated herein by reference:
+
+ Statements of Consolidated Income--Years Ended March 31, 1995, 1994 and 1993.
+  (Page 11)
+
+ Consolidated Balance Sheets--March 31, 1995 and 1994. (Pages 12 and 13)
+
+ Statements of Consolidated Stockholders' Equity--Years ended March 31, 1995,
+  1994 and 1993. (Page 14)
+
+ Statements of Consolidated Cash Flows--Years Ended March 31, 1995, 1994 and
+  1993. (Page 15)
+
+ Notes to Consolidated Financial Statements. (Pages 16 to 24, inclusive)
+
+ Quarterly Results of Operations. (Page 27)
+
+The independent auditors' report on page 25 and management's report on page 26
+of the 1995 Annual Report covering ZERO's consolidated financial statements are
+incorporated herein by reference.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE.
+
+None.
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+The information under the caption "Election of Directors" in the 1995 Proxy
+Statement is incorporated herein by reference.
+
+Information concerning the Company's executive officers is included under the
+caption "Executive Officers of the Registrant" following Part I, Item 4 of this
+report.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+The information under the captions "Meetings of the Board of Directors,
+Committees of the Board and Directors' Fees" and "Executive Compensation" in the
+1995 Proxy Statement is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+The information under the captions "General Information" and "Voting Securities
+and Certain Stockholders" in the 1995 Proxy Statement is incorporated herein by
+reference.
+
+Registrant does not know of any arrangement, including any pledge by any person
+of securities of Registrant, which may at a subsequent date result in a change
+of control of Registrant.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+Not applicable.
+
+                                       6
+<PAGE>
+ 
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(a)(1). Financial Statements.
+
+Reference is made to Item 8 in Part II of this report, where these statements
+are listed.
+
+(a)(2). Financial Statement Schedule.
+
+The following consolidated financial statement schedule of Registrant is
+included in Item 14(d) below:
+
+  Schedule II--Valuation and Qualifying Accounts for the years ended March
+    31, 1995, 1994 and 1993.
+
+
+All other schedules for which provision is made in the applicable accounting
+regulations of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable, and therefore have been omitted.
+
+(a)(3). Exhibits.
+
+The following exhibits are part of this Form 10-K and are either incorporated by
+reference to the prior filings indicated below or are filed herewith under
+Item 14(c):
+
+3.1   The Restated Certificate of Incorporation filed as Exhibit 3-(3)(a) of
+      the Company's Form 8-B filed on September 7, 1988.
+
+3.2   Bylaws of ZERO Corporation, as amended on April 22, 1994 filed as
+      Exhibit 3.2 to the Company's Form 10-K for the year ended March 31, 1994.
+
+4.2   Specimen form of certificate of common stock $0.01 par value per share
+      filed as Exhibit 3-(4) of the Company's Form 8-B filed on September 7,
+      1988.
+
+10.1  Deferred Compensation Plan adopted by the Board of Directors on December
+      17, 1973 as amended by the Board of Directors on December 11, 1974 filed
+      as Exhibit 13.10 to the Company's Form 10-K for the year ended March 31,
+      1975.
+
+10.2  Deferred Compensation Plan as amended through April 1, 1986 filed as
+      Exhibit 10.13 to the Company's Form 10-K for the year ended March 31,
+      1986.
+
+10.3  Directors' Deferred Compensation Plan adopted by the Board of Directors
+      on October 20, 1993 filed as Exhibit 10.3 to the Company's Form 10-K for
+      the year ended March 31, 1994.
+
+10.4  Executive Deferred Compensation Plan adopted by the Board of Directors
+      on October 20, 1993 filed as Exhibit 10.4 to the Company's Form 10-K for
+      the year ended March 31, 1994.
+
+10.5  ZERO Corporation Management Bonus Plan adopted by the Board of Directors
+      on April 22, 1994 filed as Exhibit 10.5 to the Company's Form 10-K for
+      the year ended March 31, 1994.
+
+                                       7
+<PAGE>
+ 
+10.6  ZERO Corporation 1988 Stock Option Plan, as amended, filed on Form S-8
+      Registration Statements (File Nos. 33-44143 and 33-27929).
+
+10.7  ZERO Corporation 1994 Stock Option Plan, filed on Form S-8 Registration 
+      Statement (File No. 33-56175).
+
+10.8  Description of ZERO Corporation Pension Restoration Plan
+      adopted by the Board of Directors on January 19, 1994 filed as Exhibit
+      10.9 to the Company's Form 10-K for the year ended March 31, 1994, as 
+      amended.
+
+10.9  Description of ZERO Corporation Contract and Joint Supplemental Life
+      Insurance Plan adopted by the Board of Directors on April 22, 1994 filed
+      as Exhibit 10.10 to the Company's Form 10-K for the year ended March 31,
+      1994.
+
+13    Annual Report for the year ended March 31, 1995 (not deemed filed except
+      for those portions specifically incorporated by reference herein).
+
+21    Listing of the Company's subsidiaries as of March 31, 1995.
+
+23    Consent of Independent Auditors.
+
+27    Financial Data Schedule.
+
+(b).  REPORTS ON FORM 8-K.
+
+During the quarter ended March 31, 1995 the Company filed no reports on
+Form 8-K.
+
+(c).  EXHIBITS.
+
+See listing of exhibits filed herewith on page 12 of this report.
+
+(d).  FINANCIAL STATEMENT SCHEDULE.
+
+The financial statement schedule listed in Item 14(a)(2) above is shown on
+page 11 of this report. The report of the Registrant's independent
+auditors, Deloitte & Touche LLP, is set forth on page 10 of this report.
+
+                                       8
+<PAGE>
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of Registrant
+and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+SIGNATURE                    TITLE                                 DATE
+- --------------------------------------------------------------------------------
+<S>                          <C>                                   <C>
+ 
+/s/ George A. Daniels        Vice President and Chief Financial
+__________________________   Officer                               June 28, 1995
+George A. Daniels
+ 
+
+DIRECTORS:
+
+/s/ Gary M. Cusumano 
+__________________________   Director                              June 28, 1995
+Gary M. Cusumano
+
+/s/ Bruce J. DeBever 
+__________________________   Director                              June 28, 1995
+Bruce J. DeBever
+
+/s/ Clinton G. Gerlach 
+__________________________   Director                              June 28, 1995
+Clinton G. Gerlach
+ 
+/s/ John B. Gilbert
+__________________________   Director                              June 28, 1995
+John B. Gilbert
+
+
+/s/ Wilford D. Godbold, Jr.  Director and Chief
+__________________________   Executive Officer                     June 28, 1995
+Wilford D. Godbold, Jr.
+
+
+/s/ Bernard B. Heiler 
+__________________________   Director                              June 28, 1995
+Bernard B. Heiler
+
+
+/s/ Howard W. Hill 
+__________________________   Director                              June 28, 1995
+Howard W. Hill
+
+
+/s/ Whitney A. McFarlin 
+__________________________   Director                              June 28, 1995
+Whitney A. McFarlin
+</TABLE>
+
+                                       9
+<PAGE>
+
+
+ 
+INDEPENDENT AUDITORS' REPORT
+- ----------------------------
+
+To the Stockholders of ZERO Corporation:
+
+We have audited the consolidated financial statements of ZERO
+Corporation and its subsidiaries (the "Company") as of March 31, 1995
+and 1994, and for each of the three years in the period ended March 31,
+1995, and have issued our report thereon dated May 11, 1995; such
+financial statements and report are included in your 1995 Annual Report
+to Stockholders and are incorporated herein by reference. Our audits
+also included the financial statement schedule of the Company listed
+in Item 14(a)(2). This financial statement schedule is the
+responsibility of the Company's management. Our responsibility is to
+express an opinion based on our audits. In our opinion, such financial
+statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+/s/ DELOITTE & TOUCHE LLP
+
+
+Los Angeles, California
+May 11, 1995
+
+                                      10
+<PAGE>
+ 
+                                                         SCHEDULE II
+
+
+
+                       ZERO CORPORATION AND SUBSIDIARIES
+                       ---------------------------------
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+
+               FOR THE YEARS ENDED MARCH 31, 1995, 1994 AND 1993
+
+
+
+<TABLE>
+<CAPTION>
+                                   Balance at   Provision    Doubtful         Balance at
+                                   Beginning    Charged to   Accounts         End of
+                                   of Year      Income       Written Off (1)  Year
+- ---------------------------------------------------------------------------------------------
+<S>                                <C>          <C>          <C>              <C>
+                                                          
+Allowance for doubtful accounts:                          
+                                                          
+April 1, 1994 to March 31, 1995    $829,000     $208,000     ($313,000)       $724,000
+                                                                        
+April 1, 1993 to March 31, 1994    $886,000     $489,000     ($546,000)       $829,000
+                                                                        
+April 1, 1992 to March 31, 1993    $871,000     $609,000     ($594,000)       $886,000
+</TABLE>
+
+(1)  Net of recoveries
+
+                                      11
+<PAGE>
+ 
+                       ZERO CORPORATION AND SUBSIDIARIES
+
+                             FORM 10K, ITEM 14(c)
+
+
+                            EXHIBITS FILED HEREWITH
+
+
+13    Annual Report for the year ended March 31, 1995 (not deemed filed
+      except for those portions specifically incorporated by reference
+      herein).
+
+21    Subsidiaries of Registrant as of March 31, 1995.
+
+23    Consent of Independent Auditors.
+
+27    Financial Data Schedule.
+
+
+                                      12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>MD&A SECTION
+<TEXT>
+
+<PAGE>
+
+                                                                      EXHIBIT 13
+
+================================================================================
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS
+OF OPERATIONS AND FINANCIAL CONDITION
+- --------------------------------------------------------------------------------
+
+RESULTS OF OPERATIONS
+
+     For the years ended March 31, 1995, 1994 and 1993, Net Income was 
+$14,825,000, $12,851,000 and $11,635,000 and Earnings Per Share were $.93, $.81
+and $.74, respectively.
+
+     Net Sales in fiscal 1995 grew 4.6% over the amount reported in fiscal 1994.
+This compares to a sales growth of 7.1% in 1994 when compared to 1993. The
+increase in 1995 was primarily attributable to higher sales applicable to the
+telecommunications/instrumentation and data processing markets, partially offset
+by declines in the air cargo and government/military markets. In fiscal 1994,
+growth in the telecommunications/instrumentation, data processing and air cargo
+markets as well as the acquisition of a case hardware business in August 1993,
+was partially offset by weakness in government/military markets. Interest income
+was higher in 1995 due to higher level of investments, higher interest rates and
+reduced investments in municipal bonds.
+
+     Cost of sales, as a percentage of Net Sales, was 64.0% in 1995 versus 65.2%
+in 1994 and 64.8% in 1993. In 1995, the cost of sales as a percentage of Net
+Sales was lower than the prior year primarily due to favorable product mix,
+higher volume and cost-containment efforts, partially offset by increased
+material and supply costs. In fiscal 1994, cost-containment efforts and stable
+material costs were offset by changes in product mix and competitive pricing.
+
+     Selling and administrative expenses, as a percentage of Net Sales, was
+21.2% in 1995, 20.9% in 1994 and 21.6% in 1993. The percentage in 1995 was
+higher than 1994 despite higher sales volumes primarily as a result of
+expenditures related to environmental matters and a facility reorganization.
+Increased sales and cost-containment efforts in 1994 resulted in a lower
+percentage than 1993.
+
+     EFFECT OF INFLATION - Price increases by ZERO have not contributed
+significantly to increases in the Company's Net Sales. The impact of rising
+costs of labor, materials and supplies, and equipment has been mitigated, in
+part, by changes in product design, overall manufacturing and purchasing
+efficiencies, and effective management and control of operating expenses.
+<PAGE>
+ 
+================================================================================
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS
+OF OPERATIONS AND FINANCIAL CONDITION (cont.)
+- --------------------------------------------------------------------------------
+     
+     LIQUIDITY AND CAPITAL RESOURCES - At March 31, 1995, the Company's primary
+source of liquidity was $37,034,000 of cash and short-term investments. Working
+capital increased to $73,531,000 from $66,980,000 at March 31, 1994 as a result
+of higher earnings and cash flow.
+
+     Cash provided by operating activities was $18,141,000 in 1995, $14,817,000
+in 1994 and $19,299,000 in 1993. Such cash generated from operating activities
+during those years was invested primarily in property additions and the purchase
+of certain assets of a small business in 1993. The higher property additions in
+1995 resulted primarily from the construction of a new manufacturing plant. Cash
+utilized in financing activities was primarily for the payment of dividends.
+
+     Management believes cash from operations, together with the Company's 
+short-term investments and ability to obtain financing, will provide sufficient
+funds to finance current and forecasted operations, including potential
+acquisitions. The Company will continue to invest its cash reserves in liquid,
+lower-risk investments.
+
+     CONTINGENCIES - The Company has been notified by certain governmental
+agencies or third party litigants that it is, or may be, potentially responsible
+for costs associated with the investigation and remediation of six sites where
+soil and/or groundwater contamination is alleged. The Company is working with
+the governmental agencies and other parties to resolve these matters. The
+Company has provided reserves to cover those costs which can be reasonably
+estimated at this time. Refer to Note 7 of Notes to Consolidated Financial
+Statements for further discussion of environmental and other contingencies.
+
+================================================================================
+<PAGE>
+ 
+================================================================================
+STATEMENTS OF CONSOLIDATED INCOME
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+Year Ended March 31,                                      1995             1994             1993
+- ------------------------------------------------------------------------------------------------
+<S>                                               <C>              <C>              <C> 
+Net Sales                                         $179,694,000     $171,821,000     $160,466,000
+Interest Income                                      1,703,000          984,000          902,000
+Other Income                                         1,344,000        1,078,000        1,204,000
+- ------------------------------------------------------------------------------------------------
+     Total Revenue                                 182,741,000      173,883,000      162,572,000
+================================================================================================
+Costs and Expenses               
+     Cost of sales (exclusive of depreciation)     115,068,000      111,985,000      104,044,000
+     Selling and administrative expenses            38,143,000       35,984,000       34,635,000
+     Depreciation                                    4,642,000        4,470,000        4,372,000
+     Interest expense                                  662,000          481,000          519,000
+- ------------------------------------------------------------------------------------------------
+       Total Costs and Expenses                    158,515,000      152,920,000      143,570,000
+================================================================================================
+Income Before Income Taxes                          24,226,000       20,963,000       19,002,000
+Income Taxes                                         9,401,000        8,112,000        7,367,000
+- ------------------------------------------------------------------------------------------------
+Net Income                                        $ 14,825,000     $ 12,851,000     $ 11,635,000
+================================================================================================
+Earnings Per Common Share                                $0.93            $0.81            $0.74
+- ------------------------------------------------------------------------------------------------
+</TABLE> 
+================================================================================
+The Notes to Consolidated Financial Statements are an integral part of these 
+statements.
+<PAGE>
+ 
+================================================================================
+CONSOLIDATED BALANCE SHEETS
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+March 31,                                                               1995             1994
+- ---------------------------------------------------------------------------------------------
+<S>                                                             <C>              <C> 
+ASSETS
+Current Assets
+     Cash and cash equivalents                                  $ 17,132,000     $ 14,843,000
+     Short-term investments                                       19,902,000       18,525,000
+     Receivables (less allowances for doubtful accounts of
+      $724,000 in 1995 and $829,000 in 1994)                      26,310,000       24,487,000
+     Inventories
+       Raw materials and supplies                                 15,028,000       12,000,000
+       Work in process                                             7,046,000        6,589,000
+       Finished goods                                              4,147,000        3,253,000
+     Other (including deferred tax benefits of $2,205,000
+      in 1995 and $2,979,000 in 1994)                              3,327,000        4,216,000
+- ---------------------------------------------------------------------------------------------
+     Total Current Assets                                         92,892,000       83,913,000
+=============================================================================================
+Net Property, Plant and Equipment                                 33,989,000       29,863,000
+Goodwill (less accumulated amortization of $9,558,000
+     in 1995 and $8,533,000 in 1994)                              29,624,000       30,649,000
+Other Assets                                                      15,019,000       14,309,000
+- ---------------------------------------------------------------------------------------------
+     Total Assets                                               $171,524,000     $158,734,000
+=============================================================================================
+</TABLE> 
+================================================================================
+The Notes to Consolidated Financial Statements are an integral part of these 
+statements.
+<PAGE>
+ 
+================================================================================
+CONSOLIDATED BALANCE SHEETS
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+March 31,                                                                                       1995              1994
+- ----------------------------------------------------------------------------------------------------------------------
+<S>                                                                                     <C>               <C> 
+LIABILITIES
+Current Liabilities
+     Accounts payable                                                                   $  8,326,000      $  6,039,000 
+     Income taxes payable                                                                    192,000           384,000 
+     Accrued liabilities
+       Other taxes                                                                         1,479,000           468,000 
+       Wages and commissions                                                               5,426,000         5,375,000 
+       Workers' compensation                                                                 780,000           980,000 
+       Other                                                                               3,158,000         3,687,000 
+- ----------------------------------------------------------------------------------------------------------------------
+         Total Current Liabilities                                                        19,361,000        16,933,000 
+======================================================================================================================
+Non-Current Liabilities (including deferred compensation of 
+     $6,352,000 in 1995 and $4,846,000 in 1994)                                            6,569,000         5,324,000 
+STOCKHOLDERS' EQUITY
+     Preferred stock -- authorized 1,000,000 shares of $.01 par value; none issued          
+     Common stock -- authorized 30,000,000 shares of $.01 par value; 
+       outstanding shares, 16,124,144 in 1995 and 16,079,500 in 1994                         161,000           161,000 
+     Additional paid-in capital                                                           31,079,000        30,605,000 
+     Retained earnings                                                                   115,754,000       107,509,000 
+- ----------------------------------------------------------------------------------------------------------------------
+                                                                                         146,994,000       138,275,000 
+     Foreign currency translation adjustments                                                261,000          (124,000)
+     Treasury stock (160,888 shares in 1995 and
+       162,390 shares in 1994), at cost                                                   (1,661,000)       (1,674,000)
+- ----------------------------------------------------------------------------------------------------------------------
+        Total Stockholders' Equity                                                       145,594,000       136,477,000 
+- ----------------------------------------------------------------------------------------------------------------------
+        Total Liabilities and Stockholders' Equity                                      $171,524,000      $158,734,000 
+======================================================================================================================
+</TABLE> 
+================================================================================
+The Notes to Consolidated Financial Statements are an integral part of these 
+statements.
+<PAGE>
+ 
+================================================================================
+STATEMENTS OF CONSOLIDATED STOCKHOLDERS' EQUITY
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+                                                                                                      FOREIGN
+                                                                    ADDITIONAL                       CURRENCY
+                                        OUTSTANDING     COMMON       PAID-IN          RETAINED      TRANSLATION      TREASURY
+                                          SHARES        STOCK        CAPITAL          EARNINGS      ADJUSTMENTS       STOCK
+- ------------------------------------------------------------------------------------------------------------------------------
+<S>                                    <C>            <C>          <C>             <C>               <C>           <C> 
+Balance at March 31, 1992              15,875,287     $159,000     $27,236,000     $ 96,794,000      $553,000      $(1,677,000)
+Net income for the year                       --           --              --        11,635,000           --               --  
+Cash dividends declared --
+     $.40 per share                           --           --              --        (6,289,000)          --               --  
+Exercise of stock options                  77,916        1,000       1,037,000         (120,000)          --               --  
+Foreign currency translation
+     adjustments                              --           --              --               --       (658,000)             -- 
+- ------------------------------------------------------------------------------------------------------------------------------
+Balance at March 31, 1993              15,953,203      160,000      28,273,000      102,020,000      (105,000)      (1,677,000)
+Net income for the year                       --           --              --        12,851,000           --               --  
+Cash dividends declared --
+     $.40 per share                           --           --              --        (6,340,000)          --               --  
+Exercise of stock options and
+     issuance of treasury stock           126,297        1,000       2,332,000       (1,005,000)                         3,000 
+Foreign currency translation
+     adjustments and other                    --           --              --           (17,000)      (19,000)             --  
+- ------------------------------------------------------------------------------------------------------------------------------
+Balance at March 31, 1994              16,079,500      161,000      30,605,000      107,509,000      (124,000)      (1,674,000)
+Net income for the year                       --           --              --        14,825,000           --               --  
+Cash dividends declared --
+     $.41 per share                           --           --              --        (6,533,000)          --               --  
+Exercise of stock options and
+     issuance of treasury stock            44,644          --          474,000          (42,000)          --            13,000 
+Foreign currency translation
+     adjustments and other                    --           --              --            (5,000)      385,000              --  
+- ------------------------------------------------------------------------------------------------------------------------------
+Balance at March 31, 1995              16,124,144     $161,000     $31,079,000     $115,754,000      $261,000      $(1,661,000)
+==============================================================================================================================
+</TABLE> 
+================================================================================
+The Notes to Consolidated Financial Statements are an integral part of these 
+statements.
+<PAGE>
+ 
+================================================================================
+STATEMENTS OF CONSOLIDATED CASH FLOWS
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+Year Ended March 31,                                               1995             1994             1993
+- ---------------------------------------------------------------------------------------------------------
+<S>                                                         <C>              <C>              <C> 
+Cash Flow From Operating Activities
+Net income                                                  $14,825,000      $12,851,000      $11,635,000 
+Adjustments to reconcile net income to net 
+ cash provided by operating activities
+  Depreciation and amortization                               5,667,000        5,466,000        5,366,000 
+  Changes in operating assets and liabilities 
+   net of effect of business acquisitions
+    Decrease (increase) in accounts receivable               (1,823,000)        (873,000)         394,000 
+    Decrease (increase) in inventories                       (4,379,000)         226,000        1,801,000 
+    Increase in other non-current assets                       (710,000)      (1,162,000)        (794,000)
+    Increase in accounts payable                              2,287,000          985,000        1,035,000 
+    Increase (decrease) in accrued liabilities                  141,000       (4,021,000)         500,000 
+    Increase (decrease) in other 
+     non-current liabilities                                  1,245,000          711,000       (1,248,000)
+  Other                                                         888,000          634,000          610,000 
+- ---------------------------------------------------------------------------------------------------------
+Net cash provided by operating activities                    18,141,000       14,817,000       19,299,000 
+- ---------------------------------------------------------------------------------------------------------
+Cash Flow From Investing Activities
+  (Purchases) sales of short-term investments, net           (1,377,000)       2,010,000      (10,476,000)
+  Purchase of non-cash assets of acquired businesses                --        (2,100,000)             --  
+  Expenditures for property, plant and equipment             (8,561,000)      (4,160,000)      (5,236,000)
+  Other                                                        (215,000)         280,000          631,000 
+- ---------------------------------------------------------------------------------------------------------
+Net cash required by investing activities                   (10,153,000)      (3,970,000)     (15,081,000)
+- ---------------------------------------------------------------------------------------------------------
+Cash Flow From Financing Activities
+  Cash dividends paid                                        (6,533,000)      (6,340,000)      (6,289,000)
+  Payments of long-term debt                                        --          (197,000)      (2,149,000)
+  Exercise of stock options                                     432,000        1,331,000          918,000 
+  Other (including effect of exchange rate changes)             402,000         (344,000)        (462,000)
+- ---------------------------------------------------------------------------------------------------------
+Net cash required by financing activities                    (5,699,000)      (5,550,000)      (7,982,000)
+- ---------------------------------------------------------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents          2,289,000        5,297,000       (3,764,000)
+Cash and cash equivalents at beginning of period             14,843,000        9,546,000       13,310,000 
+- ---------------------------------------------------------------------------------------------------------
+Cash and cash equivalents at end of period                  $17,132,000      $14,843,000      $ 9,546,000 
+=========================================================================================================
+</TABLE> 
+================================================================================
+The Notes to Consolidated Financial Statements are an integral part of these 
+statements.
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+- --------------------------------------------------------------------------------
+
+NOTE 1  Significant Accounting Policies
+
+Principles of Consolidation - The accompanying consolidated financial statements
+include the accounts of the Company and its subsidiaries. All significant
+intercompany balances and transactions have been eliminated.
+
+Cash Equivalents - Cash equivalents include mutual funds and other highly liquid
+investments purchased with maturities of three months or less. As of March 31,
+1995 and 1994, the carrying values of cash equivalents approximated fair market
+values.
+
+Short-Term Investments - Short-term investments at March 31, 1995 and 1994
+consisted primarily of treasury notes, treasury bills and municipal bonds which
+are classified as securities available-for-sale. Market prices which
+approximated cost at the balance sheet dates are reasonable estimates of the
+portfolio's fair value.
+
+Inventories - Inventories are stated at the lower of cost (first-in, first-out
+or average) or market.
+
+Property, Plant and Equipment - Property, plant and equipment is recorded at
+cost. Depreciation is computed principally using the straight-line method over
+the estimated useful lives of the assets. Capital leases and leasehold
+improvements are amortized over the life of the related assets or the life of
+the lease, whichever is shorter.
+
+Intangible Assets - Costs in excess of the value of net assets acquired in
+purchase transactions are being recorded as goodwill and amortized over periods
+of up to 40 years. The Company reviews the recoverability of intangible assets
+to determine if there has been any permanent impairment. Such review includes
+operating performance and cash flows and future prospects of the business. If a
+permanent impairment has occurred, a reserve for such impairment would be
+recorded.
+
+Earnings per Common Share - Earnings per common share are computed using the
+weighted average number of shares of common stock and common stock equivalents
+(stock options) outstanding, which for 1995, 1994 and 1993 was 16,020,063,
+15,958,366 and 15,791,972, respectively.
+
+Foreign Currency Translation - Assets and liabilities of foreign subsidiaries
+are translated into U.S. dollars at the year-end exchange rate and gains and
+losses are being accumulated in stockholders' equity. The related income
+statement is translated at the average exchange rate for the year.
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+Concentrations of Credit Risks - Financial instruments that potentially subject
+a company to concentration of credit risk consist primarily of trade
+receivables. Credit risk on trade receivables is minimized as a result of the
+diverse nature of the Company's customer base. The Company performs ongoing
+credit evaluations of its customers and maintains an allowance for potential
+credit losses.
+
+Supplemental Cash Flow Information - For the years ended March 31, 1995, 1994
+and 1993 cash paid for income taxes was $8,333,000, $8,588,000 and $6,152,000,
+respectively, and cash paid for interest was not material.
+
+NOTE 2  Property, Plant and Equipment  
+
+     Property, plant and equipment and accumulated depreciation and amortization
+at March 31, 1995 and 1994 consisted of:
+
+<TABLE> 
+<CAPTION> 
+                                                        ESTIMATED
+                                                       USEFUL LIVES           1995            1994
+     ---------------------------------------------------------------------------------------------
+     <S>                                                <C>            <C>             <C> 
+     Land                                                              $ 3,558,000     $ 2,780,000
+     Buildings/land improvements                        10-40 years     19,327,000      16,465,000
+     Machinery/equipment                                 3-15 years     55,193,000      50,696,000
+     Leasehold improvements                               5-9 years      3,836,000       3,725,000
+     ---------------------------------------------------------------------------------------------
+        Total                                                           81,914,000      73,666,000
+     Less accumulated depreciation and amortization                     47,925,000      43,803,000
+     ---------------------------------------------------------------------------------------------
+        Net property, plant and equipment                              $33,989,000     $29,863,000     
+     =============================================================================================
+</TABLE> 
+
+NOTE 3  Employee Benefits  
+
+     The Company has a defined contribution pension plan and, as of January 1,
+1995, a 401(k) plan which, except for employees covered by a collective
+bargaining agreement at one plant, cover all employees who have completed at
+least one year of service and are employed by U.S. divisions which have elected
+to participate. The pension plan cost, which is fully funded on a current basis,
+is based upon percentages of eligible employees' compensation. The Company's
+contributions to the pension plan aggregated $1,507,000, $1,460,000 and
+$1,253,000 in 1995, 1994 and 1993, respectively, and aggregated $95,000 to the
+401(k) plan in 1995.
+
+     The Company has nonqualified deferred compensation plans covering key
+employees who can elect to have a portion of their compensation deferred. The
+amounts set aside earn interest at rates generally higher than the average prime
+interest rate. Interest expense accrued on the participants' accounts totalled
+$620,000, $463,000 and
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+$356,000 in 1995, 1994 and 1993, respectively. Generally, payment of a
+participant's account balance will be deferred until death, disability or
+retirement.
+
+NOTE 4  Common Stock  
+
+     The Company has a stock option plan which provides for the granting to
+directors, officers and other key employees of options to purchase shares of the
+Company's stock at a price not less than the fair market value on the date of
+grant. Options are granted for terms of five to eight years and are exercisable
+in annual installments (generally one-third of the total grant) commencing one
+year from date of grant, on a cumulative basis.
+
+     The Company's stock option plan provides for the granting of qualified and
+nonqualified options as well as stock appreciation rights (SARs) in tandem with
+options. The SARs entitle a holder to receive an amount equal to the excess of
+the fair market value of the Company's common stock on the date of exercise over
+the option price. The exercise of SARs automatically cancels an equal number of
+related options. Compensation expense recognized in connection with SARs during
+the years ended March 31, 1995, 1994 and 1993 was not material.
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+               
+- --------------------------------------------------------------------------------
+
+     Changes in the number of shares subject to options during the three years
+ended March 31, 1995, are summarized as follows:
+
+<TABLE> 
+<CAPTION> 
+                                                              1995          1994          1993
+- ----------------------------------------------------------------------------------------------
+<S>                                                       <C>           <C>           <C> 
+     Outstanding at beginning of year                      772,000       793,593       689,388 
+     Options granted                                                                
+      (1995, $12.63 to $12.88 per share;                                            
+       1994, $13.56 to $13.75 per share;                                            
+       1993, $11.31 to $11.81 per share)                   272,600       219,800       245,700 
+     Options exercised                                                              
+      (1995, $10.38 to $13.75 per share;                                            
+       1994, $10.38 to $15.25 per share;                                            
+       1993, $10.38 to $12.24 per share)                   (44,644)     (195,626)      (86,280)
+     Options cancelled as a result of SARs exercised                                
+      (1995, none; 1994, $12.24                                                     
+       per share; 1993, none)                                             (1,142)      
+     Options cancelled or expired                                                   
+      (1995, $11.31 to $17.50 per share; 1994                                       
+       and 1993, $10.38 to $17.50 per share)              (133,908)      (44,625)      (55,215)
+- ----------------------------------------------------------------------------------------------
+     Outstanding at end of year                                                     
+      ($10.38 to $14.50 per share)                         866,048       772,000       793,593 
+==============================================================================================
+</TABLE> 
+
+Of the total outstanding options at March 31, 1995 and 1994, options for 399,685
+and 320,750 shares, respectively, were exercisable; and options for 221,559,
+155,569 and 89,235 shares will become exercisable during the fiscal years ending
+March 31, 1996 through 1998, respectively. As of March 31, 1995, options for
+482,300 shares remained available for future grants.
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+NOTE 5  Income Taxes  
+
+     Effective April 1, 1993, the Company adopted SFAS No. 109, "Accounting for
+Income Taxes". The adoption of SFAS 109 changed the Company's method of
+accounting for income taxes from the deferred approach (APB 11) to an asset and
+liability approach. The asset and liability approach requires the recognition of
+deferred tax assets and liabilities for the expected future tax consequences of
+temporary differences between the financial reporting basis and tax basis of
+assets and liabilities. Financial statements for prior years have not been
+restated and the cumulative effect of the accounting change was not material.
+
+     The provision for income taxes is summarized as follows:
+
+<TABLE> 
+<CAPTION> 
+                                                      1995            1994            1993
+- ------------------------------------------------------------------------------------------
+<S>                                             <C>             <C>             <C> 
+     Current
+       Federal                                  $7,867,000      $6,451,000      $5,744,000 
+       State                                     1,580,000       1,332,000       1,552,000 
+       Other                                           --          (48,000)       (105,000)
+     Deferred
+       Federal -- Plant relocation                     --              --          209,000 
+                  Other reserves and accruals     (578,000)         54,000        (210,000)
+                  Other                            540,000         221,000          53,000 
+       State                                        (8,000)        102,000          19,000 
+       Other                                           --              --          105,000 
+- ------------------------------------------------------------------------------------------
+     Total                                      $9,401,000      $8,112,000      $7,367,000 
+==========================================================================================
+</TABLE> 
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+     Deferred tax assets and liabilities were comprised of the following as of 
+March 31, 
+
+<TABLE> 
+<CAPTION> 
+                                                    1995                              1994     
+- ------------------------------------------------------------------------------------------------------
+                                        DEFERRED TAX    DEFERRED TAX      DEFERRED TAX    DEFERRED TAX     
+                                           ASSETS        LIABILITIES         ASSETS        LIABILITIES
+- ------------------------------------------------------------------------------------------------------
+<S>                                      <C>              <C>              <C>              <C> 
+     Depreciation/amortization           $      --        $2,346,000              --        $2,300,000
+     Provision for estimated expenses     1,008,000              --         1,597,000              -- 
+     Employee benefit plans               3,782,000              --         3,210,000              -- 
+     State and foreign taxes                441,000              --           391,000              -- 
+     Other                                      --         1,209,000              --         1,065,000
+- ------------------------------------------------------------------------------------------------------
+       Total                             $5,231,000       $3,555,000       $5,198,000       $3,365,000
+======================================================================================================
+</TABLE> 
+
+     A reconciliation between the income taxes computed at the Federal statutory
+rate and the provision for income taxes is as follows:
+
+<TABLE> 
+<CAPTION> 
+                                          1995            1994            1993
+- ------------------------------------------------------------------------------
+<S>                                 <C>             <C>             <C> 
+     Income taxes computed at the
+      Federal statutory rate        $8,479,000      $7,337,000      $6,461,000 
+     State income taxes net of
+      Federal income tax benefit     1,022,000         932,000       1,037,000 
+     Tax exempt income                (152,000)       (244,000)       (154,000)
+     Other                              52,000          87,000          23,000 
+- ------------------------------------------------------------------------------
+     Total provision                $9,401,000      $8,112,000      $7,367,000 
+==============================================================================
+     Effective income tax rate           38.8%           38.7%           38.8% 
+- ------------------------------------------------------------------------------
+</TABLE> 
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+NOTE 6  Commitments  
+
+     Future minimum lease payments under operating leases at March 31, 1995 are
+summarized as follows:
+
+<TABLE> 
+<CAPTION> 
+     Year Ending March 31,
+<S>                               <C> 
+          1996                    $1,556,000
+          1997                     1,444,000
+          1998                     1,444,000
+          1999                     1,266,000
+          2000                       889,000
+          Thereafter               2,331,000
+          ----------------------------------
+          Total                   $8,930,000
+          ==================================
+</TABLE> 
+
+     Rental expense under operating leases was $2,049,000, $2,141,000 and 
+$2,390,000 for 1995, 1994 and 1993, respectively. Obligations under capital
+leases at March 31, 1995 were not material.
+
+NOTE 7  Contingent Liabilities
+
+Environmental Matters  In March 1994, the Company along with twenty-three other
+potentially responsible parties (PRPs) entered into a consent decree with the
+U.S. Environmental Protection Agency (the EPA) relating to the remedial design
+work necessary for implementing a groundwater extraction and treatment system
+for the Glendale North and South Operable Units of the San Fernando Valley
+Superfund Site (the Site). The current estimate to complete the remedial design
+work is approximately $2,000,000 of which the Company's current estimate of its
+share is approximately $180,000.
+
+     In addition, the Company has been named as a third party defendant in
+certain lawsuits brought by the EPA and the State of California against certain
+parties in the North Hollywood Operable Unit. The Company is vigorously
+defending itself in these actions. Also, the Company is engaged in remediation
+and/or environmental monitoring at three locations, has been named by the State
+of California as potentially responsible at one location, and 
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+was named as a third party defendant at an additional location.
+
+     The Company has provided reserves for its share of the remedial design
+costs for the Site to the extent they could be reasonably estimated at this
+time. However, the Company's ultimate liability related to environmental matters
+at the Site will be dependent upon a variety of factors including changes in the
+designs and costs of remediation systems, as well as the allocation of those
+costs among the participants including any additional PRPs. In addition, the
+Company has provided for the cleanup costs associated with five other sites
+discussed above to the extent they could be reasonably estimated at this time.
+
+     The Company has commenced litigation against certain of its insurance
+carriers for the recovery of expenditures related to the Site but has not
+anticipated any insurance recoveries in its estimate.
+
+Other Matters - On January 4, 1994, the Company responded to an administrative
+subpoena received from the U.S. Government General Services Administration
+(GSA), Office of Inspector General, seeking documents related to certain GSA
+contracts of a division of the Company. The Company has heard nothing further
+from the GSA since that date and, therefore, is unable to accurately assess the
+situation further at this time. The Company believes that the subpoena was
+directed to an examination of freight charges under GSA contracts.
+
+     The Company is subject to other legal proceedings that arise in the
+ordinary course of its business activities. In the opinion of management, any
+liability that may result from the resolution of these matters will not have a
+material adverse effect on its financial statements.
+<PAGE>
+ 
+================================================================================
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  (cont.)
+
+- --------------------------------------------------------------------------------
+
+NOTE 8  Segment Information  
+
+     Business segment information as of and for the years ended March 31, 1995,
+1994 and 1993 is as follows:
+
+<TABLE> 
+<CAPTION> 
+                                           1995                               1994                               1993
+- ----------------------------------------------------------------------------------------------------------------------------------
+                            ENCL. AND                          ENCL. AND                          ENCL. AND
+(In $000s)                 ACCESSORIES    OTHER       TOTAL   ACCESSORIES    OTHER      TOTAL    ACCESSORIES    OTHER      TOTAL
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>                          <C>         <C>        <C>         <C>         <C>        <C>         <C>         <C>        <C> 
+Sales                        $151,237    $28,457    $179,694    $141,754    $30,067    $171,821    $135,208    $25,258    $160,466
+                             --------    -------    --------    --------    -------    --------    --------    -------    --------
+Operating profit               25,537      2,270      27,807      21,380      2,001      23,381      19,181      2,018      21,199
+                             --------    -------                --------    -------                --------    -------    
+General corporate                                             
+  income (expenses), net                              (2,919)                            (1,937)                            (1,678)
+Interest expense                                        (662)                              (481)                              (519)
+                                                    --------                           --------                           --------
+Income before taxes                                 $ 24,226                           $ 20,963                           $ 19,002
+                                                    ========                           ========                           ========
+Identifiable assets          $101,802    $17,979    $119,781    $ 93,907    $16,715    $110,622    $ 94,809    $16,772    $111,581
+                             --------    -------                --------    -------                --------    -------    
+Corporate assets                                      51,743                             48,112                             42,290
+                                                    --------                           --------                           --------
+Total assets                                        $171,524                           $158,734                           $153,871
+                                                    ========                           ========                           ========
+Depreciation                 $  3,703    $   939    $  4,642    $  3,563    $   907    $  4,470    $  3,479    $   893    $  4,372
+                             --------    -------    --------    --------    -------    --------    --------    -------    --------
+Capital expenditures         $  8,031    $   530    $  8,561    $  3,811    $   349    $  4,160    $  4,762    $   474    $  5,236
+                             --------    -------    --------    --------    -------    --------    --------    -------    --------
+</TABLE> 
+
+     The Company's business primarily consists of enclosures and accessories
+including the design, manufacture and sale of metal and plastic enclosures,
+cabinets, instrument cases, aluminum luggage, camera cases, industrial carrying
+cases, cargo enclosures, card cages for printed circuit boards, as well as
+precision slides, blowers, fans, cooling systems and wire wrap services and
+other similar products. The Company also manufactures and sells thermoformed
+plastic parts, metal stampings, case hardware, aircraft cargo hardware, food
+service containers and other custom metal products.
+
+     Sales under U.S. Government contracts and subcontracts accounted for
+approximately 9%, 12% and 15% of total sales in 1995, 1994 and 1993,
+respectively.
+
+================================================================================
+<PAGE>
+ 
+================================================================================
+INDEPENDENT AUDITORS' REPORT
+
+- --------------------------------------------------------------------------------
+
+To the Stockholders of ZERO Corporation:
+
+     We have audited the accompanying consolidated balance sheets of ZERO
+Corporation and its subsidiaries as of March 31, 1995 and 1994, and the related
+statements of consolidated income, stockholders' equity, and cash flows for each
+of the three years in the period ended March 31, 1995. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, such consolidated financial statements present fairly, in
+all material respects, the financial position of ZERO Corporation and its
+subsidiaries at March 31, 1995 and 1994, and the results of their operations and
+their cash flows for each of the three years in the period ended March 31, 1995
+in conformity with generally accepted accounting principles.
+
+
+/s/ DELOITTE & TOUCHE LLP
+
+Los Angeles, California
+May 11, 1995
+
+================================================================================
+<PAGE>
+ 
+================================================================================
+MANAGEMENT'S REPORT
+
+- --------------------------------------------------------------------------------
+
+     The accompanying consolidated financial statements have been prepared by
+management in accordance with generally accepted accounting principles and,
+where appropriate, include amounts based on management's judgement and
+estimates. The integrity of the financial statements and the other financial
+information in the Annual Report is the responsibility of management. The
+financial statements have been audited by Deloitte & Touche LLP, independent
+auditors, appointed by the Board of Directors.
+
+     The Company maintains internal accounting control systems that are adequate
+to provide reasonable, but not absolute, assurance that the assets are
+safeguarded from loss or unauthorized use. These systems produce records
+adequate for preparation of financial information. In establishing and
+maintaining internal controls, the Company exercises judgment in determining
+that the costs of such controls do not exceed the benefits to be derived.
+
+     The Board of Directors has an Audit Committee composed solely of directors
+who are not officers or employees. The Committee meets regularly with
+management, with the Company's internal audit staff, and with the independent
+auditors. The independent auditors and the internal audit staff periodically
+meet alone with the Audit Committee and have free access to the Audit Committee
+at any time.
+
+     In management's opinion, the consolidated financial statements present
+fairly, in all material respects, the financial position of ZERO Corporation and
+its subsidiaries at March 31, 1995 and 1994, and the results of operations and
+cash flows for each of the three years in the period ended March 31, 1995 in
+conformity with generally accepted accounting principles.
+
+
+/s/ Wilford D. Godbold, Jr.                 /s/ George A. Daniels
+
+Wilford D. Godbold, Jr.                     George A. Daniels
+President and                               Vice President and 
+Chief Executive Officer                     Chief Financial Officer
+
+================================================================================
+<PAGE>
+
+================================================================================
+FIVE-YEAR SELECTED FINANCIAL DATA
+
+- --------------------------------------------------------------------------------
+<TABLE> 
+<CAPTION> 
+(In $000s except per share data)
+Year Ended March 31,                   1995         1994         1993         1992         1991
+- -----------------------------------------------------------------------------------------------
+<S>                                <C>          <C>          <C>          <C>          <C> 
+Net Sales                          $179,694     $171,821     $160,466     $160,279     $189,479
+Net Income                           14,825       12,851       11,635        9,695       10,761
+Working Capital                      73,531       66,980       59,576       56,223       56,544
+Total Assets                        171,524      158,734      153,871      150,479      156,680
+Long-term Debt                          --           --           --         1,172        2,429
+Per Share Data:         
+     Earnings                         $0.93        $0.81        $0.74        $0.62        $0.68
+     Dividends Paid                    0.41         0.40         0.40         0.40         0.40
+===============================================================================================
+</TABLE> 
+
+
+
+
+================================================================================
+QUARTERLY RESULTS OF OPERATIONS
+
+- --------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                               TOTAL          GROSS      INCOME BEFORE    NET     EARNINGS PER
+Quarter Ended                 REVENUE         PROFIT      INCOME TAXES   INCOME   COMMON SHARE
+- -------------------------------------------------------------------------------------------------
+<S>                        <C>             <C>             <C>          <C>         <C>
+1995
+March 31, 1995             $45,219,000     $16,152,000     $6,424,000   $3,969,000    $0.25
+December 31, 1994           45,790,000      16,369,000      5,845,000    3,550,000     0.22 
+September 30, 1994          47,360,000      16,804,000      6,587,000    4,028,000     0.25
+June 30, 1994               44,372,000      15,332,000      5,370,000    3,278,000     0.21
+
+1994
+March 31, 1994             $44,984,000     $15,285,000     $5,517,000   $3,514,000    $0.22
+December 31, 1993           42,611,000      13,855,000      4,774,000    2,885,000     0.18
+September 30, 1993          45,009,000      15,059,000      5,780,000    3,446,000     0.22
+June 30, 1993               41,279,000      14,044,000      4,892,000    3,006,000     0.19   
+==================================================================================================
+</TABLE>
+<PAGE>
+
+
+ 
+Market and Dividend Information
+ 
+The Company's common stock is traded on the New York Stock Exchange and the
+Pacific Stock Exchange under the ticker symbol ZRO. The trading range and
+dividends paid by quarter for the two fiscal years ended March 31, 1995 are as
+follows:
+ 
+<TABLE> 
+<CAPTION> 
+                              Trading Range 
+                             --------------      Dividends 
+Quarter Ended                High       Low      Paid
+- -------------                ---------------     ---------
+<S>                          <C>     <C>         <C> 
+1995                                             
+  March 31, 1995             $14.75  $12.63         $.11
+  December 31, 1994           14.00   12.13          .10
+  September 30, 1994          13.50   12.13          .10
+  June 30, 1994               14.00   11.63          .10
+1994                                                
+  March 31, 1994             $16.13  $12.63         $.10
+  December 31, 1993           16.63   12.75          .10
+  September 30, 1993          14.75   12.75          .10
+  June 30, 1993               15.13   13.00          .10
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARY LIST
+<TEXT>
+
+<PAGE>
+ 
+                                                                      EXHIBIT 21
+
+                               ZERO CORPORATION
+
+
+                          Subsidiaries of Registrant*
+                             As of March 31, 1995
+
+
+   1.    Air Cargo Equipment Corporation, a Delaware corporation
+   2.    Air Cargo Equipment (UK) Limited, a U.K. corporation
+   3.    Air Cooling Technology, Inc., a California corporation
+   4.    Anvil Cases, Inc., a California corporation
+   5.    Electronic Solutions, a Nevada corporation
+   6.    McLean Midwest Corporation, a Minnesota corporation
+   7.    Nielsen Hardware Corporation, a Connecticut corporation
+   8.    Productos Aeros, S.A., a Mexican corporation
+   9.    Samuel Groves & Co. Limited, a U.K. corporation
+   10.   ZERO FSC Corporation, a Virgin Islands corporation
+   11.   ZERO East Division, ZERO Corporation, a Massachusetts corporation
+   12.   ZERO International, Inc., a California corporation
+   13.   ZERO Manufacturing Corporation, a California corporation
+   14.   ZERO McLean Europe Ltd., a U.K. corporation
+
+
+   *  All are 100% owned
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>DELOITTE & TOUCHE CONSENT
+<TEXT>
+
+<PAGE>
+
+                                                                      EXHIBIT 23
+ 
+CONSENT OF INDEPENDENT AUDITORS
+- -------------------------------
+
+We consent to the incorporation by reference in Registration Statement No. 33-
+56175 on Form S-8, Registration Statement No. 33-27929 on Form S-8 and
+Registration Statement No. 33-44143 on Form S-8 of ZERO Corporation of our
+reports dated May 11, 1995, appearing in and incorporated by reference in this
+Annual Report on Form 10-K of ZERO Corporation for the year ended March 31,
+1995.
+
+/s/ DELOITTE & TOUCHE LLP
+
+Los Angeles, California
+June 28, 1995
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>ART 5 FDS DATED 03/31/95
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+<LEGEND>                                                               
+This schedule contains summary financial information extracted from 
+consolidated financial statements of ZERO Corporation and its subsidiaries
+included in the 1995 Annual Report and is qualified in its entirety by 
+reference to such financial statements. 
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          MAR-31-1995  
+<PERIOD-START>                             APR-01-1994  
+<PERIOD-END>                               MAR-31-1995  
+<CASH>                                          17,132
+<SECURITIES>                                    19,902
+<RECEIVABLES>                                   27,034
+<ALLOWANCES>                                       724
+<INVENTORY>                                     26,221
+<CURRENT-ASSETS>                                92,892
+<PP&E>                                          81,914
+<DEPRECIATION>                                  47,925
+<TOTAL-ASSETS>                                 171,524
+<CURRENT-LIABILITIES>                           19,361
+<BONDS>                                              0
+<COMMON>                                           161
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     145,433
+<TOTAL-LIABILITY-AND-EQUITY>                   171,524
+<SALES>                                        179,694
+<TOTAL-REVENUES>                               182,741
+<CGS>                                          115,068
+<TOTAL-COSTS>                                  151,887
+<OTHER-EXPENSES>                                 5,758
+<LOSS-PROVISION>                                   208
+<INTEREST-EXPENSE>                                 662
+<INCOME-PRETAX>                                 24,226
+<INCOME-TAX>                                     9,401
+<INCOME-CONTINUING>                             14,825
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    14,825
+<EPS-PRIMARY>                                     0.93
+<EPS-DILUTED>                                     0.93
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

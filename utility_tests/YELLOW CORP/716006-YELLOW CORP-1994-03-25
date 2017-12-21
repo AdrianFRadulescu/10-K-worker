@@ -1,0 +1,1169 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ YZRocPPSoCWV1LFR+hyY05eCYg4yq7cE1BNDwiGLnfN/QCzRwzCQUF9SfTwLH2KD
+ SwFW+Dx5gV99jbrooHuQpg==
+
+<IMS-DOCUMENT>0000950124-94-000601.txt : 19940328
+<IMS-HEADER>0000950124-94-000601.hdr.sgml : 19940328
+ACCESSION NUMBER:		0000950124-94-000601
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940325
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YELLOW CORP
+		CENTRAL INDEX KEY:			0000716006
+		STANDARD INDUSTRIAL CLASSIFICATION:	4213
+		IRS NUMBER:				480948788
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-12255
+		FILM NUMBER:		94518027
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10777 BARKLEY
+		STREET 2:		P O BOX 7563
+		CITY:			OVERLAND PARK
+		STATE:			KS
+		ZIP:			66211-1162
+		BUSINESS PHONE:		9139674300
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+                                   FORM 10-K
+
+(Mark One)
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+         THE SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+For the fiscal year ended December 31, 1993
+
+                                       OR
+
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+         THE SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from ____________________ to _______________________
+
+Commission file number 0-12255
+
+                               YELLOW CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                         48-0948788
+(State or other jurisdiction of           (I.R.S. Employer
+incorporation or organization)           Identification No.)
+
+         10777 Barkley, P.O.Box 7563, Overland Park, Kansas      66207
+           (Address of principal executive offices)            (Zip Code)
+
+         Registrant's telephone number, including area code:  (913) 967-4300
+
+              Securities registered pursuant to Section 12(b) of the Act:
+
+                                     NONE
+
+              Securities registered pursuant to Section 12(g) of the Act:
+
+                           Common Stock, $1 Par Value
+                        Preferred Stock Purchase Rights
+                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                 Yes  X     No
+
+The aggregate market value of the voting stock held by nonaffiliates of the
+registrant at February 28, 1994 was $815,098,592.
+
+Indicate the number of shares outstanding of each of the registrant's classes
+of common stock, as of the latest practicable date.
+
+<TABLE>
+<CAPTION>
+         <S>                                  <C>
+                Class                         Outstanding at February 28, 1994
+         Common Stock, $1 Par Value                    28,106,848 shares
+</TABLE>
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+The following documents are incorporated by reference into the Form 10-K:
+         1)  1993 Annual Report to Shareholders - Parts II and IV
+         2)  Proxy Statement dated March 10, 1994 - Part III
+
+
+<PAGE>   2
+                               Yellow Corporation
+                                   Form 10-K
+                          Year Ended December 31, 1993
+
+
+
+                                     Index
+
+<TABLE>
+<CAPTION>
+Item                                                                                                                         Page
+
+                                                                PART I
+<S>                                                                                                                   <C>
+          1.     Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+          2.     Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+          3.     Legal Proceedings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+          4.     Submission of Matters to a Vote of Security Holders  . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+                 Executive Officers of the Registrant (Unnumbered Item) . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+
+                                                               PART II
+
+          5.     Market for the Registrant's Common Stock and Related
+                  Stockholder Matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+          6.     Selected Financial Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+          7.     Management's Discussion and Analysis of Financial
+                  Condition and Results of Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+          8.     Financial Statements and Supplementary Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+          9.     Disagreements on Accounting and Financial Disclosure . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+
+                                                               PART III
+
+         10.     Directors and Executive Officers of the Registrant . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+         11.     Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+         12.     Security Ownership of Certain Beneficial Owners and
+                  Management  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+         13.     Certain Relationships and Related Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+
+                                                               PART IV
+
+         14.     Exhibits, Financial Statement Schedules, and Reports
+                  on Form 8-K . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+Report of Independent Public Accountants on Financial
+ Statement Schedules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+
+Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+
+Signatures  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+
+1993 Annual Report to Shareholders  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   Exhibit (13)
+
+Consent of Independent Public Accountants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   Exhibit (24)
+</TABLE>
+
+
+
+
+                                       2
+
+
+<PAGE>   3
+                                     PART I
+
+Item 1.  Business.
+
+(a)      Yellow Corporation and its wholly-owned subsidiaries are collectively
+         referred to as "the company".  The company changed its name in 1993
+         from Yellow Freight System, Inc. of Delaware to Yellow Corporation.
+         This was done to more clearly distinguish the company as a holding
+         company of transportation services and to eliminate confusion with the
+         name of the company's principal operating subsidiary (Yellow Freight
+         System, Inc.).  In February 1993 the company completed its acquisition
+         of the stock of Preston Corporation (Preston).  Preston is the holding
+         company for three regional less-than-truckload (LTL) carriers serving
+         the Northeast, Upper Midwest and Southeast United States.  The 1993
+         financial statements include the results of Preston effective March 1,
+         1993.  The acquisition provided $497 million of operating revenue for
+         the company in 1993.  This accounted for 21.9% of the 26.2% increase
+         in operating revenue over 1992.
+
+(b)      The operation of the company is conducted through one predominant
+         industry segment, which is the interstate transportation of general
+         commodity freight by motor vehicle.
+
+(c)      Yellow Corporation is a holding company providing freight
+         transportation services through its subsidiaries, Yellow Freight
+         System, Inc. (Yellow Freight), Preston Trucking Company, Inc. (Preston
+         Trucking), Saia Motor Freight Line, Inc. (Saia), Smalley
+         Transportation Company (Smalley Transportation), CSI/Reeves, Inc.
+         (CSI/Reeves), Yellow Logistics Services, Inc.  (Yellow Logistics) and
+         Yellow Technology Services, Inc. (Yellow Technology).  The company
+         employed an average of 35,000 persons in 1993.
+
+         Yellow Freight is the company's principal subsidiary, and up until the
+         company's completion of the Preston Corporation acquisition in
+         February 1993 contributed substantially all of the company's
+         consolidated revenue.  Yellow Freight had operating revenue of $2.358
+         billion in 1993 (83% of the company's total revenue) and is based in
+         Overland Park, Kansas.  It is the nation's largest provider of LTL
+         transportation services with direct service to over 35,000 points in
+         all 50 states, Puerto Rico, Canada and Mexico.  Yellow Freight
+         services Europe via an alliance with The Royal Frans Maas Group based
+         in the Netherlands.
+
+         Preston Trucking is primarily a regional LTL carrier serving the
+         Northeast and Upper Midwest markets of the United States.  Preston
+         Trucking had operating revenue of $338 million for the ten months
+         ended December 31, 1993 (12% of the company's total revenue) and is
+         headquartered in Preston, Maryland.
+
+         Saia is a regional LTL carrier that provides overnight and second-day
+         service in nine southeastern states.  It had operating revenue of $102
+         million for the ten months ended December 31, 1993 and is based in
+         Houma, Louisiana.
+
+         Smalley Transportation is a regional carrier providing service to
+         customers in Georgia and throughout Florida.  It had operating revenue
+         of $32 million for the ten months ended December 31, 1993 and is based
+         in Tampa, Florida.
+
+         CSI/Reeves is in the business of transporting, warehousing and
+         distributing carpet and related products.  It had operating revenue of
+         $25 million for the ten months ended December 31, 1993 and is based in
+         Calhoun, Georgia.
+
+
+                                       3
+
+
+<PAGE>   4
+Item 1.  Business. (cont.)
+
+Yellow Logistics offers a full range of integrated logistics management
+services including transportation management, warehousing, information systems,
+distribution, and package design and testing.  Yellow Logistics specializes in
+serving the chemical, retail, computer hardware, electronic and pharmaceutical
+industries.  Its headquarters are in Overland Park, Kansas.
+
+Yellow Technology supports the company's subsidiaries - primarily Yellow
+Freight - with information technology.  It ensures that information systems
+anticipate and meet customers' needs and that the systems are an integral part
+of the transportation process.  Its headquarters are in Overland Park, Kansas.
+
+The operations of the freight transportation companies are regulated by the
+Interstate Commerce Commission and state regulatory bodies.  Competition
+includes contract motor carriers, private fleets, railroads and other motor
+carriers.  No single carrier has a dominant share of the motor freight market.
+
+The company operates in a highly price-sensitive and competitive industry,
+making pricing and customer service major competitive factors.  Pricing
+discipline and cost control are critical to improving profit levels in 1994.
+Traditionally, rate increases have been implemented to offset increases in
+labor and other operating costs.  These increases have been difficult to retain
+because of the competitive pressures on pricing.  The full impact of these
+increases is not realized immediately as a result of pricing that is on a
+contract basis and can only be increased when the contract is renewed or
+renegotiated.  Pricing pressures were extremely competitive in the first half
+of 1993.  They moderated in the second half of the year, aided by a two percent
+discount rollback implemented in August 1993 at Yellow Freight.  The company's
+subsidiaries are continuing to work toward improved account profitability and
+maintaining pricing stability.  The Yellow operating companies have implemented
+rate increases of between four and five percent during the first quarter of
+1994 to cover increases in operating costs.
+
+The company attempts to control operating costs by maintaining efficient
+operations, optimum capacity utilization and strict budgetary controls.  During
+1993, Yellow Freight began an extensive multi-year network development process
+by consolidating and realigning terminals to improve customer service and
+reduce costs.  A charge of $18.0 million before taxes was accrued for the costs
+to close certain facilities and dispose of excess property.  This network
+development will result in better use of assets, reduced overhead, improved
+transit times and lower freight handling costs without reducing customer
+service.
+
+Salaries, wages and employees' benefits decreased as a percent of revenue in
+1993 despite wage and benefit increases of approximately 3% effective April 1
+for employees who are members of the International Brotherhood of Teamsters
+(Teamsters).  This is due to a wage reduction of 9% effective April 1 for
+employees of Preston Trucking, a small decrease in the total number of
+employees and a reduction in workers' compensation expense.  The current labor
+agreement with the Teamsters expires March 31, 1994.  In the second quarter of
+1993, Yellow Freight reaffiliated with Trucking Management, Inc. (TMI), a
+multi-employer bargaining group representing the trucking industry in labor
+contract negotiations.  Preston Trucking is also a member of TMI.  TMI is
+currently negotiating the renewal of this contract.  An agreement that allows
+greater operational flexibility and the opportunity to reduce costs is
+necessary to allow Yellow Freight and Preston Trucking to better compete in the
+marketplace.
+
+
+                                       4
+
+
+<PAGE>   5
+
+Item 1.  Business. (cont.)
+
+In addition, Preston Trucking's wage reduction expires March 31, 1994.  Preston
+Trucking feels it is essential to continue this wage reduction in the near
+future to maintain its progress toward restoring profitability.  Extension of
+the wage reduction requires a contract provision allowing the reduction and
+approval of Preston's Teamster employees.
+
+The company's differentiation strategy focuses on introducing new customer
+services, improving existing services and providing service to new markets.
+Yellow Freight's revenue growth was moderate in 1993 as compared to 1992.
+Growth was due to increased tonnage, which grew faster than the Industrial
+Production Index, and contributions from new services started in 1992.  Yellow
+Freight expects moderate revenue growth in 1994.  A service which reduces
+transit times by a full day on traditional three, four and five-day lanes
+experienced good revenue growth in 1993.  A guaranteed expedited service that
+provides shippers an economical alternative to air freight in selected markets
+experienced a healthy revenue growth rate in 1993 and operated at a very high
+on-time service ratio.  The Canadian and Mexican markets continued to provide
+good growth for Yellow Freight in 1993.  This growth is expected to continue in
+1994, partly as a result of NAFTA's simplified trade provisions between those
+countries and the United States.  Service to and from Western Europe, through
+an alliance with The Royal Frans Maas Group of The Netherlands is expected to
+grow in 1994 as a result of expanded consolidation and deconsolidation points
+in North America and improvements in streamlining documentation processing.
+
+Preston Trucking continued to experience declines in both revenue and tonnage
+after the acquisition by the company, but benefited in June 1993 from the
+bankruptcy of a major competitor in the Northeast.  Preston Trucking opened
+four new terminals and increased their revenue and tonnage during the last half
+of the year.  They expect continued revenue growth in 1994 and are planning to
+broaden service with a new distribution center in Ohio.
+
+The company expects to benefit from Saia's expansion into Texas and Tennessee
+as well as their introduction of intrastate service in Texas.  Combined with
+Saia's strong market position and profitable operations, revenue growth in 1994
+is expected to be much improved.
+
+The operations of the company are generally funded by cash flows generated from
+operating activities except in periods of accelerated capital spending.  The
+company requires working capital to fund capital expenditures and pay
+shareholder dividends.  The rapid turnover of accounts receivable, effective
+cash management and ready access to credit provided by commercial paper,
+medium-term notes and flexible banking agreements allows the company to
+effectively manage its working capital.  It is anticipated that 1994 capital
+expenditures and shareholder dividends will be primarily financed through
+internally-generated funds.  The company made commercial paper borrowings in
+early 1993 to fund a portion of the Preston stock acquisition ($8 million) and
+to repay certain Preston indebtedness ($82 million).  Revisions to the
+medium-term note program in 1993 provided for increased amounts outstanding and
+longer maturity periods.  During the last six months of 1993, $37 million was
+borrowed under the medium-term note program, primarily to replace commercial
+paper borrowings.  Modest capital expenditures and good cash flow from
+operations in 1993 enabled the company to further reduce commercial paper
+borrowings to $25 million at December 31, 1993.
+
+
+
+                                       5
+<PAGE>   6
+Item 2.  Properties.
+
+At December 31, 1993, the company operated 696 freight terminals located in 50
+states, Puerto Rico, parts of Canada and Mexico.  Of this total, 331 were owned
+terminals and 365 were leased, generally for terms of three years or less.  The
+number of vehicle back-in doors totaled 19,243, of which 14,802 were at owned
+terminals and 4,441 were at leased terminals.  The freight terminals vary in
+size ranging from one to three doors at small local terminals, up to 304 doors
+at Yellow Freight's largest consolidation and distribution terminal.
+Substantially all of the larger terminals, containing the greatest number of
+doors, are owned.  In addition, the company and most of its subsidiaries own
+and occupy general office buildings in their headquarters city.
+
+The company also maintains a significant investment in revenue equipment.  At
+December 31, 1993, the company's subsidiaries operated the following number of
+linehaul units:  tractors - 4,918, 45' and 48' trailers - 7,738, and 27' and
+28' trailers - 31,698.  The number of city units operated were:  trucks and
+tractors - 8,165 and trailers - 5,535.
+
+The above facilities and equipment are used in the company's predominant
+industry, the interstate transportation of general commodity freight.  The
+company expects moderate growth in 1994 and has projected no significant
+changes to its operational capacity.  A small number of facilities will be
+closed at Yellow Freight as part of the network development process started in
+1993.  Projected facility expenditures of $30 million will target expansion of
+existing locations and the construction or purchase of new locations to improve
+efficiency and enter new markets in selected areas.  Equipment expenditures of
+$90 million are expected to consist primarily of replacement units with some
+expansion units at certain of the subsidiaries.  Revenue equipment replacement
+units are expected to be approximately 70% higher than in the last three years.
+Other operating property expenditures of $55 million are primarily for
+improving efficiency through technological enhancements and advanced
+information systems.
+
+
+Item 3.  Legal Proceedings.
+
+The information set forth under the caption "Commitments and Contingencies" in
+the Notes to Consolidated Financial Statements on page 32 of the registrant's
+Annual Report to Shareholders for the year ended December 31, 1993, is
+incorporated by reference under Item 14 herein.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+None.
+
+
+
+
+
+                                       6
+<PAGE>   7
+
+Executive Officers of the Registrant
+
+The names, ages and positions of the executive officers of the company as of
+March 18, 1994 are listed below.  Officers are appointed annually by the Board
+of Directors at their meeting which immediately follows the annual meeting of
+shareholders.
+
+<TABLE>
+<CAPTION>
+       Name                       Age                                 Position(s) Held
+<S>                               <C>     <C>
+George E. Powell III              45      Chief Executive Officer of the company (since July 1990); President of the company 
+                                          (since October 1987); President of Yellow Freight System, Inc. (Yellow Freight), a 
+                                          subsidiary of the company (prior to May 1992)
+
+M. Reid Armstrong                 56       President of Yellow Freight (since May 1992); Executive Vice President of the company and
+                                           of Yellow Freight (December 1991 - May 1992); Senior Vice President (prior to December
+                                           1991)
+
+Robert L. Bostick                 53       Senior Vice President - Operations for Yellow Freight (since October 1992); Vice 
+                                           President -  Operations (May 1992 - October 1992); Vice President - Transportation and 
+                                           Safety (April 1991 - May 1992); Vice President - Linehaul Operations (prior to April 
+                                           1992)
+
+Robert W. Burdick                 51       Senior Vice President - Corporate Development/ Public Affairs of the company (since April
+                                           1993); Senior Vice President - Marketing of Yellow Freight (May 1984 - April 1993)
+
+J. Michael Golden                 46       Vice President - Taxation of the company (since January 1986); Vice President - Taxation
+                                           of Yellow Freight (prior to May 1992); Vice President of Overland Energy, Inc., a
+                                           subsidiary of the company (since 1986)
+
+J. Kevin Grimsley                 46       Senior Vice President - Marketing/Sales of Yellow Freight (since January 1994); Vice
+                                           President - Marketing of Yellow Freight (April 1993 - January 1994); Division Vice
+                                           President of Yellow Freight (October 1987 - April 1993)
+
+William F. Martin, Jr.            46       Senior Vice President - Legal/Corporate Secretary of the company (since December 1993);
+                                           Vice President and Secretary of the company  (October 1991 - December 1993); Vice
+                                           President and Secretary of Yellow Freight (October 1991 - May 1992); Vice President and
+                                           Assistant Secretary of the company and Yellow Freight (prior to October 1991)
+</TABLE>
+
+
+
+
+
+                                       7
+<PAGE>   8
+Executive Officers of the Registrant (cont.)
+
+<TABLE>
+<CAPTION>
+            Name          Age              Position(s) Held
+<S>                       <C>     <C>
+Gail A. Parris            42      Senior Vice President - Administration of Yellow Freight (since April 1993); Vice President -
+                                  Controller of Yellow Freight (January 1986 - April 1993)
+
+Phillip A. Spangler       53      Vice President and Treasurer of the company (since 1984); Vice President and Treasurer of Yellow
+                                  Freight (1984 - May 1992)
+
+Leo H. Suggs              54      President of Preston Corporation, a subsidiary of the company (since February 1993); Senior Vice
+                                  President - Corporate Development of the company (November 1992 - February 1993); Senior Vice
+                                  President - Operations Administration of Yellow Freight (December 1991 - November 1992); Vice
+                                  President - Operations Administration (June 1991 - December 1991); Vice President - Quality and
+                                  Labor Relations (December 1989 - June 1991); Director - Labor Relations (August 1988 - December
+                                  1989); Director of Special Projects (January 1988 - August 1988)
+</TABLE>
+
+The terms of each officer of the company designated above are scheduled to
+expire April 21, 1994.  The terms of each officer of the subsidiary companies
+are scheduled to expire on the date of the next annual meeting of shareholders
+of that company.  No family relationships exist between any of the executive
+officers named above.
+
+
+
+
+
+                                       8
+<PAGE>   9
+
+                                    PART II
+
+
+Item 5.  Market for the Registrant's Common Stock and Related Stockholder
+         Matters.
+
+The information set forth under the caption "Common Stock" on page 34 of the
+registrant's Annual Report to Shareholders for the year ended December 31,
+1993, is incorporated by reference under Item 14 herein.
+
+
+Item 6.  Selected Financial Data.
+
+The information set forth under the caption "Financial Summary" on pages 18 and
+19 of the registrant's Annual Report to Shareholders for the year ended
+December 31, 1993, is incorporated by reference under Item 14 herein.
+Additionally, long-term debt at December 31 for each of the last five years was
+as follows (in thousands):  1993 - $214,176, 1992 - $123,027, 1991 - $145,584,
+1990 - $163,703, 1989 - $186,680.
+
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations.
+
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations," appearing on pages 14 through 17 of the registrant's Annual Report
+to Shareholders for the year ended December 31, 1993, is incorporated by
+reference under Item 14 herein.
+
+
+Item 8.  Financial Statements and Supplementary Data.
+
+The financial statements and supplementary information, appearing on pages 20
+through 34 of the registrant's Annual Report to Shareholders for the year ended
+December 31, 1993, are incorporated by reference under Item 14 herein.
+
+
+Item 9.  Disagreements on Accounting and Financial Disclosure.
+
+None.
+
+
+
+
+
+                                       9
+<PAGE>   10
+
+                                    PART III
+
+
+Item 10.         Directors and Executive Officers of the Registrant.
+
+The information regarding Directors of the registrant has previously been
+reported in the registrant's definitive proxy statement, filed pursuant to
+Regulation 14A, and is incorporated by reference.  For information with respect
+to the executive officers of the registrant, see "Executive Officers of the
+Registrant" at the end of Part I of this report.
+
+Item 11.         Executive Compensation.
+
+This information has previously been reported in the registrant's definitive
+proxy statement, filed pursuant to Regulation 14A, and is incorporated by
+reference.
+
+Item 12.         Security Ownership of Certain Beneficial Owners and
+                 Management.
+
+This information has previously been reported in the registrant's definitive
+proxy statement, filed pursuant to Regulation 14A, and is incorporated by
+reference.
+
+Item 13.         Certain Relationships and Related Transactions.
+
+This information has previously been reported in the registrant's definitive
+proxy statement, filed pursuant to Regulation 14A, and is incorporated by
+reference.
+
+
+
+
+
+                                       10
+<PAGE>   11
+
+                                    PART IV
+
+
+Item 14.         Exhibits, Financial Statement Schedules, and Reports on Form
+                 8-K.
+
+(a)      (1)  Financial Statements
+
+         The following information appearing in the 1993 Annual Report to
+         Shareholders is incorporated by reference in this Form 10-K Annual
+         Report as Exhibit (13):
+
+<TABLE>
+<CAPTION>
+                                                                                                                          Page
+      <S>                                                                                                                 <C>
+      Management's Discussion and Analysis of
+      Financial Condition and Results of Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14-17
+      Financial Summary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18-19
+      Consolidated Financial Statements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20-32
+      Report of Independent Public Accountants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     33
+      Supplementary Information  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     34
+      Common Stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     34
+</TABLE>
+
+
+      With the exception of the aforementioned information, the 1993 Annual
+      Report to Shareholders is not deemed filed as part of this report.
+      Financial statements other than those listed are omitted for the
+      reason that they are not required or are not applicable.  The
+      following additional financial data should be read in conjunction with
+      the consolidated financial statements in such 1993 Annual Report to
+      Shareholders.
+
+(a)   (2)  Financial Statement Schedules
+
+<TABLE>
+<CAPTION>
+                                                                                                                             Page
+      <S>                                                                                                                    <C>
+      Report of Independent Public Accountants on
+          Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+
+      For the years ended December 31, 1993, 1992 and 1991:
+
+      Schedule II              Amounts Receivable From Related Parties and Underwriters, Promoters and Employees Other Than
+                                  Related Parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+
+      Schedule V               Property, Plant and Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+
+      Schedule VI              Accumulated Depreciation, Depletion and Amortization of Property, Plant and Equipment . . .   16
+
+      Schedule VIII            Valuation and Qualifying Accounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   17
+
+      Schedule X               Supplementary Income Statement Information  . . . . . . . . . . . . . . . . . . . . . . . .   18
+</TABLE>
+
+         Schedules other than those listed are omitted for the reason that they
+         are not required or are not applicable, or the required information is
+         shown in the financial statements or notes thereto.
+
+         Columns omitted from schedules filed have been omitted because the
+         information is not applicable.
+
+
+                                       11
+<PAGE>   12
+
+(a)      (3)  Exhibits
+
+         (13) - 1993 Annual Report to Shareholders.
+         (24) - Consent of Independent Public Accountants.
+
+         The remaining exhibits required by Item 7 of Regulation S-K are
+         omitted for the reason that they are not applicable or have previously
+         been filed.
+
+(b)      Reports on Form 8-K
+
+         No reports on Form 8-K were filed for the three months ended December
+         31, 1993.  However, on March 21, 1994, a Form 8-K was filed under Item
+         5, Other Events, which reported that due primarily to the impact of
+         severe winter weather in January and February, the company expects to
+         report a net loss in the first quarter of 1994 greater than the net
+         loss of $.06 per share recorded in the first quarter of 1993.  Severe
+         winter weather caused significant business disruptions and higher
+         operating expenses for both the company's largest motor carrier
+         subsidiary, Yellow Freight System, Inc. and for Preston Trucking
+         Company, Inc.  Preston Trucking, whose operations are concentrated in
+         the Northeast and Upper Midwest, was especially hard hit by the
+         weather.
+
+
+
+
+
+                                       12
+<PAGE>   13
+
+                          Report of Independent Public
+                  Accountants on Financial Statement Schedules
+
+
+
+
+
+To Yellow Corporation:
+
+         We have audited in accordance with generally accepted auditing
+standards, the consolidated financial statements included in Yellow Corporation
+and Subsidiaries' annual report to shareholders incorporated by reference in
+this Form 10-K, and have issued our report thereon dated January 31, 1994.  Our
+report on the consolidated financial statements includes an explanatory
+paragraph with respect to the change in the method of revenue recognition in
+1992, as discussed in the notes to the consolidated financial statements.  Our
+audit was made for the purpose of forming an opinion on those statements taken
+as a whole.  The schedules listed in Item 14(a)(2) are the responsibility of
+the company's management and are presented for purposes of complying with the
+Securities and Exchange Commissions rules and are not part of the basic
+consolidated financial statements.  These schedules have been subjected to the
+auditing procedures applied in the audit of the basic consolidated financial
+statements and, in our opinion, fairly state in all material respects the
+financial data required to be set forth therein in relation to the basic
+consolidated financial statements taken as a whole.
+
+
+
+
+
+                                                  ARTHUR ANDERSEN & CO.
+
+
+
+
+Kansas City, Missouri,
+January 31, 1994
+
+
+
+
+
+                                       13
+<PAGE>   14
+
+                                                                     Schedule II
+
+                      Yellow Corporation and Subsidiaries
+                    Amounts Receivable From Related Parties
+                        and Underwriters, Promoters and
+                     Employees Other Than Related Parties
+             For the Years Ended December 31, 1993, 1992 and 1991
+
+
+
+
+<TABLE>
+<CAPTION>
+         COL. A                   COL. B           COL. C                  COL. D                   COL. E
+                                 Balance,                                Deductions               Balance, End
+     Name of Debtor             Beginning         Additions      Amounts           Amounts           Of Period
+                                Of Period                      Collected           Written                     Not
+                                                                                     Off        Current      Current  
+                                                          (In Thousands)
+<S>                            <C>              <C>           <C>                 <C>           <C>         <C>
+Year ended December 31, 1993:                                 
+- -----------------------------
+Stephen P. Murphy (1)          $     463         $     -      $     18             $  -          $ 18        $427
+                              ----------        --------     ---------            -----         -----       -----            
+                              ----------        --------     ---------            -----         -----       -----            
+Leo H. Suggs (2)               $       -         $   480      $      -             $  -          $  -        $480
+                              ----------        --------     ---------            -----         -----       -----            
+                              ----------        --------     ---------            -----         -----       -----            
+Year ended December 31, 1992:
+- -----------------------------
+Stephen P. Murphy (1)          $     481         $     -      $     18             $  -          $ 18        $445
+                              ----------        --------     ---------            -----         -----       -----            
+                              ----------        --------     ---------            -----         -----       -----            
+Year ended December 31, 1991:
+- -----------------------------
+Stephen P. Murphy (1)          $     499         $     -      $     18             $  -          $ 18        $463
+                              ----------        --------     ---------            -----         -----       -----            
+                              ----------        --------     ---------            -----         -----       -----            
+</TABLE>
+
+
+
+
+
+(1)      Represent an interest-free loan secured by real property, payable in
+         annual installments from January 15, 1990 to January 15, 1996 at which
+         time the remaining balance is due.  As of December 31, 1993, Stephen
+         P. Murphy is no longer an employee of the company.  This does not
+         affect the repayment terms of the loan.
+
+(2)      Represents an interest-free loan secured by real property, payable on
+         May 1, 2006.
+
+
+
+
+
+                                       14
+<PAGE>   15
+
+                                                                      Schedule V
+
+                      Yellow Corporation and Subsidiaries
+                         Property, Plant and Equipment
+             For the Years Ended December 31, 1993, 1992 and 1991
+
+
+
+<TABLE>
+<CAPTION>
+     COL. A                  COL. B        COL. C                    COL. D            COL. E                      COL. F
+                            Balance,      Additions                                 Other Changes-                Balance,
+                            Beginning        At                   Retirements       Add (Deduct)-                  End Of
+  Description               Of Period       Cost                                    Describe (1)                   Period
+                                                                (In Thousands)
+<S>                       <C>              <C>                      <C>              <C>                       <C>
+1993
+- ----
+Land                      $  133,691       $  2,528                 $ 2,720          $ 20,765                  $  154,264
+Structures                   542,042         16,293                   7,605            54,029                     604,759
+Revenue equipment            756,227         36,318                  14,835            60,461                     838,171
+Other operating
+   property                  142,210         21,747                   6,367            11,208                     168,798
+                         -----------      ---------                --------         ---------                 -----------
+                          $1,574,170       $ 76,886                 $31,527          $146,463                  $1,765,992
+                         -----------      ---------                --------         ---------                 -----------
+                         -----------      ---------                --------         ---------                 -----------
+1992
+- ----
+Land                      $  133,467       $    567                 $   161          $   (182)                 $  133,691
+Structures                   529,076         16,290                   2,628              (696)                    542,042
+Revenue equipment            752,792         54,280                  50,401              (444)                    756,227
+Other operating
+   property                  135,371         15,111                   8,192               (80)                    142,210
+                         -----------      ---------                --------         ---------                 -----------
+                          $1,550,706       $ 86,248                 $61,382          $ (1,402)                 $1,574,170
+                         -----------      ---------                --------         ---------                 -----------
+                         -----------      ---------                --------         ---------                 -----------
+1991
+- ----
+Land                      $  130,552       $  4,593                 $ 1,686          $      8                  $  133,467
+Structures                   493,726         40,690                   5,372                32                     529,076
+Revenue equipment            752,231         37,582                  37,060                39                     752,792
+Other operating
+   property                  107,912         27,632                     174                 1                     135,371
+                         -----------      ---------                --------         ---------                 -----------
+                          $1,484,421       $110,497                 $44,292          $     80                  $1,550,706
+                         -----------      ---------                --------         ---------                 -----------
+                         -----------      ---------                --------         ---------                 -----------
+</TABLE>
+
+
+
+
+(1)      In 1993, primarily property, plant and equipment of Preston
+         Corporation and subsidiaries acquired in February 1993.  In 1992 and
+         1991, foreign equity translation adjustments.
+
+
+
+
+
+                                       15
+<PAGE>   16
+
+                                                                     Schedule VI
+
+                      Yellow Corporation and Subsidiaries
+  Accumulated Depreciation, Depletion and Amortization of Property, Plant and
+                                   Equipment
+              For the Years Ended December 31, 1993, 1992 and 1991
+
+
+
+<TABLE>
+<CAPTION>
+           COL. A                  COL. B          COL. C           COL. D             COL. E                  COL. F
+                                   Balance,        Additions                          Other Changes-           Balance,
+                                  Beginning        Charged to       Retirements       Add (Deduct)-             End Of
+         Description              Of Period        Costs and                          Describe (1)              Period
+                                                   Expenses
+
+                                                             (In Thousands)
+<S>                             <C>              <C>                 <C>               <C>                  <C>
+1993
+- ----
+Structures                      $  242,523       $ 31,132            $ 3,031           $  (395)             $  270,229
+Revenue equipment                  481,378         79,570             12,523              (229)                548,196
+Other operating
+   property                         75,189         22,268              5,873               113                  91,697
+                               -----------       --------           --------          --------             -----------
+                                $  799,090        132,970            $21,427           $  (511)             $  910,122
+                               -----------                          --------          --------             -----------
+                               -----------                          --------          --------             -----------
+<CAPTION>
+Reconciliation to income statement:
+  Amortization and nonoperating depreciation         (599)
+                                                  ---------
+  Depreciation charged to operating expense      $132,371
+                                                  ---------
+                                                  ---------
+<S>                             <C>              <C>                 <C>               <C>                  <C>
+1992
+- ----
+Structures                      $  216,435       $ 27,999            $ 1,597           $  (314)             $  242,523
+Revenue equipment                  453,944         72,605             44,869              (302)                481,378
+Other operating
+   property                         64,153         18,398              7,319               (43)                 75,189
+                               -----------       --------           --------          --------             -----------
+                                $  734,532        119,002            $53,785           $  (659)             $  799,090
+                               -----------                          --------          --------             -----------
+                               -----------                          --------          --------             -----------
+<CAPTION>
+Reconciliation to income statement:
+  Amortization and nonoperating depreciation         (583)
+                                                  ---------
+  Depreciation charged to operating expense      $118,419
+                                                  ---------
+                                                  ---------
+<S>                             <C>              <C>                 <C>               <C>                  <C>
+1991
+- ----
+Structures                      $  189,290       $ 30,042            $ 2,907           $    10              $  216,435
+Revenue equipment                  407,683         79,264             33,023                20                 453,944
+Other operating
+   property                         50,849         15,837              2,533                 -                  64,153
+                               -----------       --------           --------          --------             -----------
+                                $  647,822        125,143            $38,463           $    30              $  734,532
+                               -----------                          --------          --------             -----------
+                               -----------                          --------          --------             -----------
+<CAPTION>
+Reconciliation to income statement:
+  Amortization and nonoperating depreciation         (456)
+                                                  ---------
+  Depreciation charged to operating expense      $124,687
+                                                  ---------
+                                                  ---------
+</TABLE>
+
+
+
+(1)  Foreign equity translation adjustments.
+
+
+
+                                       16
+<PAGE>   17
+
+                                                                   Schedule VIII
+
+                      Yellow Corporation and Subsidiaries
+                       Valuation and Qualifying Accounts
+              For the Years Ended December 31, 1993, 1992 and 1991
+
+
+
+<TABLE>
+<CAPTION>
+         COL. A                 COL. B                     COL. C                  COL. D       COL. E
+                               Balance,                   Additions                           Balance,
+                              Beginning              -1-               -2-       Deductions-   End Of
+      Description             Of Period          Charged To        Charged To      Describe    Period
+                                                 Costs And       Other Accounts-     (2)
+                                                  Expenses          Describe
+
+                                                            (In Thousands)
+<S>                               <C>              <C>             <C>               <C>       <C>
+Year ended December 31, 1993:
+- ------------------------------
+Deducted from asset account -
+ Allowance for uncollectible
+ accounts                         $8,558           $8,521          $2,504 (1)       $8,909     $10,674
+                                 -------          -------          ------           ------    --------
+                                 -------          -------          ------           ------    --------
+Year ended December 31, 1992:
+- ------------------------------
+Deducted from asset account-
+ Allowance for uncollectible
+ accounts                         $8,299           $6,149          $    -           $5,890     $ 8,558
+                                 -------          -------          ------           ------    --------
+                                 -------          -------          ------           ------    --------
+Year ended December 31, 1991:
+- ------------------------------
+Deducted from asset account-
+ Allowance for uncollectible
+ accounts                         $7,304           $7,914          $    -           $6,919     $ 8,299
+                                 -------          -------          ------           ------    --------
+                                 -------          -------          ------           ------    --------
+</TABLE>
+
+
+
+
+
+(1)      Addition from Preston Corporation and subsidiaries acquired in
+         February 1993.
+(2)      Primarily uncollectible accounts written off - net of recoveries.
+
+
+
+
+
+                                       17
+<PAGE>   18
+
+                                                                      Schedule X
+                      Yellow Corporation and Subsidiaries
+                   Supplementary Income Statement Information
+              For the Years Ended December 31, 1993, 1992 and 1991
+
+
+
+<TABLE>
+<CAPTION>
+         COL. A                                                         COL. B
+                                                            Charged to costs and expenses
+         Item
+                                                        1993             1992              1991
+                                                                         (In Thousands)
+<S>                                                     <C>              <C>              <C>
+Maintenance and repairs                                 $68,513          $45,704          $48,443
+                                                        --------          -------          -------
+                                                        --------          -------          -------
+Depreciation and
+ amortization of intangible
+ assets, preoperating costs
+ and similar deferrals                                      *                *                *
+
+Taxes, other than payroll and income taxes:
+ Fuel taxes                                             $64,275          $47,716          $49,729
+ Property and general                                    19,546           14,763           13,308
+                                                        --------          -------          -------
+                                                        $83,821          $62,479          $63,037
+                                                        --------          -------          -------
+                                                        --------          -------          -------
+Royalties                                                 None             None             None
+
+Advertising costs                                           *                *                *
+</TABLE>
+
+
+
+
+
+         * Less than 1% of total sales
+
+
+
+
+
+                                       18
+<PAGE>   19
+
+                                   Signatures
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                                   Yellow Corporation
+
+
+                                           BY:    /s/ George E. Powell III
+                                           -----------------------------------
+                                                   George E. Powell III
+March 21, 1994                                     President, Chief Executive
+                                                   Officer and Director
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+<TABLE>
+<CAPTION>
+   <S>                            <C>                               <C>
+   /s/ Phillip A. Spangler        Vice President and Treasurer      March 22, 1994
+  --------------------------
+       Phillip A. Spangler
+
+   /s/ George E. Powell, Jr.      Chairman of the Board             March 22, 1994
+   --------------------------     of Directors 
+       George E. Powell, Jr.             
+
+   /s/ M. Reid Armstrong          Director                          March 22, 1994
+  -------------------------
+       M. Reid Armstrong
+
+   /s/ Charles A. Duboc           Director                          March 22, 1994
+- ---------------------------
+       Charles A. Duboc
+
+   /s/ John C. McKelvey           Director                          March 22, 1994
+- ---------------------------
+       John C. McKelvey
+</TABLE>
+
+
+
+
+
+                                       19
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>1993 ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+
+                                                                    Exhibit (13)
+
+
+
+                               Yellow Corporation
+                               ------------------
+
+                               1993 Annual Report
+                               ------------------
+
+                                to Shareholders
+                               ------------------
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+<TEXT>
+
+<PAGE>   1
+
+                                                                    Exhibit (24)
+
+
+
+
+
+                   Consent of Independent Public Accountants
+                   -----------------------------------------
+
+
+         As independent public accountants, we hereby consent to the
+incorporation of our reports included and incorporated by reference in this
+Form 10-K, into the company's previously filed Form S-8 Registration Statement
+File No. 33-47946.
+
+
+
+
+
+                                                     ARTHUR ANDERSEN & CO.
+
+
+
+
+Kansas City, Missouri,
+March 21, 1994
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

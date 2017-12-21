@@ -1,0 +1,2976 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ NIOGaeK9uUxEXAdkZZXxk+j7ZwD4k++JPs6PV4mleLoL++82uqovJ39WDlKxgsdy
+ ICeB9iJW2C7LT5NmQfUv4g==
+
+<IMS-DOCUMENT>0000892917-95-000057.txt : 19950615
+<IMS-HEADER>0000892917-95-000057.hdr.sgml : 19950615
+ACCESSION NUMBER:		0000892917-95-000057
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19941231
+FILED AS OF DATE:		19950317
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WILLAMETTE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000107189
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAPER MILLS [2621]
+		IRS NUMBER:				930312940
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03730
+		FILM NUMBER:		95521462
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3800 FIRST INTERSTATE TWR
+		STREET 2:		1300 SW FIFTH AVE
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97201
+		BUSINESS PHONE:		5032275581
+
+	MAIL ADDRESS:	
+		STREET 1:		3800 FIRST INTERSTATE TOWER
+		STREET 2:		1300 SW FIFTH AVENUE
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+                   SECURITIES AND EXCHANGE COMMISSION
+
+                         Washington, D.C.  20549
+
+                                FORM 10-K
+
+          [X]  Annual Report Pursuant to Section 13 or 15(d) of
+                   The Securities Exchange Act of 1934
+
+For the fiscal year ended December 31, 1994        Commission file number 0-3730
+
+                       WILLAMETTE INDUSTRIES, INC.
+         (Exact name of registrant as specified in its charter)
+
+                    Oregon                                93-0312940
+           (State of incorporation)                     (I.R.S. Employer
+                                                      Identification No.)
+
+           3800 First Interstate Tower
+           1300 S.W. Fifth Avenue
+           Portland, Oregon                                 97201
+      (Address of principal executive offices)              (Zip Code)
+
+   Registrant's telephone number, including area code:  (503) 227-5581
+
+       Securities registered pursuant to Section 12(g) of the Act:
+                      Common Stock, $.50 par value
+                            (Title of class)
+                     Preferred Stock Purchase Rights
+                            (Title of class)
+
+      Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. 
+Yes  X    No     
+      
+      Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K.  [  ]
+
+      State the aggregate market value of the voting stock held by
+non-affiliates of the registrant.
+
+
+                   $2,466,920,000 at January 31, 1995
+
+
+      Indicate the number of shares outstanding of each of the
+registrant's classes of common stock as of the latest practicable date.
+
+              Class                        Outstanding at March 2, 1995
+Common Stock, $.50 par value                  55,049,343 shares
+
+                  DOCUMENTS INCORPORATED BY REFERENCE.
+      Portions of the registrant's definitive proxy statement for its
+1995 annual meeting of shareholders are incorporated by reference into
+Part III hereof.
+<PAGE>
+                           CROSS REFERENCE SHEET
+     Showing Location in Definitive Proxy Statement of Items Required
+                               By Form 10-K
+
+
+                                              Definitive Proxy Statement   
+                                            -------------------------------
+ Item No   Form 10-K Caption                Caption                Page No.
+- -------    ----------------------------     -------                --------
+
+Item 10    Directors and Executive       Election of Directors          3-4
+             Officers of the Registrant  Holders of Common Stock          3
+
+Item 11    Executive Compensation        Executive Compensation         5-7
+                                         Compensation Committee
+                                           Interlocks and Insider
+                                           Participation                7-8
+                                         Compensation of Directors    11-12
+                                         Employment Agreements        12-13
+
+Item 12    Security Ownership of         Holders of Common Stock        1-3
+             Certain Beneficial
+             Owners and Management
+
+Item 13    Certain Relationships and     Compensation Committee
+             Related Transactions          Interlocks and Insider
+                                           Participation                7-8
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                   INDEX
+                                   -----
+
+                                                                       Page
+Part I                                                                 ----
+- ------
+Item 1.  Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+   General. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+   Business Segment Information . . . . . . . . . . . . . . . . . . . . . 1
+   Pulp and Paper . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+   Converted Paper Products . . . . . . . . . . . . . . . . . . . . . . . 2
+   Building Materials . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+   Timberlands. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+   Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+   Employees. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+   Environmental Matters. . . . . . . . . . . . . . . . . . . . . . . . . 3
+Item 2.  Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Item 3.  Legal Proceedings. . . . . . . . . . . . . . . . . . . . . . . . 6
+Item 4.  Submission of Matters to a Vote of Security Holders. . . . . . . 7
+Executive Officers of the Registrant. . . . . . . . . . . . . . . . . . . 7
+
+Part II
+- -------
+Item 5.  Market for Registrant's Common Equity
+          and Related Stockholder Matters . . . . . . . . . . . . . . . . 8
+Item 6.  Selected Financial Data. . . . . . . . . . . . . . . . . . . . . 9
+Item 7.  Management's Discussion and Analysis of
+          Financial Condition and Results of Operations . . . . . . . . .10
+Item 8.  Financial Statements and Supplemental Data . . . . . . . . . . .14
+Item 9.  Changes in and Disagreements with 
+          Accountants on Accounting and Financial
+          Disclosure. . . . . . . . . . . . . . . . . . . . . . . . . . .14
+
+Part III
+- --------
+Item 10.  Directors and Executive Officers of the Registrant. . . . . . .15
+          (See Part I for Executive Officers of the Registrant)
+Item 11.  Executive Compensation. . . . . . . . . . . . . . . . . . . . .15
+Item 12.  Security Ownership of Certain Beneficial
+           Owners and Management. . . . . . . . . . . . . . . . . . . . .15
+Item 13.  Certain Relationships and Related
+           Transactions . . . . . . . . . . . . . . . . . . . . . . . . .15
+
+Part IV
+- -------
+Item 14.  Exhibits, Financial Statement Schedules
+           and Reports on Form 8-K. . . . . . . . . . . . . . . . . . . .15
+Signatures. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+
+Index to Consolidated Financial Statements. . . . . . . . . . . . . . . .18
+
+Index to Exhibits . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+<PAGE>
+                                  PART I
+
+Item 1.  Business
+
+General
+- -------
+  Willamette Industries ("Willamette" or the "Company") was founded in 1906
+as the Willamette Valley Lumber Co. in Dallas, Oregon.  In 1967, Willamette
+Valley and several related firms merged to form Willamette Industries, Inc. 
+Its stock has been publicly traded since 1968.
+
+  Willamette is a diversified, integrated forest products company with 90
+plants and mills manufacturing containerboard, bag paper, fine paper,
+bleached hardwood market pulp, specialty printing papers, corrugated
+containers, business forms, cut sheet paper, paper bags, inks, lumber,
+plywood, particleboard, medium density fiberboard, laminated beams and
+value-added wood products.  We own or control 1,235,000 acres of forests.
+  
+  Willamette is a medium-sized firm in a very competitive industry
+consisting of thousands of companies, some larger and more diversified;
+others much smaller, producing only one or two products.  Very competitive
+conditions exist in every industry segment in which the Company operates. 
+The Company competes in its markets primarily through price, quality and
+service.
+
+  The Company believes its strengths are its vertical integration; its
+geographically diverse, modern, fiber- and energy-efficient facilities; its
+concentration on a focused, related product range; its balance among
+building materials, white paper and brown paper manufacturing and an
+organizational structure that encourages teamwork as well as individual
+initiative.
+
+  Willamette is listed in the top half of the FORTUNE 500.  The Company's
+common stock trades on The Nasdaq Stock Market under the symbol: WMTT.
+
+Business Segment Information
+- ----------------------------
+  The Company has two business segments.  The Paper Group segment
+manufactures and sells pulp and paper products.  The Building Materials
+Group segment manufactures and sells wood products.  Sales and operating
+data for the Paper Group and Building Materials Group segments for the past
+five years is set forth in the five year comparison captioned "Supplemental
+Business Segment Information" located on page 24.  The Company has no
+foreign operations and is not dependent on any one significant customer or
+group of customers.  Approximately 97% of the Company's total output is
+sold domestically.
+
+Pulp and Paper
+- --------------
+ Bleached pulp and fine paper
+  Bleached hardwood market pulp is manufactured at Hawesville, Kentucky;
+fine paper at Hawesville, Marlboro County, South Carolina and Johnsonburg,
+Pennsylvania.  We make 4.9% of the nation's bleached hardwood market pulp,
+which is sold to outside customers, and 5.9% of the nation's fine paper
+production.
+
+  Chips from nearby sawmills and plywood plants serve as the primary fiber
+source for bleached paper products.  Our timberlands in Tennessee and the
+Carolinas also serve as a source of fiber.
+<PAGE>
+Containerboard and bag paper
+  Four paper mills manufacture 4.1% of the nation's production of
+linerboard, corrugating medium and bag paper.  All of the product is used
+or traded for the needs of Willamette's box and bag manufacturing plants.
+
+  In Louisiana, our sawmills, plywood plants and timberlands can provide
+100% of the chips needed by our linerboard mill; in Oregon, approximately
+80% of our chip requirements could be provided from those sources.  
+
+  Recycled fiber, in the form of used corrugated containers, provides
+58.1% of our fiber needs.
+
+Converted paper products
+- ------------------------
+Office papers
+  Six business forms plants manufacture 5.8% of the nation's production of
+forms.  These forms, mostly long-run continuous computer forms, along with
+Willcopy(R), Willamette's photocopy and cut sheet printer paper produced at
+our three cut sheet facilities, are marketed by 46 Willamette sales and
+distribution centers.  Our cut sheets represent 6.5% of the nation's
+production.
+
+Corrugated containers and sheets
+  Corrugated containers and sheets are manufactured by 32 plants,
+accounting for 5.7% of the nation's corrugated box production.  Products
+range from colorful store displays to eye-catching preprinted boxes; from
+sturdy wax coated shipping containers to the plain brown box.  Corrugated
+containers are marketed by our own sales force to a variety of industrial
+and agricultural customers.
+
+Bags
+  Four bag plants make 11.9% of the nation's paper bags, marketed to
+grocery, department, drug and hardware stores in the West and South by our
+sales force.
+
+Building Materials
+- ------------------
+Plywood and lumber
+  Plywood products, totalling 7.0% of the nation's structural panel
+production, are manufactured at 10 plants in Arkansas, the Carolinas,
+Louisiana and Oregon.
+
+  Six sawmills manufacture 1.3% of the nation's lumber production.  
+
+  Lumber and plywood products are marketed through independent wholesalers
+and distributors throughout the U.S.
+
+Composite board
+  Five particleboard plants in Louisiana and Oregon manufacture 14.0% of
+the nation's particleboard.  Two medium density fiberboard plants in
+Arkansas and South Carolina made 19.5% of the nation's MDF in 1994.  These
+plants produce value-added products including color-coated, woodgrain-
+printed, fire-rated and moisture-resistant boards.
+
+  Composite board products are sold nationwide through distributors, as
+well as directly to cabinet and furniture manufacturers.
+
+<PAGE>
+Laminated beams
+  Three laminated beam plants in Oregon and Louisiana represent 26.2% of
+the nation's production.  Laminated beams, both stock and custom made, are
+sold nationwide and internationally.
+
+Timberlands
+- -----------
+  Willamette's 1,235,000 acres of timberland supply approximately 40% of
+our long-term log needs.  The remainder is purchased through government and
+private timber sales and open market purchases.  In Oregon, we are able to
+provide approximately 75% of our log needs from our own timberlands.  We
+now own or control cutting rights on 566,000 acres in Louisiana, Arkansas
+and Texas; 335,000 acres in Oregon; 188,000 acres in Tennessee; and 146,000
+acres in the Carolinas.  We continually look for opportunities to expand
+our fee timber base and make purchases when it is profitable to do so.
+
+Energy
+- ------
+  Through cogeneration, the burning of waste materials and the recycling of
+spent pulping liquors, Willamette's manufacturing facilities are able to
+generate 62% of their total energy needs.
+
+Employees
+- ---------
+  Willamette employs approximately 12,260 people, of whom about 52% are
+represented by labor unions with collective bargaining agreements. 
+Agreements covering approximately 1,185 employees were negotiated in 1994. 
+Agreements involving about 1,320 hourly employees are subject to renewal in
+1995.  In excess of 45% of all salaried employees have been with the
+Company more than twelve years.
+
+Environmental Matters
+- ---------------------
+  See "Management's Discussion and Analysis of Financial Conditions and
+Results of Operations--Other Matters" for a discussion of the effect on the
+Company of laws relating to environmental matters.
+
+Item 2. Properties
+
+Manufacturing Facilities
+- ------------------------
+  The following table sets forth information regarding the Company's
+90 manufacturing facilities at December 31, 1994:
+
+       Facility                         Annual Production
+       --------                         -----------------
+                                           M Square Ft.
+                                           (3/8" Basis)
+Western Plywood (3 Plants)   
+  Dallas, Oregon                              163,000
+  Foster, Oregon                               98,000
+  Springfield, Oregon                         127,000 
+                                              -------
+    Total Western Plants                      388,000
+                                              -------
+<PAGE>
+Southern Plywood (5 Plants)
+  Dodson, Louisiana                           218,000
+  Emerson, Arkansas                           235,000
+  Ruston, Louisiana                           173,000
+  Taylor, Louisiana                           210,000
+  Zwolle, Louisiana                           223,000
+                                              -------
+    Total Southern Plants                   1,059,000
+                                            ---------
+Atlantic Plywood (2 Plants)
+  Chester, South Carolina                     259,000
+  Moncure, North Carolina                     130,000         
+                                              -------
+    Total Atlantic Plants                     389,000
+                                              -------
+                                                       (1994 Production- 
+      Total Plywood                         1,836,000   1,907,000 M)
+                                            ---------
+Oriented Strand Board
+  Arcadia, Louisiana(1)                             -
+                                                     
+      Total Structural Panels               1,836,000
+                                            =========                     
+
+Western Lumber (4 Mills)                   M Board Ft
+  Coburg, Oregon                               99,000
+  Dallas, Oregon                               98,000
+  Lebanon, Oregon-2 mills                     114,000
+                                              -------
+    Total Western Mills                       311,000                 
+                                              -------
+Southern Lumber (2 Mills)
+  Dodson, Louisiana                            75,000
+  Zwolle, Louisiana                            78,000
+                                               ------
+    Total Southern Mills                      153,000
+                                              -------
+                                                      (1994 Production-
+      Total Lumber                            464,000  446,000 M)
+                                              =======
+
+                                           M Square Ft
+Particleboard (5 Plants)                   (3/4" Basis)
+  Albany, Oregon                             217,000
+  Bend, Oregon                               159,000
+  Eugene, Oregon(2)                           37,000
+  Lillie, Louisiana                          113,000
+  Simsboro, Louisiana                         96,000
+                                             -------
+                                                     (1994 Production-
+    Total Particleboard                      622,000  642,000 M)
+                                             =======
+
+                                           M Square Ft
+Medium Density Fiberboard (2 Plants)      (3/4" Basis)
+  Bennettsville, South Carolina              144,000
+  Malvern, Arkansas                          124,000
+                                             -------
+                                                     (1994 Production-
+    Total MDF                                268,000  239,000 M)
+                                             =======
+<PAGE>
+Engineered Products (5 Plants)                         
+  Laminated Beams                          M Board Ft
+    Saginaw, Oregon                           23,000
+    Vaughn, Oregon                            52,000
+    Simsboro, Louisiana                       19,000
+                                              ------
+                                                     (1994 Production-
+      Total Laminated Beams                   94,000  75,000 M)
+                                              ======
+
+  Laminated Veneer Lumber                  Cubic Ft. (1994 Production-
+    Winston, Oregon                         1,750,000 1,595,000 CF)
+                                            =========
+
+  Structural I-Beams                       M Lineal Ft.
+    Woodburn, Oregon                          29,000 (1994 Production-
+                                              ======     23,000 M)
+Other Divisions (4 Facilities)
+  Custom Products                         Albany, Oregon           
+  Custom Services                     Sweet Home, Oregon
+  Lebanon Machine                        Lebanon, Oregon
+  Coburg Veneer                           Coburg, Oregon
+
+Pulp and Paper (8 Mills)                       Tons
+  Unbleached:
+    Albany, Oregon                           471,000
+    Campti, Louisiana(3)                     698,000
+    Hawesville, Kentucky                     175,000       
+    Oxnard, California                       178,000 (1994 Production-
+                                           ---------
+                                           1,522,000  1,324,000 Tons) 
+  Bleached:                                ---------
+    Marlboro County, South Carolina          283,000
+    Hawesville, Kentucky                                
+      Bleached Market Pulp                   158,000 
+      Fine Paper                             205,000
+    Johnsonburg, Pennsylvania                347,000 (1994 Production-
+                                           ---------
+                                             993,000  903,000 Tons)
+                                           ---------
+        Total Pulp and Paper               2,515,000 (1994 Production-
+                                           =========  2,227,000 Tons)
+
+Corrugated Containers and Sheets(32 Plants)M Square Ft
+  Aurora, Illinois                           982,000
+  Beaverton, Oregon                          888,000
+  Bellevue, Washington                       615,000
+  Bellmawr, New Jersey                       712,000
+  Bowling Green, Kentucky                    770,000
+  Cerritos, California                       885,000
+  Compton, California                        780,000
+  Dallas, Texas                            1,038,000
+  Delaware, Ohio                             601,000
+  Elk Grove, Illinois                        484,000
+  Fort Smith, Arkansas                       794,000
+  Fridley, Minnesota                       1,102,000
+  Golden, Colorado                           744,000
+  Griffin, Georgia                           966,000
+  Huntsville, Alabama                      1,000,000
+  Indianapolis, Indiana                      626,000
+  Kansas City, Kansas                        846,000
+  Lincoln, Illinois                          445,000
+  Louisville, Kentucky                       460,000
+  Lumberton, North Carolina                  560,000
+  Maryland Heights, Missouri                 867,000
+  Matthews, North Carolina                   444,000
+  Memphis, Tennessee                          49,000
+  Moses Lake, Washington                     911,000
+  Newton, North Carolina                     459,000
+  Sacramento, California                     729,000
+  San Leandro, California                  1,338,000
+  Sanger, California                         838,000
+  Sealy, Texas                               808,000
+  St. Paul, Minnesota                        540,000
+  Warrensville Heights, Ohio                 120,000
+  West Memphis, Arkansas                     848,000
+                                          ---------- (1994 Production-
+    Total Corrugated Containers           23,249,000  21,320,000 M)
+                                          ==========                       
+
+Business Forms (6 Plants)                       Tons
+  Cerritos, California                        56,000
+  Dallas, Texas                               46,000
+  Indianapolis, Indiana                       60,000
+  Langhorne, Pennsylvania                     66,000
+  Rock Hill, South Carolina                   44,000
+  West Chicago, Illinois                      50,000
+                                             ------- (1994 Production-
+    Total Business Forms                     322,000  310,000 Tons)
+                                             =======                       
+
+Cut Sheets and Other Converting (3 Plants)      Tons
+  DuBois, Pennsylvania                        96,000
+  Owensboro, Kentucky                         71,000
+  Tatum, South Carolina                       90,000
+                                             ------- (1994 Production-
+    Total Cut Sheets                         257,000  223,000 Tons)
+                                             =======                       
+
+Kraft Bags and Sacks (4 Plants)                 Tons
+  Beaverton, Oregon                           65,000
+  Buena Park, California                      53,000
+  Dallas, Texas                               28,000
+  North Kansas City, Missouri                 24,000
+                                             ------- (1994 Production-
+    Total Kraft Bags and Sacks               170,000  150,000 Tons)
+                                             =======                       
+
+Preprinted Linerboard (2 Plants)            M Square Ft 
+  Richwood, Kentucky                         540,000   
+  Tigard, Oregon                             480,000  
+                                           --------- (1994 Production-
+    Total Preprinted Linerboard            1,020,000  772,000 M)
+                                           =========                       
+
+Inks and Specialty Products(2 Plants)         Tons
+  Beaverton, Oregon                            3,000
+  Delaware, Ohio                               3,000
+                                               ----- (1994 Production-
+    Total Inks                                 6,000  5,000 Tons)
+                                               =====
+(1)  Production to begin in 1996.
+
+(2)  To be converted to the production of medium density fiberboard by the
+fourth quarter of 1995.
+
+(3)  Includes a second linerboard machine which began production in January
+1995.
+
+Timberlands
+- -----------
+  For information respecting the Company's timberlands, see "Business--
+Timberlands." 
+
+Item 3.  Legal proceedings
+
+  There are no material legal proceedings pending as of the date hereof.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+  There were no matters submitted to a vote of security holders during the
+fourth quarter of the year ended December 31, 1994.
+
+                   Executive Officers of the Registrant
+
+  The executive officers of the Company are elected annually by the board
+of directors.  At February 9, 1995, the executive officers of the Company,
+their ages at December 31, 1994, and their positions with the Company were
+as follows:
+
+     Name                    Age                  Position
+     ----                    ---                  --------
+William Swindells             64             Chairman of the board and
+                                             chief executive officer,
+                                             director
+
+Steven R. Rogel               52             President and chief operating
+                                             officer
+
+William P. Kinnune            55             Executive vice president-
+                                             corrugated containers and bags
+
+Michael R. Onustock           55             Executive vice president-pulp
+                                             and fine paper marketing
+
+J. A. Parson                  59             Executive vice president and
+                                             chief financial officer,
+                                             secretary and treasurer
+
+Floyd Vike                    59             Executive vice president-
+                                             building materials marketing
+
+  Each executive officer has been employed by the Company in his present or
+in another managerial capacity for more than five years.
+<PAGE>
+                                  PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder
+Matters
+
+  The Company's common stock trades on The Nasdaq Stock Market under the
+symbol: WMTT.  At December 31, 1994, there were approximately 6,100 holders
+of record of the Company's common stock.  The following table shows for the
+periods indicated the high and low closing sales prices of, and the per
+share dividends paid on, the Company's common stock in each case as
+adjusted for stock splits.
+
+
+                        1994                     1993           
+                --------------------     ---------------------
+                             Closing                  Closing
+                Dividends    Price       Dividends     Price
+                   Paid     High-Low        Paid      High-Low
+                ---------   --------     ---------    --------
+   1st Quarter.... $0.24    59-45 3/4       $0.22     44-35 7/8
+   2nd Quarter....  0.24    49 1/2-42 3/4    0.22     43 1/4-36 3/4
+   3rd Quarter....  0.24    52-41 1/2        0.22     42-35 3/4
+   4th Quarter....  0.24    50 3/4-41        0.22     49 1/2-37 1/2
+
+
+  A dividend of $.27 per share was declared on the common stock for the
+first quarter of 1995 representing an indicated annual dividend rate of
+$1.08 per share.  The Company expects to continue paying regular cash
+dividends, although there is no assurance as to future dividends as they
+are dependent on earnings, capital requirements and financial condition.
+<PAGE>
+Item 6.  Selected Financial Data
+
+  The following table shows selected financial data for the Company for the
+periods indicated:
+   ----------------------------------------------------------------------------
+  Financial Results
+   (dollar amounts, except per share amounts, in thousands)
+<TABLE>
+<CAPTION>
+
+                                                      1994         1993         1992         1991         1990
+                                                                                         
+   <S>                                           <C>             <C>          <C>          <C>          <C>
+   Net sales.....................................$  3,007,949    2,622,237    2,372,396    2,004,501    1,904,853
+   ===============================================================================================================
+   Cost and expenses:
+   Depreciation, amortization and cost
+      of fee timber harvested.....................    217,252      194,202      173,784      151,258      107,654
+   Materials, labor  and other operating expenses.  2,239,185    1,997,246    1,833,919    1,563,939    1,421,241
+                                                  ----------------------------------------------------------------
+       Gross profit...............................    551,512      430,789      364,693      289,304      375,958
+   Selling and administrative expenses............    184,699      174,413      167,094      145,329      136,624
+                                                  ----------------------------------------------------------------
+       Operating earnings.........................    366,813      256,376      197,599      143,975      239,334
+   Interest expense...............................     71,513       63,290       66,422       63,263       29,899
+   Other income (expense).........................     (6,377)      (3,918)      (1,725)      (7,103)        (764)
+                                                  ----------------------------------------------------------------
+       Earnings before taxes......................    288,923      189,168      129,452       73,609      208,671
+   Provision for income taxes.....................    111,300       78,500       47,900       27,800       79,100
+                                                  ----------------------------------------------------------------
+       Earnings before accounting changes.........    177,623      110,668       81,552       45,809      129,571
+   Accounting changes.............................       -          26,364         -            -            -
+                                                  ----------------------------------------------------------------
+       Net earnings ..............................    177,623      137,032       81,552       45,809      129,571
+   Cash dividends paid............................     52,807       48,213       45,200       40,715       40,676
+   Earnings retained in the business..............    124,816       88,819       36,352        5,094       88,895
+   Capital expenditures...........................    393,161      386,864      367,173      244,373      346,617
+  ===============================================================================================================
+   Financial Condition
+   Working capital...............................$    138,528      157,576      157,822      147,194      156,677
+   Long-term debt (non-current portion)...........    915,797      941,710      843,618      746,622      565,224
+   Stockholders' equity...........................  1,387,865    1,257,870    1,164,828      994,460      987,439
+   Total assets...................................  3,033,398    2,804,553    2,527,416    2,219,067    1,965,186
+   ===============================================================================================================
+   Common Stock
+   Number of stockholders (beneficial)............     17,000       14,000       11,500       10,500       10,000
+   Shares outstanding (in thousands) (1)..........     55,036       54,897       54,770       50,962       50,848
+  ===============================================================================================================
+   Per Share(1)
+   Earnings before accounting changes............$       3.23         2.02         1.52         0.90         2.55
+   Accounting changes ............................        -            .48          -            -            -
+                                                  ----------------------------------------------------------------
+     Net earnings ................................       3.23         2.50         1.52         0.90         2.55
+   Cash dividends paid ...........................       0.96         0.88         0.84         0.80         0.80
+   Stockholders' equity ..........................      25.22        22.91        21.27        19.51        19.42
+   ===============================================================================================================
+   Financial Returns
+   Percent return on equity before accounting
+     changes (2)..................................      14.12%        9.50%        8.20%        4.64%       14.38%
+   Percent return on net sales before accounting
+     changes .....................................       5.91%        4.22%        3.44%        2.29%        6.80%
+   ===============================================================================================================
+   Employment
+   Number of employees............................      12,260       12,040       12,000       11,350       10,275
+   Wages, salaries and cost of employee benefits $     580,561      551,172      507,469      451,770      400,440
+   ===============================================================================================================
+
+
+   (1) All share and per share amounts have been adjusted for stock splits.
+   (2) Calculated on stockholders' equity at the beginning of the year.
+</TABLE>
+<PAGE>
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+  Paper products markets tend to follow general economic conditions.  The
+sales and earnings of the building materials business are closely related to
+new housing starts, remodeling activity and to the availability and terms of
+financing for construction.  The cost of wood fiber, the basic raw material
+for both industry segments, is sensitive to various supply and demand
+factors, including environmental issues affecting log supply.
+
+Results of Operations 1994 vs. 1993
+                                      
+  Net sales increased 14.7% in 1994 compared to 1993.  Paper products sales
+increased 18.4% as unit volume sales increased in all paper product lines. 
+Unbleached paper products selling prices improved significantly throughout
+1994 as demand for these products was strong while available supplies grew at
+a far slower pace.  In addition, demand for linerboard grew in export markets
+further tightening supply.  In bleached paper products, hardwood market pulp
+prices trended upward throughout 1994.  Average sales price realizations for
+other bleached paper products trended down through the second quarter of
+1994.  In the second half of 1994, there was a favorable upward trend in
+bleached paper products sales prices such that the average realization for
+fine paper prices in the fourth quarter of 1994 were 13.6% above levels from
+the same period in 1993.  This upward trend continued as we entered the first
+quarter of 1995.
+
+  Building materials sales were up 8.9% compared with 1993 as average sales
+price realizations increased for all building materials product lines.  Both
+particleboard and medium density fiberboard (MDF) average sales prices
+increased in excess of 15.0% in 1994 as compared with 1993.  Sales volumes
+increased for both particleboard and MDF, however plywood experienced slight
+volume declines due to the continuing reduction in the availability of
+federal timber in the Pacific Northwest.
+
+  As the federal government owns nearly 60% of the commercial timberland in
+Oregon, preservationist pressures that have stopped federal timber sales have
+caused a significant reduction in available timber supply.  State and private
+timber supply is inadequate to fill the shortfall.  This in turn has resulted
+in many mill closures at a time when product demand is increasing, creating
+supply-related pressures on lumber and plywood prices.  In October 1994, the
+Company closed its Sweet Home, Oregon plywood plant due to the reduced
+availability of federal timber.  Currently, the Company is able to provide
+approximately 75% of its Oregon log needs from its own timberlands on a
+sustainable basis.  No additional plant closures are anticipated in the
+immediate future.
+
+  Gross profit margins increased to 18.3% in 1994 from 16.4% in 1993.  Paper
+products gross margins increased to 13.8% from 11.6% in 1993 reflecting
+improved selling prices in the last half of 1994.  This improvement was
+tempered by start-up costs associated with a new pulping facility and paper
+machine at the Johnsonburg, Pennsylvania mill.  In addition, margins were
+also pressured as the prices for old corrugated containers, a recycled raw
+material used in the manufacture of unbleached containerboard, increased
+68.5% from 1993. Building materials gross profit margins increased to 25.9%
+compared with 23.9% in 1993.  The improvement in building materials margins
+is due mainly to increases in average sales price realizations for all
+product lines.  However, the Company continues to experience increasing raw
+material costs due to environmental and supply and demand factors.  The cost
+of resin and glue, raw materials used in the manufacture of particleboard,
+MDF and plywood, increased significantly from 1993.
+
+  Selling and administrative expenses declined to 6.1% of sales compared with
+6.7% in 1993.  The decline was due primarily to additional sales volumes as
+selling and administrative expenses increased 5.9% between the two periods.
+
+  Other expense increased to $6.4 million in 1994 compared with $3.9 million
+in 1993.  The increase is due primarily to a charge of $5.0 million ($.06 per
+share, after-tax) for the closure of the Sweet Home, Oregon plywood plant
+recorded in the third quarter of 1994.
+
+  Interest expense increased to $71.5 million in 1994 compared with $63.3
+million in 1993.  Although the Company's average outstanding debt increased
+$98.7 million between the two periods, gross interest was $80.8 million in
+1994 versus $79.2 million in 1993 as the Company's effective interest rate on
+average outstanding debt declined from 8.1% in 1993 to 7.5% in 1994. 
+Capitalized interest declined from $15.9 million in 1993 to $9.3 million in
+1994.  The weighted average interest rate of all debt was 7.75% at December
+31, 1994 compared with 7.31% at December 31, 1993.
+
+  The overall effective income tax rate declined to 38.5% in 1994 from 41.5%
+in 1993.  The federal corporate income tax rate increased in 1993 which
+required an increase in the deferred tax liability account and a
+corresponding charge to earnings in the amount of $5.9 million or $.11 per
+share.
+
+Results of Operations 1993 vs. 1992
+
+  Net sales increased 10.5% in 1993 compared to 1992.  Paper product sales
+increased 7.6%.  Volume increases were experienced in all paper product lines
+with the exception of bleached market pulp.  The acquisition of eleven
+corrugated container facilities in June 1992 and the resulting full year's
+sales in 1993 accounted for nearly all of the increase in paper product
+sales.  Excess industry production capacity and weak foreign markets more
+than offset improvements in the domestic economy resulting in continued price
+declines in all paper product lines with the exception of small increases for
+fine paper and cut sheets. 
+
+  Building materials sales increased 15.4% compared with 1992 as average
+sales price realizations increased for all building materials product lines
+and, most significantly, for lumber products whose average sales price
+realizations increased approximately 34.0%.  Sales volumes increased in
+composite board panels but decreased in plywood and lumber products 7.0% and
+3.5%, respectively, because of reduced operating levels resulting from the
+lack of logs.
+
+  Gross profit margins increased to 16.4% in 1993 from 15.4% of sales in
+1992.  Gross profit margins for paper decreased to 11.6% from 14.8% in 1992
+reflecting continued poor pricing for paper products.  Building materials
+gross profit margins increased to 23.9% from 16.3% in 1992 primarily due to
+increased average sales price realizations in all building materials product
+lines.  At the same time, however, costs for open market logs continued to
+increase due to supply factors.   
+
+  Selling and administrative expenses declined to 6.7% of sales in 1993
+compared to 7.0% in 1992.  The decrease is primarily due to additional sales
+volume.
+
+  Interest expense declined 4.7% to $63.3 million in 1993 from $66.4 million
+in 1992.  Gross interest expense increased $5.4 million in 1993 over the
+comparable amount in 1992 as the Company's average outstanding debt increased
+$129.5 million.  However, capitalized interest increased to $15.9 million in
+1993 compared to $7.4 million in 1992 which more than offset the increase in
+gross interest expense.  In addition, the impact of increased debt was
+minimized by an overall reduction of effective interest rates.  The weighted
+average interest rate was 7.31% at December 31, 1993 compared with 8.56% at
+December 31, 1992.
+
+Liquidity and Capital Resources
+
+  Willamette generates funds internally via net earnings and non-cash charges
+against earnings such as depreciation, cost of fee timber harvested and
+deferred income taxes.  Funds generated externally have usually been through
+debt financing.
+
+  In 1994, cash flows from operating activities were $396.9 million and
+represented an increase of 32.9% over comparable cash flows in 1993.  This
+increase was primarily due to additional net earnings and depreciation.  As a
+result of the increase in internally generated cash flows, external long-term
+borrowings have been limited to a draw-down in June, 1994 of the remaining
+$25 million available under a $100 million revolving credit facility at
+market interest rates from a bank.  As a result of the above cash flows and
+financing activities, the total debt-to-capital ratio is 43.5% at December
+31, 1994 compared with 45.2% at December 31, 1993.  
+
+  The Company is continually making capital expenditures at its manufacturing
+facilities to improve fiber utilization, labor efficiency and to expand
+production.  In 1994, the Company made such capital expenditures of $340.3
+million.
+
+  During 1994 the following major capital projects were completed:
+
+      --   Construction of a new fiberline and paper machine at the
+           Johnsonburg, Pennsylvania fine paper mill.
+
+      --   Modernization of the plywood plant at Moncure, North Carolina.
+
+      --   Addition of pulp drying capacity and expansion of the fiberline at
+           the Marlboro County, South Carolina paper mill.
+
+      --   Construction of a glue-laminated beam plant at Simsboro,
+           Louisiana.
+
+  Major capital projects underway at December 31, 1994 include the following:
+
+      --   Construction of a second linerboard machine at the paper mill in
+           Campti, Louisiana which began production in January, 1995.
+
+      --   Expansion of the Bennettsville, South Carolina medium density
+           fiberboard facility.
+
+      --   Conversion of the Eugene, Oregon particleboard plant to
+           manufacture medium density fiberboard.
+
+      --   Construction of an oriented strand board facility in Arcadia,
+           Louisiana.
+
+      --   Construction of a gas turbine cogeneration facility at the Albany,
+           Oregon paper mill.
+
+      --   Upgrade and rebuild of three specialty paper machines at the
+           Johnsonburg, Pennsylvania paper mill.
+
+      --   Upgrade and expansion of the paper machine at Oxnard, California.
+
+      --   Expansion of the cut sheet facility at Owensboro, Kentucky with a
+           12-pocket sheeter.
+
+      --   Expansion of pulping capacity at the Marlboro County, South
+           Carolina paper mill.
+
+      --   Upgrade to evaporators at the Hawesville, Kentucky bleached pulp
+           mill.
+   
+  The total cost of all major capital projects in progress at December 31,
+1994 was estimated to be approximately $492.3 million of which $188.3 million
+has already been spent.  These projects will be funded with internally
+generated cash flows and with external borrowings if needed.  The Company
+believes it has the resources available to meet its liquidity requirements
+through internally generated cash flows, short-term borrowings and revolving
+credit agreements which could be arranged with a number of banks.  In
+addition, in April 1994, the Company registered, under the Securities Act of
+1933, senior debt securities totaling $200 million.  As of December 31, 1994,
+none of these debt securities had been issued.
+
+Other Matters
+
+  The Company believes it is in substantial compliance with federal, state
+and local laws regarding environmental quality.  
+
+  The Environmental Protection Agency (EPA) has issued proposed rules
+regarding air and water quality referred to as the "cluster rules".  These
+rules are currently undergoing public review and are extremely onerous with a
+potential financial impact to the paper industry estimated in excess of $11
+billion in capital spending to comply with the proposed rules.  This level of
+regulation does not appear to be justified on either an environmental impact
+or cost benefit basis and it is hoped compromise can be reached lessening the
+severity of the rules.
+
+  In addition to the impact of the cluster rules on pulp and paper mills, the
+Company's other operations are faced with increasingly stringent
+environmental regulations.  Based upon regulations either enacted or proposed
+for future enactment, the Company estimates that over the next five years
+required capital expenditures to comply with environmental regulations will
+be less than $250 million.  Although future environmental capital
+expenditures cannot be predicted with any certainty because of continuing
+changes in laws, we believe that compliance with such environmental
+regulations will not have a material adverse effect upon the Company's
+competitive position.
+
+  Much attention has been given to the controversy concerning
+preservationists' efforts to stop the harvest of timber from Federal
+timberlands in the Northwest.  Concurrent with these efforts have come
+increased regulations, limitations and restrictions on the harvest of timber
+from privately-owned timberlands.  Current rules and regulations do not
+significantly impact the Company's ability to manage its Oregon timberland on
+a sustained yield basis.
+
+  Over the years, inflation has resulted in replacement costs higher than
+those originally needed to purchase existing plants and equipment.  Advancing
+technology and environmental concerns also contribute to higher costs. 
+Productivity gains, because of technological improvements, may partially
+offset these increased costs.  Our use of LIFO to value inventories allows us
+to include these inflationary costs in the cost of sales.
+
+Item 8.  Financial Statements and Supplementary Data
+
+   The financial statements and supplementary data filed as part of this
+report follow the signature pages of this report.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosures
+
+   None.
+<PAGE>
+                                  PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+   Information regarding (i) directors of the Company is set forth on pages 3
+and 4 of the Company's definitive proxy statement (the "Proxy Statement") for
+its 1995 annual meeting of shareholders, under the heading "Election of
+Directors" and (ii) the failure by a director and an emeritus director of the
+Company to file, on a timely basis, an aggregate of three reports required by
+Section 16(a) of the Securities Exchange Act of 1934, is set forth in the
+first paragraph on page 3 of the Proxy Statement, which information is
+incorporated herein by reference.  Information regarding the executive
+officers of the Company is set forth under the heading "Executive Officers of
+the Registrant" in Part I of this report.
+
+Item 11.  Executive Compensation
+
+   Information regarding compensation of directors and executive officers of
+the Company is set forth in the Proxy Statement under the headings "Executive
+Compensation" on pages 5-7, "Compensation Committee Interlocks and Insider
+Participation" on pages 7 and 8, "Compensation of Directors" on pages 11 and
+12, and "Employment Agreements" on pages 12 and 13.  Such information is
+incorporated herein by reference.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+   Information regarding security ownership of management and certain other
+beneficial owners is set forth on pages 1 and 2 of the Proxy Statement under
+the heading "Holders of Common Stock," which information is incorporated
+herein by reference.
+
+Item 13.  Certain Relationships and Related Transactions
+
+   Information regarding certain relationships and related transactions is
+set forth on pages 7 and 8 of the Proxy Statement under the heading
+"Compensation Interlocks and Insider Participation," which information is
+incorporated herein by reference.
+                                   PART IV
+
+Item 14.  Exhibits, Financial Statements and Reports on Form 8-K.
+
+(a) 1. and 2.  For a list of the financial statements filed herewith, see the
+               index to consolidated financial statements following the
+               signature pages of this report.
+
+(a) 3.         For a list of the exhibits filed herewith, see the index to
+               exhibits following the financial statements filed with this
+               report.  Each management contract or compensatory plan or
+               arrangement required to be filed as an exhibit to this report
+               is identified in the list.
+
+(b)            Reports on Form 8-K.
+
+               No reports on Form 8-K were filed for the quarter ended
+               December 31, 1994.
+<PAGE>
+                                 SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                        WILLAMETTE INDUSTRIES, INC.
+                                             (Registrant)
+
+                                        By/s/ J. A. PARSONS                  
+Dated:  February 9, 1995                     (J. A. Parsons)
+                                                  Executive Vice President
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on February 9, 1995, by the following persons on
+behalf of the registrant in the capacities indicated.
+
+
+    Signature                              Title
+
+Principal Executive Officer
+  and Director
+
+/s/ WILLIAM SWINDELLS            Chairman and Chief Executive Officer and
+    (William Swindells)          Director
+
+Principal Financial Officer
+
+/s/ J. A. PARSONS                Executive Vice President and
+    (J. A. Parsons)              Chief Financial Officer, Secretary and
+                                 Treasurer
+
+Principal Accounting Officer
+
+
+/s/ DUANE C. MCDOUGALL           Vice President-Controller
+    (Duane C. McDougall)
+
+
+/s/ C. M. BISHOP                 Director
+    (C. M. Bishop)
+
+
+/s/ GERARD K. DRUMMOND           Director
+    (Gerard K. Drummond)
+
+
+/s/ E. B. HART                   Director
+    (E. B. Hart)
+
+
+/s/ C. W. KNODELL                Director
+    (C.W. Knodell)
+/s/ PAUL N. MCCRACKEN            Director
+    (Paul N. McCracken)
+
+
+/s/ STUART J. SHELK, JR.         Director
+    (Stuart J. Shelk, Jr.)
+
+
+/s/ ROBERT M. SMELICK            Director
+    (Robert M. Smelick)
+
+
+/s/ SAMUEL C. WHEELER            Director
+    (Samuel C. Wheeler)
+
+
+/s/ BENJAMIN R. WHITELEY         Director
+    (Benjamin R. Whiteley)
+<PAGE>
+Index to Consolidated Financial Statements
+
+                                                                     Page No.
+
+Independent Auditors' Report                                           19
+
+Consolidated Balance Sheets as of December 31, 1994 and 1993           20
+
+Consolidated Statements of Earnings for the Years ended                  
+    December 31, 1994, 1993 and 1992                                   21
+
+Consolidated Statements of Stockholders' Equity for the Years ended      
+    December 31, 1994, 1993 and 1992                                   22
+
+Consolidated Statements of Cash Flows for the Years ended
+    December 31, 1994, 1993 and 1992                                   23
+
+Supplemental Business Segment Information                              24
+
+Selected Quarterly Financial Data                                      25
+
+Notes to Consolidated Financial Statements                             26
+<PAGE>
+Independent Auditors' Report
+
+
+
+The Board of Directors and Stockholders
+Willamette Industries, Inc.:
+
+    We have audited the accompanying consolidated balance sheets of
+Willamette Industries, Inc. and subsidiaries as of December 31, 1994 and
+1993, and the related consolidated statements of earnings, stockholders'
+equity, and cash flows for each of the years in the three-year period ended
+December 31, 1994.  These consolidated financial statements are the
+responsibility of the Company's management.  Our responsibility is to express
+an opinion on these consolidated financial statements based on our audits.
+
+    We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+    In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Willamette Industries, Inc. and subsidiaries as of December 31, 1994 and
+1993, and the results of their operations and their cash flows for each of
+the years in the three-year period ended December 31, 1994 in conformity with
+generally accepted accounting principles.
+
+    As discussed in the notes to the consolidated financial statements, the
+Company adopted the provisions of the Financial Accounting Standards Board's
+Statement of Financial Accounting Standards #106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" and Statement of Financial
+Accounting Standards #109, "Accounting for Income Taxes," in 1993.
+    
+
+                            KPMG PEAT MARWICK LLP
+
+
+Portland, Oregon
+February 9, 1995
+<PAGE>
+<TABLE>
+<CAPTION>
+          CONSOLIDATED BALANCE SHEETS
+          December 31, 1994 and 1993
+          (dollar amounts, except per share amounts, in thousands)
+
+
+ Assets                                                        1994             1993
+                                                          --------------   --------------
+ <S>                                                    <C>                <C>
+ Current assets:
+
+   Cash                                                 $        12,798            9,543
+   Notes and accounts receivable, less allowance
+     for doubtful accounts of $5,278 (1993 - $4,466)            283,055          207,161
+   Inventories (notes 1 and 2)                                  256,091          269,063
+   Deposits on timber cutting contracts                          41,248           36,321
+   Prepaid expenses                                              11,462           11,124
+                                                          --------------   --------------
+           Total current assets                                 604,654          533,212
+                                                          --------------   --------------
+ Timber, timberlands and related facilities, net (note 1)       509,075          483,308
+ Property, plant and equipment, net (notes 1 and 8)           1,863,505        1,718,063
+ Other assets                                                    56,164           69,970
+                                                          --------------   --------------
+                                                              3,033,398        2,804,553
+                                                          ==============   ==============
+  Liabilities and Stockholders' Equity
+  Current liabilities:
+   Current installments on long-term debt (note 4)      $        50,956            1,278
+   Notes payable (note 4)                                       100,000           96,000
+   Accounts payable, includes book                              173,549          139,572
+     overdrafts of $48,589 (1993 - $43,905)
+   Accrued payrolls and related expenses                         58,945           56,498
+   Accrued interest                                              22,308           21,586
+   Other accrued expenses                                        37,414           47,912
+   Federal and state taxes on income (notes 1 and 3)             22,954           12,790
+                                                          --------------   --------------
+            Total current liabilities                           466,126          375,636
+                                                          --------------   --------------
+ Deferred income taxes (notes 1 and 3)                          231,717          198,295
+ Other liabilities                                               31,893           31,042
+ Long-term debt, net of current installments (note 4)           915,797          941,710
+ Stockholders' equity (note 6):
+   Preferred stock, cumulative, of $.50 par value.
+     Authorized 5,000,000 shares                                      -                -
+   Common stock of $.50 par value.  Authorized
+     75,000,000 shares; issued 55,036,191
+       shares (1993 - 54,897,648 shares)                         27,518           27,449
+   Capital surplus                                              293,756          288,646
+   Retained earnings                                          1,066,591          941,775
+                                                          --------------   --------------
+             Total stockholders' equity                       1,387,865        1,257,870
+                                                          --------------   --------------
+                                                        $     3,033,398        2,804,553
+                                                          ==============   ==============
+
+  See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+  CONSOLIDATED STATEMENTS OF EARNINGS
+  Years ended December 31, 1994, 1993 and 1992
+  (dollar amounts, except per share amounts, in thousands)
+<TABLE>
+<CAPTION>
+
+
+                                                       1994         1993         1992
+                                                    ----------   ----------   ----------
+  <S>                                             <C>            <C>          <C>      
+  Net sales                                       $ 3,007,949    2,622,237    2,372,396
+
+  Cost of sales                                     2,456,437    2,191,448    2,007,703
+                                                    ----------   ----------   ----------
+     Gross profit                                     551,512      430,789      364,693
+
+  Selling and administrative expenses                 184,699      174,413      167,094
+                                                    ----------   ----------   ----------
+     Operating earnings                               366,813      256,376      197,599
+
+  Other income(expense), net                           (6,377)      (3,918)      (1,725)
+                                                    ----------   ----------   ----------
+                                                      360,436      252,458      195,874
+
+  Interest expense, net                                71,513       63,290       66,422
+                                                    ----------   ----------   ----------
+     Earnings before taxes and accounting changes     288,923      189,168      129,452
+
+  Provision for income taxes (notes 1 and 3)          111,300       78,500       47,900
+                                                    ----------   ----------   ----------
+     Earnings before accounting changes               177,623      110,668       81,552
+
+  Accounting changes (notes 1 and 5)                        -       26,364            -
+                                                    ----------   ----------   ----------
+     Net Earnings                                 $   177,623      137,032       81,552
+                                                     ========     ========     ========
+  Per share information:
+     Earnings before accounting changes           $      3.23         2.02         1.52
+
+     Accounting changes                                     -         0.48            -
+                                                    ----------   ----------   ----------
+     Net earnings                                 $      3.23         2.50         1.52
+                                                     ========     ========     ========
+
+  Weighted average number of shares outstanding        55,019       54,810       53,788
+                                                     ========     ========     ========
+
+
+  Per share earnings are based upon the weighted average number of shares
+outstanding and have been adjusted for all stock splits.
+
+  See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+  CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+  Years ended December 31, 1994, 1993 and 1992
+  (dollar amounts, except per share amounts, in thousands)
+<TABLE>
+<CAPTION>
+
+                                                        1994         1993         1992
+                                                    ----------   ----------   ----------
+  <S>                                             <C>           <C>          <C>            
+  Common Stock:
+    Balance at beginning of year                  $    27,449       27,385       12,741
+       2-for-1 stock split                                  -            -       13,683
+       Shares issued for options exercised                 69           64           86
+       Shares issued in stock offering                      -            -          875
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $    27,518       27,449       27,385
+                                                    ==========   ==========   ==========
+  Capital Surplus:
+    Balance at beginning of year                  $   288,646      284,487      165,115
+       2-for-1 stock split                                  -            -      (13,683)
+       Shares issued for options exercised              5,110        4,159        6,875
+       Shares issued in stock offering                      -            -      126,180
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $   293,756      288,646      284,487
+                                                    ==========   ==========   ==========
+  Retained Earnings:
+    Balance at beginning of year                  $   941,775      852,956      816,604
+       Net earnings                                   177,623      137,032       81,552
+       Less cash dividends on common stock
+         ($.96, $.88, $.84 per share in
+         1994, 1993 and 1992 respectively)            (52,807)     (48,213)     (45,200)
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $ 1,066,591      941,775      852,956
+                                                    ==========    =========    =========
+
+  See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+  CONSOLIDATED STATEMENTS OF CASH FLOWS
+  Years ended December 31, 1994, 1993 and 1992
+  (dollar amounts in thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                            1994         1993         1992
+                                                          ---------    ---------    ---------
+  <S>                                                   <C>            <C>          <C>
+  Cash flows from operating activities:
+     Net earnings                                       $  177,623      137,032       81,552
+     Adjustments to reconcile net earnings
+        to net cash provided by operating activities:
+          Net change in accounting standards                     -      (26,364)           -
+          Depreciation                                     192,378      166,088      146,032
+          Cost of fee timber harvested                      19,810       21,611       22,650
+          Other amortization                                 5,064        6,503        5,102
+          Increase in deferred income taxes                 33,422       32,810       11,697
+     Changes in working capital items
+     (net of acquisitions):
+          Accounts receivable                              (75,894)     (24,365)      (7,413)
+          Inventories                                       12,972      (20,367)      (8,929)
+          Prepaid expenses and timber deposits              (5,265)      (7,018)      (4,959)
+          Accounts payable and accrued expenses             26,648        8,444       11,019
+          Federal and state taxes on income                 10,164        4,274        3,804
+                                                          ---------    ---------    ---------
+     Net cash provided by operating activities             396,922      298,648      260,555
+                                                          ---------    ---------    ---------
+  Cash flows from investing activities:
+        Proceeds from sale of equipment                      2,415        6,988        7,002
+        Expenditures for property, plant and equipment    (340,278)    (361,488)    (337,032)
+        Expenditures for timber and timberlands, net       (45,676)     (18,295)     (23,649)
+        Expenditures for roads and reforestation            (7,207)      (7,081)      (6,492)
+        Acquisitions, net of cash acquired                    -            -         (89,292)
+        Other                                               17,110      (10,719)       3,166
+                                                          ---------    ---------    ---------
+     Net cash used in investing activities                (373,636)    (390,595)    (446,297)
+                                                          ---------    ---------    ---------
+  Cash flows from financing activities:
+        Debt borrowing                                      29,000      388,929      190,259
+        Proceeds from sale of capital stock                  5,011        4,073      134,016
+        Cash dividends paid                                (52,807)     (48,213)     (45,200)
+        Payment on debt                                     (1,235)    (252,333)     (86,509)
+                                                          ---------    ---------    ---------
+     Net cash provided by financing activities             (20,031)      92,456      192,566
+                                                          ---------    ---------    ---------
+  Net change in cash                                         3,255          509        6,824
+  Cash at beginning of year                                  9,543        9,034        2,210
+                                                          ---------    ---------    ---------
+  Cash at end of year                                   $   12,798        9,543        9,034
+                                                           =======      =======      =======
+
+  Supplemental disclosures of cash flow information:
+
+      Cash paid during the year for:
+        Interest (net of amount capitalized)            $   70,791       65,183       62,998
+                                                           =======      =======      =======
+        Income taxes                                    $   67,714       41,416       32,399
+                                                           =======      =======      =======
+
+
+
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+  SUPPLEMENTAL BUSINESS SEGMENT INFORMATION
+  (dollar amounts in thousands)
+<TABLE>
+<CAPTION>
+
+                                                  1994   %        1993   %        1992   %        1991   %        1990   %
+                                             --------------  --------------  --------------  --------------  --------------
+  <S>                                      <C>               <C>             <C>             <C>             <C>           
+  Sales to outside customers:
+    Paper Group:
+      Fabricated paper products........... $ 1,475,593  49   1,232,311  47   1,098,777  46     958,615  48     916,618  48
+      Pulp and paper......................     410,365  14     360,014  14     381,529  16     392,910  19     377,729  20
+                                             -------------   -------------   -------------   -------------   -------------
+    Total Paper Group.....................   1,885,958  63   1,592,325  61   1,480,306  62   1,351,525  67   1,294,347  68
+                                             -------------   -------------   -------------   -------------   -------------
+    Building Materials Group:
+      Lumber .............................     188,445   6     184,287   7     147,886   6     112,423   6      81,938   4
+      Plywood ............................     441,397  15     425,387  16     397,332  17     296,550  15     288,428  15
+      Particleboard and MDF ..............     292,153  10     234,123   9     186,973   8     148,749   7     156,665   8
+      Other wood products.................     199,996   6     186,115   7     159,899   7      95,254   5      83,475   5
+                                             -------------   -------------   -------------   -------------   -------------
+    Total Building Materials Group........   1,121,991  37   1,029,912  39     892,090  38     652,976  33     610,506  32
+                                             -------------   -------------   -------------   -------------   -------------
+  Total net sales (1)..................... $ 3,007,949 100   2,622,237 100   2,372,396 100   2,004,501 100   1,904,853 100
+                                             =============   =============   =============   =============   =============
+  Intersegment sales at market value
+    Building Materials Group.............. $    36,121          39,113          38,128          34,253          31,514
+                                             =============   =============   =============   =============   ==============
+  Contribution to earnings (2):
+    Paper Group........................... $   124,856  34      53,655  21      95,970  49     119,719  83     196,405  82
+    Building Materials Group..............     241,957  66     202,721  79     101,629  51      24,256  17      42,929  18
+                                             -------------   -------------   -------------   -------------   -------------
+      Contribution to earnings ...........     366,813 100     256,376 100     197,599 100     143,975 100     239,334 100
+                                                       ===             ===             ===             ===             ===
+  Other income(expense)...................      (6,377)         (3,918)         (1,725)         (7,103)           (764)
+  Interest expense........................      71,513          63,290          66,422          63,263          29,899
+                                             ---------       ---------       ---------       ---------       ---------
+  Earnings before taxes and
+    accounting changes.................... $   288,923         189,168         129,452          73,609         208,671
+                                             =========       =========       =========       =========       =========
+  Identifiable assets:
+    Paper Group........................... $ 2,090,399       1,884,017       1,663,990       1,361,437       1,270,874
+    Building Materials Group..............     357,276         362,184         346,882         354,322         263,342
+    Timber, timberlands and related
+     facilities...........................     509,075         483,308         448,721         443,075         357,373
+    Corporate.............................      76,648          75,044          67,823          60,233          73,597
+                                             ---------       ---------       ---------       ---------       ---------
+                                           $ 3,033,398       2,804,553       2,527,416       2,219,067       1,965,186
+                                             =========       =========       =========       =========       =========
+
+  (1)  The Company has no foreign operations and is not dependent on any one significant customer or group
+       of customers.  Approximately 97% of the Company's total output is sold domestically.
+
+  (2)  "Contribution to earnings" is defined to be that amount of earnings generated before (a) unallocable
+       income, such as interest; (b) interest expense; and (c) income taxes.
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+  SELECTED QUARTERLY FINANCIAL DATA
+  (Unaudited) (dollar amounts, except per share amounts, in thousands)
+
+                                                 Earnings Before
+                                                Accounting Changes         Net Earnings
+                         Net        Gross     ---------------------     ------------------
+        1994            Sales       Profit      Amount    Per Share     Amount   Per Share
+- ------------------------------------------------------------------------------------------
+<S>                 <C>             <C>         <C>            <C>      <C>           <C>
+1st Quarter........ $   679,701     114,964      32,885        0.60      32,885       0.60
+2nd Quarter........     728,701     111,554      29,730        0.54      29,730       0.54
+3rd Quarter........     780,827     132,925      37,720        0.68      37,720       0.68
+4th Quarter........     818,720     192,069      77,288        1.41      77,288       1.41
+- ------------------------------------------------------------------------------------------
+Total.............. $ 3,007,949     551,512     177,623        3.23     177,623       3.23
+==========================================================================================
+
+                                                 Earnings Before
+                                                Accounting Changes         Net Earnings
+                         Net        Gross     ---------------------     ------------------
+        1993            Sales       Profit      Amount    Per Share     Amount   Per Share
+- ------------------------------------------------------------------------------------------
+                                                                    
+1st Quarter........ $   633,022     109,237      30,896        0.56      57,260       1.04
+2nd Quarter........     654,064     103,622      26,571        0.49      26,571       0.49
+3rd Quarter........     677,101     106,219      21,105        0.38      21,105       0.38
+4th Quarter........     658,050     111,711      32,096        0.59      32,096       0.59
+- ------------------------------------------------------------------------------------------
+Total.............. $ 2,622,237     430,789     110,668        2.02     137,032       2.50
+==========================================================================================
+</TABLE>
+<PAGE>
+Notes to Consolidated Financial Statements
+December 31, 1994, 1993 and 1992 (dollar amounts, except per share amounts,
+in thousands)
+
+1. Summary of Significant Accounting Policies
+   ------------------------------------------
+     (a)  Principles of Consolidation
+            The consolidated financial statements include the accounts of all
+          majority-owned subsidiaries.  All material intercompany balances
+          and transactions have been eliminated upon consolidation.
+
+     (b)  Inventories
+            Inventories are valued at the lower of cost or market.  Cost is
+          determined on the last-in, first-out (LIFO) method for all major
+          classes of inventory.  All other inventories are valued at average
+          cost.
+
+     (c)  Property, Plant and Equipment
+            Property, plant and equipment is carried at cost and includes
+          expenditures for new facilities and those which substantially
+          increase the useful lives of existing plants and equipment. 
+          Maintenance, repairs and minor renewals are expensed as incurred. 
+          When properties are retired or otherwise disposed of, the related
+          cost and accumulated depreciation are removed from the respective
+          accounts and any profit or loss on disposition is credited or
+          charged to income.  Depreciation is computed using the
+          straight-line method over the useful lives of the respective
+          assets.  Leasehold improvements are amortized over the terms of the
+          respective leases.
+
+     (d)  Timber, Timberlands and Related Facilities
+            These accounts are stated at their cost less the cost of fee
+          timber harvested and the amortization of logging roads. 
+          Amortization of logging roads is charged to expense as timber is
+          harvested.  Both the cost of fee timber harvested and amortization
+          rates are determined with reference to costs and the related
+          existing volume of timber estimated to be recoverable.
+            The Company obtains a portion of its timber requirements from
+          various public and private sources under timber harvesting
+          contracts.  The Company does not incur a direct liability for, or
+          ownership of, this timber until it has been harvested; therefore,
+          the timber is not recorded until cut.
+
+     (e)  Income Taxes
+            Deferred income taxes are provided to reflect the tax effect of
+          temporary differences in reporting income and deductions for tax
+          purposes.
+            Effective January 1, 1993, the Company adopted the provisions of
+          SFAS #109 "Accounting for Income Taxes" which requires deferred
+          taxes payable in the future to be reflected at current statutory
+          tax rates.  This change resulted in a credit to net earnings and a
+          reduction in the deferred tax liability by a corresponding amount
+          of $40,000 or $.73 per share.
+
+     (f)  Capitalized Interest
+            Interest is capitalized on funds borrowed during the construction
+          period on certain assets.  Capitalized interest in 1994, 1993 and
+          1992 was $9,294, $15,904 and $7,354 respectively and is netted
+          against interest expense in the consolidated statement of earnings. 
+          Such capitalized interest will be amortized over the depreciable
+          life of the related assets.
+
+2. Inventories
+   -----------
+  The major components of inventories for the two years ended December 31,
+1994 are as follows:
+                                                   December 31,      
+                                              -----------------------
+                                              1994             1993  
+                                            --------         --------
+Finished product.......................     $ 72,229           78,197
+Work in progress.......................        6,794            6,205
+Raw material...........................      114,596          128,312
+Supplies...............................       62,472           56,349  
+                                            --------          -------
+                                            $256,091          269,063 
+                                             =======          =======
+Valued at:
+  LIFO cost............................     $167,481          185,424
+  Average cost.........................       88,610           83,639
+
+  If current cost rather than LIFO cost had been used by the Company, inven-
+tories would have been approximately $81,081 and $59,910 higher in 1994 and
+1993 respectively.
+
+3. Income Taxes
+
+   The provision for income taxes includes the following:
+
+                                          1994       1993       1992 
+                                        -------     ------     ------
+
+Payable from taxable earnings..........$ 77,478     37,690     17,203
+Payable (reduction) due to AMT.........     400      8,000     19,000
+                                        -------     ------     ------
+Currently payable......................  77,878     45,690     36,203
+Deferred taxes due to temporary
+   differences for:
+      Accelerated depreciation.........  32,213     24,824     10,143
+      Increase in Federal corporate
+         tax rate by 1%................     -        5,864        -   
+      Other............................   1,209      2,122      1,554
+                                        -------     ------     ------
+         Total deferred................  33,422     32,810     11,697
+                                        -------     ------     ------
+         Total provision...............$111,300     78,500     47,900
+                                        =======     ======     ======
+
+Federal income taxes...................$ 95,000     67,000     40,400
+State income taxes.....................  16,300     11,500      7,500
+                                        -------     ------     ------
+                                       $111,300     78,500     47,900
+                                        =======     ======     ======
+
+   The Company has no foreign pretax income.  The Company's deferred income
+tax liability is mainly due to depreciation.  Differences between the
+effective tax rate and the Federal statutory rate are shown in the following
+table as a percentage of pretax income:
+<PAGE>
+                                                1994    1993    1992
+                                                ----    ----    ----
+Federal statutory rate.......................   35.0%   35.0%   34.0%
+State income taxes, net of 
+  Federal tax effect.........................    3.7     4.0     3.8
+Adjustment to deferred taxes due to increase
+  in Federal corporate tax rate by 1%........      -     3.1       -
+Other........................................    (.2)    (.6)    (.8)
+                                                ----    ----    ----          
+                                                  38.5%   41.5%   37.0%
+                                                ====    ====    ====
+
+  The Company's consolidated Federal income tax returns for 1978 through 1989
+have been examined by the Internal Revenue Service and while final settlement
+has not been made, management believes that the Company has provided for all
+deficiencies that ultimately might be assessed.            
+
+  The Tax Reform Act of 1986 expanded the corporate alternative minimum tax
+(AMT).  Under this Act, the Company's tax liability is the greater of its
+regular tax or the AMT.  To the extent the Company's AMT liability exceeds
+its regular tax liability, the AMT liability may be applied against future
+regular tax liabilities.  The Company expects to utilize future AMT credits
+as taxable income increases and current temporary differences reverse.  At
+December 31, 1994, the Company had AMT credits of $51,400 which have been
+offset against deferred income taxes related to depreciation.  No valuation
+allowance is required for these credits.
+
+  In August 1993, the Federal corporate tax rate increased to 35% retroactive
+to January 1, 1993, impacting both the current year's provision for income
+taxes and the deferred tax liability.  Accounting standards required that the
+cumulative impact of the increase in rate ($5,864 or $.11 per share) be
+charged to income in the third quarter of 1993 with a corresponding increase
+in the deferred tax liability.  
+
+4. Long-term Debt
+   --------------
+  Long-term debt consists of the following:
+
+                                                    December 31,    
+                                              ----------------------
+                                                1994          1993  
+                                              --------      --------
+Notes payable to public:
+  9.55%, due in 1995.......................   $100,000       100,000
+  7.00%, due in 1998.......................    100,000       100,000
+  9.625%, due in 2000......................    150,000       150,000
+  7.75%, due in 2002.......................    100,000       100,000
+  9.125%, due in 2003......................     50,000        50,000
+  9.00%, due in 2021.......................    150,000       150,000
+
+Medium-term notes, with interest
+  rates ranging from 5.66% to 7.30%,
+  due in varying amounts through 2013......    150,000       150,000
+
+Bank term loan, with interest rates
+  averaging 6.28% and 3.59%, due in 1996...    100,000        75,000
+
+<PAGE>
+Revenue bonds, with interest
+  rates averaging 5.39% and 4.86%,
+  due in varying amounts
+  through 2023.............................     62,067        62,704        
+
+Other long-term debt, with
+  interest rates averaging
+  8.20% and 6.28%, due in
+  varying amounts through 2006..............     4,686         5,284        
+                                              --------      --------
+                                               966,753       942,988
+Less: Current installments..................    50,956         1,278       
+                                              --------      --------
+                                              $915,797       941,710
+                                              ========      ========
+                                                        
+  Principal payment requirements on the above debt for the four years subse-
+quent to 1995 are:  1996, $103,543; 1997, $713; 1998, $152,733; 1999, $753.
+
+  The Company has made arrangements to refinance $50,000 of the note due in
+1995 on a long-term basis.  The balance of this note will be repaid with
+internally generated cash flow or short-term borrowing.
+
+  The Company utilized short-term borrowings with a number of banks at
+various times during 1994 and 1993 with $100,000 outstanding at December 31,
+1994.  Such borrowings were backed by a line of credit which carried fees at
+market rates.  Other uncommitted lines of credit are available.  Interest is
+based upon prevailing short-term rates in effect at the time of the
+transaction.  Information on short-term debt during 1994 and 1993 is as
+follows:
+
+
+                                                  1994         1993     
+                                                --------     --------
+                                                         
+Average daily short-term debt outstanding...    $124,767       68,947        
+Weighted average interest rate..............        4.51%        3.29%       
+
+
+
+  The fair value of the Corporation's long-term debt is not materially
+different than the amount shown on the face of the balance sheet at December
+31, 1994.  The Company does not have any derivative financial instruments.
+
+5. Pension and Retirement Plans
+   ----------------------------
+
+  The Company contributes to multi-employer retirement plans at fixed
+payments per hour for certain hourly employees.
+
+DEFINED BENEFIT PLANS
+
+  Substantially all other employees of the Company are covered by
+noncontributory defined benefit plans.  Under the salaried plan, retirement
+benefits are based on both years of service and the highest five consecutive
+years of compensation prior to retirement.  Plans covering hourly employees
+provide benefits of stated amounts for each year of service.  Total pension
+expense in 1994, 1993 and 1992 for all such plans was $9,580, $6,429 and
+$6,227 respectively.  
+
+  The Company makes annual contributions to the plans that are between the
+minimum amounts required by the Employee Retirement Income Security Act and
+the maximum amounts deductible under current tax regulations.  Such
+contributions are intended to provide not only for benefits attributed to
+service to date, but also for those expected to be earned in the future.
+
+  The net periodic pension cost for 1994, 1993 and 1992 included the
+following components:
+                                               1994     1993     1992
+                                               ----     ----     ----
+                                                      
+Service cost of benefits earned 
+  during the period ...................      $11,061    9,158    8,201 
+Interest cost on projected
+  benefit contribution ................       16,843   16,026   14,689
+Actual return on assets ...............       (2,071) (31,748) (23,611) 
+Net amortization and deferral .........      (21,470)   9,066    3,139
+                                              ------   ------   ------
+Net periodic pension cost .............      $ 4,363    2,502    2,418
+                                              ======   ======   ======
+
+   The following table sets forth the plans' funded status and amount
+recognized in the Company's consolidated financial statements at December 31,
+1994 and 1993:
+                                          December 31                      
+                   ---------------------------------------------------------
+                              1994                          1993          
+                   ---------------------------   ---------------------------
+                   Assets Exceed  Accumulated    Assets Exceed  Accumulated
+                    Accumulated     Benefits      Accumulated     Benefits
+                     Benefits    Exceed Assets     Benefits    Exceed Assets
+                   ------------- -------------   ------------- -------------
+Actuarial present
+  value of benefit
+  obligations:
+Vested benefit 
+  obligation        $(169,342)     ( 28,431)     (177,147)      (26,983)
+                      =======       =======       =======        ======     
+Accumulated 
+  benefit 
+  obligation        $(171,538)     ( 28,725)     (179,376)      (27,787)
+                      =======       =======       =======        ======     
+                                             (table continued on next page)
+<PAGE>
+Projected 
+  benefit 
+  obligation        $(203,695)      (30,328)     (217,459)      (27,787)
+Plan assets 
+  at fair value       252,327        22,557       262,097        20,737
+                      -------       -------       -------        ------     
+Plan assets
+  greater (less)  
+  than projected
+  benefit 
+  obligation           48,632        (7,771)       44,638        (7,050)
+Unrecognized 
+  net (gain) loss     (43,071)          129       (36,432)        1,077
+Prior service 
+  cost not yet
+  recognized in 
+  net periodic
+  pension cost          6,050         3,321         6,088         1,465
+
+Unrecognized 
+  obligation, 
+  net of
+  amortization         (6,169)           71       (7,718)         (306)
+                      -------       -------       -------        ------     
+Prepaid pension 
+  cost(pension
+  liability)
+  recognized         $  5,442        (4,250)        6,576        (4,814)
+                      =======       =======       =======        ======     
+
+  The weighted average discount rate and rate of increase in future
+compensation levels used in determining the actuarial present value of the
+projected benefit obligation were 8% and 5.5% in 1994 and 7% and 5% in 1993. 
+The expected long-term rate of return on assets was 9%. Substantially all
+plan assets are invested in stocks, bonds and cash equivalents.
+
+CONTRIBUTORY PLANS
+
+  The Company covers all salaried employees and some hourly employees under
+stock purchase plans.  The salaried stock purchase plan allows employees to
+contribute up to 7% of their salary (which the Company matches up to 6%). 
+Total stock purchase plan expense was $8,925, $8,417 and $7,268 in 1994, 1993
+and 1992 respectively.
+
+POSTRETIREMENT BENEFIT PLANS
+
+  Effective January 1, 1993, the Company adopted the provisions of SFAS #106
+"Employers Accounting for Postretirement Benefits Other Than Pensions" which
+resulted in a change in accounting for such benefits from the "pay-as-you-go"
+basis to the accrual basis.  
+
+  The Company has a contributory postretirement health plan primarily
+covering its salaried employees.  Employees become eligible for these
+benefits if they meet minimum age and service requirements.  The accumulated
+postretirement benefit obligation (APBO) as of January 1, 1993 was $21,995
+and was recorded as a charge, net of tax, against income on a cumulative
+basis in the amount of $13,600 or $.25 per share.  The APBO as of December
+31, 1994 and 1993 was:
+
+                                                      1994         1993  
+                                                    -------      -------
+Retirees.......................................     $10,718      $11,870
+Other fully eligible participants..............       4,339        4,627
+Other active participants......................       9,896        9,913
+                                                    -------      -------
+                                                     24,953       26,410
+Unrecognized loss..............................        (688)      (2,925)
+                                                    -------      -------
+APBO recognized in balance sheet...............     $24,265      $23,485
+                                                    =======      =======
+
+  Weighted average discount rates of 8% and 7% were used in determining the
+APBO at December 31, 1994 and 1993 respectively.
+
+  The components of net periodic postretirement expenses are as follows:
+
+                                                       1994        1993  
+                                                     -------      ------
+Service cost benefits earned in period..........     $   826     $   675
+Interest cost on accumulated benefit obligation.       1,811       1,725
+Amortization of (gain) loss from earlier periods          60           -
+                                                     -------      ------
+Net expense.....................................     $ 2,697     $ 2,400
+                                                     =======      ======
+
+  Weighted average discount rates of 7% and 8% were used to determine the
+interest cost component of the 1994 and 1993 net periodic expense.
+  
+  For the year 1994, a 10.5% increase in the medical cost trend rate was
+assumed.  This rate decreases incrementally to an annual rate of 5% after 11
+years.  A 1% increase in the medical trend rate would increase the APBO by
+$3,000 and increase the net periodic postretirement expense by $330.
+
+6. Stockholders' Equity
+   --------------------
+   The Company has a Stock Option and Stock Appreciation Rights Plan (the
+Plan).  The Plan provides that options be granted at exercise prices not less
+than market value on the date the option is granted.  Options granted
+generally become exercisable after one year in 33-1/3% increments per year
+and expire ten years from the date of grant.  The Company has reserved
+3,000,000 shares for distribution under the Plan.  A summary of stock option
+activity related to the Plan is as follows:
+                                                       Option Price
+                                        Shares          Per Share  
+                                       ---------       ------------
+                                                
+Outstanding December 31, 1991          1,172,020       16.75-28.875
+   Granted                               182,400             38.875
+   Exercised                             323,990       16.75-28.875
+   Canceled or surrendered                23,858       16.75-28.875
+                                       ---------       ------------
+
+Outstanding December 31, 1992          1,006,572       16.75-38.875
+   Granted                               259,150             39.25
+   Exercised                             137,459       16.75-38.875
+   Canceled or surrendered                 1,460       38.875-39.25
+                                       ---------       ------------
+
+Outstanding December 31, 1993          1,126,803       16.75-39.25
+   Granted                               259,420             45.375
+   Exercised                             143,045       16.75-39.25
+   Canceled or surrendered                10,367       16.75-45.375
+                                       ---------       ------------
+
+Outstanding December 31, 1994          1,232,811      $16.75-45.375
+                                       =========       ============
+
+Shares exercisable                       776,305      $16.75-45.375
+                                       =========       ============
+
+   In addition, stock appreciation rights (SARs) which have been awarded and
+are outstanding to officers of the Company amount to 88,790 shares,  of these
+4,110 with a basis of $16.75; 2,410 with a basis of $28.875; 10,400 with a
+basis of $24.25; 31,250 with a basis of $23.25 and 40,620 with a basis of
+$26.25 were available for exercise at December 31, 1994.  On exercise of the
+SAR, the holder receives in cash an amount equal to the difference between
+the market price of the common stock at the date the SAR is exercised and the
+basis of the SAR.
+
+  Under the Plan, a committee of the Board of Directors of the Company is
+authorized to issue up to 500,000 restricted shares of common stock to
+eligible employees.  These shares are subject to certain transfer
+restrictions, including the passage of time, and vesting may be dependent
+upon continued employment, the attainment of performance goals, or both.  The
+Company has awarded 36,425 restricted shares of common stock to certain
+officers at no cost.  These shares will vest in one-third annual increments
+beginning after three years of continuous employment.  At December 31, 1994,
+17,551 restricted shares have not yet vested and 18,874 have been either
+issued or cancelled.  Unearned compensation, representing the fair market
+value of the shares at the date of issuance, is charged to income over the
+vesting period.
+
+   The Company has a shareholder rights plan providing for the distribution
+of rights to shareholders ten days after a person or group (an "acquiring
+person") becomes the owner of 20% or more of the Company's common stock or
+makes a tender offer or exchange offer which would result in the ownership of
+30% or more of the common stock.  Once the rights are distributed, each right
+becomes exercisable to purchase, for $175, 1/100th of a share of new series
+of Company preferred stock, which 1/100th share is intended to equal one
+common share in market value.  Ten days after an acquiring person becomes the
+owner of 20% or more of the Company's common stock, each right (other than
+rights held by the acquiring person) becomes exercisable to purchase for
+$175, common shares with a market value of $350.  The rights will expire in
+2000 and may be redeemed at $.01 per right any time prior to the tenth day
+after an acquiring person becomes the owner of 20% or more of the common
+stock.
+
+7. Business Segments
+   -----------------
+   The Company operates in two principal business segments:  Paper Products
+and Building Materials.  Timber, timberlands and related facilities have not
+been allocated to the two segments because they are managed to supply raw
+materials to both segments.  Information with respect to the sales, operating
+income and identifiable assets of these segments is included in the five-year
+comparison on page 24.  Information with respect to depreciation, cost of fee
+timber harvested, amortization and capital expenditures for the years ended
+December 31, 1994, 1993 and 1992 is shown below:
+
+                                              Depreciation,
+                                      Cost of Fee Timber Harvested
+                                            and Amortization      
+                                      ----------------------------
+                                         1994     1993     1992
+                                         ----     ----     ----
+                                                 
+Paper Products.............            $152,983  129,069  111,661        
+Building Materials.........              44,459   43,522   39,473
+Timber, timberlands and 
+   related facilities......              19,810   21,611   22,650
+                                        -------  -------  ------- 
+                                       $217,252  194,202  173,784 
+                                        =======  =======  ======= 
+
+<PAGE>
+                                           Capital Expenditures  
+                                       --------------------------
+                                          1994     1993     1992
+                                          ----     ----     ----
+Paper Products.............            $298,931  323,952  300,505 
+Building Materials.........              41,347   37,536   36,527
+Timber, timberlands and 
+   related facilities......              52,883   25,376   30,141
+                                        -------  -------  -------
+                                       $393,161  386,864  367,173
+                                        =======  =======  =======
+
+8. Property, Plant and Equipment
+   -----------------------------
+   Property, plant and equipment accounts are summarized as follows:
+
+                             Principal
+                             range of             December 31     
+                            useful lives        1994        1993      
+                            ------------      --------    --------
+Land........................        -        $  28,933      26,593     
+Building materials
+   manufacturing facilities.    10 - 25        518,295     494,833
+Paper products
+   manufacturing and
+   converting facilities....    10 - 30      2,383,177   1,977,473
+Furniture and fixtures......     3 - 10         58,930      47,482    
+Leasehold improvements......  life of lease      6,195       6,036
+Construction in progress....                   169,857     287,506
+                                             ---------   ---------
+                                             3,165,387   2,839,923
+Accumulated depreciation....                 1,301,882   1,121,860 
+                                             ---------   ---------
+                                            $1,863,505   1,718,063
+                                             =========   =========
+
+9. Contingencies
+   -------------
+   There are various lawsuits, claims and environmental matters pending
+against the Company.  While any proceeding or litigation has an element of
+uncertainty, management believes that the outcome of any lawsuit or claim
+that is pending or threatened, or all of them combined will not have a
+material adverse effect on the Company's financial condition or operations.
+ 
+10. Acquisition of Corrugated Facilities
+    ------------------------------------
+   On June 30, 1992, the Company acquired eleven corrugated facilities from
+Boise Cascade Corporation for cash including inventories and certain other
+assets and liabilities.  The acquisition was accounted for as a purchase.  
+
+   Supplemental information concerning the acquisition follows:
+
+
+Cash purchase price....................         $ 89,292  
+                                                 =======
+Purchase was allocated to:
+   Non-cash working capital............         $ 10,578  
+   Plant and equipment.................           78,714
+                                                 -------
+                                                $ 89,292 
+                                                 =======
+<PAGE>
+                              INDEX TO EXHIBITS
+
+
+EXHIBIT
+- -------
+2.      Not applicable.
+
+3A.     Third Restated Articles of Incorporation of the registrant. 
+        Incorporated by reference from Exhibit 3A of the registrant's annual
+        report on Form 10-K for the year ended December 31, 1993 ("1993 Form
+        10-K").
+
+3B.     Bylaws of the registrant as amended through November 11, 1993. 
+        Incorporated by reference from Exhibit 3B of the 1993 Form 10-K.
+
+4A.     Indenture dated as of March 15, 1983, between registrant and The
+        Chase Manhattan Bank.  Incorporated by reference from Exhibit 4A of
+        the registration statement on Form S-3 effective December 13, 1985
+        (File No. 33-1876).  [89]
+
+4A1.    Terms of the series of 9.55% Notes due 1995 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A4 of the
+        registrant's annual report on Form 10-K for the year ended
+        December 31, 1990 ("1990 Form 10-K").  [5]
+
+4A2.    Terms of the series of 9.625% Notes due 2000 and form of Note for
+        such series.  Incorporated by reference from Exhibit 4A5 of the 1990
+        Form 10-K.  [5]
+
+4A3.    Terms of the series of 9.125% Notes due 2003 and form of Note for
+        such series.  Incorporated by reference from Exhibit 4A6 of the
+        registrant's annual report on Form 10-K for the year ended
+        December 31, 1991 ("1991 Form 10-K").  [5]
+
+4A4.    Terms of the series of 9.0% Notes due 2021 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A7 of the 1991
+        Form 10-K.  [5]
+
+4A5.    Terms of the series of 7.75% Notes due 2002 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A8 of the
+        registrant's annual report on Form 10-K for the year ended
+        December 31, 1992.  [5]
+
+4A6.    Form of Note for the series of 7.0% Notes due 1998 in the aggregate
+        principal amount of $100,000,000.  Incorporated by reference from
+        Exhibit 4D of the registrant's current report on Form 8-K dated
+        December 29, 1992.  [5]
+
+4B.     Indenture dated as of January 30, 1993 between the registrant and The
+        Chase Manhattan Bank.  Incorporated by reference from Exhibit 1B of
+        the registration statement on Form S-3 effective March 1, 1993
+        (File No. 33-58044) ("1993 Form S-3).  [82]
+
+4B1.    Form of Medium-Term Note (fixed rate) for the Medium-Term Notes,
+        Series A.  Incorporated by reference from Exhibit 4D to the 1993
+        Form S-3.  [2]
+
+4B2.    Terms of the Medium-Term Notes, Series A, due 1998-2013. 
+        Incorporated by reference from Exhibit 4B2 to the 1993 Form 10-K. 
+        [1]
+
+4C.     Preferred Stock Purchase Rights of Willamette Industries, Inc. 
+        Incorporated by reference from Exhibit 2 of the registrant's Form 8-A
+        filed February 26, 1990.  [61]
+
+9.      Not applicable.
+
+10A.    Willamette Industries, Inc. Deferred Compensation Plan for Directors. 
+        Incorporated by reference from Exhibit 10 of the registrant's annual
+        report on Form 10-K for the year ended December 31, 1983.*  [5]
+
+10B.    Willamette Industries, Inc. 1986 Stock Option and Stock Appreciation
+        Rights Plan, as amended.  Incorporated by reference from Exhibit 10B
+        of the 1990 Form 10-K.*  [6]
+
+10C.    Willamette Industries, Inc. Retirement Plan for Non-Employee
+        Directors.  Incorporated by reference from Exhibit 10 of the 1989
+        Form 10-K.*  [2]
+
+10D.    Willamette Industries Inc. Severance Agreement with Key Management
+        Group.  Incorporated by reference from Exhibit 10 of the 1991
+        Form 10-K.*  [13]
+
+10E.    Willamette Industries 1993 Deferred Compensation Plan.  Incorporated
+        by reference from Exhibit 10E to the 1993 Form 10-K.*  [16]
+
+10F.    Willamette Industries 1995 Long-Term Incentive Compensation Plan.* 
+        [12]
+
+11.     Computation of per share earnings is obtainable from the financial
+        statements filed with this annual report on Form 10-K.
+
+12.     Computation of Ratio of Earnings to Fixed Charges.  [1]
+
+13.     Not applicable.
+
+16.     Not applicable.
+
+18.     Not applicable.
+
+21.     Omitted because the registrant's subsidiaries considered in the
+        aggregate as a single subsidiary do not constitute a significant
+        subsidiary.
+
+22.     Not applicable.
+
+23.     Consent of Independent Auditors to the incorporation by reference of
+        their report dated February 9, 1995, in the registrant's registration
+        statements on Forms S-3 and S-8.  [1]
+
+24.     Not applicable.
+
+27.     Financial Data Schedule.  [1]
+
+28.-99. Not applicable.
+
+        The registrant will furnish a copy of any exhibit to this annual
+report on Form 10-K to any security holder for a fee of $0.30 per page to
+cover the registrant's expenses in furnishing the copy.  The number of pages
+of each exhibit is indicated in brackets at the end of each exhibit
+description.
+
+- ---------------------
+
+*Management contract or compensatory plan or arrangement.
+
+Note:   Certain instruments with respect to the long-term debt of the
+        registrant are not filed herewith where the total amount of
+        securities authorized thereunder does not exceed 10 percent of the
+        total assets of the registrant and its subsidiaries on a consolidated
+        basis.  The registrant agrees to furnish copies of such instruments
+        to the Commission on request.
+<PAGE>
+
+</TEXT>
+
+</DOCUMENT>
+
+<DOCUMENT>
+<TYPE>EX-10.F
+<SEQUENCE>2
+<DESCRIPTION>1995 LONG-TERM INCENTIVE COMPENSATION PLAN
+<TEXT>
+
+<PAGE>
+                                EXHIBIT 10.F
+
+
+                            WILLAMETTE INDUSTRIES
+                          1995 LONG-TERM INCENTIVE
+                              COMPENSATION PLAN
+
+
+          1.  General.  Pursuant to the terms and conditions of the
+WILLAMETTE INDUSTRIES 1995 LONG-TERM INCENTIVE COMPENSATION PLAN (the
+"Plan"), hereinafter set forth, the Committee specified in Article 2 may from
+time to time grant or award to eligible employees of Willamette Industries,
+Inc. ("Company"), and of those corporations ("Subsidiaries") in which Company
+owns at least 50 percent of the total combined voting power of all classes of
+stock, options to purchase shares of the $.50 par value common stock
+("Stock") of Company, stock appreciation rights, and restricted Stock.  In
+addition, the Plan provides for the automatic grant of options to
+Non-Employee Directors as defined in Article 8.  Such options, stock
+appreciation rights, and restricted Stock are sometimes referred to
+collectively as "grants and awards."  The purpose of the Plan is to motivate
+special achievement by officers and other key employees of Company and its
+Subsidiaries by assisting them in acquiring or increasing an equity interest
+in Company, and, in the case of Non-Employee Directors, to align their
+interest more closely to that of Company.  The options shall be nonqualified
+stock options subject to Section 83 of the Internal Revenue Code, and not
+incentive stock options subject to Section 422A of the Internal Revenue Code.
+
+          2.  Administration.  The Board of Directors of Company ("the
+Board") shall designate a Committee of not less than two members of the Board
+("the Committee") who shall administer the Plan and serve at the pleasure of
+the Board.  The number and identity of the members of, and any name given to
+the Committee, may be changed by the Board at any time and from time to time. 
+The Committee may also have other duties, as would be the case if the Board
+should designate the Company's Compensation and Nomination Committee (or a
+successor thereto) to act as the Committee under the Plan.  No person shall
+be eligible or continue to serve as a member of the Committee unless such
+person is a "disinterested person" within the meaning of Rule 16b-3 ("Rule
+16b-3") of the General Rules and Regulations under the Securities Exchange
+Act of 1934, as amended (the "Exchange Act"), or any law, rule, regulation,
+or other provision that may hereafter replace such rule.  Also, unless the
+Board determines otherwise, members of the Committee must be "outside
+directors" within the meaning of Section 162(m) of the Internal Revenue Code
+of 1986, as amended, and the rules thereunder.  Subject to the express
+provisions of the Plan, the Committee shall have full and final authority,
+acting in its sole discretion, to interpret the Plan, to establish rules and
+regulations relating to the Plan, and to take such action and make such
+determinations as the Committee may deem necessary or advisable in the
+administration of the Plan.  However, Committee shall have no discretion as
+to any aspect of grants to Non-Employee Directors; these grants shall be
+governed by Article 8.  No member of the Committee shall be liable for any
+action or determination made in good faith with respect to the Plan or any
+grant or award made thereunder, nor be liable for any good faith reliance
+upon any report or other information furnished to the Committee by Company's
+officers, its independent public accountants, or by any other person or
+entity.
+
+          3.  Eligibility.  Except as otherwise provided in Article 8,
+employees eligible to receive grants and awards under the Plan shall be such
+key employees (including officers, regardless whether they are directors) of
+Company and its Subsidiaries as may be selected from time to time by the
+Committee.  Except for the provisions in Articles 5, 6, and 7 setting a
+per-employee maximum limit on the number of stock options, stock appreciation
+rights, or shares of restricted Stock whose vesting is based on attainment of
+one or more performance goals, no provision of the Plan shall be construed to
+prohibit the Committee from making additional grants or awards  under the
+Plan to employees who have previously received grants or awards.  No
+provision of the Plan shall be construed as automatically entitling an
+employee to a grant or award, regardless whether the employee has received a
+grant or award in a prior year or has attained a particular executive
+position or salary level.
+
+          4.  Shares Subject to the Plan.  Subject to Article 16 hereof, the
+total number of shares of Stock issuable under the Plan shall not exceed
+2,750,000.  For purposes of this limitation, (a) any option or stock
+appreciation right which terminates or expires without exercise shall
+thereafter be deemed not to have been granted, and (b) shares of restricted
+Stock which are forfeited shall thereafter be deemed not to have been issued. 
+Shares of Stock available for issue under the Plan shall be authorized and
+unissued shares or shares acquired by Company and held in treasury.
+
+          5.  Stock Options.  The Committee may from time to time grant
+options to eligible employees.  Subject to appropriate adjustment pursuant to
+Article 16, no employee may receive, under the Plan, stock options or stock
+appreciation rights which in the aggregate would exceed 350,000 shares of
+Stock.  The price at which a share of Stock may be purchased on exercise of
+an option shall be fixed by the Committee at the date of grant of such option
+and shall not be less than the fair market value of a share of Stock at that
+date.  Fair market value, as used in this Article 5 and elsewhere in the
+Plan, shall, unless the Committee shall determine otherwise, be the closing
+price of Stock on the date the option is granted as reported on the NASDAQ
+national market system for such date or, if such closing price is not
+available for a date (because the date is not a trading day or otherwise),
+for the next preceding date for which such closing price is available.
+
+          At the time an option is granted, the Committee shall specify the
+period during which it is not exercisable, and whether the option is to be
+thereafter exercisable in full or in installments.  The Committee may also
+specify that all the shares become exercisable no later than upon termination
+of employment for certain reasons, such as death, disability, or retirement. 
+The Committee may at any time after the grant accelerate the exercisability
+of the option.  Options granted under the Plan shall expire not more than ten
+years and two days from the date of the grant of the option as specified by
+the Committee (the "stated period of the option") at date of grant.
+
+          No employee to whom an option is granted shall be entitled to any
+of the rights of a shareholder of Company with respect to any shares covered
+by the option until certificates representing such shares have been issued to
+the employee.
+
+          No option may be transferred except by will or the laws of descent
+and distribution and, during the lifetime of an employee to whom an option is
+granted, such option may be exercised only by the employee, the employee's
+guardian or legal representative.  Notwithstanding the foregoing, the
+Committee, in its sole discretion, may include in the agreement referred to
+in Article 12 evidencing the grant of an option to an employee a provision
+permitting the employee to transfer such option upon the terms and conditions
+specified in such agreement, provided that the foregoing provisions of this
+sentence shall apply to any person subject to the reporting provisions of
+Section 16(a) of the Exchange Act only to the extent that the exemption given
+by Rule 16b-3 shall continue to be available to the grant of such option.
+
+          Upon termination of employment for any reason other than death,
+disability, or retirement ("disability" and "retirement" are defined in
+Article 10) of an employee to whom an option has been granted, the employee
+may, at any time prior to the earlier of (a) 30 days after termination of
+employment or (b) the expiration of the stated period of the option, exercise
+the option to the same extent, if any, that the option was exercisable by the
+employee on the date of termination of employment under the terms of the
+option.  Notwithstanding the foregoing, the Committee may in its discretion,
+after giving consideration to the circumstances of the termination of
+employment of an employee to whom an option has been granted, extend said
+30-day period to a period of three years after termination of employment. 
+The option shall expire on the date of termination of employment to the
+extent it was not then exercisable and otherwise shall expire upon the
+earlier of 30 days (three years, if the Committee has extended the period)
+after termination of employment or the expiration of the stated period of the
+option.
+
+          Upon the termination of employment by reason of death, disability,
+or retirement of an employee to whom an option has been granted, the employee
+(or, in case of death, any person or persons, including the legal
+representative of the employee's estate, to whom the option passes by will or
+by the laws of descent and distribution) may, at any time prior to the 
+expiration of the stated period of the option, exercise the option to the
+same extent, if any, that the option was exercisable by the employee on the
+date of termination of employment under the terms of the option.  The option
+shall expire on the date of termination of employment to the extent it was
+not then exercisable and otherwise shall expire upon the expiration of the
+stated period of the option.
+
+          Payment upon exercise of an option shall be made in cash, by
+certified check or bank draft payable to the order of Company or, at the
+Committee's discretion, in whole or in part in any other form, including by
+personal check or by the delivery to Company of shares of Stock previously
+acquired by the employee or by any combination of the foregoing.
+
+          6.  Stock Appreciation Rights.  The Committee may from time to time
+award stock appreciation rights to eligible employees and determine the base
+price for each stock appreciation right (which may be higher than, equal to,
+or less than the fair market value of a share of Stock on the date of award). 
+A "stock appreciation right" is a right to receive cash as provided in this
+Article 6.  Subject to appropriate adjustment pursuant to Article 16, no
+employee may receive, under the Plan, stock options or stock appreciation
+rights which in the aggregate would exceed 350,000 shares of Stock.
+
+          Upon the exercise of a stock appreciation right, the optionee shall
+be entitled to the excess of the fair market value of one share of Stock on
+the date of such exercise over the base price specified in the award
+agreement for the stock appreciation right.
+
+          Except as otherwise provided in this Article 6, the terms and
+conditions relating to exercise and expiration of stock appreciation rights
+shall be as determined by the Committee under the same rules as provided in
+Article 5 for stock options and shall be subject to the same restraints on
+transferability, except that the exercise of stock appreciation rights shall
+be subject to such conditions as are required to prevent the employee from
+incurring liability under Section 16(b) of the Exchange Act.
+
+          7.  Awards of Restricted Stock.  The Committee may from time to
+time make awards of restricted Stock under the Plan to eligible employees. 
+An award may be either of two types:
+
+          (a)  Stock whose vesting is based on years of continuous
+     employment after the date of award.
+
+          (b)  Stock whose vesting is based on attainment of one or more
+     performance goals.
+
+          Years of Continuous Employment.  At the time of an award of shares
+whose vesting is based on years of continuous employment, the Committee shall
+specify the number of continuous years of employment required for vesting,
+except that full vesting shall occur no later than upon termination of
+employment by reason of death, disability, or retirement ("disability" and
+"retirement" are defined in Article 10).  The Committee may at any time after
+the award accelerate the vesting as to part or all the shares awarded.  There
+is no per-employee maximum limit on the number of shares of restricted Stock
+whose vesting is based on years of continuous employment.
+
+          Attainment of Goals.  At the time of an award of shares whose
+vesting is based on attainment of performance goals, the Committee shall
+specify the performance goal or goals which must be attained, and the date by
+which they must be attained, in order to cause the shares to vest.  The
+performance goal or goals shall be one or more of earnings per share, return
+on equity, return on assets, growth in earnings, growth in sales revenue,
+corporate profitability, or shareholder returns.  These can be measured in
+comparison to the performance of a group of peer companies selected by the
+Committee or based on Company's results.  Notwithstanding the foregoing, full
+vesting shall occur upon death or disability.  Also, the Committee may, in
+its discretion, at the time an award is made, specify that the shares shall
+become fully vested upon retirement in the event retirement occurs before the
+attainment of the performance goal or goals.  If the specified performance
+goal or goals are not met within the time specified, the nonvested shares
+subject to such goal or goals shall be forfeited.  Furthermore, upon
+termination of employment for any reason other than death, disability, or (in
+those cases where the Committee has specified full vesting on retirement)
+retirement of an employee to whom an award has been made, any nonvested
+shares shall be forfeited.  Subject to appropriate adjustment pursuant to
+Article 16, no employee may receive, under the Plan, more than 50,000 shares
+of restricted Stock whose vesting is based on attainment of performance
+goals.
+
+          General Provisions.  While the shares are not vested, the employee
+shall have all the rights of a shareholder of Company as to the nonvested
+shares, except that the shares may not be sold, assigned, transferred,
+pledged, or otherwise encumbered.  Certificates representing awarded shares
+shall be registered in the name of the employee but held (with a stock power
+endorsed in blank) by Company until the shares have vested, at which time
+they shall be delivered to the employee or legal representative free of
+restrictions.
+
+          The Committee may, in its discretion, provide that a portion of the
+award of restricted Stock shall be made in cash rather than shares.  Any such
+cash shall be payable at the same time or times as the shares to which the
+cash relates become vested.  If shares are forfeited, the related amount of
+unpaid cash shall also be forfeited.
+
+          8.  Non-Employee Directors.  Grants shall be made to members of the
+Board who are not employees of Company or any Subsidiary ("Non-Employee
+Directors") only under this Article 8.  No person, including the members of
+the Board or the Committee, shall have any discretion as to the selection of
+eligible recipients or the determination of the type, amount, or terms of
+grants pursuant to this Article 8.  The persons eligible to receive grants
+pursuant to this Article 8 are all Non-Employee Directors.
+
+          Initial Options.  Upon the date of approval of the Plan by
+Company's shareholders (the "Approval Date"), each person who is then a
+Non-Employee Director shall be automatically granted an option (a "Director
+Option") to purchase 1,000 shares of Stock.  Each person who becomes a
+Non-Employee Director after the Approval Date shall be automatically granted,
+on the date such person becomes a Non-Employee Director, an initial Director
+Option to purchase 1,000 Shares; provided, however, that a director who was
+at any time an officer of Company or any Subsidiary shall not be entitled to
+a grant of the initial Director Option.
+
+          Annual Options.  On the date of each annual meeting of Company's
+shareholders beginning with the meeting in 1996, each person who is then a
+Non-Employee Director and who is to continue as a member of the Board
+following the annual meeting, and without regard to how long the person has
+been a Non-Employee Director or whether the person had ever been an officer
+of Company or any Subsidiary, shall be automatically granted an annual
+Director Option to purchase 600 shares of Stock.
+
+          Option Price.  The option price for all Director Options shall be
+the fair market value of a share of Stock at the date of grant.
+
+          Option Agreements.  Each grant of Director Options made pursuant to
+this Article 8 shall be governed by and shall be subject to the terms and
+conditions set forth in an Option Agreement in the form attached to the Plan
+as Exhibit A.  Except to the extent otherwise provided in this Article 8 or
+in such Option Agreement, each such grant shall be governed by the Plan's
+provisions relating to the grant of options to, and the exercise of options
+by, employees.
+
+          9.  Change in Control.  For purposes of the Plan, "change in
+control" means the occurrence of any of the following events without approval
+by the affirmative vote of at least two thirds of those members of the Board
+who (i) are members of the Board immediately prior to the event, and (ii) are
+not employees of Company or a Subsidiary:
+
+          (a)  The merger or consolidation of Company with, or the sale
+     of all or substantially all the assets of Company to, any person or
+     entity or group of associated persons or entities.
+
+          (b)  The attainment of direct or indirect beneficial ownership
+     of securities of Company which in the aggregate represent
+     20 percent or more of the total combined voting power of Company's
+     then issued and outstanding securities by any person or entity or
+     group of associated persons or entities acting in concert who is
+     not affiliated (within the meaning of the Securities Act of 1933)
+     with Company as of November 10, 1994; provided, however, the Board
+     may at any time in its discretion increase the 20 percent
+     requirement but not beyond 40 percent.
+
+          (c)  The approval by the shareholders of Company of any plan
+     or proposal for the liquidation or dissolution of Company.
+
+          A change in control shall also be deemed to occur upon a change in
+the membership of the Board at any time during any consecutive 24-month
+period such that the "continuity" directors cease for any reason to
+constitute at least 70 percent of the Board.  The continuity directors are
+those members of the Board who were either (i) members of the Board at the
+beginning of such consecutive 24-month period, or (ii) elected by, or on the
+nomination or recommendation of, at least two thirds of the members of the
+Board.
+
+          If a change in control occurs, all options and stock appreciation
+rights previously granted or awarded which are not fully exercisable shall
+become exercisable in full upon the date of such occurrence and shall remain
+so exercisable until the earlier of (a) three years after the date of such
+occurrence, or (b) the expiration of the stated period of the option.  After
+the end of the three-year period, the options and rights shall revert to
+being exercisable in accordance with their terms, although no option or
+rights which have previously been exercised or otherwise terminated shall
+become exercisable.  Notwithstanding the foregoing, no stock appreciation
+rights may be exercised within six months of the date of award of the rights.
+
+          Notwithstanding the provisions of Articles 5 and 6 relating to the
+expiration of options and stock appreciation rights in connection with
+termination of employment, upon termination of employment for any reason
+(other than by reason of conduct which constitutes a felony under federal law
+or the law of the state in which the employee resides) within the two-year
+period following the occurrence of a change in control, the option and rights
+may be exercised at any time prior to the earlier of (a) three years after
+termination of employment or (b) the expiration of the stated period of the
+option.
+
+          If a change in control occurs, all shares of restricted Stock
+previously awarded which are not vested shall become vested upon the date of
+such occurrence.
+
+          10.  Right to Receive Cash on Change in Control.  If a change in
+control, as defined in Article 9, occurs, each employee (including those who
+are not officers) holding an unexercised option, and regardless whether the
+option is then otherwise fully exercisable, may make a cash exercise of all
+or any portion of the option in lieu of the purchase of Stock under the
+option.  A cash exercise may be made, without any payment to Company, by
+surrendering unexercised the option or any portion thereof.  Upon such
+exercise and surrender, the optionee shall be entitled to receive cash (less
+applicable withholding taxes) in an amount equal to the excess of the
+aggregate fair market value of the shares of Stock covered by the option, or
+the relevant portion thereof, on the date of such exercise and surrender over
+the aggregate exercise price of such Stock under the option.  The cash
+exercise may be made only during the period beginning on the first day
+following the date on which Company has actual knowledge of the actual
+occurrence of the change in control and ending on the 45th day following such
+date.  Notwithstanding the foregoing, no cash exercise may be made by an
+officer (as defined under Section 16 of the Exchange Act) of Company within
+six months of the date of grant of the option and no cash exercise may be
+made by any optionee after the expiration of the stated period of the option.
+
+          11.  Disability; Retirement.  Except as otherwise provided in
+Exhibit A for Non-Employee Directors, "disability" for purposes of this Plan
+shall have the same meaning as "total and permanent disability" under the
+Willamette Industries, Inc., and Associated Companies Salaried Employees'
+Retirement Plan (regardless whether the employee is covered by such
+Retirement Plan), and "retirement" shall mean:
+
+          (a)  Termination of employment at or after attainment of
+     age 62, provided the employee has (or would have, if covered by
+     such Retirement Plan) at least ten vesting credits as defined under
+     such Retirement Plan, or
+
+          (b)  Termination of employment at or after attainment of
+     age 65, regardless of the number of such vesting credits, if any.
+
+          12.  Agreement.  Each employee to whom a grant or award is made
+under the Plan shall execute an appropriate agreement with respect to such
+grant or award referring to the terms and conditions thereof and of the Plan. 
+The form of agreements may be changed from time to time and need not be
+identical among those receiving the grants or awards.
+
+          13.  Withholding Taxes.  Company shall have the right to deduct
+from all cash payments made under the Plan any federal, state, or local taxes
+required by law to be withheld with respect to such cash payments, and, in
+the event such cash payments are insufficient to cover the required
+withholding, the employee or other person receiving such payment may be
+required to pay to Company the additional amount necessary for this purpose. 
+In the case of an exercise of an option or an award of restricted Stock, the
+employee or other person exercising such option or taxable in connection with
+such award may be required to pay to Company the amount of any such taxes
+that Company is required to withhold with respect to such exercise or award. 
+Company shall also have the right to deduct any such taxes from the shares
+that would otherwise be issued to or vest in the employee or other person.
+
+          The Committee may, in its discretion, allow the employee or other
+person to make the required payment to Company by delivery of shares of
+previously acquired Stock.
+
+          14.  Employment.  Nothing contained in the Plan or in any grant or
+award under the Plan shall confer upon any employee any right with respect to
+the continuation of employment with Company or its Subsidiaries or interfere
+in any way with the right of Company or its Subsidiaries to terminate the
+employee's employment at any time.  Nothing contained in the Plan shall
+confer upon any employee or other person any claim or right to any grant or
+award under the Plan.
+
+          15.  Governmental Compliance.  Each grant and award under the Plan
+shall be subject to the requirement that, if at any time the Committee shall
+determine that the listing, registration, or qualification of any shares
+issuable thereunder upon any securities exchange or under any federal or
+state law, or the consent or approval of any governmental or self-regulatory
+body is necessary or desirable as a condition thereof, or in connection
+therewith, no such grant or award may be exercised or shares issued unless
+such listing, registration, qualification, consent, or approval shall have
+been effected or obtained free of any conditions not acceptable to the
+Committee.
+
+          16.  Adjustments.  The right and power of Company to provide for
+reclassifications, reorganizations, recapitalizations, stock splits, stock
+dividends, combination of shares, merger, consolidation, or any other change
+in the capital structure or shares of Company shall not be affected by the
+Plan.  In the event of any such action, the Committee or the Board may make
+such adjustments, if any, as it may deem appropriate in the number of shares
+available for grants and awards under the Plan, that may be granted or
+awarded to an individual employee or Non-Employee Director, and to grants and
+awards made under the Plan.
+
+          17.  Expenses.  The expenses of administering the Plan shall be
+borne by Company.
+
+          18.  Termination.  No grants or awards under the Plan shall be made
+after April 27, 2005, or such earlier date as the Board may determine.
+
+          19.  Successors and Assigns.  The provisions of the Plan (and
+interpretations and determinations made by the Committee pursuant thereto)
+shall be conclusive and binding upon Company and its Subsidiaries, their
+successors and assigns, and upon each employee receiving grants or awards
+under the Plan and the employee's heirs, successors, and assigns.
+
+          20.  Amendment.  The Plan may be amended by the Board as it deems
+advisable, provided that no such amendments shall adversely affect the rights
+of participants to whom grants and awards under the Plan shall have been made
+without the consent of the participants affected thereby, nor shall the
+Board, without approval of Company's shareholders:
+
+          (a)  Except as provided in Article 16, increase the number of
+     shares of Stock that are subject to the Plan or the number of
+     shares that may be received by any one employee;
+
+          (b)  Extend the period during which grants and awards under
+     the Plan may be made;
+
+          (c)  Otherwise materially increase the benefits accruing to
+     participants under the Plan;
+
+          (d)  Amend the requirements of the Plan in respect of
+     eligibility to receive grants and awards under the Plan; or
+
+          (e)  Establish the price at which shares may be purchased on
+     the exercise of an option at less than the fair market value of the
+     Stock at the time the option is granted.
+
+          The provisions of Article 8 of the Plan shall not be amended more
+than once every six months, other than to comport with changes in the
+Internal Revenue Code or in Rule 16b-3 under the Exchange Act.
+
+<PAGE>
+                                  EXHIBIT A
+
+                                             As adopted by Board of Directors
+                                                             February 9, 1995
+
+                              OPTION AGREEMENT
+                      FOR NON-EMPLOYEE DIRECTOR OPTION
+
+
+          THIS AGREEMENT, made this ____ day of _____________, 19____, by and
+between WILLAMETTE INDUSTRIES, INC., hereinafter referred to as "Company,"
+and __________________________, hereinafter referred to as "Optionee,"
+
+                            W I T N E S S E T H :
+
+          WHEREAS Article 8 of the Willamette Industries 1995 Long-Term
+Incentive Compensation Plan (Plan) provides for the automatic grant of
+options to Non-Employee Directors to purchase Company's $.50 par value common
+stock (Stock),
+
+          NOW, THEREFORE, the parties agree as follows:
+
+          1.   Grant of Option.
+               ---------------
+          Company hereby, on the date of this Agreement, grants Optionee the
+option to purchase _____________ shares of Stock on the terms and conditions
+hereinafter set forth and subject to the provisions of the Plan.  The option
+price shall be $_____________ per share, which is the average of the best bid
+and the best ask at closing on the date the option is granted, as reported on
+NASDAQ (or, if the Stock is listed on one or more stock exchanges, as
+reported on the principal stock exchange on which the Stock is listed) or, if
+such closing information is not available for a date (because the date is not
+a trading day or otherwise), for the next preceding date for which such
+closing information is available.
+
+          2.   Exercise of Option.
+               ------------------
+          (a)  Except as otherwise provided in paragraph 3, the option
+     shall become exercisable according to the following schedule. 
+     Notwithstanding anything in this Agreement to the contrary, neither
+     the option nor any portion thereof is exercisable after the
+     expiration of ten years and two days (the "stated period of the
+     option") from the date this option is granted:
+
+  Years of Continuous Service as        Percentage of Shares
+a Director From Date Option Granted               Exercisable    
+- -----------------------------------       --------------------
+
+     After one year                     Up to 33 1/3 percent of the number of
+                                        shares subject to the option;
+
+     After two years                    Up to 66 2/3 percent;
+
+     After three years                  All the shares subject to the option.
+
+
+     Notwithstanding the foregoing schedule, all the shares subject to
+     the option shall become exercisable upon termination of service as
+     a director by reason of death, disability, or retirement or upon
+     the date of occurrence of a change in control as defined in the
+     Plan.  In this Agreement, "disability" means the inability to
+     engage in any substantial gainful activity by reason of any
+     medically determinable physical or mental impairment which can be
+     expected to result in death or which has lasted or can be expected
+     to last for a continuous period of not less than 12 months. 
+     "Retirement" means termination of service as a director on or after
+     attaining age 72.
+
+          (b)  Optionee shall, in the event he elects to exercise the
+     option, give Company written notice of exercise.  The notice shall
+     specify the number of full shares to be purchased and shall be
+     accompanied with the payment of the purchase price in cash or by
+     delivery of shares of previously acquired Stock.  Subject to
+     paragraph 3(d), Company shall thereupon promptly issue a
+     certificate to Optionee representing the number of full shares so
+     purchased.  No option shall be exercisable with respect to a
+     fractional share.  Optionee shall have no obligation to exercise
+     the option.
+
+          (c)  The option may be exercised by Optionee in whole or in
+     part or parts; provided, however, that no less than 100 shares
+     shall be purchased under any exercise unless the number purchased
+     is the total number purchasable under the option.  All partial
+     exercises shall be noted on Company's and on Optionee's copy of
+     this Agreement.
+
+          (d)  The written notice of exercise must be accompanied by any
+     amount required under federal or state withholding laws or
+     regulations, either in cash or by delivery of shares of previously
+     acquired Stock.
+
+          3.   Limitations on exercise.
+               -----------------------
+          The option shall be subject to the following limitations on
+exercise:
+
+          (a)  If Optionee's service as a director is terminated for any
+     reason other than death, disability, or retirement, the option may
+     be exercised, to the extent exercisable as of the date of
+     termination of service, and to the extent it has not previously
+     been exercised, but not after the first to occur of the expiration
+     of the stated period of the option or the expiration of 30 days
+     from the date of termination of service.
+
+          (b)  If Optionee's service as a director is terminated by
+     reason of death, disability, or retirement, the option may be
+     exercised (in the case of death, by the estate of the decedent or
+     by a person who acquired the right to exercise the option by
+     bequest or inheritance) at any time thereafter, to the extent it
+     has not previously been exercised, but not after the expiration of
+     the stated period of the option.
+
+          (c)  If Company at any time determines that registration or
+     qualification of the Stock covered by the option under state or
+     federal law or the consent or approval of any governmental or self-
+     regulatory body is necessary or desirable, the option may not be
+     exercised in whole or in part until such registration,
+     qualification, consent, or approval shall have been effected or
+     obtained free of any conditions not acceptable to Company.
+
+          4.   Nontransferability of option.
+               ----------------------------
+          The option and all rights and privileges conferred thereby shall
+not be transferable by Optionee otherwise than by will or the laws of descent
+and distribution and shall be exercisable during Optionee's lifetime only by
+him.  The option and all rights and privileges conferred thereby shall also
+not be assigned, pledged, or hypothecated in any way (whether by operation of
+law or otherwise) and shall not be subject to execution, attachment, or
+similar process.  Upon any attempt to transfer, assign, pledge, hypothecate,
+or otherwise dispose of the option or any right or privilege conferred
+thereby, or upon the levy or any attachment or similar process upon the
+option or the rights and privileges conferred thereby, the option and the
+rights and privileges conferred thereby shall immediately terminate and
+become null and void.
+
+          5.   Adjustment.
+               ----------
+          In the event of payment of a dividend on Stock payable in Stock
+after the option is granted, Stock then subject to the option shall be
+increased proportionately without any change in the aggregate purchase price
+therefor.  In the event the outstanding Stock shall be changed into or
+exchanged for a different number or class of shares of Company, or of another
+corporation, whether through reorganization, recapitalization, stock split-
+up, combination of shares, merger, or consolidation, then there shall be
+substituted for each share of Stock then subject to the option the number and
+class of shares into which each outstanding share of Stock shall be so
+exchanged, all without any change in the aggregate purchase price for the
+shares then subject to such option.
+
+          6.   Right to Receive Cash on Change in Control.
+               ------------------------------------------
+          If a change in control as defined in the Plan occurs, Optionee may,
+regardless whether the option is then otherwise fully exercisable, make a
+cash exercise of all or any portion of the option (to the extent not
+previously exercised) in lieu of the purchase of Stock under the option.  The
+cash exercise may be made, without any payment to Company, by surrendering
+unexercised the option or any portion thereof.  Upon exercise and surrender,
+Optionee shall be entitled to receive cash (less applicable withholding
+taxes, if any) in an amount equal to the excess of the aggregate fair market
+value of the shares of Stock covered by the option (or the relevant portion
+thereof) on the date of the cash exercise and surrender over the aggregate
+purchase price of the shares specified in the option.  The cash exercise may
+be made only during the period beginning on the first day following the date
+on which Company has actual knowledge of the actual occurrence of the change
+in control and ending on the 45th day following that date.  Notwithstanding
+the foregoing, no cash exercise may be made by Optionee sooner than six
+months from the date the option is granted or after the expiration of the
+stated period of the option.
+
+          7.   Assignment.
+               ----------
+          This Agreement shall be binding upon the successors and assigns of
+Company.  Upon the sale of all or substantially all the assets of Company, or
+upon the merger of Company with another corporation, this Agreement shall
+inure to the benefit of and be binding on both Optionee and such purchaser or
+surviving corporation, as the case may be.
+
+<PAGE>
+          IN WITNESS WHEREOF, Company has caused this Agreement to be
+executed by its executive vice president and its assistant secretary, they
+being thereunto duly authorized, and Optionee has set his hand hereto, on the
+date first hereinabove written.
+
+ WILLAMETTE INDUSTRIES, INC.
+
+
+ By                                                                          
+       Executive Vice President
+
+
+ By                                                                          
+       Assistant Secretary
+
+
+                                                                             
+               Optionee
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED
+                               CHARGES
+<TEXT>
+
+<PAGE>
+                                 EXHIBIT 12
+
+
+WILLAMETTE INDUSTRIES, INC. AND SUBSIDIARIES
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+(DOLLAR AMOUNTS IN THOUSANDS)
+
+
+
+
+                                      Year Ended December 31,
+                         ----------------------------------------------
+                          1990      1991      1992      1993     1994
+                         ------    ------    ------    ------   -------
+Fixed Charges:
+  Interest Cost        $ 52,028  $ 63,986  $ 73,776  $ 79,194  $ 80,807
+  1/3 rent expense        2,948     3,725     4,495     4,819     5,227
+                        -------   -------   -------   -------   -------
+Total Fixed Charges      54,976    67,711    78,271    84,013    86,034
+                        =======   =======   =======   =======   =======
+
+Add (Deduct):
+  Earnings before
+  Income Taxes          208,671    73,609   129,452   189,168   288,923
+  Interest Capitalized  (22,129)     (723)   (7,354)  (15,904)  ( 9,294)
+                        -------   -------   -------   -------   -------
+Earnings-Fixed Charges $241,518  $140,597  $200,369  $257,277  $365,663
+                        =======   =======   =======   =======   =======
+
+  Ratio of Earnings to
+    Fixed Charges          4.39      2.08      2.56      3.06      4.25
+                        =======   =======   =======   =======   =======
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>
+                                 EXHIBIT 23
+
+
+
+
+
+
+
+
+                       Consent of Independent Auditors
+
+
+
+
+The Board of Directors
+Willamette Industries, Inc.:
+
+     We consent to incorporation by reference in the Registration Statements
+No. 2-89514, No. 33-5847 and No. 33-40504 on Form S-8 and No. 33-53263 on
+Form S-3 of Willamette Industries, Inc. of our report dated February 9, 1995,
+relating to the consolidated balance sheets of Willamette Industries, Inc.
+and subsidiaries as of December 31, 1994 and 1993, and the related
+consolidated statements of earnings, stockholders' equity, and cash flows for
+each of the years in the three-year period ended December 31, 1994, which
+report appears in the December 31, 1994 annual report on Form 10-K of
+Willamette Industries, Inc.  As discussed in the notes to the consolidated
+financial statements, the Company changed its method of accounting for income
+taxes and postretirement benefits other than pensions in 1993.
+
+
+                            KPMG PEAT MARWICK LLP
+
+
+Portland, Oregon
+March 17, 1995
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>ARTICLE 5 FDS FOR FORM 10-K
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                                                                   5
+<LEGEND>                 THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION
+                         EXTRACTED FROM THE COMPANY'S CONSOLIDATED BALANCE
+                         SHEETS AND RELATED CONSOLIDATED STATEMENTS OF
+                         EARNINGS FOR THE PERIOD ENDED DECEMBER 31, 1994 AND
+                         IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+                         FINANCIAL STATEMENTS.
+<MULTIPLIER>                                                            1,000
+       
+<S>                                                            <C>
+<PERIOD-TYPE>                                                          12-MOS
+<FISCAL-YEAR-END>                                                 DEC-31-1994
+<PERIOD-END>                                                      DEC-31-1994
+<CASH>                                                                 12,798
+<SECURITIES>                                                                0
+<RECEIVABLES>                                                         288,333
+<ALLOWANCES>                                                            5,278
+<INVENTORY>                                                           256,091
+<CURRENT-ASSETS>                                                      604,654
+<PP&E>                                                              3,674,462
+<DEPRECIATION>                                                      1,301,882
+<TOTAL-ASSETS>                                                      3,033,398
+<CURRENT-LIABILITIES>                                                 466,126
+<BONDS>                                                               915,797
+<PREFERRED-MANDATORY>                                                       0
+<PREFERRED>                                                                 0
+<COMMON>                                                               27,518
+<OTHER-SE>                                                          1,360,347
+<TOTAL-LIABILITY-AND-EQUITY>                                        3,033,398
+<SALES>                                                             3,007,949
+<TOTAL-REVENUES>                                                    3,007,949
+<CGS>                                                               2,456,437
+<TOTAL-COSTS>                                                       2,456,437
+<OTHER-EXPENSES>                                                      191,076
+<LOSS-PROVISION>                                                            0
+<INTEREST-EXPENSE>                                                     71,513
+<INCOME-PRETAX>                                                       288,923
+<INCOME-TAX>                                                          111,300
+<INCOME-CONTINUING>                                                   177,623
+<DISCONTINUED>                                                              0
+<EXTRAORDINARY>                                                             0
+<CHANGES>                                                                   0
+<NET-INCOME>                                                          177,623
+<EPS-PRIMARY>                                                            3.23
+<EPS-DILUTED>                                                            3.23
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

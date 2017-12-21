@@ -1,0 +1,3146 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EmY1M6meYkqIOJxXlgzbCQoAZUwBEW1xJXjvg5k+WKvkOoY1LYIrhAZRPdKFSL1H
+ hJ3G2dAqOQcLg3pr7F88Zg==
+
+<SEC-DOCUMENT>0000798438-95-000010.txt : 19951003
+<SEC-HEADER>0000798438-95-000010.hdr.sgml : 19951003
+ACCESSION NUMBER:		0000798438-95-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19950630
+FILED AS OF DATE:		19950929
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VTX ELECTRONICS CORP
+		CENTRAL INDEX KEY:			0000798438
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES [5063]
+		IRS NUMBER:				112816128
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09263
+		FILM NUMBER:		95577164
+
+	BUSINESS ADDRESS:	
+		STREET 1:		61 EXECUTIVE BLVD
+		CITY:			FARMINGDALE
+		STATE:			NY
+		ZIP:			11735
+		BUSINESS PHONE:		5162939880
+
+	MAIL ADDRESS:	
+		STREET 1:		61 EXECUTIVE BLVD
+		CITY:			FARMINGDALE
+		STATE:			NY
+		ZIP:			11735
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+===============================================================================
+                         SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C.  20549
+
+                                     FORM 10-K
+
+             [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+           OF THE SECURITIES AND EXCHANGE ACT OF 1934 [Fee Required]
+
+                       For the fiscal year ended June 30, 1995
+                           Commission File Number 1-9263
+
+______________________________________________________________________________
+
+                               VTX ELECTRONICS CORP.
+               (Exact name of registrant as specified in its charter)
+______________________________________________________________________________
+
+         Delaware                                          11-2816128     
+(State or other jurisdiction                           (I.R.S. Employer
+of incorporation or organization)                      Identification No.) 
+
+
+61 Executive Boulevard, Farmingdale, New York    11735
+(Address of Principal Executive Offices)    (Zip Code)
+
+
+Registrant's telephone number, including area code:   (516) 293-1610   
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                Title of Class       
+                         Common Stock, $.10 par value
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+                                                                               
+                                 Yes   X   No __
+
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ X ] 
+
+
+The aggregate market value of the voting stock held by nonaffiliates of the
+registrant as of September 18, 1995 was approximately $3,688,776.
+
+
+The number of shares outstanding of the registrant's common stock as of 
+September 18, 1995 was 12,652,000 shares.
+
+
+This report consists of 46 consecutively numbered pages (inclusive of all
+exhibits and including this cover page).
+<PAGE>
+                       VTX ELECTRONICS CORP. AND SUBSIDIARIES
+
+                                   TABLE OF CONTENTS
+
+
+
+                                                                    Page Number 
+PART I
+
+
+Item 1.  Business.........................................................  3 
+
+Item 2.  Properties....................................................... 10
+
+Item 3.  Legal Proceedings................................................ 10
+
+Item 4.  Submission of Matters to a Vote of Security Holders.............. 10
+
+
+
+PART II
+
+
+Item 5.  Market for the Registrant's Common Equity and Related Stockholder 
+          Matters......................................................... 11
+
+Item 6.  Selected Financial Data.......................................... 12
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+          Results of Operations........................................... 13
+
+Item 8.  Financial Statements and Supplementary Data...................... 16
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+          Financial Disclosure............................................ 16
+
+
+
+PART III
+
+
+Item 10. Directors and Executive Officers of the Company.................. 17
+
+Item 11. Executive Compensation........................................... 18
+
+Item 12. Security Ownership of Certain Beneficial Owners and Managers..... 21
+
+Item 13. Certain Relationships and Related Transactions................... 22
+
+
+
+PART IV
+
+
+Item 14. Exhibits, Financial Statements Schedules, and Reports on 
+          Form 8-K........................................................ 24
+
+
+
+
+
+<PAGE>
+
+                                        PART I
+ITEM ONE - BUSINESS
+
+
+THE COMPANY
+
+         VTX Electronics Corp. (the "Company") through its wholly-owned Vertex
+Technologies, Inc. subsidiary ("Vertex') is a multi-regional value-added
+specialty distributor of electronic components and cable, and a manufacturer of
+custom-made electronic cable assemblies used in providing connectivity solutions
+which includes system integration for customers operating a wide range of data
+communications.  The Company adds value by providing connectivity solutions for
+customers.  This includes linking or connecting standard or proprietary
+electronic devices and peripheral components from different manufacturers to
+provide solutions for various customer requirements and system integration. 
+These may include sales of passive or active electronic components and/or the
+manufacture of custom-made electronic cable assemblies which the Company designs
+specifically to meet individual customer's unique and complete connectivity
+requirements.
+
+         Management believes that the Company's technical ability for providing
+connectivity solutions between the data system capabilities of many 
+manufacturers and the specific connectivity needs of its customers, along with 
+its reputation for providing the design and manufacture of custom-made 
+electronic cable assemblies that are subject to 100% computerized quality 
+control testing will be the principal factors on which the Company will plan its
+future growth.
+
+         The Company expects internal growth to be enhanced by what the Company
+perceives to be three continuing trends:  (i) the increasing demand for data
+communications to provide timely information in the office environment and
+factory floor that requires connectivity solutions; (ii) the growing number of
+alternatives available to organizations of all sizes in all types of industries
+to increase productivity through improved or upgraded computer data
+communications; and (iii) increasing number of manufacturers of passive and
+active components preferring distributors, such as the Company, who are capable
+of offering complete connectivity solutions to the end user.
+
+         The Company's executive offices are located at 61 Executive Boulevard,
+Farmingdale, New York 11735 and its telephone number is (516) 293-1610.  Unless
+the context requires otherwise, all references herein to the Company and Vertex
+mean VTX Electronics Corp. and its subsidiaries.
+
+RECENT DEVELOPMENTS
+
+         On August 24, 1995, the Company signed a letter of intent in principal
+to merge with CPI Aerostructures, Inc. ("CPI"), a publicly-traded company in the
+commercial/military aircraft business.  Under the terms of the letter, shares of
+the Company's common stock will be converted into shares of CPI common stock at
+a conversion rate of one share of CPI common stock for three shares of the
+Company's common stock, as adjusted for a price guarantee.  The agreement may be
+terminated by the mutual consent of both parties or if a definitive Merger
+Agreement has not been executed by October 15, 1995.  In the event either party
+unilaterally terminates the letter of intent, the terminating party shall pay to
+the other party an amount equal to all of the expenses incurred by the other
+party in connection with the contemplated transaction, up to a maximum of
+$150,000 in the aggregate, plus a break-up fee of $250,000.  The merger plan is
+subject to the negotiation and execution of a definitive acquisition agreement,
+approval of the respective Board of Directors and stockholder's of the Company
+and CPI, and consent of lenders, to the extent required.  Subsequent to the 
+signing of the letter of intent, certain developments have occurred that may 
+preclude completion of the transaction.
+
+
+<PAGE>
+
+
+  On September 15, 1995, the Company's Common Stock was delisted from the
+American Stock Exchange. The Company no longer fully satisfies all the financial
+guidelines of the American Stock Exchange for continued listing.  The Company's
+Common Stock is presently trading on the Over-The-Counter Electronic Bulletin
+Board.
+
+BUSINESS STRATEGY
+
+        The Company's business strategy is to develop a value-added distribution
+network through internal growth with a focus on connectivity solutions for data
+communications.  Management believes it will continue to (i) introduce new
+connectivity solutions, (ii) improve operating efficiencies through a more
+efficient organizational structure, eliminate duplicated activities, and
+integrate manufacturing capabilities between the three separate manufacturing
+facilities located in the United States, (iii) derive the benefits of critical
+mass through the opportunity to develop stronger relationships with, and obtain
+the best terms from, key suppliers, and (iv) derive the benefits of critical
+mass through the ability to distribute to and service large national and 
+international customers.
+
+        In its relationship with its customers, the Company focuses on providing
+connectivity solutions, thus adding significant value to the passive and active
+components it distributes.  Such solutions include advising customers on the
+options available to meet their specific needs, and manufacturing custom-made
+electronic cable assemblies for the customers.  In addition, the Company
+continues to service the customers with components and assemblies as the
+customer's system grows.  Management believes that manufacturers of products
+generally choose to build relationships with distributorships capable of 
+offering advisory services, technical support, and other services such as 
+manufacturing custom-made electronic cable assemblies.  The Company believes it
+is perceived as a value-added distributor by both suppliers and customers as a 
+result of its technical skills and knowledge of the marketplace, access to and 
+understanding of the product capabilities, and technical design and 
+manufacturing capabilities for custom-made electronic cable assemblies.
+
+PRODUCTS AND SERVICES
+
+     The Company's products and services consist principally of the distribution
+of a broad range of passive and active electronic components, and the design and
+manufacture of custom-made electronic cable assemblies used as solutions for
+connectivity requirements in data communications.  Typically, passive components
+carry data signals without any processing or filtering of the data (e.g.,
+electronic connectors, electronic wire and cable, cabinets and racks, and patch
+panels), while active components generate and/or regenerate and filter data
+signals (e.g., hubs, bridge, routers, gateways, and modems).  The Company's
+principal product lines focus on connectivity solutions for data communications.
+
+      The Company also designs and manufactures custom-made cable assemblies
+tailored to the customer's requirements and offers project management and
+installation of structured wiring and network design for data communications. 
+The Company employs design, engineering, and technical support personnel to
+develop alternative connectivity solutions including system integration and
+manufacture custom-made electronic cable assemblies.
+
+         The Company has restructured its operations to improve focus and
+productivity, which emphasizes the passive and active component areas of
+connectivity solutions, while discontinues hardware and application and 
+operating software areas of connectivity solutions.  See "Restructuring Plan" 
+and "Management's Discussion and Analysis of Financial Condition and Results of
+Operations". 
+
+<PAGE>
+
+PRINCIPAL SUPPLIERS
+
+         Management believes that the Company is not dependent on any particular
+supplier.  The products that the Company distributes are generally characterized
+by a large number of products manufactured by a variety of companies.  The
+Company deals with preferred suppliers and believes the Company has a good
+working relationship with each of its existing strategic suppliers including 
+AMP, AT&T, Andrews, Cable Design Technologies, IBM, Madison Wire & Cable, 
+Microtest, Novell, Racal Datacom, Siecor, and Synoptics.  For the fiscal year 
+ended June 30, 1995, purchases from AT&T accounted for 15.7%.  AT&T and Madison 
+Wire & Cable accounted for 10.8% and 12.1%, respectively of purchases in fiscal 
+1994.  In fiscal 1993, AT&T and IBM accounted for 15.3% and 10.1%, respectively,
+of purchases.  During fiscal 1995, certain plenum cable and wire items were in 
+tight industry supply due to a world shortage of fluorinated-ethylene-propylene
+(FEP) which is used in the production of plenum products.  Management believes 
+the tight supply situation has stabilized and should improve through 1996.
+
+       Through stock rotation rights and price protection arrangements with most
+of its major suppliers including AMP, AT&T and IBM, the Company can reduce the
+risk of holding obsolete or over-priced product.  Stock rotation rights allow
+distributors to return a certain proportion of their purchases in the event that
+the product does not sell.  A price protection program gives the distributor a
+rebate on purchases during a specified period if the manufacturer subsequently
+lowers it prices.  The price protection generally covers any purchases made
+within the most recent 60 to 90 day period prior to the manufacturer's price
+reduction.
+
+      The Company works off manufacturers' lead times. Deliveries range from one
+week to approximately 90 days.  The Company has a fully integrated on-line
+computer system that enables it to determine immediate inventory availability of
+the Company's entire inventory at its stocking facilities.  The Company monitors
+and maintains manufacturers' delivery schedules to ensure "on-time" delivery for
+customers and to maintain proper inventory levels for the Company.  The Company
+believes that it has adopted more thorough inventory control systems, and
+management currently does not believe it will be required to expense any
+significant amounts of inventory in the foreseeable future.  However, there can
+be no assurance there will not be further inventory writeoffs.
+
+         The Company's objective is to minimize lead times for its customers 
+without financing excess stock levels or risking technological obsolescence.  
+Several manufacturers have provided the Company an expedited shipping function 
+in order to better service the Company's customers.
+
+         The Company has restructured its operations to improve productivity, 
+which emphasizes centralized purchasing and establishment of preferred suppliers
+including primary and secondary supplier bases.  The Company has written off
+approximately $1,200,000 of inventory during fiscal 1993 because of 
+technological obsolescence and an additional write-down for discontinued 
+products and obsolete inventory was taken during the fiscal year ended June 30, 
+1994 of approximately $262,000.
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+SALES AND MARKETING
+
+         The Company offers a broad range of passive and active electronic
+components used as connectivity solutions to end-users, professionals who 
+install and service data communications, and original equipment manufacturers 
+(OEM's). 
+
+         The Company operates through seven locations in the Northeast, Mid-
+Atlantic, and Western regions of the United States, and one location in the
+United Kingdom.  All but one of the eight locations operate as a sales office 
+and warehouse, whereas the one location is solely a sales office.  In addition,
+the Company operates manufacturing operations in the states of New York, 
+Maryland and California, plus one operation in the United Kingdom.  These 
+operations support the design and manufacture of custom-made and standard cable
+assembly requirements for the entire Company.  
+
+         The Company consolidated its operations by closing two facilities and
+realigned the organizational structure of the other facilities in order to
+improve support of the Company's sales and marketing efforts to better service
+the Company's customers.  See "Restructuring Plan".
+
+       In order to effectively meet each customer's needs, the sales force first
+gains an understanding of the customer's system connectivity requirements before
+recommending one or more possible solutions.  The variety of products offered by
+the Company often allows the sales person to add value by providing alternative
+solutions or more complete solutions to customers requirements and thereby
+gaining add-on sales.  Where necessary, technical support personnel assist sales
+people in recommending the most appropriate solution. The Company generally does
+not participate in the design of computer application but rather participates in
+the design and implementation of the connectivity solutions required for data
+communications including system integration.
+
+         The field sales force is supported by inside sales personnel who handle
+incoming customer calls, perform sales estimates, provide rapid responses to
+customer questions and assist in sales prospecting.  In addition, compensation
+policies have been tailored to promote a profit-oriented, rather than a revenue-
+oriented, sales philosophy.
+
+        Sales leads are typically generated by ongoing interaction with existing
+customers, sales calls to companies not currently customers, referrals from
+suppliers, and by advertising and promotional efforts.  The advertising and
+promotion program for the Company consists of: (i) exhibits at national and
+regional trade shows; (ii) Company sponsored seminars and product demonstrations
+in regional areas; (iii) advertisements in trade publications; and (iv) direct
+mail campaigns to targeted market niches.
+
+         The Company has recently refocused its sales and marketing strategy to
+concentrate its efforts in certain market niches in which it only distributes 
+the products of preferred suppliers. These products represent passive components
+such as category 5 wiring products, fiber optics, and wireless communication
+products, and active components such as bridges, hubs, modems and routers,
+included in the design and implementation of structured wiring solutions for
+network applications.  The market for the Company's refocused products has
+historically remained more stable and has not been affected to the same degree
+by technological changes or price fluctuations.  The majority of the products
+distributed by the Company are readily adaptable to various end-users in all
+industries.
+
+
+
+
+<PAGE>
+
+
+COMPANY LOCATIONS
+
+     The Company's locations, of which the Farmingdale location is owned and all
+other locations are leased, are as follows:
+
+                         Elkridge, Maryland    
+                         Farmingdale, New York
+                         Folcroft, Pennsylvania
+                         Marlboro, Massachusetts
+                         San Jose, California 
+                         Torrance, California
+                         Totowa, New Jersey     
+                         Corby, United Kingdom
+
+MAJOR CUSTOMER
+
+         The Company has one customer that has accounted for 10% or more of its
+sales during the last three fiscal years.  Bloomberg L.P. accounted for
+approximately 11.4% of sales in fiscal 1993, approximately 16.3% of sales in
+fiscal 1994 and approximately 14.7% of sales in fiscal 1995.  
+
+COMPETITION
+
+         All aspects of the Company's business are highly competitive.  The 
+Company competes with several national distributors including Anixter, Inc., a 
+subsidiary of Anixter International Inc., and Kent Electronics Corporation, 
+which have greater financial and other resources than the Company.  The Company
+also competes with numerous distributors and systems integrators operating on a 
+local or regional basis.  The Company's principal method of competing with the  
+other national distributors is by adding value to the active and passive 
+components it sells by assisting its customers in achieving appropriate 
+connectivity solutions.  National distributors generally sell components on a 
+higher volume driven basis than the Company and, therefore, can sell those 
+components at a lower price to customers buying in bulk.  However, such national
+distributors generally do not focus on connectivity solutions. 
+
+         The Company also competes with a large number of regional and local
+distributors and systems integrators.  These entities generally provide value-
+added components to their customers, but frequently cannot provide comparable
+volume discounts and the price advantages as the Company is able to provide. The
+Company purchases many of the system components on a national scale directly 
+from manufacturers and, following the equity financing and repayment of certain 
+trade creditors, expects to be able to enhance its ability to obtain these price
+advantages. See "Management's Discussion and Analysis of Financial Condition and
+Results of Operations".
+
+         The Company believes that its ability to provide value-added specialty
+distribution, together with its design and manufacture capability to custom make
+electronic cable assemblies as well as making available technical support
+differentiates the Company's from its primary competitors and gives the Company
+a competitive advantage.  There can be no assurance the Company will be able to
+successfully exploit such advantage.
+
+PRODUCT LIABILITY INSURANCE
+
+        The Company maintains a comprehensive general liability insurance policy
+in the amount of $2,000,000, with an umbrella policy, including products
+liability, providing coverage in the aggregate amount of $20,000,000 which it
+believes to be adequate coverage.
+
+
+<PAGE>
+EMPLOYEES
+
+         As of September 1, 1995, the Company had 192 full-time employees.  Of
+these, 70 are sales and marketing personnel; 7 are design, engineering, and
+technical support personnel; 25 are purchasing, warehouse and inventory control
+personnel; 62 are cable assembly manufacturing personnel; 9 are quality control
+personnel; and 19 are accounting, data processing and other administrative
+personnel.  33 employees are covered by a collective bargaining agreement in the
+Company's Farmingdale facility.  In addition to its employees, the Company uses
+other workers on a contract basis, as its needs require.  The Company considers
+its relations with its employees to be good.                       
+
+RESTRUCTURING PLAN
+
+      In November, 1993, the Board of Directors retained Mr. Donald W. Rowley as
+a consultant to conduct an ongoing analysis of the Company's strategic strengths
+and weaknesses, and current operations.  After Mr. Rowley's analysis, he
+recommended a restructuring plan including short term, near term and long term
+objectives.  The Company's Board of Directors adopted all of Mr. Rowley's
+recommendations and plans, and in March 1994, retained him as president to enact
+them.
+
+
+         The Short Term Plan involved the following steps which have been
+implemented:
+
+         *       Closing Ohio and Georgia branch operations due to the extended
+                 period of time necessary to make these operations profitable.
+
+         *       "Right-sizing" the Maryland and Philadelphia branches through
+                 employee reductions of approximately 16 people to improve
+                 profitability.
+
+         *       Lowering corporate office operating expenses through employee
+                 reductions of approximately 18 people.
+
+         *       Reducing overtime more than 60% since December 1993 by 
+                 manufacturing products based on forecasted product demand.
+
+
+         The Near Term Plan involved the following steps which have been
+implemented:             
+
+         *       Implementing a new freight management program throughout the 
+                 Company in August 1994.
+         
+         *       Implementing centralized purchasing.
+
+         *       Establishing standard sales operating procedures for all 
+                 branches.
+
+         *       Establishing standard manufacturing and quality control 
+                 policies and procedures in order to utilize the separate 
+                 manufacturing operations as an integrated/interchangeable 
+                 manufacturing resource; and completing ISO-9002 Certification 
+                 at the San Jose facility.
+
+
+
+
+
+
+
+<PAGE>
+         The Long Term Plan involved the following steps which have been
+implemented:
+
+         *       Establishing preferred suppliers including primary and 
+                 secondary supplier bases and reducing the number of vendors by
+                 more than 35%.
+
+         *       Preparing and communicating to suppliers the Company's strategy
+                 of value added component distribution for connectivity 
+                 solutions.
+
+         *       Utilizing the equity financing to rebuild financial 
+                 relationships with suppliers to finance the Company's 
+                 restructuring plan emphasizing products with a greater profit 
+                 margin.
+
+         *       Implementing centralized purchasing and eliminating smaller
+                 purchases from multiple sources, thereby improving gross 
+                 profit margins.
+
+
+         The Restructuring Plan was initiated in fiscal 1994 and completed 
+during fiscal 1995.  Management believes that the completion of the operational 
+restructuring plan directs the Company toward profitability by:
+
+         *       Reducing corporate overhead.
+
+         *       Lowering certain branches operating expenses.
+
+         *       Improving operations to enable completion of ISO-9002 
+                 Certification.
+
+         *       Increasing end-user sales focus for connectivity solutions.
+
+         *       Improving financial and inventory management to minimize write-
+                 off exposure.
+
+         Management believes that the completion of the Restructuring Plan, 
+along with improving availability of FEP related products, and improving sales 
+force stability and productivity, will enable the Company to return to 
+profitability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+ITEM TWO - PROPERTIES
+
+         The location and size of each of the Company's facilities, the 
+principal use of each facility and lease expiration date are summarized below:
+
+                          Square                                    Lease
+Location                 Footage   Use                         Expiration Date
+- -----------------------  -------   --------------------------- ---------------
+Elkridge, Maryland        16,750   Sales Office, Manufacturing  January 1997   
+                                   and Warehouse
+
+Farmingdale, New York     45,000   Executive Office, Sales Office,             
+                                   Manufacturing and Warehouse        *
+
+Folcroft, Pennsylvania    15,000   Sales Office and Warehouse  September 1996
+
+Marlboro, Massachusetts   14,650   Sales Office and Warehouse   January 2000
+
+San Jose, California      12,450   Sales Office, Manufacturing    May 1997     
+                                   and Warehouse
+
+Torrance, California      11,200   Sales Office and Warehouse     May 1997     
+
+
+Totowa, New Jersey         2,085   Sales Office                 January 1996
+
+Corby, England             3,000   Sales Office, Manufacturing  November 1996  
+                                   and Warehouse                        
+
+     * The Company owns the Farmingdale facility.
+
+         The Company's Headquarters are located in Farmingdale, New York.  These
+premises, which consist of approximately 10,000 square feet of office space and
+approximately 35,000 square feet of manufacturing and warehouse space, are owned
+by the Company.  The Company believes that its facilities are adequate for its
+current and presently foreseeable needs or that adequate replacement space is
+available.
+
+
+
+ITEM THREE - LEGAL PROCEEDINGS
+
+         The Company is not involved in any material legal proceedings; however,
+the Company is involved in routine litigation incidental to the business.
+
+
+
+ITEM FOUR - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+               None.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                     PART II
+
+
+ITEM FIVE -MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED
+              STOCKHOLDER MATTERS
+
+
+         The Company's Common Stock has been trading on the American Stock 
+Exchange under the symbol VTX since September 17, 1986, its initial public 
+offering date. The Company no longer fully satisfies all the financial 
+guidelines of the American Stock Exchange for continued listing.  On September 
+15, 1995, the Company's Common Stock was delisted from the American Stock 
+Exchange.   The Company's Common Stock is presently trading on the Over-The-
+Counter Electronic Bulletin Board.  The following table shows the quarterly 
+range of the high and low closing sale prices for the Common Stock on the 
+American Stock Exchange prior to September 15, 1995 and on the Over-The-Counter
+Electronic Bulletin Board since September 15, 1995, for the periods indicated.
+
+
+                                           Common Stock
+                        Period                          High      Low
+         ------------------------------------------     ----      ----  
+
+         Fiscal 1994
+         First Quarter ended September 30, 1993....     1.38       .75
+         Second Quarter ended December 31, 1993....     1.00       .69
+         Third Quarter ended March 31, 1994........     1.75      1.06
+         Fourth Quarter ended June 30, 1994........     1.31      1.08
+
+
+         Fiscal 1995
+         First Quarter ended September 30, 1994....     1.06       .56
+         Second Quarter ended December 31, 1994....      .81       .38
+         Third Quarter ended March 31, 1995........      .63       .38
+         Fourth Quarter ended June 30, 1995........      .44       .25
+
+
+         Fiscal 1996
+         First Quarter (thru September 22, 1995)...      .38       .19
+
+         
+         As of September 18, 1995, there were approximately 239 holders of 
+record of the Company's Common Stock.
+
+         The Company has never paid a cash dividend on its Common Stock and the
+Company does not anticipate paying any dividends on the Common Stock in the
+foreseeable future.  Pursuant to the terms of its revolving credit facility, the
+Company is not permitted to pay or declare any dividends or otherwise make any
+distribution of capital.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+ITEM SIX - SELECTED FINANCIAL DATA
+
+
+
+                                           Selected Financial Data
+
+                                    (In thousands except per share data)
+            
+             
+                                            Year Ended June 30,
+                                1995      1994      1993      1992      1991   
+                              -------   -------   -------   -------   -------  
+Income Statement Data:               
+
+Net sales                     $34,472   $42,864   $49,407   $41,295   $46,728 
+Cost of goods sold             27,311    33,490    39,935    32,262    37,359 
+                             --------- --------- --------- --------- ---------
+Gross profit                  $ 7,161   $ 9,374   $ 9,472   $ 9,033   $ 9,369 
+                             ========= ========= ========= ========= =========
+Loss before extraordinary
+ items                       ($ 1,316) ($ 2,934) ($ 2,030) ($ 1,963) ($ 3,493)
+Extraordinary items               -         747     2,492      -         -    
+                             --------- --------- --------- --------- ---------
+Net income (loss)            ($ 1,316) ($ 2,187)  $   462  ($ 1,963) ($ 3,493)
+                             ========= ========= ========= ========= =========
+Per Share Data: (1) 
+
+Loss before extraordinary
+  items                      ($   .11) ($   .47) ($   .35) ($   .46) ($  1.43)
+Extraordinary items               -         .12       .43       -         -   
+                             --------- --------- --------- --------- ---------
+Net income (loss) 
+  per share                  ($   .11) ($   .35)  $   .08  ($   .46) ($  1.43)
+                             ========= ========= ========= ========= =========
+Weighted average number of
+  shares outstanding (2)       12,265     6,239     5,778     4,299     2,438 
+                             ========= ========= ========= ========= =========
+Balance Sheet Data:
+ 
+Working capital               $  4,476  $ 5,320   $ 6,473   $10,183   $ 9,914
+Total assets                    13,187   14,431    17,583    19,858    20,836
+Long-term debt                   5,966    6,338     9,413    13,311    11,989
+Stockholders' equity             1,999    2,808     1,552     1,054     1,975
+
+
+
+(1)      Cash dividends per share have never been paid on Common Stock and the
+         Company is prohibited under its current long term credit facility from
+         paying a dividend because it currently has insufficient availability.
+
+
+(2)      See Notes to Consolidated Financial Statements.
+
+
+
+
+
+
+
+
+
+<PAGE>
+ITEM SEVEN - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+             CONDITION AND RESULTS OF OPERATIONS
+
+
+RESULTS OF OPERATIONS
+
+         YEARS ENDED JUNE 30, 1995 AND 1994
+
+     Net sales for the year ended June 30, 1995 were $34,472,000, as compared to
+the year ended June 30, 1994 of $42,864,000, a decrease of 19.6%.  Value-added
+distribution sales of electronic components, including systems integration,
+decreased by approximately $9,204,000 from $30,605,000 to $21,401,000 (30.1%). 
+The decrease was due to tight industry supply of certain cable and wire items 
+and lost sales from related items without the "pull through" effect of the items
+in tight supply; and turnover of sales personnel and to recently hired sales 
+people learning the Company's operation.  During the same period, the aspect of
+the Company's business involving the Company's custom-made cable assemblies 
+(referred to as manufacturing) increased by approximately $812,000 from 
+$12,259,000  to $13,071,000 (6.6%) during the fiscal year ended June 30, 1995 as
+compared with the prior fiscal year.  The increase in manufacturing was due to 
+value added sales focus which was uninterrupted by any tight industry supply of 
+product.  The Company estimates that the profit margins from custom-made cable 
+assemblies are slightly higher than value added distribution sales.
+
+     Gross profit decreased by $2,213,000 or 23.6% for the year ended June 30,
+1995 to $7,161,000 from $9,374,000 as compared to fiscal 1994.  The decrease was
+mainly due to lower sales levels as a result of tight industry supply of certain
+cable and wire items, and turnover of sales personnel and to recently hired 
+sales personnel learning the Company's operation.  The gross profit percentage 
+for the year ended June 30, 1995, 1994, and 1993 was  20.8%, 21.9%, and 19.2%
+respectively.  The lower gross profit percentage in fiscal 1995 was due to
+product mix change as a result of tight industry supply of certain cable and 
+wire items.  The gross profit for the year ended June 30, 1993 was reduced when
+compared to June 30, 1992 and June 30, 1994 due to the $1,200,000 write-off of
+obsolete and slow moving inventory in the second quarter of fiscal year 1993.
+
+     Selling, general and administrative expenses decreased approximately
+$2,907,000 or 27.7% to $7,572,000 for the year ended June 30, 1995 from
+$10,479,000 as compared to fiscal 1994.  Selling, general and administrative
+expenses as a percentage of net sales were 22% in fiscal 1995 as compared to
+24.4% in fiscal 1994.  The decrease was due primarily to the aforementioned 
+decrease in sales and the positive effects from the implementation of the 
+Company's restructuring plan in the current fiscal year.  Decreased sales in 
+the current year resulted in a decrease of approximately $290,000 in sales 
+commissions and an $830,000 decrease in general selling expenses.  These 
+decreases were partially offset by a $256,000 increase in sales salaries and 
+related expenses resulting from additional sales personnel hired during the 
+current fiscal year which resulted from significant sales force turnover.
+The implementation of the Company's restructuring plan contributed
+approximately $637,000 toward the decrease in salaries and related expense of
+non-sales personnel,  and other selling, general and administrative expense 
+decreases of approximatley $775,000 from improved financial controls over 
+spending.  In addition, the prior year expenses included $524,000 of bad debt
+expense that was not incurred in the current year as a result of improved credit
+and collections management.
+
+     The Company's restructuring activities were completed during fiscal 1995. 
+Additional costs of $91,000 were incurred.  Such costs were primarily associated
+with final settlements reached in fiscal 1995 for the termination of certain
+employment contracts, employee severance and benefit arrangements, as well as
+additional related legal fees associated therewith.
+
+     Interest expense decreased by $74,000 or 8.2% for the year ended June 30,
+1995 to $827,000 from $901,000.  The decrease was due to lower borrowing levels
+for most of the fiscal year ended June 30, 1995 compared to the prior fiscal
+year.
+
+<PAGE>
+         YEARS ENDED JUNE 30, 1994 AND 1993
+
+     Net sales for the year ended June 30, 1994 were $42,864,000, as compared to
+the year ended June 30, 1993 of $49,407,000, a decrease of 13.2%.  The aspect of
+the Company's business involving the Company's custom-made cable assemblies
+(referred to as manufacturing) increased by approximately $174,000 from
+$12,085,000  to $12,259,000 (1.4%) during the fiscal year ended June 30, 1994 as
+compared with the prior fiscal year.  During the same period, value added
+distribution sales of electronic components decreased by approximately 
+$6,717,000 from $37,322,000 to $30,605,000 (18.0%) because the Company gave 
+priority with respect to the above described manufacturing activities.  The 
+Company estimates that the profit margins respecting custom-made cable 
+assemblies and value added distribution sales are approximately the same.  This 
+allocation of priorities was due to the Company's limited resources during the 
+last fiscal year.  Insufficient inventory stocking levels for most of fiscal 
+1994 resulted in delayed sales of value added distribution, or lost sales.
+
+     Gross profit decreased by $98,000 or 1% for the year ended June 30, 1994 to
+$9,374,000 from $9,472,000 as compared to fiscal 1993.  The decrease was
+primarily due to lower sales levels.  The gross profit percentage for the year
+ended June 30, 1994, 1993, and 1992 was 21.9%, 19.2%, and 21.9% respectively. 
+The gross profit for the year ended June 30, 1993 was reduced when compared to
+June 30, 1992 and June 30, 1994 due to the $1,200,000 write-off of obsolete and
+slow moving inventory in the second quarter of fiscal year 1993.
+
+     Selling, general and administrative expenses increased approximately 
+$68,000 or 0.7% to $10,479,000 for the year ended June 30, 1994 from $10,411,000
+as compared to fiscal 1993.  Selling expenses decreased by approximately 
+$907,000 mainly as a result of replacing several high fixed salary sales people 
+with lower fixed salary plus commission sales people and reducing the number of 
+sales people through closing two operations.  A $524,000 provision for doubtful 
+accounts was recorded for the year ended June 30, 1994 (which includes $33,000 
+for the United Kingdom accounts receivables) versus $255,000 in the prior fiscal
+year.  Selling, general and administrative expenses included noncash 
+compensation expense attributed to the Common Stock, stock options and warrants 
+issued to officers, directors and consultants aggregating $582,000.  Other 
+selling, general and administrative expenses increased by $124,000 for the year 
+ended June 30, 1994 as compared to fiscal 1993 mainly due to an increase of 
+expense associated to recruiting and hiring new sales people, restructuring the 
+Philadelphia branch operation, hiring outside programmers for the Bill of
+Materials system application, and general provision for employee issues.
+
+    The Company's restructuring activities, which began at the end of the second
+quarter of fiscal 1994, are expected to continue through the second quarter of
+fiscal 1995.  Certain of these activities, including the implementation of
+centralized purchasing, standardized manufacturing and quality control policies
+and procedures, and new freight management programs are intended to improve
+profitability without increasing expenses.  In addition, the Company's
+restructuring plan is designed to realign its corporate headquarters and field
+operations (increasing overall profitability through the closing of certain
+branches), eliminate marginally profitable product lines and disposing of 
+certain assets.  Discontinued product lines included lower margin items such as 
+hookup wire and outside plant cable and high technology hardware and software 
+items.  Approximately 16 people were terminated from branch closures and 18 
+people were terminated from "right-sizing" branch and corporate operations.  
+
+    The restructuring charges of $939,000 consists of provisions for termination
+of certain employment contracts, employee severance and benefit settlements of
+$264,000, inventory write-downs for discontinued product lines of $321,000, and
+abandonment of leased facilities, equipment and other assets of $354,000.
+
+<PAGE>
+     Interest expense decreased by $147,000 or 14% for the year ended June 30,
+1994 to $901,000 from $1,048,000.  The decrease was due to lower borrowing 
+levels for most of the fiscal year ended June 30, 1994 compared to the prior 
+fiscal year.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Working capital as of June 30, 1995 was $4,476,000 as compared with
+$5,320,000 as of June 30, 1994.  The $844,000 decline in working capital was
+largely a result of a decrease in sales volume for year ended June 30, 1995. 
+Accounts receivable decreased by approximately $1,197,000, offset by an increase
+in inventory of approximately $157,000 and an increase of current portion of 
+long term debt of approximately $83,000 due to the reclassification of an 
+equipment note due March 31, 1996.
+
+     During March and April of 1994, the Company completed a series of two 
+equity transactions whereby the Company sold 2,500,000 shares of its Common 
+Stock together with 2,500,000 common stock purchase warrants for which the 
+Company received $1,250,000.  In June 1994, the Company completed the 
+registration of the shares of Common Stock underlying the common stock purchase 
+warrants aggregating 3,950,000, and received $1,415,000 representing the net 
+proceeds from the exercise of these warrants.  The proceeds from these 
+transactions were used to reduce outstanding trade accounts payable, purchase 
+additional inventory and reduce the revolving credit facility.
+
+     The Company has typically been extended trade credit for its inventory
+purchases from suppliers. In normal business practice, a supplier will establish
+a credit line and payment terms for the Company.  Suppliers usually require
+payment on trade credit between 30 and 60 days.  Generally, the Company has been
+able to arrange extended payment terms with its key suppliers and establish
+schedules to reduce the trade credit days outstanding with suppliers over an
+extended period of time during the past year.  As of June 30, 1995, the Company
+had $5,062,000 in accounts payable and accrued expenses which represents about
+68 days of trade credit.
+
+     The Company has approximately $654,000 of inventory that is estimated slow
+moving, with reserves against this inventory of $535,000.  The Company believes
+it will be able to realize the net amount of this inventory through customer
+incentive programs and disposals.
+
+     Long term debt as of June 30, 1995 was $5,966,000, a decrease of $372,000
+from $6,338,000 at June 30, 1994.  The decrease was mainly due to the Company
+exchanging $394,750 of an equipment loan for 789,500 shares of the Company's
+common stock.  The Company reclassified the balance of this equipment loan of
+$105,250 to current portion of long term.
+
+     The Company currently has a revolving credit facility which provides for
+maximum borrowings of $10,000,000 at an interest rate of prime plus 2 3/4% with
+an additional commitment fee of 1/2% per annum on the daily average unused
+portion of the credit.  Under the terms of the agreement, borrowings are limited
+to 80% of eligible accounts receivable (constituting those amounts outstanding
+90 days or less) and 50% of eligible accounts receivable outstanding between 91
+and 120 days, and 40% of regular inventory and 20% of slow moving inventory.  As
+of June 30, 1995 the Company had approximately $5,406,000 availability under the
+facility, of which $4,904,000 was outstanding on that date.  The loan is
+collateralized by substantially all of the assets of the Company not otherwise
+collateralized.  This credit facility expires on December 31, 1997.  The Company
+intends to continue to employ this line of credit to finance inventory and
+accounts receivable. 
+
+<PAGE>
+     In connection with its revolving credit facility, the Company is subject to
+restrictive covenants which impose certain limitations with respect to the 
+Company's incurrence of indebtedness, capital expenditures, creation or
+recurrence of liens, declaration or payment of dividends or other distribution,
+mergers, consolidations and sales or purchases of substantial assets.  In 
+general, the Company is not allowed to incur further indebtedness or create 
+additional liens on its assets except for unsecured current liabilities incurred
+in the ordinary course of business or liabilities incurred in the ordinary 
+course of business secured by purchase money security interests  not to exceed 
+an aggregate of $750,000.  The Company is not allowed to make loans or 
+investments or provide guarantees or to prepay indebtedness.  The Company is 
+prohibited from paying dividends and may not enter into a merger, consolidation 
+or sale of all or substantially all of its assets.  Additionally,  the Company 
+is required to maintain consolidated net worth of not less than $750,000 and to 
+maintain consolidated working capital, defined as current assets less current 
+liabilities and debt outstanding under the credit facility, of not less than a 
+negative $1.5 million.  The Company is currently in compliance with the 
+restrictive covenants and financial tests under the credit facility.
+
+     At June 30, 1995, the Company has net operating loss carryforwards for tax
+purposes of approximately $6,742,000.  Such net operating loss carryforwards
+expire through fiscal year 2010.  The Company's use of its net operating loss
+carryforward is limited as the Company is deemed to have undergone an "ownership
+change", as defined in the Internal Revenue Code Section 382, during the fiscal
+years ended June 30, 1992 and June 30, 1994.  In connection with such net 
+operating loss limitation, the Company must obtain a fair valuation of the
+Company as of the date of the ownership change.  Based upon the Company's 
+estimate of fair value, approximately $3,504,000 of the Company's total net 
+operating loss of $6,742,000 is limited to approximately $715,000 annually
+during the carryforward period.
+
+
+INFLATION
+
+     For the last three fiscal years, the Company has not been significantly
+affected by inflation.
+
+
+ITEM EIGHT - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The consolidated financial statements listed in the accompanying Index to
+the Consolidated Financial Statements are attached as part of this report.
+
+
+ITEM NINE - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND    
+            FINANCIAL DISCLOSURE
+
+(a)      Not applicable.
+
+(b)      Not applicable.
+
+
+
+
+
+
+<PAGE>
+
+                                    PART III
+
+ITEM TEN - DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+         The Directors of the Company and certain information concerning them as
+of June 30, 1995 are set forth below:
+                                                           First Year
+Name              Position With The Company       Age    Became Director
+Robert J. Eide       Chairman of the Board         42         1991
+
+Donald W. Rowley     President and Director        43         1994
+
+Steven J. Bayern           Director                47         1992
+
+Mark E. Bloom              Director                43         1995
+
+Robert L. Frome            Director                55         1992
+
+Paul L. McDermott          Director                41         1992
+
+Jeffrey S. Podell          Director                54         1992
+
+
+An Executive Officer of the Company who is not a Director is set forth below:
+                                                     
+Name               Position With The Company      Age
+Nicholas T. Hutzel  Controller and Secretary       25
+
+         Robert J. Eide, age 42, has been a Director of the Company since 
+October, 1991 and was Secretary of the Company from October, 1991 to January, 
+1992.  Mr. Eide was named Chairman of the Board in April, 1994.  Mr. Eide is 
+Executive Vice President and Secretary of VX Acquisition Corp. which is the 
+general partner of VX Capital Partners, L.P.  Mr. Eide is a private investor and
+has been a principal owner of Aegis Capital Corp., a member firm of the NASD for
+more than five years.  Mr. Eide is a director of Nathans Famous, Inc., a Nasdaq 
+National Market listed company and Brooke Group Ltd., a New York Stock Exchange 
+listed company.  Mr. Eide is an attorney licensed to practice law in the State 
+of New York.  Mr. Eide has been a shareholder and officer of a corporate general
+partner of various limited partnerships organized to acquire and operate real 
+estate properties.  Several of these partnerships filed for protection under the
+federal bankruptcy laws in 1989, 1990 and 1991.
+
+         Donald W. Rowley, age 43, has been a Director and President of the 
+Company since March 31, 1994.  From 1992 to March, 1994, Mr. Rowley served as 
+Chairman and Director of Lantek Electronics, Inc., a specialty wire and cable 
+distributor which formerly provided the Company with consulting services.  From 
+March, 1992 to December, 1992, he served as a Director of the Maddox Group, Plc.
+From 1989 to June 1995, Mr. Rowley served as Director of The Peak Technologies 
+Group, Inc., a Nasdaq National Market listed company, and also served from 
+February, 1989 to November, 1992, as Vice President and Chief Financial Officer.
+Since 1989, Mr. Rowley has been Vice President, Treasurer and Chief Financial 
+Officer of Edwardstone & Company, Inc.  From 1988 to 1989, he was Vice President
+and Chief Financial Officer of Thomson T-Line, Inc., a wholly-owned subsidiary 
+of Thomson T-Line Plc.  
+
+        Steven J. Bayern, age 47, has been a Director of the Company since 1992.
+Mr. Bayern is a principal of Cyndel & Co., Inc., a financial/management company
+from October 1992 to the present.  Mr. Bayern was registered as a principal with
+Aegis Capital Corp., a member firm of the National Association of Securities
+Dealers, Inc., from February, 1991 to November, 1992.  From 1984 to 1990, Mr.
+Bayern was President and a principal of S.J. Bayern & Co., Inc., a member firm
+of the National Association of Securities Dealers, Inc.
+<PAGE>
+        Mark E. Bloom, age 43, has been a Director of the Company since December
+1994.  Mr. Bloom has been Managing Director of Client Services for Walsh,
+Greenwood & Co., an investment management firm, since June, 1992.  From October
+1979 until 1992, Mr. Bloom was a tax partner and subsequently a managing 
+partner, with BDO Seidman, a certified public accounting firm.  Mr. Bloom is a 
+Director of SkyBox International Inc., a Nasdaq National Market listed company, 
+B&T Holdings Inc. a London Stock Exchange company and Cray Electronics Holding,
+a London Stock Exchange company.
+
+        Robert L. Frome, age 55, has been a Director of the Company since 
+January, 1992.  Mr. Frome has been engaged in the practice of law for more than 
+five years as a member of the law firm of Olshan Grundman Frome & Rosenzweig.  
+Mr. Frome is a Director of Sidari Corp., an Italian food importing company, and 
+Healthcare Services Group, Inc. and is Assistant Secretary of United Capital 
+Corp., an American Stock Exchange listed company.
+
+         Paul L. McDermott, age 41, has been a Director of the Company since
+January, 1992.  Mr. McDermott has been with Nomura Securities International, 
+Inc. since November, 1986 most recently as a Managing Director of Nomura 
+Securities International, Inc. and prior thereto the Vice President and Section 
+Head of the Mergers and Acquisitions Group.  In such capacities, he is 
+responsible for overseeing the structuring and negotiation of mergers and 
+acquisitions transactions.  Mr. McDermott is a Director of Perception, Inc., a 
+Nasdaq National Market listed company.
+
+         Jeffrey S. Podell, age 54, has been a Director of the Company since
+January, 1992.  Mr. Podell has been the Chairman of the Board and President of
+Newsote Inc. since September, 1989 and has been a private investor for more than
+five years.  Mr. Podell is an attorney licensed to practice law in the State of
+New York.  Mr. Podell is a Director of Brooke Group, Ltd., a New York Stock
+Exchange listed company.
+
+
+
+         The following is an Executive Officer of the Company who is not a 
+Director.
+
+         Nicholas T. Hutzel- Controller and Secretary, age 25, has been employed
+by the Company since 1993.  Mr. Hutzel became Controller and Secretary in March
+1994.  Prior thereto, Mr. Hutzel was a Controller of Corporate Service, Inc. 
+from February, 1992 to May, 1993.  Previous to that time, Mr. Hutzel was a staff
+accountant at Griesmeyer & Olsen, Certified Public Accountants for more than
+three years.
+
+
+
+ITEM ELEVEN - EXECUTIVE COMPENSATION
+
+         The following table sets forth, for the fiscal year indicated, all
+compensation awarded to, earned by or paid to all individuals serving as the
+Company's Chief Executive Officer ("CEO") or acting in a similar capacity and 
+the one other Executive Officer of the Company other than the CEO whose salary 
+and bonus exceeded $100,000 with respect to the fiscal year indicated.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+                             SUMMARY COMPENSATION TABLE
+
+
+                                          Other     LONG TERM COMPENSATION 
+                                          Annual   
+                                          Compen-               All Other
+Name and                   Salary   Bonus sation     Number    Compensation
+Principal Position   Year    ($)     ($)  ($)(1)   of Options      ($)     
+- ------------------   ----  -------  ----- ------   ----------  ------------
+
+Donald W. Rowley,    1995  200,000    -     -        100,000      3,580 (3)
+ President           1994   62,692    -     -        300,000      3,580 (3)
+
+Michael Scanzano,    1994   59,711    -     -          -            -
+ President           1993  126,770    -     -         20,000        -
+
+Charles J. McMullin, 1994   48,654    -     -          -            -
+ Chief Executive     1993  146,579    -     -         60,000        -
+ Officer (2)
+         
+
+     (1)  Perquisites and other personal benefits, securities or property to 
+each executive officer did not exceed the lesser of $50,000 or 10% of such 
+executive officer's annual salary and bonus.
+
+
+     (2)  As of October 1993, Mr. McMullin was no longer Executive Officer or
+Employee of the Company.  Mr. Rowley was appointed to replace Mr. McMullin in
+March 1994.
+
+     (3) The Company has purchased for Mr. Rowley a split dollar life insurance
+policy.  The Company pays the premium on such policy.
+
+         The Company has no defined benefit pension plans.
+
+
+
+DIRECTORS' COMPENSATION
+
+
+         In fiscal 1995, directors who were not employees of the Company 
+received an annual fee of $6,000 and a fee of $1,000 for each Board of Directors
+meeting attended and were reimbursed for their expenses.  Non-employee members 
+of committees of the Board of Directors were paid an annual fee of $1,000 for 
+each committee they serve on and $500 for each committee meeting attended.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+STOCK OPTION TABLE
+
+         The following table provides further information with respect to the
+options granted to the President, Mr. Rowley as of the fiscal year ended June 
+30, 1995.
+                        Options Granted in Last Fiscal Year
+
+                                  Individual Grants             
+                                    % of Total 
+                                      Options
+                                    Granted to   Exercise
+                                    Employees    or Base   Expir-
+                       Options      in  Fiscal     Price   ation 
+Name                  Granted (#)       Year       ($/Sh)   Date  
+- ----------------      ------------  ----------   --------  ------
+
+Donald W. Rowley       100,000 (1)    100%          .50     (2)     
+
+  (1) Mr. Rowley deposited $50,000 with a lender as cash collateral for a 
+      portion of a loan made to an entity he previously served as an officer and
+      director. The Company had agreed, pursuant to his employment agreement, to
+      purchase such cash collateral from Mr. Rowley for $50,000 in the event
+      such cash collateral was not released by March 31, 1995 and, in turn, Mr.
+      Rowley had agreed to assign to the Company his rights and privileges with
+      respect to such cash collateral.  At March 31, 1995, however, the Company
+      was released from this guarantee obligation by Mr. Rowley. 
+      Contemporaneous with the release, the Company issued Mr. Rowley stock
+      options to purchase 100,000 shares of the Company's common stock at $.50
+      per share (which was for an amount not less than the fair market value at
+      date of grant).
+
+  (2) Options expire five years from the date they become exercisable.
+
+
+         The following table provides information with respect to options 
+exercised and option values as of the fiscal year ended June 30, 1995.
+
+               Aggregated Options Exercised in Last Fiscal Year and
+                           Fiscal Year-End Option Values
+
+                                                           Value of
+                                            Number of     Unexercised
+                       Shares              Unexercised    In-the-Money
+                      Acquired               Options        Options 
+                         on      Value     at 6/30/95   at 6/30/95($)(1)
+                      Exercise  Realized   Exercisable/   Exercisable/
+Name                     #         $      Unexercisable  Unexercisable
+- ----------------      --------  --------  -------------  -------------
+
+Donald W. Rowley         0         0     200,000/200,000        0/0 
+
+      (1) The dollar value of unexercised options is calculated by determining
+      the difference between the fair market of the Company's Common Stock which
+      underlies the option at June 30, 1995, and the exercise price of the
+      options.
+
+<PAGE>
+EMPLOYMENT AGREEMENT
+
+On March 31, 1994, the Company entered into an employment agreement with its
+President, Donald W. Rowley, which requires total annual minimum compensation of
+$200,000 through March 1997 plus an annual bonus based on a percent of specified
+levels of achieved net profits.  In addition, the Company's president deposited
+$50,000 with a lender as cash collateral for a portion of a loan made to an
+entity the president previously served as an officer and director. The Company
+had agreed, pursuant to the employment agreement, to purchase such cash
+collateral from its president for $50,000 in the event such cash collateral was
+not released by March 31, 1995 and, in turn, the president had agreed to assign
+to the Company his rights and privileges with respect to such cash collateral. 
+At March 31, 1995, however, the Company was released from this guarantee
+obligation by the president.  Contemporaneous with the release, the Company
+issued the president stock options to purchase 100,000 shares of the Company's
+common stock at $.50 per share (which was for an amount not less than the fair
+market value at date of grant).
+
+
+ITEM TWELVE - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The following table sets forth as of June 30, 1995, certain information 
+regarding beneficial ownership of the Common Stock held by each person known by 
+the Company to own beneficially more than 5% of the Common Stock, each of the 
+Company's directors, each of the executive officers named in the Summary 
+Compensation Table, and all of the Company's executive officers and directors as
+a group.
+
+                                    
+Name and Address                    Beneficial Ownership 
+of Beneficial Owner                  Shares            %
+- ---------------------              -----------------------
+
+Aeorflex Incorporated              1,247,600 (1)       9.9
+35 South Service Road
+Plainview, NY 11803
+
+Steven J. Bayern                     419,781 (2)(3)    3.3
+
+Robert J. Eide                       258,750 (4)       2.0
+
+Robert J. Eide Family Trust          481,519 (2)       3.8
+
+Robert L. Frome                      758,625 (2)(5)    6.0
+505 Park Avenue
+New York, NY  10022
+
+Paul L. McDermott                    641,994 (2)(6)    5.1
+180 Maiden Lane
+New York, NY  10038
+
+Jeffrey S. Podell                    641,994 (2)(7)    5.1
+70 East Sunrise Highway
+Valley Stream, NY  11581
+
+Donald W. Rowley                     382,350 (2)(8)    3.0
+
+Mark E. Bloom                           -              -
+
+All directors and officers as a    2,903,494 (9)      22.0
+  group (9 persons)
+
+
+<PAGE>
+   (1)Based upon a Statement on Schedule 13D filed with the Securities and
+      Exchange Commission on February 9, 1990 and the sale of 500,000 shares of 
+      Common Stock to VX Capital Partners, L.P.  ("VX")  on October 18, 1991.
+      VX, with the consent of Aeroflex Incorporated, has granted Norstar Bank
+      presently exercisable options to purchase 250,000 shares of Common Stock
+      at $3.00 per share (market price at date of grant was $.81) Mr. Michael
+      Gorin, President of Aeroflex Incorporated, exercises voting power over the
+      shares owned by Aeroflex Incorporated.
+
+   (2)The shares of Common Stock were transferred to such individuals or 
+      entities in December 1994 pursuant to the liquidation of VX.
+
+   (3)Includes  presently  exercisable  options to  purchase  90,000 shares.  
+      Mr. Bayern has been a Director of the Company since January 1992.  
+
+   (4)Includes presently exercisable options to purchase 190,000 shares.  Does
+      not include shares held by the Robert J. Eide Family Trust, for the
+      benefit of his family of which Mr. Eide disclaims beneficial interest. 
+      Mr. Eide has been a Director of the Company since October 1991 and was
+      Secretary of the Company from October 1991 to January 1992.  Mr. Eide was
+      named Chairman of the Board of the Company in April, 1994.  Also includes
+      68,750 shares owned of record by an unaffiliated party, as to which Mr.
+      Eide and two other individuals have an irrevocable proxy to vote.
+
+   (5)Includes presently exercisable options to purchase 90,000 shares and 1,000
+      shares purchased by the minor daughter of Mr. Frome.  Mr. Frome has been
+      a Director of the Company since January 1992 and is a member of Olshan
+      Grundman Frome & Rosenweig, which is general counsel to the Company.
+
+   (6)Includes  presently  exercisable options  to  purchase  40,000 shares. 
+      Mr. McDermott has been a Director of the Company since January, 1992.
+
+   (7)Includes  presently  exercisable options  to purchase  40,000  shares.
+      Mr. Podell has been a Director of the Company since January, 1992.
+
+   (8)Includes presently exercisable options to purchase 200,000 shares and 
+      excludes options to purchase 200,000 shares which are not presently
+      exercisable. 
+
+   (9)Includes presently exercisable options and warrants to purchase 510,000 
+      shares.
+
+
+
+
+ITEM THIRTEEN - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Robert L. Frome, a Director of the Company, is a member of the law firm
+of Olshan Grundman Frome & Rosenzweig, general counsel to the Company.  Fees
+received from the Company by such firm during the fiscal year ended June 30,
+1995 did not exceed 5% of such firm's or the Company's revenues.
+
+         On April 18, 1994, the Company granted five year options to purchase 
+Common Stock at $.50 per share to the following members of its Board of 
+Directors: Robert J. Eide - options to purchase 150,000 shares;  Steven J. 
+Bayern - options to purchase 50,000 shares;  and Robert L. Frome - options to 
+purchase 50,000 shares.  The options were granted pursuant to a Board approved 
+stock option plan.  The adoption of the plan and issuance of the options were 
+approved at the July 27, 1994 annual meeting of the shareholders.  In addition, 
+the Company recently entered into a three year management consulting agreement 
+with Mr. Bayern pursuant to which he will receive $4,000 per month for his 
+services.
+
+<PAGE>
+         In connection with the Company's completion of an equity transaction in
+March, 1994, one investor, Henry Hackel, who purchased 500,000 shares and
+warrants received personal guarantees from certain partners of VX Capital
+Partners, L.P., all of whom are Directors of the Company and collectively
+constitute the majority of the Company's Board of Directors, that in the event
+of a loss from the sale of the shares, they will indemnify Mr. Hackel at any 
+time through February 16, 1996.  Mr. Hackel was the first investor in the equity
+transactions commenced in March 1994 and the guarantors agreed to provide the
+guarantees as an incentive for his participation in the equity transactions. 
+The guarantees have been mutually terminated by the parties thereto.
+
+         On September 20, 1994 the Company's Board of Directors approved a bonus
+agreement for the Company's Chairman of the Board.  The agreement provides for
+the Chairman to receive a bonus of 5% of the Company's net operating profits up
+to a maximum of $100,000 for the fiscal year ended June 30, 1995.  No bonus
+payments will be made under this bonus agreement for such year.
+
+<PAGE>
+                                     PART IV
+
+ITEM FOURTEEN - EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)      Financial Statements
+
+         See index to consolidated financial statements.
+
+(b)      Form 8-K Reports
+
+         No reports on Form 8-K were filed during the fourth quarter of fiscal 
+         1995.
+
+(c)      Exhibits
+
+         3.1(a) Certificate of Incorporation (Exhibit 3(a) of Form S-18
+                Registration Statement No. 33-7693-NY)
+
+         3.1(b) Certificate of Incorporation, as amended (Exhibit 3.1(a) 
+                to the Company's Annual Report on Form 10-K for the 
+                fiscal year ended June 30, 1993 File No. 1-9263)
+
+         3.1(c) Certificate of Amendment of the Certificate of 
+                Incorporation, 
+
+         3.2    By-Laws (Exhibit 3(b) of Form S-18 Registration Statement
+                No. 33-7693-NY)
+
+         4.1    Form of Investment Banking Warrants (Exhibit 4.1 to the
+                Company's Quarterly Report on form 10-Q for the quarter 
+                ended March 31, 1994 File No. 33-7693)
+
+         4.2    Form of Private Placement Warrants (Exhibit 4.2 to the 
+                Company's Quarterly Report on form 10-Q for the quarter 
+                ended March 31, 1994 File No. 33-7693)
+ 
+         4.3    Warrant to Sterling Commercial Capital, Inc. (Exhibit 4.3 to the
+                Company's Quarterly Report on form 10-Q for the quarter ended
+                March 31, 1994 File No. 33-7693)
+
+         10.1   Sublease Agreements between Registrant and VTX Associates dated
+                December 1, 1985 (Exhibit 10(a) of Form S-18 Registration
+                Statement No. 33-7693-NY)
+
+         10.2   Assignment and Assumption Agreement dated June 30, 1986 between
+                Registrant and VTX Associates (Exhibit 10(i) of Form S-18
+                Registration Statement No. 33-7693-NY)
+
+
+         10.3   1989 Non-Qualified Stock Option Plan (Exhibit 10.12 of Annual
+                Report on Form 10-K for the year ended June 30, 1990)
+ 
+         10.4   1991 Stock Option Plan (Exhibit 10.7 to the Company's Annual
+                Report on Form 10-K for the fiscal year ended June 30, 1993 File
+                No. 1-9263)
+
+         10.5   Accounts Receivable Agreement [Security Agreement] between  
+                Congress Financial Corporation and Vertex Electronics, Inc.,
+                filed as exhibit 10(a) on Form 8-K on December 31, 1992.
+
+         10.6   Term Note of Vertex Electronics, Inc. dated December 31, 1992
+                in the principal amount of $1,500,000 in favor of Fleet Bank,
+                filed as exhibit 10(b) on Form 8-K on December 31, 1992.
+
+<PAGE>
+         10.7   Stock Purchase Agreement dated as of October 17, 1991 between
+                VX Capital Partners, L.P. and VTX Electronics, Corp,
+                incorporated by reference to exhibit 28(a) to the Registrant's
+                Current Report on Form 8-K dated October 18, 1991.
+
+         10.8   Warrant Agreement, dated as of October 17, 1991, between VX
+                Capital Partners, L.P. and VTX Electronics Corp., incorporated
+                by reference to exhibit 28(b) to the Registrant's Current Report
+                on Form 8-K dated October 18, 1991
+
+         10.9   Loan Agreement dated as of October 17, 1991 between Vertex
+                Electronics, Inc. and VX Capital Partners, L.P., incorporated
+                by reference to exhibit 28(c) to the Registrant's Current Report
+                on Form 8-K dated October 18, 1991
+
+         10.10  Guaranty, dated as of October 17, 1991, by VTX Electronics Corp.
+                in favor of VX Capital Partners, L.P., incorporated by reference
+                to exhibit 28(e) to the Registrant's Current Report on Form 8-K
+                dated October 18, 1991
+
+         10.11  Investment Banking Agreement with Chatfield Dean & Co., Inc.
+                dated March 28, 1994 (Exhibit 10.1 to the Company's Quarterly
+                Report on form 10-Q for the quarter ended March 31, 1994 File
+                No. 33-7693)
+
+         10.12  Employment Agreement with Donald W. Rowley, dated March 31,
+                1994. (Exhibit 10.2 to the Company's Quarterly Report on form
+                10-Q for the quarter ended March 31, 1994 File No. 33-7693)
+
+         10.13  Loan Agreement dated March 31, 1994 between VTX Electronics
+                Corp., Vertex Electronics Inc. and Sterling Commercial Capital,
+                Inc. (Exhibit 10.3 to the Company's Quarterly Report on form  
+                10-Q for the quarter ended March 31, 1994 File No. 33-7693)
+
+         10.14  $1,200,000 promissory note, dated March 31, 1994 made by VTX
+                Electronics Corp. and Vertex Electronics Inc. in favor of
+                Sterling Commercial Capital, Inc. (Exhibit 10.4 to the Company's
+                Quarterly Report on form 10-Q for the quarter ended March 31,
+                1994 File No. 33-7693)
+
+         10.15  1994 Directors Stock Option Plan.
+         
+         21     Subsidiaries - 
+                        Name                             Place of Incorporation
+                Vertex Technologies, Inc.                New York
+                Vertex Electronics UK Ltd.               United Kingdom
+                Vertex Data Systems, Inc.                Delaware (inactive)
+
+*        23     Consent of Grant Thornton LLP, Independent Certified Public
+                Accountants.
+
+
+       *Filed herewith 
+<PAGE>
+       Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on 
+its behalf by the undersigned, thereunto duly authorized on the 28th day of
+September, 1995.    
+
+
+                                                   VTX ELECTRONICS CORP.
+
+
+
+                                                   By:     /s/ Robert J. Eide
+                                                           ---------------------
+                                                           Chairman of the Board
+ 
+       Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on September 28, 1995 by the following persons in
+the capacities indicated:
+
+/s/ Robert J. Eide                                  Chairman of the Board
+- ----------------------
+Robert J. Eide
+
+/s/ Donald W. Rowley                                President and Director
+- ----------------------
+Donald W. Rowley                                    
+
+/s/ Steven J. Bayern                                Director
+- ----------------------
+Steven J. Bayern
+
+/s/ Mark E. Bloom                                   Director
+- ----------------------
+Mark E. Bloom
+
+/s/ Robert L. Frome                                 Director
+- ----------------------
+Robert L. Frome
+
+/s/ Paul L. McDermott                               Director
+- ----------------------
+Paul L. McDermott
+
+/s/ Jeffrey S. Podell                               Director
+- ----------------------
+Jeffrey S. Podell
+
+
+/s/ Nicholas T. Hutzel                              Controller, Secretary and 
+- ----------------------
+Nicholas T. Hutzel                                  Principal Accounting Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+
+
+TABLE OF CONTENTS
+- -----------------
+                                                                    Page
+CONSOLIDATED FINANCIAL STATEMENTS:                  
+
+   Report of Independent Certified Public Accountants                F-1
+
+   Balance Sheets - June 30, 1995 and 1994                           F-2
+
+   Statements of Operations - Years 
+     Ended June 30, 1995, 1994 and 1993                              F-3
+
+   Statement of Changes in Stockholders'
+     Equity - Years Ended June 30, 1995,
+     1994 and 1993                                                   F-4
+
+   Statements of Cash Flows - Years
+     Ended June 30, 1995, 1994 and 1993                              F-5
+
+   Notes to Consolidated Financial Statements                        F-6
+
+CONSOLIDATED FINANCIAL STATEMENT SCHEDULES:
+   
+     II.  Valuation and Qualifying Accounts                         F-21
+
+
+
+<PAGE>
+                               REPORT OF INDEPENDENT CERTIFIED
+                                     PUBLIC ACCOUNTANTS
+
+
+
+Board of Directors and Stockholders
+   VTX Electronics Corp.
+
+
+
+We have audited the accompanying consolidated balance sheets of VTX Electronics
+Corp. and Subsidiaries as of June 30, 1995 and 1994, and the related 
+consolidated statements of operations, stockholders' equity and cash flows for 
+each of the three years in the period ended June 30, 1995.  These financial 
+statements are the responsibility of the Company's management.  Our 
+responsibility is to express an opinion on these financial statements based on 
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in 
+all material respects, the consolidated financial position of VTX Electronics 
+Corp. and Subsidiaries as of June 30, 1995 and 1994 and the consolidated results
+of their operations and their consolidated cash flows for each of the three 
+years in the period ended June 30, 1995, in conformity with generally accepted
+accounting principles.
+
+In connection with our audits of the consolidated financial statements referred
+to above, we have also audited Schedule II for each of the three in the period
+ended June 30, 1995.  In our opinion, this schedule presents fairly, in all
+material respects, the information required to be set forth therein.
+
+
+
+
+Grant Thornton LLP
+
+Melville, New York
+August 30, 1995
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             F-1
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                                CONSOLIDATED BALANCE SHEETS
+
+                                                    June 30,          June 30,
+ASSETS                                                1995              1994    
+                                                  ------------      ------------
+
+CURRENT ASSETS:
+  Cash                                            $   583,388       $   593,438
+  Accounts receivable, net of allowance for
+   doubtful accounts of $154,000 and $394,000,                                 
+   in 1995 and 1994, respectively                   4,864,443         6,061,826
+  Inventories, net                                  3,786,172         3,628,949
+  Prepaid expenses and other current assets           463,518           308,191
+                                                  ------------      ------------
+  TOTAL CURRENT ASSETS                              9,697,521        10,592,404
+
+
+PROPERTY, PLANT AND EQUIPMENT, net                  3,264,975         3,558,540
+
+
+DEFERRED CHARGES AND OTHER ASSETS                     224,451           280,525
+                                                  ------------      ------------
+
+TOTAL ASSETS                                      $13,186,947       $14,431,469
+                                                  ============      ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+
+  Current portion of long-term debt               $   158,954       $    75,815
+  Accounts payable and accrued expenses             5,062,469         5,196,455
+                                                  ------------      ------------
+  TOTAL CURRENT LIABILITIES                         5,221,423         5,272,270
+                                                                                
+LONG-TERM DEBT                                      5,966,383         6,338,355
+
+COMMITMENTS AND CONTINGENCIES
+
+MINORITY INTEREST IN SUBSIDIARY                          -               12,534
+
+STOCKHOLDERS' EQUITY:
+  Preferred stock, par value $ .01 per
+   share; authorized 5,000,000 shares;
+   none issued                                           -                 -   
+  Common stock, par value $ .10 per
+   share; authorized 40,000,000 shares;
+   issued and outstanding 12,652,000
+   and 11,837,500 shares in 1995                                                
+   and 1994, respectively                           1,265,200         1,183,750
+  Paid-in capital                                   8,591,476         8,275,676
+  Accumulated deficit                              (7,705,550)       (6,389,506)
+  Notes receivable from officers                      (50,000)         (100,000)
+  Deferred compensation                               (98,433)         (154,687)
+  Cumulative translation adjustment                    (3,552)           (6,923)
+                                                  ------------      ------------
+  TOTAL STOCKHOLDERS' EQUITY                        1,999,141         2,808,310
+                                                  ------------      ------------
+                                                                               
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY        $13,186,947       $14,431,469
+                                                  ============      ============
+
+
+
+
+
+    The accompanying notes are an integral part of these financial statements.
+
+
+
+                                           F-2
+<PAGE>
+                        VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                         CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+                                                Years Ended June 30,           
+
+ 
+                                          1995           1994          1993    
+                                       ------------   ------------  ------------
+Net sales                              $34,472,386    $42,864,272   $49,406,815 
+
+Cost of goods sold                      27,311,037     33,490,460    39,934,940 
+                                       ------------   ------------  ------------
+Gross profit                             7,161,349      9,373,812     9,471,875 
+
+Selling, general and 
+  administrative expenses                7,571,586     10,478,818    10,410,870 
+
+Restructuring charges                       91,000        939,000        -     
+
+Interest expense                           827,088        901,314     1,047,972 
+
+Foreign currency (gain) loss               (12,281)       (10,821)       68,961 
+                                       ------------    -----------   -----------
+Loss before income taxes and
+  extraordinary items                   (1,316,044)    (2,934,499)   (2,055,928)
+
+Income tax benefit                           -               -          (26,000)
+                                       ------------    -----------   -----------
+Loss before extraordinary 
+  items                                 (1,316,044)    (2,934,499)   (2,029,928)
+
+Extraordinary items
+  Gain of $780,496 and $2,600,000 on
+   extinguishment of debt in 1994 and
+   1993, respectively, net of related
+   expenses of $33,074 and $90,000, 
+   respectively, and income taxes of
+   $188,400 in 1993                          -            747,422     2,321,600 
+                                     
+  Utilization of net operating loss 
+   carryforward                              -               -          170,000 
+                                       ------------   ------------  ------------
+Net income (loss)                      $(1,316,044)   $(2,187,077)  $   461,672 
+                                       ============   ============  ============
+Income (loss) per share          
+  Loss before extraordinary items         ($.11)         ($.47)        ($.35)
+  Extraordinary items                        -             .12           .43   
+                                          ------         ------        ------
+   Net income (loss) per share            ($.11)         ($.35)         $.08   
+                                          ======         ======        ======
+
+
+Weighted average number of shares
+  outstanding                           12,264,985      6,239,417     5,777,548 
+                                        ==========      =========     =========
+
+
+
+
+
+
+    The accompanying notes are an integral part of these financial statements.
+
+                                             F-3
+<PAGE>
+                         VTX ELECTRONICS CORP. AND SUBSIDIARES
+                  CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDER' EQUITY
+                         YEARS ENDED JUNE 30, 1995, 1994 AND 1993
+
+<TABLE>
+<CAPTION>             
+
+                                                                                 Receivable                 Cumulative     Total
+                                      Common Stock        Paid-in  Accumulated      From       Deferred     Translation Stockholder'
+                                  Shares      Amount      Capital    deficit      Officers   Compensation   Adjustment     Equity
+                                 ---------   --------   ----------  -----------  ---------  -------------   ----------   ---------- 
+<S>                              <C>         <C>        <C>         <C>          <C>         <C>            <C>          <C>  
+Balance, July 1 1992             5,187,500   $518,750   $5,199,628  ($4,664,101)                                         $1,054,277
+
+Net Income                                                              461,672                                             461,672
+
+Sale of common stock               100,000     10,000       90,000                                                          100,000
+
+Notes receivable
+   from officer                                                                  ($50,000)                                  (50,000)
+
+Foreign translation adjustment                                                                                ( $14,419)    (14,419)
+
+Balance, June 30, 1993           5,287,500    528,750    5,289,628   (4,202,429) ( 50,000)                    (  14,419)  1,551,530
+
+Net Loss                                                             (2,187,077)                                         (2,187,077)
+
+Issuance of common stock
+  (net of related costs of 
+   $560,000)                     6,550,000    655,000    2,059,954                                                        2,714,954
+
+Note receivable from officer                                                     ( 50,000)                                  (50,000)
+
+Warrants issued to lender                                  175,781                                                          175,781
+
+Warrants issued to officer                                  56,250                                                           56,250
+
+Options granted to officers
+  and directors                                            325,000                          ($168,750)                      156,250
+
+Warrants and options granted
+  to consultants                                           369,063                                                          369,063
+
+Freign translation adjustment                                                                                    7,496        7,496
+
+Amortization of deferred 
+  compensation                                                                                 14,063                        14,063
+
+Balance, June 30, 1994          11,837,500  1,183,750    8,275,676   (6,389,506) (100,000)   (154,687)          (6,923)   2,808,310
+
+Net loss                                                             (1,316,044)                                         (1,316,044)
+
+Options exercised by employees      25,000      2,500                                                                         2,500
+
+Debt conversion to stock           789,500     78,950      315,800                                                          394,750
+
+Settlement on officers note                                                         50,000                                   50,000
+
+Foreign translation adjustment                                                                                   3,371        3,371
+
+Amortization of deferred
+  compensation                                                                                 56,254                        56,254
+
+Balance, June 30, 1995          12,652,000 $1,265,200   $8,591,476 ($7,705,550)   ($50,000)  ($98,433)         ($3,552)  $1,999,141
+
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+                         VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                          CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>           
+                                                                    Years Ended June 30,           
+                                                            1995            1994            1993 
+                                                        ------------    ------------     -----------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+<S>                                                     <C>             <C>              <C>
+Net income (loss)..................................     ($1,316,044)    ($2,187,077)     $  461,672 
+Adjustments to reconcile net income (loss) to net
+ cash provided by/(used in) operating activities:
+   Depreciation and amortization...................         543,848         668,803         623,711 
+   Provision for (recovery of) losses on accounts
+    receivable.....................................        (107,000)        524,000         255,000 
+   Provision for slow moving and obsolete
+    inventories....................................          65,000          83,749       1,200,000 
+   Non-cash compensation...........................          56,254         595,626            -    
+  Gain (loss) on sale of assets....................          (3,967)        (11,500)         19,824 
+  Deferred income tax benefit......................            -               -            (26,000)
+  Gain on extinguishment of debt...................            -           (780,496)     (2,491,600)
+  Changes in operating assets and liabilities:
+   (Increase)/decrease in accounts receivable......       1,304,383       1,597,761        (797,698)
+   (Increase)/decrease in inventories..............        (222,223)        753,851       1,647,898 
+   (Increase)/decrease in prepaid expenses and
+    other current assets...........................        (155,327)         52,463         160,534 
+   (Increase)/decrease in deferred charges and
+    other asset....................................         (69,785)          1,313        (404,800)
+   Increase/(decrease) in accounts payable and 
+    accrued expenses...............................        (109,020)       (670,181)        587,500 
+                                                         -----------     -----------     -----------
+   Net cash provided by/(used in) operating
+    activities.....................................         (13,881)        628,312       1,236,041 
+                                                         -----------     -----------     -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+  Capital expenditures.............................        (126,957)        (31,552)       (591,768)
+  Proceeds from sale of property, plant and
+   equipment.......................................           6,500            -              7,000 
+                                                        ------------     -----------     -----------
+   Net cash used in investing activities.........          (120,457)        (31,552)       (584,768)
+                                                        ------------     -----------     -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+  Borrowing under debt and loan agreements.........      38,847,289      69,046,381      59,402,253 
+  Debt repayments..................................     (38,700,978)    (71,742,018)    (60,000,516)
+  Principal payments under capital leases..........         (40,394)       (110,260)       (244,751)
+  Proceeds from officer note.......................          12,500 
+  Issuance of common stock and exercise of
+   options/warrants, net...........................           2,500       2,714,954          50,000 
+                                                       -------------    ------------    ------------
+   Net cash provided by/(used in) financing
+    activities.....................................         120,917         (90,943)       (793,014)
+                                                       -------------    ------------    ------------
+Effects of exchange rate changes on cash...........           3,371           7,496         (14,419)
+                                                       -------------    ------------    ------------
+INCREASE/(DECREASE) IN CASH........................         (10,050)        513,313        (156,160)
+
+CASH at beginning of year..........................         593,438          80,125         236,285 
+                                                       -------------    ------------    ------------
+CASH at end of year................................    $    583,388     $   593,438     $    80,125 
+                                                       =============    ============    ============
+<CAPTION>
+<S>                                                     <C>             <C>             <C>
+Supplemental Disclosures of Cash Flow Information:
+
+Cash paid for:
+  Interest                                              $   817,237     $   922,035     $ 1,104,499 
+                                                        ===========     ===========     ===========
+  Income taxes                                          $      -        $    11,123     $    68,822  
+                                                        ===========     ===========     ===========
+</TABLE>
+
+      The accompanying notes are an integral part of these financial statements.
+
+                                            F-5
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+1.      BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+    a.  General - VTX Electronics Corp. and subsidiaries (the "Company") operate
+        primarily in one business segment - distribution and assembly of
+        electronic wire, cable and related products used primarily for data
+        communication.  The consolidated financial statements include the
+        accounts of VTX Electronics Corp. and its wholly-owned subsidiaries,
+        Vertex Technologies, Inc.,  Vertex Data Systems, Inc. [inactive] and its
+        foreign subsidiary, Vertex Electronics UK, LTD.  All significant
+        intercompany transactions and balances have been eliminated in
+        consolidation.
+
+        The Company had losses before extraordinary items of $1,316,044,
+        $2,934,499 and $2,029,928 for the years ended June 30, 1995, 1994 and
+        1993, respectively.  Sales during fiscal 1995 were negatively impacted
+        due to tight industry supply of certain cable and wire items and lost
+        sales from related items without the "pull through" effect of the items
+        in tight supply.  The tight supply situation has stabilized and should
+        improve through 1996.  In addition, turnover of sales personnel and
+        recently hired sales personnel learning the Company's operation had a
+        further negative impact on sales.  Management has increased efforts to
+        hire and train new sales personnel.
+
+        Management's plans to continue operating the Company include generating
+        sufficient cash flows from operations, primarily through the timely
+        liquidation of receivables and careful management of inventory
+        purchases, including the respective payments thereof.  In addition, the
+        Company completed a financial reorganization and operational
+        restructuring during the year ended June 30, 1995, which commenced in
+        fiscal 1994.  The financial reorganization included the satisfaction of
+        certain lender obligations at a discount during fiscal 1994, and the
+        amendment of a long-term revolving credit facility, which was extended
+        to December 31, 1997, as described in Note 6a.  The operational
+        restructuring included the discontinuance of certain product lines,
+        closing of certain branch operations and the termination of certain
+        employees (Note 2).  Management believes that the restructuring will
+        position the Company toward profitable growth in margins as a result of
+        greater specialization and purchasing leverage, and by reducing
+        corporate overhead.  Management believes that current levels of working
+        capital ($4,476,098 at June 30, 1995) including cash balances of
+        $583,388 and excess cash availability of approximately $502,000 from its
+        revolving credit facility at June 30, 1995 (Note 6a), will be adequate
+        to fund operations for the next fiscal year.
+
+    b.  Inventories - Inventories, consisting principally of products held for
+        sale, are stated at the lower of cost (first-in, first-out method) or
+        market.
+
+    c.  Property, Plant and Equipment - Property, plant and equipment are stated
+        at cost less accumulated depreciation and amortization computed on a
+        straight-line basis over the estimated useful lives of the respective
+        assets.  Building improvements are amortized over the useful life of the
+        improvement.  Expenditures for maintenance, repairs and betterments
+        which do not materially extend the useful lives of the assets are
+        charged to operations as incurred.  The cost and related accumulated
+        depreciation of assets retired or sold are removed from the respective
+        accounts and any gain or loss is recognized in operations.
+
+                                        F-6                            
+<PAGE>
+                      VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                           JUNE 30, 1995, 1994 AND 1993
+
+
+    d.  Revenue Recognition - The Company recognizes revenue on the date the
+        product is shipped to the customer.
+
+    e.  Deferred Costs - Costs incurred in connection with debt refinancing
+        consisting primarily of loan origination fees, broker's commission,
+        legal and other fees have been capitalized and are being amortized on
+        a straight-line basis over the term of the loans.  Amounts of
+        refinancing costs deferred at June 30, 1995 and 1994 were $171,400 and
+        $202,100, respectively.  
+            
+    f.  Income Taxes - The Company has adopted Statement of Financial Accounting
+        Standards (SFAS) No. 109. "Accounting for Income Taxes", as of July 1,
+        1993.  SFAS No. 109 requires an asset/liability approach for financial
+        accounting and reporting for income taxes.  
+
+    g.  Income (Loss) Per Share - The weighted average shares outstanding
+        include common shares outstanding and common equivalent shares
+        attributable to outstanding stock options and warrants, if dilutive. 
+        The income (loss) per share amounts are computed by dividing the net
+        income or (loss) for each year by the weighted average number of common
+        and common equivalent shares (if dilutive) outstanding during the
+        period.  The weighted average number of shares outstanding includes
+        common stock equivalents of 555,527 for the year ended June 30, 1993. 
+        For the years ended June 30, 1995 and 1994, the outstanding options and
+        warrants were not considered in the determination of the Company's net
+        loss per share as their effect was antidilutive. 
+
+    h.  Foreign Currency Translation and Transactions - Assets and liabilities
+        of the Company's foreign subsidiary are translated at year-end exchange
+        rates.  Results of operations are translated using the average exchange
+        rates prevailing throughout the year.  Exchange rate changes arising
+        from translation are included in the cumulative translation component
+        of stockholders' equity.  Gains and losses from foreign currency
+        transactions are included in the net income (loss) for the year.
+
+    i.  Reclassification - Certain amounts in the prior years' financial
+        statements have been reclassified to conform to the current year
+        presentation.
+
+2.  RESTRUCTURING CHARGES
+
+    The consolidated statements of operations for the years ended June 30, 1995
+    and 1994 reflect the costs of a fiscal 1994 restructuring plan designed to
+    realign the Company's corporate headquarters and field operations to
+    increase its overall profitability through the closing of certain branches,
+    the elimination of certain marginally profitable product lines and the
+    disposal of certain assets.  The fiscal 1994 restructuring charge of
+    $939,000 consisted of provisions for termination of certain employment
+    contracts, employee severance and benefit settlements of $264,000,
+    inventory write-downs for discontinued product lines of $321,000, and the
+    abandonment of leased facilities, equipment and other assets of $354,000.
+    Additional costs of $91,000 associated with the Company's restructuring
+    effort were incurred in fiscal 1995.  Such costs were primarily associated
+    with final settlements reached in fiscal 1995 for the termination of
+    certain employment contracts, employee severance and benefit arrangements,
+    as well as additional related legal fees associated therewith.  As of June
+    30, 1995, approximately $127,000 of restructuring charges remain payable
+    in accordance with the terms of such settlements.
+
+                                            F-7
+<PAGE>
+                         VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                       NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                              JUNE 30, 1995, 1994 AND 1993
+
+
+
+3.     INVENTORIES
+
+       The Company has recorded a reserve for obsolete and slow-moving inventory
+       following a review of inventory levels of certain product lines and an
+       evaluation of the inventory based on changes in technology and markets. 
+       As of June 30, 1995 and 1994, the reserve was approximately $535,000 and
+       $903,000, respectively.
+
+
+4.     PROPERTY, PLANT AND EQUIPMENT, NET
+
+       Property, plant and equipment, net, consist of the following:
+
+                                        Asset
+                                        lives                June 30,        
+                                       (years)        1995              1994
+                                                   ----------       ----------
+        Land                             --        $  545,776       $  545,776
+        Building and building 
+          improvements                   30         2,569,947        2,547,450
+        Machinery and equipment          10         1,637,227        1,610,963
+        Furniture and fixtures         5-10         2,077,904        1,999,709
+        Vehicles                          4            26,798           55,918
+                                                    ---------        ---------
+                                                    6,857,652        6,759,816
+        Less accumulated depreciation
+        and amortization                            3,592,677        3,201,276
+                                                   ----------       ----------
+                                                   $3,264,975       $3,558,540
+                                                   ==========       ==========
+
+        Depreciation and amortization of property, plant and equipment was
+        $418,464,  $490,362, and $484,053 for the years ended June 30, 1995, 
+        1994 and 1993, respectively.
+
+
+
+5.      ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+        Accounts payable and accrued expenses consist of the following:
+
+                                                                June 30,        
+                                                      1995               1994
+                                                   ----------         ----------
+        Accounts payable                           $4,463,076         $3,490,787
+        Accrued payroll and commissions               248,796            347,799
+        Other accrued expenses                        350,597          1,357,869
+                                                   ----------         ----------
+                                                   $5,062,469         $5,196,455
+                                                   ==========         ==========
+
+
+
+
+
+
+
+
+                                           F-8                         
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+6.      LONG-TERM DEBT
+    
+
+        Long-term debt consists of the following:
+                                                                 June 30,       
+                                                            1995         1994   
+                                                         -----------  ----------
+        Revolving asset-based loan (a)                   $ 4,903,805  $4,713,180
+        First mortgage loan, net of imputed interest (b)   1,025,741   1,024,496
+        Subordinated mortgage loan, net of imputed 
+         interest (b)                                         31,649      77,208
+        Machinery and equipment loan (c)                     105,250     500,000
+        Capitalized lease obligations (d)                     58,892      99,286
+                                                         -----------   ---------
+                                                           6,125,337   6,414,170
+
+        Less current portion of long-term debt               158,954      75,815
+                                                         -----------  ----------
+                                                         $ 5,966,383  $6,338,355
+                                                         ===========  ==========
+
+    a.  On December 31, 1992, the Company entered into a three-year long-term
+        revolving credit facility, providing a maximum availability of
+        $12,500,000, which replaced a $10,900,000 revolving asset-based loan
+        facility (which had an outstanding balance of approximately
+        $10,100,000), and restructured a $2,000,000 asset-based term loan.  The
+        Company satisfied these outstanding obligations aggregating $12,100,000
+        by paying approximately $8,000,000 and converting $1,500,000 to a new
+        subordinated term loan collateralized by a second mortgage on its
+        corporate headquarters.  The balance of $2,600,000 was forgiven and
+        recorded as an extraordinary gain net of related expenses in the
+        consolidated statement of operations for the year ended June 30, 1993. 
+        In connection with this financing, the Company incurred in fiscal 1993
+        costs approximating $405,000 which have been accounted for as deferred
+        charges and are being amortized through December 31, 1995.  On February
+        10, 1995, this credit facility was amended to: (i) extend the expiration
+        date to December 31, 1997, (ii) reduce the maximum availability from
+        $12,500,000 to $10,000,000, and (iii) provide for termination fees as
+        a result of default or early termination of 2%, 1% and .5% of the
+        maximum credit if such termination occurs before December 31, 1995,
+        December 31, 1996 or December 31, 1997, respectively.  In connection
+        with this financing amendment, the Company incurred in fiscal 1995 costs
+        approximating $80,000, which have been accounted for as deferred charges
+        and are being amortized through December 31, 1997.  Under the terms of
+        the credit facility, the Company is required to pay interest at prime
+        plus 2 3/4% and a commitment fee of 1/2% per annum on the daily average
+        unused portion of the credit.  Under the terms of the agreement,
+        borrowings are limited to 80% of eligible accounts receivable
+        (constituting those amounts outstanding 90 days or less) and 50% of
+        eligible accounts receivable outstanding between 91 and 120 days, and
+        40% of regular inventories and 20% of slow moving inventory.  As of June
+        30, 1995 and 1994, the Company had $5,406,000 and $5,513,000
+        availability under the eligibility terms of the facility, of which
+        $4,903,805 and $4,713,180 was outstanding on such dates, respectively. 
+        This loan is collateralized by substantially all of the assets of the
+        Company not otherwise collateralized.  In connection with its revolving
+        credit facility, the Company is subject to restrictive covenants which
+        impose certain limitations with respect to the Company's incurrence of 
+
+                                            F-9
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+        indebtedness, capital expenditures, creation or recurrence of liens,
+        declaration or payment of dividends or other distributions, mergers,
+        consolidations and sales or purchases of substantial assets.  In
+        general, the Company is not allowed to incur further indebtedness or
+        create additional liens on its assets except for unsecured current
+        liabilities incurred in the ordinary course of business or liabilities
+        incurred in the ordinary course of business secured by purchase money
+        security interest not to exceed an aggregate of $750,000.  The Company
+        is not allowed to make loans or investments or provide guarantees or to
+        prepay indebtedness.  The Company is prohibited from paying dividends
+        and may not enter into a merger, consolidation or sale of all or
+        substantially all of its assets.  Additionally, the Company is required
+        to maintain consolidated net worth of not less than $750,000 and to
+        maintain consolidated working capital, defined as current assets less
+        current liabilities and debt outstanding under the credit facility, of
+        not less than a negative $1.5 million.  
+
+    b.  On March 31, 1994, the Company satisfied its subordinated asset-based
+        term loans and the Industrial Development Agency Bonds aggregating
+        $2,080,496 on such date with the $1,200,000 proceeds from a first
+        mortgage loan and the issuance of a $100,000 non-interest bearing
+        subordinated mortgage loan payable in 24 monthly installments of $4,167
+        each commencing March 31, 1994.  As a result of this debt refinancing,
+        the Company recorded an extraordinary gain of $747,422 in the
+        consolidated statement of operations for the year ended June 30, 1994
+        net of related expenses of $33,074.
+        
+       The first mortgage loan is with a group of lenders, and is payable over
+       five years in monthly installments of $15,980, inclusive of principal
+       and interest at 14%, commencing May 1, 1994, with a final installment
+       of principal of $1,033,183 payable on April 1, 1999 and collateralized
+       by a first mortgage lien on the Company's corporate headquarters.  In
+       connection with such loan, the Company issued to one of the lenders
+       250,000 common stock purchase warrants exercisable on or before March
+       31, 2001 at an exercise price at $.50 per share.  A portion of the
+       proceeds of the loan has been allocated to the warrants based on the
+       Company's Board of Directors' assessment of their fair value at the time
+       of issuance ($.70 per share).  For financial statement purposes, the
+       fair value ascribed to the warrants of $175,781 has been deducted from
+       the proceeds of the mortgage loan as additional interest expense and is
+       being amortized over the term of the mortgage to yield an effective
+       interest rate of approximately 20% per annum.  The loans have prepayment
+       penalties which are calculated as a percentage of the prepayment amount. 
+       The percentage is determined based upon the date of payment as follows:
+
+                   Prepaid                                 Percentage
+
+                Between one and two years                      3%
+                Between two and three years                    1%
+                Thereafter                                     0%
+
+       The loan contains covenants prohibiting certain types of transactions
+       and limiting capital expenditures to $250,000 per annum without the
+       prior consent of the lenders.
+
+
+
+                                           F-10
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+   c.   On October 18, 1991, the Company received $500,000 in cash from an
+        unaffiliated investor group in exchange for a mortgage on certain
+        machinery and equipment.  Concurrently, such investor group acquired a
+        50.6% interest in the then outstanding issued common stock of the
+        Company for $1,000,000 (or $.40 per-share) and was granted a five-year
+        warrant to purchase 1,000,000 shares of the Company's common stock for
+        $.50 per-share. As described in Note 8n below, such warrants were fully
+        exercised in June 1994.  The loan, which bears interest at the rate of
+        1-1/4% above the prime lending rate (9.00% and 6.75% at June 30 1995 and
+        1994, respectively), was originally due on September 30, 1994; however,
+        on April 25, 1994, such due date was extended to September 30, 1995. 
+        On December 19, 1994; however, the Company extinguished $394,750 of the
+        $500,000 loan balance in exchange for 789,500 shares of the Company's
+        common stock.  The Company's Board of Directors and management believe
+        based upon a fairness opinion rendered by an independent investment
+        banking firm and other analysis, that the fair value of the shares
+        exchanged was equal to the carrying amount of the converted portion of
+        the loan.  The fairness opinion stated that the exchange was fair to the
+        stockholders of the Company from a financial point of view.  The
+        remaining $105,250 principal balance of the loan has an amended due date
+        of March 31, 1996.  All other terms remain unchanged.
+
+   d.   The Company leases its telephone system under agreements accounted for
+        as capital leases.  The obligation for the telephone system requires the
+        Company to make monthly payments of $1,963 through December 1997.
+
+   The following is a summary of the aggregate annual maturities of long-term
+   debt and capitalized lease obligations:
+                                                  Capitalized
+                                      Long-term      lease                      
+            Year ending June 30:          debt    obligation      Total   
+                                      ----------  -----------  -----------
+                            1996      $  135,398  $    23,556  $   158,954
+                            1997            -          23,556       23,556
+                            1998       4,897,864       11,780    4,909,644
+                            1999       1,033,183         -       1,033,183
+                                      ----------  -----------  -----------
+                                      $6,066,445  $    58,892  $ 6,125,337   
+                                      ==========  ===========  ===========
+
+7.  RELATED PARTY TRANSACTIONS
+
+    A Director of the Company is a member of the law firm which serves as
+    general counsel to the Company.  The Company was billed  $87,000, $338,000
+    and $183,000 for legal services rendered by such law firm during fiscal
+    1995, 1994 and 1993, respectively, of which $47,000, $183,000 and $81,000
+    is included in accounts payable and accrued expenses as of June 30, 1995,
+    1994 and 1993, respectively. 
+
+
+
+
+
+
+
+
+
+
+                                           F-11
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+8.     EQUITY TRANSACTIONS
+
+   a.   In 1989, the Company's Board of Directors approved a non-qualified five-
+        year stock option plan under which key employees could be granted
+        options to purchase up to an aggregate 115,000 shares of the Company's
+        common stock at an option price of $ .10 per share.  Under the terms of
+        this plan, options that were cancelled could not be re-issued.  During
+        fiscal 1995 and 1993, 10,000 options were cancelled.  In April 1994, the
+        plan expired.  During fiscal 1995, 25,000 options were exercised.  As
+        of June 30, 1995, options to purchase 12,500 shares of the Company's
+        common stock remain outstanding.  These options are held by two ex-
+        employees of the Company who exercised such options prior to 
+        termination of their employment with the Company.  The Company has not
+        issued stock certificates for the exercise of such options because of
+        certain disputes between the Company and such ex-employees relating to
+        their prior employment with the Company.  The Company can not presently
+        determine whether or not the shares underlying such options will be
+        issued to such ex-employees.
+
+   b.   In January 1992, the Company's Board of Directors and stockholders
+        approved the  1991 Incentive and Non-Qualified Stock Option Plan (the
+        "Plan"), under which current and perspective employees may be granted
+        options to purchase an aggregate of 500,000 shares of the Company's
+        common stock. The Plan is administered by a committee consisting of
+        three members of the Board of Directors.  The committee designates which
+        options granted under the Plan are Incentive Options and which are Non-
+        Qualified Options. The option price may not be less than the fair market
+        value on the date of grant with exceptions required by the Internal
+        Revenue Code of 1986, as amended, with respect to incentive stock
+        options. The shares vest one-third each over three years of employment
+        following the date of grant of the option. None of the options issued
+        have been exercised.  Under the terms the Plan, options that are
+        cancelled may be reissued.  At June 30, 1995, an aggregate of 472,500
+        options remain available for grant under the Plan.
+
+            The following is a summary of the activity of the Plan:
+
+            Stock options               Shares         Price per share
+            -----------------------    ---------       ----------------
+            Balance at July 1, 1992      70,000         $1.25  -  $1.63
+
+            Granted                     290,000         $1.00  -  $1.13
+            Cancelled                   (82,500)        $1.13  -  $1.63 
+                                       ---------       ----------------
+            Balance at June 30, 1993    277,500         $1.00  -  $1.13
+            
+            Cancelled                  (155,000)        $1.00  -  $1.13
+                                       ---------       ----------------
+            Balance at June 30, 1994    122,500              $1.13
+
+            Cancelled                   (95,000)             $1.13
+                                       ---------       ----------------
+            Balance at June 30, 1995     27,500              $1.13
+                                       =========       ================
+
+
+
+                                           F-12
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+   c.   In April 1992, the Company's Board of Directors authorized and issued
+        options to purchase an aggregate of 150,000 shares of common stock to
+        the members of the Board of Directors at a price of $1.25 per share (the
+        fair market value at date of grant) which options expire on May 1, 1997.
+        No options have been exercised to date.  During fiscal 1995, 20,000
+        options were cancelled upon resignation of a director. As of June 30,
+        1995, options to purchase 130,000 shares of the Company's common stock
+        remain outstanding.  
+
+   d.   In January 1993, the Company's Board of Directors authorized and issued
+        options to purchase an  aggregate of 150,000 shares of the common stock
+        to the members of the Board of Directors at a price of $1.13 per share
+        (the fair market value at date of grant) which options expire on January
+        4, 1998.  No options have been exercised to date.  During fiscal 1995,
+        20,000 options were cancelled upon resignation of a director.  As of
+        June 30, 1995, options to purchase 130,000 shares of common stock are
+        currently outstanding.  
+
+   e.   On February 25, 1993, an officer of the Company purchased 100,000 shares
+        of the Company's common stock for $100,000 (representing the fair market
+        value at date of purchase) of which $50,000 was paid in cash and $50,000
+        in a 6% three-year promissory note.  The interest on this note was
+        payable quarterly and the principal of $50,000 was due on February 25,
+        1996.  During fiscal 1995, such note was settled for $12,500 and the
+        balance was written off.
+
+   f.   On March 4, 1994, the Company completed a series of equity transactions
+        whereby the Company sold 2,000,000 shares of its common stock together
+        with 2,000,000 common stock purchase warrants for a total of $1,000,000.
+        Each warrant entitles the holder to purchase one share of common stock
+        for $.50 per-share.  As described in Note 8n below, such warrants were
+        fully exercised in June 1994.  One investor who purchased 500,000 shares
+        received personal guarantees from members of the Company's Board of
+        Directors that in the event the investor would sustain loss from the
+        sales of the shares (including the shares obtained through the exercise
+        of the warrants) such directors will indemnify the investor at any time
+        through February 16, 1996.  Should the guarantors have to perform under
+        the terms of the guarantee, the ownership interest in the shares will
+        transfer to the guarantors.  During fiscal 1995, such guarantees were
+        mutually terminated by the parties thereto.
+
+   g.   On March 28, 1994, pursuant to a consulting/investment banking agreement
+        with an underwriter (Note 10b), the Company issued warrants to purchase
+        350,000 shares of its common stock at an exercise price of $1.25 per-
+        share (which was not less than the fair market value on such date). 
+        Such warrants are fully exercisable and expire five years from date of
+        grant.
+
+
+
+
+
+
+
+
+
+                                        F-13
+<PAGE>
+                      VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                            JUNE 30, 1995, 1994 AND 1993
+
+
+
+
+   h.   On March 31, 1994, pursuant to an employment agreement (Note 10a), the
+        Company's president purchased 100,000 shares of the Company's common
+        stock for $.50 per-share, representing an amount less than the
+        unadjusted quoted market price of the stock on such date.  Consequently,
+        the Company recognized compensation expense in the amount of $56,250 for
+        the year ended June 30, 1994 representing the difference between the
+        unadjusted quoted market price of the stock on such date and the price
+        payable per-share.  The shares were purchased by the president with a
+        $50,000 non-interest bearing, non-recourse note collateralized by the
+        shares issued.
+
+   i.   In March 1994, pursuant to an employment agreement, the Company's
+        president was granted an option to purchase 300,000 shares of the
+        Company's common stock at an exercise price of $.50 per-share,
+        representing an amount less than the unadjusted quoted market price of
+        the stock on such date.  The options become exercisable at the rate of
+        one-third on each successive anniversary date over three years. 
+        Consequently, the Company recorded unearned compensation in the amount
+        of $168,750, which will be recognized as compensation expense ratably
+        over the employment period of three years: $56,254 and $14,063 have been
+        amortized as compensation expense during fiscal 1995 and 1994,
+        respectively.  The option expires five years after the date on which the
+        options become exercisable.
+
+   j.   On March 31, 1994, in connection with a mortgage refinancing (Note 6b),
+        the Company issued 250,000 common stock purchase warrants exercisable
+        on or before March 31, 2001 at an exercise price of $.50 per share.
+
+   k.   On April 6, 1994, the Company completed additional equity transactions
+        by selling 500,000 shares of its common stock together with 500,000
+        common stock purchase warrants for a total of $250,000.  Each warrant
+        entitles the holder to purchase one share of common stock for $.50 per-
+        share.  As described in Note 8n below, such warrants were fully
+        exercised in June 1994.
+
+   l.   On April 18, 1994, the Company's Board of Directors adopted the 1994
+        Directors Stock Option Plan.  This plan is intended to assist the
+        Company in securing and retaining directors by allowing them to
+        participate in the ownership and growth of the Company through the grant
+        of stock options.  The persons eligible for the 1994 Directors Stock
+        Option Plan are any director who is not a full or part-time employee of
+        the Company ("Eligible Director").   The granting of options will give
+        the Eligible Directors an additional inducement to remain with the
+        Company and will provide them with an increased incentive to work toward
+        the Company's success.
+
+        The 1994 Directors Stock Option Plan provides for the issuance of up to
+        600,000 shares of common stock.  The plan is administered by a committee
+        composed of two or more "disinterested" directors of the Company ("Stock
+        Option Committee").  The Stock Option Committee has full power and
+        authority to designate recipients of the options and to determine the
+        terms and conditions of option agreements.  Each option generally vests
+        ratably over a three-year period provided such individual continues to 
+        serve as a director of the Company, unless such individual no longer 
+        serves as a result of his death or disability, in which case the option
+        immediately vests.
+                                            F-14
+
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+        On April 18, 1994, three directors of the Company were granted fully 
+        exercisable options under this plan to purchase an aggregate of 250,000
+        shares of the Company's common stock for a five year period at an 
+        exercise price of $.50 per-share representing an amount less than the 
+        unadjusted quoted market price of the stock on such date.  Consequently,
+        the Company recognized compensation expense in the amount of $156,250 
+        for the year ended June 30, 1994 representing the difference between the
+        unadjusted quoted market price of the stock on such date and the price 
+        payable per share. 
+
+   m.   During November 1993 and April 1994, the Company issued options to
+        purchase 250,000 shares of common stock at $1.25 per share (100,000
+        options vested immediately and the remaining options vested at the rate
+        of 12,500 each month beginning November 1993)  and warrants to purchase
+        468,750 shares of common stock at $.50 per share to consultants for
+        services provided to the Company.  In connection with these issuances,
+        the Company recognized compensation expense in the amount of $369,063
+        for the year ended June 30, 1994, representing the estimated relative
+        fair market value of the options ($.07 per share) and warrants ($.75 per
+        share) on the dates of such issuance as determined by the Company's
+        Board of Directors.  As described in Note 8n below, 450,000 of such
+        warrants were exercised in June 1994.  The 18,750 unexercised warrants
+        expired during fiscal 1995.  The options  expire five years from the
+        date of issuance and, as of June 30, 1995, such options are fully
+        exercisable.  
+
+   n.   In June 1994, the Company completed the registration of 3,950,000 shares
+        of its common stock underlying outstanding common stock purchase
+        warrants.  The Company did not receive any of the proceeds from the sale
+        of the common stock sold by the selling shareholders.  However, the
+        Company did receive $1,415,000 representing the net proceeds from the
+        exercise of common stock purchase warrants ($1,975,000 in gross
+        proceeds).
+
+   o.   On December 19, 1994, the Company issued 789,500 shares of its common
+        stock to extinguish $394,750 of debt (Note 6c).
+
+   p.   On March 31, 1995, the Company issued stock options to the Company's
+        president to purchase 100,000 shares of common stock at an exercise
+        price of $.50 per share (which amount was not less than the fair market
+        value at the date of grant).  Such options are fully exercisable and
+        expire on March 31, 2000.  As described in Note 10a below, such options
+        were granted in conjunction with the president's employment contract.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       F-15
+<PAGE>
+                     VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                         JUNE 30, 1995, 1994 AND 1993
+
+
+
+   q.   The following information summarizes options and warrants at June 30,
+        1995:
+
+                                      Reserved                        Range of
+                                        for                           exercise
+            Stock plan                issuance    Issued  Exercisable   price
+       --------------------------     --------   -------- ----------- --------
+       Options - 1989 Employees           -        12,500     12,500     $.10
+       Options - 1991 Employees        500,000     27,500     20,833    $1.13
+       Options - 1992 Directors        150,000    130,000    130,000    $1.25
+       Options - 1993 Directors        150,000    130,000    130,000    $1.13
+       Options - 1994 President's
+                  Issuance             300,000    300,000    100,000     $.50
+       Options - 1994 Directors        600,000    250,000    250,000     $.50
+       Options - 1994 Consultants      250,000    250,000    250,000    $1.25
+       Warrants - 1994 Consultants     350,000    350,000    350,000    $1.25
+       Warrants - 1994 Debt Agreement  250,000    250,000    250,000     $.50
+       Options - 1995 President's 
+                  Issuance             100,000    100,000    100,000     $.50   
+                                     ---------  ---------  ---------  ----------
+                                     2,650,000  1,800,000  1,593,333  $.10-$1.25
+                                     =========  =========  =========  ==========
+
+
+9.     INCOME TAXES
+
+       As a result of the Company's fiscal 1995 and 1994 losses and inability to
+       realize tax benefits, the Company recorded no tax benefit for the years
+       ended June 30, 1995 and 1994.
+
+       Income tax provision (benefit) for the year ended June 30, 1993 consisted
+       of the following:
+
+                                                  1993  
+                                              ----------
+                   Current:
+                   Federal                    $    - 
+                   State                         18,400 
+                                              ----------
+                                                 18,400 
+                   Deferred                     (26,000)
+                                              ----------
+                                              ($  7,600)
+                                              ==========
+
+
+
+       Deferred taxes recorded in prior years have either reversed or have been
+       eliminated by the recognition of net operating losses. 
+
+
+
+
+
+
+                                           F-16
+<PAGE>
+                          VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               JUNE 30, 1995, 1994 AND 1993
+
+
+
+   Reconciliation between actual income tax (benefit) and the amount computed
+   by applying the statutory Federal income tax rate to the loss before taxes
+   is as follows:
+
+                                              1995        1994         1993   
+                                           ----------  ----------   ----------
+       Tax expense (benefit) at statutory
+        federal income tax rates.........  ($447,455)  ($743,580)    $154,400 
+       State income taxes, net of         
+        federal income tax benefit.......       -           -          34,000 
+       Reversal of deferred tax
+        liability........................       -           -         (26,000)
+       Utilization of net operating loss
+        carryforward.....................       -           -        (170,000)
+       Respective years' net operating
+        loss not currently utilizable....    447,455     743,580         -    
+                                           ----------  ----------   ----------
+                                            $  -0-      $  -0-      ($  7,600)  
+                                           ==========  ==========   ========== 
+
+
+
+    The tax effect of temporary differences and loss carryforwards giving rise
+    to deferred tax (assets) and liabilities are as follows:
+
+                                                              June 30,
+                                                     ---------------------------
+                                                         1995          1994
+                                                     ------------   ------------
+         Net operating loss carryforwards........... $(2,562,000)   $(1,666,000)
+
+         Other deferred assets:
+          Allowance for bad debts...................     (87,000)      (150,000)
+          Inventory reserves........................    (203,000)      (343,000)
+          Inventory capitalization..................     (70,000)       (74,000)
+          Other deferred assets.....................    (300,000)      (223,000)
+                                                     ------------   ------------
+         Gross deferred tax (asset).................  (3,222,000)    (2,456,000)
+
+         Depreciation (deferred liability)..........     271,000        242,000 
+                                                     ------------   ------------
+         Net deferred tax (asset)...................  (2,951,000)    (2,214,000)
+
+         Deferred tax asset valuation allowance.....   2,951,000      2,214,000 
+                                                     ------------   ------------
+         Net deferred tax asset..................... $     -0-      $     -0-   
+                                                     ============   ============
+
+
+    The Company anticipates that for the foreseeable future it will continue to
+    be required to provide a 100% valuation allowance for the tax benefit of its
+    net operating loss carryforwards and temporary differences.
+
+    At June 30, 1995, the Company has net operating losses available to
+    carryforward of approximately $6,742,000 for tax purposes.  Such net
+    operating loss carryforwards expire through fiscal year 2010.  No benefit
+    has been recorded for such loss carryforwards since realization cannot be
+    assured.
+
+
+                                        F-17
+<PAGE>
+                        VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                             JUNE 30, 1995, 1994 AND 1993
+
+
+
+    The Company's use of its net operating loss carryforward is limited as the
+    Company is deemed to have undergone an "ownership change", as defined in the
+    Internal Revenue Code Sec. 382, during the fiscal years ended June 30, 1992
+    and June 30, 1994. In connection with such net operating loss limitation,
+    the Company must obtain a fair valuation of the Company as of the date of
+    the ownership change.  Based upon the Company's estimates of fair value,
+    approximately $3,504,000 of the Company's total net operating loss of
+    $6,742,000 is limited, pursuant to Internal Revenue Sec. 382, to
+    approximately $715,000 annually during the carryforward period.
+
+
+10. COMMITMENTS AND CONTINGENCIES   
+ 
+    a. Employment agreement
+
+    On March 31, 1994, the Company entered into an employment agreement with its
+    newly appointed president which requires total annual minimum compensation
+    of $200,000 through March 1997 plus an annual bonus based on a percentage
+    of specified levels of achieved net profits.  In addition, the Company's
+    president deposited $50,000 with a lender as cash collateral for a portion
+    of a loan made to an entity the president previously served as an officer
+    and director. The Company had agreed, pursuant to the employment agreement,
+    to purchase such cash collateral from its president for $50,000 in the event
+    such cash collateral was not released by March 31, 1995 and, in turn, the
+    president had agreed to assign to the Company his rights and privileges with
+    respect to such cash collateral.  At March 31, 1995, however, the Company
+    was released from this guarantee obligation by the president. 
+    Contemporaneous with the release, the Company issued to the president stock
+    options to purchase 100,000 shares of the Company's common stock at $.50 per
+    share (Note 8p).  
+
+
+    b. Consulting Agreements
+
+    Under the terms of a nonexclusive consulting/investment banking agreement,
+    the Company is obligated to pay an underwriter $4,115 per month for 24
+    months which commenced in April 1995 for consulting services related to
+    investment banking and finance services.
+  
+    Effective April 1, 1994, the Company entered into a three-year consulting
+    agreement with a director for financial/management services.  Under the
+    terms of the agreement, the director receives $4,000 per-month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         F-18
+<PAGE>
+                        VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                              JUNE 30, 1995, 1994 AND 1993
+
+
+
+       c. Leases
+
+       The Company's minimum annual lease commitments under noncancellable
+       operating leases for premises at June 30, 1995 are as follows:
+
+         Year ending June 30:
+                               1996         $  435,447
+                               1997            343,642
+                               1998            119,434
+                               1999             51,317
+                               2000             25,658
+                                            ---------- 
+                                            $  975,498
+                                            ==========
+       Rent expense, including related real estate taxes and other operating 
+       charges, was approximately $429,230, $541,691 and $736,156 for the years
+       ended June 30, 1995, 1994 and 1993, respectively.
+
+
+11. MAJOR CUSTOMER AND VENDORS
+
+    During fiscal 1995, 1994 and 1993, one customer accounted for 14.7%, 16.3%
+    and  11.4%, respectively, of the net sales of the Company. During fiscal
+    1995, one vendor accounted for 15.7% of the Company's product purchases. 
+    During fiscal 1994, two  vendors accounted for 10.8% and 12.1% of the
+    Company's product purchases.  During  fiscal 1993, two vendors accounted for
+    15.3% and 10.1% of the Company's product  purchases.  Although the Company
+    believes that it may  be able to obtain competitive products of comparable
+    quality from other  suppliers, the loss of certain suppliers could have an
+    adverse impact of operations.
+
+
+12. UNITED KINGDOM OPERATIONS
+
+    The United Kingdom subsidiary was 80% owned by the Company.  On January 10,
+    1995, VTX Electronics Corp. purchased the 20% minority shareholder interest
+    in Vertex Electronics UK, LTD for approximately $8,400. 
+
+
+13. EMPLOYEE PENSION, BONUS AND STOCK OWNERSHIP PLANS
+
+    a. Multi-Employer Pension Plan
+
+    The Company participates in a multi-employer, union-sponsored pension plan
+    covering all union employees pursuant to a negotiated labor contract. 
+    Pension expense for the defined contribution plan for the years ended June
+    30, 1995, 1994 and 1993 was $61,059, $81,771 and $92,705, respectively.  In
+    the event of the Company's withdrawal from the multi-employer, union
+    sponsored plan, the Company could be liable for a portion of the plans
+    underfunding, if any.
+
+
+
+
+
+
+
+                                      F-19
+<PAGE>
+                     VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                          JUNE 30, 1995, 1994 AND 1993
+
+
+
+   b. Bonus Plan
+
+   A bonus plan was adopted with respect to fiscal 1993, 1994 and 1995. The
+   plan provides additional compensation to senior management employees of the
+   Company based on the achievement of specified amounts of pre-tax profits, as
+   determined by the Chief Executive Officer with the approval of the Executive
+   Committee of the Board of Directors.  No bonuses were awarded for the fiscal
+   years ended June 30, 1995, 1994 and 1993.
+
+   c. Employee Stock Ownership Plan
+
+   In January 1989, the Company began an Employee Stock Ownership Plan (the
+   "Plan").  In October 1993, such plan was cancelled and the assets were
+   distributed as stock to the Company.  There were no contributions for the
+   years ended June 30, 1994 and 1993.  The Plan covered substantially all
+   employees not covered by collective bargaining agreements and who met
+   certain service requirements.  The annual contribution to the Plan was
+   discretionary as determined by the Company's Board of Directors.  In April
+   1995, the underlying stock was sold and distributed to the plan holders.
+
+
+
+14. SUBSEQUENT EVENT
+
+    On August 24, 1995, the Company signed a letter of intent in principal to
+    merge with CPI Aerostructures, Inc. ("CPI"), a publicly-traded company in
+    the commercial/military aircraft business.  Under the terms of the letter,
+    shares of the Company's common stock will be converted into shares of CPI
+    common stock at a conversion rate of one share of CPI common stock for three
+    shares of the Company's common stock, as adjusted for a price guarantee. 
+    The agreement may be terminated by the mutual consent of both parties or if
+    a definitive Merger Agreement has not been executed by October 15, 1995.  In
+    the event either party unilaterally terminates the letter of intent, the
+    terminating party shall pay to the other party an amount equal to all of the
+    expenses incurred by the other party in connection with the contemplated
+    transaction, up to a maximum of $150,000 in the aggregate, plus a break-up
+    fee of $250,000.  The merger plan is subject to the negotiation and
+    execution of a definitive acquisition agreement, approval of the respective
+    Board of Directors and stockholder's of the Company and CPI, and consent of
+    lenders, to the extent required.  Subsequent to the signing of the letter of
+    intent, certain developments have occurred that may preclude completion of
+    the transaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          F-20 
+<PAGE>
+                        VTX ELECTRONICS CORP. AND SUBSIDIARIES
+                    SCHEDULE II- VALUATION AND QUALIFYING ACCOUNTS
+
+
+
+
+                                         Additions
+                            Balance,     Charged to                   Balance,
+                           Beginning      Costs and                    End of  
+Description                 of Year       Expenses     Deductions      Year   
+- -------------------------  ---------     ----------    ----------     --------
+
+Year ended June 30, 1995:
+  Allowance for doubtful                                $133,000(A)
+  accounts                  $394,000      $   -         $107,000(D)   $154,000
+
+
+  Allowance for slow-moving                                  
+  and obsolete inventories  $903,000      $ 65,000      $433,000(B)   $535,000
+
+Year ended June 30, 1994:
+  Allowance for doubtful
+  accounts                  $216,000      $524,000      $346,000(A)   $394,000
+
+  Allowance for slow-moving                $84,000
+  and obsolete inventories  $641,000      $178,000(C)      -          $903,000
+
+Year ended June 30, 1993:
+  Allowance for doubtful
+  accounts                  $311,000      $255,000      $350,000(A)   $216,000
+
+  Allowance for slow-moving
+  and obsolete inventories  $822,000    $1,200,000    $1,381,000(B)   $641,000
+  
+
+
+
+(A)    Net write-offs of uncollectible amounts.
+(B)    Inventory returned to vendor or liquidated.
+(C)    Inventory written down due to restructuring.
+(D)    Net recovery of losses on accounts receivable.
+
+
+
+
+
+
+
+
+
+
+                                          F-21
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>2
+<DESCRIPTION>CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+<TEXT>
+
+
+             
+              CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+We consent to the incorporation by reference in Registration Statement No. 
+33-86264 of VTX Electronics Corp. and Subsidiaries on Form S-8 of our report
+dated August 30, 1995, appearing in the Annual Report on Form 10-K of VTX
+Electronics Corp. and Subsidiaries for the year ended June 30, 1995.
+
+
+
+GRANT THORNTON LLP
+
+Melville, New York
+August 30, 1995
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1995
+<PERIOD-END>                               JUN-30-1995
+<CASH>                                             583
+<SECURITIES>                                         0
+<RECEIVABLES>                                     4864
+<ALLOWANCES>                                       154
+<INVENTORY>                                       3786
+<CURRENT-ASSETS>                                  9698
+<PP&E>                                            3265
+<DEPRECIATION>                                     418
+<TOTAL-ASSETS>                                   13187
+<CURRENT-LIABILITIES>                             5221
+<BONDS>                                              0
+<COMMON>                                          1265
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                           0
+<TOTAL-LIABILITY-AND-EQUITY>                     13187
+<SALES>                                          34472
+<TOTAL-REVENUES>                                 34472
+<CGS>                                            27311
+<TOTAL-COSTS>                                    27311
+<OTHER-EXPENSES>                                  7650
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 827
+<INCOME-PRETAX>                                 (1316)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                             (1316)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    (1316)
+<EPS-PRIMARY>                                    (.11)
+<EPS-DILUTED>                                    (.11)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

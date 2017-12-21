@@ -1,0 +1,1196 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ jQZfjwQiKl3U7ca8l4UQExNSEb57DSf5NboyuR9XXXV4DCtqwfGR7jaFDW7oljV1
+ vvlrANUygGdHtk8n8Me5qQ==
+
+<IMS-DOCUMENT>0000950123-95-001185.txt : 19950501
+<IMS-HEADER>0000950123-95-001185.hdr.sgml : 19950501
+ACCESSION NUMBER:		0000950123-95-001185
+CONFORMED SUBMISSION TYPE:	10-K405/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19941028
+FILED AS OF DATE:		19950428
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOLT INFORMATION SCIENCES INC
+		CENTRAL INDEX KEY:			0000103872
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		IRS NUMBER:				135658129
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K405/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-09232
+		FILM NUMBER:		95532856
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1221 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		2127042400
+
+	MAIL ADDRESS:	
+		STREET 1:		1133 6TH AVENUE
+		STREET 2:		24H FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VOLT TECHNICAL CORP
+		DATE OF NAME CHANGE:	19680913
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405/A
+<SEQUENCE>1
+<DESCRIPTION>AMENDED FORM 10-K405 - VOLT INFORMATION SCIENCES
+<TEXT>
+
+<PAGE>   1
+                                 FORM 10-K/A 2
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+(Mark One)
+/ X /    Annual Report Pursuant to Section 13 or 15(d) of the Securities
+- -----    Exchange Act of 1934 (Fee Required)
+         For the fiscal year ended October 28, 1994
+                                  or
+/   /    Transition Report Pursuant to Section 13 or 15(d) of the Securities
+- -----    Exchange Act of 1934 (No Fee Required)
+         For the transition period from _______________ to _______________
+
+         Commission File Number: 1-9232
+
+                        VOLT INFORMATION SCIENCES, INC.
+        ----------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+          New York                                      13-5658129
+- -------------------------------                      -------------------
+(State or other jurisdiction of                      (I.R.S. Employer
+incorporation or organization)                       Identification No.)
+
+1221 Avenue of the Americas, New York, New York        10020
+- -----------------------------------------------      ----------
+(Address of principal executive offices)             (Zip Code)
+
+Registrant's telephone number, including area code:  (212) 704-2400
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                                     Name of each exchange on
+          Title of each class                            which registered
+          -------------------                        ------------------------
+12-3/8% Senior Subordinated Debentures,              Philadelphia Stock Exchange
+            due July 1, 1998
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.10 par value
+                          ----------------------------
+                                (Title of Class)
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.  YES / X /   NO /   /
+                                               -----      -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. / X /
+                -----
+
+The aggregate market value of the common stock held by non-affiliates of the
+Registrant as of January 20, 1995 (based on the closing price on the NASDAQ
+National Market on that date) was approximately $64,000,000 (based on the
+number of shares outstanding on that date exclusive of all shares held
+beneficially by executive officers and directors and their spouses and the
+Registrant's Savings Plan and Employee Stock Ownership Plan, without conceding
+that all such persons or plans are "affiliates" of the Registrant).
+
+The number of shares of common stock outstanding as of January 20, 1995 was
+4,803,026.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Company's Proxy Statement for its 1995 Annual Meeting are
+incorporated by reference into Part III of this Report.
+
+<PAGE>   2
+
+PART I
+
+ITEM 1.  BUSINESS
+
+General
+
+Volt Information Sciences, Inc., a New York corporation, incorporated in 1957,
+and its subsidiaries (collectively "Volt" or the "Company", unless the context
+otherwise requires) operate in the following industry segments:
+
+(1)   Technical Services and Temporary Personnel - This segment provides
+technical and temporary personnel services to industry and government;
+
+(2)   Electronic Publication and Typesetting Systems - This segment designs,
+develops, manufactures, markets and services computerized imagesetting and
+publication systems and equipment;
+
+(3)   Telephone Directory - This segment provides telephone directory services,
+data base management, licensing of directory systems and publication of
+telephone directories;
+
+(4)   Engineering and Construction - This segment provides inside and outside
+plant and business communication engineering, construction, installation and
+other support services for the telecommunications industry; and
+
+(5)   Computer Systems - This segment designs, programs, sells, leases and
+maintains customized computer information systems and related services and
+provides services to public utilities emphasizing computer based projects.
+
+In addition, the Company is a party to a joint venture with Telstra Corporation
+Ltd., the Australian government-owned telephone company and others which
+commenced operations in July 1991, for the marketing, selling and compilation
+functions of yellow pages directories throughout Australia.
+
+In July 1994, the Company entered into a long-term joint venture agreement to
+publish the official White Pages, Yellow Pages and Street Guides for Rio de
+Janeiro by acquiring an interest in Telelistas Editora Ltda., a Brazilian
+Company which has a contract to publish Rio's telephone directories on behalf
+of TELERJ, the government-owned telephone company.
+
+The Company was also a party to a joint venture with a subsidiary of Pacific
+Bell Directory which produced the directory ads and camera ready pages of
+Pacific Bell Directory's yellow and white page directories published and
+distributed in California and Nevada.  Effective February 28, 1994, the Company
+sold its 50% interest to its joint venture partner.
+
+Information As To Industry Segments
+
+The following tables set forth the relative contribution of each industry
+segment to the Company's consolidated sales and operating profit (loss) for
+each of the three fiscal years in the period  ended October 28, 1994, and those
+assets identifiable within each segment at the end of each of those years (see
+Notes J and L of "Notes to Consolidated Financial Statements" and "Management's
+Discussion and Analysis of Financial Condition and Results of Operations)":
+
+
+
+
+
+                                      -2-
+<PAGE>   3
+VOLT INFORMATION SCIENCES, INC. AND SUBSIDIARIES
+INDUSTRY SEGMENT DATA
+
+<TABLE>
+<CAPTION>
+                                                         October          October          October
+                                                         28, 1994        29, 1993          30, 1992
+                                                        ----------      ----------        ----------
+                                                                    (Dollars in thousands)
+<S>                                                     <C>             <C>               <C>
+SALES
+Technical Services and Temporary
+ Personnel:
+  Sales to unaffiliated customers                       $433,443        $340,301          $320,591
+  Intersegment sales                                       1,067           1,304               796
+                                                        --------        --------          --------
+                                                         434,510         341,605           321,387
+                                                        --------        --------          --------
+Electronic Publication and Typesetting
+ Systems:
+  Sales to unaffiliated customers                         64,659          57,081            56,608
+  Intersegment sales                                         664           2,259               878
+                                                        --------        --------          --------
+                                                          65,323          59,340            57,486
+                                                        --------        --------          --------
+Telephone Directory:
+  Sales to unaffiliated customers                         72,319          76,924            68,764
+  Intersegment sales                                       1,836           2,020             2,231
+                                                        --------        --------          --------
+                                                          74,155          78,944            70,995
+                                                        --------        --------          --------
+Engineering and Construction:
+  Sales to unaffiliated customers                         51,391          46,417            36,111
+  Intersegment sales                                       1,285           1,056               197
+                                                        --------        --------          --------
+                                                          52,676          47,473            36,308
+                                                        --------        --------          --------
+Computer Systems:
+  Sales to unaffiliated customers                         99,059 (a)      37,385            38,612
+  Intersegment sales                                          76             196               212
+                                                        --------        --------          --------
+                                                          99,135          37,581            38,824
+                                                        --------        --------          --------
+
+Eliminations of intersegment sales                        (4,928)         (6,835)           (4,314)
+                                                        --------        --------          --------
+  Total sales                                           $720,871        $558,108          $520,686
+                                                        ========        ========          ========
+
+OPERATING PROFIT (LOSS)
+Technical Services and Temporary Personnel              $ 16,337        $  7,360          $  5,955 (b)
+Electronic Publication and Typesetting Systems             1,334           2,040             1,054
+Telephone Directory                                        6,695           8,153             6,544 (b)
+Engineering and Construction                                 792          (1,128)           (2,885)
+Computer Systems                                          (2,168)         (8,549) (a)        2,043
+Eliminations                                                  (8)           (310)             (346)
+                                                        --------        --------          --------
+   Total operating profit                                 22,982           7,566            12,365
+
+Interest and other income (expense) - net                    790           2,125             3,074
+Equity in net income of joint ventures                     3,055           4,940             6,807
+Gain on sale of joint venture                              9,770
+General corporate expenses                                (9,263)         (8,769)           (9,031)
+Interest expense                                          (7,468)        (11,078)          (11,569)
+Foreign exchange gain (loss)-net                             (39)           (378)              129
+                                                        --------        --------          --------
+Income (loss) before income taxes, extraordinary
+ item and cumulative effect of a change
+ in accounting                                          $ 19,827        $ (5,594)         $  1,775
+                                                        ========        ========          ========
+</TABLE>
+
+
+
+
+
+                                      -3-
+<PAGE>   4
+VOLT INFORMATION SCIENCES, INC. AND SUBSIDIARIES
+INDUSTRY SEGMENT DATA--Continued
+
+
+<TABLE>
+<CAPTION>
+                                                          October             October          October
+                                                         28, 1994            29, 1993         30, 1992
+                                                        ----------          ----------       ----------
+                                                                    (Dollars in thousands)
+<S>                                                     <C>                 <C>              <C>
+IDENTIFIABLE ASSETS
+ Technical Services and Temporary
+  Personnel                                             $ 40,230 (c)        $ 30,248 (c)     $ 51,756
+ Electronic Publication and Typesetting
+  Systems                                                 36,276              32,350           31,218
+ Telephone Directory                                      28,941 (c)          31,830 (c)       34,294
+ Engineering and Construction                             21,836              19,547           13,745
+ Computer Systems                                         50,273              39,394           30,751
+ Eliminations of intersegment items                                                              (645)
+                                                         --------            --------         --------
+                                                         177,556             153,369          161,119
+ Cash, investments, joint ventures
+  and other corporate assets                              49,348              82,523           65,383
+                                                        --------            --------         --------
+  Total assets                                          $226,904            $235,892         $226,502
+                                                        ========            ========         ========
+</TABLE>
+
+(a)      The results of operations for fiscal 1993 include a pretax charge of
+         $6,400,000 for estimated costs in excess of anticipated revenues under
+         contracts for two major directory systems.  This represents the loss
+         incurred on such contracts.  The completed contract method of
+         accounting was used for these contracts, and as a result, revenues and
+         the related costs (other than those costs in excess of anticipated
+         revenues recognized in 1993) are recognized in income in the year of
+         acceptance by the customer.  In fiscal 1994, the Company received
+         customer acceptance under one of such contracts, which, because of the
+         pretax charge in the previous year related to such contract, had no
+         effect on the Company's earnings for 1994, although revenue (and costs)
+         of $59,000,000 were recognized in 1994.
+
+(b)      Operating results for fiscal 1992 include (i) a benefit of $1,070,000
+         from the recovery of a portion of prior years' state business taxes
+         applicable to the Technical Services and Temporary Personnel segment
+         and (ii) a pretax charge of $722,000 relating to a portion of a
+         facility under lease until fiscal 1994, which is no longer being
+         utilized by the Telephone Directory segment.
+
+(c)      In fiscal 1993, the Company entered into a three-year revolving
+         financing agreement (see Note C of Notes to Consolidated Financial
+         Statements) under which it sold a $25,000,000 undivided interest in a
+         certain pool of accounts receivable.  As a result, the identifiable
+         assets of the Technical Services and Temporary Personnel and the
+         Telephone Directory segments were reduced by $23,000,000 and
+         $2,000,000 in 1994, respectively and by $22,875,000 and $2,125,000 in
+         1993, respectively.
+
+
+
+
+
+                                      -4-
+<PAGE>   5
+Technical Services and Temporary Personnel
+
+Volt's Technical Services and Temporary Personnel segment provides, from
+approximately 135 offices located throughout the United States, technical and
+temporary personnel services to a wide range of customers.
+
+Volt Technical Services provides contract engineering services and
+professional, engineering, design, data processing, scientific and technical
+support personnel for varying periods of time to companies and other
+organizations (including government agencies) in a broad range of industries
+which have a need for such personnel, but are unable, or do not choose, to
+engage such personnel as their own employees.  Volt Technical Services
+furnishes services to such industries as the telecommunications, computer,
+electronics, power (including certain nuclear and fossil fuel power plants),
+aerospace, defense, marine, petrochemical, chemical, architectural, engineering
+and transportation industries.  Customers are located throughout the United
+States with a small portion of such services being performed outside the United
+States.  Volt Technical Services maintains a computerized nationwide resume
+data base  consisting of approximately 300,000 technical, professional,
+scientific, and other candidates from which it fills customer job requirements.
+These individuals become Volt Technical employees during the period of their
+assignment (which typically ranges from a few months to several years).  As the
+employer of record, Volt Technical Services is responsible for the  payment of
+salaries, payroll taxes, workers' compensation and unemployment insurance and
+benefit packages, which may include sick days, holiday and vacation pay and
+medical insurance.
+
+Volt Temporary Services provides temporary help in administrative, clerical,
+office automation, accounting, industrial and other job classifications to
+clients for  short and long-term assignments.  Volt Temporary Services provides
+clerks, typists, office automation personnel, secretaries, receptionists, sales
+promotion personnel, bank personnel, telemarketers, data entry clerks,
+inventory clerks, assemblers, warehousing personnel and other employees.  Volt
+Temporary Services furnishes temporary employees to meet various client
+requests, such as substituting during vacation and sick leave, staffing high
+turnover positions, filling in during the full-time hiring process or during a
+hiring freeze and staffing seasonal peaks, special projects, conversions,
+inventories and offices that are phasing down.  It also provides management
+personnel to coordinate special projects, thus relieving a customer of the need
+to supervise temporary employees.  Volt Accounting Specialists, a department of
+Volt Temporary Services, provides specialized temporary personnel in
+accounting, bookkeeping and other financial classifications.  Volt Temporary
+Services provides personnel to companies throughout a broad spectrum of
+industries, including  finance, banking, insurance, telecommunications,
+utility, petrochemical, computer, electronics, aerospace, defense, retailing,
+manufacturing, universities and government agencies.  As in the case of
+technical services employees, Volt, as the employer of record, is responsible
+for the payment of salaries, payroll taxes, workers' compensation and
+unemployment insurance and benefit packages, which may include sick days,
+holiday and vacation pay and medical insurance.
+
+
+
+
+
+                                      -5-
+<PAGE>   6
+Beginning in fiscal 1994, a substantial portion of the Volt Temporary Services
+and Volt Technical Services offices have combined into Volt Services Group to
+satisfy customer requests for a single source provider of all levels of
+temporary help.   This change also reflects the expanding range of services
+offered to customers and the focus on providing these expanded services as a
+full service supplier, including outsourcing services, as well as assuming full
+responsibility for staffing, supervision and even productivity of large
+projects.  The consolidation of services under the umbrella of Volt Services
+Group also enables the segment to bid on certain contracts where customers
+insist on a single source provider which is a full-service organization.  All
+remaining offices of Volt Temporary Services and Volt Technical Services expect
+to undergo the change to Volt Services Group during fiscal 1995.
+
+During the week ended October 28, 1994, this segment employed approximately
+19,000 people in furnishing services.
+
+The segment is not dependent upon a single  customer or  a few customers, the
+loss of which might have a materially adverse effect upon its business.
+Although the markets for the segment's services include a broad range of
+industries throughout the United States, general economic difficulties in
+specific geographic areas or industrial sectors have in the past, and could in
+the future, affect the profitability of this segment.
+
+The segment competes with  many technical service and temporary personnel
+firms, some of which are larger than  Volt, as well as with individuals seeking
+direct employment.  The ability of Volt to  compete successfully for customers
+depends on its reputation, price and quality of service provided and its
+ability to engage,  in a  timely  manner, personnel  meeting customer
+requirements.  Many of the contracts entered into by this segment are of
+relatively short duration and competition is intense.  Many of the contracts
+under which the segment operates are awarded on the basis of  competitive
+proposals.  Although  Volt  has  been successful  in obtaining contracts in the
+past, there can be no assurance that Volt will receive additional or
+replacement contracts on satisfactory terms.
+
+Electronic Publication and Typesetting Systems
+
+Volt, through its 99%-owned subsidiary, Autologic, Incorporated ("Autologic"),
+designs, develops, manufactures, markets and services computerized imagesetting
+and publication systems equipment and software, primarily for the newspaper,
+publishing and commercial printing industries and for companies and other
+organizations having internal  publishing facilities.   Autologic's products
+are also utilized by certain of Volt's other segments.  Foreign marketing and
+servicing are provided directly by Autologic, through foreign subsidiaries and
+branches, and by independent foreign distributors.
+
+During fiscal 1994, Autologic's sales revenues increased by 10%, reflecting
+significantly increased sales in the Australian and Latin American markets.
+These increased sales were the result of improved local economic conditions,
+increased sales and marketing efforts and competitive product offerings.
+Revenues from sales in the United States and Europe were up slightly during the
+year.  Although the number of units were up significantly in all geographic
+areas, the sales mix included more lower-priced units.
+
+
+
+
+
+                                      -6-
+<PAGE>   7
+Increased sales revenues were also offset by declining prices and margins on
+equipment and service sales.  Technological advancements, "open system"
+architecture and general market conditions have created a market where price
+competition is commonplace.
+
+As part of Autologic's program to increase its presence in the commercial
+publication market while retaining its position in the technologically advanced
+newspaper market, the US domestic sales force is being enlarged to focus on
+commercial accounts, the product line has been expanded to support large format
+(up to 34" x 44") multiple page imaging, direct-to-plate products have been
+introduced focused on commercial printers and publishers, and services have
+been augmented to address customer training, color system production and
+network installation.
+
+Autologic has successfully made the transition from selling principally
+proprietary systems to being an industry leader in PostScript imaging systems.
+(PostScript is a registered trademark of Adobe Systems Incorporated).  Under
+original equipment manufacturer license agreements, Autologic designs,
+manufactures, sells and supports PostScript image systems which operate
+independently or in conjunction with Autologic's proprietary PIP products.  The
+SoftPIP product line is completely PostScript Level 2-compliant and is known
+for high performance, image quality, and reliability in high volume production
+environments.
+
+In response to the rapidly changing open system environment which dominates the
+marketplace today, Autologic improved the performance and functional
+capabilities of its computer server products during fiscal 1994.  Highlights
+include introduction of the APS-200 providing APS-100 capabilities on standard
+platforms with significantly improved system performance, integration of
+PostScript Level 2 features by the APS-200 OPI Server, support of mixed PC
+Windows and Apple Macintosh workstation environments, and expanded graphic data
+formats supported by the OPI Server.
+
+The Company has developed a library of more than 2,000 digitized typefaces,
+known as "fonts," which are stored on computer disks and licensed to purchasers
+of Autologic typesetters.  These fonts  are  offered  in  PIP  and  PostScript
+formats,  as well as for Autologic's  earlier  systems.  CD-ROM-based
+PostScript fonts created by Autologic, using the Company's and other licensed
+typefaces, are also made available.
+
+The manufacture of Autologic-built subassemblies and all system assembly is
+performed in Autologic's facilities in Thousand Oaks, California.  This segment
+purchases certain completed subassemblies and manufactures others.  Most of the
+parts and subassemblies used in the production of this segment's products are
+purchased from numerous suppliers and are integrated into Autologic products.
+
+Autologic maintains a worldwide technical support and service organization
+which supports and services the full range of Autologic products.  Technical
+support is headquartered in Thousand Oaks, California, with regional offices
+located throughout the United States, in London, England, and in Sydney,
+Australia.  Wholly-owned subsidiaries operate in Australia, New Zealand, the
+United Kingdom, Germany, France, Spain, Sweden and Israel.  Local distributors
+and agents sell  and  service  Autologic  products  in  the remainder  of  the
+worldwide  markets and Autologic has recently expanded its network of
+distributors and agents with a view to increasing sales worldwide, especially
+in areas of emerging economic growth.
+
+
+
+
+
+                                      -7-
+<PAGE>   8
+Autologic's position in its markets depends largely upon its reputation, the
+quality, design and  pricing  of its products, the timeliness of its
+deliveries, and its field service.  The markets in which the segment competes
+are marked by rapidly changing technology and, although Volt continues its
+investment in research and development, there is no assurance that this
+segment's present or future products will be competitive, that the segment will
+continue to develop new products or that present products or new products can
+be successfully marketed.
+
+The market for this segment's products is highly  competitive and price
+competition is intense.  A  number of firms, some of which are substantially
+larger  and have  substantially greater financial resources than  Volt,
+manufacture  one or  more  products competing with  one or  more of  the
+segment's products.   Some  of these competitors  sell their  products as
+complete systems, for some of which Autologic has no competing system.
+
+The Company holds several patents and trademarks related to this  segment's
+products,  but does not believe that these patents or trademarks are material
+to the segment.
+
+Export sales represented approximately 46% of Autologic's sales in fiscal 1994,
+43% in fiscal 1993 and 46% in fiscal 1992.  In the past, Autologic has been
+adversely affected by general economic recessions in the United States and in
+other countries where Autologic products are sold.  In addition, a significant
+portion of Autologic's business is in the newspaper publishing industry, which
+has in the past, experienced significant revenue downturns during recessions.
+These downturns resulted in reductions in capital expenditures by that
+industry, adversely affecting Autologic's performance.
+
+Telephone Directory
+
+Volt's Telephone Directory segment, utilizing highly specialized proprietary
+automated systems which it developed for directory management and production,
+together with phototypesetting systems manufactured by  Autologic, implements
+and maintains the database, produces digitized display advertisements and
+photocomposes pages with integrated graphics for yellow and white pages
+directories.  These services are performed for a number of the regional
+telephone operating companies, independent directory publishers and others.
+Volt believes that it is a leading independent producer of yellow pages
+directories for telephone companies in the United States.
+
+The segment also provides directory management systems and various
+photocomposition services to a number of regional telephone and independent
+directory publishers, licenses production system software to directory
+publishers and provides commercial services, such as composition and data
+processing and database management services, to other customers.
+
+The Telephone Directory segment markets these proprietary directory management
+and production systems, customized to meet the needs of publishers who desire
+to perform their work in-house.  The systems are marketed to publishers
+incorporating "workflow management" by which ads are automatically routed
+between workstations, increasing throughput and control.
+
+
+
+
+
+                                      -8-
+<PAGE>   9
+The segment separately markets workstations which are used to facilitate the
+creation of telephone directories.  These include a graphics workstation
+(RAD-GRAF), containing Volt-developed software, that facilitates incorporating
+special graphic effects in the presentation of ads for merging text and
+graphics on a finished page.  Another workstation is the Real-time Incolumn
+Display (RID) workstation, on-line electronic galley editors which allow last
+minute alterations and insertions of ads and listings, while displaying the
+composed results as they will appear on the finished page.
+
+Services  are rendered under various short and long-term contracts and are
+performed primarily at facilities  maintained by Volt in Blue Bell,
+Pennsylvania; Indianapolis, Indiana; Anaheim and San Diego, California; and, in
+one instance, at the customer's facility.
+
+The segment also produces, publishes and prints white pages and yellow pages
+directories, sells yellow pages advertising and performs commercial printing in
+Uruguay.  In addition, Volt's DataNational division publishes community and
+university classified directories in the United States.
+
+Volt's Advanced Technologies, Research & Development division provides the
+services of researching and implementing new product lines and adopting new
+computer technology for internal office automation and business processing
+automation.  It also provides consulting services and hardware and systems
+technical support for other segments of Volt.
+
+This segment faces intense competition with respect to all of these services
+and products from other suppliers and from in-house facilities of potential
+customers.  Some of its significant competitors are companies  which  are
+larger and have substantially greater financial resources  than Volt.   This
+segment's sales to one customer represented approximately 23% of the total
+sales of this segment for the 1994 fiscal year.  The loss of this customer,
+unless replaced, would have an adverse effect on this segment's business.
+
+Volt's ability to compete in its Telephone Directory segment depends upon its
+reputation, technical capabilities, price, quality of service and ability to
+meet customer requirements in a timely manner.  Volt believes that its
+competitive position in this segment's areas of operations is augmented by its
+ability to draw upon the  expertise and resources  of its other segments.
+Certain of the services rendered by Volt's Telephone Directory segment require
+highly trained technical personnel, and there can be no assurance that the
+Company will continue to be able to employ sufficient technical personnel
+necessary for the successful conduct of such services.   A substantial portion
+of Volt's business  is obtained through submission of competitive proposals.
+While the segment has obtained various short and long-term contracts, margins
+under such contracts have decreased in many instances, certain contracts have
+expired and there can be no assurance that contracts will be renewed on
+satisfactory terms or that additional or replacement contracts will be awarded
+to the Company.
+
+
+
+
+
+                                      -9-
+<PAGE>   10
+Engineering and Construction
+
+Volt's Voltelcon division furnishes a wide range of telecommunications
+services, including engineering, construction, maintenance, installation,
+removals and distribution of telecommunications products.  Its customers are
+telephone operating companies, interexchange carriers, alternative local
+transport carriers, telecommunications equipment manufacturers, cable
+television and electric power companies, government units and private entities.
+It performs these services primarily in the central office and outside plant
+and at end user premises.  The market in which Voltelcon operates is highly
+competitive, often resulting in low margins.
+
+Volt's Advanced Technology Services division was established in 1994 to meet
+the critical challenges of the "Information Super Highway" and the evolutionary
+merging of voice, data and video services to telephony, broadband and other
+providers of information system services, such as telephone companies,
+interexchange carriers, government and private industry.
+
+This segment faces intense competition with respect to all of its
+telecommunications services from other suppliers and from in-house capabilities
+of potential customers.  This segment experienced increased sales and realized
+a profit in fiscal 1994, as compared to an operating loss in fiscal 1993. Some
+of its significant competitors are larger and have substantially greater
+financial resources than Volt.  Other competitors are small, local companies
+with lower overhead.  This segment's sales to each of two customers represented
+approximately 29% of the total sales of this segment for the 1994 fiscal year.
+The loss of either of these customers, unless replaced, might have an adverse
+effect on this segment's business.
+
+Volt's ability to compete in this segment depends upon its reputation,
+technical capabilities, price, quality of service and ability to meet customer
+requirements in a timely manner.  Volt believes that its competitive position
+in this segment is augmented by its ability to  draw  upon  the  expertise  and
+resources  of  other  Volt  segments.  A substantial portion of the segment's
+business is obtained through submission of competitive proposals.  While the
+segment has obtained various short-term contracts, margins have decreased in
+many instances.  There can be no assurance that such contracts will be renewed
+on satisfactory terms or that additional or replacement contracts will be
+awarded to the Company.
+
+Computer Systems
+
+The Computer Systems segment is comprised of Volt Delta Resources and Volt
+Viewtech.
+
+Volt Delta Resources ("Volt Delta") is engaged in the design, programming, sale
+and/or lease, and maintenance of computer information systems and services,
+primarily for the telecommunications and utility industries.  The main office
+of this segment is located in New York City and its principal research and
+development facility is located in Orange, California.  Volt Delta operates as
+two business units:  Information Systems and Maintech.
+
+
+
+
+
+                                      -10-
+<PAGE>   11
+During fiscal 1992, Volt Delta's Information Systems division brought to market
+its new generation directory assistance system, marketed as DOSS (Delta
+Operator Services System).  The new generation system allows telecommunications
+customers to interface interactively with voice response units through the
+touch tone pad of their telephones and via limited voice recognition
+technology.  These features provide new revenue sources to the telephone
+company from such applications as call completion, customized intercept and
+automated directory assistance.  Although the basic DOSS system is offered to
+customers, typically each customer will require some special features, and in
+some instances, extensive customization.
+
+The DOSS system operates on Tandem Computer's NonStop fault tolerant platform,
+using Tandem's relational database technology, which allows telecommunications
+companies to significantly expand the content of their databases in support of
+enhanced information services, while continuing to achieve subsecond response
+using  Volt  Delta's  Xm  retrieval  software.   This software employs a
+process proprietary to Volt Delta.  Although the physical implementation  of
+this  process  has been patented by Volt Delta with the United States Patent
+Office, Volt Delta's competitors may be able to provide similar services to
+customers without infringing on such patent.
+
+In May 1991, Volt Delta entered into a contract with a major United States
+telephone company to provide a DOSS system.  Delivery and installation at the
+customer's premises began during fiscal 1992 and continued during fiscal 1993
+and 1994.  System acceptance by this telephone company was obtained in the
+fourth quarter of fiscal 1994.
+
+During fiscal 1993, a pilot DOSS system was installed at a second
+telecommunications customer and is being used commercially.  In fiscal 1994, a
+follow-up production system was delivered to that customer and is in the
+process of final acceptance testing.
+
+During 1993 and 1994, Volt Delta entered into additional contracts for DOSS and
+DOSS related functionality with other telecommunications customers, one of
+which is based in the United Kingdom, which are in various stages of
+implementation.
+
+Volt Delta's service division, Maintech, offers third party maintenance (TPM)
+and other services to customers who have purchased computers and peripherals
+from others, as well as those who have purchased or leased information systems,
+including DOSS, from Volt Delta.  Maintech is headquartered in Wallington, New
+Jersey and provides TPM services on a national basis.  Regional offices and
+spare parts inventory facilities are located in Wallington, New Jersey and
+Orange, California, with district service centers located throughout the
+country and, in some instances, at customers' facilities.
+
+Volt's Viewtech subsidiary provides energy and water conservation systems and
+services, including custom information systems.  In recent years, Viewtech has
+expanded its traditional electric and gas utility markets to include water
+utilities and has made substantial upgrades to Viewtech's information system
+and energy audit software.  Viewtech is headquartered in Orange, California,
+and operates through four regional offices, located in Boston, Massachusetts;
+Little Rock, Arkansas; Southfield, Michigan; and San Francisco, California,
+with project offices located throughout the country.
+
+
+
+
+
+                                      -11-
+<PAGE>   12
+In order to fulfill its commitments under its contracts, Volt Delta is required
+to develop advanced computer software programs and purchase substantial amounts
+of computer and related equipment manufactured  by unaffiliated corporations.
+Much of the equipment required for these  contracts is purchased as needed.
+Except for Tandem's computer equipment, equipment used by Volt Delta is readily
+available from a number of suppliers.
+
+This segment's sales to its two largest customers in fiscal 1994, under a
+number of different contracts, represented approximately 64% (which includes
+one-time revenues described in Note L of Notes to Consolidated Financial
+Statements) and 10%, respectively, of the segment's total revenues. Inability
+to sell additional major systems would have an adverse effect on this segment's
+business.
+
+The business environment in which this segment operates is highly competitive.
+Some of this segment's principal competitors are considerably larger  than Volt
+and have substantially  greater financial  resources.  This segment's position
+in its market depends largely upon its reputation, quality  of services  and
+ability to develop, maintain, and implement information systems on a cost
+competitive basis.
+
+These services require highly trained technical personnel, certain
+classifications of which are currently in  short supply.  There can be no
+assurance that this segment will be able to obtain additional contracts or
+additional orders under existing contracts, or that  it will  continue to  be
+able  to employ sufficient personnel necessary for the successful conduct of
+its business.
+
+Joint Ventures
+
+A subsidiary of the Company is a shareholder in Pacific Access Pty. Ltd.
+("Pacific Access"), an international joint venture company in Australia.  This
+venture, which commenced operations in July 1991, assumed responsibility
+throughout Australia for the marketing, sales and compilation functions of all
+yellow pages directories of Telstra Corporation Ltd., the Australian
+Government-owned telephone company, under the terms of a twelve-year contract.
+Telstra Corporation Ltd. owns fifty percent of the voting common stock of
+Pacific Access, while subsidiaries of Volt, Southwestern Bell, Bell Canada and
+Edward H. O'Brien Industries each hold twelve and one-half percent.
+
+In July 1994, the Company acquired an interest, consisting of 50% of the common
+shares and 75% of the redeemable preferred shares and debt, in Telelistas
+Editora Ltda., a Brazilian company which has a long-term contract to publish
+the official White Pages, Yellow Pages and Street Guides for the City of Rio de
+Janeiro on behalf of TELERJ, the government-owned telephone company.  Effective
+February 28, 1994, the Company sold its 50% interest in Pacific Volt
+Information Systems, a joint venture, for approximately $16,400,000, to its
+joint venture partner.  The sale resulted in a gain of $9,770,000 ($5,760,000,
+net of income taxes, or $1.20 per share).  Therefore, results of operations for
+the fiscal year 1994 includes only four months of income attributable to this
+joint venture.
+
+For further information concerning the Company's operations and joint ventures,
+see   "Management's  Discussion and  Analysis of Financial Condition and
+Results of Operations".
+
+
+
+
+
+                                      -12-
+<PAGE>   13
+Research and Development
+
+During the Company's 1994, 1993, and 1992 fiscal years, the Company expended
+approximately $6,262,000, $5,830,000, and $5,694,000, respectively, on research
+and development, all of which is Company sponsored.  The major portion of
+research and development  expenditures are incurred in the Electronic
+Publication and Typesetting Systems segment, the Telephone Directory segment
+and the Computer Systems segment.
+
+Customers
+
+One customer represented more than 10% of the revenues for the year ended
+October 28, 1994.  The customer accepted a major directory assistance system
+from the Computer Systems segment and used various services and products which,
+under the completed-contract method of accounting, represented 11% of the
+Company's consolidated revenues in fiscal 1994 (including one-time revenues
+described in Note L of Notes to  Consolidated Financial Statements).
+
+Seasonality
+
+Historically, the Company's results of operations have been lower in the first
+fiscal quarter as a result of reduced requirements for its technical and
+temporary personnel due to the holiday season.  In addition, Pacific Access
+(see "Joint Ventures" above) produces a major portion of its revenues and
+significantly all of its profits in the Company's second and third fiscal
+quarters.  The Uruguayan telephone directory operation produces a major portion
+of its revenues and most of its profits in the Company's fourth fiscal quarter,
+and the DataNational telephone directory operation is adversely affected in the
+Company's first fiscal quarter due to the seasonality of its directory closing
+schedule.
+
+Employees
+
+During  the week ended October 28, 1994, Volt employed approximately 23,000
+persons, including  approximately 19,000 persons who were on temporary
+assignment for the Technical Services and Temporary Personnel segment.  Volt is
+a party to two collective bargaining agreements which cover a small number of
+employees.  Volt believes that it has satisfactory relations with its
+employees.
+
+
+
+
+
+                                      -13-
+<PAGE>   14
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS
+
+The information which appears below relates to prior periods, the results of
+operations for which periods are not necessarily indicative of the results
+which may be expected for any subsequent periods.  The following discussion
+should be read in conjunction with the Industry Segment Data in Item 1 of this
+Report, the Selected Financial Data in Item 6 of this Report and the
+Consolidated Financial Statements and Notes thereto in Item 8 of this Report.
+
+Results of Operations - Summary
+
+Revenues in fiscal 1994 increased by $169,313,000, or 30%, from fiscal 1993 as
+sales increased by  $162,763,000, or 29%.  The increase in sales resulted
+primarily from additional revenues of $59,000,000 from the completion and
+recognition of a long-term contract in the Computer Systems segment and a
+$92,905,000 increase in sales in the Technical Services and Temporary Personnel
+segment.  Revenues in fiscal 1993 increased by $34,606,000, or 7%, from fiscal
+1992 as sales increased by $37,422,000, or 7%, partially offset by lower joint
+venture and other income.
+
+In fiscal 1994, the Company had income of $19,827,000 from operations before
+income taxes and extraordinary items, compared to a loss of $5,594,000 from
+operations before income taxes and a cumulative effect of a change in
+accounting in fiscal 1993, and income from operations before income taxes of
+$1,775,000 in fiscal 1992.  The 1994 results include a $9,770,000 pretax gain
+on the sale of a joint venture.  The principal increases in the segment income
+in 1994 were from Technical Services and Temporary Personnel, with an increase
+of $8,977,000, and Computer Systems, where losses were reduced by $6,381,000.
+The major reason for the loss in the Computer Systems segment in fiscal 1993
+was the $6,400,000 pretax charge for non recoverable costs under two large
+contracts.
+
+The extraordinary item in fiscal 1994 was a loss of $271,000 due to the early
+redemption at par of $30,000,000 face value of the Company's 12-3/8%
+Subordinated Debentures.
+
+The cumulative effect of a change in accounting of $959,000 in fiscal 1993 was
+due to the Company adopting Statement of Financial Accounting Standards No.
+109, "Accounting for Income Taxes".
+
+Net income in fiscal 1994 was $11,773,000, compared to a net loss in fiscal
+1993 of $2,715,000 and net income of $1,091,000 in fiscal 1992.
+
+Results of Operations - By Segment
+
+The Company's consolidated operating profit was $22,982,000 in fiscal 1994,
+compared to $7,566,000 in fiscal 1993 and $12,365,000 in fiscal 1992.  (See
+Industry Segment Data in Item 1 of this Report and Note J of Notes to
+Consolidated Financial Statements in Item 8 of this Report).
+
+
+
+
+
+                                      -14-
+<PAGE>   15
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS--Continued
+
+The Technical Services and Temporary Personnel segment's sales increased by
+$92,905,000, or 27%, in fiscal 1994 to $434,510,000 and by $20,218,000, or 6%,
+in fiscal 1993 to $341,605,000.   Operating profit of the segment increased by
+$8,977,000, or 122%, to $16,337,000 in fiscal 1994 and by $1,405,000, or 24%,
+to $7,360,000 in fiscal 1993.  Approximately $60,000,000 of the segment's sales
+increase in 1994 was the result of business with new customers, with
+pre-existing customers accounting for the balance of the increase.  The
+increase in sales in 1993 was primarily the result of placements with new
+customers.  The operating profit increase in fiscal 1994 was due to the
+increased sales volume, along with slightly improved gross margins and a 9/10
+of 1 percentage point reduction in the percentage of overhead expended per
+sales dollar.  In fiscal 1993, the operating profit increase was due to the
+increased sales volume with improved gross margins, partially offset by the
+effect of a reversal, in fiscal 1992, of prior years' business tax expenses of
+$1,070,000.
+
+The Electronic Publication and Typesetting Systems segment's sales increased by
+$5,983,000, or 10%, to $65,323,000 in fiscal 1994 and increased by $1,854,000,
+or 3%, to $59,340,000 in fiscal 1993.  The sales increases in fiscal 1994 and
+1993 were primarily due to increased equipment sales in domestic and overseas
+markets (primarily, in 1994, in the Australian and Latin American markets).
+Despite the increase in sales, operating profits decreased by $706,000, or 35%,
+in fiscal 1994 to $1,334,000.  The decrease was primarily due to a change in
+the product mix (a decrease in sales of some high margin products and an
+increase in sales of some low margin items which are in direct competition with
+other manufacturers) resulting in a reduction of 4 percentage points of gross
+margin.  The decrease in gross margin was partially offset by an improvement of
+approximately 3 percentage points in overhead expended per sales dollar.  The
+segment's operating profits increased by $986,000, or 94%, in fiscal 1993 to
+$2,040,000.  The 1993 operating profit increase was due to the increased sales
+and a reduction in the percentage of overhead expended, partially offset by a
+slight decline in gross margins.  The markets in which the segment competes are
+marked by rapidly changing technology, with sales in fiscal years 1994, 1993
+and 1992 of equipment introduced within three years of each of the fiscal years
+comprising 84%, 65% and 66%, respectively, of equipment sales.
+
+The Telephone Directory segment's sales decreased by $4,789,000, or 6%, to
+$74,155,000 in fiscal 1994 and increased by $7,949,000, or 11%, to $78,944,000
+in fiscal 1993.  In fiscal 1994, the segment's operating profit decreased by
+$1,458,000, or 18%, to $6,695,000.  In fiscal 1993, the segment's operating
+profit increased by $1,609,000, or 25%, to $8,153,000. The 1994 sales decline
+is primarily due to the absence in 1994 of revenue from the sale of two
+automated directory systems which occurred in 1993, and were not replaced by
+similar sales in fiscal  1994, partially offset by a 20% increase in
+publication sales of independent directories.  The 1993 sales increase was
+primarily due to increases in the Uruguayan publication operation and the sales
+of the two automated directory management systems, while telephone directory
+production revenue declined by 3% due to the expiration in 1993 of certain
+contracts.  The operating profit decline in 1994 was due to the absence of high
+margin automated directory system shipments made in 1993.  Operating
+
+
+
+
+
+                                      -15-
+<PAGE>   16
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS--Continued
+
+profit increased in fiscal 1993 due to the increased sales volume, sales of
+certain high margin automated directory system shipments and overhead cost
+reductions.  This segment's services are rendered under various short and
+long-term contracts.  A contract with a customer that generated $9 million in
+revenue in fiscal 1994 expires in early fiscal 1995 and will not be renewed.
+Other contracts expire in fiscal 1995 through 1997, and there can be no
+assurance that they will be renewed or replaced on similar terms.
+
+The Engineering and Construction segment's sales increased by $5,203,000, or
+11%, to $52,676,000 in fiscal 1994 and by $11,165,000, or 31%, to $47,473,000
+in fiscal 1993.  In fiscal 1994, this segment had a profit of $792,000,
+compared to a loss of $1,128,000 in 1993 and a loss of $2,885,000 in 1992.  The
+1994 sales increase was due to a 75% increase in advanced technology services
+and installation services partially offset by a 4% decline in engineering
+revenue.  The fiscal 1993 sales increase was due to increased construction and
+installation services offset by declines in engineering revenue.  Operating
+results improved in fiscal 1994 and 1993 due to increased sales volume and
+improved gross margins.
+
+The Computer Systems segment's sales increased by $61,554,000, or 164%, to
+$99,135,000 in fiscal 1994 and decreased by $1,243,000, or 3%, to $37,581,000
+in fiscal 1993.   The segment's operating loss narrowed in 1994 by $6,381,000,
+or 75%, to $2,168,000 from $8,549,000 in 1993.  The 1994 sales increase was due
+to customer acceptance which enabled the Company to recognize revenues of
+$64,500,000 on two major Delta Operator Service Systems (DOSS) and increased
+maintenance revenue.  Operating profit improved in 1994, primarily due to the
+absence in 1994 of a $6,400,000 charge taken in 1993 for estimated costs in
+excess of anticipated revenues under one of these contracts and another
+contract.  Under the completed contract method of accounting, revenues together
+with related costs equivalent to such revenues are recognized in income in the
+year of acceptance by the customer.  In fiscal 1994, the Company received
+customer acceptance under one of such contracts, which, because of the pretax
+charge in the previous year, had no effect on the Company earnings for 1994,
+although revenue (and costs) of $59,000,000 were recognized in 1994.  While
+sales from this contract are not recurring, as noted below, the Company has
+received other contracts.  Other factors in the improved profitability of the
+segment in fiscal 1994 were the acceptance of a third contract and the
+increased maintenance revenues.  During fiscal 1993, a pilot DOSS system was
+installed at another telecommunications customer and is now being used
+commercially by the customer.  In fiscal 1994, a follow-up production system
+was delivered to that customer and is in the process of final acceptance
+testing.  In fiscal years 1993 and 1994, the segment was awarded several
+additional contracts, two of which necessitated the opening of a new branch
+facility.  Deliveries and installations under such contracts, which require
+significant customization, continue and customer acceptances are anticipated in
+fiscal years 1995 and 1996.  Since sales under DOSS contracts are generally
+reported upon customer acceptance, acceptance in a particular year may affect
+the comparability of results with other years.
+
+Results of Operations - Other
+
+Other items, discussed on a consolidated basis, affecting results of operations
+were:
+
+Interest income decreased by $45,000, or 3%, in fiscal 1994 and by $171,000, or
+11%, in fiscal 1993.  The decrease in both years was primarily due to reduced
+funds available for investments in interest-bearing securities, (see "Liquidity
+and Capital Resources", below) and in 1993, lower prevailing interest rates.
+
+
+
+
+
+                                      -16-
+<PAGE>   17
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS--Continued
+
+The Company's equity in the income of its joint ventures was $3,055,000 in
+1994, a decrease of $1,885,000, or 38%, and $4,940,000 in 1993, a decrease of
+$1,867,000, or 27%.  In February 1994, the Company sold for $16,400,000 its 50%
+interest in Pacific Volt Information Systems, a joint venture, which composed
+telephone directories in California under a contract that was due to expire in
+1996.  The sale resulted in a pretax gain of $9,770,000.  The results for the
+twelve months include only four months of income attributable to this joint
+venture, or $661,000, compared to $2,327,000 in 1993 and $3,824,000 in 1992.
+Profits of the joint venture were down 39% in 1993 due to reduced sales.  The
+Company's share of the income of its Australian joint ventures declined in 1994
+by 1%, and in 1993 by 12%, primarily due to an arrangement which ended in 1993
+in which the Company's share of the joint venture's income exceeded its 12-1/2%
+ownership.  The Australian venture produces a major portion of its revenues and
+significantly all of its profits in the Company's second and third fiscal
+quarters.
+
+Selling and administrative expenses increased by $2,967,000, or 7%, to
+$43,075,000 in 1994 and by $1,181,000, or 3%, to $40,108,000 in 1993 to support
+the 29% and 7% increases in sales in the two years. These expenses expressed as
+a percentage of sales were  6.0%, 7.2% and 7.5% for fiscal years 1994, 1993 and
+1992, respectively.
+
+Research and development expenditures increased $432,000, or 7%, in 1994 and
+$136,000, or 2%, in 1993.  The 1994 increase was comprised of a $1,545,000
+increase in the Computer Systems segment, partially offset by decreases in the
+Telephone Directory and Electronic Publication and Typesetting Systems segments
+of $696,000 and $417,000, respectively.  The 1993 increase was attributable to
+the Telephone Directory segment.
+
+Depreciation and amortization increased by $554,000, or 5%, to $10,745,000 in
+1994 and decreased by $932,000, or 8%, to $10,191,000 in 1993.  The 1994
+increase is due to increased fixed asset expenditures in 1993 and 1994, while
+the 1993 decrease is due to reduced fixed asset expenditures in earlier years.
+
+Foreign exchange losses in fiscal year 1994 were lower than in 1993 due to
+increased stability of European currency markets in 1994.  The gain in fiscal
+year 1992 was primarily attributable to bank debt denominated in Uruguayan
+currency which was highly volatile.
+
+Interest expense decreased by $3,610,000, or 33%, to $7,468,000 in 1994 and by
+$491,000, or 4%, to $11,078,000 in 1993.  The decreases in 1994 and 1993 were
+due to reductions in the interest rate on a mortgage loan and to the repurchase
+of a portion of the Company's 12-3/8% Subordinated Debentures.  The Company has
+established additional financing at lower costs through the sale of accounts
+receivable, proceeds from which were used to call and redeem $20,000,000 of
+debentures in November 1993.  An additional $10,000,000 of debentures were
+redeemed in May 1994 using the proceeds from the sale of a 50%-owned joint
+venture.  In fiscal 1994 and 1993, other income was reduced by charges of
+$1,557,000 and $849,000 respectively, for costs incurred in conjunction with
+the sale of accounts receivable.  These costs partially offset the savings in
+interest expense (see Note C of Notes to Consolidated Financial Statements).
+
+See Note F of Notes to Consolidated Financial Statements for information
+concerning the Company's effective tax rates for fiscal 1992 through fiscal
+1994.
+
+
+
+
+
+                                      -17-
+<PAGE>   18
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS--Continued
+
+The cumulative effect of a change in accounting for income taxes of $959,000 in
+fiscal 1993 relates to the adoption by the Company of Statement of Financial
+Accounting Standards No. 109, "Accounting for Income Taxes", in the first
+quarter of 1993.  Due to the uncertainty as to their future utilization, tax
+benefits have not been recognized for certain loss and credit carryforwards by
+establishing a valuation allowance which will be periodically evaluated.
+
+Liquidity and Capital Resources
+
+Cash and cash equivalents decreased by $24,032,000 in fiscal year 1994 to
+$17,049,000 and working capital increased by $750,000 in fiscal 1994 to
+$61,839,000 at October 28, 1994.
+
+Cash flows from operating activities contributed $14,513,000 to cash flows.
+Many factors, reflected in the accompanying Consolidated Statements of Cash
+Flows, affected the amount of cash flows from operating activities.  Primary
+among the factors providing cash flows to operating activities in fiscal 1994
+were the Company's net income of $11,773,000, a non-cash expense of $10,745,000
+for depreciation and amortization, and increases in accrued expenses  of
+$11,164,000 and customer advances of $4,928,000 due to the increased level of
+activities, with the balance being contributed by several items.  Among the
+principal uses of cash in operating activities in fiscal 1994 were an increase
+in the level of accounts receivable of $27,226,000 due to the increased level
+of activity and a gain of $9,770,000 on the sale of a joint venture (the
+proceeds relating to which are included in investing activities).
+
+The principal factors in the application of $1,228,000 to investment activities
+were the purchase of property, plant and equipment for $14,916,000 and
+investment in joint ventures for $2,517,000, offset, in part, by the proceeds
+of $16,382,000 received from the sale of a joint venture.
+
+Cash of $36,348,000 was applied to financing activities.  In November 1993, the
+Company redeemed $20,000,000 of its 12-3/8% Subordinated Debentures and, in May
+1994, redeemed an additional $10,000,000 of the debentures which, together with
+previously redeemed and repurchased Debentures, has satisfied all future
+sinking fund requirements until the debentures mature in 1998.  In addition,
+the Company repaid a $15,400,000 mortgage loan which was due in December 1994,
+refinancing that mortgage with a $10,000,000 five-year loan which is secured by
+a deed of trust on land and buildings.
+
+The Company believes that its current financial position, working capital and
+future cash flows will be sufficient to fund its presently contemplated
+operations and satisfy its debt obligations.  The Company has no material
+capital commitments.  The Company may determine, from time-to-time in the
+future, to buy additional shares of its common stock and/or debentures in the
+market or in privately negotiated transactions.  In addition to its cash and
+cash equivalents, at October 28, 1994, the Company's investment portfolio
+included investments at a carrying value of $8,095,000.  The Company also has a
+$7,000,000 credit line with a domestic bank under a revolving credit agreement
+which expires in November 1995, unless renewed.  The Company has outstanding
+bank borrowings under that line of $4,925,000 at October 28, 1994.
+
+
+
+
+
+                                      -18-
+<PAGE>   19
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Amendment to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                           VOLT INFORMATION SCIENCES, INC.
+
+Dated:  New York, New York
+        April 28, 1995                     /s/ Jack Egan
+                                           ------------------------------------
+                                           Jack Egan
+                                           Vice President, Corporate Accounting
+                                           (Principal Accounting Officer)
+
+
+
+
+
+                                      -19-
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3434 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NZpuQNNuyLt0E93kEFCT4szPo5jSCcNutEF2qCxxFL+ZmVoaGOQNJWV3MnaFmKrE
+ 3fDoS6DXfpDZy7Qf4YZEIA==
+
+<SEC-DOCUMENT>0000893220-96-000504.txt : 19960401
+<SEC-HEADER>0000893220-96-000504.hdr.sgml : 19960401
+ACCESSION NUMBER:		0000893220-96-000504
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960329
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VANGUARD REAL ESTATE FUND I /MA/
+		CENTRAL INDEX KEY:			0000801124
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				236861048
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10820
+		FILM NUMBER:		96541440
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 2600 VM V34
+		STREET 2:		C/O VANGUARD GROUP
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482
+		BUSINESS PHONE:		6106691000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>VANGUARD REAL ESTATE FUND I FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+         ===========================================================
+                                   FORM 10-K
+               Annual Report Pursuant To Section 13 or 15 (d) of
+                     The Securities Exchange Act of 1934
+
+<TABLE>
+<S>                                                      <C>
+For the Fiscal Year Ended                                Commission File Number
+December 31, 1995                                                 0-16785
+</TABLE>
+
+                            ======================
+
+VANGUARD REAL ESTATE FUND I, A Sales-Commission-Free Income Properties Fund
+- ---------------------------
+(Exact Name of Registrant as specified in its charter)
+
+<TABLE>
+<S>                                                         <C>
+Massachusetts                                                        23-6861048
+- -------------                                                        ----------
+(State or other jurisdiction of                                   (IRS Employer
+ incorporation or organization)                             Identification No.)
+
+Vanguard Financial Center, Malvern, PA                                    19355
+- --------------------------------------                                    -----
+(Address of principal executive offices)                             (Zip Code)
+</TABLE>
+
+                                  610-669-1000
+                                  ------------
+              (Registrant's telephone number, including area code)
+
+<TABLE>
+<S>                                                           <C>
+Securities registered pursuant to Section 12(b) of the Act:   None
+
+Securities registered pursuant to Section 12(g) of the Act:   Shares of Beneficial Interest, no par value
+</TABLE>
+
+                            ======================
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days   YES   X   NO     .
+                                                ---      ---
+
+        Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. / X/
+
+        The aggregate market value of the registrant's outstanding shares of
+beneficial interest held by non-affiliates on February 29, 1996 was $30,259,565
+based upon the last sale price of the shares on February 29, 1996.
+
+        As of February 29, 1996, 11,019,978 shares of beneficial interest were
+outstanding.
+
+                            ======================
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+<TABLE>
+<S>                                                                         <C>
+Annual Report to Shareholders for fiscal year ended December 31, 1995       Part II (Items 6-8)
+
+Portions of the definitive Proxy Statement, filed pursuant to               
+Regulation 14A, to be issued in connection with the Annual Meeting of       
+Shareholders to be held on April 24, 1996                                   Part III (Items 10-13)
+</TABLE>
+<PAGE>   2
+
+                                     INDEX
+
+
+
+<TABLE>
+<CAPTION>
+ITEM NO.                                                                                              PAGE NO.
+
+<S>                                                                                                         <C>
+Cover Page  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  -
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1
+
+PART I
+
+1.       Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+2.       Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+3.       Legal Proceedings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+4.       Submission of Matters to a Vote of Security Holders  . . . . . . . . . . . . . . . . . . . . . . .  7
+
+PART II
+
+5.       Market for Registrant's Common Equity and Related
+         Shareholder Matters  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8
+6.       Selected Financial Data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+7.       Management's Discussion and Analysis of Financial
+         Condition and Results of Operations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+8.       Financial Statements and Supplementary Data  . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+9.       Changes in and Disagreements with Accountants on
+         Accounting and Financial Disclosure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+
+PART III
+
+10.      Directors and Executive Officers of the Registrant . . . . . . . . . . . . . . . . . . . . . . . .  10
+11.      Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+12.      Security Ownership of Certain Beneficial Owners
+         and Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+13.      Certain Relationships and Related Transactions . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+
+PART IV
+
+14.      Exhibits, Financial Statement Schedules and Reports
+         on Form 8-K  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+         Exhibit Index  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+         Exhibits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+
+SIGNATURES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+</TABLE>
+
+
+
+                                      1
+<PAGE>   3
+
+
+                                     PART I
+
+Item 1. Business
+
+        Vanguard Real Estate Fund I, A Sales-Commission-Free Income Properties
+Fund (the "Fund"), was organized on September 10, 1986 as a Massachusetts
+business trust and is a qualified finite-life real estate investment trust
+("REIT") under the Internal Revenue Code of 1986, as amended.  The Fund has no
+employees.  The Fund's Declaration of Trust precludes the Fund from reinvesting
+net proceeds from the sale or repayment of its real estate investments after
+December 31, 1993 and contemplates the liquidation of all the Fund's
+investments after a period of approximately seven to twelve years following the
+completion of its initial public offering, or between June 30, 1994 and 1999,
+respectively.
+
+        On December 12, 1994, the Fund's Board of Trustees adopted a Plan of
+Liquidation and Termination (the "Liquidation Plan").  The Trustee's decision
+to then adopt the Liquidation Plan was driven by several factors, including
+real estate market conditions affecting each investment in the Fund's portfolio
+and tax considerations affecting real estate investment trusts.  The
+Liquidation Plan provides that the Fund will dispose of all of its assets, wind
+up its affairs, pay or adequately provide for the payment of all of its
+liabilities and distribute for the benefit of its shareholders all of the
+Fund's assets over 24 months, in complete cancellation and redemption of all
+issued and outstanding shares of beneficial interest.  Under the Liquidation
+Plan, the Fund's Adviser (Aldrich, Eastman and Waltch, L.P.), Trustees and
+officers are authorized and directed to take any and all actions as may be
+necessary or convenient to market the assets of the Fund and convert them into
+a form that may be distributed to shareholders.  The Liquidation Plan provides
+that the Fund's assets may be sold, conveyed, transferred or otherwise disposed
+of when and on such terms and conditions as are deemed by the Trustees to be in
+the best interests of the Fund and the shareholders.
+        
+        The Fund is currently in the process of liquidating its real estate
+investments with the intention of distributing the net proceeds to its
+shareholders in accordance with the Liquidation Plan.  At December 31, 1995,
+the Fund held investments in two commercial properties consisting of shopping
+centers located in Torrance, California and Durham, North Carolina.  It is
+contemplated that the Fund will be completely liquidated and dissolved by
+December 12, 1996.  To the extent that the Fund has not disposed of all of its
+assets or made provision for all of its liabilities on December 12, 1996, the
+Fund intends to form a liquidating trust, the beneficiaries of which will be
+the shareholders of the Fund.  All assets and liabilities of the Fund not
+previously disposed of and discharged will be transferred to the liquidating
+trust. Shares of the Fund would no longer be traded and the beneficial
+interests in the liquidating trust would not be readily transferable.
+
+        Pursuant to the Liquidation Plan, in disposing of real estate
+investments, the Fund is in competition with other domestic institutional
+investors, including commercial banks and other financial institutions,
+insurance companies, pensions and other retirement funds, mortgage bankers,
+other real estate investment trusts, real estate brokers, developers and
+various types of foreign investors who may be seeking to dispose of real estate
+investments. In the case of leased properties which the Fund owns or which
+secure Fund investments, the marketability of the investments is also affected
+by how rental rates, lease terms, free rent concessions and tenant improvement
+allowances compare with those in local markets.
+
+        As of February 29, 1996, approximately $22 million was invested in the
+Fund's two remaining directly-owned real estate investments.  Subsequently, on
+March 22, 1996, the Fund completed the sale of its Plaza del Amo Shopping
+Center ("Plaza") in Torrance, California for net proceeds of approximately $9.4
+million, after satisfaction of a $2.3 million mortgage loan secured by the
+property, representing a gain to the Fund of approximately $0.7 million.  On
+March 27, 1996, the Fund completed the sale of its Oakcreek Village Shopping
+Center ("Oakcreek") in Durham, North Carolina for net proceeds of approximately
+$9.0 million, generating a loss to the Fund of approximately $.8 million (of
+which $.7 million was recognized for financial reporting purposes in periods
+prior to 1996 by charges to the Fund's provision for possible losses).
+        
+        Prior to disposition of the Fund's real estate investments pursuant to
+the Liquidation Plan, the Fund's real estate investments were subject to
+competition from existing commercial, industrial, and residential properties. 
+The REIT provisions of the Code impose certain financial, investment and
+operational restrictions that are not applicable to competing entities that are
+not REITs.
+        
+        Since the Fund's remaining properties have now been sold, the Fund's
+Trustees and management intend to complete the Fund's Liquidation Plan as soon
+as practicable.  In addition to liquidating the Fund's assets, settling all of
+the Fund's liabilities, making a final distribution(s) to shareholders
+        
+
+
+
+
+                                       2
+<PAGE>   4
+and dissolving the Fund, such activities are expected to include, but not
+necessarily be limited to, (i) delisting the Fund's shares from trading on the
+American Stock exchange, (ii) deregistering the Fund's shares under the
+Securities Exchange Act of 1934, (iii) making provision for contingent
+liabilities of the Fund, if any, and (iv) obtaining any necessary insurance
+coverages.
+
+        Pursuant to a Services Agreement dated December 23, 1986 (the "Services
+Agreement") between the Fund and The Vanguard Group, Inc. (the "Sponsor"), the
+Sponsor has been retained to provide administrative services for the Fund,
+including the maintenance of financial records, oversight of the performance of
+outside service providers and the preparation and distribution of
+communications to shareholders, etc., and to supervise its day-to-day business
+affairs.  Pursuant to an Advisory Agreement dated December 23, 1986 (as
+amended, the "Advisory Agreement") between the Fund and Aldrich, Eastman &
+Waltch, Inc. (the "Adviser"), the Adviser has been retained to advise the Fund
+in connection with the evaluation, selection, management and disposition of its
+real estate investments.  For additional information concerning the Sponsor,
+the Adviser, the Services Agreement and the Advisory Agreement, see Item 8,
+Financial Statements and Supplementary Data - Notes to Financial Statements,
+and Item 13, Certain Relationships and Related Transactions.
+
+        The Fund has elected to be treated as a REIT under the Code.  The Fund
+intends to operate in a manner that will continue to maintain its qualification
+as a REIT during its liquidation period.
+
+        For additional information regarding the Fund's Liquidation Plan,
+investments, operations, and other significant events, see Item 2, Properties,
+Item 7, Management's Discussion and Analysis of Financial Condition and Results
+of Operations, and Item 8, Financial Statements and Supplementary Data.
+
+        The following table sets forth the names and positions with the Fund of
+the executive officers of the Fund:
+
+<TABLE>
+<CAPTION>
+                                NAME                     AGE                      POSITIONS
+                    ----------------------------        -----        -----------------------------------
+                    <S>                                   <C>        <C>
+                    John C. Bogle                         66         Trustee and Chairman of the Board
+                    John J. Brennan                       41         President
+                    Ralph K. Packard                      51         Vice President and Controller
+                    Richard F. Hyland                     58         Treasurer
+                    Raymond J. Klapinsky                  57         Secretary
+</TABLE>
+
+        All executive officers of the Fund also serve as executive officers of
+Vanguard Real Estate Fund II, A Sales-Commission-Free Income Properties Fund
+("VREFII").  All executive officers of the Fund, with the exceptions of Mr.
+Packard, who was elected as an officer of the Fund in May 1988, and Mr.
+Klapinsky, who was elected as an officer of the Fund in May 1989, have served
+since the Fund's inception.  Under the Fund's Declaration of Trust, the
+officers of the Fund serve at the pleasure of the Trustees.  There are no
+family relationships between any Trustee or executive officer.
+
+        Mr. Bogle is Chairman of the Fund, The Vanguard Group, Inc. (the
+Sponsor of the Fund) and each of the investment companies in The Vanguard
+Group.  Mr. Bogle has served in such capacity during each of the past five
+years.  Mr. Bogle also serves as a Director of The Mead Corporation and General
+Accident Insurance Companies.
+
+        Mr. Brennan is President of The Vanguard Group, Inc. and has served in
+such capacity during each of the past five years.  On January 31, 1996, Mr.
+Brennan assumed the title of Chief Executive Officer of the Fund, The Vanguard
+Group, Inc. and each of the investment companies in the Vanguard group.  Mr.
+Brennan also serves as a Director (Trustee) of The Vanguard Group, Inc., and
+each of the investment companies in The Vanguard Group.
+        
+        Mr. Packard is Senior Vice President and Chief Financial Officer of The
+Vanguard Group, Inc. and has served in such capacity during each of the past
+five years.
+
+        Mr. Hyland is, and has served for each of the past five years as,
+Treasurer of The Vanguard Group, Inc. and each of the investment companies in
+The Vanguard Group.
+
+
+
+
+
+                                       3
+<PAGE>   5
+        Mr. Klapinsky is, and has served for each of the past five years as,
+Senior Vice President and Secretary of The Vanguard Group, Inc. and each of the
+investment companies in The Vanguard Group.
+
+Item 2. Properties
+
+As of December 31, 1995, the Fund held the following real estate investments:
+
+                               EQUITY INVESTMENTS
+<TABLE>
+<CAPTION>
+                                          Nature of                                                        Initial
+                                          Title                                            Total         Acquisition
+                                          to/Interest                         Date         Square           Cost
+        Property & Location               in Property    Description        Acquired    Footage/Units       (000)
+        -------------------               -----------    -----------        --------    -------------       -----
+        <S>                               <C>            <C>                 <C>          <C>                <C>
+
+        Durham, North Carolina
+        ----------------------
+          Oakcreek Village                Direct         Community           11-25-87         116,195        $10,592
+                                          Ownership      Shopping                         square feet
+                                                         Center
+        Torrance, California
+        --------------------
+        Plaza del Amo *                   Direct         Community             8-1-95          91,609         11,067
+                                          Ownership      Shopping                         square feet
+                                                         Center
+        
+        Total Equity Investments                                                                             $21,659
+                                                                                                             =======
+        
+        Total Square Feet                                                                     207,804
+                                                                                          ===========
+</TABLE>
+
+*  In late September 1994, the Fund exercised its call right with respect to
+its Plaza del Amo ("Plaza") shared-appreciation, wrap-around mortgage loan
+investment.  As a result, the entire balance of the loan, less the unpaid
+balance of the senior mortgage on the Plaza property, was due and payable in
+late March 1995.  The borrower failed to tender payment of the outstanding loan
+balance on the due date, resulting in a default under the terms of the loan. On
+August 1, 1995, the borrower transferred title to the property, in lieu of
+foreclosure, to the Fund with the borrower retaining a residual interest in the
+shared-appreciation feature of the mortgage.  Under the original loan terms,
+upon repayment of the loan, both the borrower and the Fund were entitled to a
+share of the property's appreciation, if any, equal to 50% of Plaza's fair
+market value in excess of the original wrap-around loan balance of $10,646,000.
+In consideration for the borrower agreeing to transfer title to the Fund in
+lieu of foreclosure, the transfer agreement provides that, upon the Fund's
+ultimate sale of Plaza, the Fund will pay the borrower the greater of 2% of
+Plaza's net sales proceeds, as defined, or a share of Plaza's net sales
+proceeds in excess of the original wrap-around mortgage loan balance such that
+the borrower and the Fund share in the Property's appreciation equally as
+contemplated in the original mortgage loan agreement.  Upon transfer of title,
+the Fund recorded the property at its estimated fair market value less selling
+costs. Such costs included the estimated minimum shared-appreciation obligation
+of $230,000 guaranteed the borrower pursuant to the transfer agreement, such
+amount determined based on the property's then estimated fair market value. Of
+this amount, $110,000 was paid to the borrower on the transfer date.
+         
+        Set forth below is a summary of the general competitive conditions for
+those properties held at December 31, 1995 whose book value is ten percent or
+more of the Fund's total assets as of such date, or whose gross revenues are
+ten percent or more of the aggregate gross revenues of the Fund for the year
+ended December 31, 1995.
+        
+Plaza del Amo
+
+        Plaza del Amo is a neighborhood shopping center located in Torrance,
+California.  There are approximately 85,000 households (average household
+income of $70,000) and 210,000 people within a three-mile radius of the
+shopping center.  Southern California's economy and, in particular, the South
+Bay market, have been seriously undermined by the recent recession prompted in
+part by difficulties in the defense and aerospace industries.  As a result, the
+retail property market has suffered for several years from weak demand growth.
+Current market vacancy has remained relatively unchanged at approximately
+10-12% and estimated effective rents at comparable properties is between $1.00
+and $2.50 per month, depending on the age of centers and location as well as
+size of space within each particular center.
+
+
+
+
+
+                                       4
+<PAGE>   6
+
+Oakcreek Village
+
+        Oakcreek Village is a neighborhood shopping center in Durham, North
+Carolina.  There are approximately 16,600 households (average household income
+of $60,000) and 37,000 people within a three-mile radius of the center.
+Estimated market rents for comparable properties are approximately
+$12.00-$15.00 per square foot per annum.  Positive market conditions, primarily
+low vacancy rates and strong rent growth, have resulted in the development of
+New Hope Commons, a 450,000 square foot power center within two miles of
+Oakcreek Village.  At this time, the competitive pressure of New Hope Commons
+has not reduced rent growth or increased vacancy in the submarket, but
+prolonged positive market conditions may eventually result in additional new
+development which, if built, will suppress rent growth and increase vacancy in
+the sub-market.
+        
+         Occupancy Rates at December 31:
+
+<TABLE>
+<CAPTION>
+                          Plaza del            Oakcreek
+                          Amo                  Village
+                          ---                  -------
+
+         <S>             <C>                   <C>
+         1995             95%                   100%
+         1994             99%                    96%
+         1993             98%                    96%
+         1992             94%                    95%
+         1991             92%                    94%
+</TABLE>
+
+         Avg. Effective Rental/Sq.Ft./Year:
+
+<TABLE>
+<CAPTION>
+                          Plaza del            Oakcreek
+                          Amo                  Village
+                          ---                  -------
+
+         <S>              <C>                  <C>
+         1995             $13.40               $10.28
+         1994             $13.28               $ 9.94
+         1993             $13.23               $ 9.07
+         1992             $13.06               $ 9.11
+         1991             $13.72               $ 9.47
+</TABLE>
+
+
+         Real Estate Tax/Fiscal Year:
+         (Effective Rate Per $1000 of Assessed Value)
+<TABLE>
+         <S>              <C>                  <C>
+                          $11.57               $15.90
+         Annual
+         Taxes            $87,922              $101,106
+</TABLE>
+
+         Tenants occupying 10% or more of rentable square footage:
+
+<TABLE>
+<CAPTION>
+                                                                Rental
+         Property     Major Tenants    Sq.Ft.  Principal Bus.   Sq.Ft./Yr.       Expiration Date  Renewal Options
+         --------     -------------    ------  --------------   ----------       ---------------  ---------------
+
+         <S>          <C>              <C>     <C>                <C>                <C>          <C>
+         Plaza del    Albertsons       39,852  Supermarket        $6.36              10/29/06     4, 5 year Options
+         Amo          Oshman's          9,930  Sporting Goods     $9.03              9/23/01      None
+
+         Oakcreek     T.J. Maxx        31,303  Clothing Retail.   $7.62              4/30/03      None
+         Village      Durham S.G.      16,034  Sporting Goods     $5.25              8/31/02      None
+</TABLE>
+
+
+
+
+
+                                       5
+<PAGE>   7
+Lease Expirations during the next ten years:
+
+                                 By Square Foot
+
+<TABLE>
+<CAPTION>
+               Total Sq.Ft.
+ Property        Expiring      1996     1997       1998     1999      2000    2001      2002      2003    2004     2005+
+ --------      ------------    ----     ----       ----     ----      ----    ----      ----      ----    ----     -----
+ Plaza del
+ <S>                <C>       <C>       <C>       <C>        <C>      <C>     <C>      <C>       <C>          <C>  <C>
+ Amo                 89,241    2,896    10,913     5,057     6,586    1,303   22,634        0         0       0    39,852
+ Oakcreek
+ Village            116,195   19,063    12,800    13,360     1,600    4,800    7,200   16,034    31,303       0    10,035
+</TABLE>
+
+
+                                By Annual Rental
+
+
+<TABLE>
+<CAPTION>
+                   Total
+ Property       Expirations     1996      1997       1998      1999    2000      2001       2002    2003        2004     2005+
+ --------       -----------     ----      ----       ----      ----    ----      ----       ----    ----        ----     -----
+                                                                       
+ <S>             <C>          <C>        <C>        <C>       <C>      <C>      <C>        <C>       <C>           <C>  <C>
+ Plaza del Amo                                                         
+   # of leases          23          4          6          3         4       1         4        0           0       0          1
+   annual $      1,195,733     77,299    258,358    111,591   146,940  31,272   316,793        0           0       0    253,480
+   annual %          100.0        6.5       21.6        9.3      12.3     2.6      26.5        0           0       0       21.2
+                                                                       
+ Oakcreek Vlg.                                                         
+   # of leases          23          6          3          5         1       3         1         1          1       0          2
+   annual $      1,194,050    220,317    151,160    150,088    20,800  64,320    91,200    84,179    238,529       0    173,457
+   annual %          100.0       18.5       12.6       12.6       1.7     5.4       7.7       7.0       20.0       0       14.5
+</TABLE>
+
+
+        A mortgage loan payable, secured by the Plaza del Amo property, is
+outstanding at December 31, 1995.  Information concerning its principal,
+interest rate, amortization and maturity provisions is included in Note H to
+the Fund's financial statements, incorporated by reference in Item 8, Financial
+Statements and Supplementary Data.
+
+        Information concerning the Fund's previously held mortgage loan
+receivable investment is included in Note F to the Fund's Financial Statements,
+and included in Item 8, Financial Statements and Supplementary Data.
+
+        The Fund believes that its direct ownership properties are well
+maintained, in good repair, suitable for their intended uses and adequately
+covered by insurance.  For additional information regarding the Fund's real
+estate investments see Item 7, Management's Discussion and Analysis of
+Financial Condition and Results of Operations, Item 8, Financial Statements and
+Supplementary Data, and Schedule XI to Item 14.
+
+        The Fund has no other significant renovation, improvement or
+development plans for its properties.
+
+
+
+
+
+                                       6
+<PAGE>   8
+        Information concerning the Federal tax basis and depreciation method
+and lives of the Fund's properties and components thereof and on which
+depreciation is taken is included in Notes A and E to the Fund's Financial
+Statements, included in Item 8, Financial Statements and Supplementary Data,
+and in Schedule XI to Item 14.  All real estate owned has been depreciated over
+40 years for both financial and tax reporting purposes on a straight-line basis
+except for leasehold improvements, which are depreciated over the term of the
+respective lease for financial reporting purposes.
+
+
+Item 3. Legal Proceedings
+
+        None
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+        None
+
+
+                                    PART II
+
+
+Item 5. Market for Registrant's Common Equity and Related Shareholder Matters
+
+        The Fund's shares of beneficial interest ("Shares") are traded on the
+American Stock Exchange (AMEX) under the symbol "VRO".  The Shares have been
+traded on the AMEX since August 20, 1991.  From July 24, 1989 to August 19,
+1991, the Fund's shares were traded on the over the counter market and were
+quoted by the National Association of Securities Dealers Automated Quotation
+System ("NASDAQ").  Prior to July 24, 1989, there was no trading market for the
+Shares.  As of February 29, 1996, there were approximately 15,161 holders of
+record of the Fund's Shares.
+
+        Set forth below is certain information regarding the Fund's Shares for
+each of the eight fiscal quarters in the two-year period ended December 31,
+1995:
+
+<TABLE>
+<CAPTION>
+                                                                       Year Ended December 31,
+                                                      ---------------------------------------------------------
+                                                              1995                                1994
+                                                              ----                                ----
+                                                          Share Prices                       Share Prices
+                                                      ---------------------            ------------------------
+                                                        High          Low                High             Low  
+                                                      --------      -------            --------         -------
+
+                   <S>                                <C>          <C>                  <C>            <C>
+                   For the Quarter Ended:
+                   March 31                            $4.25        $3.4375**            $8.00          $7.375
+                   June 30                             $3.9375      $2.8125**            $7.25          $6.25
+                   September 30                        $3.25        $2.5625**            $6.625         $5.75
+                   December 31 *                       $3.50        $2.875               $7.626         $3.50
+</TABLE>
+
+        *  Liquidating dividends of $.50 and $3.69 per share were paid on
+           December 28, 1995 and December 29, 1994, respectively.
+
+       **  Liquidating dividends of $.05 per share were paid on April 28,
+           July 28, and October 31, 1995.
+
+
+
+                                       7
+<PAGE>   9
+        The tables below indicate the amount of cash dividends per share
+declared and paid during the years ended December 31, 1995 and 1994.
+<TABLE>
+<CAPTION>
+                                      Record                    Distribution
+                                       Date                       Per Share
+                            --------------------------         ----------------
+                            <S>                                          <C>
+                                     03-31-95                            $.05
+                                     06-30-95                             .05
+                                     09-29-95                             .05
+                                     12-26-95                             .50
+                                                                          ---
+
+                            Total Distributions - 1995                   $.65
+                                                                         ====
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                      Record                    Distribution
+                                       Date                       Per Share
+                            --------------------------         ----------------
+                            <S>                                         <C>
+                                     03-31-94                            $.15
+                                     06-30-94                             .15
+                                     09-30-94                             .15
+                                     12-27-94                            3.69
+                                                                         ----
+
+                            Total Distributions - 1994                  $4.14
+                                                                        =====
+</TABLE>
+<TABLE>
+<CAPTION>
+                 Status of Distributions                         1995              1994
+                 -----------------------                         ----              ----
+                 <S>                                            <C>               <C>
+                 Ordinary Income                                $ .00             $ .01
+                 Return of Capital                                .00               .35
+                 Long-term Capital Gain                           .00               .09
+                 Liquidating                                      .65              3.69
+                                                                  ---              ----
+                                                                 $.65             $4.14
+                                                                 ====             =====
+                      Total
+</TABLE>
+
+
+        Except during its offering period, the Fund has historically paid
+distributions on a quarterly basis and there are currently no contractual
+restrictions on the Fund's present or future ability to make distributions to
+shareholders.  For additional information regarding the Fund's distributions
+and its ability and intent to pay distributions during the liquidation period,
+see Item 7, Management's Discussion and Analysis of Financial Condition and
+Results of Operations.
+
+Item 6. Selected Financial Data
+
+        The information required by this Item is included on page 19 of the
+Fund's 1995 Annual Report to Shareholders and is incorporated herein by
+reference thereto.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+        The information required by this Item is included on pages 20 through
+27 of the Fund's 1995 Annual Report to Shareholders and is incorporated herein
+by reference thereto.
+
+
+
+
+
+                                       8
+<PAGE>   10
+Item 8. Financial Statements and Supplementary Data
+
+        The Fund's financial statements at December 31, 1995 and 1994, and for
+each of the three years in the period ended December 31, 1995 are included on
+pages 5-17 of the Fund's 1995 Annual Report to Shareholders and are
+incorporated herein by reference thereto.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+        Financial Disclosure
+
+        None
+
+
+
+
+                                    PART III
+
+
+Item 10. Directors and Executive Officers of the Registrant
+
+        The information required by this Item with respect to Trustees is
+included in the Fund's definitive Proxy Statement filed with the Securities and
+Exchange Commission on March 15, 1996, for its Annual Meeting of Shareholders
+to be held on April 24, 1996, which is incorporated herein by reference
+thereto.  (Information with respect to executive officers of the Fund is
+included in Item 1.)
+
+Item 11. Executive Compensation
+
+        The information required by this Item is included in the Fund's
+definitive Proxy Statement filed with the Securities and Exchange Commission on
+March 15, 1996 for its Annual Meeting of Shareholders to be held on April 24,
+1996, which is incorporated herein by reference thereto.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+        The information required by this Item is included in the Fund's
+definitive Proxy Statement filed with the Securities and Exchange Commission on
+March 15, 1996 for its Annual Meeting of Shareholders to be held on April 24,
+1996, which is incorporated herein by reference thereto.
+
+
+Item 13. Certain Relationships and Related Transactions
+
+        The information required by this Item is included in the Fund's
+definitive Proxy Statement filed with the Securities and Exchange Commission on
+March 15, 1996 for its Annual Meeting of Shareholders to be held on April 24,
+1996, which is incorporated herein by reference thereto.
+
+
+
+
+
+                                       9
+<PAGE>   11
+                                    PART IV
+
+
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+(a)     1. Financial Statements:
+
+                 The following financial statements as of, and for the years
+        ended, December 31, 1995, 1994 and 1993 are incorporated in Item 8
+        herein by reference from the following pages of the Fund's 1995 Annual
+        Report to Shareholders, which is filed as an Exhibit hereto.
+
+<TABLE>
+<CAPTION>
+                                                                                                 ANNUAL REPORT
+                                                                                                      PAGE NO.
+
+         <S>                                                                                             <C>
+         Balance Sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+         Income Statements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+         Statements of Cash Flows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7-8
+         Statements of Changes in Shareholders' Equity  . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+         Notes to Financial Statements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10-17
+         Report of Independent Accountants  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+</TABLE>
+
+
+        2. Financial Statement Schedules:
+
+                 The financial statement schedules included in Part IV of this
+        report should be read in conjunction with the Fund's financial
+        statements incorporated by reference in Item 8 of this report.
+<TABLE>
+<CAPTION>
+                                                                                                     FORM 10-K
+         SCHEDULE                                                                                     PAGE NO.
+
+
+          <S>             <C>                                                                            <C>
+          XI              Real Estate and Accumulated Depreciation  . . . . . . . . . . . . . . . . . .  16-17
+                          Report of Independent Accountants . . . . . . . . . . . . . . . . . . . . . . . . 18
+</TABLE>
+
+                 All other schedules have been omitted since the required
+        information is presented in the financial statements, the related
+        notes, or is not applicable.
+
+
+
+
+
+                                       10
+<PAGE>   12
+3. Exhibits:
+
+Exhibit No.                            Description
+- -----------                            -----------
+
+   2            Plan of Liquidation and Termination, dated December 12, 1994,
+                filed as exhibit 2 to the Fund's Annual Report on Form 10-K for 
+                the fiscal year ended December 31, 1994, and incorporated
+                herein by reference.
+
+   3.1          Amended and Restated Declaration of Trust, dated December 9,
+                1986, filed as exhibit 3 to the Fund's Registration Statement
+                on Form S-11, SEC Registration #33-8649, and incorporated
+                herein by reference.
+
+   3.2          Amendment #1 to Amended and Restated Declaration of Trust,
+                dated January 10, 1987, filed as exhibit 3(b) to the Fund's
+                Registration Statement on Form S-11, SEC Registration
+                #33-15040, and incorporated herein by reference.
+
+   3.3          Amendment #2 to Amended and Restated Declaration of Trust,
+                dated May 31, 1988, filed as exhibit 3 to the Fund's Quarterly
+                Report on Form 10-Q for the quarter ended June 30, 1988, and
+                incorporated herein by reference.
+
+   3.4          By-laws, filed as exhibit 3 to the Fund's Registration
+                Statement on Form S-11, SEC Registration #33-8649, and
+                incorporated herein by reference.
+
+   10.1         Advisory Agreement between the Fund and Aldrich, Eastman &
+                Waltch, Inc. dated December 23, 1986, filed as exhibit 10.1 to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.2         Services Agreement between the Fund and The Vanguard Group,
+                Inc. dated December 23, 1986, filed as exhibit 10.2 to the
+                Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.3(a)      Loan Agreement by and between Plaza Del Amo and Lawrence W.
+                Doyle, J. Grant Monahon and Richard F. Burns, Trustees of AEW
+                #82 Trust, established by Declaration of Trust dated August 14,
+                1987, dated September 16, 1987, filed as exhibit 10.3(a) to the
+                Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.3(b)      Declaration of Trust, AEW #82 Trust and Schedule of Beneficial
+                Interest dated August 14, 1987, filed as exhibit 10.3(b) to the
+                Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.3(c)      All-Inclusive Promissory Note from Plaza Del Amo in favor of
+                Lawrence W. Doyle, J. Grant Monahon and Richard F.  Burns,
+                Trustees of AEW #82, established by Declaration of Trust dated
+                August 14, 1987, dated September 16, 1987, filed as exhibit
+                10.3(c) to the Fund's Annual Report on Form 10-K for the fiscal
+                year ended December 31, 1987 and incorporated herein by
+                reference.
+
+   10.4(a)      Purchase and Sale Agreement of Oakcreek Village Shopping
+                Center, between Pacific Guaranty Retail Development Corporation
+                and Michael O. Craig, Richard F. Burns and J. Grant Monahon as
+                Trustees of AEW #96 Trust, under Declaration of Trust dated
+                November 6, 1987, dated October 31, 1987, filed as exhibit
+                10.4(a) to the Fund's Annual Report on Form 10-K for the fiscal
+                year ended December 31, 1987, and incorporated herein by
+                reference.
+
+
+
+
+
+                                       11
+<PAGE>   13
+   10.4(b)      Declaration of Trust, AEW #96 Trust and Schedule of Beneficial
+                Interest, dated November 6, 1987, filed as exhibit 10.4(b) to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.4(c)      First Amendment to Purchase and Sale Agreement of Oakcreek
+                Village Shopping Center between Pacific Guaranty Retail
+                Development Corporation and Michael O. Craig, Richard F. Burns
+                and J. Grant Monahon as Trustees of AEW #96 Trust, under
+                Declaration of Trust dated November 6, 1987, dated November 24,
+                1987, filed as exhibit 10.4(c) to the Fund's Annual Report on
+                Form 10-K for the fiscal year ended December 31, 1987, and
+                incorporated herein by reference.
+
+   10.5(a)      Purchase and Sale Agreement of Valley Industrial Park and
+                Sea-Tac Industrial Park between Prudential Insurance Company of
+                America and Joseph F. Azrack, Richard F. Burns and J. Grant
+                Monahon as Trustees of AEW #105 Trust, under Declaration of
+                Trust dated December 23, 1987, dated January 8, 1988, filed as
+                exhibit 10.5(a) to the Fund's Annual Report on Form 10-K for
+                the fiscal year ended December 31, 1987, and incorporated
+                herein by reference.
+
+   10.5(b)      Declaration of Trust, AEW #105 Trust and Schedule of Beneficial
+                Interest, dated December 23, 1987, filed as exhibit 10.5(b) to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.6(a)      Purchase and Sale Agreement of Vita-Fresh Vitamin Facility,
+                dated January 10, 1988, between Vita-Fresh Vitamin Company,
+                Inc. and Lawrence W. Doyle, Richard F. Burns and J. Grant
+                Monahon as Trustees of AEW #113 Trust, under Declaration of
+                Trust dated January 10, 1988, filed as exhibit 10.6(a) to the
+                Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.6(b)      Declaration of Trust, AEW #113 Trust and Schedule of Beneficial
+                Interest, dated January 19, 1988, filed as exhibit 10.6(b) to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.7(a)      Purchase and Sale Agreement of Everest I, Everest II, Fairview
+                Industrial Building and Shoreview Professional Building between
+                Everest Development ltd. and Michael O. Craig, Richard F. Burns
+                and J. Grant Monahon as Trustees of AEW #106 Trust, under
+                Declaration of Trust dated December 17, 1987, dated February 8,
+                1988, filed as exhibit 10.7(a) to the Fund's Annual Report on
+                Form 10-K for the fiscal year ended December 31, 1987, and
+                incorporated herein by reference.
+
+   10.7(b)      Declaration of Trust, AEW #106 Trust and Schedule of Beneficial
+                Interest, dated December 17, 1987, filed as exhibit 10.7(b) to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1987, and incorporated herein by reference.
+
+   10.8         All-Inclusive Promissory Note (Wraparound note) dated May 11,
+                1988, Escrow Agreement dated May 27, 1988 and Option Agreement
+                dated May 11, 1988, all relating to the Fund's mortgage
+                investment in the Carmel Executive Park, filed as exhibit 10 to
+                the Fund's Quarterly Report on Form 10-Q Report for the quarter
+                ended June 30, 1988, and incorporated herein by reference.
+
+   10.9(a)      Purchase and Sale Agreement of Citadel II office building,
+                between Crow Vista #1 and Aldrich, Eastman & Waltch, Inc., a
+                Massachusetts Corporation  acting as agent for the Fund, filed
+                as exhibit 10(a) to the Fund's Quarterly Report on Form 10-Q
+                for the quarter ended September 30, 1988, and incorporated
+                herein by reference.
+
+
+
+
+
+                                       12
+<PAGE>   14
+   10.9(b)      Citadel II Escrow Agreement, filed as exhibit 10(b) to the
+                Fund's Quarterly Report on Form 10-Q for the quarter ended
+                September 30, 1988, and incorporated herein by reference.
+
+   10.10(a)     Loan Agreement for Sheffield Forest Apartments by and between
+                Lincoln Park Place II Limited Partnership and J. Grant Monahon,
+                Richard F. Burns and Marvin M. Franklin, Trustees of AEW #145
+                Trust, established by Declaration of Trust dated October 14,
+                1988, dated December 7, 1988, filed as exhibit 10.10(a) to the
+                Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1988, and incorporated herein by reference.
+
+   10.10(b)     Second Amended and Restated Promissory Note for Sheffield
+                Forest Apartments from Lincoln Park Place II Limited
+                Partnership in favor of J. Grant Monahon, Richard F. Burns and
+                Marvin M. Franklin, Trustees of AEW #145 Trust, established by
+                Declaration of Trust dated October 14, 1988, dated December 7,
+                1988, filed as exhibit 10.10(b) to the Fund's Annual Report on
+                Form 10-K for the fiscal year ended December 31, 1988 and
+                incorporated herein by reference.
+
+   10.10(c)     Amended and Restated Deed of Trust for Sheffield Forest
+                Apartments by and between Lincoln Park Place II Limited
+                Partnership and J. Grant Monahon, Richard F. Burns and Marvin
+                M. Franklin, Trustees of AEW #145 Trust, established by
+                Declaration of Trust dated October 14, 1988, dated December 7,
+                1988, filed as exhibit 10.10(c) to the Fund's Annual Report on
+                Form 10-K for the fiscal year ended December 31, 1988, and
+                incorporated herein by reference.
+
+   10.10(d)     Declaration of Trust, AEW #145 Trust and Schedule of Beneficial
+                Interest dated October 14, 1988, filed as exhibit 10.10(d) to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1988, and incorporated herein by reference.
+
+   10.11(a)     Promissory note of Citadel II by and between the Variable
+                Annuity Life Insurance Company and J. Grant Monahon, Richard F.
+                Burns, and Lee H. Sandwen, Trustees of AEW #131 Trust,
+                established by Declaration of Trust dated June 7, 1988, dated
+                October 9, 1990, filed as exhibit 10.1(a) to the Fund's
+                Quarterly Report on Form 10-Q for the quarter ended September
+                30, 1990, and incorporated herein by reference.
+
+   10.11(b)     Mortgage and Security Agreement of Citadel II by and between
+                the Variable Annuity Life Insurance Company and J.  Grant
+                Monahon, Richard F. Burns, and Lee H. Sandwen, Trustees of AEW
+                #131 Trust, established by Declaration of Trust dated June 7,
+                1988, dated October 9, 1990, filed as exhibit 10.1(b) to the
+                Fund's Quarterly Report on Form 10-Q for the quarter ended
+                September 30, 1990, and incorporated herein by reference.
+
+   10.11(c)     Assignment of Lessor's Interest in Leases of Citadel II by and
+                between the Variable Annuity Life Insurance Company and J.
+                Grant Monahon, Richard F. Burns, and Lee H. Sandwen, Trustees
+                of AEW #131 Trust, established by Declaration of Trust dated
+                June 7, 1988, dated October 9, 1990, filed as exhibit 10.1(c)
+                to the Fund's Quarterly Report on Form 10-Q for the quarter
+                ended September 30, 1990, and incorporated herein by reference.
+
+   10.12        Standard Offer, Agreement and Escrow Instructions for Purchase
+                of Real Estate by and between the Fujita Corporation USA, a
+                California Corporation, and Richard F. Burns, J. Grant Monahon,
+                Lawrence W. Doyle, Trustees of AEW #113 Trust, established by
+                Declaration of Trust dated January 19, 1988, filed as exhibit
+                10.12 to the Fund's Annual Report on Form 10-K for the fiscal
+                year ended December 31, 1990 and incorporated herein by
+                reference.
+
+   10.13        Purchase and Sale Agreement of the Everest I ("Zycad") Building
+                by and between Richard F Burns, J. Grant Monahon, and Bruce H.
+                Freedman as Trustees of AEW #106, under Declaration of Trust
+                dated December 17,
+
+
+
+
+
+                                       13
+<PAGE>   15
+                1987 and JLS and L.P., dated April 23, 1991, filed as exhibit
+                10.13 to the Fund's Quarterly Report on Form 10-Q for the
+                quarter ended March 31, 1991 and incorporated herein by
+                reference.
+
+   10.14        Settlement Agreement and Mutual Release from mortgage by and
+                among J. Grant Monahon, Richard F Burns and Lee. H.  Sandwen,
+                Trustees of AEW #155 Trust under Declaration of Trust dated
+                January 11, 1989, Mark C. Dickinson, Dickinson Development
+                Corp. and Citadel III Partners, Ltd., a Florida limited
+                partnership, dated December 30, 1991, filed as exhibit 10.14 to
+                the Fund's Annual Report on Form 10-K for the fiscal year ended
+                December 31, 1991 and incorporated herein by reference.
+
+   10.15        First Amendment to Second Amended and Restated Promissory Note
+                by and between Lincoln Park Place II Limited Partnership, a
+                Maryland limited partnership and J. Grant Monahon, Richard F.
+                Burns and Devin McCall, Trustees of AEW #145 Trust under
+                Declaration of Trust dated October 14, 1988 dated April 30,
+                1992, filed as exhibit 10.15 to the Fund's Quarterly Report on
+                Form 10-Q for the quarter ended March 31, 1992 and incorporated
+                herein by reference.
+
+   10.16        Amendment No.1 to Loan Agreement by and between Lincoln Park
+                Place II Limited Partnership, a Maryland limited partnership
+                and J. Grant Monahon, Richard F. Burns and Kevin McCall,
+                Trustees of AEW #145 Trust under Declaration of Trust dated
+                October 14, 1988, dated April 30. 1992, filed as exhibit 10.16
+                to the Fund's Quarterly Report on Form 10-Q for the quarter
+                ended March 31, 1992 and incorporated herein by reference.
+
+   10.17        Amendment No.1 to All-Inclusive Promissory Note by and between
+                Piazzagalli Development Company, a Vermont General Partnership
+                and J. Grant Monahon, Richard F. Burns and Lee H. Andwen,
+                Trustees of AEW #127 Trust, under Declaration of Trust dated
+                May 3, 1988, dated December 23, 1991 for purposes of reference,
+                filed as exhibit 10.17 to the Fund's Quarterly Report on Form
+                10-Q for the quarter ended March 31, 1992 and incorporated
+                herein by reference.
+
+   10.18        Amendment No.1 to Loan Agreement by and between Piazzagalli
+                Development Company, a Vermont General Partnership and J. Grant
+                Monahon, Richard F. Burns and Lee H. Sandwen, Trustees of AEW
+                #127 Trust, under Declaration of Trust dated May 3, 1988, dated
+                December 23, 1991 for purposes of reference, filed as exhibit
+                10.18 to the Fund's Quarterly Report on Form 10-Q for the
+                quarter ended March 31, 1992 and incorporated herein by
+                reference.
+
+   10.19        Purchase and Sale Agreement of the Seattle Industrial Parks, by
+                and between AEW #105 Trust and Spieker Properties, Inc., dated
+                September 21, 1994, filed as exhibit 10.19 to the Fund's Report
+                on Form 10-K for the fiscal year ended December 31, 1994 and
+                incorporated herein by reference.
+
+   13           1995 Annual Report to Shareholders.  (With the exception of the
+                information and data incorporated by reference in Items 6, 7,
+                and 8 of this Annual Report on Form 10-K, no other information
+                or data appearing in the 1995 Annual Report to Shareholders is
+                to be deemed filed as part of this report.)
+
+   27           Financial Data Schedule.  A Financial Data Schedule for the
+                year ended December 31, 1995, was submitted in electronic
+                format only.
+
+(b)           Reports on Form 8-K
+
+                During the fourth quarter ended December 31, 1995, the Fund
+              filed a Report on Form 8-K, dated December 15, 1995, reporting,
+              in Item 5, the sale of its Sheffield Forest Apartment Complex
+              investment.
+
+
+
+
+
+                                       14
+<PAGE>   16
+                                                                     SCHEDULE XI
+
+                          VANGUARD REAL ESTATE FUND I,
+                 A SALES-COMMISSION-FREE INCOME PROPERTIES FUND
+                    REAL ESTATE AND ACCUMULATED DEPRECIATION
+                               DECEMBER 31, 1995
+
+
+<TABLE>
+<CAPTION>
+Description                            Oakcreek Village        Plaza del Amo
+                                       ----------------        -------------
+                                       Shopping Center,        Shopping Center,
+                                       Durham, NC              Torrance, CA (f)                  TOTAL
+                                                                                                 -----
+
+ <S>                                          <C>                       <C>                      <C>
+ Encumbrances                                     None                    $2,281                  $2,281
+ Initial Cost to Fund
+ --------------------
+ Land (000)                                     $3,100                    $6,600                  $9,700
+ Buildings and Improvements (000)                7,492                     4,467                  11,959
+                                               -------                   -------                 -------
+ Total Acquisition Costs                       $10,592                   $11,067                 $21,659
+ Costs Capitalized Subsequent to
+ -------------------------------
+  Acquisition
+ ------------
+ Improvements (000)                                588                         4                    $592
+ Write-downs (a)                                  (700)                        0                    (700)
+ Gross Amount at which Carried 
+ ------------------------------
+ at Close of Period (b)
+ ------------------    
+ Land (000)                                      2,885                     6,600                  $9,485
+ Building and Improvements (000)                 7,595                     4,471                 $12,066
+                                               -------                   -------                 -------
+ Total (000) (c)                               $10,480                   $11,071                 $21,551
+                                               =======                   =======                 =======
+
+ Accumulated Depreciation (000) (d)             $1,492                        $0                  $1,492
+ Date of Construction                             1986                      1975                       -
+ Date Acquired                                   11/87                      8/95                       -
+ Depreciable Life (e)                         40 years                  40 years                       -
+</TABLE>
+
+
+
+(a)  A $150,000 write down in the carrying value of the Fund's Oakcreek direct
+ownership investment was recorded, upon adoption of the Liquidation Plan in
+December 1994, to reflect the effect of its held for sale status on
+management's assessment of the investment's recoverability.  In December 1995,
+a write down in the amount of $550,000 was recorded to reflect a decline in the
+independent appraised value of the Oakcreek property, primarily resulting from
+increased retail compition in its market.
+
+(b)  The aggregate cost of real estate for federal income tax purposes at
+December 31, 1995 was $20,284,100.
+
+
+
+
+
+                                       15
+<PAGE>   17
+                                                         SCHEDULE XI (Continued)
+ 
+
+(c)  The activity in real estate is summarized as follows: 
+
+
+
+
+<TABLE>
+<CAPTION>
+                                   --------------------------------------------------------------------------------------------
+ Year ended December 31,           1995      1994       1993       1992      1991       1990       1989       1988      1987
+                                   (000)     (000)      (000)      (000)     (000)      (000)      (000)     (000)      (000)
+                                   --------------------------------------------------------------------------------------------
+ <S>                               <C>        <C>       <C>        <C>        <C>       <C>        <C>        <C>       <C>
+ Balance at beginning of year      $28,287    $44,222   $63,622    $63,192    $71,561   $71,304    $71,422    $10,574        $0
+ Additions during the year:        
+   Transfers                        11,067     15,500         0          0          0         0          0          0         0
+   Property purchases                    0          0         0          0          0         0          0     61,108    10,574
+   Property improvements                57         14       360        430        613       257        160         60         0
+ Deletions during the year:        
+  Sales of properties, net of      (17,304)   (30,528)  (19,704)         0     (8,962)        0          0          0         0
+ write-downs                       
+  Citadel II contingent purchase
+    price refund*                        0          0         0          0        (20)        0       (278)      (320)        0
+
+ Write-downs                          (550)      (850)        0          0          0         0          0          0         0
+ Write-off of tenant improvements       (6)       (71)      (56)         0          0         0          0          0         0
+                                   --------------------------------------------------------------------------------------------
+ Balance at end of year            $21,551    $28,287   $44,222    $63,622    $63,192   $71,561    $71,304    $71,422   $10,574
+                                   ============================================================================================
+</TABLE>
+
+* The Fund purchased the Citadel II office building ("Citadel II") for a
+  contract price of $19,500,000. Included in the contract price was a
+  $1,000,000 contingent purchase price payment placed in escrow for the
+  Fund, of which an aggregate of $618,000 was returned to the Fund by the
+  seller at the expiration of the escrow period pursuant to the terms of
+  the purchase and sale agreement.
+
+(d)  Reconciliation of accumulated depreciation is summarized as follows:
+
+<TABLE>
+<CAPTION>
+     Year ended December 31,
+                                      ----------------------------------------------------------------------------------------
+                                      1995       1994       1993     1992      1991      1990      1989      1988       1987
+                                      (000)      (000)      (000)    (000)     (000)     (000)     (000)     (000)      (000)
+                                      ----------------------------------------------------------------------------------------
+ <S>                                   <C>        <C>      <C>       <C>       <C>       <C>       <C>        <C>          <C>
+
+ Balance at beginning of year          $2,069     $4,789   $5,862    $4,557    $3,792    $2,413    $1,087        $23        $0
+ Add:
+  Depreciation for the year                 0        941    1,217     1,305     1,231     1,379     1,326      1,064        23
+ Deduct:
+  Accumulated depreciation of
+   real estate sold                      (571)    (3,597)  (2,234)        0      (466)        0         0          0         0
+ Write-off of tenant improvements          (6)       (64)     (56)        0         0         0         0          0         0
+                                      ----------------------------------------------------------------------------------------
+ Balance at end of year                $1,492     $2,069   $4,789    $5,862    $4,557    $3,792    $2,413     $1,087       $23
+                                      ========================================================================================
+</TABLE>
+
+(e)  Prior to the adoption of the Liquidation Plan, depreciation on real estate
+owned was computed using the straight-line method over 40 years for buildings
+and costs incurred in conjunction with the acquisition of real estate
+investments were deferred and amortized on a straight-line basis over the life
+of the loan for mortgage loan investments and the life of the property for
+equity investments.  Subsequent to adoption of the Liquidation Plan, no
+depreciation or amortization expense related to the Fund's owned real estate
+and acquisition costs is recognized since the Fund's real estate investments
+are considered to be held for sale.
+
+(f)  The Fund obtained Plaza del Amo on August 1, 1995, in lieu of foreclosure
+on the shared-appreciation wrap-around mortgage loan secured by the Plaza del
+Amo property, the Fund with the borrower retaining a residual interest in the
+shared appreciation feature of the mortgage, and recorded it at its
+then-estimated net realizable value.  Information concerning the transfer is
+included in Note F to the Fund's Financial Statements.
+     
+
+
+
+
+                                       16
+<PAGE>   18
+
+
+
+
+
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+                         FINANCIAL STATEMENT SCHEDULES
+
+
+
+
+To the Board of Trustees of
+Vanguard Real Estate Fund I
+
+
+Our audits of the financial statements referred to in our report dated March 8,
+1996 appearing on page 18 of the 1995 Annual Report to Shareholders of Vanguard
+Real Estate Fund I (which report and financial statements are incorporated by
+reference in this Annual Report on Form 10-K) also included audits of the
+Financial Statement Schedules listed in Item 14(a) of this Form 10-K.  In our
+opinion, these Financial Statement Schedules present fairly, in all material
+respects, the information set forth therein when read in conjunction with the
+related financial statements.
+
+
+
+
+PRICE WATERHOUSE LLP
+
+Philadelphia, Pennsylvania
+March 8, 1996
+
+
+
+
+
+                                       17
+<PAGE>   19
+
+                                   SIGNATURES
+
+
+
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+        Exchange Act of 1934, the registrant has duly caused this report to be
+        signed on its behalf by the undersigned thereunto duly authorized.
+
+                          VANGUARD REAL ESTATE FUND I,
+                 A Sales-Commission-Free Income Properties Fund
+
+
+ March 29, 1996                                  /s/ John J. Brennan
+- ------------------------                         ----------------------------
+         DATE                                    John J. Brennan
+                                                 President
+
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+        this report has been signed below by the following persons on behalf
+        of the Registrant and in the capacities on the dates indicated.
+
+
+
+<TABLE>
+<S>                                              <C>
+ March 29, 1996                                  /s/ J. Mahlon Buck, Jr.
+- ------------------------                         ----------------------------
+         DATE                                    J. Mahlon Buck, Jr.
+                                                 Trustee
+
+
+ March 29, 1996                                  /s/ William S. Cashel, Jr.
+- ------------------------                         ----------------------------
+         DATE                                    William S. Cashel, Jr.
+                                                 Trustee
+
+
+ March 29, 1996                                  /s/ David C. Melnicoff
+- ------------------------                         ----------------------------
+         DATE                                    David C. Melnicoff
+                                                 Trustee
+
+
+ March 29, 1996                                  /s/ J. Lawrence Wilson
+- ------------------------                         ----------------------------
+         DATE                                    J. Lawrence Wilson
+                                                 Trustee
+
+
+ March 29, 1996                                  /s/ Ralph K. Packard
+- ------------------------                         ----------------------------
+         DATE                                    Ralph K. Packard
+                                                 Vice President & Controller
+</TABLE>
+
+
+
+
+
+                                       18
+<PAGE>   20
+
+
+                                 EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+EXHIBIT NO.                       DESCRIPTION                                                         PAGE NO.
+- -----------                       -----------                                                         --------
+
+
+<S>                       <C>                                                                                <C>
+13                        1995 Annual Report to Shareholders  . . . . . . . . . . . . . . . . . . . . . . .  21
+</TABLE>
+
+
+
+
+
+                                       20
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>VANGUARD REAL ESTATE FUND I 1995 ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+
+VANGUARD
+
+REAL ESTATE
+FUND I
+
+ANNUAL REPORT 1995
+<PAGE>   2
+In this Annual Report, I am delighted to formally introduce you to John J.
+Brennan, who, on January 31, 1996, will assume my responsibilities as Chief
+Executive Officer of Vanguard Real Estate Fund I and the other Funds in The
+Vanguard Group. Mr. Brennan will continue to serve as President of the Funds,
+and I will continue to serve as Chairman of the Board.
+
+         As a shareholder of the Fund since its inception and as Chairman of
+all the Vanguard Funds, I want to tell you that I am enthusiastic and confident
+that Jack Brennan is exactly the right person to succeed me as Chief Executive
+Officer. To use yet another Vanguard nautical metaphor, he will be the new
+captain. He has the qualities of leadership, integrity, intelligence, and
+vision that must continue to be Vanguard's hallmark as we move toward, and then
+into, the 21st century.
+
+         I know that he has these qualities, because Jack Brennan and I have
+been working closely together since he joined Vanguard in 1982. He is a
+graduate of Dartmouth College and Harvard Business School. He started as
+Assistant to the Chairman and, rising like a rocket, became President in 1989.
+While, at age 41, he may seem young, he is in fact older than I was when I
+became Chief Executive Officer of Vanguard's predecessor organization in 1967,
+at the age of 38. Most important of all, Jack is completely dedicated to the
+Vanguard character, and believes in our basic mission: serving solely the
+shareholder, free of any conflict of interest. He believes in holding our costs
+of operation to a minimum, and in retaining our position as the lowest-cost
+provider of financial services in the world. He is a true competitor, who
+shares Vanguard's dedication to providing highly competitive returns to our
+investors relative to the returns provided by other mutual funds with
+comparable objectives. He also believes in reporting our results to
+shareholders with complete candor. He has the full support of the Board of
+Directors and our crew, and is committed to staying the course we have set for
+Vanguard. You need have no doubt that the essential elements that drew you to
+Vanguard in the first place will remain intact.
+
+[FIGURE 1]
+
+John J. Brennan           John C. Bogle
+
+         As for me, I expect to fill a useful, if less demanding, role as
+Chairman of the Board. I shall keep a watchful eye over the interests of our
+shareholders, our crew, and our investment policies. I shall also speak out on
+industry affairs, reminding all who will listen of the primacy of the interests
+of mutual fund shareholders. I will be readily available to provide Jack
+Brennan with whatever wisdom I may have acquired during my lifetime of
+experience in this wonderful industry and in my service as captain of Vanguard
+since I founded this unique organization more than two decades ago.
+
+         In short, I'll still be around. Thank you for all your confidence in
+me in the past and, in advance, for your continued confidence in Vanguard under
+Jack Brennan's leadership.
+
+/s/ JOHN C. BOGLE
+<PAGE>   3
+                               CHAIRMAN'S LETTER
+
+FELLOW SHAREHOLDER:
+
+Vanguard Real Estate Fund I continued to move forward with its property
+disposition plan during 1995. After the sale of Sheffield Forest Apartments,
+completed in late December for net proceeds of $14.4 million, two property
+investments remain in our portfolio.  These two investments are being actively
+marketed for sale, and we are hopeful that the sales will be completed during
+the first half of 1996. Shareholders may expect that the Fund will distribute
+net proceeds from the Sheffield sale in April 1996. Net proceeds from 1996
+property sales will be distributed as soon as practicable and the Fund
+liquidated thereafter.
+
+
+FINANCIAL RESULTS
+
+Net income totaled $.17 per share for 1995. This amount was substantially less
+than the $1.12 per share earned in 1994, when the portfolio was larger and net
+income was augmented by the gain realized upon sale of our Seattle Industrials
+property. Funds from operations for 1995 amounted to $.28 per share, which
+compares to $.51 per share for 1994. Again, the difference reflects the larger
+portfolio prior to last year's property sales and subsequent distribution to
+shareholders of associated net proceeds.
+
+         Distributions during 1995 totaled $.65 per share, including three
+quarterly payments of $.05 per share and a year-end distribution of $.50 per
+share. All distributions were non-taxable for Federal income tax purposes (to
+the extent a shareholder has a remaining tax cost basis).
+
+
+THE PROPERTY PORTFOLIO
+
+We began the year with interests in four properties. We sold the small
+remaining holdings in the Minnesota Portfolio in late July for net proceeds of
+$1.7 million. Then, on December 15, 1995, we completed the sale of Sheffield
+Forest Apartments for net proceeds of $14.4 million. The amount realized was
+some 2% less than the Fund's carrying value for the investment, and
+significantly lower than the $18.4 million we originally invested in the
+property in December 1988. Nevertheless, over the life of our investment in the
+property, after factoring in income payments, we earned a small positive
+return.
+
+         Our investment in the Plaza del Amo Shopping Center in Torrance,
+California, originally established as a shared appreciation mortgage, was
+restructured at the end of July 1995, when the Fund took title to the property.
+Subsequent to year end, the Fund placed the property under contract for sale
+and we now expect the sale to close in mid-March. The Fund has also been
+actively marketing Oakcreek Village, our shopping center in Durham, North
+Carolina. A number of potential buyers expressed interest in the property, and
+the Fund recently executed a letter of intent with a prospective purchaser. We
+hope to announce completion of these sales in either the first or second
+quarters of 1996. Further information about the Fund's investments is contained
+in the letter from the Adviser on page 4.
+
+
+MEASURES OF VALUE
+
+At each year end, we provide you with an update on the estimated value of the
+Fund's investments. Traditionally this valuation has been based on the lower of
+the opinions provided by independent appraisers and our Adviser. However, for
+year-end 1995, we have estimated fair market value using a contract price in
+place of our standard measure if an investment is under contract for sale.
+This approach provides a more appropriate indicator of value given the status
+of the Fund's liquidation. Using this method, the estimated appraised value was
+$3.32 per share (before costs of completing real estate sales) at year-end
+1995. This amount is, of course, lower than the $3.79 per share reported to you
+at year-end 1994, principally as a result of 1995 distributions from property
+sales. Adjust-
+
+
+
+
+
+                                       1
+<PAGE>   4
+[FIGURE 2]
+<TABLE>
+<CAPTION>
+                                 TOTAL RETURN
+                         VANGUARD REAL ESTATE FUND I
+                               VS. NCREIF INDEX
+
+
+Percent (%)                     1988     1989     1990    1991     1992    1993    1994    1995
+- -----------------------------------------------------------------------------------------------
+<S>                             <C>      <C>      <C>     <C>      <C>     <C>     <C>     <C>
+Vanguard Real Estate Fund I     6.3%     9.8%     1.5%    -3.5%    6.6%    7.4%    10.9%   4.8%
+
+NCREIF Index                    7.1%     6.2%     1.7%    -5.4     -4.6%   0.9%    6.7%    7.7%
+
+</TABLE>
+
+
+ing the year-end valuation for 1995 distributions in excess of funds from
+operations ($.37 per share), the Fund's fair market value declined by $.10 per
+share from 1994 to 1995.
+
+         We have also provided, on page 26, an estimate of the Fund's net
+realizable value taking into account the substantial costs of completing real
+estate sales. Based on the appraised value of $3.32 per share, we would expect
+the Fund to net approximately $3.26 per share after all costs if the properties
+were sold in the current environment. Of course, we would stress that these
+valuations are merely estimates and the eventual net sales proceeds may be
+higher or lower.
+
+         I would note, again in 1995, that there is a discrepancy between the
+appraisers' and AEW's estimate of fair market value, with the appraisers'
+valuations being in aggregate some 9% higher than the Adviser's figure. This
+disparity confirms how imprecise real estate valuations really are. In the end,
+the only valid valuation is a completed transaction price.
+
+         In the secondary market, the Fund's shares closed the year at $2.88
+per share, or some 12% lower than our estimate of fair market value. Trading
+volume in the Fund's shares has been very light, which is not surprising given
+the Fund's ongoing liquidation.
+
+
+LONGER-TERM PERFORMANCE
+
+Based on our estimate of year-end value of $3.32 per share, the Fund's total
+return (income plus capital change) for 1995 was 4.8%, as shown in the chart at
+left. This figure compares to an estimated total return of 7.7% for the NCREIF
+Index of pension real estate portfolios (one of the few indexes available to
+measure real estate performance). Over the life of the Fund, our total
+return--although modest in absolute terms--has been very competitive with that
+of the Index as shown in the chart. We calculate the Fund's total return since
+June 30, 1987, to be 4.4% annually, versus 3.8% for the Index.
+
+         To help you understand the Fund's income and distribution from net
+proceeds, we have provided in the chart on page 3 a chronology of the year-end
+appraised value, annual and cumulative distributions per share. In sum, the
+value of an investment in the Fund has increased from $10.00 per share at
+inception on June 30, 1987, to $13.72 per share at year-end 1995, not including
+the benefit of earnings on cash distributions over the years (which would add
+another $1.61 per share if invested in Treasury bills, for example).
+
+
+CONCLUSION
+
+During 1995, the Fund made further progress on its plan of liquidation, which
+is scheduled to be com-
+
+
+
+
+
+                                       2
+<PAGE>   5
+        VANGUARD REAL ESTATE FUND I YEAR-END APPRAISED VALUE PER SHARE,
+                 ANNUAL AND CUMULATIVE DISTRIBUTIONS PER SHARE
+
+[FIGURE 3]
+
+<TABLE>
+<CAPTION>
+Per Share Amounts:            Inception    1987      1988      1989      1990      1991       1992      1993      1994      1995 
+- ---------------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>       <C>       <C>       <C>       <C>       <C>         <C>      <C>        <C>       <C>
+Current Distributions:           --         $.53      $.64      $.68      $.69      $.69       $.69     $1.69     $4.14      $.65
+Year-end Appraised Value:        --        $9.69     $9.87     $9.93     $9.39     $8.37      $8.23     $7.15     $3.79     $3.32
+Year-end Tax Cost Basis for
+  an Investor*:                 $10.00    $10.00     $9.93     $9.85     $9.78     $9.38      $9.26     $7.57     $3.53     $2.88
+</TABLE>
+
+* Assuming shares purchased at inception of Fund and subsequently reduced by
+ annual non-taxable return of capital and liquidating distributions, as
+ applicable.
+
+
+pleted no later than December 12, 1996. The two remaining properties are being
+actively marketed, and we are hopeful that these sales will be completed during
+the first six months of 1996. We will keep you both apprised of our progress
+and remit net proceeds to you expeditiously.
+
+Sincerely,
+
+/s/ JOHN C. BOGLE
+- -----------------
+John C. Bogle
+Chairman of the Board                        January 31, 1996
+
+
+
+
+
+                                       3
+<PAGE>   6
+                       REPORT FROM THE INVESTMENT ADVISER
+
+PORTFOLIO OVERVIEW
+
+During the past six months, we have continued to make good progress towards the
+liquidation of the Fund's portfolio. Only two assets remain to be sold. In
+December, Sheffield Forest Apartments was sold, generating $14,950,000 in gross
+proceeds to the Fund. We have entered into a purchase and sales contract for
+Plaza del Amo in which the potential buyer has placed a non-refundable deposit
+on the property, and we expect the sale to close by mid-March. In addition, a
+potential buyer has executed a letter of intent for the purchase of Oakcreek
+Village, and a purchase and sale agreement is under negotiation.
+
+         Both of the remaining properties continue to be well-leased and
+stable. Combined average occupancy for Oakcreek Village and Plaza del Amo
+remains unchanged at 98%. For the remaining two assets, net operating income
+through November 1995 was 6% ahead of budget.
+
+
+PROPERTY HIGHLIGHTS
+
+We placed Oakcreek Village (Durham, North Carolina) on the market for sale in
+mid-summer. Several offers were received, but at levels somewhat below our
+carrying value. Potential investors appear to have concerns about the current
+retail investment market in general and the property in particular. Retail
+sales are weak nationally and potential buyers have been uneasy about the
+recent opening of a major shopping center in proximity to Oakcreek Village due
+to the potential ramifications for lease renewals at our shopping center.
+Consequently, we reduced our estimate of the property's fair market value by
+$500,000. We are currently negotiating the terms of a purchase and sale
+agreement with a prospective purchaser and the due diligence process is
+ongoing. Assuming we are successful in executing a purchase and sale agreement,
+a sale could close near the end of the first quarter of 1996. The center
+remains 100% occupied, and we continue to work toward securing early renewals
+from tenants to maximize the sales proceeds for shareholders.
+
+         We began marketing Plaza del Amo (Torrance, California) for sale early
+in the fourth quarter, and we have completed several cosmetic capital
+improvement projects in order to enhance the center's appeal. We have recently
+completed negotiating the terms of a purchase and sale agreement and the
+related due diligence with a prospective buyer. Pending the satisfactory
+completion of the terms and conditions of the contract we anticipate that the
+sale will close on or about March 15, 1996.
+
+Sincerely,
+
+Aldrich, Eastman & Waltch, L.P.
+
+February 29, 1996
+
+
+<TABLE>
+<CAPTION>
+=====================================================================================================
+                              PROPERTY                        DECEMBER 31, 1995   DECEMBER 31, 1994
+PROPERTY                      TYPE           INVESTMENT TYPE   OCCUPANCY RATE       OCCUPANCY RATE   
+- -----------------------------------------------------------------------------------------------------
+<S>                           <C>            <C>                    <C>                 <C>
+1.  PLAZA DEL AMO             Retail         Direct Ownership        95%                 99%         
+- -----------------------------------------------------------------------------------------------------
+2.  OAKCREEK VILLAGE          Retail         Direct Ownership       100%                 96%         
+=====================================================================================================
+</TABLE>
+
+
+
+
+
+                                       4
+<PAGE>   7
+                                 BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                   December 31, 1995  December 31, 1994
+ASSETS                                                                ($ in 000's)       ($ in 000's)
+                                                                     -------------       -------------
+<S>                                                                        <C>                 <C>
+Investments in Real Estate:
+   Direct Ownership Investments:
+      Land  . . . . . . . . . . . . . . . . . . . . . . . . . . . .         $9,485              $6,570
+      Buildings and Improvements. . . . . . . . . . . . . . . . . .         12,066              21,717
+                                                                     -------------       -------------
+                                                                            21,551              28,287
+      Less--Accumulated Depreciation    . . . . . . . . . . . . . .          1,492               2,069
+                                                                     -------------       -------------
+                                                                            20,059              26,218
+   Mortgage Loan Receivable   . . . . . . . . . . . . . . . . . . .             --              10,646
+                                                                     -------------       -------------
+   Net Investment Portfolio   . . . . . . . . . . . . . . . . . . .         20,059              36,864
+Marketable Securities--REMICs . . . . . . . . . . . . . . . . . . .          1,832               1,992
+Short-Term Investments:
+   Vanguard Money Market Reserves-Prime Portfolio
+      (1,602,632 and 1,478,147 shares, respectively)    . . . . . .          1,603               1,478
+   Temporary Cash Investments   . . . . . . . . . . . . . . . . . .         13,981               2,000
+Other Assets  . . . . . . . . . . . . . . . . . . . . . . . . . . .            681                 945
+                                                                     -------------       -------------
+TOTAL ASSETS  . . . . . . . . . . . . . . . . . . . . . . . . . . .        $38,156             $43,279
+                                                                     =============       =============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Mortgage Loans (including current portion of $113 and $102,
+   respectively)    . . . . . . . . . . . . . . . . . . . . . . . .         $2,281              $2,383
+Due to Affiliates   . . . . . . . . . . . . . . . . . . . . . . . .            305                  98
+Other Liabilities   . . . . . . . . . . . . . . . . . . . . . . . .            402                 297
+                                                                     -------------       -------------
+TOTAL LIABILITIES   . . . . . . . . . . . . . . . . . . . . . . . .          2,988               2,778
+                                                                     -------------       -------------
+Shares of Beneficial Interest, without par value, unlimited shares
+   authorized   . . . . . . . . . . . . . . . . . . . . . . . . . .         28,884              36,047
+Undistributed Net Income  . . . . . . . . . . . . . . . . . . . . .          6,284               4,454
+                                                                     -------------       -------------
+TOTAL SHAREHOLDERS' EQUITY  . . . . . . . . . . . . . . . . . . . .         35,168              40,501
+                                                                     -------------       -------------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY  . . . . . . . . . . . .        $38,156             $43,279
+                                                                     =============       =============
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                       5
+<PAGE>   8
+                               INCOME STATEMENTS
+
+<TABLE>
+<CAPTION>
+                                                                                     Year Ended December 31,
+                                                                           1995                1994               1993
+REAL ESTATE INCOME                                                     ($ in 000's)        ($ in 000's)       ($ in 000's)
+                                                                        ----------          ----------         ---------- 
+<S>                                                                     <C>                 <C>                <C>
+Rental Income   . . . . . . . . . . . . . . . . . . . . . . . . . .         $4,453              $6,753             $7,517
+Mortgage Interest Income  . . . . . . . . . . . . . . . . . . . . .            890               1,101              1,279
+Net Income from In-Substance Foreclosed Assets  . . . . . . . . . .             --                 319              2,499
+                                                                        ----------          ----------         ----------
+                                                                             5,343               8,173             11,295
+                                                                        ----------          ----------         ----------
+REAL ESTATE EXPENSES
+Mortgage Interest Expense   . . . . . . . . . . . . . . . . . . . .            233                 243              1,030
+Real Estate Taxes   . . . . . . . . . . . . . . . . . . . . . . . .            392                 671                823
+Property Operating Expenses   . . . . . . . . . . . . . . . . . . .          1,274               1,465              1,042
+Depreciation and Amortization   . . . . . . . . . . . . . . . . . .             --               1,073              1,503
+Provision for Possible Losses   . . . . . . . . . . . . . . . . . .            886               1,630              2,798
+                                                                        ----------          ----------         ----------
+                                                                             2,785               5,082              7,196
+                                                                        ----------          ----------         ----------
+INCOME FROM REAL ESTATE   . . . . . . . . . . . . . . . . . . . . .          2,558               3,091              4,099
+INVESTMENT INCOME FROM SHORT-TERM
+   INVESTMENTS    . . . . . . . . . . . . . . . . . . . . . . . . .            314                 820                367
+                                                                        ----------          ----------         ----------
+                                                                             2,872               3,911              4,466
+                                                                        ----------          ----------         ----------
+ADMINISTRATIVE EXPENSES
+Investment Advisory Fee   . . . . . . . . . . . . . . . . . . . . .            182                 305                421
+Administrative Fee  . . . . . . . . . . . . . . . . . . . . . . . .            170                 269                350
+Other Administrative Expenses   . . . . . . . . . . . . . . . . . .            342                 367                357
+                                                                        ----------          ----------         ----------
+                                                                               694                 941              1,128
+                                                                        ----------          ----------         ----------
+INCOME BEFORE NET GAIN ON SALES   . . . . . . . . . . . . . . . . .
+   OF INVESTMENTS   . . . . . . . . . . . . . . . . . . . . . . . .          2,178               2,970              3,338
+Net (Loss) Gain on Sales of Investments   . . . . . . . . . . . . .           (348)              9,412                 --
+                                                                        ----------          ----------         ----------
+NET INCOME  . . . . . . . . . . . . . . . . . . . . . . . . . . . .         $1,830             $12,382             $3,338
+                                                                        ==========          ==========         ==========
+Weighted Average Number of Shares Outstanding   . . . . . . . . . .     11,019,978          11,019,978         11,039,590
+                                                                        ==========          ==========         ==========
+Net Income Per Share:
+   Income Before Net (Loss) Gain on Sales of Investments  . . . . .           $.20                $.27               $.30
+   Net (Loss) Gain on Sales of Investments  . . . . . . . . . . . .           (.03)                .85                 --
+                                                                        ----------          ----------         ----------
+Net Income Per Share  . . . . . . . . . . . . . . . . . . . . . . .           $.17               $1.12               $.30
+                                                                        ==========          ==========         ==========
+Ordinary Income Distributions Per Share   . . . . . . . . . . . . .             --               $ .01                 --
+Long-Term Capital Gain Distributions Per Share  . . . . . . . . . .             --                 .09                 --
+Return of Capital Distributions Per Share   . . . . . . . . . . . .             --                 .35              $1.69
+Liquidating Distributions Per Share . . . . . . . . . . . . . . . .           $.65                3.69                 --
+                                                                        ----------          ----------         ----------
+Total Distributions Per Share   . . . . . . . . . . . . . . . . . .           $.65               $4.14              $1.69
+                                                                        ==========          ==========         ==========
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                       6
+<PAGE>   9
+                            STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                      Year Ended December 31,
+                                                                             1995               1994               1993
+CASH FLOWS FROM OPERATING ACTIVITIES                                        (000)              (000)              (000)  
+                                                                          --------            --------           --------
+<S>                                                                       <C>                  <C>                <C>
+Real Estate Investments:
+   Rental Income    . . . . . . . . . . . . . . . . . . . . . . . .       $  4,405              $6,851            $ 7,564
+   Mortgage Interest Income   . . . . . . . . . . . . . . . . . . .            808               1,599              3,896
+   Mortgage Interest Payments   . . . . . . . . . . . . . . . . . .           (233)               (243)              (609)
+   Operating Expense Payments   . . . . . . . . . . . . . . . . . .         (1,637)             (2,211)            (1,780)
+                                                                          --------            --------           -------- 
+      Net Cash Provided by Real Estate
+       Investments    . . . . . . . . . . . . . . . . . . . . . . .          3,343               5,996              9,071
+Interest from Short-Term Investments  . . . . . . . . . . . . . . .            314                 820                367
+Administrative Expenses   . . . . . . . . . . . . . . . . . . . . .           (707)               (992)            (1,180)
+                                                                          --------            --------           -------- 
+      Net Cash Provided by Operating Activities   . . . . . . . . .          2,950               5,824              8,258
+                                                                          --------            --------           --------
+CASH FLOWS FROM INVESTING ACTIVITIES
+Investments in Real Estate:
+   Building Improvements    . . . . . . . . . . . . . . . . . . . .            (57)                (14)              (360)
+   Payoff from In-Substance Foreclosed Asset  . . . . . . . . . . .             --                  --             13,500
+   Transaction Fees   . . . . . . . . . . . . . . . . . . . . . . .            (25)               (724)              (270)
+   Sales of Investments   . . . . . . . . . . . . . . . . . . . . .         16,339              36,060                 --
+   Marketable Securities Acquired   . . . . . . . . . . . . . . . .             --                (719)           (15,846)
+   Marketable Securities Sold   . . . . . . . . . . . . . . . . . .             --                  --             13,713
+   Principal Repayments from Marketable Securities-REMICs   . . . .            274                 284                423
+   Shared Appreciation Payments   . . . . . . . . . . . . . . . . .           (110)                 --                 --
+                                                                          --------            --------           --------
+      Net Cash Provided by Investing Activities   . . . . . . . . .         16,421              34,887             11,160
+                                                                          --------            --------           --------
+CASH FLOWS FROM FINANCING ACTIVITIES
+   Mortgage Principal Payments  . . . . . . . . . . . . . . . . . .           (102)                (94)               (85)
+   Distributions Paid   . . . . . . . . . . . . . . . . . . . . . .         (7,163)            (45,622)           (18,629)
+   Shares Repurchased   . . . . . . . . . . . . . . . . . . . . . .             --                  --               (587)
+                                                                          --------            --------           -------- 
+      Net Cash Used in Financing Activities   . . . . . . . . . . .         (7,265)            (45,716)           (19,301)
+                                                                          --------            --------           -------- 
+   NET INCREASE (DECREASE) IN CASH AND
+        CASH EQUIVALENTS    . . . . . . . . . . . . . . . . . . . .         12,106              (5,005)               117
+   CASH AND CASH EQUIVALENTS--BEGINNING
+        OF YEAR   . . . . . . . . . . . . . . . . . . . . . . . . .          3,478               8,483              8,366
+                                                                          --------            --------           --------
+   CASH AND CASH EQUIVALENTS--END OF YEAR   . . . . . . . . . . . .       $ 15,584            $  3,478           $  8,483
+                                                                          ========            ========           ========
+</TABLE>
+
+   (continued on next page)
+
+
+
+
+
+                                       7
+<PAGE>   10
+                      STATEMENTS OF CASH FLOWS (continued)
+
+<TABLE>
+<CAPTION>
+                                                                                      Year Ended December 31,
+                                                                             1995               1994               1993
+                                                                            (000)              (000)              (000)  
+                                                                          --------            --------           --------
+<S>                                                                         <C>                <C>                 <C>
+RECONCILIATION OF NET INCOME TO NET CASH PROVIDED BY
+      OPERATING ACTIVITIES:
+   Net Income   . . . . . . . . . . . . . . . . . . . . . . . . . .         $1,830             $12,382             $3,338
+   Adjustments to Reconcile Net Income to Net Cash Provided
+        by Operating Activities:
+      Property Depreciation and Amortization    . . . . . . . . . .             --               1,073              1,503
+      Provision for Possible Losses   . . . . . . . . . . . . . . .            886               1,630              2,798
+      Decrease in Deferred
+        Mortgage Interest Receivable    . . . . . . . . . . . . . .             32                  50                 --
+      Net Loss (Gain) on Sales of Investments   . . . . . . . . . .            348              (9,412)                --
+      Interest Payable Satisfied  . . . . . . . . . . . . . . . . .             --                  --                421
+      Unrealized (Appreciation) Depreciation
+        on Marketable Securities  . . . . . . . . . . . . . . . . .           (130)                111                 14
+      Changes in Other Assets and Liabilities   . . . . . . . . . .            (16)                (10)               184
+                                                                          --------            --------           --------
+NET CASH PROVIDED BY OPERATING ACTIVITIES   . . . . . . . . . . . .         $2,950              $5,824             $8,258
+                                                                          ========            ========           ========
+</TABLE>
+
+
+SUPPLEMENTAL SCHEDULE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+
+On August 1, 1995, the Fund obtained title to its Plaza del Amo investment, in
+lieu of foreclosure on this shared-appreciation, wrap-around mortgage loan,
+with the borrower obtaining a residual interest in the shared-appreciation
+feature of the mortgage (see Note F). Upon transfer of title, the Fund recorded
+the property at its estimated fair market value less selling costs in lieu of
+its mortgage loan investment as follows:
+
+<TABLE>
+      <S>                                       <C>            <C>
+      Recorded Net Assets                                      $10,837
+      Assets Obtained                           $11,067
+      Liabilities Assumed                          (230)              
+                                                              --------
+      Net Assets Obtained                                      $10,837
+                                                              ========
+</TABLE>
+
+On April 13, 1994, the Fund obtained title to its Sheffield Forest investment
+via a transfer of the partnership interests of the borrower in full
+satisfaction of the mortgage loan secured by Sheffield (see Note F). The excess
+of recorded net assets over the fair value of assets obtained, net of
+liabilities assumed, was charged to the allowance for possible losses in the
+year ended December 31, 1994, as follows (amounts in 000's):
+
+<TABLE>
+      <S>                                       <C>            <C>
+      Recorded Net Assets                                      $17,797
+      Assets Obtained                           $15,772
+      Liabilities Assumed                           (95)              
+                                                              --------
+      Assets Obtained, Net of Liabilities                       15,677
+                                                              --------
+      Write-off to Allowance                                   $ 2,120
+                                                              ========
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                       8
+<PAGE>   11
+                 STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+                                                                                     Undistributed
+                                                                                      (Accumulated
+                                                                                        Taxable
+                                                         Shares of                   Distributions
+                                                    Beneficial Interest              in Excess of)   Total Shareholders'
+                                                Number               Amount            Net Income           Equity
+                                                                     (000)               (000)              (000)      
+                                          -----------------------------------------------------------------------------
+<S>                                          <C>                   <C>                  <C>                  <C>
+Balance: January 1, 1993  . . . . . .        11,087,878             $99,747             $(10,205)            $89,542
+Net Income for the Year . . . . . . .                                                      3,338               3,338
+Less Distributions:
+   Return of Capital  . . . . . . . .                               (18,629)                                 (18,629)
+Shares Repurchased  . . . . . . . . .           (67,900)               (510)                                    (510)  
+                                          -----------------------------------------------------------------------------
+Balance: December 31, 1993  . . . . .        11,019,978              80,608               (6,867)             73,741
+Net Income for the Year   . . . . . .                                                     12,382              12,382
+Less Distributions:
+   Ordinary Income    . . . . . . . .                                                        (61)                (61)
+   Long-Term Capital Gain   . . . . .                                                     (1,000)             (1,000)
+   Return of Capital    . . . . . . .                                (3,899)                                  (3,899)
+   Liquidating  . . . . . . . . . . .                               (40,662)                                 (40,662)  
+                                          -----------------------------------------------------------------------------
+Balance: December 31, 1994  . . . . .        11,019,978              36,047                4,454              40,501
+Net Income for the Year . . . . . . .                                                      1,830               1,830
+Less Distributions:
+   Liquidating  . . . . . . . . . . .                                (7,163)                                  (7,163)  
+                                          -----------------------------------------------------------------------------
+Balance: December 31, 1995  . . . . .        11,019,978            $ 28,884              $ 6,284             $35,168   
+                                          =============================================================================
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                       9
+<PAGE>   12
+                         NOTES TO FINANCIAL STATEMENTS
+
+A.     GENERAL DESCRIPTION: Vanguard Real Estate Fund I, A
+Sales-Commission-Free Income Properties Fund (the "Fund"), a Massachusetts
+business trust established in 1987, is a qualified finite-life real estate
+investment trust ("REIT") under the Internal Revenue Code of 1986. The Fund's
+Declaration of Trust precludes the Fund from reinvesting net proceeds from the
+sale or repayment of its real estate investments in additional real estate
+investments after December 31, 1993, and contemplates the liquidation of all of
+the Fund's investments after a period of approximately seven to twelve years
+following completion of its initial public offering. On December 12, 1994, the
+Fund's Board of Trustees approved a Plan of Liquidation and Termination (the
+"Liquidation Plan"). The Liquidation Plan provides that the Fund will dispose
+of all of its assets, wind up its affairs, pay or adequately provide for the
+payment of all of its liabilities, and distribute for the benefit of its
+shareholders all of the Fund's assets over 24 months in complete cancellation
+and redemption of all issued and outstanding shares of beneficial interest.
+The Liquidation Plan provides that the Fund's assets may be sold, conveyed,
+transferred or otherwise disposed of when and on such terms and conditions as
+are deemed by the Trustees to be in the best interests of the Fund and the
+shareholders. It is contemplated that the Fund will be completely liquidated
+and dissolved by December 12, 1996. To the extent that the Fund has not
+disposed of all of its assets or made provision for all of its liabilities on
+December 12, 1996, the Fund intends to form a liquidating trust, the
+beneficiaries of which will be the shareholders of the Fund. All assets and
+liabilities not disposed of and discharged will be transferred to the
+liquidating trust. Shares of the Fund would no longer be traded and the
+beneficial interests in the liquidating trust would not be readily
+transferable.
+
+       The Fund intends to continue to qualify as a REIT under the Internal
+Revenue Code during the Fund's liquidation period.
+
+B.     The following significant accounting policies are in conformity with
+generally accepted accounting principles for real estate investment trusts.
+Such policies are consistently followed by the Fund in the preparation of
+financial statements.
+
+1.  BASIS OF PRESENTATION: The Fund's financial statements have been prepared
+    on the basis of a going concern using historical cost.  In December 1994,
+    upon adoption of the Liquidation Plan, the Fund considered all of its
+    remaining investments as held for sale and reduced the carrying value of
+    such investments to the extent that each investment's then-current carrying
+    value exceeded its estimated net realizable value, defined as estimated
+    fair market value less selling costs. Upon obtaining binding agreements of
+    sale for all of its remaining real estate investments, the Fund will
+    account for such investments on a liquidation basis and at that time will
+    recognize net gains, if any, on such investments.
+
+2.  ORGANIZATION COSTS: Costs incurred in conjunction with the organization of
+    the Fund were deferred and were amortized on a straight-line basis over a
+    60-month period from the date the Fund commenced operations.
+
+3.  INVESTMENTS IN REAL ESTATE: Real estate directly owned by the Fund is
+    carried at cost less accumulated provisions for depreciation and estimated
+    losses. Major renovations are capitalized, and routine maintenance and
+    repairs are charged to expense as incurred.
+
+       In years prior to 1995, the Fund held mortgage loan investments then
+    accounted for as in-substance foreclosed assets. In general, property was
+    deemed to be an in-substance foreclosed asset when a debtor had little or
+    no equity in the collateral and proceeds for repayment of the loan were
+    expected to come only from the sale or operation of the collateral.
+    Although legal title to such property had not been obtained, the Fund was
+    considered to have had substantially the same risks and rewards as a
+    mortgagee.
+
+
+
+
+
+                                       10
+<PAGE>   13
+4.  REVENUE RECOGNITION: Rental income is accrued as rents are due. For those
+    operating leases that provide for rental concessions or fixed escalation
+    increases, rental income is recognized on a straight-line basis over the
+    term of the lease. For those operating leases that provide for
+    reimbursement of expenses for real estate taxes, common area maintenance,
+    utilities and insurance, income is recognized in the period in which the
+    expenses are incurred.
+
+       Mortgage interest income is recorded based on the annual effective yield
+    of the respective loans. For former mortgage loans treated for accounting
+    purposes as in-substance foreclosed assets, revenue was recognized only to
+    the extent of cash receipts.
+
+5.  PROVISION FOR POSSIBLE LOSSES: Provision for possible losses is provided
+    for estimated losses based upon management's regular evaluation of the
+    recoverability of each investment in the portfolio. Except for investments
+    considered to be held-for-sale, management's evaluation included
+    consideration of cash flows during each investment's estimated remaining
+    holding period.  Provisions for possible losses are recorded as direct
+    write downs of the carrying value of direct ownership investments and
+    through an allowance account for mortgage loans receivable deemed to be
+    impaired. Prior to 1995, impaired loans were considered to be in-substance
+    foreclosed assets. Subsequent provisions to reduce the carrying value of
+    in-substance foreclosed assets were included in an allowance for possible
+    losses.The Fund's management believes that the provision recorded to write
+    down the carrying values of its remaining direct ownership investments is
+    adequate at December 31, 1995; however, the provision is based on estimates
+    and actual results may vary from current estimates.
+
+6.  DEPRECIATION AND ACQUISITION COSTS: Prior to the adoption of the
+    Liquidation Plan, depreciation on real estate owned was computed using the
+    straight-line method over 40 years for buildings and costs incurred in
+    conjunction with the acquisition of real estate investments were deferred
+    and amortized on a straight-line basis over the life of the loan for
+    mortgage loan investments and the life of the property for equity
+    investments. Subsequent to adoption of the Liquidation Plan, no
+    depreciation or amortization expense related to the Fund's owned real
+    estate and acquisition costs is recognized since the Fund's real estate
+    investments are considered to be held-for-sale assets.
+
+7.  SHORT-TERM AND MARKETABLE SECURITIES INVESTMENTS: Investments in marketable
+    securities, including Vanguard Money Market Reserves-Prime Portfolio, are
+    carried at fair, or market, value. Unrealized appreciation/depreciation
+    resulting from adjustments to carry such securities at market value is
+    reflected in mortgage interest income. Temporary cash investments are
+    carried at amortized cost, which approximates market value. The Fund's
+    temporary cash investments consisted of U.S. Treasury bills and commercial
+    paper at December 31, 1995.
+
+8.  CASH EQUIVALENTS: For purposes of the Statements of Cash Flows, the Fund
+    considers all liquid short-term investments with original maturities of
+    less than three months to be cash equivalents.
+
+9.  FEDERAL INCOME TAXES: It is the Fund's intention to continue to qualify as
+    a real estate investment trust and to distribute, at a minimum, all of its
+    taxable income. Accordingly, no provision for Federal income taxes is
+    required in the financial statements. Differences between net income
+    determined in accordance with generally accepted accounting principles and
+    taxable income before dividend distributions result primarily from timing
+    differences relating to the accounting for the provision for possible
+    losses, depreciation on tenant improvements, and certain rental income.
+
+10. PER SHARE AMOUNTS: The calculation of the Fund's net income per share is
+    based upon the weighted average number of shares outstanding during the
+    year. Income, capital gain, liquidating and return of capital distributions
+    per share represent actual distributions made during the year.
+
+
+
+
+
+                                       11
+<PAGE>   14
+                   NOTES TO FINANCIAL STATEMENTS (continued)
+
+C.     Under the terms of an agreement expiring December 31, 1996, as amended,
+the Fund pays Aldrich, Eastman and Waltch, L.P. (the "Adviser") an annual
+investment advisory fee equal to .5% of the average fair market value of the
+Fund's real estate investments.  The Fund also pays the Adviser investment
+transaction fees generally equal to an amount ranging from 1.5% to 2% of the
+proceeds realized from its real estate investments and to .65% of the proceeds
+realized from refinancing mortgage loans outstanding. Pursuant to an amendment
+of the agreement dated September 2, 1994, investment transaction fees will be
+equal to 1.5% of the proceeds realized from real estate investments unless such
+proceeds exceed an agreed-upon target amount above the investment's March 31,
+1994, appraised value, in which case investment transaction fees will be equal
+to 2% of such proceeds. At December 31, 1995, the associated investment
+transaction fee percentage for all of the Fund's remaining real estate
+investments, if sold at their current appraised value, would be 1.5%. The Fund
+incurred real estate investment transaction fees of $245,000, $724,000, and
+$270,000, respectively, for 1995, 1994, and 1993.
+
+D.     Under the terms of an agreement expiring December 31, 1996, the Fund
+pays The Vanguard Group, Inc. (the "Sponsor") an administrative fee calculated
+at an annual percentage rate of the average fair market value of the Fund's
+real estate investments and temporary cash investments (excluding investments
+in Vanguard Money Market Reserves-Prime Portfolio). The administrative fee
+represents an effective annual rate of .4% of the average fair market value of
+such investments for the years ended December 31, 1995, 1994, and 1993,
+respectively.
+
+E.     The Fund's wholly-owned direct real estate investments consisted of the
+following:
+
+<TABLE>
+<CAPTION>
+                                               December 31, 1995                               December 31, 1994 (5)
+                                                 (In thousands)                                    (In thousands)           
+                                   --------------------------------------             --------------------------------------
+                                                  ACCUMULATED                                       ACCUMULATED
+DESCRIPTION                            COST       DEPRECIATION      NET                   COST      DEPRECIATION      NET
+- --------------                     --------------------------------------             --------------------------------------
+<S>                                   <C>           <C>           <C>                    <C>           <C>          <C>
+SHOPPING CENTERS (1)(4)
+Land                                  $ 9,485       $    --       $ 9,485                $ 3,050       $    --      $  3,050
+Buildings and
+   Improvements                        12,066        (1,492)      $10,574                  7,927        (1,492)        6,435
+                                      -------       -------       -------                -------       -------       -------
+                                       21,551        (1,492)       20,059                 10,977        (1,492)        9,485
+                                      -------       -------       -------                -------       -------       -------
+OFFICE BUILDINGS (2)
+Land                                       --            --            --                    520            --           520
+Buildings and
+   Improvements                            --            --            --                  1,776          (355)        1,421
+                                      -------       -------       -------                -------       -------       -------
+                                           --            --            --                  2,296          (355)        1,941
+                                      -------       -------       -------                -------       -------       -------
+RESIDENTIAL (3)
+Land                                       --            --            --                  3,000            --         3,000
+Buildings and
+   Improvements                            --            --            --                 12,014          (222)       11,792
+                                      -------       -------       -------                -------       -------       -------
+                                           --            --            --                 15,014          (222)       14,792
+                                      -------       -------       -------                -------       -------       -------
+TOTAL                                 $21,551       $(1,492)      $20,059                $28,287       $(2,069)      $26,218
+                                      =======       =======       =======                =======       =======       =======
+</TABLE>
+
+(1) On July 31, 1995, the Fund obtained title to the Plaza del Amo Shopping
+Center (see Note F).
+
+
+
+
+
+                                       12
+<PAGE>   15
+(2) On July 28, 1995, the Fund sold the remaining buildings, Shoreview and
+Fairview, in its Minnesota Portfolio for $1,780,000. The Fund realized a loss
+of $336,000 on the sale of the buildings. This loss was recognized via a direct
+write down of the investment's carrying value in the first quarter of 1995.
+
+(3) On April 13, 1994, the Fund obtained title to Sheffield Forest Apartments
+("Sheffield") by means of a transfer of all of the partnership interests of the
+borrower in full satisfaction of the then-outstanding mortgage loan secured by
+Sheffield. The borrower that formerly owned and operated Sheffield funded,
+pursuant to a guarantee which expired on December 7, 1993, interest on the
+mortgage loan secured by the Sheffield property in excess of cash flow
+generated by the property during 1993. The Fund and the borrower were unable to
+reach satisfactory restructuring terms on the loan, and the borrower defaulted
+on the loan in January 1994 by making only a partial payment of its then-due
+interest installment. This investment, classified as an in-substance foreclosed
+asset since 1991 and which had been written down to its estimated fair value
+minus selling costs at December 31, 1993, was reclassified as a direct
+ownership investment at the date of transfer. No additional loss was required
+to be recorded at the date of the transfer since the allowance for possible
+losses previously recorded sufficiently reduced the carrying value of the
+Sheffield investment to its then-estimated net realizable value. On December
+15, 1995, the Fund sold Sheffield for a contract price of $14,950,000. The Fund
+realized an additional loss of $348,000 on the sale.
+
+(4) During 1995, the Fund's management further wrote down Oakcreek Village's
+carrying value in the amount of $550,000, primarily as a result of a decline in
+its appraised value, to its estimated net realizable value.
+
+(5) Upon adoption of the Liquidation Plan in December 1994, the Fund's
+management wrote down the carrying value of its three direct ownership
+investments to reflect the effect of their held-for-sale status on management's
+assessment of the investments' recoverability.
+
+F.     The Fund's mortgage loan receivable consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                                     (In thousands)    
+                             ------------------------------------------------------------------------------------------
+                                    MATURITY         CALL         EFFECTIVE         PAY               DECEMBER 31,
+DESCRIPTION                           DATE           DATE           RATE           RATE            1995           1994 
+- -----------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>            <C>            <C>         <C>                 <C>         <C>
+PLAZA DEL AMO:
+   shared-appreciation, wrap-
+      around mortgage loan            1995           1994           10.3%       9.7%-10.8%          --          $10,646
+                                                                                                 -------        -------
+TOTAL                                                                                               --          $10,646
+                                                                                                 =======        =======
+</TABLE>
+
+         In late September 1994, the Fund exercised its call right with respect
+to its Plaza del Amo ("Plaza") shared-appreciation, wrap-around mortgage loan
+investment. As a result, the entire balance of the loan, less the unpaid
+balance of the senior mortgage on the Plaza property, was due and payable in
+late March 1995. The borrower failed to tender payment of the outstanding loan
+balance on the due date, resulting in a default under the terms of the loan. On
+August 1, 1995, the borrower transferred title to the property, in lieu of
+foreclosure, to the Fund with the borrower retaining a residual interest in the
+shared-appreciation feature of the mortgage.
+
+         Under the original loan terms, upon repayment of the loan, both the
+borrower and the Fund were entitled to a share of the property's appreciation,
+if any, equal to 50% of Plaza's fair market value in excess of the original
+wrap-around loan balance of $10,646,000. In consideration for the borrower
+agreeing to transfer title to the Fund in lieu of foreclosure, the transfer
+agreement provides that, upon the Fund's ultimate sale of Plaza, the Fund will
+pay the borrower the greater of 2% of Plaza's net sales proceeds, as defined,
+or a share of Plaza's net sales proceeds in excess of the original wrap-around
+mortgage loan balance such that the borrower and the Fund share in the
+Property's appreciation equally as contemplated in the original mortgage loan
+agreement.
+
+         Upon transfer of title, the Fund recorded the property at its
+estimated fair market value less selling costs. Such costs included the
+estimated minimum shared-appreciation obligation of $230,000
+         
+
+
+
+
+                                       13
+<PAGE>   16
+                   NOTES TO FINANCIAL STATEMENTS (continued)
+
+guaranteed the borrower pursuant to the transfer agreement, such amount
+determined based on the property's current estimated fair market value. Of this
+amount, $110,000 was paid to the borrower on the transfer date. Since the
+estimated net realizable value of the property received approximated the
+carrying value of the Fund's mortgage loan investment, no gain or loss was
+recorded during the year ended December 31, 1995, as a result of the Fund
+obtaining title to Plaza.
+
+         In 1993, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 114 (SFAS 114), "Accounting by Creditors for
+the Impairment of a Loan." Adoption of SFAS 114 is required for the year
+beginning January 1, 1995. It requires that loans, such as the Fund's former
+mortgage loan receivable, if impaired, be measured based on the present value
+of expected future cash flows discounted at the loan's effective interest rate,
+or as a practical expedient, at the loan's observable market price or the fair
+value of the collateral. Because the Fund already recognizes such reductions of
+value, if present, through its provision for possible losses, adoption of SFAS
+114 did not have a significant effect on the Fund's financial position or
+results of operations.
+
+G.     Write downs in the carrying value of direct ownership and in-substance
+foreclosed asset investments, recorded to the provision for possible losses,
+are as follows:
+
+<TABLE>
+<CAPTION>
+                                                               (In thousands)                          
+                                       ------------------------------------------------------------
+                                                                 YEAR ENDED
+                                        DECEMBER 31, 1995     DECEMBER 31, 1994   DECEMBER 31, 1993    
+- ---------------------------------------------------------------------------------------------------
+<S>                                             <C>                 <C>                 <C>
+Direct Ownership
+   Investments--see Note E                      $886                $1,920                  --
+In-Substance Foreclosed Asset
+   Investments--see Notes E and F                 --                    --              $3,500
+                                             -------               -------             -------
+Provision for Possible Losses                   $886                $1,920              $3,500
+                                             =======               =======             =======
+</TABLE>
+
+The provision for possible losses in the years ended December 31, 1994 and
+December 31, 1993 include charge-offs in the amounts of $290,000 and $702,000,
+respectively.
+
+H. The Fund's mortgage loans payable consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                                        (In thousands)                 
+                                                               -----------------------------------
+                                                                December 31,         December 31,
+Description                                                         1995                 1994          
+- --------------------------------------------------------------------------------------------------
+<S>                                                                 <C>                 <C>
+PLAZA DEL AMO:
+   senior mortgage loans, secured by the shopping center,
+   principal, and interest payable over term
+      10%, matures June 2007                                        $2,141              $2,236
+      9.5%, matures June 2007                                          140                 147
+                                                                   -------             -------
+TOTAL                                                               $2,281              $2,383
+                                                                   =======             =======
+</TABLE>
+
+
+
+
+
+                                       14
+<PAGE>   17
+
+Both mortgage loans contain prepayment penalty provisions based on a percentage
+of the mortgage loan outstanding. Such percentage reduces during the term of
+the loan. At December 31, 1995, the penalty amount, if the loans were repaid as
+of that date, would be $80,000.
+
+         Scheduled principal payments for each of the next five years and
+thereafter are as follows:
+
+<TABLE>
+<CAPTION>
+Year Ending December 31,                 (In thousands)
+                                         --------------
+<S>                                           <C>
+1996                                          $  113
+1997                                             125
+1998                                             139
+1999                                             155
+2000                                             173
+Thereafter                                     1,576   
+                                         --------------
+TOTAL PRINCIPAL PAYMENTS                      $2,281
+                                         ==============
+</TABLE>
+
+I.     For the Fund's wholly-owned direct real estate investments, annual
+minimum future rentals to be received under operating leases in effect at
+December 31, 1995, are as follows:
+
+<TABLE>
+<CAPTION>
+Year Ending December 31,                 (In thousands)
+                                         --------------
+<S>                                           <C>
+1996                                          $1,182
+1997                                             921
+1998                                             757
+1999                                             701
+2000                                             663
+Thereafter                                     1,832   
+                                         --------------
+TOTAL MINIMUM FUTURE RENTALS                  $6,056
+                                         ==============
+</TABLE>
+
+         Total minimum future rentals do not include contingent rentals under
+certain leases based upon lessees' sales volumes.  Contingent rentals
+aggregating $43,000, $4,000, and $37,000 were received during 1995, 1994, and
+1993, respectively. Certain leases also require lessees to pay all or a portion
+of real estate taxes and operating costs.
+
+J.     During the fourth quarter of 1990, the Fund's Board of Trustees
+authorized the Fund to repurchase in the open market from time to time up to
+500,000 of the Fund's outstanding shares. As of December 31, 1995, 413,725
+shares have been repurchased at an aggregate cost of $3,134,000. No
+
+
+
+
+
+                                       15
+<PAGE>   18
+                   NOTES TO FINANCIAL STATEMENTS (continued)
+
+shares have been repurchased since September 1993 and the Fund's management, in
+consideration of the Liquidation Plan, does not expect the Fund to repurchase
+any further shares.
+
+K.     The Fund's investment in marketable securities consisted of the
+following:
+
+<TABLE>
+<CAPTION>
+                                                                                    (In thousands)             
+                                                                         -----------------------------------
+DESCRIPTION                                     STANDARD & POOR'S RATING  DECEMBER 31,         DECEMBER 31,
+(COST IN THOUSANDS)                                    (UNAUDITED)            1995                 1994        
+- ------------------------------------------------------------------------------------------------------------
+<S>                                                       <C>                <C>                 <C>
+Resolution Trust Corporation (RTC)                        AA                 $1,295              $1,336
+   Series 1992-C5, Class B REMIC
+   6.9%, cost $1,458
+Resolution Trust Corporation (RTC)                        AAA                   537                 656
+   7.0%, cost $659                                                                                     
+                                                                            -------             -------
+TOTAL                                                                        $1,832              $1,992
+                                                                            =======             =======
+</TABLE>
+
+
+         Unrealized appreciation (depreciation) recorded to adjust the carrying
+value of the securities to their respective market values was $5,000,
+($125,000) and ($14,000), respectively, at December 31, 1995, 1994, and 1993.
+During 1993, four other RTC REMIC securities were purchased and subsequently
+sold at a realized gain of $8,000. Such gain, determined based on the cost of
+the specific securities sold, is included in mortgage interest income for the
+year ended December 31, 1993.
+
+         Statement of Financial Accounting Standards No. 115 (SFAS 115),
+Accounting for Certain Investments in Debt and Equity Securities, was issued by
+the Financial Accounting Standards Board in May 1993. SFAS 115, which addresses
+the accounting and reporting for investments in equity securities that have
+readily determinable fair values and all debt securities, was adopted for the
+year beginning January 1, 1994. Adoption of SFAS 115 did not materially affect
+the Fund's financial position or results of operations.
+
+L.     In the first quarter of 1993, the Fund defaulted on its mortgage loan
+obligation secured by the Citadel II investment in Orlando, Florida. During the
+period of default, the net cash flow generated from the property's operations
+were remitted to the lender on a monthly basis, under terms of a cash flow
+agreement. Accordingly, the Fund did not realize any net income or receive any
+cash flow from the property during the default period. The Fund's Adviser had
+previously approached the lender in an effort to restructure the loan; however,
+a restructuring satisfactory to both the Fund and the lender could not be
+achieved. Accordingly, on September 1, 1993, the Fund ceded title of the
+property to the lender in full satisfaction of amounts due under the
+non-recourse mortgage loan obligation. Since the Citadel II investment had
+previously been written down to the remaining principal balance of the loan, no
+additional loss on this investment was recognized in the year ended December
+31, 1993.
+
+
+
+
+
+                                       16
+<PAGE>   19
+M.     The unaudited quarterly results of operations for the years ended
+December 31, 1995, and 1994, are as follows:
+
+<TABLE>
+<CAPTION>
+                                            QUARTER ENDED                                   QUARTER ENDED
+(amounts in thousands,      MAR. 31,    JUN. 30,    SEP. 30,     DEC. 31,    MAR. 31,    JUN. 30,    SEP. 30,   DEC. 31,
+except per share data)        1995        1995        1995         1995        1994        1994        1994       1994  
+- ----------------------      --------------------------------------------     -------------------------------------------
+<S>                          <C>         <C>         <C>         <C>         <C>          <C>         <C>         <C>
+Real Estate and Short-
+    term Investment
+    Income                   $1,387      $1,421      $1,408      $1,441      $2,333       $2,323      $2,444      $1,893
+                            =======     =======     =======     =======     =======      =======     =======     =======
+Net Income (Loss)            $  333      $  769      $  868      $ (140)     $1,420       $  399      $  989      $9,574
+                            =======     =======     =======     =======     =======      =======     =======     =======
+Per Share
+    Net Income (Loss)        $  .03      $  .07      $  .08      $ (.01)     $  .13       $  .04      $  .09      $  .86
+                            =======     =======     =======     =======     =======      =======     =======     =======
+</TABLE>
+
+(1) Net loss for the quarter ended December 31, 1995 includes (i) a loss on the
+sale of the Sheffield Forest investment in the amount of $348,000 and (ii) a
+provision for possible losses in the amount of $550,000 to write down the
+carrying value of one of the Fund's remaining direct ownership investments to
+its estimated net realized value (see Note E).
+
+(2) Net income for the quarter ended December 31, 1994 includes (i) a gain on
+the sale of the Seattle investment in the amount of $9,479,000 and, (ii) a
+provision for possible losses in the amount of $850,000 to write down the
+carrying value of each of the Fund's three remaining direct ownership
+investments to their estimated net realizable values (see Notes B and E).
+
+
+
+
+
+                                       17
+<PAGE>   20
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Shareholders and Trustees of
+Vanguard Real Estate Fund I
+
+In our opinion, the accompanying balance sheets and the related income
+statements and statements of changes in shareholders' equity and cash flows
+present fairly, in all material respects, the financial position of Vanguard
+Real Estate Fund I (the "Fund") at December 31, 1995 and 1994, and the results
+of its operations and its cash flows for each of the three years in the period
+ended December 31, 1995, in conformity with generally accepted accounting
+principles. These financial statements are the responsibility of the Fund's
+management; our responsibility is to express an opinion on these statements
+based on our audits. We conducted our audits of these financial statements in
+accordance with generally accepted auditing standards which require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, and evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for the opinion expressed above.
+
+As explained in Note A to the financial statements, on December 12, 1994, the
+Fund's Board of Trustees approved a Plan of Liquidation and Termination which
+will result in the sale or disposition of all of the assets of the Fund, the
+payment or provision for all liabilities of the Fund, and the distribution to
+shareholders of the remaining proceeds in a complete liquidation and
+dissolution of the Fund. The Fund's management currently anticipates that such
+liquidation and dissolution of the Fund will occur on or before December 12,
+1996.
+
+PRICE WATERHOUSE LLP
+
+Thirty South Seventeenth Street
+Philadelphia, Pennsylvania 19103
+March 8, 1996
+
+
+
+
+
+                                       18
+<PAGE>   21
+                            SELECTED FINANCIAL DATA
+                 (amounts in thousands, except per share data)
+
+The following table sets forth selected financial data for the Fund and should
+be read in conjunction with the financial statements included elsewhere herein.
+
+<TABLE>
+<CAPTION>
+                                                                              Year Ended December 31,
+RESULTS OF OPERATIONS:                                1995             1994             1993             1992             1991  
+                                                   --------         --------          --------         --------         --------
+<S>                                                 <C>              <C>              <C>              <C>              <C>
+      Real estate and short-term
+         investment income    . . . . . . . . . .   $ 5,657          $ 8,993          $ 11,662         $ 12,275         $ 12,901
+      Income (loss) from real estate    . . . . .     2,558            3,091             4,099            2,156             (221)
+      Funds from operations (a)   . . . . . . . .     3,064            5,673             7,639            7,456            7,631
+      Net income    . . . . . . . . . . . . . . .     1,830           12,382             3,338            1,345              394
+PER SHARE (b):
+      Net income    . . . . . . . . . . . . . . .   $   .17          $  1.12          $    .30         $    .12         $    .03
+      Income distributions    . . . . . . . . . .        --              .01                --              .57              .29
+      Long-term capital gain distributions  . . .        --              .09                --               --               --
+      Return of capital distributions     . . . .        --              .35              1.69              .12              .40
+      Liquidating distributions   . . . . . . . .       .65             3.69                --               --               --
+      Total distributions   . . . . . . . . . . .       .65             4.14              1.69              .69              .69
+FINANCIAL POSITION:
+      Real estate investments (c)   . . . . . . .   $20,059          $36,864          $ 64,989         $ 92,940         $ 98,464
+      Total assets    . . . . . . . . . . . . . .    38,156           43,279            76,925          104,859          112,606
+      Long-term obligations   . . . . . . . . . .     2,168            2,281             2,384           14,234           14,404
+      Total liabilities   . . . . . . . . . . . .     2,988            2,778             3,184           15,317           15,588
+      Total shareholders' equity    . . . . . . .    35,168           40,501            73,741           89,542           97,018
+</TABLE>
+
+(a)   Funds from operations is calculated by adding back depreciation,
+      amortization, and the Fund's provision for possible losses to income
+      (loss) before net gain (loss) on sales of investments. Funds from
+      operations should not be considered as an alternative to net income as an
+      indicator of the Fund's operating performance or to cash flows as a
+      measure of liquidity.
+
+(b)   Net income per share is calculated based upon the weighted average number
+      of shares outstanding during the year.  Income, capital gain, liquidating
+      and return of capital distributions per share designations are made based
+      on their treatment for Federal income tax purposes and represent actual
+      distributions made during the year.
+
+(c)   Net of accumulated depreciation, the allowance for possible losses and
+      reductions in carrying value recorded via the provision for possible
+      losses.
+
+
+                      MARKET AND DISTRIBUTION INFORMATION
+
+The Fund's Shares of Beneficial Interest ("Shares") are traded on the American
+Stock Exchange under the symbol "VRO." As of December 31, 1995, there were
+approximately 15,316 shareholders of record of the Fund's Shares.
+
+<TABLE>
+<CAPTION>
+                                                                      Year Ended December 31, 1995                        
+                                           -------------------------------------------------------------------------
+                                                  Share Prices                            Distributions Declared    
+                                           ------------------------------            -------------------------------
+                                              High                Low                           Per Share           
+                                           ------------------------------            -------------------------------
+<S>                                           <C>              <C>                                 <C>
+For the Quarter Ended:
+   March 31, 1995   . . . . . . .             $4 1/4           $3 7/16                             $ .05
+   June 30, 1995  . . . . . . . .              3 15/16          2 13/16                              .05
+   September 30, 1995   . . . . .              3 1/4            2 9/16                               .05
+   December 31, 1995  . . . . . .              3 1/2            2 7/8                                .50            
+                                           ==============================            ===============================
+</TABLE>
+
+
+
+
+
+                                       19
+<PAGE>   22
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+         Vanguard Real Estate Fund I, a Sales-Commission-Free Income Properties
+Fund (the "Fund"), a Massachusetts business trust established in 1987, is a
+qualified finite-life real estate investment trust ("REIT") under the Internal
+Revenue Code of 1986. The Fund's current real estate investments include two
+direct ownership income-producing commercial properties (comprised of two
+shopping centers). Geographically, the Fund's investments are located in each
+of the Pacific and Mideast regions. The Fund's Declaration of Trust initially
+contemplated the liquidation of all of the Fund's investments after a period of
+approximately seven to twelve years following completion of its initial public
+offering, or between June 30, 1994 and 1999, respectively.
+
+         On December 12, 1994, the Fund's Board of Trustees approved a Plan of
+Liquidation and Termination (the "Liquidation Plan").  The Trustee's decision
+to then adopt the Liquidation Plan was driven by several factors, including
+real estate market conditions affecting each investment in the Fund's portfolio
+and tax considerations affecting real estate investment trusts. The Liquidation
+Plan provides that the Fund will dispose of all of its assets, wind up its
+affairs, pay or adequately provide for the payment of all of its liabilities,
+and distribute for the benefit of its shareholders all of the Fund's assets
+over 24 months, in complete cancellation and redemption of all issued and
+outstanding shares of beneficial interest. Under the Liquidation Plan, the
+Fund's Adviser (Aldrich, Eastman and Waltch, L.P.), Trustees and officers are
+authorized and directed to take any and all actions as may be necessary or
+convenient to market the assets of the Fund and convert them into a form that
+may be distributed to shareholders. The Liquidation Plan provides that the
+Fund's assets may be sold, conveyed, transferred or otherwise disposed of when
+and on such terms and conditions as are deemed by the Trustees to be in the
+best interests of the Fund and the shareholders.
+
+         The Fund is currently in the process of liquidating its real estate
+investments with the intention of distributing the net proceeds to its
+shareholders in accordance with the Liquidation Plan. It is contemplated that
+the Fund will be completely liquidated and dissolved by December 12, 1996. To
+the extent that the Fund has not disposed of all of its assets or made
+provision for all of its liabilities on December 12, 1996, the Fund intends to
+form a liquidating trust, the beneficiaries of which will be the shareholders
+of the Fund. All assets and liabilities of the Fund not previously disposed of
+and discharged will be transferred to the liquidating trust. Shares of the Fund
+would no longer be traded and the beneficial interests in the liquidating trust
+would not be readily transferable. See "Distributions" and "Liquidity and
+Capital Resources."
+
+         On December 15, 1995, the Fund sold the Sheffield Forest Apartment
+complex investment located in Silver Spring, Maryland for net proceeds of
+$14,421,000. It is anticipated that the net proceeds from the sale of the
+Sheffield investment will be distributed to the Fund's shareholders with the
+first quarterly distribution of 1996.
+
+         The Fund intends to continue to qualify as a REIT under the Internal
+Revenue Code during the Fund's liquidation period.
+
+RESULTS OF OPERATIONS
+
+1995 as compared to 1994
+
+         Net Income
+
+         For the year ended December 31, 1995, the Fund earned net income of
+$1,830,000, or $.17 per share, as compared to net income of $12,382,000, or
+$1.12 per share, for the year ended December 31, 1994. Net income for the year
+ended December 31, 1995 included a net loss on sales of investments of
+($348,000), or ($.03) per share, resulting from the Fund's December 15, 1995
+sale of its Sheffield Forest Apartment ("Sheffield") complex investment. Net
+income for the year ended December 31, 1994 included a net gain on sales of
+investments of $9,412,000, or $.85 per share, resulting from a gain of
+$9,479,000 realized from the Fund's sale of its Seattle Industrial Park
+investment, offset by a loss of $67,000 on the sale of the Deluxe Check
+building of the Minnesota Portfolio.  The losses on Sheffield and Deluxe Check
+were in addition to previously recognized provisions for possible losses to
+state the properties at their respective then-estimated net realizable value.
+
+
+
+
+
+                                       20
+<PAGE>   23
+         The Fund's net income before net loss on sales of investments for the
+year ended December 31, 1995, was $2,178,000, or $.20 per share, as compared to
+net income before net gain on sales of investments for the year ended December
+31, 1994 of $2,970,000, or $.27 per share, representing a decrease in net
+income of $792,000. This decrease, as more fully described below, primarily
+reflects decreases in net rental income, net income from in-substance
+foreclosed assets, mortgage interest income and investment income from
+short-term investments. These decreases in net income were partially offset by
+(i) a provision for possible losses of $886,000 in 1995 as compared to
+$1,630,000 for 1994, (ii) a decrease in depreciation and amortization expenses
+and (iii) a decrease in administrative expenses, in each case as compared to
+such items in 1994.
+
+         Provisions for Possible Losses
+
+         The Fund's 1995 provision for possible losses in the amount of
+$886,000 was recorded to write down the carrying values of the Fund's
+investments in the remaining two buildings of the Minnesota Portfolio and
+Oakcreek Village to their respective estimated net realizable values. By
+comparison, the Fund's 1994 provision for possible losses was recorded to write
+down the carrying value of (i) the Deluxe Check building and (ii) the Fund's
+then-remaining three direct ownership investments upon adoption of the Fund's
+Liquidation Plan to their estimated net realizable values.
+
+         The provision for possible losses is based upon management's regular
+evaluation of the recoverability of each investment in the portfolio. Prior to
+the adoption of the Liquidation Plan on December 12, 1994, management's
+evaluation of recoverability was based upon (i) the Adviser's analysis of
+current property values (adjusted for estimated selling costs), (ii)
+independent appraisals, and (iii) management's estimate of each investment's
+remaining holding period. Upon adoption of the Liquidation Plan, the Fund's
+remaining real estate investments are considered to be held for sale, rather
+than for the production of income, and, accordingly, are, for purposes of
+assessing their recoverability, considered to have no remaining holding period.
+Any net income generated by the Fund's investments prior to their liquidation
+will be reported in the Fund's Income Statements to the extent it is received.
+With respect to the remaining two buildings of the Minnesota Portfolio, during
+the first quarter of 1995, Fund management, based on information provided by
+the Fund's Adviser, recorded a provision for possible losses to reduce the
+buildings' carrying values. The two buildings were subsequently sold in the
+third quarter of 1995 for a contract price of $1,780,000. In connection with
+the sale of the Shoreview and Fairview buildings, the Fund paid its Adviser a
+disposition fee of $25,000, representing 1.5% of the net proceeds of the
+transaction. With respect to Oakcreek, during the fourth quarter of 1995, Fund
+management wrote down the carrying value of the investment by $550,000 to
+reflect a decline in the independent appraised value of the property primarily
+resulting from increased retail competition in Oakcreek's market.
+
+         The Fund's management believes that the provision recorded to write
+down the carrying value of its remaining direct ownership investments is
+adequate at December 31, 1995; however, the provision is based on estimates and
+actual results may vary from current estimates.
+
+         Net Rental Income
+
+         Net rental income (rental income less real estate taxes and property
+operating expenses) decreased by $1,830,000, or 40%, from $4,617,000 for the
+year ended December 31, 1994 to $2,787,000 for the year ended December 31,
+1995. This decrease was primarily due to the dispositions of Seattle and Deluxe
+Check in 1994, which provided the Fund with net rental income of $2,398,000 and
+$439,000, respectively, during their respective 1994 holding periods. This
+decrease was primarily offset by an increase of $608,000 of net rental income
+generated for the Fund in 1995 by Sheffield, to which the Fund obtained title
+on April 13, 1994, and by net rental income generated for the Fund in 1995 by
+the Plaza del Amo Shopping Center ("Plaza"), to which the Fund obtained title
+on August 1, 1995 as described in Note F to the accompanying financial
+statements. Net rental income provided by Plaza aggregated $435,000 from August
+1 through December 31, 1995.
+
+
+
+
+
+                                       21
+<PAGE>   24
+         At each of December 31, 1995 and December 31, 1994, the overall
+occupancy rate of the Fund's remaining direct real estate investments was 98%
+and 97%, respectively. Leases for 1% of the rentable space of the properties
+directly owned by the Fund expire during 1996. The Fund's Investment Adviser is
+currently working to renew leases and to identify new tenants for space covered
+by leases that have expired or are expiring. However, there is no assurance
+that the Fund will be able to maintain its current occupancy and level of
+income.
+
+         Net Income From In-Substance Foreclosed Assets
+
+         Net income from in-substance foreclosed assets decreased from $319,000
+in the year ended December 31, 1994, to $0 in the year ended December 31, 1995.
+Sheffield provided net income of $319,000 as an in-substance foreclosed asset
+in 1994 prior to the Fund obtaining title to the property, at which time it was
+reclassified from an in-substance foreclosed asset to a direct ownership
+investment. Sheffield was subsequently sold in the fourth quarter of 1995.
+
+         Mortgage Interest Income
+
+         Mortgage interest income decreased by $211,000, or 19%, from
+$1,101,000 in 1994 to $890,000 in 1995. This decrease was primarily due to a
+decrease of $460,000 in interest income earned due to the Fund obtaining title
+to the Plaza del Amo mortgage investment in the third quarter of 1995,
+primarily offset by adjustments to the carrying value of the Fund's investment
+in mortgage-backed securities to state such securities at their fair market
+value. In 1994, mortgage interest income was reduced by a provision for
+unrealized depreciation in market value of $111,000. In 1995, mortgage interest
+income included unrealized appreciation of $130,000. These investments were
+acquired as an additional temporary investment vehicle for excess working
+capital reserve balances. The securities were subsequently sold in January
+1996. Net proceeds on the sales approximated their aggregate year-end carrying
+value.
+
+         Investment Income from Short-Term Investments
+
+         Investment income from short-term investments decreased by $506,000,
+from $820,000 for the year ended December 31, 1994 to $314,000 for the year
+ended December 31, 1995. This decrease is primarily due to a lower average
+short-term investment balance in 1995, as compared to 1994, primarily due to
+the investment of the proceeds made available by the sales of Deluxe Check in
+August 1994 and Seattle in October 1994 prior to the distribution of the
+majority of such proceeds to shareholders in the year-end 1994 distribution.
+
+         Administrative Expenses
+
+         Administrative expenses decreased by $247,000, or 26%, from $941,000
+for the year ended December 31, 1994 to $694,000 for the year ended December
+31, 1995. This decrease was primarily due to lower advisory and administrative
+fees payable in the 1995 period, which fees are based on average invested real
+estate assets. The Fund's advisory fee expenses decreased during 1995 due to:
+(i) the sale of the Deluxe Check and Seattle investments in 1994, and (ii) the
+sale of the two remaining buildings of the Minnesota investment in 1995.
+
+
+
+
+
+                                       22
+<PAGE>   25
+         Depreciation and Amortization Expenses
+
+         Depreciation and amortization expense decreased from $1,073,000 in the
+year ended December 31, 1994 to $0 in the year ended December 31, 1995. In
+December 1994, upon adoption of the Liquidation Plan, the Fund classified all
+of its remaining investments as "held for sale." Prior to the adoption of the
+Liquidation Plan, depreciation on real estate owned was computed using the
+straight-line method over 40 years for buildings and costs incurred in
+conjunction with the acquisition of real estate investments were deferred and
+amortized on a straight-line basis over the life of the loan for mortgage loan
+investments and the life of the property for equity investments. Subsequent to
+adoption of the Liquidation Plan, no depreciation or amortization expense
+related to the Fund's owned real estate and acquisition cost is recognized
+since the Fund's real estate investments are considered to be held-for-sale
+assets.
+
+
+1994 as compared to 1993
+
+         For the year ended December 31, 1994, the Fund earned net income of
+$12,382,000, or $1.12 per share, as compared to net income of $3,338,000, or
+$.30 per share, for the year ended December 31, 1993. Net income for the year
+ended December 31, 1994 included a net gain on sales of investments of
+$9,412,000, or $.85 per share, resulting from a gain of $9,479,000, or $.86 per
+share, realized from the Fund's October 3, 1994 sale of its Seattle Industrial
+Park investment for a contract price of $31,850,000.  This gain was partially
+offset by a loss of $67,000, or $.01 per share, on the Fund's August 17, 1994
+sale of the Deluxe Check, or Arden Hills, building (the largest of the three
+buildings in its Minnesota Portfolio) for a contract price of $5,550,000.
+Including a charge to the provision for possible losses of $1,070,000 in the
+second quarter of 1994 to reduce the carrying value of this building to its
+estimated net realizable value, the Fund's realized loss on the Deluxe Check
+sale aggregated $1,137,000.  
+
+         The Fund's net income before net gain on sales of investments for the
+year ended December 31, 1994, was $2,970,000, or $.27 per share, as compared to
+net income before net gain on sales of investments for the year ended December
+31, 1993 of $3,338,000, or $.30 per share, representing a decrease in net
+income of $368,000. This decrease, as more fully described below, primarily
+reflects decreases in net rental income, net income from in-substance
+foreclosed assets and mortgage interest income. These decreases in net income
+were partially offset by (i) a provision for possible losses of $1,630,000 in
+1994 as compared to $3,263,000 for 1993, (ii) an increase in short-term
+investment income; and (iii) a decrease in administrative expenses, in each
+case as compared to such items in 1993 and excluding results from the Fund's
+Citadel II investment, to which title was transferred on September 1, 1993.
+
+         For comparison purposes, results from Citadel II have been excluded
+since the Fund did not realize net income, or recognize a loss, related to
+Citadel II in 1993. In January 1993, the Fund defaulted on a mortgage loan
+obligation secured by its Citadel II office building investment in Orlando,
+Florida. In September 1993, the Fund ceded title to Citadel II to the lender in
+full satisfaction of amounts due under the non-recourse mortgage loan. This
+investment had been written down to the remaining principal balance of the loan
+as of December 31, 1992. In addition, during the period of default, the net
+cash flow generated from the property's operations was remitted to the lender.
+Accordingly, the Fund did not realize any net income related to Citadel II in
+1993. The excess of Citadel II's expenses over its net income for the year
+ended December 31, 1993 of $465,000 was charged off to the Fund's provision for
+possible losses, resulting in net income of zero related to Citadel II in 1993.
+
+         The Fund's 1994 provision for possible losses in the amount of
+$1,630,000 ($1,920,000 net of charge-offs of $290,000 recorded during 1994) was
+recorded to (i) write down the carrying value of the Fund's investment in the
+Deluxe Check building to its estimated net realizable value and, (ii) write
+down the carrying value of the Fund's remaining three direct ownership
+investments--Oakcreek Village, Sheffield Forest Apartments and the two
+remaining buildings in the Minnesota Portfolio--upon adoption of the Fund's
+Liquidation Plan to their estimated net realizable values. The Fund's 1993
+provision for possible losses was recorded to write down the carrying value of
+two of the Fund's then-in-substance foreclosed asset investments, Sheffield and
+Carmel.
+
+
+
+
+
+                                       23
+<PAGE>   26
+         Net rental income (rental income less real estate taxes and property
+operating expenses) decreased by $372,000, or 7%, from $4,989,000 for the year
+ended December 31, 1993 to $4,617,000 for the year ended December 31, 1994.
+This decrease was primarily due to the dispositions of Seattle and Deluxe
+Check, which generated for the Fund net rental income of $2,398,000 and
+$439,000, respectively, during their respective 1994 holding periods, as
+compared to $3,172,000 and $640,000, respectively, for the full year in 1993.
+This decline was partially offset by the net rental income generated for the
+Fund in 1994 by the Sheffield Forest Apartment complex, to which the Fund
+obtained title on April 13, 1994.
+
+         Net income from in-substance foreclosed assets decreased by
+$2,180,000, or 87%, from $2,499,000 in the year ended December 31, 1993 to
+$319,000 in the year ended December 31, 1994. This decrease was primarily a
+result of: (i) the discounted payoff in late July 1993 of the Carmel mortgage
+loan investment, and (ii) the Fund obtaining title to Sheffield in April 1994.
+
+         Mortgage interest income decreased by $178,000, or 14%, from
+$1,279,000 in 1993 to $1,101,000 in 1994. This decrease was primarily due to:
+(i) a decrease of $63,000 in interest income earned from the Fund's investments
+in RTC-issued mortgage-backed securities; and (ii) valuation adjustments
+totaling $111,000 recorded during 1994 to reduce the carrying value of such
+mortgage-backed securities. Interest income earned from mortgage-backed
+securities decreased as a result of a lower average investment balance of such
+securities in 1994 as compared to 1993.
+
+         Investment income from short-term investments increased by $453,000,
+from $367,000 for the year ended December 31, 1993, to $820,000 for the year
+ended December 31, 1994. This increase is primarily due to income from the
+investment of the proceeds made available by the sales of the Deluxe Check
+building in August 1994 and Seattle Industrial Parks in October 1994 and an
+increase in prevailing short-term interest rates in 1994 as compared to 1993.
+
+         Administrative expenses decreased by $187,000, or 17%, from $1,128,000
+for the year ended December 31, 1993, to $941,000 for the year ended December
+31, 1994. This decrease was primarily due to lower advisory and administrative
+fees payable in the 1994 period. The Fund's average assets invested in real
+estate decreased during 1994 due to (i) the payoff of the Carmel investment and
+subsequent distribution of the proceeds to shareholders in 1993 and (ii) the
+sale of the Deluxe Check and Seattle investments in 1994.
+
+
+DISTRIBUTIONS
+
+         Prior to the adoption of the Liquidation Plan on December 12, 1994,
+the Fund's policy was to distribute, at a minimum, all of its taxable income to
+its shareholders. Subsequent to adoption of the Liquidation Plan, the Fund's
+Trustees have sought and continue to seek to distribute net proceeds from the
+liquidation of the Fund's investments at such time and, in such amounts, which
+is, in the opinion of the Trustees, in the best interests of the Fund's
+shareholders. In establishing distribution rates, the Fund's Trustees consider
+the operating performance of the Fund, the Fund's cash position and aggregate
+future cash requirements. Total liquidating distributions declared by the Fund
+in 1995 aggregated $7,163,000, or $.65 per share, compared to distributions in
+the amount of $45,622,000, or $4.14 per share, and $18,629,000, or $1.69 per
+share, made in 1994 and 1993, respectively. Distributions to shareholders in
+1995 included three quarterly liquidating distributions at $.05 per share, and
+a $5,510,000, or $.50 per share, liquidating distribution made at year end. The
+year-end liquidating distribution included net proceeds from the Fund's sale of
+its Shoreview and Fairview buildings of the Minnesota Portfolio in July 1995.
+In determining the amount of such distributions, the Fund estimated its
+aggregate future cash requirements necessary to:  (i) fund its capital and
+tenant improvement and leasing programs necessary to maintain the value of its
+remaining property investments, (ii) maintain its minimum working capital
+reserve requirement and (iii) make its principal payments on mortgage loan debt
+outstanding during the estimated remaining liquidation period for all of the
+Fund's investments.
+
+         A significant portion of the previous years' distributions represented
+a return of shareholders' capital or liquidating distributions. Return of
+capital and liquidating distributions are non-taxable to a shareholder to the
+extent the shareholder has remaining tax cost basis in the Fund's shares.
+Return of capital distributions aggre-
+
+
+
+
+
+                                       24
+<PAGE>   27
+gated $3,899,000, or $.35 per share, and $18,629,000, or $1.69 per share in
+1994 and 1993, respectively. Liquidating distributions aggregated $40,662,000,
+or $3.69 per share in 1994.
+
+         During the Fund's liquidation period, its ability to make quarterly
+distributions will be dependent upon its financial condition, earnings and cash
+flow, cash position and future working capital requirements. As a result of the
+1995 liquidating distributions and the subsequent year-end liquidating
+distribution of the proceeds from property sales, the book value of the Fund's
+shares has been further reduced. Accordingly, the amount of future income the
+Fund may be expected to generate has also been reduced. Further, as a result of
+the adoption of the Liquidation Plan, the Fund's remaining investments are
+being held for sale, rather than the production of income, and, accordingly,
+income can be expected to decline throughout the Fund's liquidation period.  In
+the opinion of the Trustees, the Fund had adequate working capital reserves to
+make three quarterly liquidating distributions at a rate of $.05 per share
+during the nine-month period ended September 30, 1995.
+
+         Future quarterly liquidating distributions to shareholders, excluding
+any amounts distributed from net proceeds from property sales, will be largely
+dependent upon the amount of funds from operations generated by the Fund during
+its liquidation period. Funds from operations are generated from the operations
+of the Fund's direct real estate investments and interest income on short-term
+investments. Accordingly, unfavorable economic conditions, vacancies,
+environmental requirements, reductions in prevailing short-term interest rates
+or increases in major expenses such as energy, insurance, and real estate taxes
+during the liquidation period could have an adverse impact upon the Fund's
+future funds from operations and distributions to shareholders. The exact
+amount of future quarterly distributions to shareholders will be determined by
+the Trustees at their quarterly Board meetings based on the Fund's actual
+results of operations and cash position. The timing and amount of distributions
+of net proceeds from property sales to shareholders will be determined by the
+Trustees as such amounts are realized based on relevant considerations, such as
+the Fund's then current results of operations, cash position, and future
+working capital requirements.
+
+         Under the Liquidation Plan, the Fund intends to sell or otherwise
+dispose of its real estate investments. In disposing of real estate
+investments, the Fund is in competition with other domestic institutional
+investors, including commercial banks and other financial institutions,
+insurance companies, pensions and other retirement funds, mortgage bankers,
+other real estate investment trusts, real estate brokers, developers and
+various types of foreign investors who may be seeking to dispose of real estate
+investments. In the case of leased properties which the Fund owns, the
+marketability of the investments is also affected by how rental rates, lease
+terms, free-rent concessions, and tenant improvement allowances compare with
+those in local markets.
+
+         If the Fund's remaining real estate investments are sold or disposed
+of prior to December 12,1996, it is the Fund's intention to make a final
+liquidating distribution, or distributions, prior to that date. Any assets
+which have not been distributed as of December 12, 1996, will be contributed to
+a liquidating trust, of which the shareholders will be beneficiaries. The
+shares of the Fund would no longer be traded and the beneficial interests in
+the liquidating trust would not be readily transferable.
+
+         At present, the Fund, through its Adviser, is in active negotiations
+with a potential buyer for each of its two remaining property investments and
+has executed either a letter of intent or a preliminary purchase and sale
+contract with potential buyers.  If such transactions are completed with these
+buyers, it is possible that both sales would be closed by the end of April
+1996. Upon sale of these remaining properties, the Fund's Trustees and
+management intend to complete the Fund's Liquidation Plan as soon as
+practicable thereafter. In addition to liquidating the Fund's assets, settling
+all of the Fund's liabilities, making a final distribution(s) to shareholders
+and dissolving the Fund, such activities are expected to include, but not
+necessarily be limited to, (i) delisting the Fund's shares from trading on the
+American Stock Exchange, (ii) deregistering the Fund's shares under the
+Securities Exchange Act of 1934, (iii) making provision for contingent
+liabilities of the Fund, if any, and (iv) obtaining any necessary insurance
+coverages.
+
+         The schedule on the following page sets forth the pro forma cash
+available for distribution (per share) to Fund shareholders as if the Fund were
+liquidated on or about June 30, 1996, in accordance with the foregoing
+discussion. However, there can be no assurance that such liquidation can be
+completed by June 30, 1996.
+
+
+
+
+
+                                       25
+<PAGE>   28
+Gross proceeds on sale of properties assumes that the Fund's properties are
+sold either for their appraised values at December 31, 1995 or, if a purchase
+and sale contract has been signed subsequent to year end, for the net contract
+price. In the case of Plaza del Amo, net contract price includes an estimated
+provision for the shared appreciation participation payment due to the former
+borrower, less amounts previously accrued for such payment at December 31,
+1995. Since appraised values are based on estimates, no assurance can be given
+that sales could have been transacted at their appraised values at December 31,
+1995 and actual gross sales amounts may vary from appraised amounts. In
+addition, until such time as property sales under pending purchase and sales
+contracts are closed, no assurance can be given that such sales will ultimately
+be transacted at the pending contract price, and actual gross proceeds may vary
+from pending contract amounts. Gross proceeds on sale of properties are reduced
+by an estimated provision for selling commissions, expenses and state and local
+taxes to arrive at net sales proceeds. An estimate has been made for cash flow
+from operations from the Fund's investments during their estimated remaining
+holding periods prior to their sale or disposition less: (i) an estimate for
+all normal, recurring administrative expenses of the Fund and (ii) a provision
+for estimated expenditures necessary to liquidate and dissolve the Fund
+pursuant to the Liquidation Plan. All other amounts shown are based on their
+respective historical carrying values at December 31, 1995.
+
+<TABLE>
+<CAPTION>
+                                                                                  PRO FORMA
+                                                                                   AMOUNT
+                                                                                  PER SHARE
+                                                                                 (UNAUDITED)
+                                                                                 -----------
+     <S>                                                                             <C>
+     Estimated gross proceeds on sale of properties   . . . . . . . . . . . . .      $1.97
+     Less: Estimated selling commissions, expenses, and state and local taxes         (.07)
+                                                                                   ------- 
+     Estimated net proceeds on sale of properties   . . . . . . . . . . . . . .       1.90
+     Repayment of mortgage loan payable   . . . . . . . . . . . . . . . . . . .       (.21)
+     Settlement of receivables and payables related to operations:
+        Receipt of accounts receivable  . . . . . . . . . . . . . . . . . . . .        .04
+        Payment of liabilities  . . . . . . . . . . . . . . . . . . . . . . . .       (.06)
+     Cash and short-term investments  . . . . . . . . . . . . . . . . . . . . .       1.41
+     Liquidation of marketable securities--REMICs   . . . . . . . . . . . . . .        .17
+     Estimated net cash flow from operations through June 30, 1996  . . . . . .        .01
+                                                                                   -------
+     Estimated resulting cash available for distribution to shareholders
+     (based on 11,019,978 shares outstanding at December 31, 1995)  . . . . . .      $3.26
+                                                                                   =======
+</TABLE>
+
+         The calculation of the pro forma cash available for distribution (per
+share) set forth above assumes that the Fund will continue to qualify as a real
+estate investment trust during the entire liquidation period and, therefore, no
+provision has been made for Federal income taxes. The above calculation also
+assumes that all of the Fund's assets are sold or distributed prior to December
+12, 1996, and does not reflect any incremental costs or expenses associated
+with establishing and operating a liquidating trust. It is possible that the
+sale of the remaining assets cannot be completed by December 12, 1996, in which
+case the assumptions regarding the timing and costs required to complete the
+liquidation would need to be revised.
+
+         Caution should be used in relying on the above pro forma estimate,
+which assumes the continuation of reasonably stable economic conditions during
+the remaining liquidation period and depends, among other factors, on the level
+of capital available for investment in real estate, interest rates, and the
+demand for real estate and mortgage investments. While the Fund's management,
+Trustees, and Adviser believe the assumptions and projections used in arriving
+at this estimate of pro forma cash available for distribution (per share) are
+reasonable, there can be no assurance that such assumptions will in fact prove
+to be correct.  Accordingly, there can be no assurance that actual sales or
+dispositions of particular assets will not be at prices which vary materially
+from management's current estimates of net realizable values.
+
+
+
+
+
+                                       26
+<PAGE>   29
+LIQUIDITY AND CAPITAL RESOURCES
+
+         As a matter of policy, the Fund seeks to maintain working capital
+reserves in an amount not less than $2,300,000, which amount constitutes 2% of
+the gross proceeds of the Fund's initial offering. Working capital reserves are
+defined as cash and cash equivalents, including the Fund's investment in
+marketable securities, and other working assets expected to be realized over
+the next year, less liabilities expected to be paid over the next year. Working
+capital reserves at December 31, 1995, after payment of the $.50 per share
+liquidating distribution discussed above, aggregated approximately $17.2
+million, representing 15.1% of the initial public offering proceeds, compared
+to working capital reserves of $5.7 million at December 31, 1994, which
+represented 5.0% of the Fund's initial offering proceeds.
+
+         During the fourth quarter of 1990, the Fund instituted a share
+repurchase program. Under the program, the Fund is authorized to repurchase in
+the open market from time to time up to 500,000 of the Fund's outstanding
+shares. As of December 31, 1995, 413,725 shares have been repurchased at an
+aggregate cost of $3,134,000. No shares have been repurchased since September
+1993 and the Fund's management, in consideration of the Liquidation Plan, does
+not expect the Fund to repurchase any further shares.
+
+         The Fund intends to continue to qualify as a real estate investment
+trust under the Internal Revenue Code and distribute all of its taxable income.
+The Fund's management considers the Fund's liquidity, as well as its ability to
+generate cash, as adequate to meet its presently foreseeable operating and
+shareholder distribution requirements and to fund its capital improvements.
+
+
+
+
+
+                                       27
+<PAGE>   30
+                             TRUSTEES AND OFFICERS
+
+JOHN C. BOGLE, Chairman
+Chairman, Chief Executive Officer, and Director
+of The Vanguard Group, Inc., and of each of the
+investment companies in The Vanguard Group.
+
+J. MAHLON BUCK, JR.
+Chairman and President of TDH Capital Corpora-
+tion; Director, Alco Standard Corporation.
+
+WILLIAM S. CASHEL, JR.
+Private Investor; formerly Vice Chairman, Ameri-
+can Telephone & Telegraph, Inc.
+
+DAVID C. MELNICOFF
+Adjunct Professor of Finance, Temple University;
+Director, Seamens' Capital Corporation; Director,
+Cortland Trust; President, Samuel F. Fels Fund;
+formerly Executive Vice President of Meritor
+Financial Group.
+
+J. LAWRENCE WILSON
+Director of The Vanguard Group, Inc., and of each
+of the investment companies in The Vanguard
+Group; Chairman and Chief Executive Officer of
+Rohm & Haas Company; Director of Cummins
+Engine Company; Trustee of Vanderbilt University.
+
+
+OTHER OFFICERS
+
+JOHN J. BRENNAN, President
+President and Director of The Vanguard Group,
+Inc., and of each of the investment companies in
+The Vanguard Group.
+
+RALPH K. PACKARD, Vice President and Controller
+Senior Vice President and Chief Financial Officer of
+The Vanguard Group, Inc.
+
+RAYMOND J. KLAPINSKY, Secretary
+Senior Vice President and Secretary of The
+Vanguard Group, Inc., and Secretary of
+each of the investment companies in The
+Vanguard Group.
+
+RICHARD F. HYLAND, Treasurer
+Treasurer of The Vanguard Group, Inc., and of
+each of the investment companies in The
+Vanguard Group.
+
+
+
+
+
+                                       28
+<PAGE>   31
+                           [THE VANGUARD GROUP LOGO]
+
+         Vanguard Real Estate Fund I - Valley Forge, Pennsylvania 19482
+
+                   New Account Information: 1-(800) 662-7447
+
+           Real Estate Shareholder Account Services: 1-(800) 662-2739
+
+
+          ON OUR COVER: On the evening of August 1, 1798, Lord Horatio
+         Nelson sailed his flagship, HMS Vanguard, into Egypt's Aboukir
+       Bay. In a night encounter, the British fleet annihilated Napoleon
+      Bonaparte's ships of the line in what is still considered to be the
+           most complete victory ever recorded in naval history. Our
+        Report's cover illustration is Thomas Luny's 1830 painting, The
+         Battle Of The Nile, in which the French flagship, L'Orient, is
+            shown as it exploded at 10:00 p.m. under a gibbous moon.
+
+
+
+ A copy of the Fund's Annual Report on Form 10-K filed with the Securities and
+ Exchange Commission may be obtained by shareholders without charge by calling
+ 1-800-662-7447 or by writing the Fund's Investor Relations office at P.O. Box
+                       2600, V35, Valley Forge, PA 19482.
+
+
+                                   Q700-12/95
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>VANGUARD REAL ESTATE FUND I FINANCIAL DATA SCHED.
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+
+
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted
+from the registrant's December 31, 1995 Financial Statements
+and is qualified in its entirely by reference to such financial
+statements.
+</LEGEND>
+<CIK> 0000801124
+<NAME> VANGUARD REAL ESTATE FUND I
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1995
+<PERIOD-START>                             JAN-01-1995
+<PERIOD-END>                               DEC-31-1995
+<CASH>                                          15,584
+<SECURITIES>                                     1,832
+<RECEIVABLES>                                      345
+<ALLOWANCES>                                         3
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                17,860
+<PP&E>                                          21,551
+<DEPRECIATION>                                   1,492
+<TOTAL-ASSETS>                                  38,156
+<CURRENT-LIABILITIES>                              614
+<BONDS>                                          2,168
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        28,884
+<OTHER-SE>                                       6,284
+<TOTAL-LIABILITY-AND-EQUITY>                    38,156
+<SALES>                                              0
+<TOTAL-REVENUES>                                 5,343
+<CGS>                                                0
+<TOTAL-COSTS>                                    1,666
+<OTHER-EXPENSES>                                   694
+<LOSS-PROVISION>                                   886
+<INTEREST-EXPENSE>                                 233
+<INCOME-PRETAX>                                  2,178
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                              2,178
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,830
+<EPS-PRIMARY>                                      .17
+<EPS-DILUTED>                                      .17
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

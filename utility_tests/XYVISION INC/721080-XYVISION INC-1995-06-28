@@ -1,0 +1,2482 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ k6+0c/gTuDMSKbkfPkRQyuDn7GKD1vgZhFW04e1RTDWV9EF9qfD43mCfRMIZWB5Q
+ BHYT8WaC9YQDtshh6o/zVA==
+
+<IMS-DOCUMENT>0000721080-95-000012.txt : 19950629<IMS-HEADER>0000721080-95-000012.hdr.sgml : 19950629
+ACCESSION NUMBER:		0000721080-95-000012
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950628
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XYVISION INC
+		CENTRAL INDEX KEY:			0000721080
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				042751102
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14747
+		FILM NUMBER:		95549923
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 EDGEWATER DR
+		CITY:			WAKEFIELD
+		STATE:			MA
+		ZIP:			01880
+		BUSINESS PHONE:		6172454100
+
+	MAIL ADDRESS:	
+		STREET 1:		101 EDGEWATER DRIVE
+		CITY:			WAKEFIELD
+		STATE:			MA
+		ZIP:			01880
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+<PAGE>
+                                   DELAWARE 
+
+        (STATE OR OTHER JURISDICTION OF INCORPORATION OR ORGANIZATION) 
+
+                                  04-2751102 
+
+                               (I.R.S. EMPLOYER 
+                             IDENTIFICATION NO.) 
+
+                101 EDGEWATER DRIVE, WAKEFIELD, MA 01880-1291 
+         (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)          (ZIP CODE) 
+     REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:  (617) 245-4100 
+      SECURITIES REGISTERED PURSUANT TO SECTION 12 (B) OF THE ACT: NONE 
+        SECURITIES REGISTERED PURSUANT TO SECTION 12 (G) OF THE ACT: 
+                         COMMON STOCK $.03 PAR VALUE 
+                       PREFERRED STOCK PURCHASE RIGHTS 
+                               (TITLE OF CLASS) 
+   INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS 
+ REQUIRED TO BE FILED BY SECTION 13 OR 15 (D) OF THE SECURITIES EXCHANGE ACT 
+ OF 1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE 
+  REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO 
+SUCH FILING REQUIREMENTS FOR THE PAST 90 DAYS.               YES  [X]  NO  [ ] 
+  INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM 
+ 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO 
+  THE BEST OF THE REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION 
+  STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY 
+AMENDMENT TO THIS FORM 10-K.                                 YES  [X]  NO  [ ] 
+ THE AGGREGATE MARKET VALUE OF COMMON STOCK HELD BY NON-AFFILIATES ON MAY 31, 
+                             1995 WAS $2,844,304. 
+
+As of May 31, 1995, the registrant had 8,653,397 shares of Xyvision, Inc. 
+Common Stock, $.03 par value, outstanding. 
+                     DOCUMENTS INCORPORATED BY REFERENCE 
+Portions of the registrant's definitive Proxy Statement to be filed pursuant 
+to Regulation 14A not later than 120 days after the end of the fiscal year 
+(March 31, 1995) are incorporated by reference in Part III. 
+
+                                1           
+<PAGE>
+                                    PART I 
+
+   Business 
+
+                                   GENERAL 
+
+   Xvyision, Inc. ("Xyvision" or the "Company") develops, markets, and 
+supports advanced software for document management, publishing, and prepress 
+applications. The Company combines its software with standard computer 
+hardware, selected third-party software, and support services to create 
+tightly integrated systems to improve productivity and strategic position. 
+Xyvision markets and supports its software worldwide. 
+
+   Xyvision offers two products -- Parlance Publisher(Trademark) and Parlance 
+Document Manager(Trademark) ("PDM") -- as the core technologies in systems 
+for document management and publishing applications ("Xyvision Publishing 
+Systems"). These systems are used to automate the production of reference 
+books, journals, catalogs, directories, financial and legal materials, and 
+technical manuals. 
+
+   Xyvision's color electronic prepress applications ("Contex Prepress 
+Systems") are based on Xyvision's Contex(Trademark) product line. Contex 
+Prepress Systems are marketed primarily to commercial trade shops, printers, 
+and prepress service organizations, as well as to consumer goods companies, 
+advanced design firms, and packaging manufacturers. 
+
+                                   OVERVIEW 
+
+   During the fiscal year ended March 31, 1995, ("fiscal 1995") Xyvision 
+continued its strategy of focusing on the following tasks: (i) marketing its 
+new technologies, (ii) broadening geographic distribution and expanding 
+indirect channels to the market, (iii) controlling expenses, and (iv) 
+restructuring the Company's financial position. The Company continued to 
+place growing emphasis on marketing and enhancing its new technologies and 
+broadening geographic distribution. 
+
+   Xyvision released an enhanced version of its compound document management 
+software, Parlance Document Manager (PDM 2.2), in the fourth quarter of 
+fiscal 1995. In keeping with Xyvision's strategy of increasing channels to 
+market, this release included the PDM Portal, which enables system 
+integrators to integrate PDM to external processes and systems through an 
+open API (Application Programming Interface). This functionality expedites 
+the development and integration process for third parties and simplifies the 
+process for incorporating new data types, such as audio, video, and 
+animation. 
+
+   New PDM customers in fiscal 1995 include the Australian Government 
+Publishing Services, Gulfstream Aerospace, American Society for Testing and 
+Materials (ASTM), Tweddle Litho, Cummins Engine (U.K.), Koninklijke Vermande 
+B.V. (Holland), and Warren, Gorham and Lamont. In addition, Xyvision formed a 
+strategic alliance with ISSC Publishing & Consulting Services, an IBM 
+subsidiary, to co-market Xyvision products. Xyvision also received several 
+orders for system expansion from existing PDM customers and believes Parlance 
+Document Manager is an important factor in sustaining Company profitability. 
+
+   Xyvision released version 4.1 of its high-speed batch and interactive 
+composition system, Xyvision Parlance Publisher (XPP), in the second quarter 
+of fiscal 1995. This release included multiple language support, expanded 
+graphics handling, OPI (Open Prepress Interface) support, and a 
+Quark(Registered Trademark) to Xyvision toolkit option. Xyvision also 
+integrated Adobe(Trademark) Illustrator(Trademark), Photoshop(Trademark), and 
+Acrobat(Trademark) for UNIX with Parlance Publisher and has signed an 
+agreement with Adobe Systems to market these products. In addition, the 
+Company signed an agreement with Exoterica Corporation to distribute its 
+OmniMark(Trademark) software for translation of SGML coded information into 
+and out of XPP format. Core product development combined with strategic 
+technology alliances has proven to be an effective means of increasing 
+product functionality and reducing product development cycles. 
+
+   New XPP customers in fiscal 1995 include Alexander Graphics, News 
+Printing, Reed Technology and Information Services Inc. (U.S. and U.K.), 
+Elsevier Science Inc., EVACO, U.S. Air Force, Swiss Air Force, Finnish Air 
+Force, Berger-Levrault (France), Site (France), The Rustica Press (South 
+Africa), Durigo (Italy), Tipografica Giuntina (Italy), MGB Ltd. (Israel), 
+Embraer (Brazil), Qantas (Australia), and Telecommunications of Jamaica. The 
+Company believes that the interest in Parlance Publisher continues due to its 
+superior automation capabilities and to a diminishing number of competitors 
+in the high-end publishing system arena. 
+
+                                1           
+<PAGE>
+   The focus of the Company's effort to broaden geographic distribution has 
+been on Xyvision's Contex product line. This program, called Contex Prepress 
+Partners(Trademark), made further progress towards establishing a worldwide 
+network of value added resellers with appropriate applications support and 
+systems integration skills to resell Contex and complementary products and 
+services to customers in their territory. In fiscal 1995, the Company was 
+able to add Contex Prepress Partners for Southeast Asia, additional countries 
+in Europe, and additional regions in the United States. 
+
+   The Company continued to adjust expenses to meet the realities of being a 
+software and services business. Gross margin percentage decreased in fiscal 
+1995 primarily due to increased amortization of software development costs. 
+During fiscal 1995, operating expenses decreased $611,000 to 46% of revenues 
+as compared to 50% of revenues last fiscal year. 
+
+   During fiscal 1994, the Company's employee headcount stabilized following 
+several years of planned workforce reductions. In fiscal 1995, the Company's 
+employee headcount increased to meet operational needs. Should the Company's 
+financial performance continue to improve in fiscal 1996, the Company's 
+headcount is expected to modestly increase. 
+
+   During fiscal 1994, the Company's line of credit with a current investor 
+in the Company was amended to increase the line of credit from $2,000,000 to 
+$3,000,000. This line, which is secured by essentially all the assets of the 
+Company, is being used and will continue to be used for general working 
+capital purposes. Additional information about the credit line can be found 
+in Part II of this Form 10-K. 
+
+   In fiscal 1992, Xyvision initiated a program to restructure the Company's 
+6% Convertible Subordinated Debentures due 2002 (the "Debentures") by issuing 
+promissory notes and/or shares of common stock in exchange for the 
+cancellation of the Debentures. To date (June 28, 1995), Xyvision has 
+completed transactions to restructure $18,675,000, or 83% of the $22,410,000 
+Debentures outstanding at the beginning of fiscal 1992. To date, the Company 
+has identified the holders of an additional $1,960,000, or 9% of the 
+Debentures, leaving $1,775,000, or 8% of the Debentures outstanding at the 
+beginning of fiscal 1992, not identified. 
+
+   During the course of its attempts to restructure the Debentures and 
+negotiate transactions with Debentureholders, the Company did not make the 
+interest payment due on the Debentures on May 5 of 1992, 1993, 1994 or 1995. 
+
+   Under the terms of the Indenture covering the Debentures, the Trustee or 
+the holders of not less than 25% of the then outstanding principal amount of 
+Debentures have the right to accelerate the maturity date of the remaining 
+Debentures. To date (June 28, 1995), such acceleration has neither occurred 
+nor been threatened. Additional information about the history and status of 
+Xyvision's Debenture restructuring efforts can be found in Part II of this 
+Form 10-K. 
+
+   The Company continues to negotiate in good faith with as many of the 
+remaining Debentureholders as possible. However, despite the progress that 
+has been made, the Company can still give no assurance about the outcome of 
+the Debenture restructuring efforts and does not expect the matter to be 
+resolved in the near future. If the Company is unable to enter into 
+restructuring transactions with the remaining Debentureholders, and such 
+Debentureholders seek to pursue legal remedies against the Company, the 
+Company may have to seek protection under applicable laws, including the 
+Bankruptcy Code, while it develops, analyzes, and completes alternative 
+restructuring strategies. 
+
+   In addition, as of September 30, 1994 the Company had issued promissory 
+notes in an aggregate principal amount of $5,692,000 in connection with the 
+Debenture exchange transactions described above, the interest on which 
+accrued at a rate of 15% per year and totalled $2,344,000 payable at 
+maturity. Such 15% Promissory Notes in an aggregate principal amount of 
+$4,542,000 were to mature on September 30, 1994, and the remainder of these 
+15% Promissory Notes mature at various dates between September 30, 1994 and 
+February 28, 1997. In order to 
+
+                                2           
+<PAGE>
+relieve itself of the payment obligations on the Promissory Notes, in fiscal 
+1995 the Company began a program to restructure the Promissory Notes. During 
+fiscal 1995, the Company completed exchange transactions with holders of 15% 
+Promissory Notes in an aggregate principal amount of $4,637,000, in which, in 
+exchange for the cancellation of a 15% Promissory Note (including all rights 
+to receive any interest accrued thereon), the Company issued (i) a new 
+Promissory Note that will mature 30 months from the date of issuance and 
+bears interest at 4% per annum, (ii) one share of common stock for each 
+$10.00 of principal amount of 15% Promissory Note delivered and (iii) one 
+share of Series B Preferred Stock for each $10.00 of interest due on the 15% 
+Promissory Note delivered. The Series B Preferred Stock accrues a cumulative 
+dividend in the amount of $.40 per share per annum, whether or not declared, 
+and has a liquidation preference of $12.50 per share, plus any dividends 
+declared or accrued but unpaid. Each share of Series B Preferred Stock is 
+convertible into two shares of common stock, subject to adjustment for 
+certain events as defined in the Series B Preferred Stock terms. 
+Additionally, holders of outstanding shares of Series B Preferred Stock are 
+entitled to voting rights equivalent to the rights attributable to the whole 
+shares of common stock into which the Series B Preferred Stock is 
+convertible. The Company will seek to restructure the remaining 15% 
+Promissory Notes. 
+
+   During fiscal 1996, Xyvision will focus on growing its position as a 
+leading supplier of advanced software for document management, publishing, 
+and prepress applications by: (i) enhancing and expanding its technologies, 
+(ii) focusing on targeted market segments, (iii) emphasizing superior 
+customer support, and (iv) leveraging its global presence. Additionally, the 
+Company will consider scenarios to refinance its various debt obligations. 
+Management believes these tasks are the primary ingredients for continued 
+profitable operations. While the Company remains confident about its future, 
+it can give no assurance regarding the ultimate success of its strategy. 
+
+                         XYVISION PUBLISHING SYSTEMS 
+
+  XYVISION PUBLISHING SYSTEMS ARE DESIGNED TO HELP USERS MEET THEIR BUSINESS 
+  AND PUBLISHING NEEDS BY PROVIDING COMPREHENSIVE PUBLISHING SOLUTIONS THAT 
+ AUTOMATE THE PUBLISHING PROCESS, ENABLE OUTPUT TO BOTH PAPER AND ELECTRONIC 
+ MEDIA, AND PROVIDE POWER AND SPEED UNATTAINABLE WITH DESKTOP PRODUCTS. THESE 
+     SYSTEMS ALLOW USERS TO OPERATE IN A MULTI-VENDOR NETWORKED COMPUTING 
+  ENVIRONMENT; TRANSPARENTLY SHARE, REUSE, AND MANAGE TEXT AND GRAPHICS DATA 
+  FROM MULTIPLE SOURCES THROUGHOUT AN ORGANIZATION; MAXIMIZE PRODUCTIVITY BY 
+ USING THE APPROPRIATE COMPUTER PLATFORMS AND APPLICATIONS; AND RETAIN THEIR 
+ INVESTMENTS IN EXISTING HARDWARE, SOFTWARE, AND TRAINING. XYVISION DEVELOPS 
+    AND MARKETS TWO HIGH-PERFORMANCE, OPEN PUBLISHING SOLUTIONS: PARLANCE 
+                   DOCUMENT MANAGER AND PARLANCE PUBLISHER. 
+
+  PARLANCE DOCUMENT MANAGER (PDM) ADDRESSES THE INFORMATION NEEDS OF TODAY'S 
+ CORPORATE AND COMMERCIAL PUBLISHERS: MANAGING LARGE AMOUNTS OF INFORMATION, 
+PUBLISHING INFORMATION IN BOTH PAPER AND ELECTRONIC MEDIA, AND LEVERAGING THE 
+ VALUE OF INFORMATION BY ENABLING INFORMATION REUSE IN MULTIPLE PRODUCTS. PDM 
+ IS A CLIENT/SERVER COMPOUND DOCUMENT MANAGEMENT SYSTEM THAT STORES DOCUMENT 
+    ELEMENTS AS INFORMATION OBJECTS IN A CENTRAL DATABASE, ALLOWING THESE 
+ ELEMENTS TO BE SHARED AND REUSED IN MULTIPLE DOCUMENTS. IT SUPPORTS OBJECTS 
+ OF VARYING TYPES AND SIZES, AND MANAGES A WIDE VARIETY OF TEXT AND GRAPHICS 
+  FORMATS INCLUDING SGML (STANDARD GENERALIZED MARKUP LANGUAGE) AND POPULAR 
+ UNIX OR WINDOWS WORD PROCESSING FORMATS, ALLOWING USERS VIRTUALLY UNLIMITED 
+ FLEXIBILITY AND ACCESS. IN ADDITION, PDM PROVIDES VERSION CONTROL, BUILT-IN 
+    WORKFLOW, AND CONTENT MANAGEMENT THAT AUTOMATE EDITORIAL PROCESSES FOR 
+                         COMPLEX PUBLISHING PROJECTS. 
+
+  PDM IS WELL SUITED FOR PUBLISHING ENVIRONMENTS WITH LARGE AMOUNTS OF TEXT, 
+    GRAPHICS, AND OTHER DATA THAT ARE FORMATTED AND PUBLISHED IN MULTIPLE 
+    VERSIONS OR ON MULTIPLE MEDIA. IT ALLOWS CUSTOMERS TO PRODUCE EXISTING 
+  PUBLICATIONS MORE ACCURATELY AND COST-EFFECTIVELY, AND PROVIDES ADDITIONAL 
+ REVENUE OPPORTUNITIES BY ENABLING USERS TO CREATE NEW PRODUCTS FROM EXISTING 
+                                 INFORMATION. 
+
+   XYVISION PARLANCE PUBLISHER (XPP) SHORTENS PRODUCTION CYCLES AND REDUCES 
+        COSTS BY AUTOMATING COMPOSITION AND PAGINATION OF HIGH-VOLUME, 
+   TYPOGRAPHICALLY-DEMANDING DOCUMENTS. XPP OFFERS A POWERFUL SOLUTION FOR 
+ CORPORATE AND COMMERCIAL PUBLISHERS WHO WANT TO STREAMLINE AND AUTOMATE THE 
+ PRODUCTION OF COMPLEX DOCUMENTS--FROM THE INPUT OF TEXT AND GRAPHICS TO THE 
+OUTPUT OF FULLY COMPOSED AND PAGINATED PAGES, FILM SEPARATIONS, OR ELECTRONIC 
+     OUTPUT. ADVANCED FEATURES INCLUDE BATCH AND INTERACTIVE COMPOSITION, 
+      AUTOMATIC IMPORT AND PLACEMENT OF GRAPHICS, SPOT AND PROCESS COLOR 
+  SPECIFICATION, POWERFUL TABULAR AND MATH COMPOSITION, EXTENSIVE FOOTNOTING 
+    CAPABILITIES, AUTOMATIC LOOSELEAF COMPOSITION, AND COMMERCIAL-QUALITY 
+                            TYPOGRAPHIC CONTROLS. 
+
+THE COMPANY BELIEVES THE SPEED, POWER, AND BACKGROUND PROCESSING CAPABILITIES 
+
+                                3           
+<PAGE>
+                          OF PARLANCE PUBLISHER MAKE 
+
+                                3           
+<PAGE>
+  IT THE MOST VERSATILE AND POWERFUL COMPOSITION SYSTEM AVAILABLE TODAY. XPP 
+ ENABLES CUSTOMERS TO SIGNIFICANTLY SHORTEN PRODUCTION TIME AND REDUCE COSTS 
+                   ASSOCIATED WITH THE PUBLISHING PROCESS. 
+
+    XYVISION ALSO PROVIDES CUSTOMERS WITH A COMPREHENSIVE CUSTOMER SUPPORT 
+       PROGRAM THAT INCLUDES SYSTEMS INTEGRATION, PRODUCTION ANALYSIS, 
+    IMPLEMENTATION PLANNING, ON-SITE AND CLASSROOM TRAINING, APPLICATIONS 
+    SUPPORT, PROGRAM MANAGEMENT, REMOTE DIAGNOSTICS, AND FIELD SERVICE AND 
+                                   SUPPORT. 
+
+  XYVISION PUBLISHING SYSTEMS ARE CURRENTLY SOLD FOR UNIX-BASED SERVERS AND 
+ WORKSTATIONS FROM SUN(REGISTERED TRADEMARK) MICROSYSTEMS AND IBM(REGISTERED 
+    TRADEMARK). XYVISION ALSO OFFERS PDM PC CLIENT SOFTWARE RUNNING UNDER 
+   MICROSOFT(REGISTERED TRADEMARK) WINDOWS. XYVISION'S SUPPORT OF STANDARD 
+   HARDWARE PLATFORMS GIVES CUSTOMERS THE ADVANTAGES OF SUPERIOR PRICE AND 
+  PERFORMANCE, LEADING-EDGE TECHNOLOGIES FROM MAJOR COMPUTER VENDORS, AND AN 
+                  ASSURED GROWTH PATH FOR FUTURE EXPANSION. 
+
+                           CONTEX PREPRESS SYSTEMS 
+
+   The Contex family of color electronic design and prepress software 
+automate full-color design, stripping, and page assembly operations used to 
+produce packaging, inserts, advertisements, brochures, catalogs, and other 
+high-quality color printed materials. 
+
+   For design environments, Contex systems feature the ability to take a 
+design from initial concept through full-size "comprehensives" to final 
+mechanical art, all from the same electronic data. The user can bring 
+together design elements such as text, graphics and multi-color backgrounds 
+and connect and integrate them with a variety of sizing, cropping, masking, 
+overlay, and special effects facilities. 
+
+   For prepress environments, Contex systems form the core workstation of a 
+full function color electronic prepress system ("CEPS"). Contex systems can 
+handle input from other CEPS systems, PostScript applications, image 
+scanners, and other sources of high-resolution, high-quality line art and 
+continuous tone images used to generate high-quality printed work. Contex 
+systems then provide the sophisticated color image processing needed to 
+generate output films, called separations, used in the printing process. 
+These separations are generated by a wide variety of film plotters made by 
+other companies that connect directly or indirectly to a Contex system. 
+
+   If desired, full-size, full-color, hard-copy proofs can be generated to 
+aid in design evaluation, review, and approval processes. For package 
+designs, three-dimensional mock-ups can be created. Synthetic imaging can 
+also be created to show a new package design on a store shelf alongside 
+competing products. 
+
+   While Contex systems provide capabilities to enhance the generation of 
+quality color materials, they are primarily purchased to improve 
+productivity. Contex software operates on UNIX-based RISC workstations and 
+servers from Silicon Graphics, Inc. This hardware is used because of its 
+leading capabilities for interactive manipulation of complex color images. 
+
+                     MARKETS, APPLICATIONS, AND CUSTOMERS 
+
+WITHIN THE BROAD MARKET FOR COMPUTER-BASED ELECTRONIC PUBLISHING, INFORMATION 
+   MANAGEMENT, AND PRINTING TECHNOLOGIES, THE COMPANY TARGETS ITS MARKETING 
+      EFFORTS PRIMARILY TO THREE KEY APPLICATION SEGMENTS: (1) TECHNICAL 
+DOCUMENTATION, (2) COMMERCIAL PUBLISHING, AND (3) COLOR ELECTRONIC DESIGN AND 
+                            PREPRESS APPLICATIONS. 
+
+      TECHNICAL DOCUMENTATION APPLICATIONS SEGMENT. This market includes 
+ corporations and product manufacturers who produce documentation in support 
+ of a product or service, as well as trade shops who service these companies. 
+  Customers in this segment include aerospace, automotive, heavy equipment, 
+            computers, electronics, and transportation companies. 
+
+ TYPICAL DOCUMENTS PRODUCED BY THESE COMPANIES INCLUDE REPAIR AND MAINTENANCE 
+    MANUALS, TRANSPORTATION DIRECTORIES, AND SOFTWARE DOCUMENTATION. THESE 
+   DOCUMENTS TYPICALLY HAVE A LONG SHELF LIFE, NEED FREQUENT REVISIONS, AND 
+   REQUIRE OUTPUT IN A VARIETY OF FORMATS INCLUDING INTERACTIVE ELECTRONIC 
+ TECHNICAL MANUALS (IETMS), CD-ROM, AND TRADITIONAL LOOSELEAF PAPER MANUALS. 
+ BECAUSE OF GOVERNMENT REGULATIONS AND THE NEED TO OUTPUT ON MULTIPLE MEDIA, 
+  TECHNICAL DOCUMENTS ARE INCREASINGLY AUTHORED AND STORED IN SGML, A FORMAT 
+    SUPPORTED BY PDM AND XPP. PRODUCT MANUFACTURERS OFTEN SUPPORT MULTIPLE 
+  MODELS, OR VERSIONS, BUILT FROM THE SAME BASELINE PRODUCT. THESE PRODUCTS 
+ SHARE COMMON PARTS AND PROCEDURES, BUT ALSO CONTAIN UNIQUE COMPONENTS. USING 
+   TRADITIONAL SYSTEMS AND PROCESSES, THE DOCUMENTATION THAT SUPPORTS THESE 
+
+                                4           
+<PAGE>
+PRODUCTS OFTEN CONTAINS COMMON DATA THAT IS CREATED, UPDATED, AND DISTRIBUTED 
+    REDUNDANTLY. XYVISION'S PARLANCE DOCUMENT MANAGER ELIMINATES REDUNDANT 
+    EDITING, STREAMLINES THE OVERALL PRODUCTION CYCLE, AND SUPPORTS UNIQUE 
+  PRODUCT DERIVATIVES. CUSTOMERS BENEFIT BY IMPROVING DOCUMENTATION ACCURACY 
+                   AND REDUCING PRODUCTION TIME AND COSTS. 
+
+                                4           
+<PAGE>
+    COMPANIES WHO PRODUCE TECHNICAL DOCUMENTATION OFTEN PRODUCE MANUALS IN 
+ LOOSELEAF FORMAT AND DISTRIBUTE UPDATES AS LOOSELEAF CHANGE PAGES. PARLANCE 
+      PUBLISHER'S UNIQUE AUTOMATIC LOOSELEAF OPTION ENABLES COMPANIES TO 
+AUTOMATICALLY CREATE UPDATE PAGES WHEN NEW INFORMATION IS ADDED TO PREVIOUSLY 
+ RELEASED DOCUMENTS, ENABLING USERS TO DISTRIBUTE ONLY CHANGED PAGES INSTEAD 
+OF REPRINTS OF THE ENTIRE DOCUMENT. THIS CAN DRAMATICALLY REDUCE PRINTING AND 
+ WAREHOUSING COSTS, AND ALLOWS MORE TIMELY UPDATES OF TECHNICAL INFORMATION. 
+
+      XYVISION CUSTOMERS IN THE TECHNICAL DOCUMENTATION SEGMENT INCLUDE: 
+ AEROSPATIALE (FRANCE), BOEING HELICOPTERS, CONSOLIDATED FREIGHTWAYS, CUMMINS 
+ ENGINE, GULFSTREAM AEROSPACE, GENERAL ELECTRIC, MCDONNELL DOUGLAS AEROSPACE, 
+  FORD MOTOR CO., PRATT & WHITNEY CANADA, RAYTHEON SERVICE COMPANY, TWEDDLE 
+          LITHO, SIKORSKY AIRCRAFT, AND WESTLAND HELICOPTERS (U.K.). 
+
+COMMERCIAL PUBLISHING APPLICATIONS SEGMENT. Customers in this segment include 
+ commercial printers and trade service bureaus, book and journal publishers, 
+     legal publishers, professional associations, wholesale distributors, 
+  financial services and insurance companies, pharmaceutical companies, and 
+  government agencies. Commercial printers and trade service bureaus produce 
+  periodicals, text and reference books, directories, and other high-quality 
+ printed materials. While these companies do not own the information within a 
+publication, document production is the company's major source of income, and 
+timely delivery of quality work is essential. Additionally, service providers 
+    have begun to produce a variety of electronic deliverables to generate 
+   additional revenue, including Internet online, CD-ROM, and Adobe Acrobat 
+      documents. Parlance Publisher gives commercial service providers a 
+   competitive advantage by enabling them to quickly produce high-quality, 
+                 camera-ready, printed and electronic output. 
+
+       COMMERCIAL PUBLISHERS, SUCH AS LEGAL PUBLISHERS AND PROFESSIONAL 
+ ASSOCIATIONS, OWN THE PUBLISHED INFORMATION AND HAVE INCREASINGLY BEEN FACED 
+ WITH THE NEED TO BETTER MANAGE INFORMATION CONTENT, VERSIONS, AND WORKFLOW. 
+     XYVISION'S PDM PROVIDES THESE COMPANIES WITH A COMPLETE INFORMATION 
+  MANAGEMENT SOLUTION THAT REDUCES COSTS, SHORTENS THE PRODUCTION CYCLE, AND 
+ENABLES CUSTOMERS TO GENERATE NEW REVENUE BY REPACKAGING EXISTING INFORMATION 
+                       INTO NEW PUBLICATIONS OR MEDIA. 
+
+  XYVISION CUSTOMERS IN THE COMMERCIAL PUBLISHING SEGMENT INCLUDE AAA, ASTM, 
+  AMERICAN INSTITUTE OF PHYSICS, AMERICAN CHEMICAL SOCIETY, AMERICAN MEDICAL 
+  ASSOCIATION, CADMUS JOURNAL SERVICES, CAPITAL PRINTING SYSTEMS, FACTS AND 
+  COMPARISONS, GRAFIKON (BELGIUM), IDEA INSTITUTE (JAPAN), MERCK & CO., R.R. 
+    DONNELLEY & SONS, SHEPARD'S/MCGRAW-HILL, REED ELSEVIER, TVSM, THOMSON 
+                 PROFESSIONAL PUBLISHING, AND VALUELINE, INC. 
+
+    COLOR ELECTRONIC DESIGN AND PREPRESS APPLICATIONS SEGMENT. This market 
+ segment consists of commercial trade shops, printers, packaging convertors, 
+  prepress service companies, consumer goods companies, and independent and 
+   in-house design organizations that specialize in packaging, advertising, 
+ catalogs, brochures, promotional displays and similar printed material that 
+                  involves complex layout of color elements. 
+
+   For commercial trade shops, printers, and prepress service companies, the 
+production of catalogs, brochures, posters or ads involves assembling job 
+elements and page geometries into a high-quality, finished, printed piece. 
+Typically, these organizations receive data from their clients in a variety 
+of formats during various stages of the production cycle. 
+
+   Design firms, packaging manufacturers and consumer goods companies are 
+responsible for creating packages, free-standing newspaper inserts, in-store 
+promotions, and other collateral for consumer product marketing. For these 
+companies, the challenge is taking an initial design concept through to 
+completion. 
+
+   For each of these groups, success depends significantly on their ability 
+to make the path from design through production completely electronic. They 
+need to be able to create an open-systems environment that allows them to 
+accept data in any format, at any time and to manage projects and people for 
+efficient use of available resources. 
+
+   Contex software is sold to general and packaging trade shops, general 
+printers, and packaging converters primarily to facilitate the color prepress 
+production processes. It is sold to package designers and consumer product 
+companies to facilitate the more interactive needs of designers. This 
+typically involves exploration of design concepts and alternatives, and 
+requires experimental, hands-on operations from designers. 
+
+   Xyvision's customers in the color electronic design and prepress 
+application segment include: Akerlund & Rausing (Sweden), Banta/Color 
+Response, Field Packaging (U.K.), The Gillette Company, DAR Projects (U.K.), 
+Kimberly Clark, HEL Productions (Australia), Novacel (Mexico), Lincoln 
+Graphics, Prestige Graphics (Malaysia), Rubber Type, Schawkgraphics, 
+
+                                5           
+<PAGE>
+Scandicolor (Denmark), Schmalback-Lubeca (Germany), Southern Graphics, and 
+Litho Plus (Canada). 
+
+                                5           
+<PAGE>
+                               PRODUCT STRATEGY 
+
+   In the 1980s, Xyvision's strengths were primarily in organizations with 
+production-oriented work groups that produced high-volume and/or high-quality 
+documents and publications. In the 1990s, the tendency is for greater control 
+to be moved into the hands of information creators (e.g., designers, authors, 
+illustrators, etc.), with increasing focus placed on streamlining the 
+production and dissemination processes. Also, there has been significant 
+growth in the use of: (i) color, (ii) electronic deliverables (e.g., CD-Rom 
+and the Internet), and (iii) document databases. Electronic dissemination is 
+expected to lead to significant growth in multimedia publications. 
+
+   Xyvision recognizes that today's customers demand an open system with 
+access to a wide range of products in an integrated environment. These 
+systems must meet a customer's current needs while still providing a sound, 
+flexible platform to meet their future needs in a rapidly changing 
+marketplace. Xyvision's product and business strategy reflect a commitment to 
+provide users with the tools to create this environment, which enables them 
+to leverage existing investments, implement an efficient operation, and 
+realize significant cost reductions and productivity increases. 
+
+   Xyvision's product development will continue to embrace open-systems 
+technology and standards, and will focus on: (i) enhanced and broader 
+functionality, (ii) document, information, and image management, (iii) 
+workflow management, and (iv) productivity increases. The commitment to 
+open-systems technology should continue to allow popular third-party 
+applications, including desktop tools, to be integrated into each of 
+Xyvision's solutions. Also, integration of third-party applications provides 
+further leverage, as users can continue to use the "right tool for the right 
+task" on equipment already in place throughout the organization or work 
+group. 
+
+                            SALES AND DISTRIBUTION 
+
+   Xyvision Publishing Systems. In the United States and Canada, Xyvision 
+markets these products and services primarily through a direct sales force. 
+However, for larger document management systems, the Company is increasingly 
+marketing through and with large systems integrators. In Europe, Asia, and 
+Australia, these products and services are provided by independent 
+distributors with appropriate systems integration skills. 
+
+   Contex Prepress Systems. Xyvision markets the Contex software and 
+associated services primarily through a worldwide network of value added 
+resellers with appropriate applications support and systems integration 
+skills. This distribution program is called Contex Prepress 
+Partners(Trademark). 
+
+   International. The Company maintains a European sales and support 
+headquarters in England. International revenues are expected to be of growing 
+importance to the Company. 
+
+                         CUSTOMER SERVICE AND SUPPORT 
+
+   Most of Xyvision's customers enter into maintenance and support contracts 
+and receive training. As part of a standard software support contract, the 
+Company provides software and documentation updates, as well as telephone 
+support. Each customer site is provided with remote diagnostics for the 
+identification, isolation, and resolution of system problems. Hardware 
+maintenance is provided by the vendor who manufactured the hardware. 
+
+   Upon request, Xyvision will provide its customers with complete workflow 
+and configuration analysis, pre-installation planning, system integration, 
+on-site and classroom training, applications support, program management, 
+remote diagnostics, and field service and support. 
+
+   Revenues from customer service and support have been 40%, 38%, and 36% of 
+overall revenues during fiscal 1993, fiscal 1994, and fiscal 1995, 
+respectively. 
+
+                     PRODUCT DEVELOPMENT AND ENGINEERING 
+
+   The market for the Company's products is characterized by rapid 
+technological change that requires the continuing enhancement of existing 
+products and the development of new products. During the past three fiscal 
+years ended March 31, 1995, the Company's investments in product development 
+and engineering, before the capitalization of software costs, have been a 
+significant percentage (17-19%) of the Company's total revenues. 
+
+                                6           
+<PAGE>
+   In the future, the Company's product development efforts will focus on 
+continuing to enhance its open- architecture systems, increasing the 
+price/performance of its products and developing software for specific 
+application needs. The Company believes it will have to continue to invest a 
+significant portion of its revenues in development to remain competitive in 
+its markets. 
+
+                                 COMPETITION 
+
+   The markets for document management, publishing, and prepress systems are 
+highly competitive. Xyvision competes with a number of companies, and other 
+companies not currently in these markets may introduce competing products. 
+Many existing and potential competitors have significantly greater financial, 
+technical, and marketing resources than Xyvision. 
+
+   Competition is usually based on: (i) price/performance, (ii) functionality 
+differences, (iii) quality and extent of service and support, and (iv) the 
+financial strength of the vendor. 
+
+   In the market segment for document management and publishing applications 
+for technical documentation, Xyvision principally competes with 
+Frame/Datalogics, Documentum, Intergraph, Interleaf, and Xerox. In the 
+commercial publishing applications market segment, the Company's principal 
+competitors are CCI Europe, Miles 33, and Quark. In the prepress applications 
+market segment, the Company competes primarily with Barco/Disc, Dainippon 
+Screen, Linotype-Hell, Wright Technologies, Scitex, and a wide variety of 
+desktop packages from companies such as Quark and Adobe. 
+
+                         MANUFACTURING AND SUPPLIERS 
+
+   Xyvision's Contex family of prepress systems is based on workstations and 
+operating systems from Silicon Graphics, Inc. The Company's document 
+management and publishing product lines have completed a transition from 
+proprietary hardware platforms to workstations and operating systems from Sun 
+Microsystems, IBM (including IBM's power PC products) and DEC. A significant 
+interruption in supply from these vendors would have a material adverse 
+effect on the Company. 
+
+                                   BACKLOG 
+
+   The Company believes that it is able to anticipate near-term demand for 
+its products and ship products shortly after receipt of the order. 
+Accordingly, the Company's backlog at any particular time is not indicative 
+of future sales levels. 
+
+                      PATENTS, LICENSES, AND TRADEMARKS 
+
+   The Company relies on copyright, patent, and trade secret law to protect 
+its technology. Management believes that because of rapid technological 
+changes in professional publishing and color electronic design and prepress 
+technologies, patent, trade secret, and copyright protection is not as 
+significant to the Company's business as the technical and creative skills of 
+its employees. 
+
+   Xyvision, PackageMaker, RIP'n'Strip, and RoboRIP are registered trademarks 
+of the Company. The Company also uses the following trademarks; Parlance 
+Publisher, Parlance Document Manager, Contex, Contex Professional, Contex 
+LinePro, Contex Prepress Partners, DotBox, and SmarTrap. 
+
+   The Company has acquired non-exclusive licenses for certain software from 
+several companies. These licenses permit the Company to grant sublicenses to 
+its customers. Loss of the Company's rights to grant sublicenses to its 
+customers on some of these software products could have a material adverse 
+effect on the Company. 
+
+                                  EMPLOYEES 
+
+   As of March 31, 1995, the Company employed 171 persons, which included 50 
+in research and development, 47 in sales and marketing, 51 in customer 
+support, and 23 in finance and administration. 
+
+                                7           
+<PAGE>
+   Xyvision's products are primarily proprietary software and services. 
+Software and services companies are commonly referred to as "intellectual 
+property companies." As an intellectual property company, management believes 
+that the future success of the Company will depend in large part on its 
+ability to attract and retain qualified employees. The Company does not 
+expect to encounter any significant difficulty in hiring or retaining such 
+personnel. The Company's employees are not represented by a labor union, and 
+the Company has never suffered an interruption of business as a result of a 
+labor dispute. The Company believes its employee relations are excellent. 
+
+   Properties 
+
+   The Company's executive, administrative, research and development, and 
+home office sales support facilities are located in a 77,214 square foot 
+building in Wakefield, Massachusetts. The Company occupies this facility 
+under a lease which expires in February 1996 (with a two-year option to 
+extend on the part of the landlord). 
+
+   The Company also leases sales and service facilities at other locations in 
+the United States and abroad. 
+
+   Legal Proceedings 
+
+   There are no material legal proceedings to which the Company or any of its 
+subsidiaries is a party of or of which any of their properties is subject. 
+
+   Submission of Matters to a Vote of Security Holders 
+
+   No matters were submitted to a vote of the Company's security holders 
+during the last quarter of the fiscal year ended March 31, 1995. 
+
+                                8           
+<PAGE>
+                      EXECUTIVE OFFICERS OF THE COMPANY 
+
+   The Executive Officers and Management of the Company are as follows: 
+
+<TABLE>
+<CAPTION>
+<S>                       <C>       <C>
+ NAME                     AGE       POSITION 
+Thomas H. Conway          56        Chief Executive Officer 
+Daniel M. Clarke          48        President and Chief Operating Officer 
+Eugene P. Seneta          50        Treasurer and Secretary 
+Kevin J. Duffy            40        Vice President, North American Sales 
+                                    Vice President, Customer Support and Managing 
+James G. Hickey           41        Director, Europe 
+Donald J. MacDonald       58        Vice President, International, Pacific Rim 
+
+</TABLE>
+
+   Mr. Conway has served as Chief Executive Officer since joining the Company 
+in August 1991 and also served as President from August 1991 to February 
+1994. He is the President of the consulting firm T.H. Conway and Associates. 
+For the past ten years he has been assisting companies to remediate their 
+operational and financial problems. Mr. Conway is a graduate of Harvard 
+College and holds a Masters Degree from the Wharton School of Finance. He is 
+a member of the Financial Executive Institute, and his firm is one of the 
+founding firms of the Turnaround Management Association. 
+
+   Mr. Clarke joined Xyvision in February 1990 as Vice President, Chief 
+Financial Officer and Treasurer. He was appointed General Manager of Contex 
+Prepress Systems in April 1991, and elected President and Chief Operating 
+Officer in February 1994. He also served as Secretary from September 1990 to 
+February 1994. He holds an M.B.A. degree from the Harvard Business School and 
+a B.S. degree from Rensselaer Polytechnic Institute. 
+
+   Mr. Seneta joined Xyvision in June 1990 as Manager of Contract 
+Administration and was elected Treasurer and Secretary in February 1994. From 
+May 1991 to February 1994, he served as Corporate Controller. He holds a 
+Bachelor of Arts in Business Administration from Grove City College and an 
+M.B.A. from the Emory University Graduate School of Business . 
+
+   Mr. Duffy joined Xyvision in June 1983 and was promoted to Vice President, 
+North American Sales in April 1991. Immediately prior to this position, Mr. 
+Duffy served as Director, Eastern Region Sales, a position he assumed in 
+January 1990. Previously, he held a variety of sales, support, and marketing 
+positions for the Company, including commercial sales manager, customer 
+support manager, and pre-sales support manager. He holds a B.S. degree from 
+Suffolk University. 
+
+   Mr. Hickey joined the Company in October 1987 and has served as Vice 
+President of Customer Support since April 1991. In June 1992, he was given 
+general management responsibility for Xyvision Publishing Systems activities 
+in Europe. He spent his first two and a half years with Xyvision as aerospace 
+market manager and director of product marketing. He holds a B.A. in 
+Economics from Harvard College and an M.B.A. from the Stanford University 
+Graduate School of Business. 
+
+   Mr. MacDonald is a member of Xyvision's founding group. He has been a Vice 
+President of the Company since 1982, first with responsibilities for customer 
+support, then special products and engineering services, and now sales for 
+the Pacific Rim. He holds B.S. and M.S. degrees in electrical engineering 
+from Northeastern University. 
+
+                               10           
+<PAGE>
+                                   PART II 
+
+   Market for the Registrant's Common Stock and Related Stockholder Matters 
+
+   The Company's Common Stock is currently traded on the Nasdaq system under 
+the symbol "XYVI". The price per share of the Company's Common Stock is 
+reported on the OTC Bulletin Board over a level 2 or level 3 Nasdaq 
+workstation and through the National Quotation Bureau Pink Sheets. 
+
+   The following table sets forth the reported high and low sales prices for 
+the Company's Common Stock for the periods indicated. 
+
+<TABLE>
+<CAPTION>
+<S>                      <C>    <C>
+                          HIGH   LOW 
+
+FISCAL 1994 
+April 1 - June 30        $    .13 $   .05 
+July 1 - September 30         .13     .09 
+October 1 - December 31       .22     .13 
+January 1 - March 31          .22     .19 
+
+FISCAL 1995 
+April 1 - June 30        $    .20 $   .19 
+July 1 - September 30         .23     .20 
+October 1 - December 31       .53     .25 
+January 1 - March 31          .50     .50 
+</TABLE>
+
+   As of June 9, 1995, there were approximately 701 stockholders of record. 
+No cash dividends have been paid on the Common Stock since Xyvision's 
+formation. The Company does not expect to pay cash dividends on the Common 
+Stock in the foreseeable future. 
+
+                               11           
+<PAGE>
+   Selected Financial Data 
+
+   The following table summarizes certain selected financial data and should 
+be read in conjunction with the financial statements and related notes 
+appearing elsewhere in this report. 
+
+<TABLE>
+<CAPTION>
+<S>                                    <C>         <C>         <C>         <C>         <C>
+                                                             Fiscal Year Ended 
+                                       ----------------------------------------------------------- 
+                                         March 31,   MARCH 31,  MARCH 31,   MARCH 31,   MARCH 31, 
+                                           1991        1992       1993        1994        1995 
+                                                 (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS) 
+Revenues                               $27,793     $ 22,695    $23,846     $23,865     $24,559 
+Gross margin                           9,966          7,609     10,626      11,907      12,045 
+Operating expenses                     26,502        15,272     13,833      11,815      11,205 
+Income (loss) from operations          (16,536)      (7,664)     (3,206)         92        840 
+Income (loss) before income taxes  and 
+ extraordinary item                    (16,961)      (8,903)     (4,079)       (479)        321 
+Net income (loss) (1)                  (16,961)      (5,299)      1,631        301         321 
+Net income (loss) per share (1)        $(3.08)     $      (.95) $      .24 $      .04  $      .03 
+Weighted average common and common 
+ equivalent shares outstanding         5,516          5,566      6,908       8,224      10,033 
+FINANCIAL POSITION 
+Cash, cash equivalents and short-term 
+  investments                          $7,510      $    825    $   577     $   312     $   174 
+Working capital (deficit)              6,424        (13,973)     (4,115)     (8,961)     (3,200)    
+Total assets                           30,188        15,536     12,846      12,505      13,137 
+Long-term debt                         22,529         2,958      7,445       1,706       4,655 
+Stockholders' deficit                  $(4,958)    $ (9,521)    $(7,295)    $(6,674)    $(4,116)    
+OTHER INFORMATION 
+Research and development expenditures, 
+ including capitalized software costs  $7,522      $  5,590    $ 4,041     $ 4,586     $ 4,410 
+</TABLE>
+
+   (1) Fiscal 1992 results include an extraordinary item for a gain of 
+$3,604, or $.65 per share, from the exchange of Debentures for unsecured, 
+unsubordinated promissory notes, and shares of common stock (also, see Note 9 
+of the Notes to Consolidated Financial Statements). 
+
+   Fiscal 1993 results include an extraordinary item for a gain of $5,709, or 
+$.83 per share, from the exchange of Debentures for unsecured, unsubordinated 
+promissory notes, and shares of common stock (also, see Note 9 of the Notes 
+to Consolidated Financial Statements). 
+
+   Fiscal 1994 results include an extraordinary item for a gain of $780, or 
+$.10 per share, from the exchange of Debentures for unsecured, unsubordinated 
+promissory notes, and shares of common stock (also, see Note 9 of the Notes 
+to Consolidated Financial Statements). 
+
+                               12           
+<PAGE>
+   Management's Discussion and Analysis of Financial Condition and Results of 
+Operations 
+
+                            RESULTS OF OPERATIONS 
+
+   Revenues increased slightly from $23,846,000 in fiscal 1993 to $23,865,000 
+in fiscal 1994 and increased 3% from $23,865,000 in fiscal 1994 to 
+$24,559,000 in fiscal 1995. From fiscal 1993 to fiscal 1994, systems revenues 
+increased 4% due primarily to the increased volume from both the Company's 
+publishing and color system's domestic markets. In fiscal 1995 systems 
+revenues increased 5% from fiscal 1994, due primarily to the increased volume 
+from the Company's color systems European and Pacific Rim/Asian markets. 
+Service revenues decreased 6% from fiscal 1993 to fiscal 1994 and decreased 
+1% from fiscal 1994 to fiscal 1995. The decreases are primarily due to 
+reduced maintenance from the Company's publishing domestic markets. In fiscal 
+1993 and 1994, market concerns over the Company's financial condition also 
+had a negative impact on revenues. Although in the sales process the Company 
+continues to encounter questions concerning its financial condition, the 
+Company does not believe that these concerns had a significant impact on 
+revenues in fiscal 1995. 
+
+   Gross margins increased from 45% of revenues in fiscal 1993 to 50% of 
+revenues in fiscal 1994, but decreased to 49% in fiscal 1995. System margins 
+increased from 52% of revenues in fiscal 1993 to 63% of revenues in fiscal 
+1994, but decreased to 58% of revenues in fiscal 1995. The systems margin 
+increase in fiscal 1994 was due to a higher content of software. The decrease 
+in fiscal 1995 was the result of higher amortization of capitalized software 
+development costs. Service margins decreased from 34% of revenues in fiscal 
+1993 to 29% of revenues in fiscal 1994 and then increased to 33% of revenues 
+in fiscal 1995. The decrease in service margin in fiscal 1994 was the result 
+of reduced service revenues and a relatively high level of fixed costs. The 
+increase in service margins in fiscal 1995 was due to careful control of 
+expenses. 
+
+   Research and development expenses, including capitalized software 
+development costs, were $4,041,000, $4,586,000 and $4,410,000 for fiscal 
+1993, 1994, and 1995, respectively. These amounts represented 17%, 19%, and 
+18% of revenues, respectively. Capitalized software costs were $1,287,000, 
+$1,389,000, and $1,413,000 in fiscal 1993, 1994, and 1995 respectively. The 
+increase in research and development expenditures from fiscal 1993 to fiscal 
+1994 was due to the Company's continuing commitment to support its product 
+development programs. The decrease in research and development expenditures 
+from fiscal 1994 to fiscal 1995 was primarily due to the completion of major 
+projects and cost control efforts. Research and development expenses, 
+excluding capitalized software costs, were 12%, 13% and 12% of revenues 
+during fiscal 1993, 1994 and 1995, respectively. 
+
+   Marketing, general, and administrative expenses decreased from $9,468,000 
+(or 40% of revenues) in fiscal 1993 to $8,618,000 (or 36% of revenues) in 
+fiscal 1994. Fiscal 1995 expenses decreased further to $8,208,000 (or 33% of 
+revenues). These decreases are primarily a result of the Company's continuing 
+cost awareness and containment efforts. Management does not expect further 
+decreases in fiscal 1996. 
+
+   The Company continually evaluates the future benefit of its capitalized 
+software costs. During fiscal 1993, the Company wrote off $1,610,000 of 
+capitalized software costs for Xyvision's publishing products that were not 
+expected to generate material benefits to the Company in future periods since 
+they were replaced by new software technologies released by the Company. 
+
+   Interest income was $32,000, $3,000 and $9,000 in fiscal 1993, 1994, and 
+1995, respectively. The low amount of interest income in each of the fiscal 
+years was due to the decrease in the Company's level of cash available for 
+investing. Interest expense from third parties was $789,000, $256,000 and 
+$284,000 in fiscal 1993, 1994, and 1995, respectively. Interest expense on 
+debt from third parties includes the interest obligation on the Debentures 
+and the quarterly interest payments on the 4% promissory notes. The decrease 
+in the interest expense from fiscal 1993 to fiscal 1994 was a result of the 
+Debenture exchanges. The increase in the interest expense from fiscal 1994 to 
+fiscal 1995 was primarily due to the quarterly interest payments on the new 
+4% promissory notes (also please see Note 9 of the Notes to Consolidated 
+Financial Statements). Interest expense related to the Company's debt to a 
+shareholder was $115,000, $317,000, and $244,000 in fiscal 1993, 1994, and 
+1995, respectively. 
+
+   During fiscal 1993, the Company entered into exchange transactions with 
+investors holding a total of $10,285,000 principal amount of Debentures. As a 
+result of these transactions, the Company realized an extraordinary gain of 
+$5,709,000, or $.83 per share. These Debentureholders exchanged their 
+Debentures for (i) an unsecured, unsubordinated promissory note of the 
+Company, in a principal amount equal to 30% of the principal amount of the 
+Debentures delivered for exchange, which bears interest (payable at maturity) 
+at 15% per year (compounded annually) and matures 30 months from issuance, 
+and (ii) 107,095 shares of common stock of the Company per $1,000,000 
+principal amount of Debentures exchanged. 
+
+                               13           
+<PAGE>
+   During fiscal 1994, the Company entered into agreements to restructure an 
+additional $1,425,000 of Debentures on substantially the same terms as those 
+described above. As a result of these transactions, the Company realized an 
+extraordinary gain of $780,000, or $.10 per share. 
+
+                               13           
+<PAGE>
+   During fiscal 1995, the Company entered into agreements to restructure an 
+additional $30,000 of Debentures on substantially the same terms as those 
+described above. The Company did not recognize an extraordinary gain on these 
+transactions. 
+
+   During fiscal 1995, the Company completed exchange transactions with 
+holders of 15% Promissory Notes in an aggregate principal amount of 
+$4,637,000, in which, in exchange for the cancellation of a 15% Promissory 
+Note (including all rights to receive any interest accrued thereon) the 
+Company issued, among other securities, shares of Series B Preferred Stock. 
+The Series B Preferred Stock accrues a cumulative dividend in the amount of 
+$.40 per share per annum, whether or not declared. During fiscal 1995, as a 
+result of these transactions, the Company declared dividends of $35,000 on 
+the Series B Preferred Stock. 
+
+   Net income allocable to common stockholders was $286,000, $301,000 and 
+$1,631,000 for fiscal 1995, 1994, and 1993, respectively. 
+
+   The Company believes inflation has not had a material effect on its 
+results of operations to date. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+   At March 31, 1995, the Company had cash and cash equivalents of $174,000, 
+which is a decrease of $138,000 from the previous fiscal year end. 
+Approximately $1,767,000 of cash was provided by operations and approximately 
+$1,783,000 of cash was used in investing activities in fiscal 1995. The 
+Company plans to continue its aggressive efforts of managing working capital. 
+ . 
+
+   In fiscal 1995 the Company invested $1,783,000 in capital assets, 
+including $1,413,000 of capitalized software costs, reflecting the Company's 
+continuing commitment to its product development programs. The Company 
+anticipates it will continue to invest in capital assets as required to 
+support its product development efforts and general business needs in future 
+periods. 
+
+   The Company has a $3,000,000 line of credit with a current investor in the 
+Company. The line, which is payable on demand, is secured by substantially 
+all of the assets of the Company and has been used for working capital and 
+general business purposes. Interest on the line of credit is payable monthly. 
+The line of credit is scheduled to expire on June 30, 1995, although the 
+Company and this investor are currently engaged in negotiations to extend the 
+credit line. 
+
+   At the beginning of fiscal 1992, the Company had outstanding $22,410,000 
+of Debentures. This was a significant amount of debt for the Company and 
+represented an annual cash interest payment obligation of $1,344,600. During 
+fiscal 1992, the Company began a program to restructure its financial 
+position, specifically, these Debentures. 
+
+   Since March 10, 1992, the Company has consummated restructuring 
+transactions with the holders of a total of $18,675,000 principal amount of 
+Debentures. Substantially all of these transactions involved the exchange of 
+outstanding Debentures for (i) an unsecured, unsubordinated promissory note 
+of Xyvision in a principal amount equal to 30% of the principal amount of the 
+Debentures delivered for exchange, bearing interest (payable at a maturity) 
+at 15% per year (compounded annually) and maturing 30 months from issuance 
+and (ii) 107,095 shares of common stock of Xyvision per $1,000,000 principal 
+amount of Debentures. As of June 28, 1995, a total of $3,735,000 principal 
+amount of Debentures remained outstanding. Of such Debentures, the Company 
+has indentified the holders of $1,960,000 principal amount, leaving 
+$1,775,000 principal amount of Debentures unidentified. 
+
+   During the course of its attempts to restructure the Debentures and 
+negotiate transactions with Debentureholders, the Company did not make the 
+interest payment due on the Debentures on May 5 of 1992, 1993, 1994 or 1995. 
+Under the terms of the Indenture covering the Debentures, the Trustee or the 
+holders of not less than 25% of the then outstanding principal amount of 
+Debentures have the right to accelerate the maturity date of the remaining 
+Debentures. To date (June 28, 1995), such acceleration has neither occurred 
+nor been threatened. 
+
+   The Company continues to negotiate in good faith with as many of the 
+remaining Debentureholders as possible. However, despite the progress that 
+has been made, the Company can still give no assurance about the outcome of 
+the Debenture restructuring efforts and does not expect the matter to be 
+resolved in the near future. If the Company is unable to enter into 
+restructuring transactions with the remaining Debentureholders, and such 
+Debentureholders seek to pursue legal remedies against the Company, the 
+Company may have to seek protection under applicable laws, including the 
+Bankruptcy Code, while it develops, analyzes and completes alternative 
+restructuring strategies. 
+
+                               14           
+<PAGE>
+   In addition, as of September 30, 1994 the Company had issued promissory 
+notes in an aggregate principal amount of $5,692,000 in connection with the 
+Debenture exchange transactions described above, the interest on which 
+accrued at a rate of 15% per year and totalled $2,344,000 payable at 
+maturity. Such 15% Promissory Notes in an aggregate principal amount of 
+$4,542,000 were to mature on September 30, 1994, and the remainder of these 
+15% Promissory Notes were to mature at various dates between September 30, 
+1994 and February 28, 1997. In order to relieve itself of the payment 
+obligations on the Promissory Notes, in fiscal 1995 the Company began a 
+program to restructure the Promissory Notes. During fiscal 1995, the Company 
+completed exchange transactions with holders of 15% Promissory Notes in an 
+aggregate principal amount of $4,637,000, in which, in exchange for the 
+cancellation of a 15% Promissory Note (including all rights to receive any 
+interest accrued thereon), the Company issued (i) a new Promissory Note that 
+will mature 30 months from the date of issuance and bears interest at 4% per 
+annum, (ii) one share of common stock for each $10.00 of principal amount of 
+15% Promissory Note delivered and (iii) one share of Series B Preferred Stock 
+for each $10.00 of interest due on the 15% Promissory Note delivered. The 
+Series B Preferred Stock accrues a cumulative dividend in the amount of $.40 
+per share per annum, whether or not declared, and has a liquidation 
+preference of $12.50 per share, plus any dividends declared or accrued but 
+unpaid. Each share of Series B Preferred Stock is convertible into two shares 
+of common stock, subject to adjustment for certain events as defined in the 
+Series B Preferred Stock terms. Additionally, holders of outstanding shares 
+of Series B Preferred Stock are entitled to voting rights equivalent to the 
+rights attributable to the whole shares of common stock into which the Series 
+B Preferred Stock is convertible. As of June 28, 1995, 15% Promissory Notes 
+in an aggregate principal amount of $1,02 3,000 were outstanding which will 
+mature at various dates between July 1, 1995 and February 28, 1997. The 
+Company will seek to restructure the remaining 15% Promissory Notes. 
+
+   The Company anticipates that its cash requirements for the first part of 
+fiscal 1996 will be satisfied from its present cash balances, cash flow from 
+existing operations, and its credit line, assuming the extension of the 
+credit line and the continued forbearance by the Debentureholders. Despite 
+the progress made during the past fiscal year, the Company can give no 
+assurance on the outcome of the Debenture restructuring efforts and does not 
+expect the matter to be resolved in the immediate future. Moreover, no 
+assurance can be given as to the ability of the Company to satisfy or 
+otherwise discharge its payment obligations under the promissory notes issued 
+in connection with the Debenture restructuring. The above uncertainties raise 
+substantial doubt about the Company's ability to continue as a going concern. 
+The financial statements do not include any adjustments relating to the 
+recovery and classifications of recorded asset amounts or the amounts and 
+classifications of liabilities that might be necessary should the Company be 
+unable to continue as a going concern. 
+
+   The Company's long term liquidity needs cannot reasonably be determined at 
+this time principally because these needs are dependent, in a large part, 
+upon the outcome of the Company's ongoing attempts to restructure the 
+remaining outstanding Debentures and the ability of the Company to obtain 
+financing to repay or otherwise restructure the remaining outstanding 15% 
+promissory notes. 
+
+   The Company believes that its current strategy, as outlined in Item 1 of 
+this Form 10-K, will continue to significantly contribute to the revival of 
+the Company. During fiscal 1996, the Company will focus more emphasis on 
+marketing and enhancing its new technologies, and broadening geographic 
+distribution. While the Company remains confident about its future, it can 
+give no assurance regarding the ultimate success of its strategy. 
+
+                               15           
+<PAGE>
+   Financial Statements and Supplementary Data 
+
+                      REPORT OF INDEPENDENT ACCOUNTANTS 
+
+                  TO THE BOARD OF DIRECTORS AND STOCKHOLDERS 
+                              OF XYVISION, INC.: 
+
+   We have audited the accompanying consolidated balance sheets of Xyvision, 
+Inc. as of March 31, 1995 and 1994, and the related consolidated statements 
+of operations, changes in stockholders' deficit and cash flows for each of 
+the three years in the period ended March 31, 1995. These financial 
+statements are the responsibility of the Company's management. Our 
+responsibility is to report on these financial statements based on our 
+audits. 
+
+   We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement. An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our report. 
+
+   The accompanying financial statements have been prepared assuming that the 
+Company will continue as a going concern. The Company has a incurred loss 
+from operations in fiscal 1993 and has working capital and stockholders' 
+deficit at March 31, 1995 and 1994. On May 5, 1995, 1994, 1993, and 1992, the 
+Company elected not to make the interest payment that was due on its 6% 
+Convertible Subordinated Debentures. Under the terms of the Indenture 
+covering the debentures, the Trustee or the holders of not less than 25% of 
+the outstanding principal amount of the debentures have the right to 
+accelerate the maturity date of the remaining debentures. As of June 9, 1995, 
+no such acceleration had occurred. The Company's attainment of profitable 
+operations and sufficient additional financing, as well as the continued 
+forbearance of its Debentureholders, cannot be determined at this time. These 
+uncertainties raise substantial doubt about the Company's ability to continue 
+as a going concern. Management's actions in regard to these matters are 
+described in Note 2. The financial statements do not include any adjustments 
+relating to the recovery and classifications of recorded asset amounts or the 
+amounts and classifications of liabilities that might be necessary should the 
+Company be unable to continue as a going concern. 
+
+   Because of the significance of the uncertainties referred to in the 
+preceding paragraph, we are unable to express, and we do not express, an 
+opinion on the consolidated financial statements referred to above. 
+                                                     COOPERS & LYBRAND, L.L.P. 
+Boston, Massachusetts 
+June 9, 1995 
+
+                               17           
+<PAGE>
+                                XYVISION, INC. 
+                         CONSOLIDATED BALANCE SHEETS 
+                           MARCH 31, 1995 AND 1994 
+
+<TABLE>
+<CAPTION>
+<S>                                                        <C>            <C>
+ ASSETS                                                        1995           1994 
+Current assets: 
+Cash                                                       $    174,289   $    312,238 
+Accounts receivable:  Trade, less allowance for doubtful 
+ accounts of   $711,000 in 1995 and $759,000 in 1994          7,860,775      6,973,216 
+ Retainage                                                           --        526,220 
+Inventories                                                     188,251         91,401 
+Other current assets                                          1,173,339        609,543 
+Total current assets                                          9,396,654      8,512,618 
+
+ Property and equipment, net                                  1,217,799      1,787,900 
+Other assets, net, principally capitalized software costs     2,522,159      2,204,887 
+Total assets                                               $ 13,136,612   $ 12,505,405 
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+Current liabilities: 
+Note payable to shareholder                                $  1,100,000   $  1,400,000 
+Current portion of long-term debt                             5,175,906     10,103,793 
+Accounts payable and accrued expenses                         3,664,855      2,740,029 
+Other current liabilities                                     2,656,157      3,229,393 
+Total current liabilities                                    12,596,918     17,473,215 
+Long-term debt                                                4,655,255      1,705,972 
+Total liabilities                                            17,252,173     19,179,187 
+
+ Commitments and contingencies                                       --             -- 
+
+ Stockholders' deficit: 
+Series preferred stock, $1.00 par value; 2,700,000 shares 
+  authorized; no shares issued                                       --             -- 
+Series B Preferred Stock, $1.00 par value: 300,000 shares 
+  authorized; 189,875 issued at March 31, 1995  (aggregate 
+ liquidation preference of $2,373,438)                          189,875             -- 
+Common stock, $.03 par value; 20,000,000 shares 
+ authorized;  9,218,962 issued in 1995 and 8,752,104 
+ issued in 1994                                                 276,569        262,563 
+Additional paid-in capital                                   41,176,900     39,367,327 
+Accumulated deficit                                         (43,806,103)   (44,091,927) 
+                                                             (2,162,759)    (4,462,037) 
+Less: Treasury stock, at cost; 573,325 shares in 1995 and 
+  573,925 shares in 1994                                      1,458,517      1,460,317 
+Receivable from employee stock ownership plan                   494,285        751,428 
+Total stockholders' deficit                                  (4,115,561)    (6,673,782) 
+Total liabilities and stockholders' deficit                $ 13,136,612   $ 12,505,405 
+</TABLE>
+
+  The accompanying notes are an integral part of the consolidated financial 
+                                 statements. 
+
+                               18           
+<PAGE>
+                                XYVISION, INC. 
+                    CONSOLIDATED STATEMENTS OF OPERATIONS 
+              FOR THE YEARS ENDED MARCH 31, 1995, 1994, AND 1993 
+
+<TABLE>
+<CAPTION>
+<S>                                                      <C>           <C>           <C>
+                                                              1995          1994          1993 
+- -------------------------------------------------------- ------------- ------------- ------------- 
+Revenues:  Systems                                       $15,674,312   $14,895,180   $14,320,653 
+ Service                                                   8,884,796     8,969,855     9,525,021 
+   Total revenues                                         24,559,108    23,865,035    23,845,674 
+Cost of sales:  Systems                                    6,527,775     5,572,756     6,907,004 
+ Service                                                   5,986,263     6,385,063     6,312,248 
+   Total cost of sales                                    12,514,038    11,957,819    13,219,252 
+
+ Gross margin                                             12,045,070    11,907,216    10,626,422 
+
+ Expenses: 
+ Research and development                                  2,997,285     3,197,231     2,754,256 
+ Marketing, general, and administrative                    8,207,762     8,618,326     9,468,232 
+ Write down of capitalized software costs                         --            --     1,610,428 
+   Total operating expenses                               11,205,047    11,815,557    13,832,916 
+Net income (loss) from operations                            840,023        91,659    (3,206,494)    
+Other income (expense), net:  Interest income                  9,193         2,848        32,156 
+  Interest expense - third party                            (284,285)       (256,499)       (789,359)    
+  Interest expense - shareholder                            (244,204)       (316,613)       (115,014)    
+  Total other expense, net                                  (519,296)       (570,264)       (872,217)    
+Income (loss) before income taxes and extraordinary item     320,727      (478,605)     (4,078,711)    
+Provision for income taxes                                        --            --            -- 
+Income (loss) before extraordinary item                      320,727      (478,605)     (4,078,711)    
+Extraordinary item: 
+ Gain on exchange of convertible subordinated 
+   debentures                                                     --       779,574     5,709,396 
+Net income                                                   320,727       300,969     1,630,685 
+Series B Preferred Stock Dividends                            34,903            --            -- 
+Net income allocable to common stockholders              $   285,824   $   300,969   $ 1,630,685 
+
+ Income (loss) per share: 
+ Income (loss)before extraordinary item                  $          .03 $         (.06) $         (.59) 
+ Extraordinary item                                                 .--            .10            .83 
+ Income per share                                        $          .03 $          .04 $          .24 
+
+ Weighted average common and common equivalent  shares 
+ outstanding                                              10,032,930     8,224,189     6,908,456 
+</TABLE>
+
+  The accompanying notes are an integral part of the consolidated financial 
+                                 statements. 
+
+                               20           
+<PAGE>
+                                XYVISION, INC. 
+                    CONSOLIDATED STATEMENTS OF CASH FLOWS 
+              FOR THE YEARS ENDED MARCH 31, 1995, 1994, AND 1993 
+
+<TABLE>
+<CAPTION>
+<S>                                                        <C>           <C>           <C>
+                                                               1995          1994          1993 
+- ---------------------------------------------------------- ------------- ------------- ------------- 
+Operations: Net income                                     $   320,727   $   300,969   $ 1,630,685 
+Adjustments to reconcile net income to net cash  provided 
+ from operating activities: 
+Gain on exchange of convertible subordinated  debentures            --      (779,574)   (5,709,396) 
+Write down of capitalized software costs                            --            --     1,610,428 
+Depreciation and amortization                                2,137,450     2,231,586     3,253,270 
+Provision for losses on contracts and accounts receivables     505,554       963,803     1,357,000 
+Loss on disposal of property and equipment                      20,030        61,733        20,565 
+Operating assets and liabilities: 
+ Accounts receivable                                        (1,393,112)   (1,275,876)   (2,017,481) 
+ Retainage                                                     526,220       113,196      (639,416) 
+ Inventories                                                   (96,850)      152,506       205,363 
+ Accounts payable and accrued expenses                         894,249      (696,822)      219,918 
+ Other current liabilities                                    (577,608)      371,210       (48,176) 
+ Other current assets                                         (570,109)     (147,415)      519,239 
+Net cash provided from operations                            1,766,551     1,295,316       401,999 
+Investments: 
+Additions to property and equipment                           (368,982)     (640,176)     (719,580) 
+Proceeds from sales of property and equipment                      225        11,794        19,645 
+Additions to customer support spares                            (1,358)           --       (42,809) 
+Capitalized software costs                                  (1,412,911)   (1,388,884)   (1,286,593) 
+Net cash used by investments                                (1,783,026)   (2,017,266)   (2,029,337) 
+Financing: 
+Repayment of debt                                                   --            --       (81,948) 
+Proceeds from line of credit from a shareholder              1,800,000     2,900,000     2,700,000 
+Repayment of line of credit to a shareholder                (2,100,000)   (2,700,000)   (1,500,000) 
+Proceeds from issuance of common stock from treasury               186           331         3,947 
+Dividends on preferred stock                                   (15,967)           --            -- 
+Payment on 15% promissory notes                                (62,836)           --            -- 
+Loan payment from Employee Stock Ownership Plan                257,143       257,143       257,143 
+Net cash provided from (used by) financing                    (121,474)      457,474     1,379,142 
+Net decrease in cash and cash equivalents                     (137,949)     (264,476)     (248,196) 
+Cash and cash equivalents at the beginning of the year         312,238       576,714       824,910 
+Cash and cash equivalents at the end of the year           $   174,289   $   312,238   $   576,714 
+
+</TABLE>
+
+The accompanying notes are an integral part of the consolidated financial 
+                                 statements. 
+
+                               21           
+<PAGE>
+                                XYVISION, INC. 
+         CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' DEFICIT 
+              FOR THE YEARS ENDED MARCH 31, 1993, 1994 AND 1995 
+
+<TABLE>
+<CAPTION>
+<S>                                           <C>         <C>        <C>           <C>             <C>            <C>            < 
+      C>
+                                                                                                                     RECEIVABLE 
+                                                                                                                        FROM 
+                                                                                                                      EMPLOYEE 
+                                                                     ADDITIONAL                                        STOCK      
+     TOTAL 
+                                                PREFERRED  COMMON      PAID-IN     ACCUMULATED       TREASURY        OWNERSHIP   
+   STOCKHOLDERS' 
+                                              STOCK         STOCK        CAPITAL        DEFICIT          STOCK    PLAN            
+      DEFICIT 
+BALANCE, MARCH 31, 1992                                   $205,811   $39,113,757   $(46,023,581)   $(1,551,601)   $(1,265,714)   
+   $(9,521,328) 
+ISSUANCE OF COMMON STOCK WITH THE EXCHANGE OF 
+ $10,285,000 OF CONVERTIBLE SUBORDINATED 
+ DEBENTURES, 1,030,549 SHARES                               30,916       223,466                                                  
+      254,382 
+ISSUANCE OF COMMON STOCK IN ACCORDANCE WITH 
+ CREDIT LINE AGREEMENT, 400,000 SHARES                      12,000        68,000                                                  
+       80,000 
+ISSUANCE OF STOCK FROM TREASURY FOR LEGAL 
+ SERVICES ASSOCIATED WITH THE EXCHANGE OF 
+ CONVERTIBLE SUBORDINATED DEBENTURES, 20,000 
+ SHARES                                                                  (58,125)                       60,000                    
+        1,875 
+ISSUANCE OF STOCK FROM TREASURY UNDER 
+ EMPLOYEE STOCK PURCHASE PLAN, 7,028 SHARES                              (19,217)                       21,084                    
+        1,867 
+- --------------------------------------------- ----------- ---------- ------------- --------------- -------------- -------------- 
+   --------------- 
+ISSUANCE OF STOCK FROM TREASURY FOR 
+ EMPLOYMENT SERVICE AWARDS, 1,000 SHARES                                  (2,794)                        3,000                    
+          206 
+PAYMENTS ON RECEIVABLE FROM EMPLOYEE STOCK 
+ OWNERSHIP PLAN                                                                                                   257,143         
+      257,143 
+NET INCOME                                                                            1,630,685                                   
+    1,630,685 
+BALANCE, MARCH 31, 1993                         --         248,727    39,325,087    (44,392,896)    (1,467,517)   (1,008,571)     
+   (7,295,170) 
+- --------------------------------------------- ----------- ---------- ------------- --------------- -------------- -------------- 
+   --------------- 
+ISSUANCE OF COMMON STOCK WITH THE EXCHANGE OF 
+ $1,425,000 OF CONVERTIBLE SUBORDINATED 
+ DEBENTURES, 161,181 SHARES                                  4,836        14,359                                                  
+       19,195 
+ISSUANCE OF COMMON STOCK IN ACCORDANCE WITH 
+ CREDIT LINE AGREEMENT 300,000 SHARES                        9,000        34,750                                                  
+       43,750 
+ISSUANCE OF STOCK FROM TREASURY FOR 
+ EMPLOYMENT SERVICE AWARDS, 2,400 SHARES                                  (6,869)                        7,200                    
+          331 
+PAYMENTS ON RECEIVABLE FROM EMPLOYEE STOCK 
+ OWNERSHIP PLAN                                                                                                   257,143         
+      257,143 
+NET INCOME                                                                              300,969                                   
+      300,969 
+BALANCE, MARCH 31, 1994                         --         262,563    39,367,327    (44,091,927)    (1,460,317)   (751,428)       
+   (6,673,782) 
+- --------------------------------------------- ----------- ---------- ------------- --------------- -------------- -------------- 
+   --------------- 
+ISSUANCE OF COMMON STOCK WITH THE EXCHANGE OF 
+ $30,000 OF CONVERTIBLE SUBORDINATED 
+ DEBENTURES, 3,213 SHARES                                       96           639                                                  
+          735 
+============================================= =========== ========== ============= =============== ============== ============== 
+   =============== 
+ISSUANCE OF COMMON STOCK WITH THE EXCHANGE OF 
+ $4,636,500 OF PROMISSORY NOTES, 463,650 
+ SHARES                                                     13,910       101,673                                                  
+      115,583 
+ISSUANCE OF SERIES B PREFERRED STOCK WITH THE 
+ EXCHANGE OF $4,636,500 OF PROMISSORY NOTES, 
+ 189,875 SHARES                               189,875                  1,708,875                                                  
+    1,898,750 
+ISSUANCE OF STOCK FROM TREASURY FROM 
+ EMPLOYMENT SERVICE AWARDS, 600 SHARES                                    (1,614)                        1,800                    
+          186 
+PAYMENTS ON RECEIVABLE FROM EMPLOYEE STOCK 
+ OWNERSHIP PLAN                                                                                                   257,143         
+      257,143 
+DIVIDENDS ON SERIES B PREFERRED STOCK                                                   (34,903)                                  
+      (34,903) 
+NET INCOME                                                                              320,727                                   
+      320,727 
+BALANCE, MARCH 31, 1995                       $189,875    $276,569   $41,176,900   $(43,806,103)   $(1,458,517)   $(494,285)     
+   $(4,115,561) 
+</TABLE>
+
+The accompanying notes are an integral part of the consolidated financial 
+                                 statements. 
+
+                               22           
+<PAGE>
+                                XYVISION, INC. 
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+                  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+   Nature of Business: Xyvision, Inc. (the "Company"), which operates as a 
+single industry segment, designs and markets software for publishing, 
+document management, color design, and prepress applications. 
+
+   Basis of Presentation: The consolidated financial statements include the 
+accounts of Xyvision, Inc. and all its wholly-owned subsidiaries. All 
+significant intercompany accounts and transactions have been eliminated. 
+
+   Cash: Cash consists of bank deposits. 
+
+   Inventories: Inventories are stated at the lower of cost, determined under 
+the first-in, first-out method, or market. 
+
+   Property and Equipment: Property and equipment are stated at cost. Major 
+renewals and improvements are capitalized while repair and maintenance 
+charges are expensed when incurred. Depreciation and amortization are 
+computed on a straight-line basis over the useful lives of the assets, except 
+for leasehold improvements that are amortized over the lesser of the term of 
+the lease or the estimated useful life of the related asset. When assets are 
+sold or retired, their cost and related accumulated depreciation are removed 
+from the accounts. Any gain or loss is included in income. 
+
+   The following lives are used to provide for depreciation and amortization: 
+
+<TABLE>
+<CAPTION>
+<S>                                            <C>
+                                               LIVES IN YEARS 
+- ---------------------------------------------- ------------------ 
+Design, test, and manufacturing equipment      2-5 
+Office furniture and fixtures                  7 
+Leasehold improvements                         2-10 
+Purchased software                             5 
+Delivery and service vehicles                  3 
+</TABLE>
+
+   Revenue Recognition: Revenues from equipment, software, and supplies are 
+recognized upon shipment. Maintenance revenues are recognized over the 
+contractual periods and noncontractual maintenance services are recognized as 
+the services are provided. Revenues on major systems integration contracts 
+are recognized on the percentage-of-completion method. Losses, if any, on 
+such contracts are provided for at the time they become apparent. 
+
+   Software Development Costs: Costs for research, design, and development of 
+software for sale to others incurred prior to the achievement of 
+"technological feasibility" are charged to expense. The Company capitalizes 
+certain software costs in accordance with Statement of Financial Accounting 
+No. 86, "Accounting for costs of computer software to be sold, leased or 
+otherwise marketed". The Company amortizes these costs over periods not 
+exceeding three years beginning when the product is offered for sale. The 
+amortization recognized in a period is the greater of the straight line basis 
+or the proportion of current revenues to total anticipated revenues. 
+
+   Income Taxes: The Company follows the provisions of Financial Accounting 
+Standards Board Statement ("FAS") No. 109, "Accounting for Income Taxes." 
+Income tax expense is based on reported earnings before income taxes. 
+Deferred income taxes reflect the impact of temporary differences between the 
+amount of assets and liabilities recognized for financial statement purposes 
+and such amounts recognized for tax purposes. These deferred taxes are 
+measured by applying currently enacted tax rates. Applicable tax credits are 
+recognized as a reduction in the provision for income taxes in the year in 
+which they are available. 
+
+                               23           
+<PAGE>
+   Warranty Costs: The Company warrants the majority of its products for 90 
+days from the date of customer acceptance. Estimated warranty costs are 
+provided at the time of sale. Warranty costs incurred by the Company have not 
+been significant. 
+
+   Earnings (Loss) per Share: Earnings (loss) per share is computed based on 
+the weighted average number of common shares outstanding adjusted to include 
+the dilutive effect of stock options and warrants. 
+
+   Concentration of Credit Risk: Financial instruments that potentially 
+subject the Company to concentrations of credit risk consist principally of 
+trade receivables. 
+
+   Concentrations of credit risk with respect to trade receivables are due to 
+the number of customers operating primarily in the electronic publishing 
+industry, which includes commercial publishers, printers, and trade shops. 
+
+                              FUTURE OPERATIONS 
+
+   In fiscal 1992, the Company reduced its workforce and made other cost 
+reductions to meet the realities of: (i) becoming a software and services 
+oriented business and (ii) weak worldwide demand in its markets. In fiscal 
+1993, the Company continued to adjust expenses due to these same factors. 
+
+   At the beginning of fiscal 1992, the Company had outstanding $22,410,000 
+of Debentures. This was a significant amount of debt for the Company and 
+represented an annual cash interest payment obligation of $1,344,600. During 
+fiscal 1992, the Company began a program to restructure its financial 
+position, specifically, these Debentures. 
+
+   Since March 10, 1992, the Company has consummated restructuring 
+transactions with the holders of a total of $18,675,000 principal amount of 
+Debentures. Substantially all of these transactions involved the exchange of 
+outstanding Debentures for (i) an unsecured, unsubordinated promissory note 
+of Xyvision in a principal amount equal to 30% of the principal amount of the 
+Debentures delivered for exchange, bearing interest (payable at a maturity) 
+at 15% per year (compounded annually) and maturing 30 months from issuance 
+and (ii) 107,095 shares of common stock of Xyvision per $1,000,000 principal 
+amount of Debentures. As of June 28, 1995, a total of $3,735,000 principal 
+amount of Debentures remained outstanding. Of such Debentures, the Company 
+has indentified the holders of $1,960,000 principal amount, leaving 
+$1,775,000 principal amount of Debentures unidentified. 
+
+   During the course of its attempts to restructure the Debentures and 
+negotiate transactions with Debentureholders, the Company did not make the 
+interest payment due on the Debentures on May 5 of 1992, 1993, 1994 or 1995. 
+
+   Under the terms of the Indenture covering the Debentures, the Trustee or 
+the holders of not less than 25% of the outstanding principal amount of the 
+Debentures have the right to accelerate the maturity date of the remaining 
+Debentures. As of June 28, 1995, no such acceleration had occurred or been 
+threatened. The Company continues to negotiate, in good faith, with as many 
+of the remaining Debentureholders as possible. However, despite the progress 
+that has been made, the Company can still give no assurance about the outcome 
+of the Debenture conversion efforts and does not expect the matter to be 
+resolved in the near future. 
+
+   If the Company is unable to enter into exchange transactions with the 
+remaining Debentureholders, and such Debentureholders seek to pursue legal 
+remedies against the Company, the Company may have to seek protection under 
+applicable laws, including the Bankruptcy Code, while it develops, analyzes, 
+and completes alternative restructuring strategies. 
+
+   In addition, as of September 30, 1994 the Company had issued promissory 
+notes in an aggregate principal amount of $5,692,000 in connection with the 
+Debenture exchange transactions described above, the interest on which 
+accrued at a rate of 15% per year and totalled $2,344,000 payable at 
+maturity. Such 15% Promissory Notes in an aggregate principal amount of 
+$4,542,000 were to mature on September 30, 1994, and the remainder of these 
+15% Promissory Notes were to mature at various dates between September 30, 
+1994 and February 28, 1997. In order to relieve itself of the payment 
+obligations on the Promissory Notes, in fiscal 1995 the Company began a 
+program to restructure the Promissory Notes. During fiscal 1995, the Company 
+completed exchange transactions with holders of 15% Promissory Notes in an 
+aggregate principal amount of $4,637,000, in which, in exchange for the 
+cancellation of a 15% Promissory Note (including all rights to receive any 
+interest accrued thereon), the Company issued (i) a new Promissory Note that 
+will mature 30 months from the date of issuance and bears interest 
+
+                               24           
+<PAGE>
+at 4% per annum, (ii) one share of common stock for each $10.00 of principal 
+amount of 15% Promissory Note delivered and (iii) one share of Series B 
+Preferred Stock for each $10.00 of interest due on the 15% Promissory Note 
+delivered. The Series B Preferred Stock accrues a cumulative dividend in the 
+amount of $.40 per share per annum, whether or not declared, and has a 
+liquidation preference of $12.50 per share, plus any dividends declared or 
+accrued but unpaid. Each share of Series B Preferred Stock is convertible 
+into two shares of common stock, subject to adjustment for certain events as 
+defined in the Series B Preferred Stock terms. Additionally, holders of 
+outstanding shares of Series B Preferred Stock are entitled to voting rights 
+equivalent to the rights attributable to the whole shares of common stock 
+into which the Series B Preferred Stock is convertible. The exchange 
+transaction was completed assuming a fair value of $10 per share of Series B 
+Preferred Stock. An independent valuation of the Series B Preferred Stock was 
+completed which supported a fair value of $10.00 per share. The Company will 
+seek to restructure the remaining 15% Promissory Notes. 
+
+   On June 30, 1992, the Company obtained a $2,000,000 line of credit with a 
+current investor in the Company. The line, which is payable on demand, is 
+secured by substantially all of the assets of the Company and has been used 
+for working capital and general business purposes. Interest on the line of 
+credit is payable monthly. The Company issued 400,000 shares of common stock 
+and a common stock purchase warrant for 100,000 shares of common stock at an 
+exercise price of $.50 per share to the investor for no additional 
+consideration upon signing of the line of credit. In addition, as required by 
+the line of credit, from September 30, 1992 through June 30, 1993, the 
+Company granted the investor four additional common stock purchase warrants, 
+each covering 100,000 shares of common stock. On September 28, 1993, the 
+Company and the investor amended the line of credit. Under the terms of this 
+amendment: (i) the amount available under the line of credit was increased 
+from $2,000,000 to $2,500,000; (ii) the annual interest rate was reduced from 
+13% to 10%; and (iii) the term of the line of credit was extended from June 
+30, 1994 to June 30, 1995. In consideration of such changes, the Company: (i) 
+reduced the exercise price of 200,000 and 100,000 common stock purchase 
+warrants exercisable by the investor from $.50 and $.25 per share, 
+respectively, to $.09 per share (the fair market value of the common stock on 
+September 28, 1993); (ii) issued 200,000 shares of common stock and a warrant 
+to purchase 300,000 shares of common stock at an exercise price of $.09 per 
+share to the investor for no additional consideration; and (iii) agreed to 
+grant the investor up to eight additional warrants, each covering 125,000 
+shares of common stock at an exercise price at the lesser of the fair market 
+value of the common stock on the date of issue or $1.00 per share. 
+
+   On December 3, 1993, the Company and the investor entered into an 
+additional amendment to the line of credit. Under the terms of this 
+amendment, the amount available under the line of credit was increased to 
+$3,000,000. In consideration of this change, the Company: (i) issued 100,000 
+shares of common stock and a warrant to purchase 500,000 shares of common 
+stock at fair market value of the common stock on December 3, 1993 and (ii) 
+agreed to grant the investor up to seven additional common stock purchase 
+warrants between December 31, 1993 and June 30, 1995, each covering 200,000 
+shares of common stock at an exercise price at the lesser of the fair market 
+value of the common stock on the date of grant or $1.00 per share (these 
+warrants are in lieu of the last seven of the warrants referred to in clause 
+(iii) of the preceding paragraph). As of March 31, 1995, the Company had 
+$1,900,000 available under the amended line of credit. As of June 28, 1995, 
+the Company had $1,000,000 available under the amended line of credit. The 
+line of credit is scheduled to expire on June 30, 1995, although the Company 
+and this investor are currently engaged in negotiations to extend the credit 
+line. 
+
+   The Company anticipates that its cash requirements for the first part of 
+fiscal 1995 will be satisfied from its present cash balances, cash flow from 
+existing operations, and its credit line, assuming the extension of the 
+credit line and the continued forbearance by the Debentureholders. Despite 
+the progress made during the past fiscal year, the Company can give no 
+assurance on the outcome of the Debenture restructuring efforts and does not 
+expect the matter to be resolved in the immediate future. Moreover, no 
+assurance can be given as to the ability of the Company to satisfy or 
+otherwise discharge its payment obligations under the promissory notes issued 
+in connection with the Debenture restructuring. The above uncertainties raise 
+substantial doubt about the Company's ability to continue as a going concern. 
+The financial statements do not include any adjustments relating to the 
+recovery and classifications of recorded asset amounts or the amounts and 
+classifications of liabilities that might be necessary should the Company be 
+unable to continue as a going concern. 
+
+   The Company's long term liquidity needs cannot reasonably be determined at 
+this time principally because these needs are dependent, in a large part, 
+upon the outcome of the Company's ongoing attempts to restructure the 
+remaining outstanding Debentures and the ability of the Company to obtain 
+financing to repay or otherwise restructure the remaining outstanding 15% 
+Promissory Notes. 
+
+                               25           
+<PAGE>
+   The Company believes that its current strategy, as previously described, 
+will continue to significantly contribute to the revival of the Company. 
+During fiscal 1996 , the Company will focus more emphasis on marketing and 
+enhancing its new technologies, and broadening geographic distribution. While 
+the Company remains confident about its future, it can give no assurance 
+regarding the ultimate success of its strategy. 
+
+                             ACCOUNTS RECEIVABLE 
+
+   Trade receivables do not contain any material amounts collectible over a 
+period in excess of one year. Retainage consists of receivables billed under 
+retainage provisions of contracts and collectibility is not expected to 
+extend over a period of one year. 
+
+INVENTORIES 
+
+   Inventory consists primarily of finished goods from third party vendors. 
+
+                            PROPERTY AND EQUIPMENT 
+
+   Property and equipment consists of: 
+
+<TABLE>
+<CAPTION>
+<S>                                       <C>            <C>
+                                          March 31, 1995        March 31, 1994 
+Design, test, and manufacturing equipment $ 4,864,898    $ 11,876,517 
+Office furniture and fixtures               1,197,041       1,194,265 
+Leasehold improvements                      1,209,948       1,204,929 
+Purchased software                            316,974         654,721 
+Delivery and service vehicles                   9,333         148,434 
+                                            7,598,194      15,078,866 
+Accumulated depreciation and amortization  (6,380,395)    (13,290,966)        
+                                          $ 1,217,799    $  1,787,900 
+</TABLE>
+
+   Depreciation and amortization expense for property and equipment for 
+fiscal 1995, 1994, and 1993 was $919,000, $1,301,000, and $1,759,000, 
+respectively. 
+
+                                 OTHER ASSETS 
+
+   Other assets consists of the following, which are presented net of any 
+accumulated amortization: 
+
+<TABLE>
+<CAPTION>
+<S>                        <C>          <C>
+                            MARCH 31,    MARCH 31, 
+                                1995       1994 
+                           ------------ ------------ 
+Capitalized software costs $2,214,966   $1,944,894 
+Debenture issuance costs       57,448       67,391 
+Other                         249,745      192,602 
+                           $2,522,159   $2,204,887 
+</TABLE>
+
+   The Company continually evaluates the future benefit of its capitalized 
+software costs. During fiscal 1993, the Company determined that certain costs 
+exceeded their net realizable value due to new software technologies 
+developed and released by the Company. Accordingly, the Company wrote down 
+these capitalized software costs by $1,610,000 in the third quarter of fiscal 
+1993. In fiscal 1994, the Company retired $9,713,000 of fully amortized 
+capitalized software costs. Capitalized software costs amortized and charged 
+to expense were $1,143,000, $752,000, and $1,024,000 in fiscal 1995, 1994, 
+and 1993, respectively. Capitalized software costs are presented net of 
+accumulated amortization of $1,937,000 and $794,000 at March 31, 1995 and 
+1994, respectively. 
+
+   Debenture issuance costs amortized and charged to expense were $10,000, 
+$11,000, and $31,000, in fiscal 1995, 1994, and 1993 , respectively. In 
+addition, as a result of the exchange of Debentures in fiscal 1994 and 1993, 
+
+                               26           
+<PAGE>
+related Debenture issuance costs of $27,000 and $217,000, respectively were 
+written off as a reduction to the extraordinary gain recognized in each 
+fiscal year 1994 and 1993, respectively. The accumulated amortization of the 
+Debenture issuance costs was $727,000 and $717,000 at March 31, 1995 and 
+1994, respectively. (See Note 9.) 
+
+                          OTHER CURRENT LIABILITIES 
+
+   Other current liabilities consists of: 
+
+<TABLE>
+<CAPTION>
+<S>                            <C>          <C>
+                                MARCH 31,    MARCH 31, 
+                                    1995       1994 
+- ------------------------------ ------------ ------------ 
+Deferred service revenue       $1,107,493   $1,747,482 
+Interest payable on debentures    876,277      660,441 
+Customer deposits                  34,000       31,000 
+Other                             638,387      790,470 
+                               $2,656,157   $3,229,393 
+</TABLE>
+
+                         NOTE PAYABLE TO SHAREHOLDER 
+
+   On June 30, 1992, the Company obtained a $2,000,000 line of credit with a 
+current investor in the Company. The line, which is payable on demand, is 
+secured by substantially all of the assets of the Company and has been used 
+for working capital and general business purposes. Interest on the line of 
+credit is payable monthly. The Company issued 400,000 shares of common stock 
+and a common stock purchase warrant for 100,000 shares of common stock at an 
+exercise price of $.50 per share to the investor for no additional 
+consideration upon signing of the line of credit. In addition, as required by 
+the line of credit, from September 30, 1992 through June 30, 1993, the 
+Company granted the investor four additional common stock purchase warrants, 
+each covering 100,000 shares of common stock. On September 28, 1993, the 
+Company and the investor amended the line of credit. Under the terms of this 
+amendment: (i) the amount available under the line of credit was increased 
+from $2,000,000 to $2,500,000; (ii) the annual interest rate was reduced from 
+13% to 10%; and (iii) the term of the line of credit was extended from June 
+30, 1994 to June 30, 1995. In consideration of such changes, the Company: (i) 
+reduced the exercise price of 200,000 and 100,000 common stock purchase 
+warrants exercisable by the investor from $.50 and $.25 per share, 
+respectively, to $.09 per share (the fair market value of the common stock on 
+September 28, 1993); (ii) issued 200,000 shares of common stock and a warrant 
+to purchase 300,000 shares of common stock at an exercise price of $.09 per 
+share to the investor for no additional consideration; and (iii) agreed to 
+grant the investor up to eight additional warrants, each covering 125,000 
+shares of common stock at an exercise price at the lesser of the fair market 
+value of the common stock on the date of issue or $1.00 per share. 
+
+   On December 3, 1993, the Company and the investor entered into an 
+additional amendment to the line of credit. Under the terms of this 
+amendment, the amount available under the line of credit was increased to 
+$3,000,000. In consideration of this change, the Company: (i) issued 100,000 
+shares of common stock and a warrant to purchase 500,000 shares of common 
+stock at fair market value of the common stock on December 3, 1993 and (ii) 
+agreed to grant the investor up to seven additional common stock purchase 
+warrants between December 31, 1993 and June 30, 1995, each covering 200,000 
+shares of common stock at an exercise price at the lesser of the fair market 
+value of the common stock on the date of grant or $1.00 per share (these 
+warrants are in lieu of the last seven of the warrants referred to in clause 
+(iii) of the preceding paragraph). As of March 31, 1995, the Company had 
+$1,900,000 available under the amended line of credit. As of June 28, 1995, 
+the Company had $1,000,000 available under the amended line of credit. The 
+line of credit is scheduled to expire on June 30, 1995, although the Company 
+and this investor are currently engaged in negotiations to extend the credit 
+line. 
+
+                               27           
+<PAGE>
+                                LONG-TERM DEBT 
+
+   Long-term debt consists of: 
+
+<TABLE>
+<CAPTION>
+<S>                                                  <C>          <C>
+                                                       Fiscal        Fiscal 
+                                                        1995          1994 
+6% Convertible Subordinated Debentures               $3,735,000   $ 3,765,000 
+15% promissory notes, due fiscal 1995, 1996, and 
+ 1997                                                 1,459,661     8,044,765 
+4% promissory notes, due fiscal 1998                  4,636,500            -- 
+                                                      9,831,161    11,809,765 
+Less: Current portion of long-term debt               5,175,906    10,103,793 
+                                                     $4,655,255   $ 1,705,972 
+</TABLE>
+
+   In May 1987, the Company issued $25,000,000 of 6% Convertible Subordinated 
+Debentures (the "Debentures") convertible into common stock at a conversion 
+price of $22.50 per share. Interest on the Debentures is payable annually (on 
+May 5th) and the Debentures may be called by the Company under certain 
+conditions. At the beginning of fiscal 1992, the Company had outstanding 
+$22,410,000 of these Debentures. This was a significant amount of debt for 
+the Company and represented an annual cash interest payment obligation of 
+$1,344,600. During fiscal 1992, the Company began a program to restructure 
+its financial position, specifically, these Debentures. 
+
+   Since March 10, 1992, the Company has consummated restructuring 
+transactions with the holders of a total of $18,675,000 principal amount of 
+Debentures. Substantially all of these transactions involved the exchange of 
+outstanding Debentures for (i) an unsecured, unsubordinated promissory note 
+of Xyvision in a principal amount equal to 30% of the principal amount of the 
+Debentures delivered for exchange, bearing interest (payable at maturity) at 
+15% per year (compounded annually) and maturing 30 months from issuance and 
+(ii) 107,095 shares of common stock of Xyvision per $1,000,000 principal 
+amount of Debentures. As of June 28, 1995, a total of $3,735,000 principal 
+amount of Debentures remained outstanding. Of such Debentures, the Company 
+has identified the holders of $1,960,000 principal amount, leaving $1,775,000 
+principal amount of Debentures unidentified. 
+
+   During the course of its attempts to restructure the Debentures and 
+negotiate transactions with Debentureholders, the Company did not make the 
+interest payment due on the Debentures on May 5 of 1992, 1993, 1994 or 1995. 
+
+   Under the terms of the Indenture covering the Debentures, the Trustee or 
+the holders of not less than 25% of the outstanding principal amount of the 
+debentures have the right to accelerate the maturity date of the remaining 
+Debentures. As of June 28, 1995, no such acceleration had occurred or been 
+threatened. 
+
+   The Company continues to negotiate, in good faith, with as many of the 
+remaining Debentureholders as possible. However, despite the progress that 
+has been made, the Company can still give no assurance about the outcome of 
+the Debenture conversion efforts and does not expect the matter to be 
+resolved in the near future. 
+
+   If the Company is unable to enter into exchange transactions with the 
+remaining Debentureholders, and such Debentureholders seek to pursue legal 
+remedies against the Company, the Company may have to seek protection under 
+applicable laws, including the Bankruptcy Code, while it develops, analyzes 
+and completes alternative restructuring strategies. 
+
+   In addition, as of September 30, 1994 the Company had issued promissory 
+notes in an aggregate principal amount of $5,692,000 in connection with the 
+Debenture exchange transactions described above, the interest on which 
+accrues at a rate of 15% per year and totalled $2,344,000 payable at 
+maturity. Such 15% Promissory Notes in an aggregate principal amount of 
+$4,542,000 were to mature on September 30, 1994, and the remainder of these 
+15% Promissory Notes were to mature at various dates between September 30, 
+1994 and February 28 1997. In order to relieve itself of the payment 
+obligations on the Promissory Notes, in fiscal 1995 the Company began a 
+program to restructure the Promissory Notes. During fiscal 1995, the Company 
+completed exchange transactions with holders of 15% Promissory Notes in an 
+aggregate principal amount of $4,637,000, in exchange for the cancellation of 
+a 15% Promissory Note (including all rights to receive any interest accrued 
+thereon), the Company issued (i) a new Promissory Note that will mature 30 
+months from the date of issuance and bears interest at 4% per annum, (ii) one 
+share of common stock for each $10.00 of principal 
+
+                               28           
+<PAGE>
+amount of 15% Promissory Note delivered and (iii) one share of Series B 
+Preferred Stock for each $10.00 of interest due on the 15% Promissory Note 
+delivered. The Series B Preferred Stock accrues a cumulative dividend in the 
+amount of $.40 per share per annum, whether or not declared, and has a 
+liquidation preference of $12.50 per share, plus any dividends declared or 
+accrued but unpaid. Each share of Series B Preferred Stock is convertible 
+into two shares of common stock, subject to adjustment for certain events as 
+defined in the Series B Preferred Stock terms. Additionally, holders of 
+outstanding shares of Series B Preferred Stock are entitled to voting rights 
+equivalent to the rights attributable to the whole shares of common stock 
+into which the Series B Preferred Stock is convertible. The exchange 
+transaction was completed assuming a fair value of $10 per share of Series B 
+Preferred Stock. An independent valuation of the Series B Preferred Stock was 
+completed which supported a fair value of $10.00 per share. The Company will 
+seek to restructure the remaining 15% Promissory Notes. 
+Interest expense amounted to $528,000, $573,000 and $904,000, in fiscal 1995, 
+1994 and 1993, respectively. 
+
+                                 INCOME TAXES 
+
+   For fiscal years 1995, 1994 and 1993 the Company was not required to 
+provide for income taxes and had no effective income tax rate due to the 
+utilization of net operating loss carryforwards. Payments of alternative 
+minimum taxes amounted to $14,000, $46,000, and $12,000 in fiscal 1995, 1994, 
+and 1993, respectively. 
+
+   As of March 31, 1995, the Company had net operating loss carryforwards of 
+$44,090,000 expiring at various dates through fiscal 2006, investment tax 
+credits of $150,000 expiring at various dates through fiscal 2002, and 
+research and development credits of $1,439,000 expiring at various dates 
+through fiscal 2007. These items are available to reduce future income taxes 
+payable. 
+
+   Additionally, the Company has approximately $2,500,000 of net operating 
+loss carryforwards for regular federal income tax and alternative minimum tax 
+purposes from the acquisition of Contex Graphics Systems, Inc. These acquired 
+net operating loss carryforwards, which expire in the year 2001, have 
+limitations on their use pursuant to the United States Internal Revenue Code 
+and are available only to offset income from that subsidiary. 
+
+   As of March 31, 1995, 1994, and 1993 the Company's deferred tax assets of 
+approximately $18,343,000, $18,440,000, and $19,303,000, respectively, 
+consisted primarily of its net operating loss carryforwards. Management has 
+assigned a valuation allowance to fully offset the future tax benefits of 
+these deferred tax assets. 
+
+   Under Federal tax laws, certain changes in ownership of the Company, which 
+may not be within the Company's control, may restrict future utilization of 
+these carryforwards. 
+
+                       STOCK OPTION AND PURCHASE PLANS 
+
+   Stock Option Plans 
+
+   Under the Company's 1982 Stock Option Plan, options to purchase 1,647,057 
+shares of the Company's Common Stock may be granted to key employees, 
+consultants, and non-employee directors. Incentive stock options are granted 
+at a price equal to the fair market value per share on the date of the grant 
+and non-qualified stock options may be granted at not less than 85% of the 
+fair market value per share on the date of the grant. During fiscal 1990, the 
+Company increased the options available under the Plan to the sum of: (i) 
+1,450,000; (ii) the 196,971 shares held by the Company as treasury shares as 
+of April 28, 1988; and (iii) any shares issued to an optionee upon the 
+exercise of a stock option but repurchased by the Company, under stock 
+restriction agreements then in effect. Options granted prior to January 1, 
+1987 are exercisable immediately, but the shares issued upon exercise of the 
+options are subject to repurchase by the Company at the original exercise 
+price in the event of the option holder's termination of employment. This 
+repurchase right generally terminates as to 20% of the shares annually for 
+five years from the date of the option grant. Options granted on or after 
+January 1, 1987 generally become exercisable at a rate of 20% per year over a 
+five-year period with any shares issued upon exercise not being subject to 
+repurchase by the Company. 
+
+                               29           
+<PAGE>
+The 1982 Stock Option Plan expired on May 5, 1992. No options were granted 
+under the 1982 Stock Option Plan after March 31, 1992. At the Company's June 
+23, 1992 Board of Directors' Meeting, the Board approved a 1992 Stock Option 
+Plan and an increase in the authorized number of shares of the Company's 
+Common Stock from 10,000,000 to 15,000,000 shares. The terms of the 1992 
+Stock Option Plan are essentially the same as the 1982 Stock Option Plan. At 
+this time the maximum number of options that could be granted under the 1992 
+Stock Option Plan was 1,000,000 shares. The 1992 Stock Option Plan and the 
+increase in authorized shares were both approved by the Company's 
+shareholders at the Company's 1992 Annual Meeting of Stockholders held on 
+October 21, 1992. 
+The Company held its 1994 Annual Meeting of Stockholders on September 22, 
+1994. At this meeting, the stockholders of the Company approved an amendment 
+to the Company's 1992 Stock Option Plan. The amendment increased the number 
+of shares for which options may be granted from 1,000,000 to 2,000,000. 
+
+   The following sets forth certain information relating to the 1982 Stock 
+Option Plan and the 1992 Stock Option Plan for the years ended March 31,1993, 
+1994, and 1995: 
+
+<TABLE>
+<CAPTION>
+<S>                                   <C>         <C>
+                                         SHARES         PRICE 
+- ------------------------------------- ----------- --------------- 
+Options outstanding at March 31, 1992   851,251   $0.38 -$13.75 
+   Granted                              812,636         0.31 
+   Cancelled                           (155,615)  0.31 -13.75 
+   Exercised                                 --          -- 
+Options outstanding at March 31, 1993 1,508,272   0.31 -13.75 
+   Granted                               15,000         0.19 
+   Cancelled                           (496,522)  0.19 - 6.75 
+   Exercised                                 --          -- 
+Options outstanding at March 31, 1994 1,026,750   0.19 -13.75 
+   Granted                              297,500   0.19 - 0.53 
+   Cancelled                            (98,633)  0.31 - 0.38 
+   Exercised                                 --          -- 
+Options outstanding at March 31, 1995 1,225,617   $0.19 -$13.75 
+</TABLE>
+
+   Options were exercisable for 745,426 and 729,095 shares of Common Stock at 
+March 31, 1994 and 1995, respectively. At March 31, 1994 and 1995, options 
+for the purchase of 331,794 and 1,074,594 shares of Common Stock, 
+respectively, were available for future grants under the 1992 Stock Option 
+Plan. At March 31, 1995, there were 2,300,211 shares of Common Stock reserved 
+for issuance under these Plans. 
+
+   On August 10, 1989 the Director Stock Option Plan was approved by the 
+stockholders. Under this Plan, options to purchase 150,000 shares of the 
+Company's Common Stock were available for grant to outside directors of the 
+Company whose continued services are considered essential to the Company's 
+future progress. These non- qualified options were granted at the last 
+reported sale price per share of the Company's common stock on the date of 
+grant. Each option becomes exercisable on a cumulative basis as follows: 20% 
+may be exercised on the date of grant; and the remaining shares may be 
+exercised in annual installments of 20% over the remaining four years. Each 
+option becomes immediately exercisable if a change in control of the Company 
+occurs or if the optionee ceases to serve as a director due to death, 
+disability or retirement. On August 10, 1989, the approval date of the Plan, 
+the Company granted to each of the five then current outside directors 
+non-qualified stock options for 20,000 shares at a price of $4.75 per share. 
+
+   On October 21, 1992, the 1992 Director Stock Option Plan was approved by 
+stockholders of the Company. Under this Plan, options to purchase up to a 
+total of 150,000 shares of Common Stock may be granted to outside directors 
+of the Company. On March 31, 1993, an option for 20,000 shares of Common 
+Stock at an exercise price of $0.25 per share (the fair market value of the 
+Common Stock on the date of grant) was granted to each of the four outside 
+directors of the Company. Each outside director who is initially elected to 
+the Board of Directors after March 31, 1993 will also be granted an option 
+for 20,000 shares of Common Stock, at an exercise price equal to the fair 
+market value of the Common Stock on the date of grant. Each option becomes 
+exercisable in five equal annual installments beginning on the date of grant, 
+provided that all outstanding 
+
+                               30           
+<PAGE>
+options will become exercisable in full in the event of a "change in control" 
+of the Company (as defined in the Plan) which is not approved by the Board of 
+Directors. In general, an optionholder may exercise his option, to the extent 
+vested, only while he is a director of the Company and for up to three months 
+thereafter. In connection with the adoption of the 1992 Director Stock Option 
+Plan, the Company terminated the 1989 Director Stock Option Plan. In 
+addition, each of the four outside directors who received options under the 
+1992 Director Stock Option Plan on March 31, 1993 surrendered for 
+cancellation the option held by him under the 1989 Director Stock Option 
+Plan. 
+On January 8, 1990, the Board of Directors granted options to purchase 42,500 
+shares of the Company's Common Stock to former officers of the Company. These 
+non-qualified stock options were granted outside the Company's 1982 Stock 
+Option Plan at an exercise price of $2.50 per share and are immediately 
+exercisable. At March 31, 1995, there were 42,500 shares reserved for 
+issuance for these options. 
+
+   Stock Purchase Plan 
+
+   In 1990, the Board of Directors adopted and the stockholders approved the 
+Company's 1990 Employee Stock Purchase Plan (the "1990 Purchase Plan"). The 
+1990 Purchase Plan covers an aggregate of up to 420,000 shares of Common 
+Stock to be issued and sold to participating employees of the Company through 
+a series of six overlapping one-year offerings, commencing six months apart, 
+beginning August 1, 1990 and ending January 31, 1994. The 1990 Purchase Plan 
+was administered by the Compensation Committee and was intended to qualify as 
+an "employee stock purchase plan" within the meaning of Section 423 of the 
+Internal Revenue Code. All employees who have been employed by the Company 
+(or a qualifying subsidiary) for 30 days on the date an offering under the 
+1990 Purchase Plan commences and who ordinarily work more than 20 hours per 
+week and more than five months per year were eligible to participate in that 
+offering. The price at which the shares were offered is 85% of the fair 
+market value of the Common Stock on the date such offering commences or the 
+date such offering terminates, which ever is lower. Each employee could elect 
+to have up to 10% of his base pay withheld and applied toward the purchase of 
+shares in such offering. The 1990 Purchase Plan terminated January 31, 1994. 
+
+                               RIGHTS AGREEMENT 
+
+   In October 1988, the Company entered into a Rights Agreement and declared 
+a dividend distribution of one Right for each share of the Common Stock of 
+the Company outstanding on October 26, 1988. Each Right entitles the holder 
+to purchase from the Company 1/100 of a share of $1.00 par value Series A 
+Junior Participating Preferred Stock at an exercise price of $35.00 per 
+Right, subject to adjustment. The Rights will not be exercisable or separable 
+from the Common Stock until ten business days after a party acquires 
+beneficial ownership of 20% or more of the Company's Common Stock or 
+announces a tender offer for at least 30% of its Common Stock outstanding. 
+Except for Saltzman Partners' and Tudor Trust's acquisition of 20% of the 
+Company's Common Stock, which have been exempted by the Board of Directors 
+from the Rights Agreement, the Company is not aware of the occurrence of any 
+such events. The issuance of the Rights does not dilute ownership or affect 
+reported earnings per share. 
+
+PROFIT-SHARING AND SAVINGS PLANS 
+
+   Employee Stock Ownership Plan 
+
+   In fiscal 1990, the Company created the Xyvision, Inc. Employee Stock 
+Ownership Plan and Trust (the "Trust") and entered into a Term Loan Agreement 
+with the Trust whereby the Trust borrowed $1,800,000 from the Company and 
+paid the proceeds to the Company to purchase 400,000 shares of the Company's 
+Common Stock at $4.50 per share. The loan, with an interest rate of prime 
+plus one-half of one percent, is to be repaid over seven years in equal 
+annual installments of approximately $257,000. The Company is required to 
+make equal annual contributions to the Trust in the amounts of the Trust's 
+annual principal installments. The Company also makes monthly contributions 
+to the Trust which uses such funds to pay monthly interest installments to 
+the Company. The Plan covers substantially all employees and, as principal 
+payments are made on the term loan, shares held by the Trust are allocated to 
+eligible employees. Payments of approximately $257,000 were made to the Trust 
+in each of the fiscal years 1995, 1994 and 1993, respectively, which the 
+Trust applied against its loan to the Company. These payments caused an 
+allocation to the eligible employees of 57,143 shares of the Company's Common 
+Stock in each of fiscal 1995, 1994, and 1993. 
+
+                               31           
+<PAGE>
+   The Company charged $257,000 per year to operations for contributions to 
+this Trust in fiscal 1995, 1994 and 1993. 
+
+   Savings Plan 
+
+   The Company has a 401(k) Savings Plan under which employees may 
+voluntarily defer a portion of their compensation and the Company matches a 
+portion of the employee deferral. All employees employed within the United 
+States with at least one year of continuous service are eligible for the 
+Plan. Company contributions vest 100% immediately. The Company's 
+contributions to this Plan and charged to expense amounted to $58,000, 
+$56,000, and $56,000 in fiscal 1995, 1994 and 1993, respectively. 
+
+COMMITMENTS AND CONTINGENCIES 
+
+   Leases 
+
+   At March 31, 1995, the Company was committed under operating leases, 
+principally for building and office space. Certain leases require the payment 
+of expenses under escalation clauses. The major facilities leases are for ten 
+year terms and provide renewal options for additional periods up to ten 
+years. 
+
+   Future minimum lease payments under all noncancelable leases as of March 
+31, 1995 are as follows: 
+
+<TABLE>
+<CAPTION>
+<S>           <C>
+ FISCAL YEAR 
+- ------------- 
+
+ 1996         $1,190,000 
+1997             133,000 
+1998              95,000 
+1999              95,000 
+2000              95,000 
+Thereafter       418,000 
+  Total       $2,026,000 
+              ============ 
+</TABLE>
+
+Rental expense under all operating leases was approximately $1,185,000, 
+$1,221,000, and $1,037,000 in fiscal 1995, 1994, and 1993, respectively. 
+
+   Employment Agreements 
+
+   The Company has entered into employment agreements with certain of its 
+executive officers which provide for the payment to these executives of up to 
+twelve months of compensation and the continuation of certain benefits if 
+there is a change in control of the Company (as defined) or if employment is 
+terminated without cause. The maximum contingent liability, at March 31, 
+1995, under these agreements was approximately $400,000. 
+
+   The Company has also instituted a severance benefit plan which covers 
+substantially all employees. The agreement stipulates, in general, that in 
+the event of a change in control of the Company (as defined), any employee 
+terminated within twelve months of such event, without cause, would be 
+entitled to receive a cash payment equal to his annual base compensation. The 
+Board of Directors may declare by resolution that an event otherwise 
+constituting a change in control per this agreement will not be considered a 
+change in control. Therefore, it can not be reasonably estimated what the 
+potential liability to the Company would be under this agreement. 
+
+   Contingencies 
+
+   The Company is party to several pending legal proceedings and claims. 
+Although the outcome of such proceedings and claims cannot be determined with 
+certainty, the Company's counsel and management are of the opinion that the 
+final outcome should not have a material adverse effect on the Company's 
+operations or financial position. 
+
+                       MAJOR CUSTOMERS AND EXPORT SALES 
+
+   No single customer accounted for more than 10% of revenues in fiscal 1995, 
+1994 or 1993. 
+
+                               32           
+<PAGE>
+   Export sales to unrelated customers outside of the United States for 
+fiscal 1995, 1994 and 1993 were as follows: 
+
+<TABLE>
+<CAPTION>
+<S>            <C>           <C>           <C>
+                   FISCAL 1995 FISCAL 1994     FISCAL 1993 
+- -------------- ------------- ------------- ------------- 
+
+ Western 
+ Europe        $1,221,000    $1,319,000    $  691,000 
+Asia            1,043,000       396,000     1,024,000 
+Australia         254,000       219,000        54,000 
+ Total         $2,518,000    $1,934,000    $1,769,000 
+</TABLE>
+
+                               RELATED PARTIES 
+
+   The Company has an agreement to pay consulting fees, which amounted to 
+$148,000, $162,000, and $320,000 in fiscal 1995, 1994 and 1993, respectively, 
+to T.H. Conway and Associates. Mr. Conway, Chief Executive Officer and 
+Director of the Company, is the managing director of this firm. 
+
+                               32           
+<PAGE>
+                                   PART III 
+
+   Changes in and Disagreements with Accountants on Accounting and Financial 
+Disclosure. 
+
+   Not Applicable. 
+
+   Directors and Executive Officers of the Registrant 
+
+   Information required by this item (i) will be included in the table under 
+the heading "Election of Directors" in the Company's definitive Proxy 
+Statement for its 1995 Annual Meeting of Stockholders (the "1995 Proxy 
+Statement"), which table is incorporated herein by reference, and (ii) is 
+included in Part I of this Annual Report on Form 10-K under the heading 
+"Executive Officers and Management of the Company." 
+
+   Executive Compensation 
+
+   Information required by this item will be included under the headings 
+"Election of Directors -- Director Compensation; -- Executive Compensation"; 
+and "Agreements with Senior Executives" in the 1995 Proxy Statement, which 
+sections are incorporated herein by reference. 
+
+   Security Ownership of Certain Beneficial Owners and Management 
+
+   Information required by this item will be included under the heading 
+"Beneficial Ownership of Common Stock" in the 1995 Proxy Statement, which 
+section is incorporated herein by reference. 
+
+   Certain Relationships and Related Transactions 
+
+   Information required by this item will be included under the heading 
+"Certain Transactions" and "Compensation Committee Interlocks and Insider 
+Participation" in the 1995 Proxy Statement, which section is incorporated 
+herein by reference. 
+
+                               33           
+<PAGE>
+                                   PART IV 
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K 
+
+   (1) Financial Statements 
+
+   The following financial statements of Xyvision are included in Part II, 
+Item 8. 
+
+                                                                    PAGE(S) IN 
+                                                                     FORM 10-K 
+Report of Independent Accountants  .................................... 15 
+Consolidated Balance Sheets--March 31, 1995 and 1994  ................... 16 
+Consolidated Statements of Operations 
+ for the years ended March 31, 1995, 1994 and 1993  ..................... 17 
+Consolidated Statements of Cash Flows 
+ for the years ended March 31, 1995, 1994 and 1993...................... 18 
+Consolidated Statements of Changes in Stockholders' Deficit 
+ for the years ended March 31, 1993, 1994 and 1995  ..................... 19 
+Notes to Consolidated Financial Statements  ......................... 20-30 
+
+   (2) Financial Statement Schedules 
+
+   Financial statement schedules have been omitted because they are either 
+not required, not applicable or because the required information has been 
+included elsewhere in the financial statements or notes thereto. 
+
+   Reports on Forms 8-K 
+
+   No reports on Form 8-K were filed for the last quarter of the Company's 
+fiscal year ended March 31, 1995. 
+
+   Exhibits 
+
+   The Exhibit Index appearing at the end of this document and immediately 
+preceding the exhibits is incorporated by reference herein. 
+
+                               34           
+<PAGE>
+                                  SIGNATURES 
+
+    PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES 
+EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED 
+         ON ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED. 
+
+XYVISION, INC. 
+                                    DATE: 
+                                JUNE 28, 1995 
+                             /S/ DANIEL M. CLARKE 
+- ----------------------------------------------------------------------------- 
+                               DANIEL M. CLARKE 
+                    PRESIDENT AND CHIEF OPERATING OFFICER 
+
+  PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS 
+    REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE 
+           REGISTRANT AND IN THE CAPACITIES ON THE DATE INDICATED. 
+
+<TABLE>
+<CAPTION>
+<S>                          <C>                               <C>
+ Signature                   Title                               Date 
+                             President and Chief Operating 
+/s/ Daniel M. Clarke Daniel  Officer (principal executive 
+ M. Clarke                   officer) 
+                             Treasurer and Secretary 
+/s/ Eugene P. Seneta Eugene  (principal financial and 
+ P. Seneta                   accounting officer) 
+/s/ Thomas H. Conway Thomas 
+ H. Conway                   Director                           June 28, 1995 
+/s/ Leland S. Kollmorgen 
+ Leland S. Kollmorgen        Director 
+/s/ James McKenney James 
+ McKenney                    Director 
+/s/ James S. Saltzman James 
+ S. Saltzman                 Director 
+</TABLE>
+
+                               35           
+<PAGE>
+                                XYVISION, INC. 
+                        COMMISSION FILE NUMBER 0-14747 
+                                  FORM 10-K 
+                   FOR THE FISCAL YEAR ENDED MARCH 31, 1995 
+                              INDEX TO EXHIBITS 
+
+<TABLE>
+<CAPTION>
+<S>                 <C>                                                                                      <C>
+ Exhibit Number                                            Description                                       Page 
+
+- ----------------------------------------------------------------------------------------------------------------- 
+*3.1 -              Restated Certificate of Incorporation of the Company 
++++3.2 -            Certificate of Amendment No. 6 Certificate of Incorporation of the Company 
++++3.3 -            Certificate of Amendment to Certificate of Incorporation 
+                    Certificate of Designation to Certificate of Incorporation of the Company designating 
++++3.4 -            Series B Preferred Stock 
+******3.5 -         Amended and Restated By-laws of the Company as amended 
+                    Indenture dated as of May 5, 1987 between the Company and Bankers Trust Company, as 
+                    Trustee, regarding the Company's $25,000,000 principal amount of 6% Convertible 
+***4.1 -            Subordinated Debentures Due 2002 
+                    Rights Agreement, dated as of October 19, 1988, between Xyvision, Inc. and the 
+****4.2 -           Connecticut Bank and Trust Company, N.A. 
+                    Amendment No. 1, dated January 8, 1992, to Rights Agreement between Xyvision, Inc. and 
+++4.3 -             Mellon Bank, N.A. (formerly Connecticut Bank and Trust Company, N.A.) 
+0++10.1 -           1992 Stock Option Plan 
+                    Registration Agreement among the Company and certain holders of Common and Preferred 
+* 10.2 -            Stock of the Company dated as of May 24, 1983, as amended 
+                    Lease dated April 3, 1985 for the Company's premises at 101 Edgewater Drive, Wakefield, 
+** 10.3 -           Massachusetts, between Edward Callan and the Company (the "Edgewater Lease") 
+X 10.4 -            Form of Lease Amendment No. 2 to the Edgewater Lease 
+                    Secured Advance Facility Loan Agreement between the Company and Tudor Trust dated July 
+X 10.5 -            2, 1992, as amended to date 
+0****** 10.6 -      Severence Program for Executive Committee Corporate Officers 
+0****** 10.7 -      Employee Severence Benefit Program 
+0******10.8 -       Employee Stock Ownership Plan and Trust 
+0*****10.9 -        1992 Director Stock Option Plan 
+                    Lease Termination Agreement dated April 25, 1991 for the Company's premises at 5 
++ 10.10 -           Centennial Park, Peabody, Massachusetts, between the Company and JMS Realty Trust 
+++10.11 -           Exchange Agreement dated June 23, 1992 between the Company and Saltzman Partners 
+XX10.12 -           Form of Exchange Agreement for 15% Promissory Notes 
+O10.13 -            Letter Agreement effective October 1, 1993 betwen the Company and Thomas H. Conway 
++ 21.1 -            List of Subsidiaries 
+23.1 -              Consent of Independent Accountants 
+
+- ------------------------------------------------------------------------------------------------------------ 
+</TABLE>
+
+<TABLE>
+<CAPTION>
+<S>        <C>
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
+*          31, 1988. 
+**         Incorporated by reference from the Company's Registration Statement on Form S-1 (File No. 33-6015). 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
+***        31, 1987. 
+****       Incorporated by reference from the Company's Current Report on Form 8-K dated October 19, 1988. 
+*****      Incorporated by reference from the Company's Registration Statement on Form S-8 (File No. 33-54018). 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
+******     31, 1990. 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
++          31, 1991. 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
+++         31, 1992. 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
++++        31, 1993. 
+           Management contract or compensatory plan or arrangement filed as an exhibit to this Form pursuant to Items 
+0          14(a) and 14(c) of Form 10-K. 
+           Incorporated by reference from the Company's Annual Report on Form 10-K for the fiscal year ended March 
+X          31, 1994. 
+           Incorporated by reference from the Company's Quarterly Report on Form 10-Q for the fiscal quarter ended 
+XX         September 30, 1994. 31, 1994. 
+</TABLE>
+
+                               36           
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<TEXT>
+
+
+<PAGE>
+                      CONSENT OF INDEPENDENT ACCOUNTANTS 
+
+   We consent to the incorporation by reference in the registration 
+statements of Xyvision, Inc. on Form S-8 (File Nos. 33-10405, 33-29485, 
+33-29486, 33-36243, 33-41846, 33-54014 and 33-54018) of our report dated June 
+9, 1995, which report disclaims an opinion on the consolidated financial 
+statements of Xyvision, Inc. as of March 31, 1995 due to the uncertainties as 
+to the Company's ability to continue as a going concern. 
+                                                         /s/ Coopers & Lybrand 
+                                                     COOPERS & LYBRAND, L.L.P. 
+Boston, Massachusetts 
+June 27, 1995 
+
+                                1           
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   YEAR
+<FISCAL-YEAR-END>                          MAR-31-1995             MAR-31-1995
+<PERIOD-END>                               MAR-31-1995             MAR-31-1995
+<CASH>                                             174                     174
+<SECURITIES>                                         0                       0
+<RECEIVABLES>                                    8,572                   8,572
+<ALLOWANCES>                                       711                     711
+<INVENTORY>                                        188                     188
+<CURRENT-ASSETS>                                 1,174                   1,174
+<PP&E>                                          15,273                  15,273
+<DEPRECIATION>                                  11,533                  11,533
+<TOTAL-ASSETS>                                  13,137                  13,137
+<CURRENT-LIABILITIES>                           12,597                  12,597
+<BONDS>                                          4,677                   4,677
+<COMMON>                                       (2,352)                 (2,352)
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                        190                     190
+<OTHER-SE>                                     (1,953)                 (1,953)
+<TOTAL-LIABILITY-AND-EQUITY>                    13,137                  13,137
+<SALES>                                          6,186                  24,559
+<TOTAL-REVENUES>                                 6,186                  24,559
+<CGS>                                            3,382                  12,514
+<TOTAL-COSTS>                                    3,382                  12,514
+<OTHER-EXPENSES>                                 2,780                  10,699
+<LOSS-PROVISION>                                     0                     506
+<INTEREST-EXPENSE>                                 160                     519
+<INCOME-PRETAX>                                    136                     321
+<INCOME-TAX>                                         0                       0
+<INCOME-CONTINUING>                                136                     321
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                       136                     321
+<EPS-PRIMARY>                                      .01                     .03
+<EPS-DILUTED>                                      .01                     .03
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3311 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ VLYQW/YSs7/xEguqG2lgae4YIcgcnq0tDNt5Bs6waDx0GUn8YzNXzjycLmEyBDeU
+ SujX4i5NZaxLzD2c+hKzCg==
+
+<IMS-DOCUMENT>0000912057-95-001943.txt : 19950613
+<IMS-HEADER>0000912057-95-001943.hdr.sgml : 19950613
+ACCESSION NUMBER:		0000912057-95-001943
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19941231
+FILED AS OF DATE:		19950330
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERNITRON CORP
+		CENTRAL INDEX KEY:			0000206030
+		STANDARD INDUSTRIAL CLASSIFICATION:	3620
+		IRS NUMBER:				111962029
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16182
+		FILM NUMBER:		95524953
+
+	BUSINESS ADDRESS:	
+		STREET 1:		645 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2125937900
+
+	MAIL ADDRESS:	
+		STREET 1:		645 MADISON AVENUE
+		STREET 2:		645 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>10-K405
+<TEXT>
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                ----------------
+
+                                    FORM 10-K
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+For the Fiscal Year Ended December 31, 1994         Commission File No.: 0-16182
+
+                              VERNITRON CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+                     DELAWARE                          11-1962029
+          (State or other jurisdiction of           (I.R.S. Employer
+          incorporation or organization)         Identification Number)
+
+                645 MADISON AVENUE
+                NEW YORK, NEW YORK                        10022
+     (Address of principal executive offices)          (Zip Code)
+
+                                 (212) 593-7900
+              (Registrant's telephone number, including area code)
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                     Common Stock, par value $.01 per share
+            $1.20 Cumulative Exchangeable Redeemable Preferred Stock,
+                            par value $.01 per share
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: NONE
+
+                                ----------------
+
+Indicate by check mark whether the Registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days:  Yes   X    No
+                                               -----     -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K [X].
+
+Aggregate market value of the voting stock held by non-affiliates of the
+registrant as of the close of business on February 28, 1995: $4,283,000
+
+Common Stock outstanding at February 28, 1995: 12,538,012 shares.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                       -----------------------------------
+               DOCUMENT                                FORM 10-K REFERENCE
+               --------                                -------------------
+Portion of Vernitron Corporation Notice of Annual
+ Meeting of Stockholders and Proxy Statement.          Part III, Items 10-13
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+
+                                     PART I
+ITEM 1.  BUSINESS
+
+GENERAL
+
+     Vernitron Corporation (the "Company"), incorporated in New York in 1959 and
+reincorporated in Delaware in 1968, is primarily engaged in the design,
+manufacture, distribution and sale of electromagnetic sub-systems, specialty AC
+(alternating current) and DC (direct current) motors, position and pressure
+sensing components, connectors, and the distribution and service of precision
+ball bearings.  The Company's products are manufactured primarily for use in
+high reliability applications in the aerospace, defense, communications, medical
+equipment, office equipment and industrial markets.
+
+BUSINESS OF THE COMPANY
+
+     The Company operates in three manufacturing plants and three distribution
+facilities located in the United States in one business segment,
+electromechanical components and sub-systems, which is organized into two
+product groups: the Motion Control group and the Industrial Components group.
+The Company also uses contract production capacity in Mexico.
+
+     Motion Control group sales accounted for 42% and Industrial Components
+group sales made up 58% of consolidated net sales of $62.1 million in 1994 (see
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations for three year sales comparisons).
+
+     MOTION CONTROL GROUP.  The Motion Control group designs, manufactures and
+sells electromagnetic sub-systems, specialty AC and DC motors, synchros and
+resolvers, optical and contact shaft encoders, potentiometers and pressure
+transducers.  These product lines produce all of the Company's motor and sensor
+products sold either as individual components or in sub-systems.
+
+     The group's products generally involve a high degree of interactive
+applications engineering to meet each customer's unique requirements for
+reliability and accuracy under demanding and often hostile environmental or
+shock conditions, such as space flight or industrial automation.  Unit prices
+generally exceed $100 and range upward to more than $1,000.  In the military and
+aerospace markets, contract quantities are relatively low while contract awards
+may be large in dollar value.  In the commercial market, contract quantities may
+be significantly greater while the average sales price is generally lower.
+Approximately 65% of current bookings by this group are for military (both U.S.
+and foreign government) and aerospace applications.  The remainder of the
+business is spread  over a variety of industrial automation and instrumentation
+applications.  A large percentage of the military/aerospace business is used in
+or to support tactical missile programs, shipboard instruments and infrared
+night vision systems.  Markets for the group's products are generally fragmented
+and competition is focused and often well entrenched.
+
+     Motors manufactured by the Company are used in applications which require
+extremely reliable and precise motion control, such as computer disk drives,
+laser scanners in high-speed printers and bar code readers, missile guidance
+systems, industrial controls, aircraft instrumentation and controls and
+robotics.  Motor technology includes AC and both brush and brushless DC motors.
+
+     Synchros and resolvers are each used to measure absolute angular position.
+These rugged devices have military and aerospace applications in the guidance
+systems of ships, aircraft and missiles.  In commercial applications, resolvers
+are used to measure the absolute position and velocity of a shaft.
+
+     Optical and contact shaft encoders are devices which accurately measure
+rotational motion or shaft position in a digital format and have applications in
+satellites, weapon systems, radar and industrial control systems.
+
+     The Company's precision potentiometers are variable resistors, utilizing
+either wire wound or conductive film technologies.  These products generally
+sense position and produce a feedback signal for use in high reliability
+
+
+                                        2
+<PAGE>
+
+military, aerospace and industrial applications.  Other related products include
+pressure transducers which, among other applications, monitor pressure in
+hydraulic and HVAC applications.
+
+     INDUSTRIAL COMPONENTS GROUP.  The Industrial Components group manufactures
+connector products and distributes and services precision miniature ball
+bearings.
+
+     The group's products are almost always sold as components, require a
+minimum amount of specialized application engineering and are sold through a
+network of manufacturers' representatives and distributors.  Average unit
+selling prices range from $1 to $3 and individual purchase orders generally
+cover large unit quantities.  Competition is often fragmented and focused on
+niches within the markets served.  Quality, customer service and competitive
+cost are the critical factors in serving these markets.  Substantially all of
+the Industrial Components group sales are to domestic commercial and industrial
+markets.
+
+     The group's connector product line focuses mainly on safety agency approved
+barrier terminal blocks in the .5 amp to 50 amp range.  The products are used in
+a broad range of power applications, including  telecommunications, power
+supplies, security and fire alarms and industrial controls.  The group produces
+power connectors for frequent connect/disconnect applications, such as vending
+machines and coin changers.
+
+     The group also distributes precision miniature ball bearings from three
+warehouse locations - Montville, New Jersey, Irvine, California and Dallas,
+Texas - to bearing distributors and to end users in a variety of industries,
+including manufacturers of computer equipment, medical equipment and a variety
+of other precision instruments.
+
+     MARKETING.  The Company's products are sold directly to original equipment
+manufacturers and U.S. Government agencies and contractors, and are also sold
+through distributors and representatives.
+
+     DOMESTIC AND FOREIGN SALES.  The following table sets forth, for each of
+the last three fiscal years, information concerning the Company's domestic and
+foreign net sales and operating income from continuing operations and
+identifiable assets (dollars in thousands):
+<TABLE>
+<CAPTION>
+
+                                                                                             FISCAL YEARS
+                                                                              -------------------------------------
+                                                                                1994           1993           1992
+                                                                              -------        -------        -------
+<S>                                                                           <C>            <C>            <C>
+
+     Net sales:
+       USA . . . . . . . . . . . . . . . . . . . . . . . . . . .              $57,752        $53,668        $57,091
+       Foreign . . . . . . . . . . . . . . . . . . . . . . . . .                4,380          4,981          5,821
+                                                                              -------        -------        -------
+                                                                              $62,132        $58,649        $62,912
+                                                                              -------        -------        -------
+                                                                              -------        -------        -------
+     Export sales as a % of total sales: . . . . . . . . . . . .                  7.0%           8.5%           9.3%
+                                                                              -------        -------        -------
+                                                                              -------        -------        -------
+
+     Operating income (loss):
+       USA . . . . . . . . . . . . . . . . . . . . . . . . . . .              $ 3,363        $ 1,969        $ 1,447
+       Foreign . . . . . . . . . . . . . . . . . . . . . . . . .                  314            183            148
+       Restructuring/inventory writedown charges (USA) . . . . .               (1,315)        (3,500)
+                                                                              -------        -------        -------
+                                                                              $ 2,362        $(1,348)       $ 1,595
+                                                                              -------        -------        -------
+                                                                              -------        -------        -------
+     Identifiable assets:
+       USA . . . . . . . . . . . . . . . . . . . . . . . . . . .              $42,197        $47,261        $52,247
+                                                                              -------        -------        -------
+                                                                              -------        -------        -------
+
+</TABLE>
+
+     COMPETITION.  The Company competes primarily on the basis of its ability to
+design and engineer its products to meet relatively stringent shape, performance
+and other requirements of its customers, most of whom are original equipment
+manufacturers who purchase the component parts for inclusion in their end
+products.
+
+     There are a limited number of competitors in each of the markets for the
+various types of electromechanical products manufactured and sold by the
+Company.  Some of these competitors have substantially greater resources than
+the Company.  Imports of end products incorporating foreign manufactured
+electromechanical components have increased in recent years resulting, in part,
+in smaller available domestic markets for the Company's components.
+
+
+                                        3
+<PAGE>
+
+In addition, reductions in Government defense spending have resulted in
+shrinking markets and increased competition for the remaining business.
+
+     While price is a competitive factor, the Company believes that its
+applications engineering capability, which enables it to meet a customer's
+special needs, is its principal competitive strength.
+
+     CUSTOMERS.  There is no customer or group of affiliated customers to which
+sales during the fiscal year ended December 31, 1994 were in the aggregate 10%
+or more of the Company's consolidated net sales, and there is no customer, the
+loss of which would have a material adverse effect on the Company's operations
+taken as a whole.
+
+     In fiscal 1994, the Company had aggregate sales, both military and non-
+military, of approximately $3.6 million directly to the U.S. Government,
+including its agencies and departments.  These sales accounted for approximately
+6% of total net sales in 1994 as compared to 5% in 1993 and 7% in 1992.
+Approximately 18% of net sales in 1994 were derived from subcontracts with U.S.
+Government contractors as compared to 21% in 1993 and 22% in 1992.  The majority
+of these contracts may be subject to termination at the convenience of the
+Government, and certain of them may also be subject to renegotiation.
+Currently, the Company is not aware of any termination or renegotiation of such
+contracts which would have a material adverse effect on its business.  Because
+approximately 24% of the Company's business is derived directly from contracts
+with the U.S. Government or agencies or departments thereof, or indirectly
+through subcontracts with U.S. Government contractors, the Company's results of
+operations could be materially affected by changes in Government expenditures
+for products using component parts it produces.  However, the Company believes
+that its exposure to such risk may be lessened by the conventional tactical
+nature of the programs it participates in as well as the broad number and
+diversity of its product applications and the strength of its engineering
+capabilities.
+
+     BACKLOG; SEASONALITY.  As of December 31, 1994 and December 31, 1993, the
+Company had a backlog of orders of $23.0 million and $24.0 million,
+respectively.  Management believes that a substantial portion of the backlog of
+orders at December 31, 1994 will be filled during fiscal 1995.  Bookings and
+shipments, while subject to fluctuation due to the build-to-order nature of a
+substantial portion of the Company's business, are not subject to significant
+seasonal variations.
+
+     PRODUCT DEVELOPMENT.  The Company develops new electromechanical sub-
+systems and components and improves existing products in order to keep pace with
+the technological advances which generally characterize its markets.  During
+fiscal 1994, combined Company and customer sponsored engineering expense
+associated with product development, before customer reimbursement, was $695,000
+compared to $639,000 in fiscal 1993 and $535,000 in fiscal 1992.  In general,
+the Company recovers from customers between a quarter and a third of such
+engineering expense.
+
+     RAW MATERIALS; OTHER SUPPLIERS.  There is no one supplier whose delivery of
+raw materials or other products is material to the operations of the Company.
+While several divisions use substantial amounts of cobalt, chromium, titanium,
+gold, silver and copper in certain of their products, the Company has not
+experienced any serious difficulty in obtaining adequate supplies.
+
+     PATENTS, TRADEMARKS AND LICENSES.  The Company's business is not dependent
+on any patent or trademark.
+
+     ENVIRONMENTAL REGULATIONS.  The Company does not believe that its
+compliance with federal, state and local laws and regulations governing the
+discharge of materials into the environment or otherwise relating to the
+protection of the environment has or will have any material effect upon its
+capital expenditures, earnings or competitive position.  There can be no
+assurance, however, (i) that changes in federal, state or local laws or
+regulations, changes in regulatory policy or the discovery of unknown problems
+or conditions will not in the future require substantial expenditures, or (ii)
+as to the extent of the Company's liabilities, if any, for past failures, if
+any, to comply with applicable environmental laws, regulations and permits.
+
+     EMPLOYEES.  The Company employs approximately 600 persons, all in the
+United States.  Approximately 120 of such employees are subject to union
+contracts, before giving effect to the disposition of the Electronic Components
+business (see Note 2 to the Financial Statements). Following this disposition,
+approximately 70
+
+
+                                        4
+<PAGE>
+
+employees will be covered by union contracts.  The Company considers its
+relations with its employees to be satisfactory.  There has been no significant
+interruption of operations due to labor disputes.
+
+     WORKING CAPITAL PRACTICES.  The markets in which the Company competes are
+not characterized by any unusual inventory or collection practices.
+
+ITEM 2.  PROPERTIES
+
+     The Company leases its executive office, located at 645 Madison Avenue, New
+York, New York.  The principal plants and other materially important properties
+at December 31, 1994 are:
+<TABLE>
+<CAPTION>
+
+                                                                      OWNED OR
+                                   TYPE OF             SQUARE         LEASED;
+LOCATION                           FACILITY            FOOTAGE        EXPIRATION
+- --------                           --------            -------        ----------
+<S>                                <C>                 <C>            <C>
+
+St. Petersburg, FL                 Industrial           52,500        Owned
+Deer Park, NY                      Industrial           69,600        Owned
+San Diego, CA                      Industrial           60,100        Leased; 2000
+Montville, NJ                      Industrial           76,200        Leased; 1999
+Gilford, NH                        Industrial           84,250        Owned
+Irvine, CA                         Industrial            7,800        Leased; 1995
+Dallas, TX                         Industrial            1,400        Leased; 1997
+
+</TABLE>
+
+     All of the facilities owned by the Company are subject to mortgages or
+security interests which secure the Company's obligations under its revolving
+credit facility or industrial development bonds (see Note 4 to the Financial
+Statements).
+
+     The Deer Park, NY facility is classified as held for disposal (see Notes 1
+and 8 to the Financial Statements).
+
+     The Company believes that its properties are suitable and adequate for its
+operations.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company is a defendant in various lawsuits, none of which is expected
+to have a material adverse affect on the Company's financial position.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+
+
+                                        5
+<PAGE>
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+               MATTERS
+
+     The Common Stock has traded on the National Association of Securities
+Dealers Automated Quotation Small-Cap Market ("NASDAQ") under the symbol VRNT,
+since the completion of the Exchange Offer on August 13, 1991.  The following
+table sets forth the range of high and low market prices for the fiscal quarters
+indicated as quoted on NASDAQ:
+
+                                        1994                     1993
+                                   -------------            --------------
+                                   High      Low            High       Low
+                                   ----      ---            ----       ---
+
+     Fiscal Years Ended December 31:
+
+          First Quarter           $  5/8    $  5/8        $ 1 3/4   $ 1 5/8
+          Second Quarter           1 1/8       5/8          1 5/8     1 5/8
+          Third Quarter                1     11/16          1 5/8    1 1/16
+          Fourth Quarter             3/4       5/8         1 1/16       5/8
+
+     The high and low market price information presented above is based on real-
+time sales.
+
+     On March 1, 1995, the high and low sales price was $5/8.
+
+     On March 1, 1995, the approximate number of holders of record of the Common
+Stock was 1,068.
+
+     The Company did not pay cash dividends on the Common Stock during the three
+fiscal years ended December 31, 1994.  The Company's policy is to retain
+earnings for the foreseeable future.  The Company's credit facility prohibits
+the payment of cash dividends.
+
+
+                                        6
+<PAGE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The following selected financial data for the five fiscal years presented
+below is derived from the audited Financial Statements of the Company as
+adjusted to reflect the discontinuance of the Electronic Components group (see
+Note 2 to the Financial Statements).  The data should be read in conjunction
+with the Financial Statements and the related Notes thereto included elsewhere
+herein.
+<TABLE>
+<CAPTION>
+
+                                                                                   YEARS ENDED DECEMBER 31,
+                                                         ---------------------------------------------------------------------
+                                                             1994           1993           1992           1991          1990
+                                                         ---------------------------------------------------------------------
+                                                                        (Dollars in thousands, except per share data)
+<S>                                                      <C>            <C>            <C>            <C>            <C>
+
+Net sales. . . . . . . . . . . . . . . . . . . . .       $ 62,132       $ 58,649       $ 62,912       $ 67,091       $ 62,763
+Income from continuing
+ operations before interest and
+ special charges . . . . . . . . . . . . . . . . .          3,606          2,081          1,555          2,036          1,182
+Interest expense . . . . . . . . . . . . . . . . .          2,264          2,437          2,597          3,371          3,696
+Special charges (1). . . . . . . . . . . . . . . .         (1,315)        (3,500)            --             --        (13,650)
+Income (loss) from continuing
+ operations. . . . . . . . . . . . . . . . . . . .             27         (3,856)        (1,042)        (1,335)       (16,164)
+Loss from continuing operations
+ per common share (2). . . . . . . . . . . . . . .           (.04)          (.82)          (.23)          (.39)         (7.47)
+Total assets (3) . . . . . . . . . . . . . . . . .         42,197         47,261         52,247         54,479         79,244
+Total debt (4) . . . . . . . . . . . . . . . . . .         12,363         26,470         26,920         28,836         32,000
+$3.75 Cumulative Exchangeable
+ Redeemable Preferred Stock (5). . . . . . . . . .             --             --             --             --         38,580
+Shareholders' Equity (5) . . . . . . . . . . . . .         13,269          5,076          9,603          9,463         (9,663)
+
+
+<FN>
+(1)  In 1994 and 1993, the Company recorded restructuring/inventory writedown
+     charges related to the restructuring of its Motion Control group (see Note
+     8 to the Financial Statements).  In 1990, the Company recorded a charge as
+     a result of the termination of the Company's efforts to acquire Kollmorgen
+     and the termination of all outstanding litigation and the mutual release of
+     claims between the parties.
+
+(2)  The Company's earnings per share information has been restated for 1990 to
+     reflect an Exchange Offer completed in 1991 and a reverse stock split
+     effected on June 20, 1991.
+
+(3)  At December 31, 1991, the Company elected to adjust its balance sheet to
+     fair value in accordance with quasi-reorganization accounting principles,
+     resulting in, among other adjustments, a $16.2 million reduction in the
+     carrying value of goodwill.
+
+(4)  Includes short-term debt and current portion of long-term debt of $442,000
+     in 1994, $1,200,000 in 1993 $1,000,000 in 1992, $2,130,000 in 1991 and
+     $3,000,000 in 1990.
+
+(5)  As a result of the Exchange Offer, the Company's $3.75 Cumulative
+     Exchangeable Redeemable Preferred Stock was either exchanged for Common
+     Stock or amended (see Note 3 to the Financial Statements for a description
+     of the amended terms).
+</TABLE>
+
+
+                                        7
+<PAGE>
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+            CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+     Net sales by product group for continuing operations for the past three
+years are presented in the table below.  The Company has adopted a plan to
+dispose of its Electronic Components business which, together with the
+Industrial Components business, was previously reported as part of the Precision
+Components product group (see Note 2 to the Financial Statements).  As a result,
+the net sales and results of operations of the discontinued product group have
+been excluded from the table and the discussion which follow.
+
+<TABLE>
+<CAPTION>
+
+                                        1994           1993           1992
+                                      -------        -------        -------
+                                             (Dollars in thousands)
+<S>                                   <C>            <C>            <C>
+
+Motion Control                        $26,052        $26,648        $32,024
+Industrial Components                  36,080         32,001         30,888
+                                      -------        -------        -------
+Net Sales                             $62,132        $58,649        $62,912
+                                      -------        -------        -------
+                                      -------        -------        -------
+
+</TABLE>
+
+1994 VS. 1993
+
+     Net sales increased by $3.5 million, or 6%, in 1994, compared to 1993.
+
+     The Motion Control group's sales declined by $.6 million, or 2%, in 1994,
+as compared to 1993, primarily as a result of lower shipments of AC motors and
+potentiometers due largely to lower U.S. and foreign government bookings and
+lower bookings for certain technologically mature product applications.  These
+lower shipments were partially offset by higher shipments of resolvers, due to
+the timing of certain large orders received in 1993, and higher electromagnetic
+sub-system shipments due to new product introductions.
+
+     The Industrial Components group's sales increased in 1994 by $4.1 million,
+or 13%, as compared to 1993.  Sales of bearings were up by $2.9 million, or 16%,
+reflecting sales to new customers and an improvement in general economic
+conditions.  Sales of connector products rose by $1.2 million, or 9%,
+principally as a result of sales to new customers in the OEM market, higher
+sales of Eurostyle connectors and an improvement in general economic conditions.
+
+     The Company's backlog at December 31, 1994 of $23.0 million was $1.0
+million, or 4% lower, than 1993 year-end, while bookings of $61.2 million were
+substantially the same as the prior year.  The lower backlog was primarily due
+to a reduction of backlog in the Motion Control group of $1.9 million resulting
+from lower bookings in resolvers, primarily due to timing as several large
+orders received in 1993 did not repeat in 1994, and potentiometers, primarily
+due to lower U.S. Government and foreign bookings.  These lower bookings were
+partially offset by higher bookings of electromagnetic sub-systems due to new
+product introductions.  The Industrial Components group's backlog increased $1.0
+million due primarily to increased bookings in the bearings product line
+resulting from an improvement in general economic conditions.
+
+     Operating income, excluding restructuring/inventory writedown charges of
+$1.3 million and $3.5 million in 1994 and 1993, respectively, was $3.7 million
+in 1994, as compared to $2.2 million in 1993, representing a $1.5 million
+increase.  This increase was primarily due to the gross margin earned on the
+incremental sales volume and improved profit margins in the Motion Control
+product group resulting from restructuring actions taken in 1993, which were
+partially offset by higher selling, general and administrative expenses.  Gross
+margins were 27.7% in 1994, up from 26.1% in 1993.  Productivity, as measured by
+the value-added per employee, increased 24.9% to approximately $65,900 in 1994,
+from approximately $52,800 in 1993.
+
+     Selling, general and administrative expense, as a percentage of sales,
+declined to 21.5% in 1994 from 22.1% in 1993.  Selling, general and
+administrative expense was up by $.4 million in 1994 as a result of increased
+expenses related to the relocation of Motion Control's potentiometer and
+pressure transducer product lines from the Company's Deer Park, New York
+facility to St. Petersburg, Florida and the reinstatement of certain profit
+sharing provisions.
+
+
+                                        8
+<PAGE>
+
+These incremental costs were partially offset by efficiencies resulting from the
+aforementioned Motion Control restructuring initiated in 1993.
+
+     In 1993, the Company recorded a $3.5 million charge related to the
+restructuring of the Motion Control group, of which $2.3 million was related to
+the write-down of certain slow-moving and excess raw material inventory (see
+discussion of 1993 vs. 1992 below).  As part of this restructuring, the Company
+also announced its intention to close and sell the Deer Park, New York facility.
+In 1994, the Company recorded an additional $1.3 million charge related to this
+restructuring, $1.0 million of which is to provide additional inventory reserves
+to reflect slower turnover of the inventory than was anticipated in the 1993
+charge calculation.  The remaining $.3 million of the 1994 charge is to adjust
+the carrying amount of the other assets held for disposal in connection with the
+restructuring to reflect current market values.
+
+     Interest expense declined by $.2 million in 1994 as a result of lower
+average borrowings due primarily to the repurchase of the Company's bank
+indebtedness at a discount (see Note 4 to the Financial Statements).  This was
+partially offset by higher interest rates.
+
+     At December 31, 1994, the Company had approximately $11 million of net
+operating loss carryforwards available to reduce future taxable income.
+
+1993 VS. 1992
+
+     Net sales declined by $4.3 million, or 7%, in 1993, compared to 1992.
+
+     The Motion Control group's sales accounted for $5.4 million of this
+decline, primarily due to lower U.S. and foreign military sales in 1993 and to
+the completion of deliveries for certain commercial equipment and space programs
+in 1992.
+
+     Industrial Components group sales increased by $1.1 million, a 4% increase,
+compared to 1992.  Sales of connector products rose by 7% as the result of
+increased market penetration and the introduction of the Eurostyle connector.
+Sales of bearings were up 1%, reflecting some pickup in general economic
+activity.
+
+     The Company's total bookings increased approximately 3% in 1993 over 1992,
+while backlog at December 31, 1993 was approximately 13% higher compared to
+year-end 1992.  Motion Control group bookings were up approximately 3% in 1993
+over 1992, primarily as a result of increased bookings of military products.
+Bookings for the Motion Control group's sensor products (comprised of
+potentiometers, encoders, resolvers and synchros), which declined in 1992,
+increased slightly in 1993 over their 1992 level.  Backlog for the Motion
+Control group at December 31, 1993 was up by approximately $.7 million compared
+to backlog at December 31, 1992.  Industrial Components group bookings increased
+by approximately 4% in 1993 compared to 1992 due primarily to the introduction
+of the Eurostyle connector.  Backlog for the Industrial Components group
+increased by approximately $1.3 million at December 31, 1993, compared to
+backlog at December 31, 1992.
+
+     Operating income of $2.2 million, excluding the $3.5 million
+restructuring/inventory writedown charge described below, was $.6 million above
+1992.  Cost reductions and productivity improvements achieved through reduced
+headcount and improved operating efficiencies in the Motion Control group and
+the connector product line of the Industrial Components group and lower selling,
+general and administrative expense (see below) more than offset the negative
+impact on operating income of the lower sales volume in the Motion Control
+group.  Gross margins were 26.1% in 1993, up from 25.2% in 1992.  Productivity,
+as measured by the value-added per employee, increased 13.5% to approximately
+$52,800 in 1993 from approximately $46,500 in 1992.
+
+     Selling, general and administrative expense was $1.1 million lower in 1993
+primarily as a result of staff reductions and elimination of profit sharing
+provisions due to lower earnings.
+
+     During 1993, the company determined to restructure its Motion Control
+group, which had operated as two separate divisions.  The restructuring provided
+for the consolidation of the two separate divisions under a single operating
+management based in San Diego, California.  The Company also determined to
+increase its reserves for slow moving and excess inventories in the Motion
+Control group.  The Company determined to consolidate the two divisions because
+it believed that the combination would allow the use of more productive, higher
+quality
+
+
+                                        9
+<PAGE>
+
+manufacturing techniques in San Diego.  In addition, the Company believed that
+the consolidation in San Diego would substantially increase the interaction of
+the Motion Control group's various engineering disciplines in response to
+commercial and industrial requirements.  The Company determined to increase its
+reserves for slow moving and excess inventory in the Motion Control group to
+reflect its determination of a permanent reduction in the demand for certain
+wire wound potentiometer product lines based on the Company's belief that demand
+for such products, which had declined in prior years, was not likely to return
+in sufficient amounts.  The reduced demand for such products contributed to the
+decision to consolidate the Motion Control group in San Diego and the other
+steps taken as part of the restructuring.
+
+     The Company recorded a charge of $3.5 million related to the restructuring
+of its Motion Control group.  The charge included $2.3 millon for the write-down
+of slow moving and excess raw material and finished good inventories of wire
+wound potentiometers.  In addition, $1.2 million was recorded for severance,
+early retirement, other employee-related benefits and other costs of the
+restructuring.  Of the $1.2 million accrued in 1993, approximately $250,000 and
+$850,000 were charged against such accrual in 1993 and 1994, respectively.  It
+is expected that the balance will be charged against the accrual in 1995 (see
+Note 8 to the Financial Statements).
+
+     In connection with the restructuring, major cost reduction programs were
+initiated.  The plan included reducing the group's workforce by more than 15%,
+mostly in non-production positions, and the consolidation of engineering staff
+and design facilities.  The Company expects that the reduction in workforce will
+result in lower labor costs and, together with other reductions in costs
+resulting from the consolidation, should increase the Company's competitiveness.
+
+     Interest expense declined by $.2 million in 1993 as a result of both lower
+average borrowings and lower interest rates.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     During 1994, the Company obtained a new $15.0 million four-year, senior
+secured credit facility (see Note 4 to the Financial Statements).  In addition,
+the Company completed a rights offering of Common Stock which provided $2.3
+million of proceeds, net of expenses (see Note 3 to the Financial Statements).
+The proceeds of the new credit facility, along with the net proceeds of the
+rights offering, were used to repurchase the Company's then existing bank
+indebtedness at a discount and to provide additional working capital.
+Subsequent to December 31, 1994, the Company negotiated an amendment to its new
+credit facility increasing the amount that can be borrowed under the facility to
+$17.5 million, subject to availability based on the satisfaction of certain
+borrowing base formulas.
+
+     During 1994, the Company received proceeds of $.6 million from the sale of
+certain product lines of the discontinued Electronic Components business.
+Subsequent to December 31, 1994, the Company has sold the remaining product line
+of this business for $1.5 million, of which $1.0 million has been collected as
+of February 24, 1995.  The remaining $.5 million is scheduled to be collected in
+the first half of 1995.  The proceeds from these sales will be used to fund
+expenses related to the decision to discontinue the Electronic Components group,
+to pay down bank indebtedness and to provide additional working capital.
+
+     The Company had no material commitments for capital expenditures as of
+December 31, 1994.
+
+     The Company believes that its $17.5 million credit facility, cash generated
+from operations and proceeds from the sale of assets included in net assets held
+for disposal, will be sufficient to meet its future capital expenditure and
+working capital requirements and required debt amortization.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The response to this Item is included in Item 14(a) of this Report.
+
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     None. See Item 14(b) of this Report.
+
+
+                                       10
+<PAGE>
+
+                                    PART III
+
+     The information required by Part III is incorporated by reference to the
+Company's definitive proxy statement in connection with its 1994 Annual Meeting
+of Stockholders to be filed with the Securities and Exchange Commission within
+120 days following the end of the Company's fiscal year ended December 31, 1994.
+If such proxy statement is not so filed, such information will be filed as an
+amendment to this Form 10-K within 120 days following the end of the Company's
+fiscal year ended December 31, 1994.
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)(1) AND (2)  FINANCIAL STATEMENTS
+
+     See accompanying index to financial statements and schedules.
+
+(a)(3)  EXHIBITS
+
+     See accompanying index to Exhibits.
+
+(b)     REPORTS ON FORM 8-K
+
+     During the quarter ended December 31, 1994, the Company filed no reports on
+     Form 8-K.
+
+
+                                       11
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated:                             VERNITRON CORPORATION
+                                        (REGISTRANT)
+
+                                   By /s/ STEPHEN W. BERSHAD
+                                          STEPHEN W. BERSHAD
+                                          CHAIRMAN OF THE BOARD OF DIRECTORS
+                                          AND CHIEF EXECUTIVE OFFICER
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated this 28th day of March, 1994.
+
+
+     /s/ Stephen W. Bershad               Chairman of the Board of
+         STEPHEN W. BERSHAD                Directors and Chief Executive
+                                           Officer
+
+
+
+
+     /s/ Raymond F. Kunzmann              Vice President - Finance, Controller
+         RAYMOND F. KUNZMANN               and Chief Financial Officer
+
+
+
+
+
+     /s/ Anthony J. Fiorelli, Jr.         Director
+         ANTHONY J. FIORELLI, JR.
+
+
+
+
+
+     /s/ Eliot M. Fried                   Director
+         ELIOT M. FRIED
+
+
+
+                                       12
+<PAGE>
+
+                           ANNUAL REPORT ON FORM 10-K
+
+                  ITEM 8, ITEM 14(a)(1) AND (2) AND ITEM 14(d)
+
+         INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+                              FINANCIAL STATEMENTS
+
+                          YEAR ENDED DECEMBER 31, 1994
+
+                              VERNITRON CORPORATION
+<PAGE>
+
+                FORM 10-K -- ITEM 14(a)(1) AND (2) AND ITEM 14(d)
+                              VERNITRON CORPORATION
+
+         INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+
+The following financial statements of Vernitron Corporation are included in
+Item 8:
+
+     Balance sheets -- December 31, 1994 and 1993. . . . . . . . . . . . . . F-4
+
+     Statements of operations -- For the years ended December 31, 1994,
+      1993 and 1992. . . . . . . . . . . . . . . . . . . . . . . . . . . . . F-6
+
+     Statements of cash flows -- For the years ended December 31, 1994,
+      1993 and 1992. . . . . . . . . . . . . . . . . . . . . . . . . . . . . F-7
+
+     Statements of shareholders' equity -- For the years ended December 31,
+      1994, 1993 and 1992. . . . . . . . . . . . . . . . . . . . . . . . . . F-8
+
+     Notes to financial statements . . . . . . . . . . . . . . . . . . . . . F-9
+
+     The following financial statement schedule of Vernitron Corporation is
+      included in Item 14(d):
+
+     Schedule II -- Valuation and qualifying accounts. . . . . . . . . . . .F-17
+
+     All other schedules for which provision is made in the applicable
+accounting regulation of the Securities and Exchange Commission are not required
+under the related instructions or are inapplicable, and therefore have been
+omitted.
+
+
+                                       F-2
+<PAGE>
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+
+To the Board of Directors of
+Vernitron Corporation:
+
+
+     We have audited the accompanying balance sheets of Vernitron Corporation (a
+Delaware corporation) as of December 31, 1994 and 1993, and the related
+statements of operations, shareholders' equity and cash flows for the three
+years ended December 31, 1994.  These financial statements and the schedule
+referred to below are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Vernitron Corporation as of
+December 31, 1994 and 1993, and the results of its operations and its cash flows
+for the three years ended December 31, 1994 in conformity with generally
+accepted accounting principles.
+
+     Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The schedule listed in the index of
+financial statements is presented for purposes of complying with the Securities
+and Exchange Commission's rules and is not part of the basic financial
+statements.  This schedule has been subjected to the auditing procedures applied
+in the audits of the basic financial statements and, in our opinion, fairly
+states in all material respects the financial data required to be set forth
+therein in relation to the basic financial statements taken as a whole.
+
+
+
+
+
+                              ARTHUR ANDERSEN LLP
+
+
+
+
+
+New York, New York
+March 24, 1995
+
+
+                                       F-3
+<PAGE>
+
+                                 BALANCE SHEETS
+
+                              VERNITRON CORPORATION
+
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+
+                                                          DECEMBER 31,
+                                                    -----------------------
+                                                      1994            1993
+                                                    -------         -------
+<S>                                                 <C>             <C>
+
+                                   A S S E T S
+
+CURRENT ASSETS:
+  Cash . . . . . . . . . . . . . . . . . . .        $    27         $   103
+  Accounts receivable, net of allowance
+    for doubtful accounts of $345 in 1994
+    and $278 in 1993 . . . . . . . . . . . .          9,293           8,323
+  Inventories, net . . . . . . . . . . . . .         14,527          18,797
+  Other current assets . . . . . . . . . . .            468           1,025
+                                                    -------         -------
+
+      TOTAL CURRENT ASSETS . . . . . . . . .         24,315          28,248
+
+NET PROPERTY, PLANT AND EQUIPMENT. . . . . .          7,990           9,389
+
+EXCESS OF COST OVER NET ASSETS ACQUIRED,
+  net of accumulated amortization of $627
+  in 1994 and $418 in 1993 . . . . . . . . .          6,832           7,041
+
+NET ASSETS HELD FOR DISPOSAL . . . . . . . .          2,507           1,886
+
+OTHER ASSETS . . . . . . . . . . . . . . . .            553             697
+                                                    -------         -------
+
+      TOTAL ASSETS . . . . . . . . . . . . .        $42,197         $47,261
+                                                    -------         -------
+                                                    -------         -------
+
+</TABLE>
+
+
+                       See notes to financial statements.
+
+
+                                       F-4
+<PAGE>
+
+                          BALANCE SHEETS - (CONTINUED)
+
+                              VERNITRON CORPORATION
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+
+                                                          DECEMBER 31,
+                                                    -----------------------
+                                                      1994            1993
+                                                    -------         -------
+<S>                                                 <C>             <C>
+
+     L I A B I L I T I E S   A N D   S H A R E H O L D E R S'   E Q U I T Y
+
+CURRENT LIABILITIES:
+
+  Accounts payable . . . . . . . . . . . . .         $ 6,394        $ 6,524
+  Accrued expenses and other liabilities . .           5,941          5,051
+  Current portion of long-term debt. . . . .             442          1,200
+                                                     -------        -------
+
+     TOTAL CURRENT LIABILITIES . . . . . . .          12,777         12,775
+
+LONG-TERM DEBT, less current portion . . . .          11,921         25,270
+
+OTHER LONG-TERM LIABILITIES. . . . . . . . .           3,579          3,357
+
+DEFERRED INCOME. . . . . . . . . . . . . . .             651            783
+
+SHAREHOLDERS' EQUITY:
+
+$1.20 CUMULATIVE EXCHANGEABLE REDEEMABLE
+ PREFERRED STOCK, $.01 PAR VALUE: authorized
+ 1,400,000 shares, issued and outstanding
+ 672,344 shares in 1994 and 577,946 shares
+ in 1993 . . . . . . . . . . . . . . . . . .               7              6
+
+COMMON STOCK, $.01 PAR VALUE:
+ authorized 20,000,000 shares, issued and
+ outstanding 12,538,012 in 1994 and
+ 5,185,070 shares in 1993. . . . . . . . . .             125             52
+
+CAPITAL IN EXCESS OF PAR . . . . . . . . . .          13,982          9,544
+
+RETAINED DEFICIT (Reflects application of
+  quasi-reorganization accounting principles
+  as of December 31, 1991 eliminating a
+  deficit of $14,094). . . . . . . . . . . .            (845)        (4,526)
+                                                     -------        -------
+
+     TOTAL SHAREHOLDERS' EQUITY. . . . . . .          13,269          5,076
+                                                     -------        -------
+
+     TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY      $42,197        $47,261
+                                                     -------        -------
+                                                     -------        -------
+
+</TABLE>
+
+
+                       See notes to financial statements.
+
+
+                                       F-5
+<PAGE>
+
+                            STATEMENTS OF OPERATIONS
+
+                              VERNITRON CORPORATION
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+
+                                                                                              YEARS ENDED DECEMBER 31,
+                                                                                    -----------------------------------------
+                                                                                        1994           1993            1992
+                                                                                    -----------    -----------   ------------
+<S>                                                                                 <C>            <C>           <C>
+
+NET SALES                                                                           $    62,132    $    58,649   $     62,912
+
+Cost of sales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         44,903         43,338         47,081
+Selling, general and
+ administrative expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . .         13,343         12,950         14,027
+Restructuring/inventory writedown charges. . . . . . . . . . . . . . . . . . . .          1,315          3,500
+Amortization of intangible assets. . . . . . . . . . . . . . . . . . . . . . . .            209            209            209
+                                                                                    -----------    -----------   ------------
+
+OPERATING INCOME (LOSS). . . . . . . . . . . . . . . . . . . . . . . . . . . . .          2,362         (1,348)         1,595
+
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          2,264          2,437          2,597
+Other expense. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             54             71             13
+                                                                                    -----------    -----------   ------------
+Income (loss) from continuing operations before taxes and extraordinary gain . .             44         (3,856)        (1,015)
+Charge in lieu of taxes. . . . . . . . . . . . . . . . . . . . . . . . . . . . .             17                            27
+                                                                                    -----------    -----------   ------------
+INCOME (LOSS) FROM CONTINUING OPERATIONS BEFORE EXTRAORDINARY GAIN . . . . . . .             27         (3,856)        (1,042)
+
+Discontinued Operations:
+  Income (loss) from operations, net of tax benefit of $92 in 1994 . . . . . . .           (143)          (670)         1,144
+  Loss on disposal, net of tax benefit of $1,317 in 1994 . . . . . . . . . . . .         (2,059)
+                                                                                    -----------    -----------   ------------
+
+INCOME (LOSS) BEFORE EXTRAORDINARY GAIN. . . . . . . . . . . . . . . . . . . . .         (2,175)        (4,526)           102
+Extraordinary gain on debt repurchase,
+  net of charge in lieu of taxes of $3,744 in 1994 . . . . . . . . . . . . . . .          5,856
+                                                                                    -----------    -----------   ------------
+
+NET INCOME (LOSS). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          3,681         (4,526)           102
+
+Preferred stock dividends. . . . . . . . . . . . . . . . . . . . . . . . . . . .            355            375            158
+                                                                                    -----------    -----------   ------------
+
+Net income (loss) applied to common shareholders'equity. . . . . . . . . . . . .    $     3,326    $    (4,901)  $        (56)
+                                                                                    -----------    -----------   ------------
+                                                                                    -----------    -----------   ------------
+
+NET INCOME (LOSS) PER COMMON SHARE:
+  Continuing operations. . . . . . . . . . . . . . . . . . . . . . . . . . . . .    $     (0.04)   $      (.82)  $      (0.23)
+  Discontinued operations. . . . . . . . . . . . . . . . . . . . . . . . . . . .          (0.26)          (.13)          0.22
+  Extraordinary gain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           0.69
+                                                                                    -----------    -----------   ------------
+  Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    $      0.39    $      (.95)  $      (0.01)
+                                                                                    -----------    -----------   ------------
+                                                                                    -----------    -----------   ------------
+
+Weighted average common shares outstanding . . . . . . . . . . . . . . . . . . .      8,509,003      5,185,070      5,182,000
+                                                                                    -----------    -----------   ------------
+                                                                                    -----------    -----------   ------------
+
+</TABLE>
+
+
+                       See notes to financial statements.
+
+
+                                       F-6
+<PAGE>
+
+                            STATEMENTS OF CASH FLOWS
+
+                              VERNITRON CORPORATION
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+
+                                                                                              YEARS ENDED DECEMBER 31,
+                                                                                    -----------------------------------------
+                                                                                        1994           1993            1992
+                                                                                    -----------    -----------   ------------
+<S>                                                                                 <C>            <C>           <C>
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income (loss). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        $ 3,681      $  (4,526)     $     102
+  Adjustments to reconcile net income (loss) to cash
+   provided by operating activities:
+   Extraordinary gain on debt repurchase, net. . . . . . . . . . . . . . . . . .         (5,856)
+   Loss on disposal of discontinued operations, net. . . . . . . . . . . . . . .          2,059
+   Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . .          1,742          1,732          1,588
+   (Increase) decrease in accounts receivable. . . . . . . . . . . . . . . . . .           (970)           934          1,268
+   Decrease in inventories . . . . . . . . . . . . . . . . . . . . . . . . . . .            682          2,019            507
+   Decrease in other current assets. . . . . . . . . . . . . . . . . . . . . . .            498            449             72
+   Increase (decrease) in accounts payable and accrued expenses. . . . . . . . .            365             10           (469)
+   Other - net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           (810)           200             37
+                                                                                        -------        -------       --------
+NET CASH PROVIDED BY OPERATING ACTIVITIES. . . . . . . . . . . . . . . . . . . .          1,391            818          3,105
+                                                                                        -------        -------       --------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Capital expenditures . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           (797)          (381)        (1,122)
+  Proceeds from sale of assets . . . . . . . . . . . . . . . . . . . . . . . . .            605
+                                                                                        -------        -------       --------
+NET CASH USED IN INVESTING ACTIVITIES. . . . . . . . . . . . . . . . . . . . . .           (192)          (381)        (1,122)
+                                                                                        -------        -------       --------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Proceeds from borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . .         45,665          3,900          8,800
+  Repayment of borrowings. . . . . . . . . . . . . . . . . . . . . . . . . . . .        (49,272)        (4,350)       (10,716)
+  Net proceeds from common stock rights offering . . . . . . . . . . . . . . . .          2,332
+  Other, net.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                           20
+                                                                                        -------        -------       --------
+NET CASH USED IN FINANCING ACTIVITIES. . . . . . . . . . . . . . . . . . . . . .         (1,275)          (450)        (1,896)
+                                                                                        -------        -------       --------
+
+NET INCREASE (DECREASE) IN CASH. . . . . . . . . . . . . . . . . . . . . . . . .            (76)           (13)            87
+
+Cash at beginning of year. . . . . . . . . . . . . . . . . . . . . . . . . . . .            103            116             29
+                                                                                        -------        -------       --------
+
+CASH AT END OF YEAR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        $    27        $   103       $    116
+                                                                                        -------        -------       --------
+                                                                                        -------        -------       --------
+
+</TABLE>
+
+
+                       See notes to financial statements.
+
+
+                                       F-7
+<PAGE>
+
+                       STATEMENTS OF SHAREHOLDERS' EQUITY
+
+                              VERNITRON CORPORATION
+
+                    (DOLLARS IN THOUSANDS, EXCEPT SHARE DATA)
+
+<TABLE>
+<CAPTION>
+
+                                                 PREFERRED STOCK          COMMON STOCK              CAPITAL          RETAINED
+                                                ------------------     -------------------         IN EXCESS         EARNINGS
+                                                SHARES      AMOUNT      SHARES       AMOUNT          OF PAR          (DEFICIT)
+                                                ------      ------      ------       ------        ---------         ---------
+<S>                                             <C>         <C>        <C>           <C>           <C>               <C>
+
+Balance at December 31, 1991 . . . . . .        415,593       $ 4      5,170,671      $ 52          $ 9,407           $    --
+  Net Income . . . . . . . . . . . . . .                                                                                  102
+  Amount realized from utilization
+   of pre quasi-reorganization
+   tax benefits. . . . . . . . . . . . .                                                                 18
+  Dividends (b). . . . . . . . . . . . .         70,770         1                                       157              (158)
+  Contribution to 401(k) plan. . . . . .                                  14,399                         27
+  Transfer to Capital in Excess
+   of Par (a). . . . . . . . . . . . . .                                                                (56)               56
+  Other. . . . . . . . . . . . . . . . .          9,533                                                  (7)
+                                                -------       ---     ----------      ----          -------           -------
+Balance at December 31, 1992 . . . . . .        495,896         5      5,185,070        52            9,546                --
+                                                -------       ---     ----------      ----          -------           -------
+  Net Loss . . . . . . . . . . . . . . .                                                                               (4,526)
+  Dividends (b). . . . . . . . . . . . .         82,050         1                                       374              (375)
+  Transfer to Capital in Excess
+   of Par (a). . . . . . . . . . . . . .                                                               (375)              375
+  Other. . . . . . . . . . . . . . . . .                                                                 (1)
+                                                -------       ---     ----------      ----          -------           -------
+Balance at December 31, 1993 . . . . . .        577,946         6      5,185,070        52            9,544            (4,526)
+                                                -------       ---     ----------      ----          -------           -------
+  Net Income . . . . . . . . . . . . . .                                                                                3,681
+  Dividends (b). . . . . . . . . . . . .         94,398         1                                       354              (355)
+  Transfer to Capital in Excess
+   of Par (a). . . . . . . . . . . . . .                                                               (355)              355
+   Common Stock rights
+    offering . . . . . . . . . . . . . .                               7,352,942        73            2,259
+   Amount realized from utilization
+    of  pre quasi-reorganization
+    tax benefits . . . . . . . . . . . .                                                              2,182
+  Other. . . . . . . . . . . . . . . . .                                                                 (2)
+                                                -------       ---     ----------      ----          -------           -------
+Balance at December 31, 1994 . . . . . .        672,344       $ 7     12,538,012      $125          $13,982           $  (845)
+                                                -------       ---     ----------      ----          -------           -------
+                                                -------       ---     ----------      ----          -------           -------
+
+
+<FN>
+(a)  Represents transfer of the excess of Preferred Stock dividends over
+     available Retained Earnings.
+
+(b)  Represents a 15% dividend paid in additional shares and valued at the
+     average of the closing bid and ask price as of the dividend record date.
+     The per share amounts of these dividends were $.34, $.70 and $.57 per share
+     of Preferred Stock in 1992, 1993 and 1994, respectively.
+
+</TABLE>
+
+
+                       See notes to financial statements.
+
+
+                                       F-8
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+                                DECEMBER 31, 1994
+
+                  (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Inventories are priced at the lower of cost (principally first-in, first-
+out, or specific identification) or market.
+
+     Deferred financing costs are amortized ratably over the life of the
+corresponding debt or commitment.
+
+     The excess of cost over net assets acquired is being amortized over thirty-
+five years using the straight-line method.
+
+     Depreciation and amortization are provided primarily by the straight-line
+method over the estimated useful lives of property, plant and equipment, which
+are stated at cost, except as otherwise indicated in Note 2.
+
+     Other assets held for disposal are stated at the lower of cost or estimated
+net realizable value (see Note 8).
+
+     Inter-division items and transactions have been eliminated in
+consolidation.
+
+     Certain items in the 1993 and 1992 financial statements have been
+reclassified to conform to the 1994 presentation.
+
+     Per share data is based upon the weighted average of common shares
+outstanding during each period.  Outstanding common stock options or warrants
+have not been included in the 1994, 1993 or 1992 computation of per share data
+as they were deemed to have been anti-dilutive.
+
+NOTE 2 - DISCONTINUED OPERATIONS
+
+     Effective September 30, 1994, the Company adopted a plan to dispose of all
+of its Electronic Components business which was comprised of the trimmer,
+transformer and microwave component product lines.  The disposal is being
+accounted for as a discontinued operation and, accordingly, the related net
+assets and operating results have been reported separately from continuing
+operations.  The Company's prior year's Statements of Operations have been
+restated to reflect continuing operations.  The loss on disposal of the
+Electronic Components business for the year ended December 31, 1994 is comprised
+of the estimated loss on disposal of the net assets of the business and a
+provision for anticipated operating losses until disposal.
+
+     During 1994, the Company sold a portion of the assets of its Electronic
+Components business for gross proceeds of $605.  Subsequent to December 31,
+1994, the Company has sold the remaining discontinued business' assets for
+$1,500, of which $1,000 has been collected as of February 24, 1995.  The
+remaining $500 is scheduled to be collected in the first half of 1995.
+
+
+                                       F-9
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+
+NOTE 2 - DISCONTINUED OPERATIONS (CONT'D)
+
+     Net assets held for disposal as of December 31, 1994 consisted of the
+following:
+
+<TABLE>
+
+               <S>                                                   <C>
+
+               Inventory                                             $1,992
+               Machinery and equipment                                  365
+               Other current assets                                      59
+               Current liabilities                                     (478)
+               Reserve for anticipated operating losses
+                 until disposal                                         (75)
+               Reserve for estimated loss on disposal
+                 of net assets                                         (990)
+                                                                     ------
+               Net assets of discontinued operations                    873
+
+               Other assets held for disposal                         1,634
+                                                                     ------
+
+               Net assets held for disposal                          $2,507
+                                                                     ------
+                                                                     ------
+
+</TABLE>
+
+
+     Revenues applicable to the discontinued business for the years ended
+December 31, 1994, 1993 and 1992 were $6,897, $9,095, and $11,355, respectively.
+The loss from operations of the discontinued Electronic Components business from
+September 30, 1994 to December 31, 1994, which is included in the loss on
+disposal, was $326, net of a tax benefit of $209.
+
+NOTE 3 - SHAREHOLDERS' EQUITY
+
+COMMON STOCK -
+
+
+     On July 20, 1994, the Company completed a rights offering of Common Stock
+in which 7,352,942 shares were issued for gross proceeds of $2,500 ($2,332, net
+of expenses).  As a result of the completion of the rights offering, the total
+number of outstanding shares of Common Stock as of December 31, 1994 is
+12,538,012.
+
+PREFERRED STOCK -
+
+     The certificate of designation (as amended in 1991) setting forth the
+amended terms of the Company's $1.20 (formerly $3.75) Cumulative Exchangeable
+Redeemable Preferred Stock provides for, among other things, (1) a liquidation
+preference of $8 per share, (2) an annual dividend of $1.20 per share, and (3)
+the ability to pay dividends thereon in additional shares instead of cash up to
+March 1, 1996.  The Company's Senior Credit Facility, however, prohibits the
+payment of cash dividends (see Note 4).  The Company at its option may redeem
+the Preferred Stock at a price of $8.00 per share or an amount per share equal
+to the product of 1.1 and the average of the NASDAQ daily closing prices per
+share (defined in general to be the average of the highest reported bid and the
+lowest reported asked prices) for ten consecutive trading days, as defined,
+together with all accrued and unpaid dividends to the redemption date.
+
+     Since August, 1991, the Company has paid quarterly dividends on the
+Preferred Stock in additional shares at an annual rate of 15% based on the
+shares outstanding.
+
+
+                                      F-10
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+
+NOTE 4 - LONG-TERM DEBT
+
+<TABLE>
+<CAPTION>
+
+                                                      1994           1993
+                                                     -------        -------
+          <S>                                        <C>            <C>
+
+          Credit Facility . . . . . . . . . .        $10,493        $24,600
+          Industrial Revenue Bond . . . . . .          1,870          1,870
+                                                     -------        -------
+                                                      12,363         26,470
+          Less current portion. . . . . . . .            442          1,200
+                                                     -------        -------
+                                                     $11,921        $25,270
+                                                     -------        -------
+                                                     -------        -------
+
+</TABLE>
+
+     On July 20, 1994, the Company obtained a new $15,000 four-year, senior
+secured credit facility (the "Senior Credit Facility"). The proceeds of the
+Senior Credit Facility along with the net proceeds of the rights offering (see
+Note 3) were used to repurchase the Company's bank indebtedness at a discount
+and to provide additional working capital.  As a result of the repurchase of
+indebtedness, an extraordinary gain of $5,856, net of a charge in lieu of taxes
+of $3,744, was recorded.
+
+     Subsequent to December 31, 1994, the Company negotiated an amendment to the
+Senior Credit Facility increasing the amount that can be borrowed under the
+facility to $17,500, subject to availability based on the satisfaction of
+certain borrowing base formulas.  Had this amendment been effective as of
+December 31, 1994, $15,800 of the $17,500 credit facility would have been
+available to the Company.
+
+     Borrowings under the Senior Credit Facility bear interest at a fluctuating
+rate per annum equal to the rate of interest publicly announced by Chemical Bank
+as its prime rate plus 2.5% (the prime rate was 8.5% at December 31, 1994).  A
+commitment fee of .5% is payable on any unused amount of the Senior Credit
+Facility.  The Senior Credit Facility contains certain restrictive covenants
+which, among other things, impose limitations with respect to the incurrence of
+additional liens, mergers, consolidations and specified sale of assets.  In
+addition, the Senior Credit Facility prohibits the payment of cash dividends.
+Borrowings under the Senior Credit Facility are secured by substantially all of
+the assets of the Company.
+
+     The Company had outstanding at December 31, 1993, industrial development
+revenue bonds (the "Bonds") in the amount of $1,870 secured by its Gilford, NH
+manufacturing facility which has a net carrying amount of approximately $2,400.
+The bonds are payable in 2005.  During 1994, the bonds were remarketed and, as a
+result, a letter of credit securing repayment was released and the interest rate
+was converted from a floating rate to a fixed rate of 13% per annum.
+
+     Scheduled debt maturities during the next five years, which are comprised
+solely of payment under the Company's Senior Credit Facility (as amended) are
+$442 (1995), $589 (1996), $589 (1997) and $8,873 (1998).
+
+
+                                      F-11
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+
+NOTE 5 - BALANCE SHEET INFORMATION
+
+     The details of certain balance sheet accounts are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                     1994             1993
+                                                   --------         -------
+<S>                                                <C>              <C>
+
+  INVENTORIES:
+     Raw materials . . . . . . . . . . . . .        $ 2,551         $ 5,820
+     Work-in-process . . . . . . . . . . . .          5,879           5,225
+     Finished goods. . . . . . . . . . . . .          6,097           7,752
+                                                   --------         -------
+                                                    $14,527         $18,797
+                                                   --------         -------
+                                                   --------         -------
+   NET PROPERTY, PLANT AND EQUIPMENT:
+     Land. . . . . . . . . . . . . . . . . .        $   600         $   600
+     Buildings and improvements. . . . . . .          3,562           3,506
+     Machinery and equipment . . . . . . . .          7,490           7,942
+                                                    -------         -------
+                                                     11,652          12,048
+     Less accumulated depreciation
+      and amortization . . . . . . . . . . .          3,662           2,659
+                                                    -------         -------
+                                                    $ 7,990         $ 9,389
+                                                    -------         -------
+                                                    -------         -------
+   ACCRUED EXPENSES AND OTHER LIABILITIES:
+     Compensation and related benefits . . .        $ 2,180         $ 1,813
+     Motion Control relocation . . . . . . .             81             953
+     Legal . . . . . . . . . . . . . . . . .            443             236
+     Other . . . . . . . . . . . . . . . . .          3,237           2,049
+                                                    -------         -------
+
+                                                    $ 5,941         $ 5,051
+                                                    -------         -------
+                                                    -------         -------
+
+</TABLE>
+
+NOTE 6 - INCOME TAXES
+
+     At December 31, 1994, the Company has net operating loss carryforwards of
+approximately $11,250 which expire in the years 2005 through 2008 and
+alternative minimum tax credit carryforwards of approximately $320.  In
+addition, the Company has approximately $8,200 of previously unrecognized tax
+benefits, principally related to inventories.  As the portion of the loss
+carryforwards and deferred tax benefits originating prior to the 1991 quasi-
+reorganization are realized, the corresponding tax effect will be credited to
+Capital in Excess of Par under quasi-reorganization accounting principles rather
+than reducing the Provision for Taxes.  In 1994, $2,182 was credited to Capital
+in Excess of Par representing the utilization of such pre quasi-reorganization
+tax benefits to offset current year tax expense related to both continuing and
+discontinued operations as well as the extraordinary gain.  As of December 31,
+1994, $5,008 of the pre quasi-reorganization tax effected benefits remain
+unutilized.  The utilization and realization of the carryforwards and future tax
+benefits will substantially reduce or eliminate the amount of cash taxes payable
+on taxable income in the future.
+
+
+                                      F-12
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+NOTE 6 - INCOME TAXES (CONT'D)
+
+     The Company utilizes the liability method (SFAS No. 109) in accounting for
+income taxes.  Income (loss) from continuing operations before taxes is from
+domestic sources only for the three years ended December 31, 1994.
+
+     The provision for taxes on income from continuing operations consists of:
+
+<TABLE>
+<CAPTION>
+
+                                                   1994      1993      1992
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+
+     Current taxes:
+        U.S. Federal
+         - charge in lieu of taxes . . . . . . .   $ 14     $  --     $  18
+        State and local. . . . . . . . . . . . .      3                   9
+                                                   ----     -----     -----
+                                                     17        --        27
+                                                   ----     -----     -----
+     Deferred taxes:
+        U.S. Federal . . . . . . . . . . . . . .
+                                                   ----     -----     -----
+                                                   $ --     $  --     $  27
+                                                   ----     -----     -----
+                                                   ----     -----     -----
+
+</TABLE>
+
+     The reasons for the difference between the provision for taxes and the
+amount computed by applying the statutory federal income tax rate to income
+(loss) before taxes are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                   1994      1993      1992
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+
+  U.S. federal statutory rate. . . . . . . . . .     34%       34%       34%
+  Computed expected tax provision (benefit). . .   $ 15   $(1,539)    $  44
+  Increase (decrease) in taxes
+  resulting from:
+     State and local taxes, net of federal
+      tax benefit. . . . . . . . . . . . . . . .      2                   6
+     Recognition of previously unrecognized
+      deferred tax assets. . . . . . . . . . . .    (71)                (94)
+     Amortization of goodwill. . . . . . . . . .     71        71        71
+  Portion of loss not currently realizable . . .            1,468
+                                                   ----   -------     -----
+
+  Actual tax provision . . . . . . . . . . . . .   $ 17   $    --     $  27
+                                                   ----   -------     -----
+                                                   ----   -------     -----
+
+</TABLE>
+
+          Deferred income taxes reflect the net tax effects of temporary
+differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes.  Significant
+components of the Company's deferred tax assets and liabilities are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                              December 31,
+                                                          -----------------
+                                                            1994      1993
+                                                          -------   -------
+<S>                                                       <C>       <C>
+
+     Tax net operating loss carryfowards . . . .          $ 4,130   $ 5,100
+     Inventory valuation differences . . . . . .            1,736     3,050
+     Other, net. . . . . . . . . . . . . . . . .            1,057       486
+                                                          -------   -------
+       Sub-Total . . . . . . . . . . . . . . . .            6,923     8,636
+     Valuation allowance . . . . . . . . . . . .           (6,923)   (8,636)
+                                                          -------   -------
+     Total deferred taxes. . . . . . . . . . . .          $    --   $    --
+                                                          -------   -------
+                                                          -------   -------
+
+</TABLE>
+
+     Total federal, foreign and state and local income taxes paid (refunded),
+net of refunds, in 1994, 1993 and 1992 were $(9), $(8) and $57, respectively.
+
+
+                                      F-13
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+
+NOTE 7 - PENSION ARRANGEMENTS
+
+     The Company terminated its noncontributory defined benefit plan covering
+substantially all employees not subject to a collective bargaining agreement in
+1992.  Included in the determination of 1992 pension expense is a curtailment
+loss of $16 relating to this plan.  The Company has two other plans for which
+benefits and participation have been frozen.  Pension benefits under these plans
+are generally based upon years of service and compensation.
+
+     The Company's funding policy is to contribute amounts to the plan
+sufficient to meet the minimum funding requirements set forth in the Employee
+Retirement Income Security Act of 1974, plus such additional amounts as the
+Company may determine to be appropriate from time to time.
+
+     Multi-employer plans covering certain union members generally provided
+benefits of stated amounts for each year of service.  During 1994, in connection
+with the restructuring of the Motion Control group (see Note 8), the employment
+of the union members participating in these multi-employer plans ended and, as a
+result, contributions to these plans ceased.  As of December 31, 1994, there
+were no unpaid contributions to multi-employer plans.
+
+     A summary of components of net periodic pension cost for the defined
+benefit plans and the total contribution charged to pension expense for the
+multi-employer plans follows:
+
+<TABLE>
+<CAPTION>
+
+                                                   1994      1993      1992
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+
+     Defined benefit plans:
+     Service cost-benefits earned
+      during the period. . . . . . . . . . . . .   $ --      $ --      $ 14
+     Interest cost on projected benefit
+      obligation . . . . . . . . . . . . . . . .     73       105       163
+     Actual return on plan assets. . . . . . . .      1         5       (30)
+     Net amortization and deferral . . . . . . .     (5)      (10)      (16)
+                                                   ----      ----      ----
+     Net pension cost of defined benefit
+      plans. . . . . . . . . . . . . . . . . . .     69       100       131
+     Multi-employer plans. . . . . . . . . . . .     59       301       427
+     Curtailment loss. . . . . . . . . . . . . .                         16
+                                                   ----      ----      ----
+     Total pension expense . . . . . . . . . . .   $128      $401      $574
+                                                   ----      ----      ----
+                                                   ----      ----      ----
+
+</TABLE>
+
+     Assumptions used in accounting for the defined benefit plans as of the
+plans' measurement dates were:
+
+<TABLE>
+<CAPTION>
+
+                                                   1994      1993      1992
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+
+     Weighted-average discount rate. . . . . . .    7.5%      7.5%      7.3%
+     Expected long-term rate of return
+       on assets . . . . . . . . . . . . . . . .    6.0%      7.3%      7.0%
+
+</TABLE>
+
+
+                                      F-14
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+NOTE 7 - PENSION ARRANGEMENTS, (CONT'D)
+
+     The following table sets forth the funded status and amount recognized in
+the consolidated balance sheets for the Company's defined benefit pension plans.
+Computations for certain plans were made using a September 30 measurement date.
+
+
+<TABLE>
+<CAPTION>
+
+                                                   1994      1993      1992
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+
+  Actuarial present value of benefit obligations:
+  Vested benefit obligation. . . . . . . . .     $1,026    $1,003    $1,866
+                                                 ------    ------    ------
+                                                 ------    ------    ------
+  Accumulated benefit obligation . . . . . .     $1,026    $1,003    $1,866
+                                                 ------    ------    ------
+                                                 ------    ------    ------
+  Projected benefit obligation . . . . . . .     $1,026    $1,003    $1,866
+  Less plan assets at fair market value. . .         32        35       642
+                                                 ------    ------    ------
+  Projected benefit obligation in excess of
+   plan assets . . . . . . . . . . . . . . .        994       968     1,224
+  Unrecognized net gain. . . . . . . . . . .         83        80       111
+                                                 ------    ------    ------
+  Net pension liability recognized in the
+   balance sheet . . . . . . . . . . . . . .     $1,077    $1,048    $1,335
+                                                 ------    ------    ------
+                                                 ------    ------    ------
+
+</TABLE>
+
+     Unrecognized net gains and losses are amortized over the average future
+service lives of participants.  Plan assets are primarily invested in fixed
+income instruments.
+
+     Under the Company's 401(k) plan, eligible employees may elect to contribute
+a percentage of their earnings which the Company has matched up to 3% of gross
+earnings based on the level of consolidated income.  Company matching
+contributions were $363 in 1994 and $423 in 1992. The Company made no matching
+contribution in 1993.
+
+NOTE 8 - OTHER INFORMATION
+
+RESTRUCTURING PLAN -
+
+     During 1993, the Company announced its plan to restructure its Motion
+Control group.  The motion control business had been organized as two separate
+divisions.  The plan consolidated the two divisions under a single operating
+management based in San Diego.
+
+     In connection with the restructuring, the Company recorded a charge of
+$3,500.  The charge included $2,300 for the write-down of slow moving and excess
+inventory to net realizable value.  In addition, $1,200 was recorded for
+severance, early retirement, other employee-related benefits and other related
+charges.  As part of the restructuring, the Company has closed and is in the
+process of selling the Deer Park, New York facility.
+
+     During 1994, the Company recorded an additional $1,315 charge related to
+this restructuring, $1,015 of which is to provide additional inventory reserves
+to reflect slower turnover of the inventory than was anticipated in the 1993
+charge calculation.  The remaining $300 of the 1994 charge is to adjust the
+carrying amount of other assets held for disposal in connection with the
+restructuring to reflect current market values.
+
+
+                                      F-15
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+                              VERNITRON CORPORATION
+
+
+NOTE 8 - OTHER INFORMATION, (CONT'D)
+
+STOCK OPTIONS -
+
+     Options to purchase up to 218,000 shares of Vernitron common stock, with
+exercise prices of $.75 - $.83 per share, have been issued to certain key
+employees of the Company.  Of that amount, 102,000 options are vested, with the
+balance becoming vested as follows: 47,900 (1995), 37,800 (1996) and 30,300
+(1997).  These options are exercisable for up to seven years from the date of
+grant.  There are 532,000 shares available for future grant.
+
+INTEREST PAID - in 1994, 1993 and 1992 was $1,883, $2,168 and $2,346,
+respectively.
+
+NOTE 9 - COMMITMENTS AND CONTINGENCIES
+
+     Future minimum payments, under noncancellable operating leases (exclusive
+of property expenses and net of sublease rental income), as of December 31,
+1994, are as follows:
+
+                    1995 . . . . . . . . . . . . .   $ 1,581
+                    1996 . . . . . . . . . . . . .     1,542
+                    1997 . . . . . . . . . . . . .     1,489
+                    1998 . . . . . . . . . . . .       1,257
+                    1999 . . . . . . . . . . . . .     1,176
+                    2000 and thereafter. . . . . .       409
+                                                     -------
+                                                     $ 7,454
+                                                     -------
+                                                     -------
+
+     Rent expense under such leases, net of sublease rental income, amounted to
+$1,379 in 1994, $1,348 in 1993 and  $1,308 in 1992.
+
+     In February 1990, the Company sold and leased back its San Diego,
+California facility under an operating lease.  The Company has a deferred gain
+as of December 31, 1994 on this transaction of $651, which is being amortized to
+income over the ten year lease term as a reduction of annual rent expense.
+
+     The Company is a defendant in various lawsuits, none of which is expected
+to have a material adverse effect on the Company's financial position or results
+of operations.
+
+
+                                      F-16
+<PAGE>
+
+
+                  SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS
+
+                              VERNITRON CORPORATION
+
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+
+- --------------------------------------------------------------------------------------------------------------------------------
+          COL. A                            COL. B             COL. C        COL. D                  COL. E          COL. F
+- --------------------------------------------------------------------------------------------------------------------------------
+
+                                                                    Additions
+                                                             ------------------------
+                                          Balance at         Charged to    Charged to
+                                          Beginning          Costs and       Other                                  Balance at
+       Classification                     of Period           Expenses      Accounts               Deductions     End of Period
+       --------------                     ----------         ----------    -----------             ----------     --------------
+<S>                                       <C>                <C>           <C>                     <C>            <C>
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+   Year ended December 31, 1994:             $278                $124                                $ 57(a)          $345
+
+   Year ended December 31, 1993:             $291                $ 40                                $ 53(a)          $278
+
+   Year ended December 31, 1992:             $466                $ 51                                $226(a)          $291
+
+
+
+- --------------------
+
+<FN>
+(a)  Uncollectible accounts written off, net of recoveries.
+
+</TABLE>
+                                      F-17
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+
+EXHIBIT
+NUMBER                        DESCRIPTION                        SEQ. PG. NO.
+- -------                       -----------                        ------------
+
+3(1)           Certificate of Incorporation of the Registrant
+               (filed as Exhibit 1 to the Form 8-A, filed on
+               August 8, 1991 (the "Form 8-A") and incorporated
+               herein by reference).
+
+3(2)           By-Laws of the Registrant (filed as Exhibit 2 to
+               the Form 8-A and incorporated herein by
+               reference).
+
+4(1)           Certificate of the Designation, Powers,
+               Preferences and Rights of the $3.75 Cumulative
+               Exchangeable Redeemable Preferred Stock
+               ("Preferred Stock") (filed as Exhibit 4(2) to
+               the Registrant's Registration Statement on Form
+               S-4 (Registration Number 33-16310), filed on
+               August 6, 1987 (the "Registration Statement")
+               and incorporated herein by reference).
+
+4(2)           Certificate of Amendment of Certificate of
+               Incorporation Effecting the Amendment and
+               Restatement of the Certificate of the
+               Designation, Powers, Preferences and Rights of
+               the Preferred Stock, dated as of August 14, 1991
+               (filed as Exhibit 4(2) to the Registrant's
+               Annual Report on Form 10-K for the year ended
+               December 31, 1991 (the "1991 Form 10-K") and
+               incorporated herein by reference).
+
+4(3)           Form of Indenture between Registrant and the
+               Bank of Montreal Trust Company, as Trustee,
+               relating to the 15% Subordinated Debentures of
+               the Registrant, issuable at the option of the
+               Registrant in exchange for the Preferred Stock
+               (filed as Exhibit 4(1) to the Registration
+               Statement and incorporated herein by reference).
+
+10(1)          Indenture of Trust by and between the Industrial
+               Development Authority of the State of New
+               Hampshire and Laconia Peoples National Bank and
+               Trust Company for $3,000,000 principal amount of
+               Industrial Development Authority of the State of
+               New Hampshire Floating Rate Monthly Demand
+               Industry Facility Bonds (filed as Exhibit 10(18)
+               to the Registrant's Annual Report or Form 10-K
+               for the fiscal year ended December 28, 1985,
+               filed on April 15, 1986 (the "1985 Form 10-K")
+               and incorporated herein by reference).
+
+10(2)          Loan Agreement by and among the Industrial
+               Development Authority of the State of New
+               Hampshire, the Registrant and V Land Corporation
+               for $3,000,000 principal amount of Industrial
+               Development Authority of the State of New
+               Hampshire Floating Rate Monthly Demand Industry
+               Facility Bonds (filed as Exhibit 10(19) to the
+               1985 Form 10-K and incorporated herein by
+               reference).
+
+10(3)          Reimbursement Agreement by and among V Land
+               Corporation, the Registrant and National
+               Westminster Bank PLC for $3,000,000 principal
+               amount of Industrial Development Authority of
+               the State of New Hampshire Floating Rate Monthly
+               Demand Industry Facility Bonds (filed as Exhibit
+               10(20) to the 1985 Form 10-K and incorporated
+               herein by reference).
+
+
+                                       E-1
+
+<PAGE>
+
+
+EXHIBIT
+NUMBER                        DESCRIPTION                   SEQ. PG. NO.
+- -------                       -----------                   ------------
+
+10(4)          Bond Purchase Agreement by and between E.F.
+               Hutton & Company, Inc. and the Industrial
+               Development Authority of the State of New
+               Hampshire for $3,000,000 principal amount of the
+               Industrial Development Authority of the State of
+               New Hampshire Floating Rate Monthly Demand
+               Industry Facility Bonds (filed as Exhibit 10(21)
+               to the 1985 Form 10-K and incorporated herein by
+               reference).
+
+10(5)          Amended and Restated Credit Agreement, dated as
+               of March 28, 1991 (the "Credit Agreement") by
+               and among the Registrant, The Bank of New York
+               and National Westminster Bank USA (filed as
+               Exhibit 10(5) to the Form 10-K for the fiscal
+               year ended December 30, 1990, filed on March 28,
+               1991 (the "1990 Form 10-K") and incorporated
+               herein by reference).
+
+10(6)          Amendment No. 1 to the Credit Agreement, dated
+               as of December 31, 1991 (filed as Exhibit 10(6)
+               to the 1991 Form 10-K and incorporated herein by
+               reference).
+
+10(7)          Security Agreement dated as of August 28, 1987
+               among the Registrant, certain subsidiaries of
+               the Registrant, Irving Trust Company, National
+               Westminster Bank USA and Irving Trust Company,
+               as Collateral Agent (filed as Exhibit 10(79) to
+               Post-Effective Amendment No. 1, filed on
+               September 2, 1987 to the Registration Statement
+               (the "Post-Effective Amendment") and
+               incorporated herein by reference).
+
+10(8)          Stock Pledge and Security Agreement dated as of
+               August 28, 1987 among the Registrant, certain
+               subsidiaries of the Registrant, Irving Trust
+               Company, National Westminster Bank USA and
+               Irving Trust Company as Collateral Agent (filed
+               as Exhibit 10(80) to the Post-Effective
+               Amendment and incorporated herein by reference).
+
+10(9)          Reimbursement, Contribution and Subrogation
+               Agreement (the "Reimbursement Agreement") dated
+               as of August 28, 1987 among certain subsidiaries
+               of the Registrant (filed as Exhibit 10(81) to
+               the Post-Effective Amendment and incorporated
+               herein by reference).
+
+10(10)         Waiver/Amendment dated as of August 28, 1987 to
+               Reimbursement Agreement, as amended, between the
+               Registrant, V Land Corporation and National
+               Westminster Bank PC (filed as Exhibit 10(78) to
+               the Post-Effective Amendment and incorporated
+               herein by reference).
+
+10(11)         Fifth amendment dated as of June 15, 1990, to
+               Reimbursement Agreement (filed as Exhibit 10(10)
+               to the 1990 Form 10-K and incorporated herein by
+               reference).
+
+
+                                       E-2
+
+<PAGE>
+
+
+EXHIBIT
+NUMBER                        DESCRIPTION                        SEQ. PG. NO.
+- -------                       -----------                        ------------
+
+10(12)         Employment Agreement dated as of September 5,
+               1989, by and between the Registrant and Edward M.
+               Murchie (filed as Exhibit 10(32) to the
+               Registrant's Annual Report on Form 10-K for the
+               year ended December 31, 1989, filed on March 28,
+               1990 (the "1989 Form 10-K") and incorporated
+               herein by reference).
+
+10(13)         Agreement by and between the Registrant and John
+               R. Slowik, dated as of September 17, 1990 (filed
+               as Exhibit 10(14) to the 1990 Form 10-K and
+               incorporated herein by reference).
+
+10(14)         Agreement by and between the Registrant and One
+               Lambda, Inc., dated as of December 27, 1990
+               (filed as Exhibit 10(15) to the 1990 Form 10-K
+               and incorporated herein by reference).
+
+10(15)         Form of Indemnification Agreement (filed as
+               Exhibit 10(16) to the 1990 Form 10-K and
+               incorporated herein by reference).
+
+10(16)         Vernitron Corporation Long-Term Stock Incentive
+               Plan (filed as Exhibit 10(16) to the 1991 Form
+               10-K and incorporated herein by reference).
+
+10(17)         Form of Stock Option Agreement, dated as of
+               September 30, 1991 (filed as Exhibit 10(17) to
+               the 1991 Form 10-K and incorporated herein by
+               reference).
+
+10(18)         Amendment No. 2 to the Credit Agreement, dated
+               as of December 31, 1992 (filed as Exhibit 10(18)
+               to the Registrant's Annual Report on Form 10-K
+               for the year ended December 31, 1992 (the "1992
+               Form 10-K") and incorporated herein by
+               reference).
+
+10(19)         Amendment No. 3 to the Credit Agreement, dated
+               as of September 30, 1993 (filed as Exhibit
+               10(19) to the Registrant's Annual Report on Form
+               10-K for the year ended December 31, 1993 (the
+               "1993 Form 10-K") and incorporated herein by
+               reference).
+
+10(20)         Amendment No. 4 to the Credit Agreement, dated
+               as of December 29, 1993 (filed as Exhibit 10(20)
+               to the 1993 Form 10-K and incorporated herein by
+               reference).
+
+10(21)         Amendment No. 5 to the Credit Agreement, dated as
+               of March 15, 1994 (filed as Exhibit 10(21) to
+               the 1993 Form 10-K and incorporated herein by
+               reference).
+
+10(22)         Letter Agreement, dated March 15, 1994, between
+               Vernitron Corporation and The Bank of New York
+               and National Westminster Bank USA (filed as
+               Exhibit 10(1) to the Registrant's Quarterly
+               Report on Form 10-Q for the fiscal quarter ended
+               March 31, 1994 (the "1994 First Quarter Form 10-
+               Q") and incorporated herein by reference).
+
+10(23)         Letter Agreement, dated May 4, 1994, between
+               Vernitron Corporation and The Bank of New York
+               and National Westminster Bank USA (filed as
+               Exhibit 10(2) to the 1994 First Quarter Form 10-
+               Q and incorporated herein by reference).
+
+
+                                       E-3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.(37)
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10(37)
+<TEXT>
+
+<PAGE>
+
+
+                                                                  March 17, 1995
+
+
+THE CIT GROUP/CREDIT FINANCE, INC.
+135 West 50th Street
+New York, New York 10020
+
+                     Re:  AMENDMENT TO FINANCING AGREEMENTS
+
+Gentlemen:
+
+     Reference is made to certain financing arrangements heretofore entered into
+between VERNITRON CORPORATION ("Borrower") and THE CIT GROUP/CREDIT FINANCE,
+INC. ("Lender") pursuant to certain financing agreements, including, but not
+limited to, the Loan and Security Agreement dated July 20, 1994 entered into
+between Borrower and Lender (the "Loan Agreement"), the $2,451,000 Promissory
+Note dated July 20, 1994 (the "Note") and related agreements, documents,
+instruments, notes, mortgages and guaranties creating or evidencing indebtedness
+or granting collateral security therefor, executed and delivered in connection
+therewith (all of the foregoing, as the same may now exist or may hereafter be
+amended, modified, supplemented, renewed, extended or replaced are hereinafter
+collectively referred to as the "Financing Agreements").  All capitalized terms
+used herein which are not otherwise defined herein, shall have the respective
+meaning ascribed to such terms as set forth in the Loan Agreement.
+
+     Borrower has requested that Lender make additional loans available to
+Borrower and modify and amend certain provisions of the Financing Agreements,
+and Lender is willing to do so subject to the terms and conditions of this
+Letter Re: Amendment to Financing Agreements (the "Amendment").
+
+     In consideration of the foregoing, the parties hereto hereby agree as
+follows:
+
+          1.   (a)  Contemporaneously herewith, Lender is making an additional
+advance to Borrower in the original principal amount of $837,050.62 (the
+"Additional Term Loan").  The Additional Term Loan shall be consolidated with
+the outstanding principal balance of the Term Loan (collectively, the "Term
+Loan") which Term Loan shall be evidenced by that certain Promissory Note dated
+of even date herewith in the original principal amount of $2,701,334 executed
+and delivered by Borrower in favor of Lender (the "Note").  All references to
+the "Term Loan" or "Note" (as each said quoted term is defined in the Loan
+Agreement) shall be deemed amended to mean the Term Loan or Note, respectively,
+as defined in this paragraph 1.
+<PAGE>
+
+               (b)  Contemporaneously with the execution and delivery of the
+Note to Lender, Lender is delivering to Borrower the original Promissory Note
+dated July 20, 1994 by Borrower in favor of Lender in the original principal
+amount of $2,451,000, marked "Amended and Restated and Replaced by Promissory
+Note dated March 17, 1995 in the original principal amount of $2,701,334".
+
+          2.   (a)  As a one time financial accommodation to the Borrower,
+Lender has agreed to make a supplemental advance to Borrower in respect of
+Eligible WIP Inventory.  As of the date hereof, after giving effect to such
+advance, the outstanding principal amount of the WIP Advance, as defined in
+Section 2.1(e)(ii) of the Loan Agreement, is $825,000.
+
+               (b)  Notwithstanding anything to the contrary contained in
+Section 2.1(e)(ii) of the Loan Agreement, (i) the WIP Advance shall be repaid in
+forty-eight (48) consecutive monthly installments, on the first (1st) day of
+each month, commencing April 1, 1995, of which the first forty-seven (47)
+installments shall each be in the amount of $17,187.50 and the last and forty-
+eighth (48th) installment shall be in the amount of the then unpaid outstanding
+balance of the WIP Advance; and (ii) if for any fiscal quarter (i.e., at March
+31, June 30, September 30 or December 31 of any year) commencing with Borrower's
+fiscal quarter ending March 31, 1995, the Borrower's net loss before
+extraordinary items, and excluding any loss arising from the sale of Borrower's
+owned real estate located in Deer Park, New York and St. Petersburg, Florida,
+determined in accordance with GAAP, and as reported on Borrower's quarterly or
+annual financial statements, as the case may be, provided for under Section
+6.1(c) of the Loan Agreement ("Quarterly Net Loss") exceeds $250,000, then, from
+and after the last day of such fiscal quarter, the monthly installments payable
+in respect of the WIP Advance shall be in the amount of $22,916.67 until the
+repayment in full of the WIP Advance; EXCEPT THAT, if, for any subsequent fiscal
+quarter following any fiscal quarter in which the Quarterly Net Loss exceeds
+$250,000, Borrower reports net income before extraordinary items, excluding any
+loss arising from the sale of Borrower's owned real estate located in Deer Park,
+New York and St. Petersburg, Florida, determined in accordance with GAAP, in
+excess of $500,000, then, commencing with the immediately following month, the
+monthly installments payable in respect of the WIP Advance shall be in the
+amount of $17,187.50 until the WIP Advance is paid in full, PROVIDED HOWEVER,
+that if during any subsequent fiscal quarter the Borrower's Quarterly Net Loss
+again exceeds $250,000 then the monthly installments payable thereafter shall be
+in the increased amount of $22,916.67 as set forth above in this paragraph
+2(b)(ii), subject to further reduction to $17,187.50 and to further increase to
+$22,916.67 in accordance with the terms hereof.
+
+               (c)  In addition to, and not in limitation of, the foregoing,
+Borrower shall make mandatory prepayments against the outstanding principal
+balance of the WIP
+
+
+                                       -2-
+<PAGE>
+
+Advance in an amount equal to the amount by which the value at cost of Eligible
+WIP Inventory (as determined by Lender in its sole discretion) is less than
+$2,000,000.  Such mandatory prepayments shall be made at such times and from
+time to time as Lender determines that the value, at cost, of Eligible WIP
+Inventory is less than $2,000,000.  All payments required to be paid hereunder
+may, at Lender's option, be charged to any account(s) of Borrower maintained
+with Lender.
+
+          3.   Section 3.1(b) of the Loan Agreement is hereby amended and
+replaced in its entirety as follows:
+
+               "(b) Notwithstanding anything to the contrary contained herein,
+if (i) as of any Interest Adjustment Date (as defined below), the outstanding
+amount of loans by Lender to Borrower:  (1) against Borrower's real property
+located in St. Petersburg, Florida as provided in Section 10.2(a)(i) hereof does
+not exceed 50% of the quick-sale value thereof, as determined by Lender in its
+sole discretion, AND (2) against Borrower's Equipment, as provided for in
+Section 10.2(a)(iii) hereof does not exceed 80% of the auction value of such
+Equipment, as determined by Lender in its sole discretion, AND (3) against
+Borrower's inventory does not exceed 75% of the orderly liquidation value
+thereof, as determined by Lender in Lender's sole discretion, AND (4) against
+Borrower's AST Bearings and Beau Interconnect Accounts, as determined by Lender
+in its sole discretion, does not exceed 85% of the value thereof, AND (5)
+against Borrower's Motion Control Accounts, as determined by Lender in its sole
+discretion, does not exceed 83% of the value thereof AND (6) against Borrower's
+Precision Components Accounts, as determined by Lender in its sole discretion,
+does not exceed 79% of the value thereof, then from and after the Interest
+Adjustment Date and so long as all such advance rate limitations described above
+continue to be met, the Interest Rate as provided under Section 3.1 (a) and
+Section 10.4(a) then in effect (after giving effect to any adjustment as
+provided for under Section 2.1(g) hereof) shall be reduced by one-quarter of one
+(.25%) percent per annum; and (ii) as of any Interest Adjustment Date, if (x)
+all advance rate limitations under Section 3.1(b)(i) are met AND (y) the
+Borrower's Cash Flow (as defined below), calculated quarterly on a cumulative
+basis, is positive, then, from and after the Interest Adjustment Date and so
+long as all such advance rate limitations under Section 3.1(b)(i) continue to be
+met, THEN, the Interest Rate as provided under Section 3.1(a) and Section
+10.4(a) then in effect (after giving effect to any adjustments as provided for
+under Section 2.1(g) hereof) shall be reduced, in addition to the reduction as
+set forth in Section 3.1(b)(i) hereof, by an additional one-quarter of one
+(.25%) percent per annum."
+
+          4.   Notwithstanding anything to the contrary contained in Section 9.2
+of the Loan Agreement, if Lender terminates the Loan Agreement upon or after the
+occurrence of an Event of Default, or if Borrower shall terminate the Loan
+Agreement as
+
+
+                                       -3-
+<PAGE>
+
+permitted therein effective prior to the end of the then-current Term for any
+reason other than an Acquisition Financing Termination Event (as defined below),
+in addition to all other Obligations, Borrower shall pay to Lender, upon the
+effective date of termination, in view of the impracticality and extreme
+difficulty of ascertaining actual damages and by mutual agreement of the parties
+as to a reasonable calculation of Lender's lost profits, an early termination
+fee equal to (a) three (3%) percent of the Maximum Credit if such termination
+occurs on or prior to the first anniversary of this Amendment, (b) two (2%)
+percent of the Maximum Credit if such termination occurs after the first
+anniversary and on or before the second anniversary of this Amendment, (c) one
+(1%) percent of the Maximum Credit if such termination occurs after the second
+anniversary of this Amendment.  In the event the Borrower terminates the Loan
+Agreement in accordance with Section 9 in connection with an Acquisition
+Financing Termination Event, Borrower shall pay to Lender the early termination
+fee as set forth in Section 9.2 of the Loan Agreement.
+
+          For purposes hereof, "Acquisition Financing Termination Event" shall
+mean a termination by Borrower of the then existing financing arrangements
+between Lender and Borrower resulting from Lender's inability or unwillingness
+to provide, upon terms reasonably acceptable to Borrower, financing for the
+purchase by Borrower of all or substantially all of the capital stock and/or
+assets of another entity, including, in connection with the financing of such
+purchase, the continuation, amendment or refinancing, upon terms reasonably
+acceptable to Borrower, of the then existing financing arrangements between
+Lender and Borrower.
+
+          5.   Sections 10.1 and 10.2 of the Loan Agreement are hereby amended
+and replaced in their entirety as follows:
+
+   "10.1  (a)  Maximum Credit:                                      $17,500,000
+
+          (b)  Gross Availability Formulas:
+
+               (i)  Eligible Accounts Percentages (the term "Quarterly Net Loss"
+                    shall have the meaning as set forth in that certain Letter
+                    Re: Amendment to Financing Agreements dated March __, 1995
+                    (the "Amendment")):
+
+                    (1)  AST BEARINGS AND BEAU INTERCONNECT ELIGIBLE ACCOUNTS
+                         PERCENTAGE:  Subject to the succeeding terms of this
+                         Section 10.1(b)(i)(1), the applicable AST Bearings and
+                         Beau Interconnect Eligible Accounts Percentage for AST
+                         Bearings and Beau Interconnect Accounts shall
+
+
+                                       -4-
+<PAGE>
+
+                         be 90% PROVIDED, HOWEVER, that in the event that
+                         Borrower's Quarterly Net Loss for any fiscal quarter,
+                         commencing with Borrower's fiscal quarter ending March
+                         31, 1995, exceeds $250,000 (whether the same occurs
+                         prior to or subsequent to any fiscal quarter in which
+                         Borrower reports, in any fiscal quarter, quarterly net
+                         income before extraordinary items, excluding any loss
+                         arising from the sale of Borrower's owned real estate
+                         located in Deer Park, New York and St. Petersburg,
+                         Florida (determined in accordance with GAAP) in excess
+                         of $500,000) the AST Bearings and Beau Interconnect
+                         Eligible Accounts Percentage shall be reduced in each
+                         succeeding month by .25%, FURTHER PROVIDED, however,
+                         that in no event shall the AST Bearings and Beau
+                         Interconnect Eligible Accounts Percentage be thereby
+                         reduced below 85%.  In the event that, AFTER a fiscal
+                         quarter, commencing with Borrower's fiscal quarter
+                         ending March 31, 1995, in which Borrower's Quarterly
+                         Net Loss exceeded $250,000, Borrower reports in any
+                         such fiscal quarter quarterly net income prior to
+                         extraordinary items, excluding any loss arising from
+                         the sale of Borrower's owned real estate located in
+                         Deer Park, New York and St. Petersburg, Florida
+                         (determined in accordance with GAAP) exceeding
+                         $500,000, unless and until Borrower's Quarterly Net
+                         Loss in any succeeding fiscal quarter exceeds $250,000,
+                         the AST Bearings and Beau Interconnect Eligible
+                         Accounts Percentage shall be increased in each month by
+                         .25%, PROVIDED HOWEVER, that in no event shall the AST
+                         Bearings and Beau Interconnect Eligible Accounts
+                         Percentage exceed 90%.  If the aggregate amount of
+                         Borrower's credits, allowances, discounts, write-offs,
+                         contra-accounts, and other offsets which reduce the
+                         value of AST Bearings and Beau Interconnect Accounts,
+                         as determined by Lender in its sole discretion, divided
+                         by gross AST Bearings and Beau Interconnect Accounts
+                         invoices ("AST BEARINGS AND BEAU INTERCONNECT DILUTION
+                         PERCENTAGE") is equal to or greater than two (2%)
+                         percent, then the AST Bearings and Beau Interconnect
+                         Eligible Accounts Percentage then in
+
+
+                                       -5-
+<PAGE>
+
+                         effect shall be reduced by one (1%) percentage point
+                         for each percentage point, by which the AST Bearings
+                         and Beau Interconnect Dilution Percentage exceeds two
+                         (2%) percent.  Any such adjustment resulting from the
+                         AST Bearings and Beau Interconnect Dilution Percentage
+                         shall be in addition to any adjustment in the AST
+                         Bearings and Beau Interconnect Eligible Accounts
+                         Percentage as provided for above.  The AST Bearings and
+                         Beau Interconnect Dilution Percentage shall be
+                         calculated on a rolling 90 day average.
+
+                    (2)  MOTION CONTROL ELIGIBLE ACCOUNTS PERCENTAGE: Subject to
+                         the succeeding terms of this Section 10.1(b)(i)(2), the
+                         applicable Motion Control Eligible Accounts Percentage
+                         shall be 85% PROVIDED, HOWEVER, that in the event that
+                         Borrower's Quarterly Net Loss for any fiscal quarter,
+                         commencing with Borrower's fiscal quarter ending March
+                         31, 1995, exceeds $250,000 (whether the same occurs
+                         prior to or subsequent to any fiscal quarter in which
+                         Borrower reports quarterly net income before
+                         extraordinary items, excluding any loss arising from
+                         the sale of Borrower's owned real estate located in
+                         Deer Park, New York and St. Petersburg, Florida
+                         (determined in accordance with GAAP) in excess of
+                         $500,000) the Motion Control Eligible Accounts
+                         Percentage shall be reduced in each succeeding month by
+                         .25%, FURTHER PROVIDED, however, that in no event shall
+                         the Motion Control Eligible Accounts Percentage be
+                         thereby reduced below 80%.  In the event that, AFTER a
+                         fiscal quarter, commencing with Borrower's fiscal
+                         quarter ending March 31, 1995, in which Borrower's
+                         Quarterly Net Loss exceeded $250,000, Borrower reports
+                         in any such fiscal quarter quarterly net income prior
+                         to extraordinary items, excluding any loss arising from
+                         the sale of Borrower's owned real estate located in
+                         Deer Park, New York and St. Petersburg, Florida
+                         (determined in accordance with GAAP) exceeding
+                         $500,000, unless and until Borrower's Quarterly Net
+                         Loss in any succeeding fiscal quarter exceeds $250,000,
+                         the Motion Control Eligible Accounts Percentage shall
+                         be increased in each month
+
+
+                                       -6-
+<PAGE>
+
+                         by .25% PROVIDED HOWEVER, that in no event shall the
+                         Motion Control Eligible Accounts Percentage exceed 85%.
+                         If the aggregate amount of Borrower's credits,
+                         allowances, discounts, write-offs, contra-accounts, and
+                         other offsets which reduce the value of Motion Control
+                         Accounts, as determined by Lender in its sole
+                         discretion, divided by gross Motion Control invoices
+                         ("MOTION CONTROL DILUTION PERCENTAGE") is equal to or
+                         greater than five (5%) percent, then the Motion Control
+                         Eligible Accounts Percentage then in effect shall be
+                         reduced by one (1%) percentage point for each
+                         percentage point, by which the Motion Control Dilution
+                         Percentage exceeds five (5%) percent.  Any such
+                         adjustment resulting from the Motion Control Dilution
+                         Percentage shall be in addition to any adjustment in
+                         the Motion Control Eligible Accounts Percentage as
+                         provided for above.  The Motion Control Dilution
+                         Percentage shall be calculated on a rolling 90 day
+                         average.
+
+                    (3)  PRECISION COMPONENTS ELIGIBLE ACCOUNTS PERCENTAGE:
+                         Subject to the succeeding terms of this Section
+                         10.1(b)(i)(3), the applicable Precision Components
+                         Eligible Accounts Percentage shall be 84% PROVIDED,
+                         HOWEVER, that in the event that Borrower's Quarterly
+                         Net Loss for any fiscal quarter, commencing with
+                         Borrower's fiscal quarter ending March 31, 1995,
+                         exceeds $250,000 (whether the same occurs prior to or
+                         subsequent to any fiscal quarter in which Borrower
+                         reports quarterly net income before extraordinary
+                         items, excluding any loss arising from the sale of
+                         Borrower's owned real estate located in Deer Park, New
+                         York and St. Petersburg, Florida (determined in
+                         accordance with GAAP) in excess of $500,000) the
+                         Precision Components Eligible Accounts Percentage shall
+                         be reduced in each succeeding month by .25%, FURTHER
+                         PROVIDED, however, that in no event shall the Precision
+                         Components Eligible Accounts Percentage be thereby
+                         reduced below 79%.  In the event that, AFTER a fiscal
+                         quarter, commencing with Borrower's fiscal quarter
+                         ending March 31, 1995, in which Borrower's
+
+
+                                       -7-
+<PAGE>
+
+                         Quarterly Net Loss exceeded $250,000, Borrower reports
+                         in any such fiscal quarter quarterly net income prior
+                         to extraordinary items, excluding any loss arising from
+                         the sale of Borrower's owned real estate located in
+                         Deer Park, New York and St. Petersburg, Florida
+                         (determined in accordance with GAAP) exceeding
+                         $500,000, unless and until Borrower's Quarterly Net
+                         Loss in any succeeding fiscal quarter exceeds $250,000,
+                         the Precision Components Eligible Accounts Percentage
+                         shall be increased in each month by .25%, PROVIDED
+                         HOWEVER, that in no event shall the Precision
+                         Components  Eligible Accounts Percentage exceed 84%.
+                         If the aggregate amount of Borrower's credits,
+                         allowances, discounts, write-offs, contra-accounts, and
+                         other offsets which reduce the value of Precision
+                         Component Accounts, as determined by Lender in its sole
+                         discretion, divided by gross Precision Component
+                         Accounts invoices ("PRECISION COMPONENT ACCOUNTS
+                         DILUTION PERCENTAGE") is equal to or greater than six
+                         (6%) percent, then the Precision Component Eligible
+                         Accounts Percentage then in effect shall be reduced by
+                         one (1%) percentage point for each percentage point, by
+                         which the Precision Component Accounts Dilution
+                         Percentage exceeds six (6%) percent.  Any adjustment
+                         resulting from the Precision Component Accounts
+                         Dilution Percentage shall be in addition to any
+                         adjustment in the Precision Component Accounts
+                         Percentage as provided for above.  The Precision
+                         Component Accounts Dilution Percentage shall be
+                         calculated on a rolling 90 day average.
+
+               (ii) Eligible Inventory Percentages - Borrower hereby
+                    acknowledges, confirms and agrees that each of the Eligible
+                    Inventory Percentages as set forth below in this Section
+                    10.1(b)(ii) is based upon 90% of the orderly liquidation
+                    value as set forth in the Accuval Associates, Inc. appraisal
+                    dated March, 1994 ("INVENTORY APPRAISAL").  In addition to,
+                    and not in limitation of, Lender's rights hereunder,
+                    commencing with Borrower's fiscal year ending December 31,
+                    1995, after any fiscal year in which Borrower's net loss
+                    (before extraordinary items and excluding any loss arising
+                    from the sale of
+
+
+                                       -8-
+<PAGE>
+
+                    Borrower's owned real estate located in Deer Park, New York
+                    and St. Petersburg, Florida) exceeds $1,000,000, Lender
+                    shall in the succeeding year have the right to update the
+                    Inventory Appraisal, at Borrower's sole cost and expense,
+                    and Lender shall have the right to adjust the Eligible
+                    Inventory Percentages as set forth herein accordingly.  The
+                    Borrower further acknowledges, confirms and agrees that in
+                    the event that Borrower's Quarterly Net Loss exceeds
+                    $250,000 during the Term of this Agreement (whether the same
+                    occurs prior to or subsequent to any fiscal quarter in which
+                    Borrower reports quarterly net income before extraordinary
+                    items, excluding any loss arising from the sale of
+                    Borrower's owned real estate located in Deer Park, New York
+                    and St. Petersburg, Florida (determined in accordance with
+                    GAAP) in excess of $500,000), then commencing with the first
+                    month immediately following said quarter, each of the
+                    Eligible Inventory Percentages as set forth in this Section
+                    10.1(b)(ii) shall be recalculated based upon an orderly
+                    liquidation value reduced by .25% each month, PROVIDED,
+                    however, that in no event shall the advance rate be
+                    calculated on less than 80% of the orderly liquidation value
+                    of the Eligible Inventory as set forth in the Inventory
+                    Appraisal.  In the event that, AFTER a fiscal quarter in
+                    which Borrower's Quarterly Net Loss exceeded $250,000,
+                    Borrower reports net income prior to extraordinary items,
+                    excluding any loss arising from the sale of Borrower's owned
+                    real estate located in Deer Park, New York and St.
+                    Petersburg, Florida (determined in accordance with GAAP) for
+                    any fiscal quarter exceeding $500,000, unless and until
+                    Borrower's Quarterly Net Loss in any succeeding fiscal
+                    quarter exceeds $250,000, each of the Eligible Inventory
+                    Percentages as set forth in this Section 10.1(b)(ii) shall
+                    be recalculated each month based upon an orderly liquidation
+                    value increasing by .25% each month, PROVIDED, HOWEVER, that
+                    in no event shall such advance rates be calculated based
+                    upon greater than 90% of the orderly liquidation value of
+                    the Eligible Inventory as set forth in the Inventory
+                    Appraisal:
+
+                    (1)  For acceptable and eligible finished good inventory of
+                         each of the following Divisions or Groups of Borrower,
+                         as Lender may in its sole discretion classify inventory
+
+
+                                       -9-
+<PAGE>
+
+                         of Borrower, the following shall be the respective
+                         applicable Eligible Inventory Percentages:
+
+                         (A)  AST Bearings Division
+                              Slow Moving (as defined below) ball bearing
+                              inventory                                      36%
+
+                         (B)  AST Bearings Division
+                              Fast Moving (as defined below) ball bearing
+                              inventory                                      54%
+
+                         (C)  INTENTIONALLY OMITTED
+
+                         (D)  Precision Components Group
+                              Non-Trimmer inventory located in
+                              St. Petersburg, Florida                         9%
+
+                         (E)  Beau Interconnect Systems Division
+                              Inventory #1 (Standard)                        45%
+
+                         (F)  Beau Interconnect Systems Division
+                              Inventory #2 (Purch. For Resale)               14%
+
+                         (G)  Beau Interconnect Systems Division
+                              Inventory #3 (Std. Allocated)                  68%
+
+                         (H)  Beau Interconnect Systems Division
+                              Inventory #4 (Purch. For Resale)               23%
+
+                         (I)  Beau Interconnect Systems Division
+                              Inventory #5 (On The Floor)                    45%
+
+                         For the purposes of this Section 10.1(b)(ii), "SLOW
+                         MOVING" is defined as finished goods inventory that
+                         turns less than once a year but more than once every
+                         five years (as determined by Lender in its discretion)
+                         and "FAST MOVING" is defined as finished goods
+                         inventory that turns more than once a year (as
+                         determined by Lender in its discretion).
+
+
+                                      -10-
+<PAGE>
+
+                    (2)  For acceptable and eligible raw material inventory of
+                         each of the following Divisions or Groups of Borrower,
+                         as Lender may in its sole discretion classify inventory
+                         of Borrower, the following shall be the respective
+                         applicable Eligible Inventory Percentages:
+
+                         (A)  Motion Control Group
+                              raw materials                                   9%
+
+                         (B)  Precision Components Group
+                              raw materials                                   9%
+
+                         (C)  Beau Interconnect Systems Division
+                              raw materials #1 (Metal)                       54%
+
+                         (D)  Beau Interconnect Systems Division
+                              raw materials #2 (Compound)                    63%
+
+                         (E)  Beau Interconnect Systems Division
+                              raw materials #3 (Screws Purch.)               45%
+
+                         (F)  Beau Interconnect Systems Division
+                              raw materials #4 (Purch. Hdwre-Europe)         27%
+
+                         (G)  Beau Interconnect Systems Division
+                              raw materials #5 (Other Purchased)              9%
+
+                         (H)  Beau Interconnect Systems Division
+                              raw materials #6 (On The Floor)                45%
+
+                         (I)  Beau Interconnect Systems Division
+                              raw materials #7 (Brass Salvage)               72%
+
+                         (J)  Beau Interconnect Systems Division
+                              raw materials #8 (Bulk)                        23%
+
+                         (K)  Beau Interconnect Systems Division
+                              raw materials #9 (QC Awaiting)                 45%
+
+                         (L)  Beau Interconnect Systems Division
+                              raw materials #10 (Screw Adj.)                 23%
+
+
+                                      -11-
+<PAGE>
+
+          (c)  Inventory Sublimit(s):  The maximum aggregate outstanding amount
+               of Revolving Loans against Eligible Inventory, plus the WIP
+               Advance then outstanding, shall not exceed, at any one time
+               outstanding, the aggregate principal amount of $6,000,000
+               ("INVENTORY SUBLIMIT").  Additionally, the maximum aggregate
+               amount of Revolving Loans against Eligible Inventory outstanding
+               at any one time PLUS the then outstanding principal balance of
+               the WIP Advance shall not exceed, in the aggregate, seventy-five
+               (75%) percent of the aggregate amount of Revolving Loans then
+               available with respect to the Borrower's Eligible Accounts.
+
+          (d)  Minimum Borrowing:                             (i)     $9,000,000
+                                                             (ii)     $5,000,000
+
+          (e)  Maximum days after Invoice
+                 Date for Eligible Accounts:                                  90
+
+          (f)  Accounts Sublimits:  The maximum outstanding aggregate amount of
+               Revolving Loans made by Lender to Borrower hereunder against all
+               U.S. Government Accounts and Foreign Accounts shall not exceed,
+               at any one time outstanding, the aggregate amount of $1,000,000
+               PROVIDED THAT, within such sublimit (i) the maximum aggregate
+               amount of Revolving Loans against Foreign Subsidiary Accounts
+               shall not exceed, at any one time outstanding, the aggregate
+               amount of $500,000 and (ii) the maximum aggregate amount of
+               Revolving Loans against Open Foreign Accounts shall not exceed,
+               at any one time outstanding, the aggregate amount of $25,000
+               against any individual account debtor and the aggregate amount of
+               $500,000 against all Open Foreign Accounts.
+
+     10.2 Term Loan:                                                  $2,701,334
+
+
+          (a)  Sublimits:
+
+               (i)       St. Petersburg, Florida real estate            $882,000
+               (ii)      Deer Park, New York real estate                $880,000
+               (iii)     Equipment                                      $939,334
+
+          6.   Except as specifically set forth herein, no other changes or
+modifications to the Loan Agreement, the Note or the other Financing Agreements
+are intended or implied, and in all other respects the Loan Agreement, the Note
+and the other
+
+
+                                      -12-
+<PAGE>
+
+Financing Agreements are hereby specifically ratified and confirmed in
+accordance with their respective terms as of the date hereof.
+
+          7.   In the event any term or provision of the Loan Agreement, the
+Note or the other Financing Agreements conflicts with any term or provision of
+this letter agreement, the term or provision of this letter agreement shall
+control.
+
+                              Very truly yours,
+
+                              VERNITRON CORPORATION
+
+
+                              By: /S/ RAYMOND F. KUNZMANN
+                                  ----------------------------------------------
+
+                              Title: Vice President
+                                     -------------------------------------------
+ACCEPTED:
+
+THE CIT GROUP/CREDIT FINANCE, INC.
+
+
+By: /S/ BENJAMIN SZTEINBERG
+    --------------------------
+
+Title: Assistant Vice President
+       ----------------------------
+
+
+                                      -13-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.(38)
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 10(38)
+<TEXT>
+
+<PAGE>
+
+
+
+
+          PURSUANT TO SECTION 201.08 OF FLORIDA STATUTES, FLORIDA DOCUMENTARY
+STAMP TAXES REQUIRED TO BE PAID ON ACCOUNT OF THAT PORTION OF THE INDEBTEDNESS
+EVIDENCED BY THIS PROMISSORY NOTE WHICH IS SECURED BY THE MORTGAGE AND SECURITY
+AGREEMENT DATED JULY 20, 1994, AS MODIFIED BY THE MORTGAGE MODIFICATION
+AGREEMENT DATED OF EVEN DATE HEREWITH GRANTED BY MAKER IN FAVOR OF PAYEE
+(COLLECTIVELY, THE "FLORIDA MORTGAGE") HAVE BEEN PAID, AND THE DOCUMENTARY
+STAMPS SO PURCHASED HAVE BEEN AFFIXED TO THE FLORIDA MORTGAGE RECORDED IN THE
+PUBLIC RECORDS OF PINELLAS COUNTY, FLORIDA, ON OR ABOUT JULY 21, 1994, AND
+CANCELLED.
+
+
+                                 PROMISSORY NOTE
+
+$2,701,334                                                    New York, New York
+                                                                  March 17, 1995
+
+
+          FOR VALUE RECEIVED, the undersigned, a Delaware corporation ("Maker"),
+hereby unconditionally promises to pay to the order of THE CIT GROUP/CREDIT
+FINANCE, INC. (the "Payee"), at its offices located at 135 West 50th Street, New
+York, New York 10020 or at such other place as the Payee or any holder hereof
+may from time to time designate, the principal sum of TWO MILLION SEVEN HUNDRED
+ONE THOUSAND THREE HUNDRED THIRTY-FOUR ($2,701,334) DOLLARS in lawful money of
+the United States and in immediately available funds, in eighty-four (84)
+consecutive monthly installments (or earlier, as hereinafter provided)
+commencing April 1, 1995 and on the first day of each month thereafter, of which
+the first eighty-three (83) installments shall each be in the amount of Thirty
+Two Thousand One Hundred Fifty-Eight and 74/100 ($32,158.74) Dollars, and the
+eighty-fourth (84th) installment shall be in the amount of the entire unpaid
+balance hereof.
+
+          Maker hereby further promises to pay interest to the order of Payee in
+like money at said office or place on the unpaid principal balance hereof
+computed at the rate of interest as set forth in paragraphs 3.1 and 10.4(a) of
+the Loan and Security Agreement dated July 20, 1994, executed and delivered by
+Maker in favor of Payee, as amended by that certain Letter Re: Amendment to
+Financing Agreements dated of even date herewith (the "Loan Agreement"; together
+with all agreements, documents and instruments now or at any time hereafter
+executed and/or delivered in connection therewith or otherwise related thereto,
+as the same may now exist or may hereafter be amended, modified, supplemented,
+extended, renewed, restated or replaced, being collectively referred to herein
+as the "Financing Agreements").  Such interest shall be payable commencing on
+
+<PAGE>
+
+the first day of the month next following the date hereof (i.e., April 1, 1995
+and on the first day of each month thereafter.  Interest shall be calculated on
+the basis of a three hundred sixty (360) day year and actual days elapsed.  In
+no event shall the interest charged hereunder exceed the maximum permitted under
+the laws of the State in which the office of Payee set forth above is located.
+
+          The term "Event of Default" shall mean an Event of Default under the
+Financing Agreements.
+
+          This Note is issued as evidence of certain indebtedness arising
+pursuant to the terms and provisions of the Loan Agreement.  This Note is
+entitled to the benefits of the Financing Agreements and is secured by, and
+entitled to the benefits of, any and all collateral security pledged or granted
+by Maker or related parties to Payee as set forth in the Financing Agreements or
+otherwise.
+
+          This Note may be prepaid, in whole or in part, as provided in the
+Financing Agreements.  Any prepayment made by Maker which is not made in
+connection with the termination of the Financing Agreements, under Section 9.2
+of the Loan Agreement, shall not be subject to any penalty or premium.  At the
+time any payment is due hereunder, at its option, Payee may charge the amount
+thereof to any account(s) of Maker, or any guarantors thereof, maintained by
+Payee.
+
+          If any principal or interest payment is not made when due hereunder or
+if any Event of Default shall occur for any reason under the Financing
+Agreements, or if the Financing Agreements shall be terminable or be terminated
+or not renewed for any reason, then and in any such event, in addition to all
+rights and remedies of the Payee under the Financing Agreements, applicable law
+and otherwise, all such rights and remedies being cumulative, not exclusive and
+enforceable alternatively, successively and concurrently, Payee may, at its
+option, declare any or all of Maker's obligations, liabilities and indebtedness
+owing Payee under the Financing Agreements, including, without limitation, any
+or all amounts owing under this Note (the "Obligations"), to be due and payable,
+whereupon the then unpaid balance thereof together with all interest accrued
+thereon shall forthwith become due and payable, together with interest accruing
+thereafter at the highest rate provided for in this Note or the other Financing
+Agreements until this Note and such other Obligations are fully paid, plus the
+costs and expenses of collection thereof, including attorneys' fees and legal
+expenses.
+
+          Maker hereby waives diligence, demand, presentment, protest and notice
+of any kind and assents to extensions of the time of payment, release, surrender
+or substitution of collateral security or forbearance or other indulgence,
+without notice.  Payee shall not be required to attempt to realize upon any
+collateral security for payment,
+
+
+                                       -2-
+<PAGE>
+
+but may proceed against Maker and any guarantors in such order or manner as
+Payee may choose.
+
+          The provisions of this Note may not be changed, modified or terminated
+orally, but only by an agreement in writing signed by the party to be charged,
+nor shall any waiver be applicable except in the specific instance for which it
+is given.  Payee agrees not to assign this Note except in accordance with
+Section 9.6 of the Loan Agreement.
+
+          Maker hereby waives all rights to trial by jury in any action or
+proceeding instituted by either Maker or Payee against the other arising on, out
+of or by reason of this Note, any alleged tortious conduct by Maker or Payee or
+in any way, directly or  indirectly, arising out of or related to the
+relationship between Maker and Payee. In no event will Payee be liable for lost
+profits or other special or consequential damages.
+
+          Maker hereby waives all rights to interpose any claims, deductions,
+setoffs or counterclaims of any kind, nature or description in any action or
+proceeding instituted by Maker with respect to this Note or any matter arising
+herefrom or relating hereto, except compulsory counterclaims.
+
+          Maker hereby irrevocably submits and consents to the non-exclusive
+jurisdiction of the State and Federal Courts located in the State of New York
+with respect to any action or proceeding arising out of this Note or any matter
+arising herefrom or relating hereto.  Any such action or proceeding commenced by
+Maker against Payee will be litigated only in a Federal Court located in the
+district, or a State Court in the State and County, in which the office of Payee
+set forth above is located and Maker waives any objection based on FORUM NON
+CONVENIENS and any objection to venue in connection therewith.
+
+          Service of process or notice in connection with any proceedings may be
+served (i) inside or outside the State in which the office of Payee indicated
+above is located by registered or certified mail, return receipt requested,
+addressed to the Maker at the address set forth below or of which Maker has
+advised Payee in writing, as indicated in the records of Payee, and service or
+notice so served shall be deemed complete five (5) days after the same shall
+have been posted, or (ii) in such manner as may be permissible under the rules
+of said Courts.
+
+          The execution and delivery of this Note has been authorized by the
+Board of Directors of Maker.  This Note and the other Financing Agreements,
+shall be governed by and construed, and all rights and obligations hereunder
+determined, in accordance with the laws of the State in which the office of
+Payee indicated above is located and shall be
+
+
+                                       -3-
+<PAGE>
+
+binding upon the successors and assigns of the Maker and inure to the benefit of
+the Payee, its successors, endorsees and assigns.  If the undersigned are more
+than one, this Note shall be binding jointly and severally upon the undersigned
+and their respective successors and assigns and the term "Maker" shall mean,
+individually and collectively, all the undersigned and any one or more of them
+and their successors and assigns.  If any term or provision of this Note shall
+be held invalid, illegal or unenforceable, the validity of all other terms and
+provisions hereof shall in no way be affected thereby.
+
+          This Note amends and restates in its entirety a Term Note in the
+original principal amount of $2,451,000 dated July 20, 1994 heretofore executed
+and delivered by Maker in favor of Payee (the "Existing Note"), and, further,
+evidences additional loans made by Payee to Maker on or about the date hereof.
+This Note is being delivered in substitution for and replacement of, and not in
+satisfaction of, the Existing Note.  This Note is not intended to extinguish,
+release or otherwise discharge the Maker's obligations under the Existing Note
+and is not intended to be a novation of the Maker's obligations thereunder.
+Extinguishment, release or other discharge of this Note shall constitute
+extinguishment, release or other discharge, as the case may be, of the Existing
+Note to the extent of such extinguishment, release or discharge of this Note.
+This Note is entitled to the benefits of the Financing Agreements and is secured
+by, and entitled to the benefits of any and all collateral security pledged or
+granted by Maker or related parties to Payee as set forth in the Financing
+Agreements or otherwise.
+
+                                   VERNITRON CORPORATION
+
+
+                                   By:/S/ RAYMOND F. KUNZMANN
+                                      --------------------------------------
+
+                                   Title: Vice President
+                                         -----------------------------------
+
+
+                                       -4-
+<PAGE>
+
+
+
+
+
+
+
+STATE OF NEW YORK        )
+                         ) ss.:
+COUNTY OF NEW YORK       )
+
+
+          On this 17th day of March, 1995, before me personally came Raymond F.
+Kunzmann, to me known, who, being duly sworn, did depose and say, that he is the
+Vice President of VERNITRON CORPORATION, the corporation described in and which
+executed the foregoing instrument; and that he signed his name thereto by order
+of the board of directors of said corporation.
+
+
+
+                                   /S/ SHARON KAY MILLER
+                                   ---------------------------------------------
+                                             Notary Public
+
+
+                                               SHARON KAY MILLER
+                                       Notary Public, State of New York
+                                                No. 41-4922738
+                                          Qualified in Queens County
+                                       Commission Expires April 4, 1996
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.(39)
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 10(39)
+<TEXT>
+
+<PAGE>
+
+
+
+
+
+
+                         MORTGAGE MODIFICATION AGREEMENT
+
+                                     between
+
+                              VERNITRON CORPORATION
+
+                                       and
+
+                       THE CIT GROUP/CREDIT FINANCE, INC.
+
+                        dated the 17th day of March, 1995
+
+        ----------------------------------------------------------------
+        ----------------------------------------------------------------
+
+                                    PREMISES:
+
+        The Tyrone Planned Industrial District, Pinellas County, Florida
+
+        ----------------------------------------------------------------
+        ----------------------------------------------------------------
+
+
+
+
+                                  Prepared by,
+                               Record & Return to:
+
+                  OTTERBOURG, STEINDLER, HOUSTON & ROSEN, P.C.
+                                 230 Park Avenue
+                            New York, New York 10169
+
+                       Attention:  Mitchell M. Brand, Esq.
+
+FLORIDA DOCUMENTARY STAMP TAXES HAVE BEEN PAID IN FULL ON THAT CERTAIN MORTGAGE
+AND SECURITY AGREEMENT RECORDED IN O.R. BOOK 8732, PAGE 1319, OF THE PUBLIC
+RECORDS OF PINELLAS COUNTY, FLORIDA BASED UPON THE MAXIMUM PRINCIPAL AMOUNT
+SECURED UNDER SUCH MORTGAGE, WHICH REMAINS UNCHANGED AND UNMODIFIED.
+
+
+<PAGE>
+
+                         MORTGAGE MODIFICATION AGREEMENT
+
+
+
+          THIS MORTGAGE MODIFICATION AGREEMENT made as of the 17th day of March,
+1995 between VERNITRON CORPORATION, a Delaware corporation, having an office at
+645 Madison Avenue, New York, New York 10022 (the "Mortgagor") and THE CIT
+GROUP/CREDIT FINANCE, INC., a New York corporation, having an office at 135 West
+50th Street, New York, New York 10020 ("Mortgagee").
+
+
+                              W I T N E S S E T H:
+
+
+          WHEREAS, Mortgagor is the owner of certain real property situate,
+lying and being in the Tyrone Planned Industrial District, Pinellas County,
+Florida as such real property is more particularly described on Exhibit A
+annexed hereto and made a part hereof ("Premises"); and
+
+          WHEREAS, Mortgagor has executed that certain Mortgage and Security
+Agreement dated July 20, 1994 and recorded on July 21, 1994 in O.R. Book 8732,
+Page 1319 in the public records of Pinellas County, Florida (the "Mortgage"),
+pursuant to which Mortgagor has mortgaged, given, granted, bargained, sold,
+confirmed and assigned the Premises, with mortgage covenants, unto the Mortgagee
+and its successors and assigns; and
+
+          WHEREAS, the Mortgage secures the payment and performance by Mortgagor
+of all of Mortgagor's obligations to Mortgagee arising under or in connection
+with that certain Promissory Note dated July 20, 1994 executed by Mortgagor in
+favor of Mortgagee in the original principal amount of $2,451,000 ("Existing
+Note") issued pursuant to certain financing agreements, including, without
+limitation, that certain Loan and Security Agreement dated July 20, 1994 (all of
+the foregoing, as the same may now exist or may hereinafter be amended,
+modified, supplemented, renewed or extended are hereinafter collectively
+referred to as the "Financing Agreements"); and
+
+<PAGE>
+
+          WHEREAS, notwithstanding any provision in the Mortgage to the
+contrary, the maximum principal amount secured under the Mortgage at any one
+time is limited to the amount of $1,200,000; and
+
+          WHEREAS, contemporaneously herewith, Mortgagor and Mortgagee are
+amending and modifying the Financing Agreements, and in connection therewith
+Mortgagor is executing a promissory note to replace and restate the Existing
+Note.
+
+          NOW, THEREFORE, in order to induce Mortgagee to amend and modify the
+Financing Agreements and to continue to make loans and advances to the Mortgagor
+as provided for in the Financing Agreements, and for other good and valuable
+consideration, including, without limitation, the benefits which will accrue to
+Mortgagor from the foregoing, Mortgagor hereby agrees as follows:
+
+          1.   All references in the Mortgage to the "Note" shall be deemed
+amended to mean and include that certain Promissory Note dated of even date
+herewith in the original principal amount of $2,701,334 executed and delivered
+by Mortgagor in favor of Mortgagee ("Restated Note"), and the Mortgage is hereby
+modified and amended to secure the Restated Note, which Restated Note (a) is
+being delivered in substitution for and replacement of, and not in satisfaction
+of, the Existing Note and (b) is not intended to extinguish, release or
+otherwise discharge the Mortgagor's obligations under the Existing Note and is
+not intended to be a novation of the Mortgagor's obligations thereunder.
+Notwithstanding anything to the contrary contained herein, extinguishment,
+release or other discharge of the Restated Note shall constitute extinguishment,
+release or other discharge, as the case may be, of the Existing Note to the
+extent of such extinguishment, release or discharge of the Restated Note.
+
+          2.   All references in the Mortgage to the "Loan Agreement" shall be
+deemed amended to mean and include the Loan Agreement as amended and modified by
+that certain Letter Re: Amendment to Financing Agreements dated of even date
+herewith (as amended, "Loan Agreement").
+
+          3.   Notwithstanding the provisions of this Mortgage Modification
+Agreement, the maximum principal amount secured by the Mortgage remains
+unmodified and unchanged and at any one time shall not exceed the amount of One
+Million Two Hundred Thousand and No/100 Dollars ($1,200,000).
+
+          4.   Except as specifically set forth herein, no other changes or
+modifications in the Mortgage are intended or implied and, in all other
+respects, the Mortgage is hereby specifically ratified, restated and confirmed
+by the parties hereto as of the date hereof.
+
+
+                                       -2-
+<PAGE>
+
+          IN WITNESS WHEREOF, Mortgagor has caused this Mortgage Modification
+Agreement to be executed as of the date and year first above written.
+
+SIGNED IN THE PRESENCE OF:         VERNITRON CORPORATION, a Delaware
+                                     corporation
+                                                                [CORPORATE SEAL]
+
+/S/ EDDA RICHARDS
+- -------------------------
+     (Signature)                   By: /S/ RAYMOND F. KUNZMANN
+                                      ------------------------------------------
+Edda Richards                      Name: Raymond F. Kunzmann
+- -------------------------               ----------------------------------------
+     (Printed Name)                Title: Vice President
+                                         ---------------------------------------
+
+
+/S/ EDDA RICHARDS
+- -------------------------
+     (Signature)                   Post Office Address:
+Edda Richards
+- -------------------------          645 Madison Avenue
+     (Printed Name)                New York, New York 10022
+
+SIGNED IN THE PRESENCE OF:         THE CIT GROUP/CREDIT FINANCE, INC., a
+                                   New York corporation
+                                                                [CORPORATE SEAL]
+/S/ EDDA RICHARDS
+- -------------------------
+     (Signature)                   By: /S/ BENJAMIN SZTEINBERG
+                                      ------------------------------------------
+Edda Richards                      Name: Benjamin Szteinberg
+- -------------------------               ----------------------------------------
+     (Printed Name)                Title: Assistant Vice President
+                                         ---------------------------------------
+
+
+/S/ EDDA RICHARDS
+- -------------------------
+     (Signature)                   Post Office Address:
+
+Edda Richards                      135 West 50th Street
+- -------------------------          New York, New York 10020
+     (Printed Name)
+
+
+                                       -3-
+<PAGE>
+
+
+STATE OF New York
+
+COUNTY OF New York
+
+     The foregoing instrument was acknowledged before me this 17th day of March,
+1995, by Raymond F. Kunzmann as Vice President of VERNITRON CORPORATION, a
+Delaware corporation, on behalf of the corporation.  He/She is personally known
+to me or has produced New York (state) driver's license no. ID# 148058152 as
+identification.
+
+My Commission Expires:             /S/ SHARON KAY MILLER
+                                   ---------------------------------------------
+                                   Notary Public (Signature)
+
+     (AFFIX NOTARY SEAL)           Sharon Kay Miller
+                                   ---------------------------------------------
+                                   (Printed Name)
+
+                                   Legal Assistant/Secretary
+                                   ---------------------------------------------
+                                   (Title or Rank)
+
+
+                                   ---------------------------------------------
+                                   (Serial Number, if any)
+            SHARON KAY MILLER
+    Notary Public, State of New York
+             No. 41-4922738
+       Qualified in Queens County
+    Commission Expires April 4, 1996
+
+
+                                       -4-
+<PAGE>
+
+
+STATE OF New York
+
+COUNTY OF New York
+
+     The foregoing instrument was acknowledged before me this 17th day of March,
+1995, by Benjamin Szteinberg as Assist. Vice Pres. of THE CIT GROUP/CREDIT
+FINANCE INC., a New York corporation, on behalf of the corporation.  He/She is
+personally known to me or has produced _________________ (state) driver's
+license no. __________________ as identification.
+
+My Commission Expires:             /S/ SHARON KAY MILLER
+                                   ---------------------------------------------
+                                   Notary Public (Signature)
+
+     (AFFIX NOTARY SEAL)           Sharon Kay Miller
+                                   ---------------------------------------------
+                                   (Printed Name)
+
+                                   Legal Assistant/Secretary
+                                   ---------------------------------------------
+                                   (Title or Rank)
+
+
+                                   ---------------------------------------------
+                                   (Serial Number, if any)
+            SHARON KAY MILLER
+    Notary Public, State of New York
+             No. 41-4922738
+       Qualified in Queens County
+    Commission Expires April 4, 1996
+
+
+                                       -5-
+<PAGE>
+
+                                    EXHIBIT A
+
+
+                                LEGAL DESCRIPTION
+
+
+TRACT B,  TYRONE PLANNED INDUSTRIAL DISTRICT, 2ND REPLAT AND ADDITION, according
+to the plat thereof recorded in Plat Book 57, pages 17 and 18, of the Public
+Records of Pinellas County, Florida.
+
+Lot 7, Block 2, TYRONE PLANNED INDUSTRIAL DISTRICT, according to the plat
+thereof recorded in Plat Book 34, pages 56 and 57, of the Public Records of
+Pinellas County, Florida
+
+
+                            END OF LEGAL DESCRIPTION
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+BALANCE SHEET OF VERNITRON CORPORATION AS OF DECEMBER 31, 1994 AND THE
+RELATED STATEMENT OF OPERATIONS FOR THE YEAR THEN ENDED AND IS QUALIFIED
+IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          DEC-31-1994
+<PERIOD-START>                             JAN-01-1994
+<PERIOD-END>                               DEC-31-1994
+<CASH>                                              27
+<SECURITIES>                                         0
+<RECEIVABLES>                                    9,638
+<ALLOWANCES>                                       345
+<INVENTORY>                                     14,527
+<CURRENT-ASSETS>                                24,315
+<PP&E>                                          11,652
+<DEPRECIATION>                                   3,662
+<TOTAL-ASSETS>                                  42,197
+<CURRENT-LIABILITIES>                           12,777
+<BONDS>                                         11,921
+<COMMON>                                           125
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          7
+<OTHER-SE>                                      13,137
+<TOTAL-LIABILITY-AND-EQUITY>                    42,197
+<SALES>                                         62,132
+<TOTAL-REVENUES>                                62,132
+<CGS>                                           44,903
+<TOTAL-COSTS>                                   44,903
+<OTHER-EXPENSES>                                14,867
+<LOSS-PROVISION>                                   124
+<INTEREST-EXPENSE>                               2,264
+<INCOME-PRETAX>                                     44
+<INCOME-TAX>                                        17
+<INCOME-CONTINUING>                                 27
+<DISCONTINUED>                                 (2,202)
+<EXTRAORDINARY>                                  5,856
+<CHANGES>                                            0
+<NET-INCOME>                                     3,681
+<EPS-PRIMARY>                                      .39
+<EPS-DILUTED>                                      .39
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

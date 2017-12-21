@@ -1,0 +1,3211 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F2JUkUgB2wlYTfvA3Xd7bet1uWMKlmJyF9BLpAFDBBZ9C4YZSt2LCrEmTgsiWLAR
+ vsnmMVok4AUgamoNxQgwLA==
+
+<SEC-DOCUMENT>0000892917-96-000043.txt : 19960301
+<SEC-HEADER>0000892917-96-000043.hdr.sgml : 19960301
+ACCESSION NUMBER:		0000892917-96-000043
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960229
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WILLAMETTE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000107189
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAPER MILLS [2621]
+		IRS NUMBER:				930312940
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03730
+		FILM NUMBER:		96529332
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3800 FIRST INTERSTATE TWR
+		STREET 2:		1300 SW FIFTH AVE
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97201
+		BUSINESS PHONE:		5032275581
+
+	MAIL ADDRESS:	
+		STREET 1:		3800 FIRST INTERSTATE TOWER
+		STREET 2:		1300 SW FIFTH AVENUE
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D.C.  20549
+
+                                  FORM 10-K
+
+            [X]  Annual Report Pursuant to Section 13 or 15(d) of
+                     The Securities Exchange Act of 1934
+
+For the fiscal year ended December 31, 1995     Commission file number 0-3730
+
+                         WILLAMETTE INDUSTRIES, INC.
+           (Exact name of registrant as specified in its charter)
+
+                  Oregon                           93-0312940
+         (State of incorporation)                (I.R.S. Employer
+                                              Identification No.)
+
+         1300 S.W. Fifth Avenue, Suite 3800
+         Portland, Oregon                            97201
+    (Address of principal executive offices)       (Zip Code)
+
+Registrant's telephone number, including area code:  (503) 227-5581
+
+         Securities registered pursuant to Section 12(g) of the Act:
+                        Common Stock, $.50 par value
+                              (Title of class)
+                       Preferred Stock Purchase Rights
+                              (Title of class)
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes  X    No     
+    
+    Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-
+K or any amendment to this Form 10-K.  [  ]
+
+    State the aggregate market value of the voting stock held by
+non-affiliates of the registrant.
+
+
+                     $2,811,770,000 at January 31, 1996
+
+
+    Indicate the number of shares outstanding of each of the registrant's
+classes of common stock as of the latest practicable date.
+
+
+            Class                   Outstanding at January 31, 1996
+Common Stock, $.50 par value                 55,223,706 shares
+
+
+                    DOCUMENTS INCORPORATED BY REFERENCE.
+    Portions of the registrant's definitive proxy statement for its 1996
+annual meeting of shareholders are incorporated by reference into Part III
+hereof.
+
+<PAGE>
+                            CROSS REFERENCE SHEET
+      Showing Location in Definitive Proxy Statement of Items Required
+                                By Form 10-K
+
+
+Item No         Form 10-K Caption             Definitive Proxy Statement
+                                              Caption
+
+Item 10         Directors and Executive       Election of Directors
+                 Officers of the Registrant   Holders of Common Stock
+
+Item 11         Executive Compensation        Executive Compensation
+                                              Compensation Committee
+                                               Interlocks and Insider
+                                               Participation
+                                              Compensation of Directors
+                                              Employment Agreements
+
+Item 12         Security Ownership of         Holders of Common Stock
+                 Certain Beneficial
+                 Owners and Management
+
+Item 13         Certain Relationships and     Compensation Committee
+                 Related Transactions          Interlocks and Insider
+                                               Participation
+
+
+
+
+
+
+<PAGE>
+                                    INDEX
+
+
+                                                                         Page
+Part I
+
+Item 1.  Business. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+         General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+         Business Segment Information. . . . . . . . . . . . . . . . . . . .1
+         Pulp and Paper. . . . . . . . . . . . . . . . . . . . . . . . . . .2
+         Converted Paper Products. . . . . . . . . . . . . . . . . . . . . .2
+         Building Materials. . . . . . . . . . . . . . . . . . . . . . . . .3
+         Timberlands . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+         Energy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+         Employees . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+         Environmental Matters . . . . . . . . . . . . . . . . . . . . . . .4
+Item 2.  Properties. . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+Item 3.  Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . .7
+Item 4.  Submission of Matters to a Vote of Security Holders . . . . . . . .8
+         Executive Officers of the Registrant. . . . . . . . . . . . . . . .8
+
+Part II
+
+Item 5.  Market for Registrant's Common Equity
+              and Related Stockholder Matters. . . . . . . . . . . . . . . .9
+Item 6.  Selected Financial Data . . . . . . . . . . . . . . . . . . . . . 10
+Item 7.  Management's Discussion and Analysis of
+              Financial Condition and Results of Operations. . . . . . . . 11
+Item 8.  Financial Statements and Supplementary Data . . . . . . . . . . . 16
+Item 9.  Changes in and Disagreements with 
+              Accountants on Accounting and Financial
+              Disclosure . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Part III
+
+Item 10. Directors and Executive Officers of the Registrant. . . . . . . . 16
+         (See Part I for Executive Officers of the Registrant)
+Item 11. Executive Compensation. . . . . . . . . . . . . . . . . . . . . . 17
+Item 12. Security Ownership of Certain Beneficial
+              Owners and Management. . . . . . . . . . . . . . . . . . . . 17
+Item 13. Certain Relationships and Related
+              Transactions . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+Part IV
+
+Item 14. Exhibits, Financial Statement Schedules and
+              Reports on Form 8-K. . . . . . . . . . . . . . . . . . . . . 17
+         Signatures. . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+         Index to Consolidated Financial Statements. . . . . . . . . . . . 20
+
+         Index to Exhibits . . . . . . . . . . . . . . . . . . . . . . . . 38
+<PAGE>
+                                   PART I
+
+Item 1.  Business
+
+General
+
+  Willamette Industries ("Willamette" or the "Company") was founded in 1906
+as the Willamette Valley Lumber Co. in Dallas, Oregon.  In 1967, Willamette
+Valley and several related firms merged to form Willamette Industries, Inc. 
+Its stock has been publicly traded since 1968.
+
+  Willamette is a diversified, integrated forest products company with 95
+plants and mills manufacturing kraft liner, corrugating medium, bag paper,
+fine paper, hardwood market pulp, specialty printing papers, corrugated
+containers, business forms, cut sheet paper, paper bags, inks, lumber,
+plywood, particleboard, medium density fiberboard, laminated beams, laminated
+veneer lumber, wooden I-beams and other value-added wood products.  We own or
+control 1,253,000 acres of forests.
+  
+  Willamette is a medium-sized firm in a very competitive industry consisting
+of thousands of companies, some larger and more diversified, others much
+smaller, producing only one or two products.  Very competitive conditions
+exist in every industry segment in which the Company operates.  The Company
+competes in its markets primarily through price, quality and service.
+
+  The Company believes its strengths are its vertical integration; its
+geographically diverse, modern, fiber- and energy-efficient facilities; its
+concentration on a focused, related product range; its balance among building
+materials, fine paper and unbleached paper manufacturing and an
+organizational structure that encourages teamwork as well as individual
+initiative.
+
+  Willamette is listed in the FORTUNE 500.  The Company's common stock trades
+on The Nasdaq Stock Market under the symbol: WMTT.
+
+Business Segment Information
+
+  The Company has two business segments.  The paper group manufactures and
+sells pulp and paper products.  The building materials group manufactures and
+sells wood products.  Sales and operating data for the paper group and
+building materials group for the past five years is set forth in the five
+year comparison captioned "Supplementary Business Segment Information"
+located on page 26.  The Company has no foreign operations and is not
+dependent on any one significant customer or group of customers. 
+Approximately 95% of the Company's total output is sold domestically.
+<PAGE>
+Pulp and Paper
+
+ Market pulp and fine paper
+  Hardwood market pulp is manufactured at Hawesville, Kentucky; fine paper at
+Hawesville; Johnsonburg, Pennsylvania; Kingsport, Tennessee and Marlboro
+County, South Carolina.  We make 4.8% of the nation's hardwood market pulp,
+which is sold to outside customers, and 7.7% of the nation's fine paper
+production.
+
+  Chips from nearby sawmills and plywood plants serve as the primary fiber
+source.  Our timberlands in Tennessee and the Carolinas also serve as a
+source of fiber.
+
+Unbleached paper
+  Four paper mills manufacture 5.0% of the nation's production of linerboard,
+corrugating medium and bag paper.  Nearly all of the product is used or
+traded for the needs of Willamette's box and bag manufacturing plants.
+
+  In Louisiana, our sawmills, plywood plants and timberlands can provide 100%
+of the chips needed by our linerboard mill; in Oregon, almost 100% of the
+chip requirements could be provided from those sources.  
+
+  Recycled fiber, in the form of used corrugated containers, provides
+58.7% of our fiber needs.
+
+Converted paper products
+
+Office papers
+  Seven business forms plants manufacture 8.8% of the nation's production of
+forms.  These forms, mostly long-run continuous computer forms, along with
+Willcopy(R), Willamette's photocopy and cut sheet printer paper produced at
+our four cut sheet facilities, are marketed by 73 sales and distribution
+centers.  Our cut sheets represent 9.5% of the nation's cut sheet production.
+
+Corrugated containers and sheets
+  Corrugated containers and sheets are manufactured by 32 plants, accounting
+for 5.6% of the nation's corrugated box production.  Products range from
+colorful store displays to eye-catching preprinted boxes; from sturdy wax
+coated shipping containers to the plain brown box.  Corrugated containers are
+marketed by our own sales force to a variety of industrial and agricultural
+customers.
+
+Bags
+  Four bag plants make 14.4% of the nation's paper bags, marketed to grocery,
+department, drug and hardware stores in the West and South by our sales
+force.
+<PAGE>
+Building Materials
+
+Structural panels and lumber
+  Plywood products, totalling 6.6% of the nation's structural panel
+production, are manufactured at 10 plants in Arkansas, the Carolinas,
+Louisiana and Oregon.
+
+  An oriented strand board (OSB) plant in Louisiana will begin production in
+the first quarter of 1996.  The output of this plant will represent 2.0% of
+the nation's OSB Production.
+
+  Six sawmills manufacture 1.3% of the nation's lumber production.  
+
+  Lumber and plywood products are marketed through independent wholesalers
+and distributors throughout the U.S.
+
+Composite board
+  Four particleboard plants in Louisiana and Oregon manufacture 12.8% of the
+nation's particleboard.  Three medium density fiberboard (MDF) plants in
+Arkansas, Oregon and South Carolina made 19.7% of the nation's MDF in 1995. 
+These plants produce value-added products including color-coated, woodgrain-
+printed, fire-rated and moisture-resistant boards.
+
+  Composite board products are sold nationwide through distributors, as well
+as directly to cabinet and furniture manufacturers.
+
+Engineered wood products
+  Three laminated beam plants in Oregon and Louisiana account for 28.4% of
+the nation's production.  Two laminated veneer lumber (LVL) plants and one
+wooden I-beam plant, all located in Oregon, manufactured 5.3% and 5.2% of the
+nation's total production for each respective product in 1995.  Engineered
+wood products, both stock and custom made, are sold nationwide and
+internationally.
+
+Timberlands
+
+  Willamette's 1,253,000 acres of timberland supply approximately 40% of our
+long-term log needs.  The remainder is purchased through government and
+private timber sales and open market purchases.  In Oregon, we are able to
+provide approximately 70% of our log needs from our own timberlands.  We own
+or control cutting rights on 572,000 acres in Louisiana, Arkansas and Texas;
+337,000 acres in Oregon; 188,000 acres in Tennessee and 156,000 acres in the
+Carolinas.  We continually look for opportunities to expand our fee timber
+base and make purchases when it is profitable to do so.
+
+Energy
+
+  Through cogeneration, the burning of waste materials and the recycling of
+spent pulping liquors, Willamette's manufacturing facilities are able to
+generate 60% of their total energy needs.
+<PAGE>
+Employees
+
+  Willamette employs approximately 13,180 people, of whom about 52% are
+represented by labor unions with collective bargaining agreements. 
+Agreements covering approximately 2,060 employees were negotiated in 1995. 
+Agreements involving about 1,540 hourly employees are subject to renewal in
+1996.  In excess of 46% of all salaried employees have been with the Company
+more than twelve years.
+
+Environmental Matters
+
+  See "Management's Discussion and Analysis of Financial Condition and
+Results of Operations--Other Matters" for a discussion of the effect on the
+Company of laws relating to environmental matters.
+
+Item 2.  Properties
+
+Manufacturing Facilities
+
+  The following table sets forth information regarding the Company's
+95 manufacturing facilities at December 31, 1995:
+
+       Facility                          Annual Production                    
+       --------                          -----------------
+                                             M Square Ft.                     
+                                             (3/8" Basis)
+Western Plywood (3 Plants)   
+  Dallas, Oregon                                151,000
+  Foster, Oregon                                 97,000
+  Springfield, Oregon                           122,000
+                                              ---------
+    Total Western Plants                        370,000
+                                              ---------
+
+Southern Plywood (5 Plants)
+  Dodson, Louisiana                             223,000
+  Emerson, Arkansas                             235,000
+  Ruston, Louisiana                             172,000
+  Taylor, Louisiana                             208,000
+  Zwolle, Louisiana                             214,000
+                                              ---------
+    Total Southern Plants                     1,052,000
+                                              ---------
+
+Atlantic Plywood (2 Plants)
+  Chester, South Carolina                       250,000
+  Moncure, North Carolina                       130,000
+                                              ---------
+    Total Atlantic Plants                       380,000
+                                              ---------
+                                                      (1995 Production-
+                                                       1,786,000 M)
+      Total Plywood                           1,802,000
+                                              ---------
+
+Oriented Strand Board
+  Arcadia, Louisiana (1)                        249,000
+                                              ---------
+                                                       
+      Total Structural Panels                 2,051,000
+                                              =========
+<PAGE>
+Western Lumber (4 Mills)                     M Board Ft
+  Coburg, Oregon                                107,000
+  Dallas, Oregon                                 88,000
+  Lebanon, Oregon-2 mills                       118,000
+                                              ---------
+    Total Western Mills                         313,000
+                                              ---------
+
+Southern Lumber (2 Mills)
+  Dodson, Louisiana                              62,000
+  Zwolle, Louisiana                              50,000
+                                              ---------
+    Total Southern Mills                        112,000
+                                              ---------
+                                                       (1995 Production-
+      Total Lumber                              425,000  430,000 M)           
+                                              =========
+
+                                           M Square Ft
+Particleboard (4 Plants)                  (3/4" Basis)
+  Albany, Oregon                                206,000
+  Bend, Oregon                                  160,000
+  Lillie, Louisiana                             111,000
+  Simsboro, Louisiana                            94,000
+                                              ---------
+                                                       (1995 Production-
+    Total Particleboard                         571,000  578,000 M)
+                                              =========
+
+                                           M Square Ft
+Medium Density Fiberboard (3 Plants)       (3/4" Basis)
+  Bennettsville, South Carolina                 129,000
+  Eugene, Oregon (1)                             43,000
+  Malvern, Arkansas                             124,000
+                                              ---------
+                                                       (1995 Production-
+    Total MDF                                   296,000  221,000 M)
+                                              =========
+
+Engineered Wood Products (6 Plants)                         
+  Laminated Beams                            M Board Ft
+    Saginaw, Oregon                              26,000
+    Simsboro, Louisiana                           8,000
+    Vaughn, Oregon                               59,000
+                                              ---------
+                                                       (1995 Production-
+      Total Laminated Beams                      93,000  80,000 M)
+                                              =========
+<PAGE>
+  Laminated Veneer Lumber                    Cubic Ft.   
+    Albany, Oregon (2)                          614,000  
+    Winston, Oregon                           1,592,000(1995 Production-
+                                              ---------
+      Total LVL                               2,206,000  1,595,000 CF)
+                                              =========
+
+  Structural I-Beams                       M Lineal Ft.
+    Woodburn, Oregon                             31,000(1995 Production-
+                                              =========
+                                                         24,000 M)
+Other Divisions (5 Facilities)
+  Coburg Veneer                          Coburg, Oregon
+  Custom Products                        Albany, Oregon
+  Custom Services                    Sweet Home, Oregon
+  Lebanon Machine                       Lebanon, Oregon
+  Remanufactured Lumber                 Lebanon, Oregon
+<PAGE>
+Pulp and Paper (9 Mills)                        Tons
+  Unbleached:
+    Albany, Oregon                              501,000
+    Campti, Louisiana                           797,000
+    Hawesville, Kentucky                        178,000
+    Oxnard, California                          194,000(1995 Production-
+                                              ---------
+                                              1,670,000  1,608,000 Tons)
+                                              ---------
+
+  Market Pulp and Fine Paper:                   Tons
+    Hawesville, Kentucky                                
+      Market Pulp                               163,000 
+      Fine Paper                                202,000
+    Johnsonburg, Pennsylvania                   337,000
+    Kingsport, Tennessee                        212,000
+    Marlboro County, South Carolina             283,000(1995 Production-
+                                              ---------
+                                              1,197,000  1,110,000 Tons)
+                                              ---------
+        Total Pulp and Paper                  2,867,000(1995 Production-
+                                              =========
+                                                         2,718,000 Tons)
+Corrugated Containers and Sheets(32 Plants)M Square Ft
+  Aurora, Illinois                              939,000
+  Beaverton, Oregon                             820,000
+  Bellevue, Washington                          674,000
+  Bellmawr, New Jersey                          739,000
+  Bowling Green, Kentucky                       735,000
+  Cerritos, California                          882,000
+  Compton, California                           695,000
+  Dallas, Texas                                 900,000
+  Delaware, Ohio                                626,000
+  Elk Grove, Illinois                           442,000
+  Fort Smith, Arkansas                          860,000
+  Fridley, Minnesota                            948,000
+  Golden, Colorado                              684,000
+  Griffin, Georgia                            1,000,000
+  Huntsville, Alabama                           860,000
+  Indianapolis, Indiana                         700,000
+  Kansas City, Kansas                           801,000
+  Lincoln, Illinois                             431,000
+  Louisville, Kentucky                          452,000
+  Lumberton, North Carolina                     596,000
+  Maryland Heights, Missouri                    742,000
+  Matthews, North Carolina                      443,000
+  Memphis, Tennessee                             54,000
+  Moses Lake, Washington                        791,000
+  Newton, North Carolina                        468,000
+  Sacramento, California                        706,000
+  San Leandro, California                     1,193,000
+  Sanger, California                            857,000
+  Sealy, Texas                                  748,000
+  St. Paul, Minnesota                           555,000
+  Warrensville Heights, Ohio                    109,000
+  West Memphis, Arkansas                        845,000(1995 Production-
+                                              ---------
+    Total Corrugated Containers              22,295,000  20,810,000 M)
+                                             ==========
+
+Business Forms (7 Plants)                       Tons
+  Cerritos, California                           57,000
+  Dallas, Texas                                  55,000
+  Dubois, Pennsylvania                           18,000
+  Indianapolis, Indiana                          72,000
+  Langhorne, Pennsylvania                        58,000
+  Rock Hill, South Carolina                      60,000
+  West Chicago, Illinois                         62,000
+                                              ---------
+                                                       (1995 Production-
+    Total Business Forms                        382,000  337,000 Tons)
+                                              =========
+
+Cut Sheets and Other Converting (4 Plants)      Tons
+  DuBois, Pennsylvania                          105,000
+  Kingsport, Tennessee                          109,000
+  Owensboro, Kentucky                            87,000
+  Tatum, South Carolina                          93,000
+                                              ---------
+                                                       (1995 Production-
+    Total Cut Sheets                            394,000  333,000 Tons)
+                                              =========
+                                                                           
+Kraft Bags and Sacks (4 Plants)               Tons
+  Beaverton, Oregon                              51,000
+  Buena Park, California                         40,000
+  Dallas, Texas                                  26,000
+  North Kansas City, Missouri                    21,000
+                                              ---------
+                                                       (1995 Production-
+    Total Kraft Bags and Sacks                  138,000  131,000 Tons)
+                                              =========
+                                                                           
+Preprinted Linerboard (2 Plants)         M Square Ft 
+  Richwood, Kentucky                            411,000     
+  Tigard, Oregon                                490,000
+                                              ---------
+                                                       (1995 Production-
+    Total Preprinted Linerboard                 901,000  667,000 M)
+                                              =========
+                                                                           
+Inks and Specialty Products(2 Plants)         Tons
+  Beaverton, Oregon                               3,000
+  Delaware, Ohio                                  3,000
+                                              ---------
+                                                       (1995 Production-
+    Total Inks                                    6,000  6,000 Tons)
+                                              =========
+
+(1)  Production to begin in first quarter of 1996.  Annual production
+capacity is estimated to be 350,000 MSF on a 3/8" basis.
+
+(2)  Production to begin in summer of 1996.  Annual Production capacity is
+estimated to be 1,600,000 cubic feet.
+
+Timberlands
+
+  For information respecting the Company's timberlands, see "Business--
+Timberlands."
+
+Item 3.  Legal proceedings
+
+  There are no material legal proceedings pending as of the date hereof.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+  There were no matters submitted to a vote of security holders during the
+fourth quarter of the year ended December 31, 1995.
+
+                    Executive Officers of the Registrant
+
+  The executive officers of the Company are elected annually by the board of
+directors.  At February 8, 1996, the executive officers of the Company, their
+ages at December 31, 1995, and their positions with the Company were as
+follows:
+
+     Name                    Age                  Position
+                                       
+Steven R. Rogel               53             President and chief executive
+                                             officer
+
+William P. Kinnune            56             Executive vice president-
+                                             corrugated containers and bags
+
+Michael R. Onustock           56             Executive vice president-pulp
+                                             and fine paper marketing
+
+J. A. Parsons                 60             Executive vice president and
+                                             chief financial officer,
+                                             secretary and treasurer
+
+Floyd Vike                    60             Executive vice president-
+                                             building materials group
+
+  Each executive officer has been employed by the Company in his present or
+in another managerial capacity for more than five years.
+<PAGE>
+                                   PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder
+Matters
+
+  The Company's common stock trades on The Nasdaq Stock Market under the
+symbol: WMTT.  At December 31, 1995, there were approximately 6,200 holders
+of record of the Company's common stock.  The following table shows for the
+periods indicated the high and low closing sales prices of, and the per share
+dividends paid on, the Company's common stock in each case as adjusted for
+stock splits.
+
+
+                        1995                       1994        
+              ------------------------       ------------------
+                              Closing                  Closing
+                Dividends      Price         Dividends  Price
+                  Paid        High-Low          Paid   High-Low
+              -----------     --------       --------- --------
+1st Quarter....     $0.27     55-46 3/4         $0.24  59-45 3/4
+2nd Quarter....      0.27     56 1/4-48 1/4      0.24  49 1/2-42 3/4
+3rd Quarter....      0.30     72 3/8-55 1/2      0.24  52-41 1/2
+4th Quarter....      0.30     66 1/2-54 1/4      0.24  50 3/4-41
+
+
+  A dividend of $.31 per share was declared on the common stock for the first
+quarter of 1996 representing an indicated annual dividend rate of $1.24 per
+share.  The Company expects to continue paying regular cash dividends,
+although there is no assurance as to future dividends as they are dependent
+on earnings, capital requirements and financial condition.
+<PAGE>
+<TABLE>
+<CAPTION>
+
+Item 6.  Selected Financial Data
+
+  The following table shows selected financial data for the Company for the periods indicated:
+  ----------------------------------------------------------------------
+  Financial Results
+   (dollar amounts, except per share amounts, in thousands)
+<S>                                             <C>            <C>           <C>          <C>          <C>
+                                                      1995         1994         1993         1992         1991
+                                                                                         
+   Net sales.....................................$  3,873,575    3,007,949    2,622,237    2,372,396    2,004,501
+   ===============================================================================================================
+   Cost and expenses:
+   Depreciation, amortization and cost
+      of fee timber harvested.....................    249,165      217,252      194,202      173,784      151,258
+   Materials, labor and other operating expenses..  2,528,570    2,239,185    1,997,246    1,833,919    1,563,939
+                                                   ---------------------------------------------------------------
+       Gross profit...............................  1,095,840      551,512      430,789      364,693      289,304
+   Selling and administrative expenses............    201,784      184,699      174,413      167,094      145,329
+                                                   ---------------------------------------------------------------
+       Operating earnings.........................    894,056      366,813      256,376      197,599      143,975
+   Interest expense...............................     71,050       71,513       63,290       66,422       63,263
+   Other income (expense).........................        798       (6,377)      (3,918)      (1,725)      (7,103)
+                                                  ----------------------------------------------------------------
+       Earnings before taxes......................    823,804      288,923      189,168      129,452       73,609
+   Provision for income taxes.....................    309,000      111,300       78,500       47,900       27,800
+                                                  ----------------------------------------------------------------
+       Earnings before accounting changes.........    514,804      177,623      110,668       81,552       45,809
+   Accounting changes.............................       -            -          26,364         -            -   
+                                                  ----------------------------------------------------------------
+       Net earnings ..............................    514,804      177,623      137,032       81,552       45,809
+   Cash dividends paid............................     62,874       52,807       48,213       45,200       40,715
+   Earnings retained in the business..............    451,930      124,816       88,819       36,352        5,094
+   Capital expenditures...........................    453,523      393,161      386,864      367,173      244,373
+   ===============================================================================================================
+   Financial Condition
+   Working capital...............................$    359,258      138,528      157,576      157,822      147,194
+   Long-term debt (non-current portion)...........    790,210      915,797      941,710      843,618      746,622
+   Stockholders' equity...........................  1,846,890    1,387,865    1,257,870    1,164,828      994,460
+   Total assets...................................  3,413,555    3,033,398    2,804,553    2,527,416    2,219,067
+   ===============================================================================================================
+   Common Stock
+   Number of stockholders (beneficial)............     19,000       17,000       14,000       11,500       10,500
+   Shares outstanding (in thousands) (1)..........     55,224       55,036       54,897       54,770       50,962
+   ===============================================================================================================
+   Per Share(1)
+   Earnings before accounting changes............$       9.34         3.23         2.02         1.52         0.90
+   Accounting changes ............................        -            -            .48          -            -  
+                                                  ----------------------------------------------------------------
+     Net earnings ................................       9.34         3.23         2.50         1.52         0.90
+   Cash dividends paid ...........................       1.14          .96         0.88         0.84         0.80
+   Stockholders' equity ..........................      33.44        25.22        22.91        21.27        19.51
+   ===============================================================================================================
+   Financial Returns
+   Percent return on equity before accounting
+     changes (2)..................................       37.1%       14.1%         9.5%         8.2%         4.6%
+   Percent return on net sales before accounting
+     changes .....................................       13.3%        5.9%         4.2%         3.4%         2.3%
+   ===============================================================================================================
+   Employment
+   Number of employees............................     13,180      12,260       12,040       12,000       11,350
+   Wages, salaries and cost of employee benefits $    627,835     580,561      551,172      507,469      451,770
+   ===============================================================================================================
+
+
+   (1) All share and per share amounts have been adjusted for stock splits.
+   (2) Calculated on stockholders' equity at the beginning of the year.
+</TABLE>
+<PAGE>
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+  Paper products markets tend to follow general economic conditions.  The
+sales and earnings of the building materials business are closely related to
+new housing starts, remodeling activity and to the availability and terms of
+financing for construction.  The cost of wood fiber, the basic raw material
+for both industry segments, is sensitive to various supply and demand
+factors, including environmental issues affecting log supply.
+
+Results of Operations 1995 vs. 1994
+
+Net sales increased 28.8% in 1995 compared with 1994.  Paper products sales
+increased 49.0% as selling prices increased by 30.0% or more in all paper
+products lines.  Except for grocery bags and corrugated containers shipments,
+unit sales volumes increased by 5.7% or more in all other paper products
+lines.  Grocery bag and corrugated container shipments were down 11.7% and
+2.5% respectively from 1994 mainly due to exceptionally strong demand for
+these products during 1994.  During the fourth quarter of 1995, selling
+prices for all paper products lines declined from the record levels achieved
+in the third quarter of 1995 and this trend appears to be continuing as we
+enter the first quarter of 1996.
+
+Building materials sales decreased 5.2% in 1995 compared with 1994 mostly due
+to lower unit shipments of at least 3.7% in all building materials product
+lines.  Unit shipments declined primarily due to weaker building materials
+markets, downtime taken associated with the completion of capital expansion
+projects and the closure of the Sweet Home, Oregon plywood plant in the
+fourth quarter of 1994.  Except for lumber, selling prices in all other
+building materials product lines were higher in 1995 than 1994; however,
+prices in the fourth quarter of 1995 were lower in all product lines than for
+the first three quarters of 1995.
+
+The gross profit margin was 28.3% for 1995 compared with 18.3% for 1994. 
+Paper products gross margins increased to 30.6% in 1995 compared with 13.8%
+for 1994 reflecting improved selling prices for all paper products lines and
+improved unit sales volumes in all fine paper products lines.  Paper products
+gross margins also improved because 1995 costs were not impacted by the
+start-up costs incurred in 1994 for the installation of a new pulping
+facility and paper machine at the Company's Johnsonburg, Pennsylvania mill. 
+Another significant improvement to gross margins in 1995 was the start-up of
+the second linerboard machine at Campti, Louisiana which allowed the Company
+to replace linerboard previously purchased outside with internally produced
+product at a much lower cost.  Partially offsetting the increase in gross
+margins was the escalation of old corrugated container (OCC) prices.  Prices
+for OCC, a raw material used in the manufacture of paper, increased 47.3%
+compared with 1994.
+
+Building materials gross profit margins decreased to 22.9% compared with
+25.9% in 1994.  The drop in building materials margins is mainly due to
+decreases in unit shipments coupled with higher log costs and increased glue
+and resin costs.  Log costs in 1995 increased 8.8% over costs from 1994.  The
+cost of glue and resin, raw materials used in the manufacture of plywood and
+composite board products, increased 16.8% in 1995 over 1994.
+
+Selling and administrative expenses declined to 5.2% of net sales in 1995
+compared with 6.1% for 1994.  The drop was due to higher net sales as selling
+and administrative expenses increased 9.3% between 1995 and 1994 mainly due
+to expansion of the Company's operations.
+
+Other income(expense) was $.8 million in 1995 versus $(6.4) million for 1994. 
+The expense in 1994 was mostly due to the closure of the Sweet Home, Oregon
+plywood plant with a related charge of $5.0 million.
+
+Interest expense was $71.0 million in 1995 compared with $71.5 million in
+1994.  Because the Company's average outstanding debt decreased $105.2
+million between 1995 and 1994, gross interest was $77.2 million in 1995
+versus $80.8 million in 1994.  Capitalized interest declined to $6.2 million
+in 1995 versus $9.3 million in 1994.  The weighted average interest rate of
+all debt was 7.67% at December 31, 1995 compared with 7.75% at December 31,
+1994.
+
+Results of Operations 1994 vs. 1993
+                                      
+  Net sales increased 14.7% in 1994 compared to 1993.  Paper products sales
+increased 18.4% as unit volume sales increased in all paper products lines. 
+Unbleached paper products selling prices improved significantly throughout
+1994 as demand for these products was strong while available supplies grew at
+a far slower pace.  In addition, demand for linerboard grew in export markets
+further tightening supply.  In fine paper products, hardwood market pulp
+prices trended upward throughout 1994.  Average sales price realizations for
+other fine paper products trended down through the second quarter of 1994. 
+In the second half of 1994, a favorable upward trend in fine paper products
+sales prices boosted the average realization for fine paper prices in the
+fourth quarter of 1994 to 13.6% above levels from the same period in 1993.
+
+  Building materials sales were up 8.9% compared with 1993 as average sales
+price realizations increased for all building materials product lines.  Both
+particleboard and MDF average sales prices increased in excess of 15.0% in
+1994 as compared with 1993.  Sales volumes increased for both particleboard
+and MDF, however plywood experienced slight volume declines due to the
+continuing reduction in the availability of federal timber in the Pacific
+Northwest.
+
+  As the federal government owns nearly 60% of the commercial timberland in
+Oregon, preservationists' pressures that have stopped federal timber sales
+have caused a significant reduction in available timber supply.  State and
+private timber supply is inadequate to fill the shortfall.  This resulted in
+many mill closures at a time when product demand was increasing, creating
+supply-related pressures on lumber and plywood prices.  In October 1994, the
+Company closed its Sweet Home, Oregon plywood plant due to the reduced
+availability of federal timber.  No additional plant closures are anticipated
+in the immediate future.
+
+  Gross profit margins increased to 18.3% in 1994 from 16.4% in 1993.  Paper
+products gross margins increased to 13.8% from 11.6% in 1993 reflecting
+improved selling prices in the last half of 1994.  This improvement was
+tempered by start-up costs associated with a new pulping facility and paper
+machine at the Johnsonburg, Pennsylvania mill.  In addition, margins were
+also pressured as the prices for old corrugated containers increased 68.5%
+from 1993.
+
+  Building materials gross profit margins increased to 25.9% compared with
+23.9% in 1993.  The improvement in building materials margins was due mainly
+to increases in average sales price realizations for all product lines. 
+However, the Company continued to experience increasing raw material costs
+due to environmental and supply and demand factors.  The cost of resin and
+glue increased significantly from 1993.
+
+  Selling and administrative expenses declined to 6.1% of net sales compared
+with 6.7% in 1993.  The decline was due primarily to additional net sales as
+selling and administrative expenses increased 5.9% between the two periods.
+
+  Other income(expense) was $(6.4) million in 1994 compared with $(3.9)
+million in 1993.  The increased expense was due primarily to a charge of $5.0
+million ($.06 per share, after-tax) for the closure of the Sweet Home, Oregon
+plywood plant recorded in the third quarter of 1994.
+
+  Interest expense increased to $71.5 million in 1994 compared with $63.3
+million in 1993.  Although the Company's average outstanding debt increased
+$98.7 million between the two periods, gross interest was $80.8 million in
+1994 versus $79.2 million in 1993 as the Company's effective interest rate on
+average outstanding debt declined from 8.1% in 1993 to 7.5% in 1994. 
+Capitalized interest declined from $15.9 million in 1993 to $9.3 million in
+1994.  The weighted average interest rate of all debt was 7.75% at December
+31, 1994 compared with 7.31% at December 31, 1993.
+
+  The overall effective income tax rate declined to 38.5% in 1994 from 41.5%
+in 1993.  The federal corporate income tax rate increased in 1993 which
+required an increase in the deferred tax liability account and a
+corresponding charge to earnings in the amount of $5.9 million or $.11 per
+share.
+
+Liquidity and Capital Resources
+
+  Willamette generates funds internally via net earnings adjusted for non-
+cash charges against earnings such as depreciation, cost of fee timber
+harvested and deferred income taxes.  Funds generated externally have usually
+been through debt financing.
+
+  In 1995, cash flows from operating activities were $717.2 million and
+represented an increase of 80.7% over comparable cash flows in 1994.  This
+increase was primarily due to additional net earnings.  In addition to
+completely funding capital expenditures for 1995, increased operating cash
+flows allowed the Company to reduce its debt outstanding by $195.9 million. 
+Significant debt transactions since December 31, 1994 include the retirement
+of a $100.0 million note with a 9.55% interest rate due in April of 1995 and
+the repayment of $75.0 million of the $100.0 million bank term loan.  As a
+result of strong cash flows in 1995, the total debt-to-capital ratio was
+32.0% at December 31, 1995 compared with 43.5% at December 31, 1994.
+
+  Net working capital increased to $359.3 million at December 31, 1995 from
+$138.5 million at December 31, 1994.  The increase is primarily due to
+increases in inventories and receivables coupled with a reduction in short-
+term notes payable of $49.0 million.  Inventories increased $135.3 million
+mostly due to quantities being unusually low at December 31, 1994, the
+acquisition of the Kingsport, Tennessee paper mill and higher prices for the
+Company's non-manufactured inventories.  Receivables increased $31.0 million
+from December 31, 1994 due to higher sales and a slight increase in the
+number of days sales outstanding.
+
+  The Company is continually making capital expenditures at its manufacturing
+facilities to improve fiber utilization, labor efficiency and to expand
+production.  In 1995, the Company made such capital expenditures of $412.0
+million.
+
+  During 1995 the following major capital projects were completed:
+
+      >    Construction of a second linerboard machine at the paper mill in
+           Campti, Louisiana which began production in February, 1995.
+
+      >    Construction of a gas turbine cogeneration facility at the Albany,
+           Oregon paper mill.
+
+      >    Upgrade and rebuild to three specialty paper machines at the
+           Johnsonburg, Pennsylvania fine paper mill.
+
+      >    Upgrade and expansion to the paper machine at Oxnard, California.
+
+      >    Expansion of the cut sheet facility at Owensboro, Kentucky with a
+           12-pocket sheeter.
+
+      >    Acquisition of the Kingsport, Tennessee fine paper mill in May,
+           1995.
+ 
+  Major capital projects underway at December 31, 1995 include the following:
+ 
+      >    Conversion of the Eugene, Oregon particleboard plant to
+           manufacture medium density fiberboard.
+
+      >    Construction of an oriented strand board facility in Arcadia,
+           Louisiana.
+ 
+      >    Expansion of pulping capacity at the Marlboro County, South
+           Carolina fine paper mill.
+
+      >    New fine paper machine and related pulping capacity at Hawesville,
+           Kentucky.
+
+      >    Upgrades to the chemical and fiber recovery areas at the
+           Kingsport, Tennessee fine paper mill.
+
+      >    Expansion of secondary fiber capacity at the paper mill in Campti,
+           Louisiana.
+
+      >    Construction of a new laminated veneer lumber and custom products
+           plant in Albany, Oregon.
+   
+  The cost of all major capital projects in progress at December 31, 1995 is
+estimated to be approximately $922.9 million of which $179.3 million has
+already been spent.  These projects will be funded with internally generated
+cash flows and with external borrowings if needed.  The Company believes it
+has the resources available to meet its liquidity requirements through
+internally generated cash flows, short-term borrowings and revolving credit
+agreements which could be arranged with a number of banks.  In addition, in
+April 1994, the Company registered, under the Securities Act of 1933, senior
+debt securities totaling $200 million.  As of December 31, 1995, none of
+these debt securities had been issued.
+
+  In August 1995, the Board of Directors of the Company authorized the
+repurchase of up to $100.0 million of the Company's common stock.  During
+1995, the Company purchased 50,000 share of its common stock for $2.7
+million.
+
+Other Matters
+
+  The Company believes it is in substantial compliance with federal, state
+and local laws regarding environmental quality.  
+
+  The Environmental Protection Agency (EPA) has issued proposed rules
+regarding air and water quality referred to as the "cluster rules".  These
+rules are currently undergoing public review and if not modified would be
+extremely onerous to the paper industry  with a potential financial impact
+estimated in excess of $11 billion in capital spending to comply with the
+proposed rules.  This level of regulation is not justified on either an
+environmental impact or cost benefit basis and it is hoped compromise can be
+reached lessening the severity of the rules.
+
+  In addition to the impact of the cluster rules on pulp and paper mills, the
+Company's other operations are faced with increasingly stringent
+environmental regulations.  Based upon regulations either enacted or
+proposed, the Company estimates that over the next five years additional
+capital expenditures which are not yet in process to comply with
+environmental regulations will not exceed $125 million.  Although future
+environmental capital expenditures cannot be predicted with any certainty
+because of continuing changes in laws, we believe that compliance with such
+environmental regulations will not have a material adverse effect upon the
+Company's competitive position.
+
+  Much attention has been given to the controversy concerning
+preservationists' efforts to stop the harvest of timber from Federal
+timberlands in the Northwest.  Concurrent with these efforts have come
+increased regulations, limitations and restrictions on the harvest of timber
+from privately-owned timberlands.  Current rules and regulations do not
+significantly impact the Company's ability to manage its Oregon timberland on
+a sustained yield basis.
+
+  Over the years, inflation has resulted in replacement costs higher than
+those originally needed to purchase existing plants and equipment.  Advancing
+technology and environmental concerns also contribute to higher costs. 
+Productivity gains, because of technological improvements, may partially
+offset these increased costs.  Our use of LIFO to value inventories allows us
+to include these inflationary costs in the cost of sales.
+
+Item 8.  Financial Statements and Supplementary Data
+
+   The financial statements and supplementary data filed as part of this
+report follow the signature pages of this report.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosures
+
+   None.
+
+                                  PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+   Information regarding (i) directors of the Company is set forth in the
+Company's definitive proxy statement (the "Proxy Statement") for its 1996
+annual meeting of shareholders, under the heading "Election of Directors" and
+(ii) the failure by a director of the Company to file, on a timely basis, one
+report required by Section 16(a) of the Securities Exchange Act of 1934, is
+set forth in the last paragraph under "Holders of Common Stock" in the Proxy
+Statement, which information is incorporated herein by reference. 
+Information regarding the executive officers of the Company is set forth
+under the heading "Executive Officers of the Registrant" in Part I of this
+report.
+
+Item 11.  Executive Compensation
+
+   Information regarding compensation of directors and executive officers of
+the Company is set forth in the Proxy Statement under the headings "Executive
+Compensation," "Compensation Committee Interlocks and Insider Participation,"
+"Compensation of Directors" and "Employment Agreements."  Such information is
+incorporated herein by reference.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+   Information regarding security ownership of management and certain other
+beneficial owners is in the Proxy Statement under the heading "Holders of
+Common Stock" which information is incorporated herein by reference.
+
+Item 13.  Certain Relationships and Related Transactions
+
+   Information regarding certain relationships and related transactions is
+set forth in the Proxy Statement under the heading "Compensation Committee
+Interlocks and Insider Participation" which information is incorporated
+herein by reference.
+
+                                   PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on
+Form 8-K.
+
+(a) 1. and 2.  For a list of the financial statements filed herewith, see the
+               index to consolidated financial statements following the
+               signature pages of this report.
+
+(a) 3.         For a list of the exhibits filed herewith, see the index to
+               exhibits following the financial statements filed with this
+               report.  Each management contract or compensatory plan or
+               arrangement required to be filed as an exhibit to this report
+               is identified in the list.
+
+(b)            Reports on Form 8-K.
+
+               No reports on Form 8-K were filed for the quarter ended
+               December 31, 1995.
+<PAGE>
+                                 SIGNATURES
+
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                        WILLAMETTE INDUSTRIES, INC.
+                                             (Registrant)
+
+                                        By/s/ J. A. PARSONS
+Dated:  February 8, 1996                     (J. A. Parsons)
+                                             Executive Vice President
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on February 8, 1996, by the following persons on
+behalf of the registrant in the capacities indicated.
+
+
+    Signature                              Title
+    ---------                              -----
+Principal Executive Officer
+  and Director
+
+/s/ STEVEN R. ROGEL              President and Chief Executive Officer
+    (Steven R. Rogel)            and Director
+
+Principal Financial Officer
+
+/s/ J. A. PARSONS                Executive Vice President and
+    (J. A. Parsons)              Chief Financial Officer, Secretary and
+                                 Treasurer
+
+Principal Accounting Officer
+
+/s/ DUANE C. MCDOUGALL           Vice President-Controller
+    (Duane C. McDougall)
+
+
+/s/ WILLIAM SWINDELLS            Chairman of the Board
+    (William Swindells)
+
+
+/s/ C. M. BISHOP                 Director
+    (C. M. Bishop)
+
+
+/s/ GERARD K. DRUMMOND           Director
+    (Gerard K. Drummond)
+
+
+/s/ E. B. HART                   Director
+    (E. B. Hart)
+
+/s/ C. W. KNODELL                Director
+    (C.W. Knodell)
+
+
+/s/ PAUL N. MCCRACKEN            Director
+    (Paul N. McCracken)
+
+
+/s/ STUART J. SHELK, JR.         Director
+    (Stuart J. Shelk, Jr.)
+
+
+/s/ ROBERT M. SMELICK            Director
+    (Robert M. Smelick)
+
+
+/s/ SAMUEL C. WHEELER            Director
+    (Samuel C. Wheeler)
+
+
+/s/ BENJAMIN R. WHITELEY         Director
+    (Benjamin R. Whiteley)
+<PAGE>
+Index to Consolidated Financial Statements
+
+                                                                     Page No.
+
+Independent Auditors' Report                                               21
+
+Consolidated Balance Sheets as of December 31, 1995 and 1994               22
+
+Consolidated Statements of Earnings for the Years ended                      
+    December 31, 1995, 1994 and 1993                                       23
+
+Consolidated Statements of Stockholders' Equity for the Years ended          
+    December 31, 1995, 1994 and 1993                                       24
+
+Consolidated Statements of Cash Flows for the Years ended
+    December 31, 1995, 1994 and 1993                                       25
+
+Supplementary Business Segment Information                                 26
+
+Selected Quarterly Financial Data                                          27
+
+Notes to Consolidated Financial Statements                                 28
+<PAGE>
+Independent Auditors' Report
+
+
+
+The Board of Directors and Stockholders
+Willamette Industries, Inc.:
+
+    We have audited the accompanying consolidated balance sheets of
+Willamette Industries, Inc. and subsidiaries as of December 31, 1995 and
+1994, and the related consolidated statements of earnings, stockholders'
+equity and cash flows for each of the years in the three-year period ended
+December 31, 1995.  These consolidated financial statements are the
+responsibility of the Company's management.  Our responsibility is to express
+an opinion on these consolidated financial statements based on our audits.
+
+    We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+    In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Willamette Industries, Inc. and subsidiaries as of December 31, 1995 and
+1994, and the results of their operations and their cash flows for each of
+the years in the three-year period ended December 31, 1995 in conformity with
+generally accepted accounting principles.
+
+    As discussed in the notes to the consolidated financial statements, the
+Company adopted the provisions of the Financial Accounting Standards Board's
+Statement of Financial Accounting Standards #106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" and Statement of Financial
+Accounting Standards #109, "Accounting for Income Taxes," in 1993.
+    
+
+                            KPMG PEAT MARWICK LLP
+
+
+Portland, Oregon
+February 8, 1996
+<PAGE>
+<TABLE>
+<CAPTION>
+
+CONSOLIDATED BALANCE SHEETS
+December 31, 1995 and 1994
+(dollar amounts, except per share amounts, in thousands)
+
+<S>                                                        <C>                 <C>           
+ Assets                                                            1995             1994
+                                                              --------------   --------------
+                                                                         
+ Current assets:
+   Cash                                                     $        17,961           12,798
+   Accounts receivable, less allowance for doubtful
+     accounts of $5,446 (1994 - $5,278)                             314,070          283,055
+   Inventories (note 3)                                             391,358          256,091
+   Prepaid expenses and deposits on timber cutting contracts         51,448           52,710
+                                                              --------------   --------------
+           Total current assets                                     774,837          604,654
+                                                              --------------   --------------
+ Timber, timberlands and related facilities, net                    518,873          509,075
+ Property, plant and equipment, net (note 9)                      2,054,868        1,863,505
+ Other assets                                                        64,977           56,164
+                                                              --------------   --------------
+                                                                  3,413,555        3,033,398
+                                                              ==============   ==============
+  Liabilities and Stockholders' Equity
+  Current liabilities:
+   Current installments on long-term debt (note 5)          $        29,598           50,956
+   Notes payable (note 5)                                            51,000          100,000
+   Accounts payable, includes book                                  180,176          173,549
+     overdrafts of $58,158 (1994 - $48,589)
+   Accrued payroll and related expenses                              65,335           58,945
+   Accrued interest                                                  20,428           22,308
+   Other accrued expenses                                            44,506           37,414
+   Federal and state taxes on income (note 4)                        24,536           22,954
+                                                              --------------   --------------
+            Total current liabilities                               415,579          466,126
+                                                              --------------   --------------
+ Deferred income taxes (note 4)                                     330,142          231,717
+ Other liabilities                                                   30,734           31,893
+ Long-term debt, net of current installments (note 5)               790,210          915,797
+ Stockholders' equity (note 7):
+   Preferred stock, cumulative, of $.50 par value.
+     Authorized 5,000,000 shares                                          -                -
+   Common stock of $.50 par value.  Authorized
+     75,000,000 shares; issued 55,223,706
+       shares (1994 - 55,036,191 shares)                             27,612           27,518
+   Capital surplus                                                  300,757          293,756
+   Retained earnings                                              1,518,521        1,066,591
+                                                              --------------   --------------
+             Total stockholders' equity                           1,846,890        1,387,865
+                                                              --------------   --------------
+                                                            $     3,413,555        3,033,398
+                                                              ==============   ==============
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+  CONSOLIDATED STATEMENTS OF EARNINGS
+  Years ended December 31, 1995, 1994 and 1993
+  (dollar amounts, except per share amounts, in thousands)
+
+
+
+                                                       1995         1994         1993
+                                                    ----------   ----------   ----------
+<S>                                              <C>            <C>          <C>        
+  Net sales                                       $ 3,873,575    3,007,949    2,622,237
+
+  Cost of sales                                     2,777,735    2,456,437    2,191,448
+                                                    ----------   ----------   ----------
+     Gross profit                                   1,095,840      551,512      430,789
+
+  Selling and administrative expenses                 201,784      184,699      174,413
+                                                    ----------   ----------   ----------
+     Operating earnings                               894,056      366,813      256,376
+
+  Other income (expense)                                  798       (6,377)      (3,918)
+                                                    ----------   ----------   ----------
+                                                      894,854      360,436      252,458
+
+  Interest expense                                     71,050       71,513       63,290
+                                                    ----------   ----------   ----------
+     Earnings before taxes and accounting changes     823,804      288,923      189,168
+
+  Provision for income taxes (note 4)                 309,000      111,300       78,500
+                                                    ----------   ----------   ----------
+     Earnings before accounting changes               514,804      177,623      110,668
+
+  Accounting changes (notes 2 and 6)                        -            -       26,364
+                                                    ----------   ----------   ----------
+     Net Earnings                                 $   514,804      177,623      137,032
+                                                     ========     ========     ========
+  Per share information:
+     Earnings before accounting changes           $      9.34         3.23         2.02
+
+     Accounting changes                                     -            -         0.48
+                                                    ----------   ----------   ----------
+     Net earnings                                 $      9.34         3.23         2.50
+                                                    ==========   ==========   ==========
+
+  Weighted average number of shares
+     outstanding (in thousands)                        55,146       55,019       54,810
+                                                    ==========   ==========   ==========
+
+
+  Per share earnings are based upon the weighted average number of shares outstanding and have
+been adjusted for all stock splits.
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+  CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+  Years ended December 31, 1995, 1994 and 1993
+  (dollar amounts, except per share amounts, in thousands)
+
+                                                        1995         1994         1993 
+                                                    ----------   ----------   ----------
+<S>                                              <C>             <C>          <C>       
+  Common Stock:
+    Balance at beginning of year                  $    27,518       27,449       27,385
+       Shares issued for options exercised                119           69           64
+       Stock repurchased and cancelled                    (25)           -            -
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $    27,612       27,518       27,449
+                                                    ==========   ==========   ==========
+  Capital Surplus:
+    Balance at beginning of year                  $   293,756      288,646      284,487
+       Shares issued for options exercised              9,689        5,110        4,159
+       Stock repurchased and cancelled                 (2,688)           -            - 
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $   300,757      293,756      288,646
+                                                    ==========   ==========   ==========
+  Retained Earnings:
+    Balance at beginning of year                  $ 1,066,591      941,775      852,956
+       Net earnings                                   514,804      177,623      137,032
+       Less cash dividends on common stock
+         ($1.14, $.96, $.88 per share in
+         1995, 1994 and 1993 respectively)            (62,874)     (52,807)     (48,213)
+                                                    ----------   ----------   ----------
+    Balance at end of year                        $ 1,518,521    1,066,591      941,775
+                                                    ==========   ==========   ==========
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+  CONSOLIDATED STATEMENTS OF CASH FLOWS
+  Years ended December 31, 1995, 1994 and 1993
+  (dollar amounts in thousands)
+
+
+                                                            1995         1994         1993
+                                                          ---------    ---------    ---------
+                                                                           
+<S>                                                    <C>             <C>          <C>      
+  Cash flows from operating activities:
+     Net earnings                                       $  514,804      177,623      137,032
+     Adjustments to reconcile net earnings
+        to net cash from operating activities:
+          Net change in accounting standards                     -            -      (26,364)
+          Depreciation                                     218,580      192,378      166,088
+          Cost of fee timber harvested                      25,061       19,810       21,611
+          Other amortization                                 5,524        5,064        6,503
+          Increase in deferred income taxes                 98,425       33,422       32,810
+     Changes in working capital items:
+          Accounts receivable                              (31,015)     (75,894)     (24,365)
+          Inventories                                     (135,267)      12,972      (20,367)
+          Prepaid expenses and timber deposits               1,262       (5,265)      (7,018)
+          Accounts payable and accrued expenses             18,229       26,648        8,444 
+          Accrued income taxes                               1,582       10,164        4,274 
+                                                          ---------    ---------    ---------
+     Net cash from operating activities                    717,185      396,922      298,648
+                                                          ---------    ---------    ---------
+  Cash flows from investing activities:
+        Proceeds from sale of equipment                      2,000        2,415        6,988
+        Expenditures for property, plant and equipment    (411,985)    (340,278)    (361,488)
+        Expenditures for timber and timberlands, net       (33,776)     (45,676)     (18,295)
+        Expenditures for roads and reforestation            (7,762)      (7,207)      (7,081)
+        Other                                               (8,602)      17,110      (10,719)
+                                                          ---------    ---------    ---------
+     Net cash from investing activities                   (460,125)    (373,636)    (390,595)
+                                                          ---------    ---------    ---------
+  Cash flows from financing activities:
+        Debt borrowing                                      79,010       29,000      388,929 
+        Proceeds from sale of common stock                   9,635        5,011        4,073
+        Repurchased common stock                            (2,713)           -            -
+        Cash dividends paid                                (62,874)     (52,807)     (48,213)
+        Payment on debt                                   (274,955)      (1,235)    (252,333)
+                                                          ---------    ---------    ---------
+     Net cash from financing activities                   (251,897)     (20,031)      92,456 
+                                                          ---------    ---------    ---------
+  Net change in cash                                         5,163        3,255          509 
+  Cash at beginning of year                                 12,798        9,543        9,034 
+                                                          ---------    ---------    ---------
+  Cash at end of year                                   $   17,961       12,798        9,543 
+                                                          =========    =========    =========
+
+  Supplemental disclosures of cash flow information:
+
+      Cash paid during the year for:
+        Interest (net of amount capitalized)            $   72,930       70,791       65,183
+                                                          =========    =========    =========
+        Income taxes                                    $  208,993       67,714       41,416
+                                                          =========    =========    =========
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+  SUPPLEMENTARY BUSINESS SEGMENT INFORMATION
+  (dollar amounts in thousands)
+
+                                                  1995   %        1994   %        1993   %        1992   %        1991   %
+                                             --------------  --------------  --------------  --------------  --------------
+                                                                                              
+<S>                                       <C>               <C>             <C>             <C>             <C>            
+  Sales to outside customers:
+    Paper Group:
+      Fabricated paper products........... $ 2,128,428  55   1,475,593  49   1,232,311  47   1,098,777  46     958,615  48
+      Pulp and paper......................     681,094  18     410,365  14     360,014  14     381,529  16     392,910  19
+                                             -------------   -------------   -------------   -------------   -------------
+    Total Paper Group.....................   2,809,522  73   1,885,958  63   1,592,325  61   1,480,306  62   1,351,525  67
+                                             -------------   -------------   -------------   -------------   -------------
+    Building Materials Group:
+      Lumber .............................     169,753   4     188,445   6     184,287   7     147,886   6     112,423   6
+      Plywood ............................     428,707  11     441,397  15     425,387  16     397,332  17     296,550  15
+      Particleboard and MDF ..............     272,336   7     292,153  10     234,123   9     186,973   8     148,749   7
+      Other wood products.................     193,257   5     199,996   6     186,115   7     159,899   7      95,254   5
+                                             -------------   -------------   -------------   -------------   -------------
+    Total Building Materials Group........   1,064,053  27   1,121,991  37   1,029,912  39     892,090  38     652,976  33
+                                             -------------   -------------   -------------   -------------   -------------
+  Total net sales (1)..................... $ 3,873,575 100   3,007,949 100   2,622,237 100   2,372,396 100   2,004,501 100
+                                             =============   =============   =============   =============   =============
+  Intersegment sales at market value
+    Building Materials Group.............. $    61,082          36,121          39,113          38,128          34,253
+                                             =============   =============   =============   =============   ==============
+  Contribution to earnings (2):
+    Paper Group........................... $   707,234  79     124,856  34      53,655  21      95,970  49     119,719  83
+    Building Materials Group..............     186,822  21     241,957  66     202,721  79     101,629  51      24,256  17
+                                             -------------   -------------   -------------   -------------   -------------
+      Contribution to earnings ...........     894,056 100     366,813 100     256,376 100     197,599 100     143,975 100
+                                                       ===             ===             ===             ===             ===
+  Other income (expense)..................         798          (6,377)         (3,918)         (1,725)         (7,103
+  Interest expense........................      71,050          71,513          63,290          66,422          63,263
+                                             ---------       ---------       ---------       ---------       ---------
+  Earnings before taxes and
+    accounting changes.................... $   823,804         288,923         189,168         129,452          73,609
+                                             =========       =========       =========       =========       =========
+  Identifiable assets:
+    Paper Group........................... $ 2,359,462       2,090,399       1,884,017       1,663,990       1,361,437
+    Building Materials Group..............     448,320         357,276         362,184         346,882         354,322
+    Timber, timberlands and related
+     facilities...........................     518,873         509,075         483,308         448,721         443,075
+    Corporate.............................      86,900          76,648          75,044          67,823          60,233
+                                             ---------       ---------       ---------       ---------       ---------
+                                           $ 3,413,555       3,033,398       2,804,553       2,527,416       2,219,067
+                                             =========       =========       =========       =========       =========
+
+  (1)  The Company has no foreign operations and is not dependent on any one significant customer or group
+       of customers.  Approximately 95% of the Company's total output is sold domestically.
+
+  (2)  "Contribution to earnings" is defined to be that amount of earnings generated before (a) unallocable
+       income, such as interest; (b) interest expense; and (c) income taxes.
+
+  See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+  SELECTED QUARTERLY FINANCIAL DATA
+  (Unaudited) (dollar amounts, except per share amounts, in thousands)
+
+                                             
+                                                  Net Earnings
+                         Net        Gross    ----------------------
+        1995            Sales       Profit      Amount    Per Share
+- -------------------------------------------------------------------
+                                                                   
+1st Quarter........ $   900,638     229,829      99,083       1.80
+2nd Quarter........   1,003,547     288,989     134,347       2.44
+3rd Quarter........   1,019,420     311,956     150,705       2.73
+4th Quarter........     949,970     265,066     130,669       2.37
+- ------------------------------------------------------------------
+Total.............. $ 3,873,575   1,095,840     514,804       9.34
+==================================================================
+
+
+                                                  Net Earnings
+                         Net        Gross     ---------------------
+        1994            Sales       Profit      Amount    Per Share
+- -------------------------------------------------------------------
+
+1st Quarter........ $   679,701     114,964      32,885       0.60
+2nd Quarter........     728,701     111,554      29,730       0.54
+3rd Quarter........     780,827     132,925      37,720       0.68
+4th Quarter........     818,720     192,069      77,288       1.41
+- -------------------------------------------------------------------
+Total.............. $ 3,007,949     551,512     177,623       3.23
+===================================================================
+<PAGE>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 1995, 1994 and 1993 (dollar amounts, except per share amounts, in
+thousands)
+
+1. Nature of Operations
+  Willamette Industries, Inc. is a diversified, integrated forest products
+company with 95 plants and mills manufacturing containerboard, bag paper, fine
+paper, hardwood market pulp, specialty printing papers, corrugated containers,
+business forms, cut sheet paper, paper bags, inks, lumber, plywood,
+particleboard, medium density fiberboard, laminated beams, laminated veneer
+lumber, wooden I-beams and other value-added wood products.  The Company's
+principal lines of business are paper products and building materials.  Based
+on sales, paper products represent approximately two-thirds of the Company's
+business with the balance consisting of building materials.  The primary
+market for all the Company's products is the United States domestic market. 
+Products are sold through wholesalers and distributors as well as directly to
+end users.
+
+2. Summary of Significant Accounting Policies
+     (a)  Principles of Consolidation
+            The consolidated financial statements include the accounts of all
+          majority-owned subsidiaries.  All material intercompany balances and
+          transactions have been eliminated upon consolidation.
+
+     (b)  Inventories
+            Inventories are valued at the lower of cost or market.  Cost is
+          determined on the last-in, first-out (LIFO) method for all major
+          classes of inventory.  All other inventories are valued at average
+          cost.
+
+     (c)  Property, Plant and Equipment
+            Property, plant and equipment is carried at cost and includes
+          expenditures for new facilities and those which substantially
+          increase the useful lives of existing plants and equipment. 
+          Maintenance, repairs and minor renewals are expensed as incurred. 
+          When properties are retired or otherwise disposed of, the related
+          cost and accumulated depreciation are removed from the respective
+          accounts and any profit or loss on disposition is credited or
+          charged to income.  Depreciation is computed using the straight-line
+          method over the useful lives of the respective assets.  Leasehold
+          improvements are amortized over the terms of the respective leases.
+
+     (d)  Timber, Timberlands and Related Facilities
+            These accounts are stated at their cost less the cost of fee
+          timber harvested and the amortization of logging roads. 
+          Amortization of logging roads is charged to expense as timber is
+          harvested.  Both the cost of fee timber harvested and amortization
+          rates are determined with reference to costs and the related
+          existing volume of timber estimated to be recoverable.
+            The Company obtains a portion of its timber requirements from
+          various public and private sources under timber harvesting
+          contracts.  The Company does not incur a direct liability for, or
+          ownership of, this timber until it has been harvested; therefore,
+          the timber is not recorded until cut.
+
+     (e)  Income Taxes
+            Deferred income taxes are provided to reflect the tax effect of
+          temporary differences in reporting income and deductions for tax
+          purposes.  
+            Effective January 1, 1993, the Company adopted the provisions of
+          SFAS #109 "Accounting for Income Taxes" which requires deferred
+          taxes payable in the future to be reflected at current statutory tax
+          rates.  This change resulted in a credit to net earnings and a
+          reduction in the deferred tax liability by an amount of $40,000 or
+          $.73 per share.
+
+     (f)  Capitalized Interest
+            Interest is capitalized on funds borrowed during the construction
+          period on certain assets.  Capitalized interest in 1995, 1994 and
+          1993 was $6,187, $9,294 and $15,904 respectively and is netted
+          against interest expense in the consolidated statement of earnings. 
+          Such capitalized interest will be amortized over the depreciable
+          life of the related assets.
+
+     (g)  Repurchase of Company Common Stock
+            The Oregon Business Corporation Act requires the Company to cancel
+          common stock shares repurchased by the Company.  The excess of cost
+          over par value is charged to capital surplus.
+
+     (h)  Use of Estimates
+            Generally accepted accounting principles require management to
+          make estimates and assumptions that affect the reported amount of
+          assets, liabilities and contingencies at the date of the financial
+          statements and the reported amounts of revenues and expenses during
+          the reporting period.  Actual results could differ from those
+          estimates.
+
+3. Inventories
+  The major components of inventories are as follows:
+
+                                                   December 31,      
+                                            -------------------------
+                                              1995             1994  
+                                            --------          -------
+Finished product.......................     $ 98,055           72,229
+Work in progress.......................        7,712            6,794
+Raw material...........................      212,651          114,596
+Supplies...............................       72,940           62,472
+                                            --------          -------
+                                            $391,358         $256,091
+                                            ========         ========
+Valued at:
+  LIFO cost............................     $289,341         $167,481
+  Average cost.........................      102,017           88,610
+
+  If current cost rather than LIFO cost had been used by the Company, inven-
+tories would have been approximately $87,707 and $81,081 higher in 1995 and
+1994 respectively.
+
+4. Income Taxes
+  The provision for income taxes includes the following:
+
+                                          1995       1994       1993 
+                                        -------    -------     ------
+Payable from taxable earnings..........$261,975     77,478     37,690
+Payable (reduction) due to AMT......... (51,400)       400      8,000
+                                        -------    -------     ------
+Currently payable...................... 210,575     77,878     45,690
+Deferred taxes due to temporary
+   differences for:
+      Accelerated depreciation.........  91,766     32,213     24,824
+      Increase in Federal corporate
+         tax rate by 1%................     -          -        5,864
+      Other............................   6,659      1,209      2,122
+                                        -------    -------     ------
+         Total deferred................  98,425     33,422     32,810
+                                        -------    -------     ------
+         Total provision...............$309,000    111,300     78,500
+                                        =======    =======     ======
+
+Federal income taxes...................$265,500     95,000     67,000
+State income taxes.....................  43,500     16,300     11,500
+                                       $309,000    111,300     78,500
+
+  The Company has no foreign pretax income.  The Company's deferred income tax
+liability is mainly due to depreciation.  Differences between the effective
+tax rate and the Federal statutory rate are shown in the following table as a
+percentage of pretax income:
+                                                1995    1994    1993
+                                                ----    ----    ----
+Federal statutory rate.......................   35.0%   35.0%   35.0%
+State income taxes, net of 
+  Federal tax effect.........................    3.4     3.7     4.0
+Adjustment to deferred taxes due to increase
+  in Federal corporate tax rate by 1%........      -       -     3.1
+Other........................................    (.9)    (.2)    (.6)
+                                                ----    ----    ----
+                                                37.5%   38.5%   41.5%
+                                                ====    ====    ====
+
+  The Company's consolidated Federal income tax returns for 1978 through 1991
+have been examined by the Internal Revenue Service and while final settlement
+has not been made, management believes that the Company has provided for all
+deficiencies that ultimately might be assessed.  The Tax Reform Act of 1986
+expanded the corporate alternative minimum tax (AMT).  Under this Act, the
+Company's tax liability is the greater of its regular tax or the AMT.  To the
+extent the Company's AMT liability exceeds its regular tax liability, the AMT
+liability may be applied against future regular tax liabilities.  The Company
+utilized AMT credits of $51,400 in 1995.  At December 31, 1995, the Company
+had no unused AMT credits.
+
+  In August 1993, the Federal corporate tax rate increased to 35% retroactive
+to January 1, 1993, impacting both the current year's provision for income
+taxes and the deferred tax liability.  Accounting standards required that the
+cumulative impact of the increase in rate ($5,864 or $.11 per share) be
+charged to income in the third quarter of 1993 with a corresponding increase
+in the deferred tax liability.  
+
+5. Long-term Debt
+  Long-term debt consists of the following:
+                                                    December 31,    
+                                               ----------------------
+                                                1995          1994  
+                                               -------       -------
+Notes payable to public:
+  9.55%, due in 1995.......................       -          100,000
+  7.00%, due in 1998.......................    100,000       100,000
+  9.625%, due in 2000......................    150,000       150,000
+  7.75%, due in 2002.......................    100,000       100,000
+  9.125%, due in 2003......................     50,000        50,000
+  9.00%, due in 2021.......................    150,000       150,000
+
+Medium-term notes, with interest
+  rates ranging from 5.66% to 7.30%,
+  due in varying amounts through 2013......    150,000       150,000
+
+Bank term loan, with interest rates
+  averaging 6.38% and 6.28%, due in 1996...     25,000       100,000
+
+Revenue bonds, with interest
+  rates averaging 5.11% and 5.39%,
+  due in varying amounts
+  through 2023.............................     89,265        62,067
+
+Other long-term debt, with
+  interest rates averaging
+  8.03% and 8.20%, due in
+  varying amounts through 2006..............     5,543         4,686
+                                               -------       -------
+                                               819,808       966,753
+Less: Current installments..................    29,598        50,956
+                                               -------       -------
+                                              $790,210       915,797
+                                               =======       =======
+
+  Principal payment requirements on the above debt for the four years subse-
+quent to 1996 are:  1997, $768; 1998, $152,788; 1999, $753; 2000, $150,393.
+
+  The Company utilized short-term borrowings with a number of banks at various
+times during 1995 and 1994 with $51,000 outstanding at December 31, 1995. 
+Such borrowings were backed by a line of credit which carried fees at market
+rates.  The weighted average interest rate on short-term borrowings at
+December 31, 1995 and 1994 was 5.58% and 6.00% respectively.  Other
+uncommitted lines of credit are available.  Interest is based upon prevailing
+short-term rates in effect at the time of the transaction.  Information on
+short-term debt during 1995 and 1994 is as follows:
+
+                                                  1995         1994     
+                                                ---------   ----------
+Average daily short-term debt outstanding...     $69,241      124,767
+Weighted average interest rate..............        6.13%        4.51%
+  The fair value of the Corporation's long-term debt is estimated to be
+approximately $912,570 based on the quoted market prices for the same or
+similar issues or on the current rates offered to the Company for debt with
+the same remaining maturities.
+
+  The Company does not have any derivative financial instruments.
+
+6. Pension and Retirement Plans
+  The Company contributes to multi-employer retirement plans at fixed payments
+per hour for certain hourly employees.
+
+DEFINED BENEFIT PLANS
+
+  Substantially all other employees of the Company are covered by
+noncontributory defined benefit plans.  Under the salaried plan, retirement
+benefits are based on both years of service and the highest five consecutive
+years of compensation prior to retirement.  Plans covering hourly employees
+provide benefits of stated amounts for each year of service.  Total pension
+expense in 1995, 1994 and 1993 for all such plans was $6,189, $9,580,and
+$6,429 respectively.  
+
+  The Company makes annual contributions to the plans that are between the
+minimum amounts required by the Employee Retirement Income Security Act and
+the maximum amounts deductible under current tax regulations.  Such
+contributions are intended to provide not only for benefits attributed to
+service to date, but also for those expected to be earned in the future.
+
+  The net periodic pension cost for 1995, 1994 and 1993 included the following
+components: 
+                                               1995     1994     1993
+                                               ----     ----     ----
+Service cost of benefits earned 
+  during the period ...................      $10,278   11,061    9,158
+Interest cost on projected
+  benefit contribution ................       18,451   16,843   16,026
+Actual return on assets ...............      (70,087)  (2,071) (31,748)
+Net amortization and deferral .........       43,114  (21,470)   9,066
+                                              ------   ------   ------
+Net periodic pension cost .............      $ 1,756    4,363    2,502
+                                              ======   ======   ======
+<PAGE>
+  The following table sets forth the plans' funded status and amount
+recognized in the Company's consolidated financial statements at December 31,
+1995 and 1994:
+
+                                         December 31                      
+                  -------------------------------------------------------
+                             1995                          1994          
+                  --------------------------    -------------------------
+                  Assets Exceed  Accumulated    Assets Exceed Accumulated
+                   Accumulated     Benefits      Accumulated     Benefits
+                    Benefits    Exceed Assets     Benefits    Exceed Assets
+                  ------------  -------------   ------------- -------------
+Actuarial present
+  value of benefit
+  obligations:
+Vested benefit 
+  obligation        $(211,992)     ( 30,234)       (169,342)     ( 28,431)
+                      =======       =======         =======       =======
+Accumulated 
+  benefit 
+  obligation        $(215,243)     ( 30,621)       (171,538)     ( 28,725)
+                      =======       =======         =======       =======
+Projected 
+  benefit 
+  obligation        $(255,903)     ( 30,621)       (203,695)      (30,328)
+Plan assets 
+  at fair value       316,589        24,594         252,327        22,557
+                      -------       -------         -------       -------
+Plan assets
+  greater (less)  
+  than projected
+  benefit 
+  obligation           60,686        (6,027)         48,632        (7,771)
+Unrecognized 
+  net (gain) loss     (56,751)           96         (43,071)          129
+Prior service 
+  cost not yet
+  recognized in 
+  net periodic
+  pension cost          5,900         3,535           6,050         3,321
+Unrecognized 
+  obligation, 
+  net of
+  amortization         (4,079)         (181)         (6,169)           71
+                      -------       -------         -------       -------
+Prepaid pension 
+  cost(pension
+  liability)
+  recognized         $  5,756        (2,577)          5,442        (4,250)
+                      =======       =======         =======       =======
+
+  The weighted average discount rate and rate of increase in future
+compensation levels used in determining the actuarial present value of the
+projected benefit obligation were 7.0% and 5.0% in 1995 versus 8.0% and 5.5%
+in 1994.  The expected long-term rate of return on assets was 9.0%.
+Substantially all plan assets are invested in stocks, bonds and cash
+equivalents.
+<PAGE>
+CONTRIBUTORY PLANS
+
+  The Company covers all salaried employees and some hourly employees under
+401(k) plans.  The salaried plan allows employees to contribute up to 7% of
+their salary (which the Company matches up to 6%).  The amounts contributed by
+the Company vary for the hourly plans.  Total plan expenses were $8,857,
+$8,925 and $8,417 in 1995, 1994 and 1993 respectively.
+
+POSTRETIREMENT BENEFIT PLANS
+
+  Effective January 1, 1993, the Company adopted the provisions of SFAS #106
+"Employers Accounting for Postretirement Benefits Other Than Pensions" which
+resulted in a change in accounting for such benefits from the "pay-as-you-go"
+basis to the accrual basis.  
+
+  The Company has a contributory postretirement health plan primarily covering
+its salaried employees.  Employees become eligible for these benefits if they
+meet minimum age and service requirements.  The accumulated postretirement
+benefit obligation (APBO) as of January 1, 1993 was $21,995 and was recorded
+as a charge, net of tax, against income on a cumulative basis in the amount of
+$13,600 or $.25 per share.  The APBO as of December 31, 1995 and 1994 was:
+
+                                                    1995          1994
+                                                  -------       -------
+Retirees.....................................     $13,001       $10,718
+Other fully eligible participants............       5,339         4,339
+Other active participants....................      12,421         9,896
+                                                  -------       -------
+                                                   30,761        24,953
+Unrecognized loss............................      (5,056)       (  688)
+                                                  -------       -------
+APBO recognized in balance sheet.............     $25,705       $24,265
+                                                  =======       =======
+Weighted average discount rate...............         8.0%          7.0%
+                                                  =======       =======
+
+  The components of net periodic postretirement expenses are as follows:
+
+                                                1995    1994      1993 
+                                              -------  ------    ------
+Service cost benefits earned in period....... $   867     826       675
+Interest cost on accumulated
+  benefit obligation.........................   2,043   1,811     1,725
+Amortization of (gain) loss from
+  earlier periods............................      71      60         -
+                                              -------  ------    ------
+Net expense.................................. $ 2,981   2,697     2,400
+                                              =======  ======    ======
+Weighted average discount rate...............     8.0%    7.0%      8.0%
+                                                  ===     ===       ===
+
+  For the year 1995, a 10.0% increase in the medical cost trend rate was
+assumed.  This rate decreases incrementally to an annual rate of 5.0% after 10
+years.  A 1.0% increase in the medical trend rate would increase the APBO by
+$3,000 and increase the net periodic postretirement expense by $380.
+<PAGE>
+7. Stockholders' Equity
+  The Company's 1995 Long-Term Incentive Plan (the Plan) which replaced an
+earlier plan, provides for grants of stock options to directors and key
+employees and awards of stock appreciation rights (SARs) and restricted shares
+of common stock to key employees.  Options are granted at exercise prices not
+less than the market value of the common stock on the date of grant.  Options
+generally become exercisable after one year in 33-1/3% increments per year and
+expire ten years from the date of grant.  The Company has reserved 2,750,000
+shares for distribution under the Plan.  A summary of stock option activity
+related to the Plan is as follows:
+                                                       Option Price
+                                        Shares          Per Share  
+                                      ----------       ------------
+Outstanding December 31, 1992          1,006,572       16.75-38.875
+   Granted                               259,150             39.25
+   Exercised                             137,459       16.75-38.875
+   Canceled or surrendered                 1,460       38.875-39.25
+                                      ----------       ------------
+Outstanding December 31, 1993          1,126,803       16.75-39.25
+   Granted                               259,420             45.375
+   Exercised                             143,045       16.75-39.25
+   Canceled or surrendered                10,367       16.75-45.375
+                                       ---------       ------------
+
+Outstanding December 31, 1994          1,232,811       16.75-45.375
+   Granted                               299,990             51.50
+   Exercised                             244,344       16.75-45.375
+   Canceled or surrendered                 6,653       16.75-51.50
+                                       ---------      ------------
+Outstanding December 31, 1995          1,281,804      $23.25-51.50
+                                       =========      ============
+
+Shares exercisable                       792,403      $23.25-51.50
+                                       =========      ============
+
+  In addition, SARs which have been awarded and are outstanding to officers of
+the Company amount to 59,940 shares,  of these 2,410 with a basis of $28.875;
+7,340 with a basis of $24.25; 19,350 with a basis of $23.25 and 30,840 with a
+basis of $26.25 were available for exercise at December 31, 1995.  On exercise
+of the SAR, the holder receives in cash an amount equal to the difference
+between the market price of the common stock at the date the SAR is exercised
+and the basis of the SAR.
+
+  Restricted shares vest based upon continued employment, the attainment of
+performance goals or both, and are subject to transfer restrictions until
+vested.  The Company has awarded 39,202 restricted shares of common stock to
+certain officers at no cost.  These shares will vest in one-third annual
+increments beginning after three years of continuous employment.  At December
+31, 1995, 7,630 restricted shares have not yet vested and 31,572 shares have
+been either issued or cancelled.  Unearned compensation, representing the fair
+market value of the shares at the date of issuance, is charged to income over
+the vesting period.
+
+
+  The Company has a shareholder rights plan providing for the distribution of
+rights to shareholders ten days after a person or group (an "acquiring
+person") becomes the owner of 20% or more of the Company's common stock or
+makes a tender offer or exchange offer which would result in the ownership of
+30% or more of the common stock.  Once the rights are distributed, each right
+becomes exercisable to purchase, for $175, 1/100th of a share of new series of
+Company preferred stock, which 1/100th share is intended to equal one common
+share in market value.  Ten days after an acquiring person becomes the owner
+of 20% or more of the Company's common stock, each right (other than rights
+held by the acquiring person) becomes exercisable to purchase for $175, common
+shares with a market value of $350.  The rights will expire in 2000 and may be
+redeemed at $.01 per right any time prior to the tenth day after an acquiring
+person becomes the owner of 20% or more of the common stock.
+
+  In August 1995, the Board of Directors of the Company authorized the
+repurchase of up to $100,000 of the Company's common stock.  During 1995, the
+Company purchased 50,000 shares of its common stock for $2,713.
+
+  The Financial Accounting Standards Board has issued Statement of Financial
+Accounting Standards #123 on accounting for stock-based compensation that is
+effective for years beginning after December 15, 1995.  The Company
+anticipates that the impact of this accounting standard will not be material
+to its financial statements when implemented.
+
+8. Business Segments
+   The Company operates in two principal business segments:  paper products
+and building materials.  Timber, timberlands and related facilities have not
+been allocated to the two segments because they are managed to supply raw
+materials to both segments.  Information with respect to the sales, operating
+income and identifiable assets of these segments is included in the five-year
+comparison on page 26.  Information with respect to depreciation, cost of fee
+timber harvested, amortization and capital expenditures for the years ended
+December 31, 1995, 1994 and 1993 is shown below:
+                                              Depreciation,
+                                      Cost of Fee Timber Harvested
+                                            and Amortization      
+                                      ----------------------------
+                                          1995     1994     1993
+                                          ----     ----     ----
+Paper products.............            $177,888  152,983  129,069
+Building materials.........              46,216   44,459   43,522
+Timber, timberlands and 
+   related facilities......              25,061   19,810   21,611
+                                        -------  -------  -------
+                                       $249,165  217,252  194,202
+                                        =======  =======  =======
+
+                                           Capital Expenditures  
+                                        -------------------------
+                                          1995     1994     1993
+                                          ----     ----     ----
+Paper products.............            $300,145  298,931  323,952
+Building materials.........             111,840   41,347   37,536
+
+Timber, timberlands and 
+   related facilities......              41,538   52,883   25,376
+                                        -------  -------  -------
+                                       $453,523  393,161  386,864
+                                        =======  =======  =======
+9. Property, Plant and Equipment
+   Property, plant and equipment accounts are summarized as follows:
+
+                             Principal
+                             range of               December 31
+                                             -------------------------
+                            useful lives        1995        1994      
+                            ------------     ---------    --------
+Land........................       -        $   32,680      28,933
+Building materials
+   manufacturing facilities.    10 - 20        534,646     518,295
+Paper products
+   manufacturing and
+   converting facilities....    10 - 30      2,726,554   2,383,177
+Furniture and fixtures......     3 - 10         67,504      58,930
+Leasehold improvements......  life of lease      6,286       6,195
+Construction in progress....       -           181,581     169,857
+                                             ---------   ---------
+                                             3,549,251   3,165,387
+Accumulated depreciation....                 1,494,383   1,301,882
+                                             ---------   ---------
+                                            $2,054,868   1,863,505
+                                             =========   =========
+
+10. Contingencies
+   There are various lawsuits, claims and environmental matters pending
+against the Company.  While any proceeding or litigation has an element of
+uncertainty, management believes that the outcome of any lawsuit or claim that
+is pending or threatened, or all of them combined will not have a material
+adverse effect on the Company's financial condition or operations.
+<PAGE>
+                               INDEX TO EXHIBITS
+
+
+EXHIBIT
+
+2.      Not applicable.
+
+3A.     Third Restated Articles of Incorporation of the registrant. 
+        Incorporated by reference from Exhibit 3A of the registrant's annual
+        report on Form 10-K for the year ended December 31, 1993 ("1993 Form
+        10-K").  [16]
+
+3B.     Bylaws of the registrant as amended through October 1, 1995. [27]
+
+4A.     Indenture dated as of March 15, 1983, between registrant and The Chase
+        Manhattan Bank.  Incorporated by reference from Exhibit 4A of the
+        registration statement on Form S-3 effective December 13, 1985
+        (File No. 33-1876).  [89]
+
+4A1.    Terms of the series of 9.625% Notes due 2000 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A5 of the 1990 Form
+        10-K.  [5]
+
+4A2.    Terms of the series of 9.125% Notes due 2003 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A6 of the
+        registrant's annual report on Form 10-K for the year ended
+        December 31, 1991 ("1991 Form 10-K").  [5]
+
+4A3.    Terms of the series of 9.0% Notes due 2021 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A7 of the 1991
+        Form 10-K.  [5]
+
+4A4.    Terms of the series of 7.75% Notes due 2002 and form of Note for such
+        series.  Incorporated by reference from Exhibit 4A8 of the
+        registrant's annual report on Form 10-K for the year ended
+        December 31, 1992.  [5]
+
+4A5.    Form of Note for the series of 7.0% Notes due 1998 in the aggregate
+        principal amount of $100,000,000.  Incorporated by reference from
+        Exhibit 4D of the registrant's current report on Form 8-K dated
+        December 29, 1992.  [5]
+
+4B.     Indenture dated as of January 30, 1993 between the registrant and The
+        Chase Manhattan Bank.  Incorporated by reference from Exhibit 1B of
+        the registration statement on Form S-3 effective March 1, 1993
+        (File No. 33-58044) ("1993 Form S-3).  [82]
+
+4B1.    Form of Medium-Term Note (fixed rate) for the Medium-Term Notes,
+        Series A.  Incorporated by reference from Exhibit 4D to the 1993
+        Form S-3.  [2]
+
+4B2.    Terms of the Medium-Term Notes, Series A, due 1998-2013.  Incorporated
+        by reference from Exhibit 4B2 to the 1993 Form 10-K.  [1]
+
+4C.     Preferred Stock Purchase Rights of Willamette Industries, Inc. 
+        Incorporated by reference from Exhibit 2 of the registrant's Form 8-A
+        filed February 26, 1990.  [61]
+
+9.      Not applicable.
+
+10A.    Willamette Industries, Inc. Deferred Compensation Plan for Directors. 
+        Incorporated by reference from Exhibit 10 of the registrant's annual
+        report on Form 10-K for the year ended December 31, 1983.*  [5]
+
+10B.    Willamette Industries, Inc. 1986 Stock Option and Stock Appreciation
+        Rights Plan, as amended.  Incorporated by reference from Exhibit 10B
+        of the 1990 Form 10-K.*  [6]
+
+10C.    Willamette Industries, Inc. Retirement Plan for Non-Employee
+        Directors.  Incorporated by reference from Exhibit 10 of the 1989 Form
+        10-K.*  [2]
+
+10D.    Willamette Industries Inc. Severance Agreement with Key Management
+        Group.  Incorporated by reference from Exhibit 10 of the 1991 Form 10-
+        K.*  [13]
+
+10E.    Willamette Industries 1993 Deferred Compensation Plan.  Incorporated
+        by reference from Exhibit 10E to the 1993 Form 10-K.*  [16]
+
+10F.    Willamette Industries 1995 Long-Term Incentive Compensation Plan. 
+        Incorporated by reference from Exhibit 10F of the registrant's annual
+        report on Form 10-K for the year ended December 31, 1994.*  [12]
+
+10G.    Consulting agreement dated October 1, 1995 between the registrant and
+        William Swindells.*  [4]
+
+11.     Computation of per share earnings is obtainable from the financial
+        statements filed with this annual report on Form 10-K.
+
+12.     Computation of Ratio of Earnings to Fixed Charges.  [1]
+
+13.     Not applicable.
+
+16.     Not applicable.
+
+18.     Not applicable.
+
+21.     Omitted because the registrant's subsidiaries considered in the
+        aggregate as a single subsidiary do not constitute a significant
+        subsidiary.
+
+22.     Not applicable.
+
+23.     Consent of Independent Auditors to the incorporation by reference of
+        their report dated February 8, 1996, in the registrant's registration
+        statements on Forms S-3 and S-8.  [1]
+
+24.     Not applicable.
+
+27.     Financial Data Schedule.  [1]
+
+28.-98. Not applicable.
+
+99.     Description of the registrant's common stock incorporated by reference
+        from exhibit 28 to the registrant's quarterly report on Form 10-Q for
+        the quarter ended March 31, 1992.  [4]
+
+        The registrant will furnish a copy of any exhibit to this annual
+report on Form 10-K to any security holder for a fee of $0.30 per page to
+cover the registrant's expenses in furnishing the copy.  The number of pages
+of each exhibit is indicated in brackets at the end of each exhibit
+description.
+________________________
+
+*Management contract or compensatory plan or arrangement.
+
+Note:   Certain instruments with respect to the long-term debt of the
+        registrant are not filed herewith where the total amount of securities
+        authorized thereunder does not exceed 10 percent of the total assets
+        of the registrant and its subsidiaries on a consolidated basis.  The
+        registrant agrees to furnish copies of such instruments to the
+        Commission on request.
+<PAGE>
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.B
+<SEQUENCE>2
+<DESCRIPTION>BYLAWS
+<TEXT>
+
+<PAGE>
+                                                                   EXHIBIT 3.B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    BYLAWS
+                                      OF
+                          WILLAMETTE INDUSTRIES, INC.
+                              AS AMENDED THROUGH
+                                October 1, 1995
+<PAGE>
+                               TABLE OF CONTENTS
+
+                                                                          Page
+
+ARTICLE I  Offices. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1
+  Section 1.   Principal Office . . . . . . . . . . . . . . . . . . . . . .  1
+  Section 2.   Registered Office. . . . . . . . . . . . . . . . . . . . . .  1
+
+ARTICLE II  Shareholders. . . . . . . . . . . . . . . . . . . . . . . . . .  1
+  Section 1.   Annual Meeting . . . . . . . . . . . . . . . . . . . . . . .  1
+  Section 2.   Special Meetings . . . . . . . . . . . . . . . . . . . . . .  2
+  Section 3.   Place of Meeting . . . . . . . . . . . . . . . . . . . . . .  2
+  Section 4.   Notice of Meeting. . . . . . . . . . . . . . . . . . . . . .  2
+  Section 5.   Quorum; Manner of Acting . . . . . . . . . . . . . . . . . .  3
+  Section 6.   Proxies. . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+  Section 7.   Voting of Shares . . . . . . . . . . . . . . . . . . . . . .  4
+  Section 8.   Acceptance of Votes. . . . . . . . . . . . . . . . . . . . .  4
+
+ARTICLE III  Board of Directors . . . . . . . . . . . . . . . . . . . . . .  5
+  Section 1.   General Powers . . . . . . . . . . . . . . . . . . . . . . .  5
+  Section 2.   Number, Tenure and Classification. . . . . . . . . . . . . .  5
+  Section 3.   Regular Meetings . . . . . . . . . . . . . . . . . . . . . .  6
+  Section 4.   Special Meetings . . . . . . . . . . . . . . . . . . . . . .  6
+  Section 5.   Notice; Waiver . . . . . . . . . . . . . . . . . . . . . . .  6
+  Section 6.   Quorum . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+  Section 7.   Manner of Acting . . . . . . . . . . . . . . . . . . . . . .  8
+  Section 8.   Vacancies. . . . . . . . . . . . . . . . . . . . . . . . . .  8
+  Section 9.   Presumption of Assent. . . . . . . . . . . . . . . . . . . .  8
+  Section 10.  Removal of Directors . . . . . . . . . . . . . . . . . . . .  9
+  Section 11.  Compensation . . . . . . . . . . . . . . . . . . . . . . . .  9
+  Section 12.  Retirement . . . . . . . . . . . . . . . . . . . . . . . . .  9
+  Section 13.  Emeritus Director. . . . . . . . . . . . . . . . . . . . . .  9
+  Section 14.  Action Without a Meeting . . . . . . . . . . . . . . . . . . 10
+  Section 15.  Telephonic Meetings. . . . . . . . . . . . . . . . . . . . . 10
+  Section 16.  Notification of Nominations. . . . . . . . . . . . . . . . . 10
+
+ARTICLE IV  Executive Committee and Other Committees. . . . . . . . . . . . 12
+  Section 1.   Appointment. . . . . . . . . . . . . . . . . . . . . . . . . 12
+  Section 2.   Authority. . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  Section 3.   Tenure and Qualifications. . . . . . . . . . . . . . . . . . 13
+  Section 4.   Meetings; Notice; Waiver . . . . . . . . . . . . . . . . . . 13
+  Section 5.   Quorum; Manner of Acting . . . . . . . . . . . . . . . . . . 14
+  Section 6.   Action Without a Meeting . . . . . . . . . . . . . . . . . . 14
+  Section 7.   Vacancies. . . . . . . . . . . . . . . . . . . . . . . . . . 14
+  Section 8.   Resignations and Removal . . . . . . . . . . . . . . . . . . 14
+  Section 9.   Procedure. . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  Section 10.  Appointment of Other Committees of the Board of Directors. . 15
+  Section 11.  Appointment of Other Committees. . . . . . . . . . . . . . . 15
+
+ARTICLE V  Officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+  Section 1.   Number . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+  Section 2.   Appointment and Term of Office . . . . . . . . . . . . . . . 17
+  Section 3.   Removal. . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+  Section 4.   Vacancies. . . . . . . . . . . . . . . . . . . . . . . . . . 17
+  Section 5.   Chairman of the Board. . . . . . . . . . . . . . . . . . . . 17
+  Section 6.   President and Chief Executive Officer. . . . . . . . . . . . 18
+  Section 7.   Executive Vice-Presidents. . . . . . . . . . . . . . . . . . 19
+  Section 8.   Vice-Presidents. . . . . . . . . . . . . . . . . . . . . . . 19
+  Section 9.   Chief Financial Officer. . . . . . . . . . . . . . . . . . . 19
+  Section 10.  Secretary. . . . . . . . . . . . . . . . . . . . . . . . . . 20
+  Section 11.  Treasurer. . . . . . . . . . . . . . . . . . . . . . . . . . 20
+  Section 12.  Salaries . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+ARTICLE VI  Contracts, Loans, Checks and Deposits . . . . . . . . . . . . . 21
+  Section 1.   Contracts. . . . . . . . . . . . . . . . . . . . . . . . . . 21
+  Section 2.   Loans. . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+  Section 3.   Checks, Drafts, etc. . . . . . . . . . . . . . . . . . . . . 22
+  Section 4.   Deposits . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+ARTICLE VII  Certificates For Shares and Their Transfer . . . . . . . . . . 22
+  Section 1.   Certificates for Shares. . . . . . . . . . . . . . . . . . . 22
+  Section 2.   Transfer of Shares . . . . . . . . . . . . . . . . . . . . . 23
+  Section 3.   Replacement of Certificates. . . . . . . . . . . . . . . . . 23
+  Section 4.   Transfer Agents and Registrars . . . . . . . . . . . . . . . 24
+
+ARTICLE VIII  Seal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+ARTICLE IX  Fiscal Year . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+ARTICLE X  Amendments . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+<PAGE>
+                                    BYLAWS
+                                      OF
+                          WILLAMETTE INDUSTRIES, INC.
+                              AS AMENDED THROUGH
+                                October 1, 1995
+
+
+                                   ARTICLE I
+
+                                    Offices
+
+            Section 1.  Principal Office.  The principal office of the
+corporation in the State of Oregon shall be located in the City of Portland,
+County of Multnomah.  The corporation may have such other offices, either
+within or without the State of Oregon, as the board of directors may designate
+or as the business of the corporation may require from time to time.
+            Section 2.  Registered Office.  The registered office of the
+corporation required by the Oregon Business Corporation Act ("Act") to be
+maintained in the State of Oregon may be, but need not be, the same as any of
+its places of business in the State of Oregon, and the location of the
+registered office may be changed from time to time by the board of directors
+or the registered agent of the corporation.
+
+                                  ARTICLE II
+                                 Shareholders
+            Section 1.  Annual Meeting.  The annual meeting of the
+shareholders shall be held on the fourth Thursday in April at 10 a.m., for the
+purpose of electing directors and for the transaction of such other business
+as may come before the meeting.
+            Section 2.  Special Meetings.  Special meetings of the
+shareholders, for any purpose or purposes, may be called by the chairman of
+the board, by the president and chief executive officer or by the board of
+directors, and shall be called by the chairman of the board if one or more
+written demands for a meeting describing the purpose or purposes for which it
+is to be held are signed, dated and delivered to the secretary of the
+corporation by the holders of at least 10 percent of all votes entitled to be
+cast on any issue proposed to be considered at the meeting.
+            Section 3.  Place of Meeting.  The board of directors shall
+determine the place of meeting for all annual and special meetings of the
+shareholders.  In the absence of any such determination, all meetings of
+shareholders shall be held at the principal office of the corporation in the
+State of Oregon.
+            Section 4.  Notice of Meeting.  Written or printed notice stating
+the place, day and hour of the meeting and, in case of a special meeting, the
+purpose or purposes for which the meeting is called, shall be given not
+earlier than 60 nor less than ten days before the date of the meeting, either
+personally or by mail, by or at the direction of the chairman of the board,
+the president and chief executive officer or the secretary, or the persons
+calling the meeting, to each shareholder of record entitled to vote at such
+meeting.  If mailed, such notice shall be effective when deposited in the
+United States mail, addressed to the shareholder at his address as shown in
+the corporation's current record of shareholders, with postage thereon
+prepaid.  If a meeting is adjourned to a different date, time or place
+announced at the meeting before adjournment, notice need not be given of the
+new date, time or place unless a new record date is or must be fixed for the
+adjourned meeting.
+            Section 5.  Quorum; Manner of Acting.  Shares entitled to vote as
+a separate voting group may take action on a matter only if a quorum of those
+shares exists with respect to the matter.  A majority of the votes entitled to
+be cast on the matter by voting group, represented in person or by proxy,
+shall constitute a quorum of that voting group for action on that matter.  If
+a quorum exists, action on a matter, other than the election of directors,
+shall be approved by a voting group if the votes cast within the voting group
+favoring the action exceed the votes cast opposing the action unless the Act
+requires a greater number of affirmative votes.  Directors shall be elected by
+a plurality of the votes cast by the shares entitled to vote in the election
+at a meeting at which a quorum is present.  Once a share is represented for
+any purpose at a meeting, it shall be deemed present for quorum purposes for
+the remainder of the meeting and for any adjournment of the meeting unless a
+new record date is or must be set for the adjourned meeting.
+            Section 6.  Proxies.  At all meetings of shareholders, a
+shareholder may vote by proxy executed in writing by the shareholder or by his
+duly authorized attorney-in-fact.  Such proxy shall be filed with the
+secretary of the corporation before or at the time of the meeting.  No proxy
+shall be valid after eleven months from the date of its execution, unless
+otherwise provided in the proxy.
+            Section 7.  Voting of Shares.  Each outstanding share of the
+corporation's common stock shall be entitled to one vote upon each matter
+submitted to a vote at a meeting of the shareholders except that shares owned,
+directly or indirectly, by another corporation in which the corporation owns,
+directly or indirectly, a majority of the shares entitled to vote for the
+election of directors of such other corporation shall not be voted at any
+meeting or counted in determining the total number of outstanding shares at
+any given time.
+            Section 8.  Acceptance of Votes.  If the name signed on a vote,
+consent, waiver or proxy appointment corresponds to the name of a shareholder,
+the corporation shall be entitled to accept the vote, consent, waiver or proxy
+appointment and give it effect as the act of the shareholder.
+            If the name signed on a vote, consent, waiver or proxy appointment
+does not correspond to the name of its shareholder, the corporation shall
+nevertheless be entitled to accept the vote, consent, waiver or proxy
+appointment and give it effect as the act of the shareholder if:
+       a.  The shareholder is an entity and the name signed purports to be
+  that of an officer or agent of the entity.
+       b.  The name signed purports to be that of an administrator, executor,
+  guardian or conservator representing the shareholder.
+       c.  The name signed purports to be that of a receiver or trustee in
+  bankruptcy of the shareholder.
+       d.  The name signed purports to be that of a pledgee, beneficial owner
+  or attorney-in-fact of the shareholder.
+       e.  Two or more persons are the shareholder as cotenants or
+  fiduciaries, the name signed purports to be the name of at least one of the
+  co-owners, and the person signing appears to be acting on behalf of all
+  co-owners.
+       The corporation shall be entitled to reject a vote, consent, waiver or
+proxy if the secretary or other officer of agent authorized to tabulate votes,
+acting in good faith, has reasonable basis for doubt about the validity of the
+signature on it or about the signatory's authority to sign for the
+shareholder.
+
+                                  ARTICLE III
+                              Board of Directors
+       Section 1.  General Powers.  The business and affairs of the
+corporation shall be managed by its board of directors.
+       Section 2.  Number, Tenure and Classification.  The number of directors
+shall be eleven, divided into three classes, three directors to be designated
+as Class A directors, four directors to be designated as Class B directors and
+four directors to be designated as Class C directors.  At each annual meeting,
+directors to replace those whose terms expire at such annual meeting shall be
+elected, each such director to hold office until the third annual meeting next
+succeeding his election and until his successor is elected or until his death,
+resignation, retirement or removal.
+       Section 3.  Regular Meetings.  A regular meeting of the board of
+directors shall be held without other notice than this bylaw immediately
+after, and at the same place as, the annual meeting of shareholders.  The
+board of directors may provide by resolution the time and place, either within
+or without the State of Oregon, for the holding of additional regular meetings
+without other notice than such resolution.
+       Section 4.  Special Meetings.  Special meetings of the board of
+directors may be called by or at the request of the chairman of the board or
+any two directors.  The person or persons authorized to call special meetings
+of the board of directors may fix any place, either within or without the
+State of Oregon, as the place for holding any special meeting of the board of
+directors called by them.
+       Section 5.  Notice; Waiver.  Notice of the time, date and place of any
+special meeting shall be given at least ten days previously thereto, orally or
+by written notice delivered personally or given by telegraph, teletype or
+other form of wire communication, or by mail or private carrier, to each
+director at his business address.  Oral notice shall be effective when
+communicated if communicated in a comprehensible manner and written notice
+shall be effective at the earliest of the following: (a) when received,
+(b) five days after its deposit in the United States mail, as evidenced by the
+postmark, if mailed postpaid and correctly addressed, and (c) on the date
+shown on the return receipt, if sent by registered or certified mail, return
+receipt requested, and the receipt is signed by or on behalf of the director. 
+A director's attendance at, or participation in, a meeting shall constitute a
+waiver of notice of such meeting, except where a director at the beginning of
+the meeting, or promptly upon the director's arrival, objects to holding of
+the meeting or the transacting of business at the meeting and does not
+thereafter vote for or assent to action taken at the meeting.  A written
+waiver of notice of a meeting signed by the director or directors entitled to
+such notice, whether before or after the time stated therein, which specifies
+the meeting for which notice is waived and which is filed with the minutes or
+corporate records shall be equivalent to the giving of such notice.  Neither
+the business to be transacted at, nor the purpose of, any regular or special
+meeting of the board of directors need be specified in the notice or waiver of
+notice of such meeting.
+            Section 6.  Quorum.  A majority of the number of directors fixed
+by Section 2 of this Article III shall constitute a quorum for the transaction
+of business at any meeting of the board of directors, but, if less than such
+majority is present at a meeting, a majority of the directors present may
+adjourn the meeting from time to time without further notice.
+            Section 7.  Manner of Acting.  The affirmative vote of a majority
+of the directors present at a meeting at which a quorum is present shall be
+the act of the board of directors.
+            Section 8.  Vacancies.  Any vacancy occurring in the board of
+directors, including a vacancy resulting from an increase in the number of
+directors, may be filled by the board of directors or, if the remaining
+directors constitute fewer than a quorum, by the affirmative vote of a
+majority of all the remaining directors.  The term of a director elected to
+fill a vacancy shall expire at the next shareholders' meeting at which
+directors are elected.
+            Section 9.  Presumption of Assent. A director who is present at a
+meeting of the board of directors at which corporate action is taken shall be
+deemed to have assented to the action taken, unless (a) the director objects
+at the beginning of the meeting, or promptly upon the director's arrival, to
+holding the meeting or transacting business at the meeting; (b) the director's
+dissent or abstention from the action taken is entered in the minutes of the
+meeting; or (c) the director delivers written notice of dissent or abstention
+to the presiding officer of the meeting before its adjournment or to the
+corporation immediately after adjournment of the meeting.  Such right to
+dissent or abstain shall not apply to a director who voted in favor of such
+action.
+            Section 10.  Removal of Directors.  All or any number of the
+directors of the corporation may be removed, with or without cause, at a
+meeting called expressly for that purpose, by the affirmative vote of the
+holders of not less than 80 percent of the outstanding shares of capital stock
+of the corporation.
+            Section 11.  Compensation.  By resolution of the board of
+directors, each director may be paid an annual fee as director and, in
+addition thereto, a fixed sum for attendance at each meeting of the board of
+directors and executive committee or other committees and his expenses, if
+any, of attendance at any such meeting.  No such payment shall preclude any
+director from serving the corporation in any other capacity and receiving
+compensation therefor.
+            Section 12.  Retirement.  Each director shall retire from the
+board of directors on the date of the regular quarterly meeting of directors
+next following the date on which he attains the age of 72 and shall not be
+eligible thereafter for reelection.
+            Section 13.  Emeritus Director.  The board of directors may elect
+one or more emeritus directors to serve at the pleasure of the board of
+directors.  Persons eligible to serve as emeritus directors shall be former
+directors of this corporation or of a predecessor corporation; an emeritus
+director shall be entitled to attend meetings of the board of directors but
+shall not be entitled to vote on any matter submitted to the board of
+directors.  The board of directors shall fix the compensation to be paid each
+emeritus director.  Notice of any meeting of the board of directors need not
+be given to an emeritus director, and he shall not be counted for a quorum of
+the board of directors.
+            Section 14.  Action Without a Meeting.  Any action that may be
+taken by the board of directors at a meeting may be taken without a meeting if
+one or more consents in writing describing the action so taken shall be signed
+by all the directors and included in the minutes or filed with the corporate
+records reflecting the action taken.
+            Section 15.  Telephonic Meetings.  Meetings of the board of
+directors, or of any committee designated by the board of directors, may be
+held by means of conference telephone or any other means of communication by
+which all directors participating in the meeting can hear each other
+simultaneously during the meeting, and such participation shall constitute
+presence in person at the meeting.
+            Section 16.  Notification of Nominations.  Nominations for the
+election of directors may be made by the board of directors or a proxy
+committee appointed by the board of directors or by any shareholder entitled
+to vote in the election of directors generally.  However, any shareholder
+entitled to vote in the election of directors generally may nominate one or
+more persons for election as directors at a meeting only if written notice of
+such shareholder's intent to make such nomination or nominations has been
+given, either by personal delivery or by United States mail, postage prepaid,
+to the secretary of the corporation not later than (i) with respect to an
+election to be held at an annual meeting of shareholders, 90 days in advance
+of such meeting, and (ii) with respect to an election to be held at a special
+meeting of shareholders for the election of directors, the close of business
+on the seventh day following the date on which notice of such meeting is first
+given to shareholders.  Each such notice shall set forth:  (a) the name and
+address of the shareholder who intends to make the nomination and of the
+person or persons to be nominated; (b) a representation that the shareholder
+is a holder of record of stock of the corporation entitled to vote at such
+meeting and intends to appear in person or by proxy at the meeting to nominate
+the person or persons specified in the notice; (c) a description of all
+arrangements or understandings between the shareholder and each nominee and
+any other person or persons (naming such person or persons) pursuant to which
+the nomination or nominations are to be made by the shareholder; (d) such
+other information regarding each nominee proposed by such shareholder as would
+be required to be included in a proxy statement filed pursuant to the proxy
+rules of the Securities and Exchange Commission, had the nominee been
+nominated, or intended to be nominated, by the board of directors; and (e) the
+consent of each nominee to serve as a director of the corporation if so
+elected.  The chairman of the meeting may refuse to acknowledge the nomination
+of any person not made in compliance with the foregoing procedure.
+
+                                  ARTICLE IV
+
+                              Executive Committee
+                             and Other Committees
+
+            Section 1.  Appointment.  The board of directors by resolution
+adopted by a majority of the full board may appoint an executive committee to
+consist of a chairman and two or more other directors.  The chairman of the
+committee shall be a director and shall be selected by the board of directors
+from the members of the executive committee.  The designation of such
+committee and the delegation thereto of authority shall not operate to relieve
+the board of directors, or any member thereof, of any responsibility imposed
+by law.
+            Section 2.  Authority.  The executive committee, when the board of
+directors is not in session, shall have and may exercise all the authority of
+the board of directors except to the extent, if any, that such authority shall
+be limited by the resolution appointing the executive committee and except
+also that neither the executive committee nor any other committee of the board
+of directors appointed pursuant to Section 10 of this Article IV shall have
+the authority to (a) authorize distributions; (b) approve or propose to
+shareholders actions required by the Act to be approved by shareholders;
+(c) fill vacancies on the board of directors or any of its committees;
+(d) amend articles of incorporation; (e) adopt, amend or repeal bylaws;
+(f) approve a plan of merger not requiring shareholder approval; (g) authorize
+or approve reacquisition of shares, except according to a formula or method
+prescribed by the board of directors; or (h) authorize or approve the issuance
+or sale or contract for sale of shares, or determine the designation and
+relative rights, preferences and limitations of a class or series of shares,
+except that the board of directors may authorize a committee or a senior
+executive officer of the corporation to do so within limits specifically
+prescribed by the board of directors.
+            Section 3.  Tenure and Qualifications.  Each member of the
+executive committee shall hold office until the next regular annual meeting of
+the board of directors following his appointment and until his successor is
+appointed as a member of the executive committee.
+            Section 4.  Meetings; Notice; Waiver.  Regular meetings of the
+executive committee or any other committee of the board of directors appointed
+pursuant to Section 10 of this Article IV may be held without notice at such
+times and places as the committee may fix from time to time by resolution. 
+Special meetings of the executive committee or any such other committee may be
+called by any member thereof upon not less than two days' notice stating the
+place, date and hour of the meeting.  The provisions of Section 5 of
+Article III shall apply to the method for giving of notice of special meetings
+of the executive committee or any such other committee and to the waiver of
+notice of any such meetings.  The notice of a meeting of the executive
+committee or any such other committee need not state the business proposed to
+be transacted at the meeting.
+       Section 5.  Quorum; Manner of Acting.  A majority of the members of the
+executive committee or any such other committee shall constitute a quorum for
+the transaction of business at any meeting thereof, and the act of a majority
+of the members present at a meeting at which a quorum is present shall be the
+act of the committee.
+       Section 6.  Action Without a Meeting.  Any action that may be taken by
+the executive committee or any such other committee at a meeting may be taken
+without a meeting if one or more consents in writing describing the action so
+taken shall be signed by all the members of the committee and included in the
+minutes of the committee or filed with the corporate records reflecting the
+action so taken.
+            Section 7.  Vacancies.  Any vacancy in the executive committee or
+any such other committee may be filled by a resolution adopted by a majority
+of the full board of directors.
+            Section 8.  Resignations and Removal.  Any member of the executive
+committee or any such other committee may be removed at any time with or
+without cause by resolution adopted by a majority of the full board of
+directors.  Any member of the executive committee or any such other committee
+may resign as a member of the committee at any time by giving written notice
+to the chairman of the board or secretary of the corporation, and, unless
+otherwise specified therein, the acceptance of such resignation shall not be
+necessary to make it effective.
+       Section 9.  Procedure.  The chairman of the executive committee shall
+be the presiding officer of the executive committee.  The executive committee
+and any such other committee shall fix its own rules of procedure which shall
+not be inconsistent with these bylaws.  The committee shall keep regular
+minutes of its proceedings and report the same to the board of directors for
+its information at the meeting thereof held next after the proceedings shall
+have been taken.
+            Section 10.  Appointment of Other Committees of the Board of
+Directors.  The board of directors may from time to time by resolution adopted
+by a majority of the full board, create any other committee or committees of
+the board of directors and appoint members of the board to serve thereon. 
+Each such committee shall have two or more members and, to the extent
+specified by the board of directors, may exercise the powers of the board
+subject to the limitations set forth in Section 2 of this Article IV.
+            Section 11.  Appointment of Other Committees.  The board of
+directors or the executive committee or, pursuant to the authority of the
+board of directors or the executive committee, the chairman of the board may
+from time to time create and appoint any other committee or committees, or
+subcommittee or subcommittees, whether composed of directors, officers or
+employees, with such duties, responsibilities and authority as may be
+prescribed by the board of directors or the executive committee, or by the
+chairman of the board pursuant to the authority of the board of directors or
+of the executive committee.
+            Each such committee or subcommittee shall fix its own rules of
+procedure.  The board of directors, the executive committee or the chairman of
+the board with respect to any such committee or subcommittee created and
+appointed by him shall have power to change the members of any such committee
+or subcommittee at any time, to fill vacancies and to dissolve any such
+committee or subcommittee at any time.  Any committee may appoint one or more
+subcommittees, of its own members, to advise with such committee, or to
+apportion the work of such committee.
+                                   ARTICLE V
+                                   Officers
+            Section 1.  Number.  The officers of the corporation shall be a
+chairman of the board, a president and chief executive officer, one or more
+executive vice-presidents and vice-presidents (the number of executive vice-
+presidents and vice-presidents to be determined by the board of directors), a
+chief financial officer, a secretary and a treasurer, each of whom shall be
+appointed by the board of directors.  The board of directors may from time to
+time appoint such assistant officers as may be deemed necessary or desirable
+for the business of the corporation.  Such assistant officers shall have such
+duties as may be prescribed by the board of directors and shall serve at the
+pleasure of the board of directors.  Any two or more offices may be held by
+the same person, except the offices of president and chief executive officer
+and secretary.
+            Section 2.  Appointment and Term of Office.  The officers of the
+corporation shall be appointed annually by the board of directors at the first
+meeting of the board of directors held after each annual meeting of the
+shareholders.  If such appointments shall not be made at such meeting, such
+appointments shall be made as soon thereafter as conveniently may be.  Each
+officer shall hold office until his successor shall have been duly appointed
+or until his death or until he shall resign or shall have been removed in the
+manner hereinafter provided.
+            Section 3.  Removal.  The board of directors may remove any
+officer at any time with or without cause.  The election or appointment of an
+officer shall not of itself create contract rights; and the resignation or
+removal of an officer shall not affect the contract rights, if any, of the
+corporation or the officer.
+            Section 4.  Vacancies.  A vacancy in any office because of death,
+resignation, removal, disqualification or otherwise, may be filled by the
+board of directors for the unexpired portion of the term.
+            Section 5.  Chairman of the Board.  The chairman of the board
+shall be a member of the board of directors and shall preside at meetings of
+the board of directors and meetings of shareholders.  He shall perform such
+additional duties and exercise such authority as from time to time may be
+assigned or delegated to him by the board of directors.  He may sign, with the
+secretary or any other proper officer of the corporation thereunto authorized
+by the board of directors, certificates for shares of the corporation, and any
+deeds, mortgages, bonds, contracts or other instruments which the board of
+directors has authorized to be executed, except in cases where the signing and
+execution thereof shall be expressly delegated by the board of directors or by
+these bylaws to some other officer or agent of the corporation or shall be
+required by law to be otherwise signed or executed.
+            Section 6.  President and Chief Executive Officer.  The president
+and chief executive officer shall be a member of the board of directors, shall
+be the chief executive officer of the corporation and, subject to the control
+of the board of directors, shall in general supervise and control all the
+business and affairs of the corporation.  In the absence of the chairman of
+the board he shall preside at meetings of the shareholders.  He shall have
+general power to execute deeds, mortgages, bonds, contracts and other
+instruments for and on behalf of the corporation, except in cases where the
+execution thereof shall be expressly delegated by the board of directors or by
+these bylaws to some other officer or agent of the corporation or shall be
+required by law to be otherwise executed.  He may sign, with the secretary or
+any other proper officer of the corporation thereunto authorized by the board
+of directors, certificates for shares of the corporation.
+            Section 7.  Executive Vice-Presidents.  The executive
+vice-presidents shall perform such duties and exercise such authority as from
+time to time may be assigned or delegated to them by the president and chief
+executive officer or the board of directors.  An executive vice-president may
+sign, with the secretary or any other proper officer of the corporation
+thereunto authorized by the board of directors, certificates for shares of the
+corporation.
+            Section 8.  Vice-Presidents.  The vice-presidents shall perform
+such duties and exercise such authority as from time to time may be assigned
+or delegated to them by the president and chief executive officer, an
+executive vice-president or the board of directors.  One or more of the
+vice-presidents may be designated senior vice-president.  Any vice-president
+may sign, with the secretary or any other proper officer of the corporation
+thereunto authorized by the board of directors, certificates for shares of the
+corporation.
+            Section 9.  Chief Financial Officer.  The chief financial officer
+shall be the principal financial officer of the corporation.  He shall in
+general perform all duties incident to the office of the chief financial
+officer and such other duties as from time to time may be assigned or
+delegated to him by the president and chief executive officer or the board of
+directors.
+       Section 10.  Secretary.  The secretary shall:  (a) keep the minutes of
+the shareholders' and of the board of directors' meetings in one or more books
+provided for that purpose; (b) see that all notices are duly given in
+accordance with the provisions of these bylaws or as required by law; (c) be
+custodian of the corporate records and of the seal of the corporation and see
+that the seal of the corporation is affixed to all documents the execution of
+which on behalf of the corporation under its seal is duly authorized; (d) keep
+a register of the post office address of each shareholder which shall be
+furnished to the secretary by such shareholder; (e) sign with the chairman of
+the board, the president and chief executive officer, an executive
+vice-president or a vice-president certificates for shares of the corporation
+the issuance of which shall have been authorized by resolution of the board of
+directors; (f) have general charge of the stock transfer books of the
+corporation; and (g) in general perform all the duties incident to the office
+of secretary and such other duties as from time to time may be assigned to him
+by the president and chief executive officer or the board of directors.
+       Section 11.  Treasurer.  The treasurer shall:
+(a) have charge and custody of and be responsible for all funds and securities
+of the corporation; receive and give receipts for moneys due and payable to
+the corporation from any source whatsoever, and deposit all such moneys in the
+name of the corporation in such banks, trust companies or other depositaries
+as shall be selected in accordance with the provisions of Article VI of these
+bylaws; and (b) in general perform all the duties incident to the office of
+treasurer and such other duties as from time to time may be assigned to him by
+the president and chief executive officer, the chief financial officer or the
+board of directors.  If required by the board of directors, the treasurer
+shall give a bond for the faithful discharge of his duties in such sum and
+with such surety or sureties as the board of directors shall determine.
+            Section 12.  Salaries.  The salaries of the officers shall be
+fixed from time to time by the board of directors and no officer shall be
+prevented from receiving such salary by reason of the fact that he is also a
+director of the corporation.
+
+                                  ARTICLE VI
+                     Contracts, Loans, Checks and Deposits
+            Section 1.  Contracts.  The board of directors may authorize any
+officer or officers, agent or agents, to enter into any contract or execute
+and deliver any instrument in the name of and on behalf of the corporation,
+and such authority may be general or confined to specific instances.
+       Section 2.  Loans.  No loans shall be contracted on behalf of the
+corporation and no evidences of indebtedness shall be issued in its name
+unless authorized by a resolution of the board of directors.  Such authority
+may be general or confined to specific instances.
+            Section 3.  Checks, Drafts, etc.  All checks, drafts or other
+orders for the payment of money, notes or other evidences of indebtedness
+issued in the name of the corporation shall be signed in such manner as shall
+from time to time be determined by resolution of the board of directors.
+            Section 4.  Deposits.  All funds of the corporation not otherwise
+employed shall be deposited from time to time to the credit of the corporation
+in such banks, trust companies or other depositaries as the president and
+chief executive officer or the chief financial officer of the corporation may
+select.
+
+                                  ARTICLE VII
+                  Certificates For Shares and Their Transfer
+       Section 1.  Certificates for Shares.  Certificates representing shares
+of the corporation shall be in such form as shall be determined by the board
+of directors.  Such certificates shall be signed by the chairman of the board,
+the president and chief executive officer, an executive vice-president or a
+vice-president and by the secretary or any other proper officer of the
+corporation thereunto authorized by the board of directors and sealed with the
+corporate seal or a facsimile thereof.  The signatures of such officers upon a
+certificate may be facsimiles if the certificate is countersigned by a
+transfer agent, or registered by a registrar, other than the corporation
+itself or one of its employees.  All certificates for shares shall be
+consecutively numbered or otherwise identified.  The name and address of the
+person to whom the shares represented thereby are issued, with the number of
+shares and date of issue, shall be entered on the stock transfer books of the
+corporation.  All certificates surrendered to the corporation for transfer
+shall be canceled and no new certificate shall be issued until the former
+certificate for a like number of shares shall have been surrendered and
+canceled, except as provided in Section 3 of this Article VII.
+       Section 2.  Transfer of Shares.  Transfer of shares of the corporation
+shall be made only on the stock transfer books of the corporation by the
+holder of record thereof or by his legal representative, who shall furnish
+proper evidence of authority to transfer, or by his attorney thereunto
+authorized by power of attorney duly executed and filed with the secretary of
+the corporation, and on surrender for cancellation of the certificate for such
+shares.  The person in whose name shares stand on the books of the corporation
+shall be deemed by the corporation to be the owner thereof for all purposes.
+            Section 3.  Replacement of Certificates.  In the event of the
+loss, theft, mutilation or destruction of any certificate for shares, a
+duplicate thereof may be issued and delivered to the owner thereof, provided
+he makes a sufficient affidavit setting forth the material facts surrounding
+the loss, theft, mutilation or destruction of the original certificate and
+gives a bond with corporate surety to the corporation, its officers and
+agents, in an open penalty amount indemnifying the corporation, its officers
+and agents, against any losses, costs and damages suffered or incurred by
+reason of such loss, theft, mutilation or destruction of the original
+certificate and replacement thereof.
+            Section 4.  Transfer Agents and Registrars.  The board of
+directors or executive committee may provide for transfer and registration of
+the stock of the corporation in Portland, Oregon, and in such other place or
+places as may be deemed advisable, and for such purpose may appoint and change
+from time to time the necessary transfer agents and registrars.  In case there
+shall be more than one transfer agent and more than one registrar, the board
+of directors or executive committee may provide for the interchange of
+certificates countersigned by the several transfer agents and registrars.  A
+transfer agent of the corporation may also be designated as the dividend
+disbursing agent of the corporation.  Resolutions of the board of directors or
+executive committee appointing transfer agents and registrars shall provide
+for such terms and conditions as may be deemed advisable, including without
+limitation provisions for indemnification of the transfer agents and
+registrars and instructions to them by designated officers of the corporation.
+
+                                 ARTICLE VIII
+
+                                     Seal
+            The board of directors shall provide a corporate seal which shall
+be circular in form and shall have inscribed thereon the name of the
+corporation and the state of incorporation and the words, "Corporate Seal."
+
+                                  ARTICLE IX
+                                  Fiscal Year
+            The fiscal year of the corporation shall begin on the first day of
+January and end on the thirty-first day of December in each year.
+
+                                   ARTICLE X
+                                  Amendments
+            These bylaws or any portion hereof may be amended by a vote of a
+majority of the full board of directors at any meeting of the directors.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.G
+<SEQUENCE>3
+<DESCRIPTION>CONSULTING AGREEMENT
+<TEXT>
+
+<PAGE>
+                                                                              
+                             CONSULTING AGREEMENT
+
+
+           THIS AGREEMENT is entered into as of the 1st day of October, 1995,
+by and between Willamette Industries, Inc., an Oregon corporation
+("Corporation"), and William Swindells ("Swindells").
+
+           WHEREAS, Swindells has served as an executive officer of
+Corporation for many years and is now its Chairman of the Board and Chief
+Executive Officer and has knowledge and experience of significant value to
+Corporation; and
+
+           WHEREAS, in order to provide for an orderly management succession
+it is presently contemplated that Swindells will retire as Chairman and Chief
+Executive Officer of Corporation, effective October 1, 1995; and
+
+           WHEREAS, Corporation wishes to avail itself of Swindells'
+experience and knowledge following Swindells' retirement as an employee of
+Corporation by retaining Swindells to provide consulting services to
+Corporation with respect to the business of Corporation; and
+
+           WHEREAS, Swindells desires to perform such services;
+
+           NOW, THEREFORE, in consideration of the foregoing, and of the
+mutual agreements herein contained, Swindells and Corporation agree as
+follows:
+
+           1.   Consulting Services.  
+
+                (a)  Term of Service.  Corporation hereby agrees that it will
+engage Swindells, and Swindells agrees that he will serve, as a consultant to
+Corporation for a period (the "Term") commencing on October 1, 1995, and
+ending on September 30, 1997, or earlier in the event of death or disability
+of Swindells.  Swindells will be deemed disabled only if, on the basis of
+medical evidence acceptable to the Board of Directors of Corporation,
+Swindells has a physical or mental condition resulting from unavoidable
+impairment of mind or body which can be expected to result in death or to be
+of long-continued and indefinite duration and which, in the discretion of the
+Board of Directors of Corporation, prevents Swindells from engaging in any
+employment or occupation for remuneration or profit.  Following September 30,
+1997, the Term will extend on a month-to-month basis until terminated by
+Corporation or Swindells upon 30 days' notice or until the death or disability
+of Swindells, but in any event, not beyond the retirement of Swindells from
+the Board of Directors of Corporation.  
+
+                (b)  Nature of Consulting Services.  To the extent reasonably
+requested by Corporation, Swindells shall consult with and advise Corporation
+with respect to acquisitions and strategic planning, capital expenditures,
+product development and general corporate and organizational matters.  The
+Corporation shall not direct the manner or means by which Swindells performs
+services under this Agreement.  The consulting services shall be provided in
+Portland, Oregon at times determined by Swindells except as the parties may
+otherwise agree.  Corporation shall provide Swindells with adequate
+information and resources to allow Swindells to perform effectively the
+services contemplated by this Agreement.
+
+                (c)  Nature of Relationship.  For all purposes, including that
+of determining Swindells' eligibility for participation in Corporation's
+employee benefit plans, Swindells' relationship to Corporation during the Term
+shall be that of an independent contractor and not an employee.
+
+           2.   Agreement Not to Compete.  Swindells hereby agrees that,
+during the Term, he will not, directly or indirectly, either as principal,
+agent, stockholder, employee or in any other capacity, without the prior
+approval of the Board of Directors of Corporation, engage in any activity or
+be employed by, assist or have an equity interest in, any business or other
+entity that competes in any material respect with Corporation; provided,
+however, that such prohibited activity shall not include the ownership of
+one percent (1%) or less of the voting securities of any publicly traded
+corporation regardless of the business of such corporation.  Swindells
+acknowledges and agrees that a material breach by Swindells of the provisions
+of this Section will constitute such damage as will be irreparable and the
+exact amount of which will be impossible to ascertain and for that reason
+agrees that Corporation will be entitled to an injunction to be issued by any
+court of competent jurisdiction restraining and enjoining Swindells from
+violating the provisions of this Section.  The right of injunction shall be in
+addition to and not in lieu of any other remedy available to Corporation for
+such breach or threatened breach, including the recovery of damages from
+Swindells.
+
+           3.   Confidential Information.  Swindells shall continue to hold
+confidential for the benefit of Corporation all secret or confidential
+information, knowledge or data relating to Corporation that shall have been
+obtained by Swindells during his employment by Corporation or during the Term
+and that shall not have become public knowledge.
+
+           4.   Fees for Services.  In consideration of the consulting
+services to be performed by Swindells hereunder and for the covenants of
+Swindells contained herein, Corporation shall pay Swindells consulting fees at
+the rate of $10,000 per month during the Term.  The obligation of Corporation
+to make the foregoing payments to Swindells shall terminate upon the death or
+disability of Swindells except with regard to accrued and unpaid amounts. 
+While receiving fees for services under this Agreement, Swindells shall not
+receive annual retainer payments made to non-employee directors of the
+Corporation, but shall receive fees for board and committee meetings attended
+and all other amounts payable to non-employee directors of Corporation.
+
+           5.   Other Matters.  During the Term, Corporation shall provide
+Swindells with the following:
+
+                (a)  Expenses.  Reimbursement for all reasonable travel and
+other business expenses incurred by Swindells in the performance of his duties
+hereunder;
+
+                (b)  Office Space; Secretary.  Office space, together with the
+services of a secretary, appropriate to the status of Swindells hereunder; and
+
+                (c)  Club Expenses.  Dues, fees and expenses for the following
+clubs:  Arlington Club.
+
+                (d)  Parking in the building in which Swindells' office is
+located.
+
+           6.   Scope of Agreement.  Nothing in this Agreement shall limit
+such rights as Swindells may have under any other agreements with Corporation. 
+Amounts which are vested benefits or which Swindells is otherwise entitled to
+receive under any plan or program of Corporation shall be payable in
+accordance with such plan or program.
+
+           7.   Indemnification.  Corporation shall indemnify Swindells and
+his legal representatives to the fullest extent permitted by the laws of the
+state of Oregon, the Articles of Incorporation, or the Bylaws of Corporation
+as in effect as of the date of this Agreement and from time to time thereafter
+against all claims, loss, damages, costs, charges and expenses whatsoever
+incurred or sustained by him or his legal representatives in connection with
+any action, suit or proceeding to which he or his legal representatives may be
+made a party by reason of the services performed by Swindells pursuant to this
+Agreement.  Corporation will, upon request by Swindells, promptly advance or
+pay any amounts for costs, charges or expenses (including, but not limited to,
+reasonable legal fees and expenses incurred by counsel retained by Swindells)
+in respect of his right to indemnification hereunder, subject to a later
+determination as to Swindells' ultimate right to receive such payment. 
+Swindells' rights under this Agreement shall be in addition to, and not in
+lieu of, any other rights Swindells may have to indemnification by
+Corporation.
+
+           8.   Successors.  This Agreement is personal to Swindells and
+without the prior written consent of Corporation shall not be assignable by
+Swindells.  This Agreement shall inure to the benefit of and be binding upon
+Corporation and its successors.  
+Corporation will require any successor (whether direct or indirect, by
+purchase, merger, consolidation or otherwise) to all or substantially all of
+the business of Corporation to expressly assume and agree to perform this
+Agreement in the same manner and to the same extent that Corporation would be
+required to perform it if no such succession had taken place.
+
+           9.   Miscellaneous.  
+
+                (a)  Governing Law.  This Agreement shall be governed by and
+construed in accordance with the laws of the state of Oregon, without
+reference to principles of conflict of laws. 
+
+                (b)  Notices.  All notices and other communications hereunder
+shall be in writing and shall be given by hand delivery to the other party or
+by certified mail, return receipt requested, postage prepaid, addressed as
+follows:
+
+                If to Swindells:
+
+                Mr. William Swindells
+                1100 S.W. Myrtle Drive
+                Portland, Oregon 97201
+
+
+                If to Corporation:
+
+                Willamette Industries, Inc.
+                3800 First Interstate Tower
+                1300 S.W. Fifth Avenue
+                Portland, Oregon  97201
+
+                Attention:  Corporate Secretary
+
+or to such other address as either party shall have furnished to the other in
+writing in accordance herewith.  Notice and communications shall be effective
+when actually received by the addressee or three days following mailing, as
+provided above, whichever shall first occur.
+
+                (c)  Severability.  The invalidity or unenforceability of any
+provision of this Agreement shall not affect the validity or enforceability of
+any other provision of this Agreement.
+
+                (d)  Withholding.  Corporation may withhold from any amounts
+payable under this Agreement such amounts as shall be required to be withheld
+pursuant to any applicable law or regulation.
+
+                (e)  Entire Agreement; Amendment.  This Agreement contains the
+entire understanding of Corporation and Swindells with respect to the subject
+matter hereof, and may not be amended or modified otherwise than by a written
+agreement executed by the parties hereto or their respective successors and
+legal representatives.
+
+           IN WITNESS WHEREOF, Swindells has hereunto set his hand and,
+pursuant to the authorization from its Board of Directors, Corporation has
+caused this Agreement to be executed in its name on its behalf, all as of the
+day and year first above written.
+
+
+
+  /s/ William Swindells
+  William Swindells
+
+
+
+  WILLAMETTE INDUSTRIES, INC.
+
+
+  By /s/Steven R. Rogel
+     Steven R. Rogel, President
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>4
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED
+                                CHARGES
+<TEXT>
+
+<PAGE>
+                                  EXHIBIT 12
+
+
+WILLAMETTE INDUSTRIES, INC. AND SUBSIDIARIES
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+(DOLLAR AMOUNTS IN THOUSANDS)
+
+
+
+                                     Year Ended December 31,
+                          ----------------------------------------------
+                           1991      1992      1993      1994     1995
+                          ------    ------    ------    ------   -------
+Fixed Charges:
+  Interest Cost         $ 63,986  $ 73,776  $ 79,194  $ 80,807  $ 77,237
+  1/3 rent expense        3,725     4,495     4,819     5,227     5,976
+                        -------   -------   -------   -------   -------
+Total Fixed Charges      67,711    78,271    84,013    86,034    83,213
+                        =======   =======   =======   =======   =======
+
+Add (Deduct):
+  Earnings before
+  Income Taxes           73,609   129,452   189,168   288,923   823,804
+  Interest Capitalized     (723)   (7,354)  (15,904)   (9,294)   (6,187)
+                        -------   -------   -------   -------   -------
+Earnings-Fixed Charges $140,597  $200,369  $257,277  $365,663  $900,830
+                        =======   =======   =======   =======   =======
+
+  Ratio of Earnings to
+    Fixed Charges          2.08      2.56      3.06      4.25    10.83
+                        =======   =======   =======   =======   =======
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>
+                                  EXHIBIT 23
+
+
+
+
+
+
+
+                        Consent of Independent Auditors
+
+
+The Board of Directors
+Willamette Industries, Inc.:
+
+  We consent to incorporation by reference in the Registration Statements No.
+33-5847, No. 33-59515 and No. 33-59517 on Form S-8 and No. 33-53263 on Form S-
+3 of Willamette Industries, Inc. of our report dated February 8, 1996,
+relating to the consolidated balance sheets of Willamette Industries, Inc. and
+subsidiaries as of December 31, 1995 and 1994, and the related consolidated
+statements of earnings, stockholders' equity and cash flows for each of the
+years in the three-year period ended December 31, 1995, which report appears
+in the December 31, 1995 annual report on Form 10-K of Willamette Industries,
+Inc.  As discussed in the notes to the consolidated financial statements, the
+Company changed its method of accounting for income taxes and postretirement
+benefits other than pensions in 1993.
+
+                             KPMG PEAT MARWICK LLP
+
+Portland, Oregon
+February 29, 1996
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>ARTICLE 5 FDS FOR FORM 10-K
+<FLAWED>
+<TEXT>
+WARNING: THE EDGAR SYSTEM ENCOUNTERED ERROR(S) WHILE PROCESSING THIS SCHEDULE.
+
+<TABLE> <S> <C>
+
+<ARTICLE>                                                                    5
+<LEGEND>                  THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION
+                          EXTRACTED FROM THE COMPANY'S CONSOLIDATED BALANCE
+                          SHEETS AND RELATED CONSOLIDATED STATEMENTS OF
+                          EARNINGS FOR THE PERIOD ENDED DECEMBER 31, 1995 AND
+                          IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+                          FINANCIAL STATEMENTS.
+<MULTIPLIER>                                                             1,000
+       
+<S>                                                                        <C>
+<PERIOD-TYPE>                                                           12-MOS
+<FISCAL-YEAR-END>                                                  DEC-31-1995
+<PERIOD-END>                                                       DEC-31-1995
+<CASH>                                                                  17,961
+<SECURITIES>                                                                 0
+<RECEIVABLES>                                                          319,516
+<ALLOWANCES>                                                             5,446
+<INVENTORY>                                                            391,358
+<CURRENT-ASSETS>                                                       774,837
+<PP&E>                                                               4,068,124
+<DEPRECIATION>                                                       1,494,383
+<TOTAL-ASSETS>                                                       3,413,555
+<CURRENT-LIABILITIES>                                                  415,579
+<BONDS>                                                                790,210
+<PREFERRED-MANDATORY>                                                        0
+<PREFERRED>                                                                  0
+<COMMON>                                                                27,612
+<OTHER-SE>                                                           1,819,278
+<TOTAL-LIABILITY-AND-EQUITY>                                         3,413,555
+<SALES>                                                              3,873,575
+<TOTAL-REVENUES>                                                     3,873,575
+<CGS>                                                                2,777,735
+<TOTAL-COSTS>                                                        2,777,735
+<OTHER-EXPENSES>                                                             0
+<LOSS-PROVISION>                                                             0
+<INTEREST-EXPENSE>                                                      71,050
+<INCOME-PRETAX>                                                        823,804
+<INCOME-TAX>                                                           309,000
+<INCOME-CONTINUING>                                                    514,804
+<DISCONTINUED>                                                               0
+<EXTRAORDINARY>                                                              0
+<CHANGES>                                                                    0
+<NET-INCOME>                                                           514,804
+<EPS-PRIMARY>                                                             9.34
+<EPS-DILUTED>                                                             9.34
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

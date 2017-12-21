@@ -1,0 +1,184 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ IwMczE1sBW/t7X1wPySYBZo9QQjcPGouZVkQBhwK0fuKk6P3Fb3cfynmWWtMuBmz
+ NEJj8Ksw+Zo4sKZ3uR1HUg==
+
+<IMS-DOCUMENT>0000037664-94-000015.txt : 19940404
+<IMS-HEADER>0000037664-94-000015.hdr.sgml : 19940404
+ACCESSION NUMBER:		0000037664-94-000015
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNITED TELEPHONE CO OF FLORIDA/NEW
+		CENTRAL INDEX KEY:			0000037664
+		STANDARD INDUSTRIAL CLASSIFICATION:	4813
+		IRS NUMBER:				590248365
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-01244
+		FILM NUMBER:		94519560
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 165000
+		STREET 2:		MAIL CODE 5235
+		CITY:			ALTAMONTE SPRINGS
+		STATE:			FL
+		ZIP:			32716-5000
+		BUSINESS PHONE:		4078896010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FLORIDA TELEPHONE CORP
+		DATE OF NAME CHANGE:	19830119
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>COVER LETTER FOR 1993 FORM 10-K
+<TEXT>
+
+
+
+The Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C.  20549
+
+
+Please note that United Telephone Company of Florida's consolidated 
+financial statements included in this Annual Report on Form 10-K 
+reflect a change in accounting principle. Specifically, effective 
+January 1, 1993, United Telephone Company of Florida changed its 
+method of accounting for postretirement benefits by adopting Statement 
+of Financial Accounting Standards No. 106, as described in Note 1 of 
+the "Notes to Consolidated Financial Statements."  Except for this 
+change, the consolidated financial statements in the report reflect 
+no changes from the preceding year in accounting principles or 
+practices or in the method of applying any such principles or 
+practices.
+
+
+Sincerely,
+
+
+/s/ John I. Lehman
+- ----------------------------------    
+John I. Lehman
+Controller
+United Telephone Company of Florida
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 12 OF 1993 FORM 10-K
+<TEXT>
+
+                                                                   Exhibit 12
+             
+
+                            UNITED TELEPHONE COMPANY OF FLORIDA
+                   COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+                                     (In Thousands)
+<TABLE>             
+             
+             
+                                                   Years Ended December 31,
+<CAPTION>                            -----------------------------------------------------
+                                      1993  (1)    1992      1991       1990       1989
+                                     ---------     ----      ----       ----       -----
+<S>                                <C>          <C>         <C>       <C>        <C>
+Income before extraordinary   $     78,742    $  99,118    $ 92,781  $ 102,414  $ 101,974
+Capitalized interest                 (369)       (1,154)     (1,178)    (1,558)    (2,951)
+Income tax provision                43,019       50,923      48,827     52,112     48,787
+                                    ------      -------      -------    -------    -------
+Subtotal                           121,392      148,887     140,430    152,968    147,810
+             
+Fixed charges
+ Interest charges                  36,388        37,941      38,183     40,437     38,249
+ Interest factor of operating       2,832         2,325       2,177      1,938      1,995
+  rents                            ------        ------      ------     ------     ------
+Total fixed charges                39,220        40,266      40,360     42,375     40,244
+                                  -------        -------     -------    -------    -------
+Earnings, as adjusted        $    160,612    $  189,153  $  180,790  $ 195,343  $ 188,054
+                                  =======       =======     =======    =======    =======       
+Ratio of earnings to fixed           4.10          4.70        4.48       4.61       4.67
+ charges            
+             
+(1)  In the absence of the Company's recognition of $51 million, ($31 million after taxes) 
+     of nonrecurring merger and integration costs related to Sprint/Centel merger, income 
+     before extraordinary item would have been $110 million and the ratio of earnings to 
+     fixed charges would have been 5.40 for the twelve month period ended December 31, 1993.  
+             
+
+NOTE: The above ratios have been computed by dividing fixed charges into the sum of (a) income 
+before extraordinary item less capitalized interest included in income,  (b) income taxes, and 
+(c) fixed charges.  Fixed charges consist of interest on all indebtedness (including amortization 
+of debt issuance expenses) and the related interest factor of operating rents.
+
+
+</TABLE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 23 OF 1993 FORM 10-K
+<TEXT>
+
+                      UNITED TELEPHONE COMPANY OF FLORIDA
+                              1993 FORM 10-K
+
+                                                     Exhibit 23
+                      
+
+                    CONSENT OF INDEPENDENT AUDITORS
+
+
+
+The Board of Directors
+United Telephone Company of Florida
+
+
+We consent to the incorporation by reference in the Registration
+Statement (Form S-3 No. 33-51404) of United Telephone Company of
+Florida and in the related Prospectus, pertaining to the registration 
+of First Mortgage Bonds, of our report dated January 21, 1994, with 
+respect to the consolidated financial statements and schedules of 
+United Telephone Company of Florida included in this Annual Report 
+(Form 10-K) for the year ended December 31, 1993.
+
+
+                                                                           
+                                        ERNST & YOUNG
+
+Kansas City, Missouri
+March 30, 1994                     
+
+ 
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

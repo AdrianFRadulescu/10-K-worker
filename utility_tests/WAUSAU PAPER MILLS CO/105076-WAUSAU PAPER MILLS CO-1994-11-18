@@ -1,0 +1,2790 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ EatY2niDmMnAajPqViO3YFhrrVm3ByK1OWcKU20xLpaflawtH1NKHvCgjCzG0q0u
+ yp+MrmUorJ9wRBFJfZUtDg==
+
+<IMS-DOCUMENT>0000916480-94-000026.txt : 19941201
+<IMS-HEADER>0000916480-94-000026.hdr.sgml : 19941201
+ACCESSION NUMBER:		0000916480-94-000026
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940831
+FILED AS OF DATE:		19941118
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAUSAU PAPER MILLS CO
+		CENTRAL INDEX KEY:			0000105076
+		STANDARD INDUSTRIAL CLASSIFICATION:	2621
+		IRS NUMBER:				390690900
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07574
+		FILM NUMBER:		94561139
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CLARKS ISLAND
+		STREET 2:		PO BOX 1408
+		CITY:			WAUSAU
+		STATE:			WI
+		ZIP:			54402-1408
+		BUSINESS PHONE:		7158455266
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CLARKS ISLAND
+		STREET 2:		P.O. BOX 1408
+		CITY:			WAUSAU
+		STATE:			WI
+		ZIP:			54402-1408
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-K FOR WPM
+<TEXT>
+
+                           FORM 10-K
+
+               SECURITIES AND EXCHANGE COMMISSION
+
+                    Washington, D.C.  20549
+- - ------------------------------------------------------------------
+(Mark One)
+   [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+         SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+         For the fiscal year ended August 31, 1994
+
+   [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+         SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+      For the transition period from __________ to __________
+- - ------------------------------------------------------------------
+
+                    WAUSAU PAPER MILLS COMPANY
+      (Exact name of registrant as specified in charter)
+
+       One Clark's Island                       WISCONSIN
+          P.O. Box 1408                  (State of incorporation)
+    Wausau, Wisconsin 54402-1408                39-0690900
+(Address of principal executive office)      (I.R.S. Employer
+                                           Identification Number)
+
+  Registrant's telephone number, including area code: 715-845-5266
+
+  Securities registered pursuant to Section 12(b) of the Act: None
+
+     Securities registered pursuant to Section 12(g) of the Act:
+
+                    Common Stock, No Par Value
+                       (Title of each class)
+- - ------------------------------------------------------------------
+Indicate by check whether the registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such report), and (2) has been subject to such filing
+requirements for the past 90 days.
+                        Yes   X      No 
+                            -----       -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.      [X]
+
+As of October 20, 1994, the aggregate market value of the common stock shares
+held by non-affiliates was approximately $431,662,000.  
+
+The number of common shares outstanding at October 20, 1994 was 26,735,530.
+
+                 DOCUMENTS INCORPORATED BY REFERENCE
+ Proxy Statement dated November 9, 1994; Pages 2 to 11  (Part III)
+<PAGE>
+                      TABLE OF CONTENTS
+
+                                                              Page
+
+PART I
+
+Item 1.  BUSINESS. . . . . . . . . . . . . . . . . . . . . . .  1
+Item 2.  PROPERTIES. . . . . . . . . . . . . . . . . . . . . .  7
+Item 3.  LEGAL PROCEEDINGS . . . . . . . . . . . . . . . . . .  8
+Item 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY
+         HOLDERS . . . . . . . . . . . . . . . . . . . . . . .  8
+
+PART II
+
+Item 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND
+         RELATED STOCKHOLDER MATTERS . . . . . . . . . . . . .  8
+Item 6.  SELECTED FINANCIAL DATA . . . . . . . . . . . . . . .  9
+Item 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS . . . . . . . . . 10
+Item 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA REPORT
+         OF INDEPENDENT PUBLIC ACCOUNTANTS . . . . . . . . . . 18
+Item 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+         ACCOUNTING AND FINANCIAL DISCLOSURES. . . . . . . . . 42
+
+PART III
+
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE
+         REGISTRANT. . . . . . . . . . . . . . . . . . . . . . 42
+Item 11. EXECUTIVE COMPENSATION. . . . . . . . . . . . . . . . 42
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+         MANAGEMENT. . . . . . . . . . . . . . . . . . . . . . 42
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS. . . . 42
+
+PART IV
+
+Item 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND
+         REPORTS ON FORM 8-K . . . . . . . . . . . . . . . . . 43
+          Schedule V - Property, plant and equipment . . . . . 45
+          Schedule VI - Accumulated depreciation of property,
+            plant and equipment. . . . . . . . . . . . . . . . 46
+          Schedule VIII - Valuation and qualifying accounts. . 47
+          Schedule X - Supplementary income statement
+            information. . . . . . . . . . . . . . . . . . . . 47
+<PAGE>
+                           PART I
+
+
+ITEM 1.  BUSINESS.
+
+NATURE OF THE BUSINESS
+
+The company, incorporated under the laws of the State of Wisconsin in 1899,
+manufactures and sells paper.  The company is presently organized into a small
+corporate staff consisting of principal executive officers and two operating
+divisions:  the Printing and Writing Division consisting of a paper and pulp
+mill in Brokaw, Wisconsin and Wausau Papers of New Hampshire, Inc., a wholly-
+owned subsidiary which operates a paper mill in Groveton, New Hampshire; and
+the Rhinelander Division which consists of Rhinelander Paper Company, Inc., a
+wholly-owned subsidiary operating a paper mill in Rhinelander, Wisconsin.  The
+company's executive offices are located in Wausau, Wisconsin.
+
+Export sales of the company are administered through Wausau Papers
+International, Inc., a wholly-owned subsidiary which acts as a foreign sales
+corporation (FSC).  Wausau Papers Export Corporation, a wholly-owned
+subsidiary, acted as a domestic international sales corporation (DISC) until
+September 1, 1992.
+
+Unless stated otherwise, the terms "company" and "Wausau Papers" mean the
+company and its subsidiaries.
+
+SEGMENT INFORMATION
+
+Paper manufacturing is the company's only line of business.
+
+PRINTING AND WRITING DIVISION
+
+The Printing and Writing Division manufactures fine printing, writing and
+specialty papers at the Brokaw, Wisconsin and Groveton, New Hampshire mills. 
+The division's product lines include recycled products made from 50% recycled
+fibers, with 10-20% of the total fiber content from post-consumer waste. 
+These papers are sold to paper distributors and converters throughout the
+United States and Canada.  Typical end uses for these fine papers include
+printed advertising, corporate external reports, office papers and converted
+products including such items as announcements and greeting card envelopes.
+
+The Printing and Writing Division was created in 1993 by combining the
+operations of the company's Brokaw division and the manufacturing facilities
+at Groveton, New Hampshire.  The Groveton facilities were purchased from the
+James River Corporation on April 1, 1993, by the company's newly formed
+wholly-owned subsidiary, Wausau Papers of New Hampshire, Inc.  This purchase
+expanded the company's annual printing and writing paper capacity by over
+90,000 tons.
+
+RHINELANDER DIVISION
+
+The Rhinelander Division, located in Rhinelander, Wisconsin, manufactures
+lightweight, dense, technical specialty papers which are sold directly to
+converters and end users.  Typical end uses are pressure-sensitive products,
+medical packaging, food packaging
+<PAGE>
+and multiple laminated products.  Small volumes of yeast and lignosulfonates
+are also manufactured.  These products are sold for use as food additives, pet
+food ingredients and for other end uses.
+
+EXPORT SALES
+
+Since September 1, 1992, Wausau Papers International, Inc. has acted as the
+commissioned sales agent for the export sales of the company.  Wausau Papers
+International, Inc. has elected to be treated as a FSC for federal income tax
+purposes.
+
+Wausau Papers Export Corporation formerly acted as a commissioned sales agent
+for the export sales of the company through August 31, 1992.  Wausau Papers
+Export Corporation has elected to be treated as a DISC for federal income tax
+purposes.
+
+RAW MATERIALS
+
+The basic raw material for paper is pulp.  Approximately 55% of the pulp
+consumed by the Brokaw mill is manufactured internally from aspen, which is in
+abundant supply.  The remaining 45% of required pulp at Brokaw and 100% of the
+required pulp at the Rhinelander and Groveton mills is purchased from pulp
+mills throughout the United States and Canada.  Although prices for purchased
+pulp began to increase in fiscal 1994 as market demand for pulp increased,
+purchased pulp is in adequate supply and readily obtained from both domestic
+and foreign sources.
+
+Recycled, de-inked fiber with a high content of post-consumer waste is also
+purchased from domestic suppliers as part of the fiber requirements for the
+Printing and Writing Division's recycled products.  Recycled fiber is also in
+adequate supply and readily obtained.
+
+Various chemicals are also used in the pulping and papermaking processes. 
+These industrial chemicals are all available from a number of suppliers and
+are purchased at current market prices.
+
+ENERGY
+
+The company's paper mills require large amounts of electrical energy and steam
+which are adequately supplied by public utilities or generated at company
+operated facilities.  During fiscal 1994, the natural gas supply to Brokaw,
+which fuels the power plant that provides the mill with all its steam
+requirements, was available for all operating days, with the exception of a
+one week period in January where gas was curtailed due to severe cold weather. 
+During this period, the mill fueled its power plant with oil, resulting in
+minimal disruption to the mill.  The Brokaw mill purchases 100% of its
+electrical requirements from a public utility company.  The Groveton mill
+operates a power plant which provides 100% of the mill's steam requirements
+and a portion of its electrical needs.  The primary fuels burned at Groveton
+are wood chips and fuel oil.  The Rhinelander Division maintains a coal
+burning plant capable of generating the mill's steam needs and nearly half of
+its electrical needs.  The Groveton and Rhinelander mills purchase
+approximately 80% and 55% of their electrical needs, respectively, from public
+utility companies.  <PAGE>
+The fuels used at each mill are all available on a contract basis at
+prevailing market prices.
+
+In August 1993, Rhinelander Paper Company, Inc. and Wisconsin Public Service
+Corporation (WPS) entered into a contract under which WPS would own, operate
+and fund a high-efficiency cogeneration power plant and Rhinelander would
+become the plant's exclusive steam customer for a minimum of 35 years. 
+Construction of the 116-mega watt plant requires approval by the Wisconsin
+Public Service Commission (the "Commission").  WPS submitted its application
+in October 1993.  The Commission subsequently requested competing proposals
+from other electrical generation developers and utilities for satisfying the
+projected demand for additional electrical energy in the state.  A decision on
+project selection, the first phase in the approval process, is expected from
+the Commission in November 1994.  If the proposed WPS Rhinelander plant is
+selected in the first phase of the process and receives approval to construct
+and operate in the second phase, it is anticipated that the project would be
+completed and that steam would be available to the company's Rhinelander mill
+in 1998.  The power plant is expected to reduce energy costs for Rhinelander
+while eliminating the paper mill's need to maintain and replace boiler
+equipment in the future.
+
+PATENTS AND TRADEMARKS
+
+The company develops and files trademarks and patents, as appropriate.  The
+company does not own or hold material licenses, franchises or concessions.
+
+SEASONAL NATURE OF BUSINESS
+
+The markets for some of the grades of paper produced by the company tend to be
+somewhat seasonal.  However, the marketing seasons for these grades are not
+necessarily the same.  Overall, the company generally experiences lower sales
+in the second fiscal quarter, in comparison to the rest of the year, primarily
+due to downtime typically taken by converters and customers during the holiday
+season.  
+
+WORKING CAPITAL
+
+As is customary in the paper industry, the company carries adequate amounts of
+raw materials and finished goods inventory to facilitate the manufacture and
+rapid delivery of paper products to its customers.
+
+MAJOR CUSTOMERS
+
+Avery Dennison Corporation accounted for 12.3% of fiscal 1994 consolidated net
+sales.  The loss of this customer could have an initial material adverse
+effect; however, the company believes that satisfactory alternative marketing
+arrangements could be made.
+
+BACKLOG
+
+Order backlog of the company's products amounted to approximately $25,672,000,
+representing nearly 3 weeks of operation as of 
+<PAGE>
+August 31, 1994.  This total is 15.1% higher than the backlog of orders of
+approximately $22,307,000 or nearly 3 weeks of operation at August 31, 1993. 
+The backlog increase is primarily due to increased demand for the company's
+printing and writing and technical specialty grades.
+
+Backlog totals have become a less accurate indicator of the strength of the
+company's business activity.  A significant volume of orders at both divisions
+are shipped out of inventory promptly upon receipt of the order.  This portion
+of the business is not reflected in the backlog totals.  The entire August 31,
+1994 backlog is expected to be shipped during fiscal 1995.
+
+COMPETITIVE CONDITIONS
+
+The company competes in different markets within the paper industry.  Each
+division serves distinct market niches.  The Printing and Writing Division
+produces fine printing and writing papers, of which approximately 70% are
+colored papers.  Fine printing and writing sales are estimated to be less than
+3% of the total market.  The division's competitors range from small to large
+paper manufacturers and represent many different product lines.  The division
+distributes its products primarily through paper wholesalers.  Rhinelander
+produces technical specialty papers and is a leader in its markets. 
+Rhinelander's market position varies by product segment and, thus, competition
+also includes small to large paper manufacturers.  Rhinelander sells its
+products directly to converters and end users.  The various markets for the
+products of the company are highly competitive, with competition based on
+service, quality and price.
+
+RESEARCH AND DEVELOPMENT
+
+Expenditures for product development were approximately $1,158,000 in 1994,
+$957,000 in 1993 and $868,000 in 1992.
+
+ENVIRONMENT
+
+Wausau Papers, like its competitors in the paper industry, is subject to
+increasingly stringent environmental regulations.  The company has made
+substantial capital investments and operating expenditures in order to
+construct, maintain and operate the facilities necessary to maintain
+compliance with environmental regulations.  The company intends to spend $14.5
+million over fiscal years 1995, 1996 and 1997 to rebuild, modernize and expand
+the wastewater treatment plant for the Brokaw mill.  The company estimates
+that its capital expenditures for other environmental purposes will be
+approximately $5 million in each of these fiscal years.
+
+The company has not been identified as a potentially responsible party at any
+site designated for remedial action under the federal Superfund law.  The
+company is required to monitor conditions relative to its past waste disposal
+activities and may be required to take remedial action if conditions are
+discovered which warrant such action.
+
+The United States Environmental Protection Agency (EPA) has proposed
+regulations which could require significant expenditures by the pulp and paper
+industry.  The final rules are expected to <PAGE>
+be issued in 1995 and to require compliance in 1998.  One major aspect of the
+proposed new rules is extremely stringent standards for the discharge of
+chlorinated organics that are produced as byproducts of pulp bleaching
+processes that use elemental chlorine or chlorine compounds.  The company
+maintains pulp bleaching operations only at its Brokaw mill.  In 1988 the
+company installed an oxygen delignification system which eliminated the use of
+elemental chlorine; however, chlorine compounds are used in other stages of
+the bleaching process.  The company is unable to predict with certainty the
+amount of capital expenditures and operating costs that it will incur in the
+future in order to comply with the proposed new EPA rules and other
+environmental regulations but it believes that such costs will not have a
+material adverse effect on its financial position or results of operations.
+
+EMPLOYEES
+
+The company had 1,695 employees at August 31, 1994.  The company has
+collective bargaining contracts with the United Paperworkers International
+Union covering approximately 1,314 employees.  These contracts expire in
+December 1995, May 1996 and March 1997 at the Rhinelander, Brokaw and Groveton
+mills, respectively.  The company considers its relationship with its
+employees to be excellent.  Eligible employees participate in retirement plans
+and group life, disability and medical insurance programs.
+
+The executive officers of the company as of October 1, 1994, their ages, their
+positions and offices with the company and their principal occupations during
+the past five years are as follows:
+
+     SAN W. ORR, JR., 53
+     -------------------
+
+     Chairman of the Board of Directors since December 1989, Chief
+     Executive Officer since July 1994, and Director since
+     April 1970; also, Attorney, Estates of A.P. Woodson and
+     Family; also, a director of Mosinee Paper Corporation and MDU
+     Resources Group, Inc.
+
+     DANIEL D. KING, 47
+     ------------------
+
+     Director, President and Chief Operating Officer since July
+     1994; Senior Vice President, Printing and Writing Division,
+     December 1993 to July 1994; Vice President and General
+     Manager, Brokaw, September 1990 to December 1993; Vice
+     President, Sales, Nekoosa Papers, Inc., February 1988 to June
+     1990.
+
+     LARRY A. BAKER, 55
+     ------------------
+
+     Senior Vice President, Administration since December 1990;
+     prior thereto, Vice President, Administration.
+
+     STEVEN A. SCHMIDT, 40
+     ---------------------
+
+     Vice President, Finance, Secretary and Treasurer since
+     June 1, 1993; Corporate Controller, August 1992 to June 1993;
+<PAGE>
+     prior thereto, Plant Controller, Georgia Pacific Corporation,
+     formerly Nekoosa Papers, Inc., March 1989 to August 1992.
+
+     MELVIN L. DAVIDSON, 58
+     ----------------------
+
+     Vice President and General Manager, Rhinelander Division
+     since August 1987; prior thereto, Vice President Marketing
+     and Sales, Rhinelander Division.
+
+     THOMAS J. HOWATT, 45
+     --------------------
+
+     Vice President and General Manager, Groveton since April 1,
+     1993; Vice President Operations, Brokaw Division, September
+     1990 to April 1993; prior thereto, Vice President,
+     Administration, Brokaw Division.
+
+     All executive officers of the company are elected annually by
+     the Board of Directors.
+
+
+ITEM 2.  PROPERTIES.
+
+The company's executive offices are located in Wausau, Wisconsin on property
+leased to the company under a lease which expires on December 31, 2005.  There
+are renewal options for another 25 years.
+
+The company's Brokaw, Wisconsin mill operated at capacity during fiscal 1994,
+producing approximately 465 tons of finished paper per day.  The mill facility
+provides approximately 55% of its pulp requirements from its own hardwood
+sulphite pulp mill.  Brokaw mill facilities are situated on approximately 270
+acres of land, all owned by the company.
+
+The company's manufacturing facility in Groveton, New Hampshire was acquired
+from James River Corporation on April 1, 1993.  The mill operated at 55% of
+capacity in fiscal 1994, producing approximately 140 tons of finished paper
+per day.  At capacity, the Groveton mill can produce over 90,000 tons of
+finished paper per year.  The company's facilities occupy 124 acres of land
+all owned by the company's wholly-owned subsidiary, Wausau Papers of New
+Hampshire, Inc.
+
+Rhinelander's paper mill in Rhinelander, Wisconsin operated at 99% of capacity
+in fiscal 1994, producing an average of 384 tons of finished paper per day. 
+Its facilities, which include a yeast and lignosulfonate processing plant
+capable of producing 21,000 pounds of torula yeast per day, occupy 72 acres of
+land, all owned by Rhinelander Paper Company, Inc.
+
+The company owns approximately 43,500 acres of timberland in Wisconsin.  The
+company believes the market value of these lands exceeds the August 31, 1994
+book value of $1,541,000.
+
+
+<PAGE>
+ITEM 3.  LEGAL PROCEEDINGS.
+
+Legal proceedings are discussed in Note 12 to the Consolidated Financial
+Statements on page 56 of this report.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+No matters were submitted to a vote of shareholders during the fourth quarter
+of fiscal 1994.
+
+
+                           PART II
+
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+MATTERS.
+
+The company's common stock is traded on the Nasdaq National Market System
+under the symbol WSAU.  The number of shareholders of record as of October 10,
+1994 was 1,941.  The company believes that there are approximately 4,259
+additional beneficial owners whose shares are held in street name accounts or
+in other fiduciary capacities.  The total estimated number of shareholders as
+of October 10, 1994, is 6,200.  Information related to high and low closing
+prices and dividends is explained in detail in Item 8, Financial Statements
+and Supplementary Data, and appears on page 41 of this report.  Dividend
+restrictions under certain loan covenants are explained in Note 4 to the
+Consolidated Financial Statements which is found on page 28 of this report.
+
+<PAGE>
+<TABLE>
+ITEM 6.  SELECTED FINANCIAL DATA.
+
+<CAPTION>
+(all dollar amounts in thousands,
+except per share data)                            Years ended August 31,
+
+                                      1994        1993        1992        1991        1990
+<S>                            <C>         <C>         <C>          <C>         <C>       
+FINANCIAL RESULTS
+Net sales                         $426,504    $381,816    $370,935    $350,361    $339,935
+Depreciation, depletion
+  & amortization                    17,635      15,445      13,760      13,344      11,590
+Operating profit                    69,990      62,910      62,414      50,190      25,552
+Interest expense                     1,958       1,272       1,126       3,927       3,510
+Earnings before provision
+  for income taxes                  68,052      61,771      61,309      47,025      24,170
+Earnings (before cumulative
+  effect of accounting
+  change)                           42,052      38,371      40,009      30,475      15,870
+Net earnings                        43,052      22,621      40,009      30,475      15,870
+Average number of shares
+  outstanding                   26,929,007  26,948,296  26,931,719  26,928,430  26,885,357
+Cash dividends declared              6,487       5,686       5,152       4,565       4,193
+Cash dividends paid                  6,291       5,559       5,000       4,473       3,972
+Capital expenditures                43,800      51,297      31,777      24,931      43,892
+Tons of paper shipped              355,100     310,600     296,600     278,800     269,500
+
+FINANCIAL CONDITION
+Working capital                   $ 59,878    $ 57,007    $ 34,338    $ 19,661    $ 23,499
+Long-term debt                      30,270      42,712      22,695      30,727      55,364
+Shareholders' equity               214,818     183,139     165,989     130,034     104,382
+Total assets                       361,389     329,583     266,592     240,306     216,527
+
+PER SHARE
+Earnings (before cumulative
+  effect of accounting
+  change)                         $   1.56    $   1.42    $   1.49    $   1.13    $    .59
+Net earnings                          1.60         .84        1.49        1.13         .59
+Cash dividends declared               .240        .210        .191        .170        .156
+Shareholders' equity                  7.98        6.80        6.16        4.83        3.88
+Price range (low and high
+  closing)                     22.25-34.00 17.86-29.63 16.88-32.21  6.75-18.42   7.11-9.96
+
+RATIOS/RETURNS
+Return on sales (before
+  cumulative effect of
+  accounting change)                  9.9%       10.0%       10.8%        8.7%        4.7%
+Net return on sales                  10.1%        5.9%       10.8%        8.7%        4.7%
+Return on average shareholders'
+  equity (before cumulative effect
+  of accounting change)              21.2%       21.0%       27.0%       26.0%       16.1%
+Net return on average share-
+  holders' equity                    21.6%       13.0%       27.0%       26.0%       16.1%
+Current assets to current
+  liabilities                     2.3 to 1    2.4 to 1    1.9 to 1    1.5 to 1    1.8 to 1
+% of long-term debt to total
+  capital                             9.6%       14.8%        9.9%       15.6%       29.9%
+Tons of paper shipped per employee     210         206         225         216         212
+
+EMPLOYMENT
+Average number of employees          1,692       1,510       1,319       1,293       1,271
+</TABLE>
+<PAGE>
+All shares and per share data have been restated to reflect the
+four-for-three stock splits in 1994 and 1993, the two-for-one
+stock split in 1992, the five-for-four stock split-up, effected in
+the form of a dividend, in 1991 and the 10% stock dividend in
+1990.  This summary should be read in conjunction with the
+consolidated financial statements which follow.
+
+
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS.
+
+RESULTS OF OPERATIONS
+
+     OVERVIEW
+
+The company achieved record sales, earnings and shipments in
+fiscal 1994.  Although the U.S. economy showed gradual improvement
+during the year, market conditions in the pulp and paper industry
+were mixed.  While the market for printing and writing grades
+showed modest growth in fiscal 1994, the company made significant
+progress in expanding its marketing presence in the East Coast and
+Canada with the first full year of operation of the Groveton, New
+Hampshire mill.  Although there was not sufficient market strength
+to support the operation of the second of the two paper machines
+at Groveton in fiscal 1994, the company's Printing and Writing
+Division experienced a 17.7% volume gain over the previous year. 
+Strong demand at Rhinelander for its technical specialty grades
+resulted in a 9.7% volume increase in fiscal 1994 over the
+previous year's results.
+
+For much of fiscal 1994, the company experienced rising pulp
+prices as market demand for pulp increased.  The company announced
+several paper price increases during the year, but competitive
+pressures prevented price increases on many grades.  Price
+increases were not sufficient to completely offset the higher pulp
+costs.  Improved production levels and cost reduction efforts
+helped to minimize the impact of the rising pulp costs.  As pulp
+prices continued to rise in early fiscal 1995, the company
+implemented additional selling price increases on most of its
+products in September and carried out further price increases on a
+portion of its technical specialty product line in October.  
+
+     NET SALES
+
+Fiscal 1994 net sales were a record $426.5 million, an increase of
+11.7% over fiscal 1993 net sales of $381.8 million.  Net sales in
+fiscal 1992 were $370.9 million.  Shipments were a record 355,100
+tons, exceeding 1993 shipments of 310,600 tons by 14.3%.  Fiscal
+1992 shipments were 296,600 tons.  The growth in shipments in
+fiscal 1994 was primarily the result of successfully marketing
+part of the added production capacity of the Groveton, New
+Hampshire mill and strong demand at the Rhinelander Division.
+
+Despite very competitive market conditions, demand for the
+company's products continued to remain strong in fiscal 1994.  At
+the Printing and Writing Division, 1994 shipments outpaced the
+previous year by 17.7%.  However, market conditions did not 
+<PAGE>
+support the operation of the second of the two paper machines at
+Groveton.  Continued growth of the company's printing and writing
+products is expected in fiscal 1995.  Strong demand for the
+Rhinelander Division's technical specialty products resulted in
+record shipments in 1994.  Shipments of Rhinelander's products
+increased 9.7% compared to 1993 results.  Shipments of pressure
+sensitive products, its largest product segment, were up 11.5%
+over 1993 results.  Some brief downtime was taken early in the
+year as a result of isolated market weakness in certain product
+segments.
+
+Order backlog at August 31, 1994 was $25.7 million, an increase of
+$3.4 million or 15.1% from the August 31, 1993 backlog of $22.3
+million.  The order backlog at August 31, 1992 was $20.9 million. 
+Order backlog at the end of fiscal 1994 is higher than a year ago
+primarily due to increased demand for both printing and writing
+and technical specialty grades.  Backlog totals are not an
+accurate indicator of the strength of the company's business as a
+significant volume of orders are shipped out of inventory promptly
+upon receipt of the order. 
+
+     GROSS PROFIT
+
+The gross profit margin decreased in fiscal 1994 to 22.8% of net
+sales.  The gross profit margin was 23.3% in fiscal 1993 and 23.1%
+in fiscal 1992.  Market pressures in the printing and writing and
+technical specialty grades resulted in slightly lower average
+selling prices in fiscal 1994 compared to the previous year. 
+Market pulp prices declined until January 1994.  Since January,
+the company has experienced steadily rising prices for pulp.  For
+fiscal 1994, pulp costs, on average, were slightly below the
+fiscal 1993 average.  The company announced paper price increases
+for certain paper grades during this period of rising pulp costs,
+however, market pressures prevented implementation of price
+increases on several product lines.  The company was able to
+offset part of the negative effect of rising pulp prices through
+some price increases, improved productivity from paper mill and
+pulp mill operations and cost reduction efforts, including Total
+Quality Process generated improvements.  
+
+In early fiscal 1995, the company experienced further pulp price
+increases.  The company implemented price increases on many of its
+paper grades in September and on a portion of its technical
+specialty product line in October.  Although the rate of each
+increase in the prices of pulp and paper may not coincide and
+paper price increases will generally lag behind pulp price
+increases in the short-term, management believes the company will
+have sufficient pricing flexibility with its product lines to help
+maintain profit margins on a long-term basis.  The prices of most
+other raw materials consumed in production have generally
+increased at or below the rate of general inflation.
+
+Production of the company's printing and writing grades increased
+12.7% over fiscal 1993.  This was achieved primarily as a result
+of the first full year of operation at the Groveton mill.  The
+Brokaw mill operated at capacity in 1994, while the Groveton mill
+operated at 55% of capacity.  Production in 1993 was 14.0% higher
+than 1992 results.
+<PAGE>
+The Rhinelander mill operated at 99% of capacity in 1994.  Brief
+downtime was taken on two of Rhinelander's smaller paper machines
+early in the year.  Despite this downtime, capital improvements
+yielded a production increase of 5.1% compared to 1993 results. 
+Rhinelander's production in 1993 was 3.2% better than 1992 levels.
+
+Maintenance and repair costs increased to $29.6 million in fiscal
+1994 from $28.8 million in 1993 and $26.4 million in 1992.  The
+increase is mainly attributable to maintenance and repair costs
+associated with a full year of operation at the Groveton mill.
+
+     LABOR
+
+The company is currently in the fourth year of a five-year labor
+agreement with the United Paperworkers International Union at the
+Brokaw mill.  The agreement, which expires in May 1996, includes a
+general wage increase of 3.5% in 1995.  The contract includes
+increases in employee benefits and several changes in work rules
+to provide greater operating efficiencies.
+
+The company is currently in the second year of a four-year labor
+agreement with the United Paperworkers International Union at the
+Groveton mill.  The agreement, which expires in March 1997,
+includes general wage increases of 3.0% in 1995 and 2.0% in 1996. 
+The contract includes increases in employee benefits as part of
+the agreement.
+
+The company is currently in the third year of a four-year labor
+agreement with the United Paperworkers International Union at the
+Rhinelander division.  The agreement, which expires in December
+1995, includes a general wage increase of 3.0% in 1995.  Increases
+in employee benefits each year of the contract and changes in work
+rules for improved operating efficiencies are also part of the
+agreement.
+
+The company is of the opinion that all three labor agreements
+provide competitive labor costs over the contract periods.  The
+company considers its relationship with its employees to be
+excellent.
+
+     SELLING, ADMINISTRATIVE AND RESEARCH EXPENSES
+
+Selling, administrative and research expenses in fiscal 1994 were
+$27.3 million, compared to $26.0 million in fiscal 1993 and $23.1
+million in fiscal 1992.  Higher marketing and administrative costs
+in fiscal 1994 over the prior year are attributable to a full year
+of operation at the Groveton mill, increased marketing costs to
+promote new product offerings of printing and writing grades and
+higher professional fees.  Stock appreciation rights, dividend
+equivalents and stock option income was $.3 million in 1994,
+compared to expense of $1.9 million in 1993 and $1.2 million in
+1992.
+
+     INTEREST INCOME, INTEREST EXPENSE AND OTHER INCOME
+
+Interest income was $.1 million in fiscal 1994 and was less than
+$.1 million in both fiscal 1993 and fiscal 1992.  Interest expense
+totaled $2.0 million in fiscal 1994, compared to $1.3 million in
+1993 and $1.1 million in 1992.  Additional debt from the purchase
+ <PAGE>
+of the manufacturing facilities in Groveton, New Hampshire,
+accounts for the higher interest expense in fiscal 1994. 
+Capitalized interest was $.2 million in fiscal 1994 and was $.1
+million in 1993 and 1992.  Other income and expense was $.1
+million expense in 1994, compared to $.1 million income in both
+1993 and 1992.
+
+     INCOME TAXES
+
+The income tax provision for fiscal 1994 was $26.0 million, for an
+effective tax rate of 38.2%.  The effective tax rates for fiscal
+years 1993 and 1992 were 37.9% and 34.7%, respectively.  The
+fiscal 1994 and 1993 tax rates were effected by the 1% increase in
+federal tax rates which became effective on January 1, 1993.  The
+1992 tax rate was favorably impacted by research and development
+credits and state tax credit carryforwards.
+
+On September 1, 1993, the company adopted Statement of Accounting
+Standard (SFAS) No. 109 "Accounting for Income Taxes."  The
+adoption was reflected as a one-time cumulative reduction in the
+net deferred tax liability resulting in a $1.0 million increase in
+fiscal 1994 net earnings.
+
+     NET EARNINGS
+
+Fiscal 1994 earnings before the cumulative effect of accounting
+changes were $42.1 million, compared to fiscal 1993 earnings of
+$38.4 million.  After including the impact of the accounting
+changes, net earnings were $43.1 million in fiscal 1994, compared
+to net earnings of $22.6 million for fiscal 1993.  Fiscal 1992 net
+earnings were $40.0 million.  
+
+On September 1, 1993, the company adopted Statement of Accounting
+Standard (SFAS) No. 109 "Accounting for Income Taxes." SFAS 109
+requires deferred income taxes be determined based on the
+estimated future tax effect of differences between the financial
+statement and tax bases of assets and liabilities, as measured by
+the current enacted tax rates.  This change in accounting, while
+not affecting cash flow, resulted in a one-time cumulative benefit
+of $1.0 million in fiscal 1994.  In fiscal 1993, the company
+adopted SFAS 106, "Employers' Accounting for Postretirement
+Benefits Other Than Pensions," resulting in a one-time cumulative
+reduction to net earnings of $15.8 million.
+
+
+     CAPITAL RESOURCES AND LIQUIDITY
+
+     LONG-TERM DEBT
+
+Long-term debt decreased $12.4 million in fiscal 1994 as cash
+provided by operations was sufficient to fund the 1994 capital
+expenditure program, meet working capital and dividend
+requirements, reduce debt and repurchase company stock.  At August
+31, 1994, long-term debt was $30.3 million compared to $42.7
+million at August 31, 1993.  Long-term debt at August 31, 1992 was
+$22.7 million.  The increase in long-term debt in fiscal 1993 was
+due primarily to the purchase of manufacturing facilities in
+Groveton, New Hampshire.  Long-term debt as a percent of capital
+decreased to 9.6% in 1994, compared to 14.8% in 1993 and 9.9% in
+1992.
+<PAGE>
+At August 31, 1994, $30.0 million was outstanding under the senior
+promissory notes.  This compares with borrowings of $12.0 million
+under the credit agreement and $30.0 million in senior promissory
+notes at August 31, 1993.
+
+     CASH PROVIDED BY OPERATIONS
+
+For fiscal 1994, cash provided by operations was $64.7 million or
+88.3% above 1993 results of $34.4 million. Cash provided by
+operations in fiscal 1992 was $45.9 million.  Operating cash flow
+was lower in 1993 than 1994 due to funding the working capital
+requirements associated with the addition of the Groveton mill. 
+Increased shipments, along with lower unit costs in fiscal 1994,
+also accounted for part of the improved operating cash flow in
+1994 over the previous year.  The decline in operating cash flow
+in 1993 compared to 1992 was driven mainly by increased working
+capital requirements associated with the Groveton mill. 
+
+     CAPITAL EXPENDITURES
+
+Capital expenditures totaled $43.8 million in fiscal 1994,
+compared to $51.3 million in 1993 and $31.8 million in 1992.  The
+fiscal 1993 expenditures include the purchase of manufacturing
+facilities in Groveton, New Hampshire for $20.2 million.  At the
+Brokaw mill, work is continuing on a new boiler and feedwater
+system, with start-up expected by the end of the first quarter of
+fiscal 1995.  Work was completed on Brokaw's largest paper
+machine, which was converted to produce paper using an alkaline
+process for increased whiteness and brightness.  A machine rebuild
+was also completed, increasing production and reliability, with a
+second rebuild scheduled for completion in early fiscal 1995.  A
+new water marking system for No. 4 paper machine was installed to
+improve quality and increase production  and a new sizing system
+was installed to reduce operating costs.  At Groveton, a state-of-
+the-art color process control system was completed, which reduced
+production costs and gave both Groveton paper making machines
+color production capabilities equal to the Brokaw mill.  
+
+At the Rhinelander Division, a new $14.5 million silicone coater
+was approved.  The project includes a building expansion and
+additional rewinding capacity.  The new solventless silicone
+coater will be capable of producing 15,000 tons of coated release
+papers for the pressure sensitive label industry enabling the mill
+to expand its RHI-lease product lines.  The new coater is expected
+to start-up in the spring of 1995.  An upgrade to No. 9 paper
+machine at Rhinelander was completed in June 1994, increasing
+capacity and improving quality on this machine which produces
+backing paper for the pressure sensitive label industry.  Also
+begun are improvements totaling over $1 million for No. 6 paper
+machine, which produces mostly packaging and technical grade
+papers, as well as $1.9 million for an upgrade to Rhinelander's
+wastewater treatment facility.
+
+As of August 31, 1994, the company was committed to spend
+approximately $30 million to complete capital projects under
+construction.  These projects include the new silicone coater
+project, completion of the power distribution system, improvements
+to No. 6 paper machine and an upgrade to the wastewater treatment
+plant at Rhinelander; completion of the boiler and feedwater
+<PAGE>
+system and the second machine rebuild at Brokaw; and completion of
+a machine chest at Groveton.  Capital commitments at the end of
+1993 and 1992 were $32.0 million and $21.5 million, respectively.
+
+In early fiscal 1995, the company's Board of Directors approved
+over $35 million in capital improvements for the Brokaw mill.  In
+keeping with the Printing and Writing Division's commitment to
+expand its recycled capabilities, $16.4 million was approved for a
+secondary fiber system.  The project includes a building expansion
+and additional pulping capacity and a new fiber handling system to
+process increased recycled and post consumer fiber.  In addition,
+$14.5 million was approved to rebuild, modernize and expand
+Brokaw's wastewater treatment facility.  The company will also
+invest over $4.5 million for improvements to No. 2 paper machine
+to increase productivity and enhance product quality.
+
+The company expects capital expenditures to be in excess of $150
+million over the next three years.
+
+     FINANCING
+
+The company maintains a revolving credit facility agreement with
+two banks to provide loans up to $35 million.  This credit
+facility was reduced at the company's request from $65 million in
+November 1993.  On July 19, 1994, the company renewed its $35
+million revolving credit facility.  The credit facility will
+permit the company to borrow $35 million through August 1, 1997,
+at which time, or earlier at the company's option, the agreement
+converts to a four-year term loan, requiring equal annual payments
+of principal.  Interest rates on these borrowings are based on
+bank offered rates, the prime lending rate, certificate of deposit
+rate, treasury rate, or a eurodollar rate.  The credit agreement
+provides the back-up line of credit necessary for the issuance of
+commercial paper.  The company's commercial paper placement
+agreement, with one of its two major banks, provides for the
+issuance of up to $40 million of unsecured debt obligations.  The
+company had no commercial paper outstanding at year end.  On
+August 31, 1994, a combined total of $35.0 million was available
+for borrowing under the company's credit and commercial paper
+placement agreements.  In a separate agreement, the banks
+participating in the revolving credit facility have provided a $30
+million uncommitted line of credit to the company.  The company
+also has available a $2 million short-term line of credit.  There
+was no borrowing against these lines at August 31, 1994.
+
+In June 1993, the company borrowed $30.0 million through the
+issuance of notes to Prudential Insurance Company of America and
+its subsidiaries.  The loan was in the form of senior unsecured
+term notes maturing in three to seven years, bearing a fixed
+interest rate of 6.03%.  Proceeds from the notes were used to
+reduce borrowings from the revolving credit facility.
+
+Cash provided by operations, the revolving credit facility
+agreement, and the Prudential notes are expected to fund the
+company's planned capital expenditure requirements, except those
+that may be required to fund a major expansion or acquisition. 
+The company is of the opinion that sufficient amounts of capital
+resources are available to achieve both short-term and long-term
+goals.
+<PAGE>
+     COMMON STOCK REPURCHASE
+
+On April 21, 1994, the company purchased, with authorization from
+the Board of Directors, 100,000 shares of the company's no par
+value common stock from a director in a private transaction at the
+average market price on the day of the transaction.
+
+On June 30, 1994, the Board of Directors authorized the repurchase
+of up to 1,350,000 shares of the company's common stock from time
+to time in the open market or through privately negotiated
+transactions at prevailing market prices.  As of August 31, 1994,
+the company had repurchased 90,000 shares at market prices ranging
+from $23.875 per share to $24.625 per share.
+
+     DIVIDENDS
+
+During 1994, the Board of Directors declared cash dividends of
+$.24 per share, an increase of 14.3% over the $.21 per share
+declared in 1993.
+
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+     REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+WIPFLI ULLRICH BERTELSON
+Certified Public Accountants
+
+To the Shareholders and Board of Directors
+Wausau Paper Mills Company
+Wausau, Wisconsin
+
+We have audited the accompanying consolidated balance sheets of
+Wausau Paper Mills Company and Subsidiaries as of August 31, 1994
+and 1993, and the related consolidated statements of operations,
+cash flows and shareholders' equity for each of the years in the 
+three-year period ended August 31, 1994 and the supporting
+schedules listed in the accompanying index to financial
+statements.  These financial statements and supporting schedules
+are the responsibility of the company's management.  Our
+responsibility is to express an opinion on these financial
+statements and supporting schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the
+financial statements and supporting schedules are free of material
+misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements and supporting schedules.  An audit also includes
+assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial
+<PAGE>
+position of Wausau Paper Mills Company and Subsidiaries at
+August 31, 1994 and 1993, and the results of their operations and
+cash flows for each of the years in the three-year period ended
+August 31, 1994, and the supporting schedules present fairly the
+information required to be set forth therein, all in conformity
+with generally accepted accounting principles.
+
+As discussed in Note 8 and Note 7 of the Notes to Consolidated
+Financial Statements, the company changed its method of accounting
+for income taxes in 1994 and its method of accounting for
+postretirement benefits other than pensions in 1993.
+
+We hereby consent to the incorporation by reference of this report
+in the Registration Statements on Forms S-8 filed with the 
+
+Securities and Exchange Commission by Wausau Paper Mills Company
+on January 3, 1992 and January 27, 1988.
+
+
+                              Wipfli Ullrich Bertelson
+                              WIPFLI ULLRICH BERTELSON
+                              September 20, 1994
+                              Wausau, Wisconsin
+<PAGE>     MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL REPORTING
+
+The management of Wausau Paper Mills Company is responsible for
+the integrity and objectivity of the financial data contained in
+the financial statements.  The financial statements have been
+prepared in conformity with generally accepted accounting
+principles appropriate under the circumstances and, where
+necessary, reflect informed judgments and estimates of the effects
+of certain events and transactions based on currently available
+information at the date the financial statements were prepared.
+
+The company's management depends on the company's system of
+internal accounting controls to assure itself of the reliability
+of the financial statements.  The internal control system is
+designed to provide reasonable assurance, at appropriate cost,
+that assets are safeguarded and transactions are executed in
+accordance with management's authorizations and recorded properly
+to permit the preparation of financial statements in accordance
+with generally accepted accounting principles.  Periodic reviews
+are made of internal controls by management and corrective action
+is taken if needed.
+
+The Board of Directors reviews and monitors financial statements
+through its audit committee.  The audit committee meets with the
+independent public accountants and management to review internal
+accounting controls, auditing and financial reporting matters.
+
+The independent public accountants are engaged to provide an
+objective and independent review of the company's financial
+statements in accordance with generally accepted auditing
+standards and to express an opinion thereon.  The report of the
+company's independent public accountants is included in this
+annual report.
+
+
+San W. Orr, Jr.                     Daniel D. King
+SAN W. ORR, JR.                     DANIEL D. KING
+Chairman of the Board of Directors  President and Chief Operating
+and Chief Executive Officer           Officer
+
+Steven A. Schmidt
+STEVEN A. SCHMIDT
+Vice President, Finance,
+  Secretary and Treasurer
+<PAGE>INDEX TO FINANCIAL STATEMENTS COVERED BY REPORT OF
+INDEPENDENT PUBLIC ACCOUNTANTS
+
+Consolidated Statements of Income for years ended
+     August 31, 1994, 1993 and 1992. . . . . . . . . . . . .  22
+
+Consolidated Balance Sheets as of August 31, 1994
+     and 1993. . . . . . . . . . . . . . . . . . . . . . . .  23
+
+Consolidated Statements of Shareholders' Equity for
+     years ended August 31, 1994, 1993 and 1992. . . . . . .  25
+
+Consolidated Statements of Cash Flows for years ended
+     August 31, 1994, 1993 and 1992. . . . . . . . . . . . .  26
+
+Notes to Consolidated Financial Statements . . . . . . . . .  27
+
+Schedules for the years ended August 31, 1994, 1993 and 1992
+
+     Schedule V - Property, Plant and Equipment. . . . . . .  45
+     Schedule VI - Accumulated Depreciation of Property,
+          Plant and Equipment. . . . . . . . . . . . . . . .  46
+     Schedule VIII - Valuation and Qualifying Accounts . . .  47
+     Schedule X - Supplementary Income Statement Information  47
+
+All other schedules called for under Regulation S-X are not
+submitted because they are not applicable or not required, or
+because the required information is included in the Consolidated
+Financial Statements and Notes thereto.
+<PAGE><TABLE>
+         WAUSAU PAPER MILLS COMPANY AND SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF INCOME
+
+<CAPTION>
+(all dollar amounts in thousands,
+except per share data)                  For the years ended August 31,
+                                        1994         1993         1992
+<S>                                  <C>          <C>          <C>     
+Net Sales                             $426,504     $381,816     $370,935
+  Cost of products sold                329,191      292,879      285,422
+                                      --------     --------     --------
+
+Gross Profit                            97,313       88,937       85,513
+  Selling, administrative and
+    research expenses                   27,323       26,027       23,099
+                                      --------     --------     --------
+
+Operating Profit                        69,990       62,910       62,414
+  Interest expense                   (   1,958)   (   1,272)   (   1,126)
+  Debt discount amortization                                   (      72)
+  Interest income                          111           38           38
+  Other income and expense - net     (      91)          95           55
+                                      --------     --------     --------
+
+Earnings Before Income Taxes and 
+Cumulative Effect of Changes in
+Accounting Principles                   68,052       61,771       61,309
+  Provision for income taxes            26,000       23,400       21,300
+                                      --------     --------     --------
+Earnings Before Cumulative
+Effect of Changes in Accounting
+Principles                              42,052       38,371       40,009
+  Cumulative effect of changes in
+    accounting principles
+      Postretirement benefits (net
+        of income taxes)                          (  15,750)
+      Income taxes                       1,000
+                                      --------     --------     --------
+
+Net Earnings                          $ 43,052     $ 22,621     $ 40,009
+                                      ========     ========     ========
+
+Earnings Per Share Before Cumulative
+Effect of a Change in Accounting
+Principle                             $   1.56     $   1.42     $   1.49
+Cumulative effect of a change in
+    accounting principles
+      Postretirement benefits (net
+        of income taxes)                          (    0.58)
+      Income taxes                        0.04
+                                      --------     --------     --------
+
+Net Earnings Per Common Share         $   1.60     $   0.84     $   1.49
+                                      ========     ========     ========
+
+<FN>
+See accompanying notes to consolidated financial statements.
+
+All per share data have been restated to reflect four-for-three stock splits occurring in
+1994 and 1993, and a two-for-one stock split occurring in 1992.
+</TABLE>
+<PAGE>
+
+<TABLE>
+  WAUSAU PAPER MILLS COMPANY AND SUBSIDIARIES
+                 CONSOLIDATED BALANCE SHEETS
+
+<CAPTION>
+(all dollar amounts in thousands)               As of August 31,
+                                               1994          1993
+<S>                                       <C>           <C>    
+Assets
+
+Current Assets
+Cash and cash equivalents                  $  3,214      $  2,624
+Accounts and notes receivable:
+  Customers, less allowances of
+    $4,644 in 1994 and $3,666
+    in 1993                                  33,603        28,862
+  Other                                       1,506         2,075
+Inventories                                  60,222        59,659
+Deferred income taxes                         6,931         5,239
+Other                                           458           462
+                                           --------      --------
+Total current assets                        105,934        98,921
+                                           --------      --------
+Property, Plant and Equipment
+Buildings                                    42,060        38,306
+Machinery and equipment                     320,546       290,317
+                                           --------      --------
+                                            362,606       328,623
+Less:  Accumulated depreciation           ( 133,178)    ( 117,308)
+                                           --------      --------
+                                            229,428       211,315
+Land                                          1,433         1,968
+Timberlands, net of depletion of
+  $598 in 1994 and $551 in 1993               1,541         1,490
+Capital additions in process                 14,670         7,066
+                                           --------      --------
+Total property, plant and equipment         247,072       221,839
+                                           --------      --------
+
+Other Assets
+Deferred charges and other assets             8,383         8,823
+                                           --------      --------
+Total Assets                               $361,389      $329,583
+                                           ========      ========
+<FN>
+See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+(all dollar amounts in thousands)               As of August 31,
+                                               1994          1993
+<S>                                       <C>           <C> 
+Liabilities
+
+Current Liabilities
+Current maturities of long-term debt       $    462      $    504
+Accounts payable                             25,325        18,833
+Accrued salaries and wages                    8,960         8,490
+Accrued and other liabilities                11,117        12,053
+Accrued income taxes                            192         2,034
+                                           --------      --------
+Total current liabilities                    46,056        41,914
+                                           --------      --------
+Long-Term Liabilities
+Long-term debt                               30,270        42,712
+Deferred income taxes                        31,945        28,220
+Postretirement benefits                      28,682        26,590
+Pension                                       6,139         3,940
+Other liabilities                             3,479         3,068
+                                           --------      --------
+Total long-term liabilities                 100,515       104,530
+                                           --------      --------
+Commitments and contingencies
+
+Shareholders' Equity
+Preferred stock:  (500,000 shares 
+  authorized) no par value
+    No shares issued
+Common stock:  (36,000,000 shares 
+  authorized) no par value
+    28,248,240 shares issued - 1994
+    21,186,683 shares issued - 1993          80,380        79,437
+Retained earnings                           143,424       106,859
+                                           --------      --------
+                                            223,804       186,296
+Less:  Treasury stock at cost 
+  (1,390,210 shares in 1994 and
+   967,193 shares in 1993)                (   7,604)    (   3,087)
+
+Net loss not recognized as 
+  pension expense (net of deferred
+  taxes)                                  (   1,382)    (      70)
+                                           --------      --------
+Total shareholders' equity                  214,818       183,139
+                                           --------      --------
+Total Liabilities and Shareholders' 
+  Equity                                   $361,389      $329,583
+                                           ========      ========
+</TABLE>
+<PAGE>
+<TABLE>
+               WAUSAU PAPER MILLS COMPANY AND SUBSIDIARIES
+             CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+<CAPTION>
+(all dollar amounts                  Common Stock         Additional
+in thousands except                  ------------           Paid-In     Retained
+share data)                    Shares Issued     Amount     Capital     Earnings
+<S>                             <C>           <C>          <C>        <C>       
+Balance August 31, 1991          7,945,250     $ 11,123     $ 67,430   $ 55,067
+  Net earnings, 1992                                                     40,009
+  Cash dividends declared                                             (   5,152)
+  Two-for-one stock split        7,945,249
+  Elimination of par value                       67,430    (  67,430)
+  Stock options exercised                     (       2)
+  Stock option discount
+    (net of deferred taxes)                         779
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes)             ----------     --------     --------   --------
+
+Balance August 31, 1992         15,890,499     $ 79,330     $      0   $ 89,924
+  Net earnings, 1993                                                     22,621
+  Cash dividends declared                                             (   5,686)
+  Four-for-three stock split     5,296,184
+  Stock options exercised                           107
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes)             ----------     --------     --------   --------
+
+Balance August 31, 1993         21,186,683     $ 79,437     $      0   $106,859
+  Net earnings, 1994                                                     43,052
+  Cash dividends declared                                             (   6,487)
+  Four-for-three stock split     7,061,557
+  Purchase of treasury shares
+  Stock options exercised                           943
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes)                            $            $          $
+                                ----------     --------     --------   --------
+
+Balance August 31, 1994         28,248,240     $ 80,380     $      0   $143,424
+                                ==========     ========     ========   ========
+</TABLE>
+<PAGE><TABLE>
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (continued)
+<CAPTION>
+(all dollar amounts                Treasury Stock                    Common       Total
+in thousands except                --------------    Net Pension  Stock-Shares
+Shareholders'
+share data)                       Shares     Amount   Adjustment   Outstanding    Equity
+<S>                           <C>          <C>        <C>          <C>          <C> 
+Balance August 31, 1991          (371,198) ($  3,158) ($    428)    7,574,052    $130,034
+  Net earnings, 1992                                                               40,009
+  Cash dividends declared                                                       (   5,152)
+  Two-for-one stock split        (371,197)                          7,574,052
+  Elimination of par value
+  Stock options exercised           4,000         17                    4,000          15
+  Stock option discount
+    (net of deferred taxes)                                                           779
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes)                                         304                       304
+                                  -------   --------    -------    ----------    --------
+
+Balance August 31, 1992          (738,395) ($  3,141) ($    124)   15,152,104    $165,989
+  Net earnings, 1993                                                               22,621
+  Cash dividends declared                                                       (   5,686)
+  Four-for-three stock split     (244,131)                          5,052,053
+  Stock options exercised          15,333         54                   15,333         161
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes                                           54                        54
+                                  -------   --------   --------    ----------    --------
+
+Balance August 31, 1993          (967,193) ($  3,087) ($     70)   20,219,490    $183,139
+  Net earnings, 1994                                                               43,052
+  Cash dividends declared                                                       (   6,487)
+  Four-for-three stock split     (319,695)                          6,741,862
+  Purchase of treasury shares    (190,000) (   4,959)               ( 190,000)  (   4,959)
+  Stock options exercised          86,678        442                   86,678       1,385
+  Change in unrecognized
+    pension expense (net of
+    deferred taxes)                         $         ($  1,312)                ($  1,312)
+                                --------    --------   --------    ----------    --------
+Balance August 31, 1994       (1,390,210)  ($  7,604) ($  1,382)   26,858,030    $214,818
+                               =========    ========   ========    ==========     =======
+<FN>
+See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+<TABLE>
+               WAUSAU PAPER MILLS COMPANY AND SUBSIDIARIES
+                  CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<CAPTION>
+(all dollar amounts in thousands)                      For the Years Ended August 31,
+                                                        1994        1993        1992
+<S>                                                  <C>         <C>         <C> 
+Operating Activities:
+Net earnings                                         $ 43,052    $ 22,621    $ 40,009
+Cumulative effect of accounting changes              (  1,000)     15,750
+Noncash items:
+  Provision for depreciation, depletion and
+   amortization                                        17,635      15,445      13,760
+  Loss on property, plant and equipment disposals         231         123         364
+  Deferred income taxes                                 3,033       2,568       4,704
+Changes in operating assets and liabilities:
+  Receivables                                        (  4,172)   (  1,929)   (  2,923)
+  Inventories                                        (    563)   ( 22,463)   (  7,661)
+  Other assets                                            423    (    907)        563
+  Accounts payable and other liabilities                7,942       3,062    (    703)
+  Accrued income taxes                               (  1,842)        105    (  2,216)
+                                                      -------     -------     -------
+
+Net Cash Provided by Operating Activities              64,739      34,375      45,897
+                                                      -------     -------     -------
+
+Investing Activities:
+Capital expenditures                                 ( 42,056)   ( 51,026)   ( 30,165)
+Proceeds from property, plant and equipment
+  disposal                                                615          52          35
+                                                      -------     -------     -------
+
+Net Cash Used in Investing Activities                ( 41,441)   ( 50,974)   ( 30,130)
+                                                      -------     -------     -------
+
+Financing Activities:
+Borrowings (repayments) under revolving credit
+  facility                                           ( 12,000)   (  7,000)      5,000
+Repayment of long-term debt                          (    508)   (    363)   (  8,651)
+Net proceeds from issuance of long-term notes                      30,000
+Net repayments of commercial paper                                           (  8,642)
+Dividends paid                                       (  6,291)   (  5,559)   (  5,000)
+Proceeds from stock option exercises                    1,050         161          15
+Payment for purchase of treasury stock               (  4,959)
+                                                      -------     -------     -------
+Net Cash Provided by (Used in) Financing Activities  ( 22,708)     17,239    ( 17,278)
+                                                      -------     -------     -------
+
+Net increase (decrease) in cash and cash equivalents      590         640    (  1,511)
+Cash and cash equivalents at beginning of year          2,624       1,984       3,495
+                                                      -------     -------     -------
+
+Cash and Cash Equivalents at End of Year             $  3,214    $  2,624    $  1,984
+                                                     ========    ========    ========
+
+Supplemental Cash Flow Information:
+Interest paid (net of amount capitalized)            $  1,903    $    928    $  1,554
+Income taxes paid                                      23,598      20,763      18,944
+<FN>
+Noncash investing and financing activities:  Capital lease obligations of $24, $550 and
+$80 in 1994, 1993 and 1992, respectively, were incurred when the company entered into
+leases for new equipment.
+
+See accompanying notes to consolidated financial statements.
+</TABLE>
+<PAGE>
+WAUSAU PAPER MILLS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1.  SIGNIFICANT ACCOUNTING POLICIES
+
+CONSOLIDATION - The consolidated financial statements include the
+accounts of the company and its subsidiaries.  All significant
+intercompany transactions, balances and profits have been
+eliminated in consolidation.
+
+REVENUE RECOGNITION - Revenue is recognized upon shipment of goods
+and transfer of title to the customer.  The company grants credit
+to customers in the ordinary course of business.  A substantial
+portion of the company's accounts receivable is with customers in
+various paper converting industries or the paper merchant
+business.  Concentrations of credit risk with respect to trade
+receivables are limited due to the large number of customers and
+their geographic dispersion.
+
+CASH EQUIVALENTS - The company defines cash equivalents as highly
+liquid, short-term investments with an original maturity of three
+months or less.
+
+INVENTORIES - Pulpwood, finished paper products and selected raw
+materials are valued at the lower of cost, determined on the last-
+in, first-out (LIFO) method, or market.  All other inventories are
+valued at the lower of average cost or market.
+
+PROPERTY, PLANT AND EQUIPMENT - Plant and equipment are stated at
+cost and are depreciated over the estimated useful lives of the
+assets using the straight-line method for financial statement
+purposes.  The cost and related accumulated depreciation of all
+plant and equipment retired or otherwise disposed of are removed
+from the accounts and any resulting gains or losses are included
+in the statements of income.
+
+Buildings are depreciated over a 25- to 45-year period; machinery
+and equipment over a 4- to 16-year period.  Maintenance and repair
+costs are charged to expense as incurred.  Renewals and
+improvements which extend the useful lives of the assets are added
+to the plant and equipment accounts.
+
+Equipment financed by long-term leases, which in effect are
+installment purchases, have been recorded as assets and the
+related obligations as debt.
+
+Land is stated at cost.  Timberlands are at cost less the pro rata
+cost of timber harvested since acquisition.  Depletion expense is
+calculated using the block method.
+
+INCOME TAXES - Deferred income taxes have been provided under the
+liability method.  Deferred tax assets and liabilities are
+determined based upon the estimated future tax effects of
+differences between the financial statement and tax bases of
+assets and liabilities, as measured by the current enacted tax
+rates.  Deferred tax expense is the result of changes in the
+deferred tax asset and liability.  See Note 8 for change in
+accounting principle in 1994.
+
+<PAGE>
+EARNINGS PER SHARE - Earnings per common share are based on the
+weighted average number of common shares outstanding.  Dilution of
+earnings per common share due to common stock equivalents (stock
+options) is negligible and, accordingly, no dilution has been
+reported.
+<TABLE>
+NOTE 2.  INVENTORIES
+<CAPTION>
+(all dollar amounts in thousands)              1994        1993
+<S>                                         <C>         <C> 
+Raw materials                               $ 21,508    $ 16,343
+Supplies                                      15,420      15,347
+Work in process and finished goods            37,128      34,933
+                                            --------    --------
+Inventories at cost                           74,056      66,623
+LIFO reserve                                ( 13,834)   (  6,964)
+                                            --------     -------
+
+Net inventories                             $ 60,222    $ 59,659
+                                            ========    ========
+</TABLE>
+Because various components of the inventories are valued by use of
+the last-in, first-out (LIFO) method, it is impracticable to
+segregate the LIFO reserve between raw materials, finished goods
+and work in process.
+<TABLE>
+NOTE 3.  ACCRUED AND OTHER LIABILITIES
+<CAPTION>
+(all dollar amounts in thousands)              1994        1993
+<S>                                         <C>         <C>  
+Employee retirement plans                   $  1,674    $  2,436
+Taxes other than income                        1,503       1,599
+Interest                                         419         388
+Stock appreciation rights                      2,873       3,427
+Other                                          4,648       4,203
+                                            --------    --------
+Totals                                      $ 11,117    $ 12,053
+                                            ========    ========
+</TABLE>
+<TABLE>
+NOTE 4.  DEBT
+
+The company's long-term debt, excluding current maturities as of
+August 31, is outlined below:
+<CAPTION>
+(All dollar amounts in thousands)              1994        1993
+<S>                                         <C>         <C> 
+6.03% Senior promissory notes               $ 30,000    $ 30,000
+Revolving credit facility agreement                       12,000
+Capitalized leases                               270         712
+                                            --------    --------
+Totals                                      $ 30,270    $ 42,712
+                                            ========    ========
+</TABLE>
+The company has outstanding $30 million in unsecured senior
+promissory notes.  Interest is payable quarterly on the
+outstanding balance at a rate of 6.03% per annum.  Principal is
+payable in ten equal semi-annual installments beginning
+December 18, 1995, with the final payment due June 16, 2000.
+<PAGE>
+
+During 1994, the company amended its revolving credit agreement it
+had previously established.  The amended agreement grants the
+company an unsecured revolving credit facility of $35 million with
+two banks which continues through August 1, 1997 at which time, or
+earlier at the company's option, the revolving credit converts to
+a term loan facility, and the loans then outstanding are payable
+in four equal annual installments.  There were no borrowings
+against this agreement at August 31, 1994.  The company may elect
+the base for interest from either domestic rate loans, eurodollar
+loans, adjusted CD rate loans, offered loans or treasury rate
+loans.  The weighted-average interest rate on borrowings under the
+revolving credit facility was 3.58% at August 31, 1993.  The
+credit agreement provides for commitment fees during the revolving
+loan period.  Fees are based on .125% per annum on the unused
+portions of the commitment, payable monthly.
+
+The senior promissory notes and the revolving credit facility
+agreement require the company to comply with certain covenants,
+one of which requires the company maintain minimum net worth.  At
+August 31, 1994, $63,704,000 of retained earnings was available
+for payment of cash dividends without violation of the minimum net
+worth covenant related to the senior promissory notes.
+
+The company maintains a commercial paper placement agreement with
+a bank to issue up to $40 million of unsecured debt obligations
+which requires unused credit availability under its revolving
+credit agreement equal to the amount of outstanding commercial
+paper.
+
+
+The difference between the book and the fair market value of the
+long-term debt is not material.
+<TABLE>
+The aggregate annual maturities of long-term debt for the next
+five years are:
+<CAPTION>
+(all dollar amounts                                       There-
+ in thousands)     1995    1996    1997    1998    1999   after
+                   ----    ----    ----    ----    ----   -----
+<S>              <C>     <C>     <C>     <C>     <C>      <C>
+                 $  462  $6,270  $6,000  $6,000  $6,000   $6,000
+</TABLE>
+Annual maturities will be affected by future borrowing under the
+revolving credit facility agreement.
+
+The banks participating in the revolving credit agreement have
+provided separate uncommitted revolving lines of credit to the
+company in an aggregate amount of up to $30 million.  The specific
+terms of any revolving loans borrowed pursuant to these lines of
+credit will be negotiated at the time of the borrowing and any
+revolving loans so borrowed will be payable on demand.  In
+addition, the company has a $2 million line of credit with
+interest payable at the prime rate.  The line does not require a
+compensating balance or a commitment fee.  There was no borrowing
+against these lines at August 31, 1994.  
+<PAGE>
+
+NOTE 5.  LEASE COMMITMENTS
+<TABLE>
+The company has various leases for real estate, mobile equipment
+and machinery which generally provide for renewal privileges or
+for purchase at option prices established in the lease agreements. 
+Property, plant and equipment includes the following amounts for
+capitalized leases:
+<CAPTION>
+(all dollar amounts in thousands)        1994         1993
+<S>                                  <C>          <C>
+Machinery and equipment               $  2,083     $  2,059
+Allowance for amortization           (   1,168)   (     776)
+                                      --------     --------
+Net value                             $    915     $  1,283
+                                      ========     ========
+</TABLE>
+Lease amortization is included in depreciation expense.
+<TABLE>
+Future minimum payments, by year and in the aggregate, under
+capitalized leases and noncancelable operating leases with initial
+or remaining terms of one year or more consisted of the following
+at August 31, 1994:
+<CAPTION>
+                                              Capital    Operating
+(all dollar amounts in thousands)             Leases       Leases
+<S>                                          <C>          <C>
+1995                                         $   496      $   204
+1996                                             279          153
+1997                                                           55
+1998                                                           33
+1999                                                           33
+Thereafter                                                    176
+                                             -------      -------
+Total Minimum Payments                           775          654
+Amounts representing interest                (    43)            
+                                             -------      -------
+Present value of net minimum lease payments  $   732      $   654
+                                             =======      =======
+</TABLE>
+The future minimum payments for capitalized leases are reflected
+in the aggregate annual maturities of long-term debt disclosure in
+Note 4.
+<TABLE>
+Rental expense for all operating leases consisted of:
+<CAPTION>
+(all dollar amounts in thousands)     1994       1993       1992
+<S>                                 <C>        <C>        <C>
+Minimum rentals                     $ 1,334    $ 1,183    $ 1,115
+Contingent rentals                      213        366        397
+                                    -------    -------    -------
+Totals                              $ 1,547    $ 1,549    $ 1,512
+                                    =======    =======    =======
+</TABLE>
+Contingent rentals are based upon usage.
+<PAGE>
+<TABLE>
+NOTE 6.  INTEREST EXPENSE AND CAPITALIZED INTEREST
+<CAPTION>
+(all dollar amounts in thousands)   Total                   Net
+                                   Interest  Capitalized  Interest
+                                   Expense    Interest     Expense
+<S>                                <C>        <C>         <C>
+1994                               $  2,185   $    227    $  1,958
+1993                                  1,350         78       1,272
+1992                                  1,206         80       1,126
+</TABLE>
+NOTE 7.  RETIREMENT PLAN
+
+Substantially all employees are covered under retirement plans. 
+The defined benefit plans covering salaried employees provide
+benefits based on final average pay formulas; the plans covering
+hourly employees provide benefits based on years of service and
+fixed benefit amounts for each year of service.  The plans are
+funded in accordance with federal laws and regulations.
+
+The company selected a measurement date of plan assets of May 31,
+1994 and 1993.
+<TABLE>
+The components of net periodic pension cost follow:
+<CAPTION>
+(all dollar amounts in thousands)     1994       1993       1992
+<S>                                <C>        <C>        <C>
+Service cost                        $ 2,020    $ 1,663    $ 1,279
+Interest cost                         3,791      3,233      2,656
+Actual return on assets            (  1,066)  (  3,875)  (  4,568)
+Net amortization and deferral      (  1,843)     1,567      2,558
+                                    -------    -------    -------
+Net pension cost                    $ 2,902    $ 2,588    $ 1,925
+                                    =======    =======    =======
+</TABLE>
+<PAGE>
+<TABLE>
+The following table sets forth the benefit obligations and funded
+status of the plans at August 31:
+<CAPTION>
+                                          1994                          1993
+                                Plan With      Plan With      Plan With      Plan With
+                                Assets Ex-     Assets Less    Assets Ex-     Assets Less
+                                ceeding        Than Accumu-   ceeding        Than Accumu-
+                                Accumulated    lated          Accumulated    lated
+(all dollar amounts in          Benefit        Benefit        Benefit        Benefit
+thousands)                      Obligation     Obligation     Obligation     Obligation
+<S>                              <C>           <C>            <C>            <C>    
+Actuarial present value of
+  benefit obligations:
+Vested benefits                  ($ 25,203)    ($ 16,367)     ($ 22,897)     ($ 12,544)
+Nonvested benefits               (   4,465)    (   3,564)     (   4,737)     (   3,816)
+                                  --------      --------       --------       --------
+Accumulated benefit obligations  (  29,668)    (  19,931)     (  27,634)     (  16,360)
+Additional amounts related to
+  projected salary increases     (   3,986)    (     434)     (   3,602)     (     278)
+                                  --------      --------       --------       --------
+Projected benefit obligation     (  33,654)    (  20,365)     (  31,236)     (  16,638)
+Plan assets at market value at
+  May 31                            33,268        12,890         32,841         12,207
+                                  --------      --------       --------       --------
+Plan assets in excess of (less
+  than) projected benefit 
+  obligation                     (     386)    (   7,475)         1,605      (   4,431)
+Unrecognized net loss (gain)
+  from past experience and 
+  effect of changes in 
+  assumptions                        1,424         2,704      (   1,316)           115
+Prior service costs not yet
+  recognized                         3,210         2,817          3,482          2,986
+Unrecognized initial net
+  obligation (asset)             (   1,682)          645      (   1,854)           717
+Cash contributions to plans
+  subsequent to May 31                  80             8            158
+Adjustment to recognize minimum
+  liability                                    (   5,756)                    (   3,556)
+                                 ---------      --------       --------       --------
+Net pension asset (liability)
+  recognized in the consolidated
+  balance sheets                 $   2,646     ($  7,058)      $  2,075      ($  4,169)
+                                 =========      ========       ========       ========
+</TABLE>
+Projected benefit obligations were determined using an assumed
+discount rate of 7.5% and 8.0% and assumed rates of increases in
+future compensation levels of 5.0% and 5.5% in 1994 and 1993,
+respectively.  The assumed long-term rate of return on plan assets
+was 8.0%.  Plan assets consist principally of publicly traded
+stocks and fixed income securities.
+
+The company's defined contribution pension plan provides for
+company contributions based on a percentage of employee
+contributions.  The cost of such plans totaled $445,000 in 1994,
+$420,000 in 1993 and $637,000 in 1992.
+
+The company has deferred compensation or supplemental retirement
+agreements with certain present and past key officers and
+<PAGE>
+employees.  The principal cost of such plans is being or has been
+accrued over the period of active employment to the full
+eligibility date.  The annual cost of the deferred compensation
+and supplemental retirement agreements does not represent a
+material amount.
+
+In the fourth quarter of fiscal 1993, the company adopted the
+provisions of Statements of Financial Accounting Standard (SFAS)
+No. 106 "Employers' Accounting for Postretirement Benefits Other
+than Pensions," effective as of September 1, 1992.
+
+SFAS 106 requires the estimated cost of retiree benefit payments,
+primarily health and life insurance, to be accrued during the
+employees' active service period.  Previously, the cost of these
+benefits was expensed as paid.  The company elected to immediately
+recognize the accumulated liability as of September 1, 1992, which
+resulted in a one-time noncash charge against earnings of
+$25,000,000 before taxes and $15,750,000 after taxes, or $.58 per
+share (as restated).  In addition, the effect of this change on
+1993 operating results was to recognize an additional pretax
+expense of $1,590,000 and after-tax expense of $987,000, or $.04
+per share (as restated).  Previously reported quarterly earnings
+for 1993 have been restated for the effect of this change, as if
+it had been adopted on September 1, 1992, as presented on page 41.
+<PAGE>
+Postretirement benefit cost includes the following components:
+<TABLE>
+<CAPTION>
+(all dollar amounts in thousands)              1994        1993
+<S>                                         <C>         <C>
+Service cost                                $    994    $    750
+Interest cost                                  2,085       1,875
+                                            --------    --------
+Net periodic postretirement benefit cost    $  3,079    $  2,625
+                                            ========    ========
+</TABLE>
+<TABLE>
+The plan's status at August 31, was as follows:
+<CAPTION>
+(all dollar amounts in thousands)              1994        1993
+<S>                                         <C>         <C>
+Actuarial present value of benefit
+  obligation:
+Retirees                                    $  9,295    $  7,699
+Fully eligible active participants             8,326       8,490
+Other active participants                      9,853      10,401
+                                            --------    --------
+Accumulated postretirement benefit
+  obligation                                  27,474      26,590
+Unrecognized net gain                          1,208            
+                                            --------    --------
+Accrued postretirement benefit liability    $ 28,682    $ 26,590
+                                            ========    ========
+</TABLE>
+For 1994, the assumed health care cost trend rate used in
+measuring the accumulated postretirement benefit obligation was
+12% declining by 1% annually for seven years to an ultimate rate
+of 5%.  The weighted average discount rate was 7.5%.
+<PAGE>
+
+For 1993, the assumed health care cost trend rate used in
+measuring the accumulated postretirement benefit obligation was
+13.0% declining by 1.0% annually for seven years to an ultimate
+rate of 6.0%.  The weighted average discount rate used was 8.0%.
+
+A one-percentage-point increase in the assumed health care cost
+trend rates would increase the accumulated postretirement benefit
+obligation as of August 31, by approximately $3,541,000 or 12.9%
+in 1994 and $3,358,000, or 12.6% in 1993.  The effect of this
+change on the aggregate of the service and interest cost would be
+an increase of $451,000 or 14.6% in 1994 and $593,000, or 22.6%
+for 1993.
+
+FUTURE ACCOUNTING CHANGE:  Statement of Financial Accounting
+Standard (SFAS) No. 112, "Employers' Accounting for Postemployment
+Benefits," effective September 1, 1994, is not expected to have a
+material impact on the company's financial position or results of
+operations.
+
+NOTE 8.  INCOME TAXES
+
+Effective September 1, 1993, the company adopted the liability
+method of accounting for income taxes prescribed by Statement of
+Financial Accounting Standard (SFAS) No. 109.  Deferred tax assets
+and liabilities are determined based on the estimated future tax
+effects of temporary differences between the financial statement
+and tax bases of assets and liabilities, as measured by the
+current enacted tax rates.  Deferred tax expense is the result of
+changes in the deferred tax assets and liability.  Previously, the
+company used the deferral method which provided for deferred
+income taxes  on the basis of income and expense items reported
+for financial accounting and tax purposes in different periods.
+
+The company elected to recognize the cumulative effect of the
+change as of September 1, 1993, totaling $1,000,000, as a credit
+to income in the current year.  The effect of the change in method
+did not have a material effect in 1994.
+<TABLE>
+The provision for income taxes is comprised of the following:
+<CAPTION>
+(all dollar amounts in thousands)      1994       1993       1992
+<S>                                 <C>        <C>        <C>
+Currently payable
+  Federal                           $ 20,245   $ 18,821   $ 15,338
+  State                                2,722      1,820      1,013
+                                    --------   --------   --------
+                                      22,967     20,641     16,351
+                                    --------   --------   --------
+Deferred
+  Federal                              2,688      1,571      4,161
+  State                                  345      1,188        788
+                                    --------   --------   --------
+                                       3,033      2,759      4,949
+                                    --------   --------   --------
+Totals                              $ 26,000   $ 23,400   $ 21,300
+                                    ========   ========   ========
+</TABLE>
+<PAGE>
+<TABLE>
+A reconciliation between taxes computed at the federal statutory
+rate and the consolidated effective tax rate follows:
+<CAPTION>
+(all dollar amounts in thousands)     1994                 1993                 1992
+<S>                            <C>          <C>     <C>          <C>     <C>         <C> 
+
+Federal statutory tax rate     $ 23,818     35%     $ 21,416     35%     $ 20,845     34%
+State taxes net of federal
+  tax benefits                    1,994      3%        1,179      2%        1,189      2%
+Other                               188                  805      1%    (     734)   ( 1%)
+                               --------     ---     --------     ---     --------     ---
+
+Consolidated effective tax     $ 26,000     38%     $ 23,400     38%     $ 21,300     35%
+                               ========     ===     ========     ===     ========     ===
+</TABLE>
+<TABLE>
+Deferred income taxes are provided for the temporary differences
+between the financial reporting basis and the tax basis of the
+company's assets and liabilities.  The major temporary differences
+that give rise to the deferred tax assets and liabilities at
+August 31, 1994 are as follows:
+<CAPTION>
+(all dollar amounts in thousands)
+<S>                                            <C>
+Deferred tax asset:
+Allowances on accounts receivable               $    787
+Accrued compensated absences                       1,689
+Stock appreciation rights plans                    1,149
+Inventories                                        1,630
+Postretirement benefits                           11,454
+Other                                              1,338
+                                                --------
+Gross deferred tax asset                          18,047
+                                                --------
+Deferred tax liability:
+Property, plant and equipment                  (  41,875)
+Other                                          (   1,186)
+                                                --------
+Gross deferred tax liability                   (  43,061)
+                                                --------
+Net deferred tax liability                     ($ 25,014)
+                                                ========
+</TABLE>
+<TABLE>
+The total deferred tax liabilities (assets) as presented in the
+accompanying balance sheets are as follows:
+<CAPTION>
+(all dollar amounts in thousands)
+<S>                                            <C>
+Net long-term deferred tax liabilities          $ 31,945
+Net current deferred tax assets                (   6,931)
+                                                --------
+Net deferred tax liability                      $ 25,014
+                                                ========
+</TABLE>
+<PAGE>
+<TABLE>
+For the years ended August 31, 1993 and 1992, the components of
+deferred tax expense are as follows:
+<CAPTION>
+(all dollar amounts in thousands)           1993         1992
+<S>                                     <C>          <C>
+Excess of tax over book depreciation     $  4,571     $  3,508
+Bad debt allowance                      (      12)          55
+Accrued expenses                        (   1,946)   (      46)
+Other - Net                                   146        1,432
+                                         --------     --------
+Totals                                   $  2,759     $  4,949
+                                         ========     ========
+</TABLE>
+NOTE 9.  STOCK OPTIONS AND APPRECIATION RIGHTS
+
+The company maintains the 1981 and 1991 Employee Stock Option
+Plans.  Each plan specifies purchase price, time and method of
+exercise.  Payment of the option price may be made in cash or by
+tendering an amount of common stock having a fair market value
+equal to the option price.
+
+Options are granted for terms of 10 to 20 years, the option price
+being equal to the fair market value of the company's common stock
+at the date of grant under the 1981 plan and for incentive options
+granted under the 1991 plan.  The option price for non-qualified
+options under the 1991 plan may not be less than 50% of the fair
+market value of the company's common stock at the date of grant.
+
+During 1992, options were granted under the 1991 Employee Stock
+Option Plan.  The options are earned over a three-year period
+based upon the satisfaction of operating goals set forth in the
+agreement.  A total of 88,894 and 65,780 options terminated in
+1994 and 1993, respectively, when operating goals were not met.
+<TABLE>
+The following table summarizes the activity relating to the
+company's stock option plans:
+<CAPTION>
+STOCK OPTIONS:                              1994            1993            1992
+<S>                                  <C>             <C>             <C>
+Options outstanding at beginning
+  of the year (number of shares)         490,744         476,968         305,412
+Granted                                    7,112         113,333         178,667
+Terminated                              ( 88,894)      (  76,447)
+Exercised                               ( 89,379)      (  23,110)      (   7,111)
+                                         -------        --------        --------
+Options outstanding at end of
+  year (number of shares)                319,583*        490,744         476,968
+                                         =======         =======         =======
+Options exercisable at end of
+  year (number of shares)                296,916**       338,301         287,635
+                                         =======         =======         =======
+Price range of options exercised     $2.07-13.75     $2.07-18.06     $      2.07
+Price range of outstanding options   $2.07-24.94     $2.07-24.94     $2.07-18.06
+                                     -----------     -----------     -----------
+<FN>
+*285,476 and 34,107 options granted and remain outstanding under
+the 1991 Employee Stock Option Plan and the 1981 Employee Stock
+Option Plan, respectively.
+
+**262,809 and 34,107 options granted and are exercisable under the
+1991 Employee Stock Option Plan and the 1981 Employee Stock Option
+Plan, respectively.
+</TABLE>
+<PAGE>
+All shares and option prices have been restated to reflect the
+four-for-three stock splits occurring in 1994 and 1993, and the
+two-for-one stock split occurring in 1992.
+
+The 1990 Stock Appreciation Rights Plan entitles certain officers
+and key employees the right to receive cash equal to the sum of
+the appreciation in value of the stock and the hypothetical value
+of cash dividends which would have been paid on the stock covered
+by the grant assuming reinvestment in company stock.  The 1988
+Management Incentive Plan entitles certain management employees
+the right to receive similar cash payments.  The stock
+appreciation rights granted under both plans may be exercised in
+whole or in such installments and at such times as specified in
+the grant.  In all instances, the rights lapse if not exercised
+within 20 years of the grant date.  Compensation expense is
+recorded with respect to the rights based upon the quoted market
+value of the shares and the exercise provisions.
+<TABLE>
+The following table summarizes the activity relating to the
+company's stock appreciation rights plans:
+<CAPTION>
+STOCK APPRECIATION RIGHTS:           1994        1993       1992
+<S>                             <C>         <C>        <C>
+Rights outstanding at beginning
+  of the year (number of shares)  144,222     221,644    243,156
+Exercised                         ( 10,000)  (  77,422)  ( 21,512)
+                                   -------    --------    -------
+Rights outstanding at end of
+  year (number of shares)          134,222     144,222    221,644
+                                   =======     =======    =======
+Rights exercisable at end of
+  year (number of shares)          134,222     117,555    180,311
+                                   =======     =======    =======
+Price range of outstanding
+  stock appreciation rights     $6.14-8.61  $6.14-8.61 $6.14-8.61
+                                ----------  ---------- ----------
+RIGHTS GRANTED AND REMAIN 
+OUTSTANDING UNDER THE FOLLOWING
+PLANS AT THE END OF THE YEAR        1994      1993      1992
+                                    ----      ----      ----
+
+1990 Stock Appreciation Rights 
+  Plan                                                   66,667
+1988 Management Incentive Plan      134,222   144,222   154,977
+                                    -------   -------   -------
+Total rights outstanding at end
+  of the year (number of shares)    134,222   144,222   221,644
+                                    =======   =======   =======
+RIGHTS EXERCISABLE UNDER THE
+FOLLOWING PLANS AT THE END
+OF THE YEAR                           1994      1993      1992
+                                      ----      ----      ----
+
+1990 Stock Appreciation Rights 
+  Plan                                                   66,667
+1988 Management Incentive Plan      134,222   117,555   113,644
+                                    -------   -------   -------
+Total rights exercisable at end
+  of the year (number of shares)    134,222   117,555   180,311
+                                    =======   =======   =======
+<FN>
+All shares and price ranges have been restated to reflect the
+four-for-three stock splits occurring in 1994 and 1993, and the
+two-for-one stock split occurring in 1992.
+</TABLE>
+<PAGE>
+
+The company maintains the 1991 Dividend Equivalent Plan. 
+Participants are entitled to receive the hypothetical value of
+cash dividends which would have been paid on the stock covered by
+the grant assuming reinvestment in company stock.  During 1992,
+178,667 dividend equivalents were granted under the plan.  The
+dividend equivalents granted in 1992 and 24,000 of the dividend
+equivalents granted in 1993 are earned over a three-year period
+based upon the satisfaction of operating goals set forth in the
+agreement.  A total of 81,778 and 65,780 dividend equivalents
+terminated in 1994 and 1993, respectively, when operating goals
+were not met.
+<TABLE>
+<CAPTION>
+DIVIDEND EQUIVALENTS:                 1994      1993      1992
+<S>                                <C>       <C>        <C>
+Equivalents outstanding at
+  beginning of the year 
+  (number of shares)                407,999   400,889   222,222
+Granted                                        90,667   178,667
+Exercised                          (222,222) (  7,110)
+Terminated                         ( 81,778) ( 76,447)
+                                    -------   -------   -------
+Equivalents outstanding at end
+  of year (number of shares)        103,999   407,999   400,889
+                                    =======   =======   =======
+Equivalents exercisable at end
+  of year (number of shares)        103,999   288,889   222,222
+                                    =======   =======   =======
+<FN>
+All shares have been restated to reflect the four-for-three stock
+splits occurring in 1994 and 1993, and the two-for-one stock split
+occurring in 1992.
+</TABLE>
+
+The impact of all stock options, dividend equivalents and stock
+appreciation rights for the years ended August 31, 1994, 1993 and
+1992 was income of $283,000, expense of $1,934,000 and expense of
+$1,208,000, respectively.
+
+NOTE 10.  SHAREHOLDERS' EQUITY
+
+On December 16, 1991, the shareholders of the company approved a
+resolution which amended the company's Restated Articles of
+Incorporation to increase the number of authorized shares of
+common stock from 12,000,000 shares, par value $.50 (stated value
+$1.40), to 36,000,000 shares, without par value.  The authorized
+shares of preferred stock were changed from $1.00 par value to
+shares without par value.  The additional paid-in capital account
+has been combined with common stock as presented in the
+Consolidated Statements of Shareholders' Equity.
+
+NOTE 11.  RESEARCH EXPENSES
+
+Research expenses charged to operations were $1,158,000 in 1994,
+$957,000 in 1993 and $868,000 in 1992.
+<PAGE>
+
+NOTE 12.  COMMITMENTS, CONTINGENCIES AND RELATED PARTY
+TRANSACTIONS
+
+The company is involved in various legal proceedings in the normal
+course of business.  It is the opinion of management that any
+judgment or settlement resulting from pending or threatened
+litigation would not have a material adverse effect on the
+financial position or on the operations of the company.
+
+As of August 31, 1994, the company was committed to spend
+approximately $30 million to complete capital projects which were
+in various stages of completion.
+
+Rhinelander Paper Company Inc., a subsidiary of the company, has
+signed an agreement with Wisconsin Public Service Corporation. 
+Under the terms of the agreement, Wisconsin Public Service
+Corporation will fund, construct, own and operate a high-
+efficiency cogeneration power plant.  The Rhinelander division
+will become the plant's exclusive steam customer.  The agreement
+has a term of 35 years from the initial date of commercial
+operation, which is projected to be in 1998.  Upon start up of the
+project and delivery of steam, the company will incur fixed and
+variable charges under the agreement.  Fixed charges will be
+subject to certain force majeure and payment deferral provisions,
+and, unless the utility company fails to supply steam, such fixed
+costs are approximately $7 million annually.  In addition, the
+variable cost of steam and electricity purchased is determined by
+a formula based on the operating and maintenance costs of the
+facility determined on a monthly basis.
+
+During fiscal 1994, the company purchased 100,000 shares of the
+company's no-par value common stock from a director in a private
+transaction at $27.625 per share, the average market price on the
+day of the transaction.
+
+NOTE 13.  MAJOR CUSTOMERS
+
+One customer accounted for 12.3% of net sales aggregating
+$52,313,000, 11.2% of net sales aggregating $42,812,000 and 10.4%
+of net sales aggregating $38,482,000 in 1994, 1993 and 1992,
+respectively.
+<PAGE>
+<TABLE>
+QUARTERLY DATA (UNAUDITED)
+<CAPTION>
+(all dollar amounts                    1994                                    1993
+in thousands, except                   ----                                    ----
+per share data)        Fourth     Third    Second     First    Fourth     Third    Second   First
+<S>                  <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>  
+Net Sales            $111,355  $108,709  $ 97,709  $108,731  $ 99,485  $100,268  $ 87,269  $ 94,794
+
+Gross profit           22,179    26,413    22,830    25,891    26,691    25,333    17,927    18,986
+Operating profit       15,442    20,748    15,335    18,465    18,316    18,806    13,333    12,455
+
+Earnings before
+  cumulative effect
+  of accounting 
+  changes               9,361    12,516     9,114    11,061    10,676    11,583     8,305     7,807
+  Per share             $0.35     $0.46     $0.34     $0.41   $  0.39   $  0.43   $  0.31   $  0.29
+Net earnings (loss)     9,361    12,516     9,114    12,061    10,676    11,583     8,305   ( 7,943)
+  Per share             $0.35     $0.46     $0.34     $0.45   $  0.39   $  0.43   $  0.31   $ (0.29)
+
+Per share basis:
+  Cash dividends*       $0.06     $0.06     $0.12             $0.0525   $0.0525   $ 0.105
+  Common Stock 
+   price 
+   (closing)**
+    High              $ 26.50   $ 34.00   $ 32.63   $ 30.38   $ 29.63   $ 26.63   $ 27.00   $ 27.29
+    Low               $ 22.25   $ 25.50   $ 27.94   $ 27.56   $ 24.00   $ 22.31   $ 22.01   $ 17.86
+<FN>
+*Dividends reported as of declaration date.  During each year
+presented, two quarterly dividends were declared in the second
+quarter.
+**Such prices reflect the high and low "closing" price quotation
+on the Nasdaq National Market System and do not reflect markups,
+markdowns or commissions and may not necessarily reflect actual
+transactions.
+</TABLE>
+The estimated effective tax rate utilized for the first three
+quarters of each fiscal year was different than the final annual
+effective rate and the adjustment of income taxes was all
+reflected in the quarter ended August 31 of each fiscal year.
+
+All per share data has been restated to reflect the four-for-three
+stock splits occurring in 1994 and 1993. 
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURES.
+
+None.
+
+                                PART III
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+Information relating to directors is incorporated in this 10-K by
+reference to the table on page 4 of the registrant's 1994 Proxy
+Statement.  Information relating to officers is found in Part I of
+this Form 10-K.
+<PAGE>
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+Information relating to executive compensation is incorporated in
+this 10-K by reference to the registrant's 1994 Proxy Statement
+page 5 under the subcaption "Director Compensation" and pages 6
+thru 11.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT.
+
+Information relating to security ownership of certain beneficial
+owners and management is incorporated by reference to the
+registrant's 1994 Proxy Statement under the caption "Beneficial
+Ownership of Shares," pages 2 and 3.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+During fiscal 1994, the company purchased 100,000 shares of the
+company's no-par value common stock from David B. Smith, Jr., a
+director, in a private transaction at $27.625 per share, the
+average market price on the day of the transaction.
+
+                                 PART IV
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+FORM 8-K.
+
+(a)   Financial statements and financial statement schedules,
+      filed as part of this report and required by Item 14(d), are
+      set forth on page 18 herein.
+
+(b)   Reports on Form 8-K.
+      No reports on Form 8-K were filed by the company during the
+      fourth quarter of fiscal 1994.
+
+(c)   Exhibits required by Item 601 of Regulation S-K.
+
+The following exhibits are filed with the Securities and Exchange
+Commission as part of this report.
+
+Exhibit 3 - Articles of Incorporation and Bylaws
+
+     a.     Articles of Incorporation, as amended
+            12/18/91 . . . . . . . . . . . . . . . . .    33-45(2)
+     b.     Bylaws, as restated 7/17/92. . . . . . . .    46-81(2)
+
+Exhibit 4 - Instruments Defining the Rights of
+Security Holders
+
+     a.     Articles and Bylaws (see Exhibit 3)
+
+Exhibit 10 - Material Contracts*
+
+     a.     Executive Officers' Deferred Compensation
+            Retirement Plan, as amended 5/20/93. . . .    40-54(1)
+<PAGE>
+     b.     Incentive Compensation Plans, as amended
+            10/23/92 and 10/28/93 (Printing and
+            Writing Division and Rhinelander Paper
+            Company, Inc.) . . . . . . . . . . . . . .    55-62(1)
+     c.     Corporate Management Incentive Plan, as
+            amended 8/19/87. . . . . . . . . . . . . .    63-69(1)
+     d.     Chief Executive Officer's Incentive
+            Compensation Plan (1993 and 1994). . . . .       70(1)
+     e.     1988 Stock Appreciation Rights Plan,
+            as amended 4/17/91 . . . . . . . . . . . .  106-114(3)
+     f.     1988 Management Incentive Plan, as
+            amended 4/17/91. . . . . . . . . . . . . .  115-123(3)
+     g.     1990 Stock Appreciation Rights Plan,
+            as amended 4/17/91 . . . . . . . . . . . .  124-132(3)
+     h.     Deferred Compensation Agreement dated
+            March 2, 1990, as amended July 1, 1994
+     i.     1991 Employee Stock Option Plan. . . . . .  133-146(3)
+     j.     1991 Dividend Equivalent Plan. . . . . . .  147-155(3)
+     k.     Supplemental Retirement Benefit Plan
+            dated January 16, 1992 . . . . . . . . . .    90-97(2)
+     l.     Directors' Deferred Compensation Plan. . .    71-86(1)
+     m.     Director Retirement Benefit Policy . . . .    87-88(1)
+
+*All exhibits represent executive compensation plans and
+arrangements.
+
+Exhibit 22 - Subsidiaries. . . . . . . . . . . . . . .      89(1)
+
+Exhibit 27 - Financial Data Schedule (electronically transmitted
+filing only)
+
+Page numbers set forth herein correspond to the page numbers using
+the sequential numbering system, where such exhibit can be found
+in the following Annual Reports on Form 10-K:
+
+     (1)    Registrant's Annual Report on Form 10-K for the
+            fiscal year ended August 31, 1993; Commission File
+            Number 0-7574.
+     (2)    Registrant's Annual Report on Form 10-K for the fiscal
+            year ended August 31, 1992; Commission File
+            Number 0-7574.
+     (3)    Registrant's Annual Report on Form 10-K for the fiscal
+            year ended August 31, 1991; Commission File
+            Number 0-7574.
+
+The above exhibits are available upon request in writing from the
+Secretary, Wausau Paper Mills Company, P.O. Box 1408, Wausau,
+Wisconsin 54402-1408.
+
+
+
+<PAGE><TABLE>
+SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+<CAPTION>
+                                                                  Other
+                             Balance                             Changes      Balance
+(all dollar amounts in    at Beginning Additions   Retirements     Add        at End
+thousands)                   of Year    at Cost     and Sales    (Deduct)     of Year
+<S>                         <C>        <C>         <C>           <C>          <C>   
+Year Ended August 31, 1992
+Buildings                   $ 23,313    $ 6,204    ($    319)                 $ 29,198
+Machinery and equipment      228,337     21,425    (   1,408)                  248,354
+                            --------    -------     --------      --------    --------
+                             251,650     27,629    (   1,727)                  277,552
+
+Land                           1,058         44                                  1,102
+Timberlands                    1,575                             (      49)      1,526
+Capital additions in process   4,298      4,104                                  8,402
+                            --------    -------     --------      --------    --------
+Totals                      $258,581    $31,777    ($  1,727)    ($     49)   $288,582
+                            --------    -------     --------      --------    --------
+Year Ended August 31, 1993
+Buildings                   $ 29,198    $ 9,311    ($     30)    ($    173)   $ 38,306
+Machinery and equipment      248,354     42,624    (     661)                  290,317
+                            --------    -------     --------      --------    --------
+                             277,552     51,935    (     691)    (     173)    328,623
+
+Land                           1,102        694    (       1)          173       1,968
+Timberlands                    1,526          4                  (      40)      1,490
+Capital additions in process   8,402   (  1,336)                                 7,066
+                            --------    -------     --------      --------    --------
+Totals                      $288,582    $51,297    ($    692)    ($     40)   $339,147
+                            --------    -------     --------      --------    --------
+Year Ended August 31, 1994
+
+Buildings                   $ 38,306   $  4,015    ($     66)    ($    195)   $ 42,060
+Machinery and equipment      290,317     31,993    (   2,495)          731     320,546
+                            --------   --------     --------      --------    --------
+
+                             328,623     36,008    (   2,561)          536     362,606
+
+Land                           1,968         81    (      80)    (     536)      1,433
+Timberlands                    1,490        107    (       9)    (      47)      1,541
+Capital additions in process   7,066      7,604                                 14,670
+                            --------   --------     --------      --------    --------
+Totals                      $339,147   $ 43,800    ($  2,650)    ($     47)   $380,250
+                            ========   ========     ========      ========    ========
+</TABLE>
+Depreciation and Amortization
+
+The annual provisions for depreciation and amortization have been
+computed principally in accordance with the following ranges of
+rates (applied on the straight-line method):
+
+  Buildings . . . . . . . . . . 2.25%-4%
+  Machinery and equipment . . . 6.25%-25%
+<PAGE>
+<TABLE>
+SCHEDULE VI - ACCUMULATED DEPRECIATION OF PROPERTY, PLANT AND EQUIPMENT
+<CAPTION>
+                                         Additions                   Other
+                              Balance   Charged to                  Changes    Balance
+(all dollar amounts in     at Beginning  Costs and                    Add      at End
+thousands)                    of Year     Expense    Retirements    (Deduct)   of Year
+<S>                          <C>         <C>         <C>           <C>        <C>
+Year Ended August 31, 1992
+Buildings                    $  7,364    $    631    ($    187)    $          $  7,808
+Machinery and equipment        82,759      12,971    (   1,141)                 94,589
+                             --------    --------     --------     --------   --------
+Totals                       $ 90,123    $ 13,602    ($  1,328)    $          $102,397
+                             --------    --------     --------     --------   --------
+Year Ended August 31, 1993
+Buildings                    $  7,808    $    809    ($     22)    $          $  8,595
+Machinery and equipment        94,589      14,579    (     455)                108,713
+                             --------    --------     --------     --------   --------
+Totals                       $102,397    $ 15,388    ($    477)    $          $117,308
+                             --------    --------     --------     --------   --------
+Year Ended August 31, 1994
+Buildings                    $  8,595    $    998    ($     60)    $          $  9,533
+Machinery and equipment       108,713      16,569    (   1,637)                123,645
+                             --------    --------     --------     --------   --------
+Totals                       $117,308    $ 17,567    ($  1,697)    $          $133,178
+                             ========    ========     ========     ========   ========
+</TABLE>
+<TABLE>
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+<CAPTION>
+                                             Allowance                 Allowance
+                                               for        Allowance       for
+(all dollar amounts in                       Doubtful        for        Pending
+thousands)                        Total      Accounts     Discounts     Credits
+<S>                            <C>          <C>          <C>          <C>            
+Balance August 31, 1991         $  3,430     $  1,318     $    372     $  1,740
+Charges to costs and expenses     13,039                     5,112        7,927
+Deductions                     (  12,962)   (     160)   (   5,059)   (   7,743)
+                                --------     --------     --------     -------- 
+Balance August 31, 1992         $  3,507     $  1,158     $    425     $  1,924
+Charges to costs and expenses     12,319           49        5,388        6,882
+Deductions                     (  12,160)   (       7)   (   5,380)   (   6,773)
+                                --------     --------     --------     --------
+Balance August 31, 1993         $  3,666     $  1,200     $    433     $  2,033
+Charges to costs and expenses     15,644           18        6,189        9,437
+(Deductions) recoveries        (  14,666)         117    (   6,105)   (   8,678)
+                                --------     --------     --------     --------
+Balance August 31, 1994         $  4,644     $  1,335     $    517     $  2,792
+                                ========     ========     ========     ========
+</TABLE>
+<PAGE>
+<TABLE>
+SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+<CAPTION>
+(all dollar amounts in thousands)     1994       1993       1992
+<S>                                <C>        <C>        <C>
+
+Maintenance and repairs            $ 29,628   $ 28,820   $ 26,445
+                                   --------   --------   --------
+</TABLE>
+Amounts for taxes other than payroll and income taxes, royalties,
+advertising costs and amortization of intangible assets are not
+presented as such amounts are less than 1% of total sales and
+revenue.
+<PAGE>
+
+                         SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant had duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                              WAUSAU PAPER MILLS COMPANY
+
+
+
+
+                              /s/ STEVEN A. SCHMIDT
+                              Steven A. Schmidt
+                              Vice President, Finance,
+                                Secretary and Treasurer
+                              (Principal Accounting and
+                                Financial Officer)
+                              Date:  October 28, 1994
+
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons
+on behalf of the registrant and in the capacities and on the dates
+indicated.
+
+
+
+/s/ SAN W. ORR, JR.              /s/ DAVID B. SMITH, JR.
+San W. Orr, Jr.                  David B. Smith, Jr.
+October 28, 1994                 October 28, 1994
+Chairman of the Board of         Director
+  Directors and
+  Chief Executive Officer
+  (Principal Executive Officer)
+
+
+/s/ DANIEL D. KING               /s/ STANLEY F. STAPLES, JR.
+Daniel D. King                   Stanley F. Staples, Jr.
+October 28, 1994                 October 28, 1994
+President and Chief Operating    Director
+  Officer
+Director
+
+
+
+/s/ HARRY R. BAKER
+Harry R. Baker
+October 28, 1994
+Director
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.H
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10(H) FOR WPM 10K
+<TEXT>
+
+                                                  Exhibit 10(h)
+
+
+               DEFERRED COMPENSATION AGREEMENT
+
+
+     THIS AGREEMENT, dated July 1, 1994, by and between WAUSAU
+PAPER MILLS COMPANY (herein referred to as the "Corporation") and
+SAN W. ORR, JR., an individual (herein referred to as
+"Executive").
+
+
+                       W I T N E S S E T H:
+
+     WHEREAS, the Corporation and Executive entered into a
+deferred compensation agreement dated March 2, 1990 and now desire
+to amend and clarify certain provisions of that agreement;
+
+     NOW, THEREFORE, the parties agree as follows:
+
+     1.     ELECTION TO DEFER.  Executive may, in his discretion,
+elect to defer all or any cash compensation (specified by amount
+or percentage of such compensation) payable to him by the
+Corporation from time to time for service to the Corporation as an
+employee by executing an election in the form set forth in Exhibit
+A hereto (herein referred to as an "Election") and filing such
+Election with the secretary of the Corporation (herein referred to
+as the "Secretary").  An Election shall be effective with respect
+to all cash compensation specified on the election form filed with
+the Secretary by Executive which is accrued and payable after the
+date the Election is received by the Secretary and until the
+Election is amended or revoked.  An Election hereunder may be
+amended or revoked at any time by filing a subsequent Election
+with the Secretary.  Such amendment or revocation shall be
+effective with respect to cash compensation accrued and payable on
+and after receipt of such new Election by the Secretary.
+
+     2.     DEFERRED COMPENSATION ACCOUNT.  The Corporation shall
+maintain upon its corporate books a deferred compensation account
+(herein referred to as the "Account") with respect to any
+compensation deferred under this agreement.  As of the first day
+of each calendar month, the Corporation shall make the following
+adjustments to the Account:  (a) Subtract amounts paid from the
+Account during the immediately preceding month; and (b) Add the
+amount of compensation Executive has elected to defer under
+paragraph 1 which was otherwise payable to Executive during the
+immediately preceding month.  As of the first day of each calendar
+year, the Corporation shall add to the Account simple interest,
+calculated at a rate equal to average of the prime rate published
+in THE WALL STREET JOURNAL on the first business day of each
+calendar quarter in the preceding calendar year, minus one
+percentage point, on the average daily balance in the Account
+during the preceding year.  The Account created hereunder shall
+not represent any specific assets of the Corporation, and the
+Corporation is not obligated by this provision to set aside any
+assets in respect of the Account.
+
+     3.     DISTRIBUTION.  Distribution of the amount reflected in
+the Account shall be made in 5 annual installments with the first
+installment payment to be made within the 60 day period following
+the date on which Executive ceases to be a member of the Board of
+<PAGE>
+Directors of the Corporation; provided, however, that in the event
+of a "Change in Control" (defined below) or Executive's death, the
+remaining balance in the Account shall be distributed within the
+60 day period following the date of such event in a single lump
+sum payment.  The amount of each annual installment distribution
+shall equal the balance in the Account on the date set for payment
+of such installment divided by the number of installment
+distributions remaining within the distribution period (including
+such installment).  Interest shall continue to be credited under
+paragraph 2 during the installment distribution period.  For
+purposes of this paragraph 3, a "Change in Control" shall be
+deemed to have occurred if:
+
+          (a)     any "person" (as such term is used in Sections
+     13(d) and 14(d) of the Securities Exchange Act of 1934, as
+     amended (the "Exchange Act")), other than (i) the Corporation
+     or any of its subsidiaries, (ii) a trustee or other fiduciary
+     holding securities under an employee benefit plan of the
+     Corporation or any of its subsidiaries, (iii) an underwriter
+     temporarily holding securities pursuant to an offering of
+     such securities, or (iv) a corporation owned, directly or
+     indirectly, by the stockholders of the Corporation in
+     substantially the same proportions as their ownership of
+     stock of the Corporation, is or becomes the "beneficial
+     owner" (as defined in Rule 13d-3 under the Exchange Act),
+     directly or indirectly, of securities of the Corporation (not
+     including in the securities beneficially owned by such
+     persons any securities acquired directly from the Corporation
+     or its affiliates) representing more than 50% of the combined
+     voting power of the Corporation's then outstanding
+     securities;
+
+          (b)      the stockholders of the Corporation approve a
+     merger or consolidation of the Corporation with any other 
+     corporation, other than a merger or consolidation or share 
+     exchange which would result in the voting securities of the
+     Corporation outstanding immediately prior thereto continuing
+     to represent (either by remaining outstanding or by being
+     converted into voting securities of the surviving entity) in
+     combination with the ownership of any trustee or other
+     fiduciary holding securities under an employee benefit plan
+     of the Corporation, at least 50% of the combined voting power
+     of the voting securities of the Corporation or such surviving
+     entity outstanding immediately after such merger or
+     consolidation or share exchange, or a merger or 
+     consolidation or share exchange effected to implement a
+     recapitalization of the Corporation (or similar transaction)
+     in which no person acquires more than 50% of the combined
+     voting power of the Corporation's then outstanding
+     securities; or
+
+          (c)  the stockholders of the Corporation approve a plan
+     of complete liquidation of the Corporation or an agreement
+     for the sale or disposition by the Corporation of all or
+     substantially all of the Corporation's assets.
+<PAGE>
+
+     4.     RECIPIENT OF DISTRIBUTION.  Each payment to be made by
+the Corporation hereunder shall be made to Executive if he is
+living on the date such payment is made, and, if he is not, to
+such person or persons (the "Beneficiary" or "Beneficiaries") as
+Executive shall designate on the form set forth in Exhibit A or in
+such other writing signed by the Executive.  Executive may change
+or revoke any such designation previously made by filing a new
+designation with the Secretary.  Such new designation shall be
+effective for purposes of this paragraph immediately upon filing. 
+If no designation hereunder is in effect or no designated
+Beneficiary is living when payment is to be made, payment shall be
+made to the estate of the last to die of Executive or, if a
+Beneficiary has been designated and such designation has not been
+revoked, the Beneficiary.
+
+     5.     MISCELLANEOUS.
+
+          (a)     Neither Executive nor any Beneficiary shall have
+     any right or title to or interest in any specific assets of
+     the Corporation in respect of this agreement.  Any person
+     entitled to payment under the agreement shall be an unsecured
+     general creditor of the Corporation in respect of such
+     payment.
+
+          (b)     Except as may otherwise be required by law, no
+     amount payable under this agreement may be alienated in any
+     manner by Executive or any Beneficiary or be subject to the
+     debts or liabilities of Executive or any Beneficiary.  Any
+     attempt by Executive or any Beneficiary to alienate any
+     amount payable under the agreement shall be void.
+
+          (c)     This agreement shall be binding upon and inure
+     to the benefit of the parties hereto and their respective
+     heirs, legatees, personal representatives and successors.
+
+     IN WITNESS WHEREOF, the parties hereto have caused this
+agreement to be executed on the date and year first above written.
+
+
+                              WAUSAU PAPER MILLS COMPANY
+
+
+
+
+                              By:________________________________
+                                 Steven A. Schmidt
+                                 Vice President Finance,
+                                 Treasurer & Secretary
+
+
+
+                              ___________________________________
+                              San W. Orr, Jr., Executive
+
+
+<PAGE>
+
+                          EXHIBIT A
+
+                 WAUSAU PAPER MILLS COMPANY
+          DEFERRED COMPENSATION AGREEMENT ELECTION
+
+                              Date: _________________, 1994
+
+     Pursuant to the provisions of the Deferred Compensation
+Agreement dated July 1, 1994 (the "Agreement"), I hereby elect to
+defer the payment of the following compensation otherwise payable
+to me by Wausau Paper Mills Company.
+
+     (1)     The amount or percentage of such compensation to be
+deferred under the Agreement shall be as follows:
+
+                                   Dollar Amount or
+     Type of Compensation        Deferral Percentage
+     --------------------        -------------------
+
+     Salary                      ---------------------------------
+     Bonus                       _________________________________
+
+     (2)     This election shall remain in effect until I amend or
+revoke it by subsequent election, or until the time set for
+distribution of deferred amounts under the Agreement.
+
+     (3)     In the event of my death before the amounts payable
+to me under the Agreement have been distributed to me, I hereby
+direct that such amounts be paid in a lump sum to:
+
+
+
+
+
+
+(NOTE:  If no beneficiary is named, any amounts payable will be
+paid to your estate or personal representative.  You must notify
+the Secretary of the Corporation of any change in your
+beneficiary's address.)
+
+
+
+                              ------------------------------------
+                              San W. Orr, Jr.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>ART. 5 FDS FOR FISCAL YEAR
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED
+FROM THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE FISCAL YEAR
+ENDED AUGUST 31, 1994 OF WAUSAU PAPER MILLS COMPANY AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<MULTIPLIER>                   1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          AUG-31-1994
+<PERIOD-END>                               AUG-31-1994
+<CASH>                                           3,214
+<SECURITIES>                                         0
+<RECEIVABLES>                                   38,247
+<ALLOWANCES>                                     4,644
+<INVENTORY>                                     60,222
+<CURRENT-ASSETS>                               105,934
+<PP&E>                                         380,250
+<DEPRECIATION>                                 133,178
+<TOTAL-ASSETS>                                 361,389
+<CURRENT-LIABILITIES>                           46,056
+<BONDS>                                         30,270
+<COMMON>                                        80,380
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     134,438
+<TOTAL-LIABILITY-AND-EQUITY>                   361,389
+<SALES>                                        426,504
+<TOTAL-REVENUES>                               426,504
+<CGS>                                          329,191
+<TOTAL-COSTS>                                  329,191
+<OTHER-EXPENSES>                                    20
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,958
+<INCOME-PRETAX>                                 68,052
+<INCOME-TAX>                                    26,000
+<INCOME-CONTINUING>                             42,052
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                        1,000
+<NET-INCOME>                                    43,052
+<EPS-PRIMARY>                                     1.60
+<EPS-DILUTED>                                     1.60
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

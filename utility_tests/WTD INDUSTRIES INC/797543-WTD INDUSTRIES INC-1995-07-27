@@ -1,0 +1,3406 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ TBk/so3pwPWmM63WUuLEa3CoEwLRyKSkgxw/Hy7I2/yiWmZVPUSrWrK83KWUnTWP
+ 0x9QzkYkH86hEcTkS+yYtA==
+
+<IMS-DOCUMENT>0000797543-95-000008.txt : 19950728
+<IMS-HEADER>0000797543-95-000008.hdr.sgml : 19950728
+ACCESSION NUMBER:		0000797543-95-000008
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	19950430
+FILED AS OF DATE:		19950727
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WTD INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000797543
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAWMILLS, PLANNING MILLS, GENERAL [2421]
+		IRS NUMBER:				930832150
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16158
+		FILM NUMBER:		95556281
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10260 SW GREENBURG RD STE 900
+		STREET 2:		P O BOX 5805
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97223-5805
+		BUSINESS PHONE:		5032463440
+
+	MAIL ADDRESS:	
+		STREET 1:		10260 SW GREENBURG RD SUITE 900
+		STREET 2:		P.O. BOX 5805
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97228-5805
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                      WTD INDUSTRIES, INC.
+
+United States Securities and Exchange Commission, Washington, D.C.
+20549
+
+FORM 10-K
+
+Annual Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+For the fiscal year ended                    Commission file number
+April 30, 1995                               0-16158
+
+WTD INDUSTRIES, INC.
+(Exact name of registrant as specified in its charter)
+
+Oregon                                       93-0832150
+(State of Incorporation)      (I.R.S. Employer Identification No.)
+
+10260 S.W. Greenburg Road, Suite 900 Registrant's telephone number,
+Portland, Oregon 97223         including area code: (503) 246-3440
+(Address of principal executive offices)
+
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock, no par value (Title of Class)
+__________________________________________________________________
+
+     Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. ___X___
+
+     Indicate by check mark whether the registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding twelve months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+Yes ___X___  No _______
+
+     State the aggregate market value of the voting stock held by
+non-affiliates of the registrant, as of July 10, 1995: $18,016,145.
+
+     Indicate by check mark whether the registrant has filed all
+documents and reports required to be filed by Section 12, 13 or
+15(d) of the Securities Exchange Act of 1934 subsequent to the
+distributions of securities under a plan confirmed by a court.
+Yes ___X___ No _______
+
+     Indicate the number of shares outstanding of each of the
+registrant's classes of Common Stock, as of July 10, 1995:  Common
+Stock, no par value: 11,077,074.
+
+     Documents Incorporated by Reference.  Registrant has
+incorporated into Part III of Form 10-K by reference portions of
+its Proxy Statement for its 1995 Annual Meeting of Shareholders.
+
+                   FORM 10-K TABLE OF CONTENTS
+Item No.                                                   Page No.
+
+Part I
+1.   Business                                                    3
+
+2.   Properties                                                  7
+
+3.   Legal Proceedings                                           7
+
+4.   Submission of Matters to a Vote of Security Holders         7
+
+Part II
+5.   Market for the Registrant's Common Stock and
+     Related Stockholder Matters                                 8
+
+6.   Selected Financial Data                                    10
+
+7.   Management's Discussion and Analysis of Financial
+     Condition and Results of Operations                        11
+
+8.   Financial Statements and Supplementary Data                16
+
+9.   Changes in and Disagreements with Accountants
+     on Accounting and Financial Disclosure                     16
+
+Part III
+10.  Directors and Executive Officers of the Registrant         17
+
+11.  Executive Compensation                                     20
+
+12.  Security Ownership of Certain Beneficial Owners
+     and Management                                             24
+
+13.  Certain Relationships and Related Transactions             25
+
+Part IV
+14.  Exhibits, Financial Statement Schedules, and Reports
+     on Form 8-K
+     (a)(1) Financial Statements                                26
+     (a)(2) Financial Statement Schedules                       26
+     (a)(3) Exhibit Index                                       26
+     (b)    Reports on Form 8-K                                 29
+
+                            PART I
+Item 1.   BUSINESS
+
+     WTD Industries, Inc. is a forest products company organized in
+Oregon in 1983, whose subsidiaries manufacture softwood and
+hardwood lumber and by-products.  WTD Industries, Inc. and its
+subsidiaries are hereinafter referred to as "WTD" or the "Company."
+The Company markets its products primarily in the United States and
+Canada through its subsidiary TreeSource, Inc.
+
+     The Company and its subsidiaries filed for protection under
+Chapter 11 of the Federal Bankruptcy Code in late January 1991
+following extreme adverse conditions in the forest products
+industry in 1990.  WTD emerged from  bankruptcy on November 30,
+1992 pursuant to the Company's court-approved Second Amended Joint
+Plan of Reorganization ("Plan") under which it continues to
+operate.
+
+
+PRODUCTS AND MARKETS
+
+Softwood Lumber
+
+     The Company manufactures a wide variety of softwood lumber
+products, predominantly from Douglas fir, hemlock, and white fir. 
+The Company produces softwood studs in several species, generally
+as 2x4 or 2x6 lumber in lengths of 8 to 10 feet.  The Company also
+makes dimension softwood lumber in a wide range of widths and
+thicknesses in lengths from 6 to 26 feet.  Softwood lumber
+accounted for 84% of net sales in fiscal 1995, 83% in fiscal 1994,
+and 78% in fiscal 1993.
+
+     The Company sells softwood lumber to a large number of
+customers, primarily distribution centers, wholesalers and directly
+to large retailers.  Softwood lumber is used in a variety of
+applications, including residential and commercial construction,
+packaging, and industrial uses.
+
+Other Products
+
+     The Company produces a small quantity of hardwood lumber in
+sizes targeted principally for the furniture and cabinet
+industries.  Wood chips, a by-product of the manufacturing process,
+are sold principally to pulp and paper manufacturers.  Wood chips
+and other by-products accounted for 12% of net sales in fiscal
+1995, 11% in fiscal 1994, and 13% in fiscal 1993.
+
+Distribution and Marketing
+
+     The Company markets, distributes, and arranges transportation
+for its lumber products through its wholly owned subsidiary and
+sales agent, TreeSource, Inc.  Through TreeSource, the production
+capabilities of individual mills are coordinated to meet a broad
+range of customer needs.  TreeSource sells primarily through
+telephone contacts from its office in Portland, Oregon.
+
+     Shipments of wood products are generally made by rail or truck
+directly from the mill.  The Company also makes shipments by barge
+from certain of its mills with access to port facilities to
+destinations in Southern California and Hawaii.  Exports do not
+represent a material portion of the Company's net sales.
+
+     The Company does not attempt to accumulate a large backlog of
+orders.  WTD's general practice is to maintain an order file
+representing about two to four weeks' production.  The filling of
+orders for certain items, however, may require a substantially
+longer period of time.  The dollar value of the Company's backlog
+of orders at April 30, 1995 was $6.0 million compared to $7.2
+million at April 30, 1994.  Backlog on any particular date may not
+be indicative of the Company's average backlog, or of net sales or
+the backlog for any succeeding period.
+
+     One customer accounted for 12% of the Company's net sales
+during fiscal 1995.  The loss of any one customer would not, in
+management's opinion, have a material adverse impact on the Company
+and its subsidiaries taken as a whole.
+
+Timber Supply
+
+     The Company generally purchases timber and logs in sufficient
+quantities to match the current operating requirements of its
+mills.  Management attempts to maintain log inventories equal to an
+average of three to four weeks' operating requirements, except
+where seasonal or weather factors necessitate larger volumes.  The
+goals of the Company's procurement strategy are to limit the
+speculative aspects of timber purchasing and to maintain the
+Company's adaptability to changing lumber market conditions.
+
+     The Company relies mainly on open market log purchases to
+supply its raw materials needs.  It also purchases timber-cutting
+contracts ("timber contracts"), primarily at public timber sales,
+and has historically obtained logs to a minor extent from its own
+fee timberlands.  At April 30, 1995, the Company owned a small
+amount of fee timberlands in the vicinity of various mills. The
+following table shows the percentages of logs supplied by open
+market purchases, timber contracts and fee timberlands, and total
+log footage required:
+
+  Year Ended    Open       Timber       Fee            Log
+   April 30,   Market     Contracts    Timber      Requirements
+
+     1991       75%          19%         6%         408,000 MBF
+     1992       88%           8%         4%         338,000 MBF
+     1993       90%           6%         4%         306,000 MBF
+     1994       94%           5%         1%         305,100 MBF
+     1995       95%           5%         --         317,100 MBF
+
+     MBF - Thousand Board Feet
+
+     The availability and cost of timber and logs have been, and
+should continue to be, influenced by a variety of factors,
+including demand by competitors and exporters, the environmental
+and harvest policies of federal and state agencies, and, in the
+long term, the level of reforestation.  For further discussion of
+current industry conditions relating to timber supply, see the
+section entitled "Management's Discussion and Analysis of Financial
+Condition and Results of Operations."
+
+Employees
+
+     The Company and its subsidiaries had approximately 1,100
+employees at July 10, 1995.  The Company believes that its
+relations with employees are good.  The Company provides its
+employees with health insurance, paid holidays and vacation time,
+and maintains an IRC 401(k) retirement savings plan.
+
+Environmental Regulation
+
+     The Company is subject to federal, state and local waste
+disposal and pollution control regulations, including air, water
+and noise pollution, which have required, and are expected to
+continue to require, additional operating and capital expenditures.
+The Company believes that it is in substantial compliance with all
+existing regulations and orders.  During fiscal 1995, the Company
+incurred expenditures of approximately $500,000 for waste disposal
+and pollution control.  Such expenditures are projected to be about
+$900,000 for fiscal 1996 and $600,000 for fiscal 1997.  Various
+governmental agencies are considering regulations regarding log
+yard management and disposal of log yard waste.  The final
+regulations in these areas may require material expenditures in the
+future.
+
+Industry Conditions
+
+     The United States lumber industry is highly sensitive to the
+condition of the nation's economy and tends to experience poor
+financial results during general economic downturns.  In addition,
+sales traditionally increase in the spring and summer months and
+decline during the fall and winter months in response to seasonal
+building construction cycles.  However, in fiscal 1993 and 1994,
+relatively strong lumber demand occurred in the winter months and
+relatively weak demand occurred during the spring months. 
+Management believes this situation occurred because lumber buyers,
+concerned about supply in light of public timber harvest
+restrictions, made defensive purchases before the traditional
+spring buying period.  In addition, demand in the early part of
+1994 was muted by severe winter conditions in the midwestern and
+eastern portions of the U.S.  In fiscal 1995, the Company
+experienced a more typical winter slowdown in lumber demand. 
+Conditions remained weak in the spring due in large measure to high
+interest rates, increased lumber imports from Canada and high raw
+materials costs.  See "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" for further
+discussion.
+
+Competition
+
+     The wood products industry is highly competitive and includes
+a large number of companies manufacturing relatively standardized
+products.  The principal means of competition in the lumber
+industry are unit production costs, pricing, product quality, and
+the ability to satisfy customer needs promptly.  The Company feels
+it competes effectively based on the foregoing factors.  Some of
+WTD's competitors are large, integrated companies with
+substantially greater total resources than those of the Company. 
+Some of these competitors have a significant base of low-cost fee
+timberlands and timber contracts.  The Company could be at a
+disadvantage to such competitors since it relies on the open log
+market to supply the bulk of its raw materials requirements.  See
+the sections entitled "Timber Supply" and "Management's Discussion
+and Analysis of Financial Condition and Results of Operations."
+
+Item 2.   PROPERTIES
+
+<TABLE>
+MANUFACTURING FACILITIES(1)
+<CAPTION>
+                                                *** Thousand board feet ***
+                                                   Fiscal   Est. Annual
+                                                    1995    Production
+                                                 Production Capacity(2)
+                                                   -------    -------
+<S>                                              <C>        <C>
+Softwood Lumber
+Burke Lumber Co., West Burke, Vermont                48,000     46,000
+Central Point Lumber Co., Central Point, Oregon(3)   39,000    110,000
+Glide Lumber Products Co., Glide, Oregon            102,000    125,000
+Morton Forest Products Co., Morton, Washington       53,000     90,000
+North Powder Lumber Co., North Powder, Oregon        50,000     90,000
+Pacific Softwoods Co., Philomath, Oregon             57,000     80,000
+Philomath Forest Products Co., Philomath, Oregon    141,000    245,000
+Sedro-Woolley Lumber Co., Sedro-Woolley, Washington  46,000    140,000
+Spanaway Lumber Co., Tacoma, Washington(3)           43,000     85,000
+Trask River Lumber Co., Tillamook, Oregon(3)         49,000    120,000
+Tumwater Lumber Co., Tumwater, Washington(3)         52,000     70,000
+
+Hardwood Lumber
+Pacific Hardwoods-South Bend Co.,
+ South Bend, Washington(3)                           13,000     19,000
+<FN>
+(1) The machinery and equipment of all facilities are subject to the security 
+    interests of certain lenders.
+(2) Capacity is generally computed using a two shift-per-day, five day-per-week 
+    operating schedule.
+(3) These subsidiaries lease all or a substantial portion of the real property on 
+    which the mill is located pursuant to ground leases.
+</TABLE>
+
+Item 3.   LEGAL PROCEEDINGS
+
+     On or about January 30, 1991, WTD Industries, Inc. and each of
+its subsidiaries (see Exhibit 21 for list) filed a voluntary
+petition for reorganization under Chapter 11 of the Federal
+Bankruptcy Code.  The proceeding was filed in the United States
+Bankruptcy Court for the Western District of Washington in Seattle
+(the "Bankruptcy Court").  The jointly administered proceeding is
+entitled:  "In re Sedro-Woolley Lumber Co., WTD Industries, Inc.,
+TreeSource, Inc., et al.", Case Numbers 91-00707 through 91-00721,
+91-00736 through 91-00741, 91-00752 through 91-00756, 91-00773
+through 91-00778, and 91-01140 through 91-01149.  The Company's
+Second Amended Joint Plan of Reorganization was confirmed by the
+Bankruptcy Court on November 23, 1992, effective November 30, 1992.
+
+Item 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+
+                             PART II
+
+Item 5.   MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+          STOCKHOLDER MATTERS
+
+Principal Market
+
+     Registrant's Common Stock is traded in the over-the-counter
+market.  Quotations are reported on the National Market System of
+the National Association of Securities Dealers (NASD).  The
+Company's stock trades under the NASDAQ symbol WTDI.  The number of
+holders of record of WTD Industries, Inc. Common Stock at July 10,
+1995 was 735.  The Company estimates that the total number of its
+direct and beneficial shareholders is approximately 5,000.
+
+Stock Price and Dividend Information
+
+     From December 2, 1991 through March 17, 1994, WTD Common Stock
+was reported in the Small Cap Issues section of NASDAQ.  Since
+March 18, 1994, the Common Stock of WTD has been included in the
+NASDAQ National Market System.
+
+     The following tables show the stock price range or the price
+quotes, as applicable, for the two years ended April 30, 1995:
+
+      Fiscal Year Ended                      Stock Price Range 
+       April 30, 1995                          Low      High
+      -----------------                      -----------------
+       First Quarter                         $2.21875   $3.250
+       Second Quarter                        $1.953125  $2.750
+       Third Quarter                         $1.625     $2.50
+       Fourth Quarter                        $1.625     $2.125
+
+                                              Stock Quotes
+      Fiscal Year Ended                   Bid             Ask
+       April 30, 1994                 Low     High    Low     High
+     -------------------             ------  ------  ------  ------
+       First Quarter                 $1.625  $2.750  $1.750  $2.875
+       Second Quarter                $1.625  $2.125  $1.750  $2.250
+       Third Quarter                 $1.625  $2.625  $1.875  $2.750
+       Fourth Quarter (1)            $2.375  $3.875  $2.625  $4.125
+
+      Fiscal Year Ended                      Stock Price Range
+       April 30, 1994                   Low                 High
+     -------------------             ----------          ----------
+       Fourth Quarter (2)              $2.875              $4.750
+
+     (1)  Quotes reported for the period February 1, 1994 through
+          March 17, 1994.
+
+     (2)  Prices reported for the period March 18, 1994 through
+          April 30, 1994.
+
+     The share prices shown are those published by the NASD and
+represent prices between dealers.  They do not include retail
+markups, markdowns, or commissions and, in the case of bid and ask
+quotes, may not represent actual transactions.  Prior to the
+Company's October 1986 public stock offering, there was no public
+trading market for its Common Stock.
+
+     WTD does not pay any cash dividends on its Common Stock. The
+Company's various debt instruments restrict the payment of
+dividends.  See Notes 4 and 6 to Consolidated Financial Statements.
+
+<TABLE>
+ITEM 6.  SELECTED FINANCIAL DATA
+
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+FIVE-YEAR SELECTED FINANCIAL DATA
+(In Thousands, Except Per-Share Amounts and Ratios)
+
+<CAPTION>
+                                                                                YEAR ENDED APRIL 30,
+                                                     -----------------------------------------------------------
+                                                         1995        1994        1993        1992        1991
+                                                        --------    --------    --------    --------    --------
+<S>                                                  <C>          <C>         <C>         <C>         <C>
+NET SALES                                               $274,966    $278,115    $246,887    $213,896    $243,931
+COST OF SALES                                            262,334     253,732     227,040     195,386     250,468
+                                                        --------    --------    --------    --------    --------
+GROSS PROFIT (LOSS)                                       12,632      24,383      19,847      18,510      (6,537)
+
+GENERAL, SELLING AND
+  ADMINISTRATIVE EXPENSES                                 10,366      12,423      12,615      12,047      20,957
+REORGANIZATION CHARGES (CREDITS)                            (532)     (2,487)        563       3,272      58,000
+                                                        --------    --------    --------    --------    --------
+OPERATING INCOME (LOSS)                                    2,798      14,447       6,669       3,191     (85,494)
+
+INTEREST EXPENSE                                          (5,972)     (6,541)     (2,864)       (235)    (10,197)
+OTHER INCOME                                               1,228         418         151          36         589
+                                                        --------    --------    --------    --------    --------
+INCOME (LOSS) BEFORE INCOME TAXES                         (1,946)      8,324       3,956       2,992     (95,102)
+
+PROVISION FOR INCOME TAXES (BENEFIT)                      (5,646)      2,024       1,543       1,167      (9,950)
+                                                        --------    --------    --------    --------    --------
+INCOME (LOSS) BEFORE
+  EXTRAORDINARY ITEMS                                      3,700       6,300       2,413       1,825     (85,152)
+
+EXTRAORDINARY ITEMS                                           --          --      21,345       1,167          --
+                                                        --------    --------    --------    --------    --------
+NET INCOME (LOSS)                                          3,700       6,300      23,758       2,992     (85,152)
+
+PREFERRED DIVIDENDS                                        2,126       1,616         647          --          --
+                                                        --------    --------    --------    --------    --------
+NET INCOME (LOSS) APPLICABLE TO 
+  COMMON SHAREHOLDERS                                     $1,574      $4,684     $23,111      $2,992    ($85,152)
+                                                        ========    ========    ========    ========    ========
+
+NET INCOME (LOSS) PER 
+  COMMON SHARE, PRIMARY
+  - before extraordinary items                             $0.14       $0.41       $0.29       $0.73     ($34.17)
+  - extraordinary items                                       --          --       $3.46       $0.47          -- 
+  - net income (loss)                                      $0.14       $0.41       $3.75       $1.20     ($34.17)
+    Average shares outstanding (1)                        11,492      11,433       6,166       2,492       2,492
+
+NET INCOME (LOSS) PER 
+  COMMON SHARE, FULLY DILUTED
+  - before extraordinary items                             $0.14       $0.41       $0.28       $0.73     ($34.17)
+  - extraordinary items                                       --          --       $3.43       $0.47          -- 
+  - net income (loss)                                      $0.14       $0.41       $3.71       $1.20     ($34.17)
+    Average shares outstanding (1)                        11,510      11,519       6,231       2,492       2,492
+
+CASH DIVIDENDS PER COMMON SHARE                               --          --          --          --          --
+
+PERIOD END BALANCES
+   Working capital                                       $33,740     $44,796     $39,255     $46,162     $35,069
+   Total assets                                           88,944      97,100     100,039     113,561     106,038
+   Long-term debt, excl. current maturities (2)           51,421      60,587      64,184         519       7,457
+   Liabilities subject to compromise (2)                      --          --          --     134,351     126,935
+   Stockholders' equity (deficit)                         20,076      18,512      13,684     (43,553)    (46,545)
+
+SELECTED FINANCIAL RATIOS
+   Net income (loss) to average:
+     Total assets                                            4.0 %       6.4 %      22.2 %       2.7 %     (52.1)%
+     Stockholders' equity                                   19.2 %      39.1 %        NM          NM          NM   
+     Average stockholders' equity to average
+     total assets                                           20.7 %      16.3 %        NM          NM          NM           
+
+<FN>
+(1) Restated to reflect effect of four-for-ten reverse split as of November 30, 1992.
+(2) During fiscal 1992, the Company reclassified certain debt obligations between fully secured debt and
+    liabilities subject to compromise.
+NM - Not Meaningful
+</TABLE>
+
+
+Item 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+Overview
+
+     On a quarter-to-quarter basis, the Company's financial results
+have and will vary widely, due to seasonal fluctuations and market
+factors affecting the demand for logs, lumber and other wood
+products.  Therefore, past results for any given year or quarter
+are not necessarily indicative of future results.
+
+     The industry is subject to fluctuations in sales and earnings
+due to such factors as industry production in relation to product
+demand and variations in interest rates and housing starts. 
+Currency fluctuations affect the forest products industry when
+exchange rates spur log exports and drive up domestic log prices,
+and when a relatively strong U.S. Dollar encourages imports of
+lumber from competing countries.
+
+     The industry is also affected by weather conditions and
+changing timber management policies.  Fire danger and excessively
+dry or wet conditions temporarily reduce logging activity and may
+increase open market log prices.  Timber management policies of
+various governmental agencies change from time to time,
+periodically causing actual or perceived shortages in some areas. 
+These policies change because of environmental concerns, public
+agency budget issues and a variety of other reasons.
+
+     It is generally WTD's practice to curtail production at
+facilities from time to time due to conditions which temporarily
+impair log flow or when imbalances between log costs and product
+prices cause the cost of operation to exceed the cost of shutdown. 
+Management believes that WTD's labor practices and compensation
+systems, as well as a relatively low capital cost in relation to
+production capacity, give it the flexibility to curtail operations
+and resume production as conditions warrant.  The Company may also
+permanently close facilities that are determined to lack future
+profit potential under expected operating conditions.
+
+     In fiscal 1995, demand for U.S. lumber experienced a
+protracted decline.  This appears to be primarily the result of two
+factors.  First, mortgage interest rates continued rising from
+about 7% in January 1994 to a high of 9.2% in December 1994.  This
+rise had a negative impact on U.S. lumber demand during the second
+half of the Company's 1995 fiscal year.  Second, a widening gap in
+the exchange rate between the U.S. Dollar and the Canadian Dollar,
+combined with government-subsidized logs in Canada costing
+substantially less than those in much of the U.S., encouraged
+imports of lumber from Canada.  The combination of reduced domestic
+demand and increased imports caused an overall 10% reduction in the
+Company's fiscal 1995 lumber prices when compared to those of the
+prior year, and an 18% decline in prices in the second half of
+fiscal 1995 when compared to the same period in 1994.  Although a
+resurgent paper market led to substantial chip price increases in
+the second half of fiscal 1995, this also helped to maintain higher
+log prices.  Log pricing also remained high in relation to the
+domestic lumber market because of strong export log demand due in
+part to a strong Japanese Yen.  As a result of these factors, the
+percentage decline in lumber prices for the year ended April 30,
+1995 was approximately double the percentage decline in the
+Company's log costs.  This caused a 48% decline in gross margins in
+fiscal 1995.
+
+     The Company curtailed operations in response to these weak
+market conditions.  Reduced operations at selected mills and
+temporary curtailments at others will continue until operating
+conditions improve.
+
+Raw Materials
+
+     Raw materials comprise the majority of the cost of products
+sold by the Company.  The Company depends principally on open
+market log purchases for its raw materials needs.  WTD's log
+inventory policy is to maintain, where possible, a supply equal to
+three to four weeks of production.
+
+     During the 1980's, public timber accounted for a significant
+portion of the supply used by the forest products industry in the
+Pacific Northwest.  On June 22, 1990, the northern spotted owl was
+listed by the U.S. Fish and Wildlife Service as a threatened
+species in Oregon, Washington and Northern California.  This
+required the U.S. Forest Service (USFS) and Bureau of Land
+Management (BLM) to develop plans to protect the owl's habitat,
+primarily in old-growth timber, by limiting timber harvests on
+public lands in the Pacific Northwest.  This decision resulted from
+many years of controversy and litigation surrounding the harvest of
+"old-growth" timber in Oregon, Washington and Northern California. 
+Since that time, new controversies surrounding ecosystem
+management, biological diversity, and species such as the marbled
+murrelet and various strains of wild salmon, have caused the USFS
+and BLM to further limit timber harvests.
+
+     The USFS and BLM have proposed new policies regarding logging
+on public lands that would reduce public timber harvests to 20% to
+30% of the 1980's harvest levels.  Programs have also been proposed
+in Congress to increase the harvest of diseased timber.  However,
+implementation of such plans have been delayed by industry and
+preservationist litigation.  This will extend the period before
+implementation can occur, and may require significant changes to
+the proposed rules.
+
+     During fiscal years 1993, 1994 and 1995, the Company operated
+most of its mills on a one-shift basis, typically using logs
+purchased on the open market from industrial and non-industrial
+private land owners.  The ability to maintain the present level of
+operations at the Company's mills depend on a continuing supply of
+logs from these private sources.  The Company's ability to increase
+production above present levels would be enhanced by an increased
+availability of timber from public lands in the Northwest.
+
+     The sharp reduction in available timber in the Pacific
+Northwest contributed to increased open market log costs since the
+late 1980's.  However, log costs have stabilized, although at much
+higher levels, in the Company's last two fiscal years.  The Company
+has generally been able to obtain sufficient raw materials for its
+mills from private sources at prices which ensure a gross margin. 
+However, management anticipates that uncertainty associated with
+timber supply issues, combined with a continued lack of significant
+public timber sale activity, may contribute to further log price
+volatility.  Log and lumber markets may continue to experience
+rapid changes in values due to actual and perceived market
+conditions throughout the Company's 1996 fiscal year, which may
+sometimes result in inconsistent relationships between log and
+lumber prices.  These changes could result in large swings in the
+gross margin on lumber produced.  The long-term impact of this
+issue cannot be predicted at this time.
+
+Yearly Comparisons
+
+     The following table compares certain income and expense items
+as a percentage of net sales, and the period-to-period percentage
+change for each item:
+
+<TABLE>
+
+<CAPTION>
+                                                                                         Percentage
+                                                                                     Increase (Decrease)
+                                              Income and Expense Items as a            -----------------
+                                                 Percentage of Net Sales              1995         1994
+                                        --------------------------------------         vs           vs
+                                           1995           1994           1993         1994         1993
+                                         ------         ------         ------         ------       ------
+<S>                                    <C>            <C>            <C>            <C>          <C>
+Net sales                                 100.0  %       100.0  %       100.0 %         (1.1)%       12.6 %
+Cost of sales                              95.4           91.2           92.0            3.4         11.8
+                                         ------         ------         ------
+Gross profit                                4.6            8.8            8.0          (48.2)        22.9
+
+Selling, general and
+  administrative expense                    3.8            4.5            5.1          (16.6)        (1.5)
+Reorganization charges (credits)           (0.2)          (0.9)           0.2          (78.6)          NM
+                                         ------         ------         ------
+Operating income                            1.0            5.2            2.7          (80.6)       116.6
+
+
+Interest expense                           (2.2)          (2.4)          (1.2)          (8.7)       128.4
+Miscellaneous                               0.4            0.2            0.1          193.8        176.8
+                                         ------         ------         ------
+
+Income (loss) before income taxes          (0.7)           3.0            1.6             NM        110.4
+
+Provision for income taxes (benefit)       (2.1)           0.7            0.6             NM         31.2
+                                         ------         ------         ------
+Income before extraordinary items           1.3            2.3            1.0          (41.3)       161.1
+
+Extraordinary items                          --             --            8.6             NM           NM
+                                         ------         ------         ------
+
+Net income                                  1.3  %         2.3  %         9.6 %        (41.3)       (73.5)
+                                         ======         ======         ======
+<FN>
+NM - Not Meaningful
+Note: Percentages may not add precisely due to rounding
+
+</TABLE>
+
+     Effective November 30, 1992, the Company and each of its
+subsidiaries reorganized under Chapter 11 of the Federal Bankruptcy
+Code and made distributions under its Plan of Reorganization (the
+"Plan").
+
+Comparison of 1995 to 1994
+
+     Net sales for the year ended April 30, 1995 decreased by $3.1
+million (1 percent) from the year ended April 30, 1994.  This
+decrease was mainly the result of a 10 percent decrease in lumber
+prices, partially offset by a 5 percent increase in lumber
+production, a 6 percent increase in chip production and a 7 percent
+increase in chip prices.
+
+     Gross profit in fiscal 1995 was 4.6 percent of sales versus
+8.8 percent of sales in fiscal 1994.  Lumber prices received by the
+Company during fiscal 1995 were, on average, 10 percent lower than
+in fiscal 1994, while the Company's log costs were, on average,
+only 3 percent lower than in the prior year.
+
+     Selling, general and administrative (SG&A) expenses in the
+year ended April 30, 1995 decreased by $2.1 million (17 percent)
+from those of a year earlier.  This decrease was the result of
+lower profit-sharing bonus payments resulting from a lower level of
+pretax profits, as well as from ongoing efforts to reduce overhead
+expenses.  SG&A expenses were 3.8 percent of sales in fiscal 1995
+versus 4.5 percent of sales in fiscal 1994.
+
+     Reorganization credits in fiscal 1995 primarily reflect the
+reduction of certain valuation and holding cost reserves associated
+with the Company's remaining non-core assets.  Reorganization
+credits in fiscal 1994 primarily reflect gains recognized on the
+sale of idle assets.  See Note 7 to Consolidated Financial
+Statements.
+
+     Interest expense in the year ended April 30, 1995 was $0.6
+million below that incurred in the year ended April 30, 1994.  This
+decrease was the result of both scheduled and voluntary reductions
+of debt.
+
+     The Company's tax benefit in fiscal 1995 was 290 percent of
+its pretax loss, pursuant to the provisions of SFAS Number 109. 
+See Note 5 to Consolidated Financial Statements.
+
+Comparison of 1994 to 1993
+
+     Net sales for the year ended April 30, 1994 increased by $31.2
+million (13 percent) from the year ended April 30, 1993.  This
+increase was mainly the result of a 23 percent increase in lumber
+prices and a 2 percent increase in lumber production, partially
+offset by a 10 percent decline in chip production.  The chip
+production decrease from the prior year resulted from improved raw
+materials utilization and less whole log chipping activity.
+
+     Gross profit in fiscal 1994 was 8.8 percent of sales versus
+8.0 percent of sales in fiscal 1993.  Lumber prices received by the
+Company during fiscal 1994 were, on average, 23 percent higher than
+in fiscal 1993, while log costs were, on average, 28 percent higher
+than in the prior year.  The Company was able to offset some of the
+increase in log prices by improving its raw materials utilization
+by 2 percent.
+
+     Selling, general and administrative (SG&A) expenses in the
+year ended April 30, 1994 decreased by $0.2 million (1.5 percent)
+from those of a year earlier.  This decrease was the result of
+ongoing efforts to reduce overhead expenses.  SG&A expenses were
+4.5 percent of sales in fiscal 1994 versus 5.1 percent of sales in
+fiscal 1993.
+
+     Reorganization credits in fiscal 1994 primarily reflect gains
+recognized on the sale of idle assets.  Reorganization charges in
+fiscal 1993 primarily reflect professional fees related to the
+Chapter 11 proceedings, net of interest income on restricted cash
+and changes in reserve accounts.  See Note 7 to Consolidated
+Financial Statements. 
+
+     Interest expense in the year ended April 30, 1994 was $3.7
+million above that incurred in the year ended April 30, 1993.  In
+accordance with AICPA Statement of Position 90-7, the Company did
+not accrue interest between January 30, 1991 and November 30, 1992
+on unsecured and under-secured instruments.  Interest expense in
+fiscal 1993 would have been approximately $3.9 million higher if
+interest had been accrued for the entire fiscal year under the
+terms of the obligations issued pursuant to the Plan.
+
+     The Company's tax provision in fiscal 1994 was 24 percent of
+pretax income, pursuant to the provisions of SFAS Number 109.  In
+accordance with APB 11, the Company in fiscal 1993 recorded a tax
+provision at statutory rates and an offsetting extraordinary credit
+due to net operating loss carryforward utilization.  See Notes 5
+and 7 to Consolidated Financial Statements.
+
+     In fiscal 1993 the Company recognized an extraordinary gain
+(before tax effect) on debt restructure of $19.8 million as a
+result of distributions under the Plan.  See Note 7 to Consolidated
+Financial Statements.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     At April 30, 1995, the Company had net working capital of
+$33.7 million, or $11.1 million less than at April 30, 1994.  The
+working capital decrease was primarily the result  of capital
+spending, scheduled principal payments and voluntary prepayments of
+certain debts, and dividends paid on the Company's Series A
+preferred stock, offset by operating activity and the return of
+deposits held to secure certain obligations.
+
+     Cash and cash equivalents decreased by $2.1 million during the
+year ended April 30, 1995, to $6.0 million at year-end. 
+Approximately $14.3 million of cash was provided by operations.  
+About $9.0 million was used to repay various debt obligations.  The
+Company also paid $2.2 million in dividends to holders of its
+Series A preferred stock.
+
+     During fiscal 1995, the Company spent $6.5 million for capital
+improvements to its facilities.  Capital spending for the year
+ending April 30, 1996 is currently projected to be approximately
+$3.5 million.  The Company had no material commitments for capital
+additions at April 30, 1995.
+
+     During fiscal 1995, the Company entered into bonding
+agreements for its timber acquisition and workers' compensation
+self-insurance (WCSI) activities.  Such bonding allowed the return
+of approximately $2.1 million in cash deposits made to secure its
+timber and WCSI activities.
+
+     The Company does not have a credit facility for working
+capital and therefore relies on cash provided by its operations to
+fund its working capital needs.  There is no assurance that such
+cash will be sufficient to fund the Company's operations. 
+Substantially all of the Company's assets are pledged to secure
+various debt obligations.
+
+     The Company's Credit and Security Agreement dated as of
+November 30, 1992 contains certain covenants, including the
+maintenance of prescribed levels of tangible net worth and adjusted
+cumulative operating income (as defined).  See Note 4 to
+Consolidated Financial Statements.  At April 30, 1995 the Company's
+tangible net worth was $19.3 million compared to $10 million
+required by the covenant.  At that same date, the Company's
+adjusted cumulative operating income was $24.1 million, compared to
+$20.0 million required.  The fiscal 1995 results and the
+expectation of results for the first quarter of fiscal 1996 were
+such that the Company negotiated an amendment to the tangible net
+worth and adjusted cumulative operating income covenants as of May
+1, 1995.  The required level of tangible net worth increases to $15
+million for the period from May 1, 1995 through October 31, 1995,
+decreases to $13.5 million from November 1, 1995 through April 30,
+1996, and increases to $15.0 million from May 1, 1996 through April
+30, 1998.   The covenant originally required maintenance at the $15
+million level for the period May 1, 1995 through April 30, 1998. 
+The required level of adjusted cumulative operating income
+increases to $22.5 million at January 1, 1996, to $27.5 million at
+May 1, 1996 and to $35.0 million at May 1, 1997.  The covenant
+originally required maintenance at the $33 million level from
+August 1, 1995 through April 30, 1996, $40 million during fiscal
+1997, and $50 million for fiscal 1998.  During the year ended April
+30, 1995, the Company's adjusted cumulative operating income
+increased by $3.2 million despite a pretax loss of $1.9 million. 
+Improved operating results will be necessary for the Company to
+remain in compliance with its Credit and Security Agreement.
+
+     The Company has no floating rate debt, but the dividend rate
+on its Series A preferred stock varies based on Bank of America's
+prime rate in effect at the time the dividends are declared.  Based
+on the prime rate in effect at July 10, 1995, annual preferred
+dividends would increase by about $0.2 million from the amount
+incurred in the year ended April 30, 1995.
+
+
+Item 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The financial statements and supplementary data required by
+this item are listed in Item 14 of Part IV of this report which
+begins at page 26.
+
+
+Item 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     None.
+
+                             PART III
+
+Item 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The directors and executive officers of the Company are:
+
+        Name                Age                 Position
+H. Raymond Bingham           49           Director
+Scott Christie               46           Director
+Bruce L. Engel               54           Director and President
+L. Robert Hoffman            42           Vice President
+David J. Loftus              53           Treasurer
+K. Stanley Martin            53           Director, Vice President-
+                                           Finance and Chief
+                                           Financial Officer
+Robert J. Riecke             45           Director, Vice President- 
+                                           Administration, General
+                                           Counsel and Secretary
+John C. Stembridge           36           Vice President-Sales and
+                                           Marketing
+James R. Wilson              45           Vice President-Timber
+William H. Wright            60           Director
+
+     The composition of the Board of Directors of the Company is
+determined by Article XII of the Company's Second Amended Joint
+Plan of Reorganization (the "Plan").  The Plan provides that from
+its Effective Date until the Company's 1995 annual meeting of
+shareholders, the Board of Directors of the Company shall consist
+of seven positions, including six that existed prior to the
+Effective Date, and the seventh to be filled by certain creditors
+of the Company.  Mr. Howard E. Leppla was named as director by
+these creditors.  Mr. Leppla resigned his directorship, effective
+July 6, 1995.  At its annual meeting in calendar year 1995, the
+Board seats held by Mr. Bingham and Mr. Christie will be filled by
+election of the shareholders.  The seat vacated by Mr. Leppla will
+also be filled if a suitable candidate is identified for nomination
+prior to the Annual Meeting of Shareholders in September 1995.  At
+its annual meeting during calendar year 1996, the remaining four
+Board seats will be filled by election of the shareholders.  In the
+event the Company fails to make a certain number of scheduled
+dividend payments or if a certain financial ratio covenant
+violation has occurred and is continuing on its Series A preferred
+stock, holders of such stock may, under the circumstances and in
+the manner provided in the Company's Fourth Restated Articles of
+Incorporation, elect a majority of the Board of Directors by
+replacing incumbent Board members or increasing the size of the
+Board.
+
+     H. Raymond Bingham has been a director of the Company since
+1988.  He is currently executive vice president-chief financial
+officer of Cadence Design Systems, Inc., a manufacturer of
+electronic design software.  Mr. Bingham was formerly executive
+vice president and chief financial officer of Red Lion Hotels and
+Inns, a Vancouver, Washington based hotel chain, a position he held
+until 1993.  Mr. Bingham was also formerly managing director of
+Agrico Overseas Investment Company where he was in charge of
+development of industrial projects. 
+
+     Scott Christie has been a director of the Company since 1988. 
+Mr. Christie is currently general partner of Christie Capital
+Management.  From 1987 until 1994, Mr. Christie was engaged as an
+investment advisor for his own account and the account of other
+individuals.  From 1983 until 1987 Mr. Christie was senior vice
+president of Kidder, Peabody & Co. Incorporated, an investment
+banking firm.  Mr. Christie headed Kidder, Peabody's underwriting
+team for the Company's initial public offering and 1987 debenture
+offering.
+
+     Bruce L. Engel, the Company's founder, has been president and
+a director of the Company since its inception.  Mr. Engel, a
+graduate of the University of Chicago Law School, practiced
+business and corporate law, including representation of clients in
+the wood products industry, from 1964 to 1984.  Mr. Engel became
+engaged in sawmill operations in 1981 with the acquisition of a
+mill in Glide, Oregon, now owned by a subsidiary of the Company. 
+Mr. Engel is involved in various other businesses.  Mr. Engel is
+president and a director of Encore Group, Inc.  Mr. Engel is a
+former executive officer of Kimber of Oregon, Inc., a company which
+filed a petition under Chapter 7 of the U.S. Bankruptcy Code in
+January 1991.
+
+     L. Robert Hoffman is vice president of the Company, a position
+held since January 1988.  Mr. Hoffman is responsible for financial
+reporting and other accounting matters for the Company.  From 1985
+to 1988, Mr. Hoffman was an assistant vice president specializing
+in acquisitions and business development for PacifiCorp's
+international telecommunications subsidiaries.  From 1984 to 1985,
+he was manager of corporate planning for PacifiCorp and from 1983
+to 1984 was director of financial services for Nerco, Inc., a
+company engaged in mining and resource development operations.  Mr.
+Hoffman's earlier experience includes logging and manufacturing
+management responsibilities for Simpson Timber Company.
+
+     David J. Loftus was appointed treasurer of the Company in
+October 1993 and continues to serve as vice president-finance of
+TreeSource, the Company's marketing subsidiary, a position he has
+held since May 1986.  As treasurer, Mr. Loftus is primarily
+responsible for cash management matters and credit and banking
+relationships.  For the eight years prior to joining TreeSource,
+Mr. Loftus served as the assistant treasurer for a publicly-traded
+company with operations in the forest products industry.
+
+     K. Stanley Martin is vice president-finance of the Company, a
+position held since September 1983, and has been chief financial
+officer since April 1991.  Mr. Martin has been a director of the
+Company since January 1994.  Mr. Martin is responsible for all
+financial affairs of the Company.   For the eleven years prior to
+1983, Mr. Martin served as a financial officer for publicly-traded
+companies having all or a substantial portion of their operations
+in the forest products industry.  Mr. Martin is a certified public
+accountant.
+
+     Robert J. Riecke became vice president-administration of the
+Company in May 1989, has been general counsel of the Company since
+January 1987, assistant secretary from March 1983 until January
+1994, and a director of the Company since March 1986.  Mr. Riecke
+was named corporate secretary in January 1994.  Mr. Riecke has
+primary responsibility for the Company's legal, risk management,
+environmental compliance, investor relations, and human resources
+functions.  From 1976 through 1986, Mr. Riecke was in private law
+practice.  Since 1983, Mr. Riecke has devoted much of his
+professional endeavors to legal matters relating to the Company and
+its subsidiaries.  Mr. Riecke is a graduate of the University of
+Illinois School of Law.
+
+     John C. Stembridge was appointed vice president-sales and
+marketing of the Company in February 1995.  Mr. Stembridge joined
+TreeSource, the Company's marketing subsidiary, in 1989 and
+continues to serve as its vice president and general manager, a
+position he has held since June 1991.  Mr. Stembridge has primary
+responsibility for managing all aspects of the Company's lumber
+sales and transportation.  For the nine years prior to joining
+TreeSource, Mr. Stembridge was involved in domestic and export
+lumber sales, primarily with North Pacific Lumber Co.
+
+     James R. Wilson was appointed vice president-timber of the
+Company in October 1993.  Mr. Wilson has primary responsibility for
+the Company's timber supply program.  Prior to his present
+position, Mr. Wilson served at both mill and corporate levels of
+WTD Industries commencing in February 1992.  Prior to 1992, Mr.
+Wilson served as general manager of Estacada Lumber Company, a
+division of RSG Forest Products.  From 1973 to 1984, Mr. Wilson was
+involved in all phases of the wood products industry with Crown
+Zellerbach Corporation.
+
+     William H. Wright has been a director of the Company since
+April of 1992.  Mr. Wright has held a variety of management
+positions in the forest products industry since 1957.  He is
+currently president of Heartwood Consulting Service, which advises
+forest products clients.  From 1989 until 1994 he was president and
+chief executive officer of Dee Forest Products Inc., a manufacturer
+of hardboard and related products.  From 1984 to 1989 Mr. Wright
+was general manager of Stevenson Co-Ply Inc., a manufacturer of
+veneer and plywood.
+
+Reporting of Securities Transactions
+
+     Under the federal securities laws, officers and directors of
+the Company and persons holding more than 10 percent of the
+Company's Common Stock are required to report, within specified
+monthly and annual due dates, their initial ownership in the
+Company's Common Stock and all subsequent acquisitions,
+dispositions or other transfers of beneficial interests therein, if
+and to the extent reportable events occur which require reporting
+by such due dates.  The Company is required to describe in this
+section whether, to its knowledge, any person required to file such
+a report may have failed to do so in a timely manner.
+
+     Based solely on its review of the copies of such forms
+received by it and written representations that no other reports
+were required for those persons, the Company believes that, during
+fiscal 1995, all Section 16(a) filing requirements applicable to
+its executive officers, directors and owners of more than 10
+percent of the Company's Common Stock were complied with.
+
+
+Item 11.  EXECUTIVE COMPENSATION
+
+
+                  SUMMARY COMPENSATION TABLE
+
+     The following table shows the cash and non-cash compensation
+paid by the Company for the last three fiscal years to the chief
+executive officer and the four other most highly compensated
+executive officers.
+
+<TABLE>
+<CAPTION>
+                                        Annual Compensation
+Name and Principal Position      Year     Salary      Bonus
+- ---------------                  ----       ----       ----
+<S>                        <C>        <C>        <C>
+Bruce L. Engel                   1995   $300,000    $48,200
+President                        1994   $300,000   $151,936
+                                 1993   $300,000   $100,553
+
+K. Stanley Martin                1995   $120,000    $19,280
+Vice President-Finance and       1994   $104,250    $51,659
+ Chief Financial Officer         1993    $89,958    $39,216
+
+Robert J. Riecke                 1995   $132,000    $21,209
+Vice President-                  1994   $132,000    $66,853
+ Administration, General         1993   $123,500    $48,484
+ Counsel and Secretary
+
+John C. Stembridge               1995    $86,667    $15,539
+Vice President-Sales and         1994    $80,000    $45,944
+ Marketing                       1993    $76,667    $38,303
+
+James R. Wilson                  1995    $85,833    $12,853
+Vice President-Timber            1994    $70,250    $41,245
+                                 1993    $54,000    $11,058
+</TABLE>
+
+
+                     OPTION GRANTS IN LAST FISCAL YEAR
+
+No executive officer named above received option grants during the fiscal
+year ended April 30, 1995.
+
+            AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                  AND FISCAL YEAR-END OPTION VALUES
+
+     The following table provides information on option exercises
+for the last fiscal year by the named executive officers and the
+value of such officers' unexercised options as of April 30, 1995:
+
+<TABLE>
+<CAPTION>
+                                                               Value of Unexercised
+                  Shares         Number of Unexercised         In-the-Money Options
+                 Acquired      Options at April 30,1995           at April 30, 1995
+Name           or Exercised  Exercisable   Unexercisable   Exercisable   Unexercisable
+- --------           -------      -------        -------        -------        -------
+<S>             <C>        <C>            <C>            <C>            <C>
+Bruce L. Engel      --            230,400        153,600        $45,653        $30,435
+K. Stanley Marti    --             24,200          7,600        $13,010         $1,900
+Robert J. Riecke    --             27,400          7,600        $15,550         $1,900
+John C. Stembrid    --              6,000          4,000             --             --
+James R. Wilson     --              6,000          4,000             --             --
+</TABLE>
+
+Benefits 
+
+     The Company maintains an IRC Section 401(k) retirement savings
+plan under which employees, including executive officers, are
+permitted to make salary deferral contributions.  Executive
+officers are not entitled to employer matching contributions
+pursuant to this plan.  The Company pays the costs of
+administration of the retirement savings plan.
+
+Compensation of Directors
+
+     Each of the Company's outside directors is paid an annual
+retainer of $15,000 for attending up to six Board meetings, plus
+$750 for each additional meeting attended and $225 for each
+telephone conference meeting attended or written consent minutes
+executed.  Directors who are also employees of the Company do not
+receive additional compensation for their services as directors. 
+Pursuant to the Company's Stock Option Plan, directors who are not
+employees of the Company each received initial option grants with
+respect to 35,000 shares of the Company's Common Stock and are
+entitled to receive option grants with respect to 10,000 shares in
+subsequent fiscal years to a maximum aggregate of 80,000 shares. 
+Each director was granted options with respect to 10,000 shares in
+fiscal 1995.
+
+Executive Bonuses
+
+     Monthly discretionary bonuses are paid to the Company's
+executive officers, as well as other management and administrative
+employees, pursuant to the Company's profit sharing bonus plan. 
+The bonuses are based upon net pretax profits and are generally
+allocated according to base salary level.  Bonuses paid to
+executive officers for services rendered to the Company during the
+year ended April 30, 1995 are included in the amounts shown in the
+"Summary Compensation Table."
+
+Stock Option Plan
+
+     In July 1986 the Company adopted a Stock Option Plan ("Option
+Plan").  The Option Plan was amended by the Company's Chapter 11
+Plan of Reorganization to (a) increase to 1,245,900 the number of
+shares available for grant, (b) provide for the grant of
+nonqualified stock options, as well as incentive stock options, (c)
+permit nonemployee agents, consultants, and independent contractors
+to participate in the Option Plan and (d) provide automatic initial
+and annual option grants in defined amounts to the Company's non-
+employee directors.  The purpose of the Option Plan is to motivate
+special achievement by the Company's officers and key employees by
+encouraging them to acquire an equity interest in the Company.
+
+Compensation Committee Interlocks and Insider Participation
+
+     The Compensation Committee of the Board of Directors is
+composed of Mr. Bingham, Mr. Christie, and Mr. Wright.  The
+Compensation Committee determines compensation for executive
+officers, including executive officers who are directors.  It also
+administers the Company's Option Plan.
+
+Board Compensation Committee Report on Executive Compensation
+
+     The Compensation Committee is composed of three independent
+non-employee directors.
+
+     The Compensation Committee is responsible for recommending to
+the full Board of Directors, for its approval, the base
+compensation for all executive officers.  Executive officers who
+serve on the Company's Board of Directors do not participate in any
+deliberations or decisions regarding their own compensation.  The
+Compensation Committee receives recommendations from the Chief
+Executive Officer regarding appropriate levels of base compensation
+for the other executive officers.
+
+     Awards to executive officers (and other employees) under the
+Company's 1986 Amended and Restated Stock Option Plan are made by
+the Compensation Committee acting as an Administrative Committee.
+
+     The Company's executive officer compensation policies are
+designed to attract, motivate and retain senior management by
+providing an opportunity for overall competitive compensation based
+on an adequate base compensation amount and participation in a
+profit based bonus system in effect for all salaried employees of
+the Company.
+
+     The profit sharing component of the overall compensation
+system is designed to reward all salaried employees, including
+executive officers, in relation to the Company's monthly
+performance and to encourage salaried employees at all levels of
+the Company to work together for the common goal of maximizing
+profits.  Salaried employees at the WTD corporate level (including
+all executive officers) receive 10% of monthly consolidated pre-tax
+profits, allocated according to base salary level.
+
+     It is the Company's practice to participate in and use, as a
+basis for comparison, an analysis of executive compensation in the
+Northwest prepared by the compensation consulting group of Milliman
+& Robertson, Inc.  This analysis is useful in establishing base
+salary levels and monitoring overall compensation levels as
+compared to other publicly-traded companies of similar size. 
+Executive officers' compensation paid during fiscal 1995, with
+respect to both base and total cash compensation, was below the
+median levels published in the 1994/1995 Milliman & Robertson
+compensation survey of all industries.
+
+     The Company also uses long term stock-based incentive
+opportunities in the form of options to purchase the Company's
+Common Stock.  The Company's Amended and Restated 1986 Stock Option
+Plan provides for the grant of stock options to employees of the
+Company to purchase shares of the Company's Common Stock subject to
+minimum exercise price limitations imposed by the Company's Plan of
+Reorganization.  Stock option awards are determined on a
+discretionary basis by the Compensation Committee.  No stock
+options were awarded to executive officers during the 1995 fiscal
+year.
+
+     Stock options remaining available for grant to employees
+(including executive officers) have a minimum exercise price of the
+greater of 85% of the fair market value per share of the Company's
+stock at the time of grant or $3.00 per share.
+
+     The Committee believes that stock-based performance
+compensation arrangements are beneficial in aligning management's
+and shareholders' interests in the advancement of shareholder
+value.
+
+     WTD provides the same group life and health insurance coverage
+to executive officers as other employees and requires all
+employees, including executive officers, to pay approximately 25%
+of health insurance premiums by payroll deduction. 
+
+     The Company allows its executive officers and all other
+employees to contribute a percentage of their compensation to the
+Company-sponsored 401(k) Retirement Savings Plan.  Executive
+officers and other salaried employees are not generally entitled to
+matching contributions.
+
+     Neither the executive officers nor other employees are covered
+by any other Company-sponsored retirement plans.
+
+
+Chief Executive Officer Compensation
+
+     All of the policies described above apply to Mr. Engel's
+compensation.  No additional benefits or requirements specifically
+apply to the chief executive officer.
+
+     Mr. Engel's 1995 base salary of $300,000 is below the median
+for chief executive officers of comparably sized public companies,
+as published by the Milliman & Robertson compensation survey.  Mr.
+Engel received a cash bonus of $48,200 during fiscal 1995 under the
+profit sharing plan described above, reflecting profitable
+operations during the first half of the fiscal year.  Mr. Engel's
+bonus and total compensation amounts were below the published
+median levels.
+
+Stock Performance Graph
+
+     The stock performance graph required by this item is included
+under the caption Executive Compensation in the Company's Proxy
+Statement for its 1995 Annual Meeting of Shareholders, and is
+incorporated herein by reference.
+
+Item 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+          MANAGEMENT
+
+     The following table shows beneficial ownership of the
+Company's Common Stock by each director, shareholders known to the
+Company to beneficially own more than 5 percent of the Common
+Stock, by the executive officers named in the Summary Compensation
+Table, and all directors and officers as a group.  Except as
+otherwise specifically noted, each person noted below has sole
+investment and voting power with respect to shares indicated.
+
+<TABLE>
+<CAPTION>
+                                                  Amount and Nature
+Name and Address of Beneficial Owner         of Beneficial Ownership(3)  Percent
+- ---------------------                                  --------------     ----
+<S>                                              <C>                   <C>
+INVISTA Capital Management, Inc., a
+subsidiary of Principal Mutual Life Insurance
+Company
+1500 Hub Tower
+699 Walnut
+Des Moines, Iowa 50309                              828,111 (1)               7.5%
+
+Howard E. Leppla
+3224 Skycroft Drive
+Minneaplois, MN 55418                               649,259 (2)               5.8%
+
+                                                     Amount and Nature
+Name of Directors and Executive Officers   of Beneficial Ownership(3)(4)    Percent
+- ----------------------                           ---------------              ----
+H. Raymond Bingham                                   64,000                   0.6%
+Scott Christie                                       55,400                   0.5%
+Bruce L. Engel(4)                                   616,440                   5.5%
+K. Stanley Martin                                    27,200                   0.3%
+Robert J. Riecke                                     27,400                   0.3%
+John C. Stembridge                                    7,300                   0.1%
+James R. Wilson                                       6,100                   0.1%
+William H. Wright                                    55,000                   0.5%
+
+All directors and executive officers as a 
+group (10 persons)                                  890,240                   7.7%
+</TABLE>
+
+(1)  As determined by reference to the beneficial owner's most
+     recent 13 D or G filing.
+(2)  Mr. Leppla shares with his spouse Mary Leppla voting and
+     investment power as to 608,009 shares beneficially owned. 
+     Includes 41,250 shares reserved for issuance to Mr. Leppla
+     under stock options exercisable within 60 days of July 10,
+     1995.  Mr. Leppla was a director of the Company from November
+     30, 1992 until his resignation on July 6, 1995.
+(3)  Beneficial Ownership is calculated as of July 10, 1995.
+(4)  Includes shares reserved for issuance under options
+     exercisable within 60 days of July 10, 1995 as follows:  Mr.
+     Bingham 55,000; Mr. Christie 55,000; Mr. Engel 230,400; Mr.
+     Martin 24,200; Mr. Riecke 27,400; Mr. Stembridge 6,000; Mr.
+     Wilson 6,000; and Mr. Wright 55,000.
+(5)  Mr. Engel shares with his spouse Teri E. Engel voting and
+     investment power as to 386,040 shares beneficially owned.  See
+     Note 4 above for details of individual option rights.  Certain
+     of Mr. Engel's shares are pledged to third parties in
+     connection with certain personal obligations.
+
+Item 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     None.
+
+                             PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON 
+          FORM 8-K
+(a) (1)  Financial Statements                                 Page
+
+     The following consolidated financial statements
+of the Registrant and its subsidiaries are contained in
+this report:
+
+     Report of Independent Certified Public Accountants         31
+
+     Consolidated Statements of Income for the Years
+       Ended April 30, 1995, 1994 and 1993                      32
+
+     Consolidated Balance Sheets at April 30, 1995 and 1994     33
+     
+     Consolidated Statements of Cash Flows for the Years
+       Ended April 30, 1995, 1994 and 1993                      35
+
+     Consolidated Statement of Changes in Stockholders'
+       Equity for the Years Ended April 30, 1995,
+       1994 and 1993                                            36
+
+     Notes to Consolidated Financial Statements                 37
+
+(a) (2)  Financial Statement Schedules
+
+     The schedules called for under Regulation S-X are not
+submitted because they are not applicable, are not required, or
+because the required information is not material or is included in
+the financial statements or notes thereto.
+
+(a) (3)   Exhibit Index                                        Page
+
+2.1       Final form of Registrant's Second Amended
+          Joint Plan of Reorganization dated October 5,
+          1992, filed with the United States Bankruptcy
+          Court for the Western District of Washington. (1)
+
+3.1       Fourth Restated Articles of Incorporation of the 
+          Registrant adopted November 27, 1992. (1)
+
+3.2       Second Restated Bylaws of the Registrant effective 
+          November 27, 1992.  (9)
+
+4.2       Credit and Security Agreement dated as of 
+          November 30, 1992, between Registrant and 
+          Principal Mutual Life Insurance Company, Aetna 
+          Life Insurance Company, The Northwestern Mutual 
+          Life Insurance Company, Chemical Bank, 
+          Seattle-First National Bank, and Bank of America 
+          Oregon. (2)
+
+4.2.1     Amendment dated as of October 18, 1994 to Credit
+          and Security Agreement dated as of November 30, 1992,
+          between Registrant and Principal Mutual Life Insurance
+          Company, Aetna Life Insurance Company, The Northwestern
+          Mutual Life Insurance Company, Chemical Bank, Seattle-  
+          First National Bank, and Bank of America Oregon.  (10)
+
+4.2.2     Amendment dated as of January 27, 1995 to Credit
+          and Security Agreement dated as of November 30, 1992,
+          between Registrant and Principal Mutual Life Insurance
+          Company, Aetna Life Insurance Company, The Northwestern
+          Mutual Life Insurance Company, Chemical Bank, Seattle-  
+          First National Bank, and Bank of America Oregon.       52
+
+4.2.3     Amendment dated as of May 1, 1995 to Credit and
+          Security Agreement dated as of November 30, 1992,
+          between Registrant and Principal Mutual Life Insurance
+          Company, Aetna Life Insurance Company, The Northwestern
+          Mutual Life Insurance Company, Chemical Bank, Seattle-  
+          First National Bank, and Bank of America Oregon.       56
+
+4.3       Indenture dated as of November 30, 1992, between 
+          Registrant and State Street Bank and Trust Company, 
+          as Trustee, with respect to 8% Senior Subordinated 
+          Notes due 2005. (3)
+
+10.1      Amended and Restated 1986 Stock Option Plan dated 
+          December 30, 1992.  (4)
+
+10.1.2    Form of Stock Option Agreement for directors of
+          Registrant.  (9)
+
+10.1.3    Form of Stock Option Agreement for executive 
+          officers of the Registrant.  (9)
+
+10.2      General Indemnity Agreement dated March 29,
+          1984, among the Registrant, Bruce L. Engel
+          ("Engel"), Teri E. Engel and Employers 
+          Insurance of Wausau ("Wausau") and other 
+          related parties and an Agreement dated 
+          June 25, 1986, among Wausau, the Registrant,
+          Engel and other related parties.  (5)
+
+10.2.1    Letter dated November 18, 1986, from Wausau to
+          the Registrant and General Agreement of Indemnity
+          dated January 19, 1987, among Wausau, the Reg-
+          istrant, Bruce L. Engel and Teri E. Engel.  (6)
+
+10.3      Form of Indemnification Agreement for directors,
+          officers and certain employees effective January 
+          30, 1991.  (9)
+
+10.4      Description of Management Profit-Sharing Bonus
+          Plan.  (5)
+
+10.61     WTD Industries, Inc. Retirement Savings Plan
+          and Trust dated as of May 1, 1989.  (7)
+
+10.62     Amendment No. 1 to WTD Industries, Inc. Retirement
+          Savings Plan and Trust Effective May 1, 1989.  (8)
+
+10.63     Amendment No. 2 to WTD Industries, Inc. Retirement
+          Savings Plan and Trust adopted May 30, 1991.  (8)
+
+10.64     Amendment No. 3 to WTD Industries, Inc. Retirement
+          Savings Plan and Trust adopted June 26, 1992.  (8)
+
+10.65     Amendment No. 4 to WTD Industries, Inc. Retirement 
+          Savings Plan and Trust adopted April 30, 1993.  (9)
+
+10.66     Amendment No. 5 to WTD Industries, Inc. Retirement
+          Savings Plan and Trust adopted December 28, 1994.  (11)
+
+12.2     Computation of Registrant's Net Income (Loss) to
+         Average Total Assets.                                   58
+
+12.3     Computation of Registrant's Net Income (Loss) to
+         Average Stockholders' Equity (Deficit).                 59
+
+12.4     Computation of Registrant's Average Stockholders'
+         Equity (Deficit) to Average Total Assets.               60
+
+21       Subsidiaries of the Registrant (list updated as
+         of July 10, 1995).                                      61
+
+23       Consent of Independent Certified Public
+         Accountants.                                            62
+
+     (1)  Incorporated by reference to the exhibit of like number 
+          to the Registrant's report on Form 8-K dated November 23,
+          1992.
+
+     (2)  Incorporated by reference to the exhibit of like number
+          to the Registrant's quarterly report on Form 10-Q for the
+          quarter ended October 31, 1992, dated December 14, 1992,
+          previously filed with the Commission.
+
+     (3)  Incorporated by reference to the exhibit of like number
+          to the Registrant's quarterly report on Form 10-Q for the
+          quarter ended January 31, 1993, dated March 15, 1993,
+          previously filed with the Commission.
+
+     (4)  Incorporated by reference to exhibit 6.0 to the
+          Registrant's Registration Statement on Form S-8 (No. 33-
+          62714) filed with the Commission on May 14, 1993.
+
+     (5)  Incorporated by reference to the exhibit of like number
+          to the Registrant's Registration Statement on Form S-1
+          (No. 33-7389) filed with the Commission on July 21, 1986,
+          as amended by Amendment Nos. 1 through 3 thereto filed
+          with the Commission on September 3, 1986, October 14,
+          1986 and October 24, 1986, respectively.
+
+     (6)  Incorporated by reference to the exhibit of like number
+          to the Registrant's Registration Statement on Form S-1
+          (No. 33-12644) filed with the Commission on March 16,
+          1987, as amended by Amendment Nos. 1 and 2 thereto filed
+          with the Commission on April 1, 1987 and April 24, 1987,
+          respectively.
+
+     (7)  Incorporated by reference to the exhibit of like number
+          to the Registrant's annual report on Form 10-K for the
+          year ended April 30, 1989, previously filed with the
+          Commission.
+
+     (8)  Incorporated by reference to the exhibit of like number
+          to the Registrant's annual report on Form 10-K for the
+          year ended April 30, 1992, previously filed with the
+          Commission.
+
+     (9)  Incorporated by reference to the exhibit of like number
+          to the Registrant's annual report on Form 10-K for the
+          year ended April 30, 1993, previously filed with the
+          Commission.
+
+    (10)  Incorporated by reference to the exhibit of like number
+          to the Registrant's quarterly report on Form 10-Q for the
+          quarter ended October 31, 1994, previously filed with the
+          Commission.
+
+    (11)  Incorporated by reference to the exhibit of like number
+          to the Registrant's quarterly report on Form 10-Q for the
+          quarter ended January 31, 1995, previously filed with the
+          Commission.
+
+     Except for instruments already filed as exhibits to this Form
+10-K, the Registrant agrees to furnish the Commission upon request
+a copy of each instrument with respect to long-term debt of the
+Registrant and its consolidated subsidiaries, the amount of which
+does not exceed 10% of the total assets of the Registrant and its
+subsidiaries on a consolidated basis.
+
+     Other exhibits listed in Item 601 of Regulation S-K are not
+applicable.
+
+(b)  Reports on Form 8-K
+
+     No reports on Form 8-K were filed during the quarter ended
+April 30, 1995.
+
+
+
+                            SIGNATURES
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+WTD Industries, Inc.
+(Registrant)
+
+
+
+By:  s/ Bruce L. Engel
+- -----------------------------------
+Bruce L. Engel
+President
+July 14, 1995
+
+     Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on
+behalf of the registrant and in the capacities and on the dates
+indicated.
+
+
+
+s/ Bruce L. Engel                  s/ K. S. Martin
+- ------------------------------     ------------------------------
+Bruce L. Engel                     K. Stanley Martin
+President                          Vice President-Finance
+(Principal Executive Officer)      (Principal Financial and
+and Director                       Accounting Officer)
+                                   and Director
+
+
+s/ H. Raymond Bingham              s/ Scott Christie
+- ------------------------------     -------------------------------
+H. Raymond Bingham, Director       Scott Christie, Director
+
+
+s/ William H. Wright               s/ Robert J. Riecke
+- ------------------------------     --------------------------------
+William H. Wright, Director        Robert J. Riecke
+                                   Vice President-Administration
+                                   and Director
+
+
+
+
+     Each of the above signatures is affixed as of July 14, 1995.
+
+
+
+[MOSS ADAMS LETTERHEAD]
+
+
+
+
+
+        REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+
+To the Shareholders
+WTD Industries, Inc.
+
+
+We have audited the accompanying consolidated balance sheets of
+WTD Industries, Inc. and subsidiaries (the "Company") as of April
+30, 1995 and 1994, and the related consolidated statements of
+income, cash flows and changes in stockholders' equity, for each
+of the years in the three-year period ended April 30, 1995. 
+These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audits to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that
+our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial
+position of WTD Industries, Inc. and subsidiaries as of April 30,
+1995 and 1994, and the results of their operations and their cash
+flows for each of the years in the three-year period ended April
+30, 1995, in conformity with generally accepted accounting
+principles.
+
+
+
+                              /s/ Moss Adams
+                              -----------------------------------
+                              MOSS ADAMS
+
+
+
+Beaverton, Oregon
+June 13, 1995<PAGE>
+<TABLE>
+
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF INCOME
+(In Thousands, Except Per-Share Amounts)
+<CAPTION>
+
+                                                                      YEAR ENDED APRIL 30,
+                                         ------------------------------------------------------------
+                                            1995                     1994                    1993
+                                           --------                 --------                --------
+<S>                                      <C>                      <C>                     <C>
+NET SALES                               $   274,966              $   278,115             $   246,887
+
+COST OF SALES                               262,334                  253,732                 227,040
+                                           --------                 --------                --------
+GROSS PROFIT                                 12,632                   24,383                  19,847
+
+GENERAL, SELLING AND
+  ADMINISTRATIVE EXPENSES                    10,366                   12,423                  12,615
+REORGANIZATION CHARGES (CREDITS)               (532)                  (2,487)                    563
+                                           --------                 --------                --------
+OPERATING INCOME                              2,798                   14,447                   6,669
+
+OTHER INCOME (EXPENSE)
+   Interest                                  (5,972)                  (6,541)                 (2,864)
+   Miscellaneous                              1,228                      418                     151
+                                           --------                 --------                --------
+                                             (4,744)                  (6,123)                 (2,713)
+                                           --------                 --------                --------
+INCOME (LOSS) BEFORE INCOME TAXES            (1,946)                   8,324                   3,956
+
+PROVISION FOR INCOME TAXES (BENEFIT)         (5,646)                   2,024                   1,543
+                                           --------                 --------                --------
+INCOME BEFORE
+  EXTRAORDINARY ITEMS                         3,700                    6,300                   2,413
+
+EXTRAORDINARY ITEMS                              --                       --                  21,345
+                                           --------                 --------                --------
+NET INCOME                                    3,700                    6,300                  23,758
+
+PREFERRED DIVIDENDS                           2,126                    1,616                     647
+                                           --------                 --------                --------
+NET INCOME APPLICABLE TO 
+  COMMON SHAREHOLDERS                   $     1,574              $     4,684             $    23,111
+                                           ========                 ========                ========
+
+NET INCOME PER 
+  COMMON SHARE-PRIMARY
+   Income before
+     extraordinary items                      $0.14                    $0.41                   $0.29
+   Extraordinary items                           --                       --                    3.46
+                                           --------                 --------                --------
+                                              $0.14                    $0.41                   $3.75
+                                           ========                 ========                ========
+
+NET INCOME PER 
+  COMMON SHARE-FULLY DILUTED
+   Income before
+     extraordinary items                      $0.14                    $0.41                   $0.28
+   Extraordinary items                           --                       --                    3.43
+                                           --------                 --------                --------
+                                              $0.14                    $0.41                   $3.71
+                                           ========                 ========                ========
+
+
+
+<FN>
+            The accompanying notes are an integral part of these consolidated financial statements
+</TABLE>
+<TABLE>
+
+
+
+
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+ASSETS
+(In Thousands)
+
+<CAPTION>
+
+                                                                   APRIL 30,
+                                                     ------------------------------------------------
+                                                         1995                    1994
+                                                         -------                 -------
+<S>                                                  <C>                      <C>
+CURRENT ASSETS
+   Cash and cash equivalents                        $      6,023             $     8,101
+   Accounts receivable, net                               11,404                   8,634
+   Inventories                                            18,104                  26,796
+   Prepaid expenses                                        4,024                   3,145
+   Income tax refund receivable                              503                      --
+   Deferred tax asset                                      1,830                   2,197
+   Timber, timberlands and
+     timber-related assets                                 9,299                  11,743
+                                                         -------                 -------
+      Total current assets                                51,187                  60,616
+
+
+NOTES AND ACCOUNTS RECEIVABLE                                 89                     121
+
+TIMBER AND TIMBERLANDS                                       705                     845
+
+PROPERTY, PLANT AND EQUIPMENT, at cost
+   Land                                                    2,733                   2,602
+   Buildings and improvements                             11,008                  10,067
+   Machinery and equipment                                65,511                  60,148
+                                                         -------                 -------
+                                                          79,252                  72,817
+
+   Less accumulated depreciation                          47,727                  42,001
+                                                         -------                 -------
+                                                          31,525                  30,816
+
+   Construction in progress                                  600                   1,361
+                                                         -------                 -------
+                                                          32,125                  32,177
+
+DEFERRED TAX ASSET                                         2,448                      --
+
+OTHER ASSETS                                               2,390                   3,341
+                                                         -------                 -------
+
+                                                    $     88,944             $    97,100
+                                                         =======                 =======
+
+
+<FN>
+ The accompanying notes are an integral part of these consolidated financial statements
+</TABLE>
+<TABLE>
+
+
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+(In Thousands, Except Share Information)
+
+<CAPTION>
+
+                                                                   APRIL 30,
+                                                     ------------------------------------------------
+                                                         1995                    1994
+                                                         -------                 -------
+<S>                                                  <C>                      <C>
+CURRENT LIABILITIES
+   Accounts payable                                 $      6,023             $     3,361
+   Accrued expenses                                        7,466                   7,946
+   Income taxes payable                                       --                     283
+   Timber contracts payable                                1,660                   2,292
+   Current maturities of long-term debt                    2,298                   1,938
+                                                         -------                 -------
+      Total current liabilities                           17,447                  15,820
+
+DEFERRED INCOME TAXES PAYABLE                                 --                   2,181
+
+LONG-TERM DEBT, less current maturities                   51,421                  60,587
+
+COMMITMENTS AND CONTINGENCIES
+
+STOCKHOLDERS' EQUITY
+   Preferred stock, no par value;
+     10,000,000 shares authorized:
+       Series A                                           20,688                  20,654
+       Series B                                              333                     333
+   Common Stock, no par value                             28,641                  28,617
+   Additional paid-in capital                                 15                      15
+   Retained deficit                                      (29,601)                (31,107)
+                                                         -------                 -------
+                                                          20,076                  18,512
+                                                         -------                 -------
+
+                                                    $     88,944             $    97,100
+                                                         =======                 =======
+
+<FN>
+
+The accompanying notes are an integral part of these consolidated financial statements
+</TABLE>
+<TABLE>
+
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In Thousands)
+
+<CAPTION>
+                                                                     YEAR ENDED APRIL 30,
+                                         ------------------------------------------------------------
+                                            1995                     1994                    1993
+                                            -------                  -------                 -------
+<S>                                      <C>                      <C>                     <C>
+CASH PROVIDED BY (USED FOR)
+    OPERATING ACTIVITIES:
+  Net income                            $     3,700              $     6,300             $    23,758
+  Adjustments to reconcile net income to
+     cash provided by (used for) operations:
+   Depreciation, depletion and amortization   7,058                    8,146                  13,124
+   Deferred income tax                       (4,262)                     (16)                     --
+   Reorganization charges                      (532)                  (2,487)                    563
+   Gain on debt restructure, before 
+     income tax provision                        --                       --                 (19,802)
+   Accounts receivable                       (2,770)                  10,949                  (4,795)
+   Inventories                                8,692                   (8,474)                  2,974
+   Income taxes                                (786)                     283                      --
+   Prepaid expenses                            (879)                    (746)                    208
+   Timber, timberlands and
+     timber-related assets - current          2,132                    5,691                  (7,975)
+   Accruals, payables & other operating
+     activities                               1,974                   (5,196)                 (6,449)
+                                           --------                 --------                --------
+     Cash provided by operating activities   14,327                   14,450                   1,606
+                                           --------                 --------                --------
+CASH PROVIDED BY (USED FOR)
+     INVESTING ACTIVITIES:
+  Notes and accounts receivable                  75                       (1)                     63
+  Net reductions of (additions to) timber
+    and timberlands                             140                       13                    (155)
+  Acquisition of property, plant & equipment (6,467)                  (4,066)                 (5,319)
+  Cost of holding idle facilities                (7)                    (125)                   (996)
+  Proceeds from sale of idle facilities          --                    2,013                   4,819
+  Other investing activities                    227                      281                     207
+                                           --------                 --------                --------
+     Cash used for investing activities      (6,032)                  (1,885)                 (1,381)
+                                           --------                 --------                --------
+CASH PROVIDED BY (USED FOR)
+     FINANCING ACTIVITIES:
+  Principal payments on long-term debt       (8,952)                  (4,190)                 (9,646)
+  Other assets                                  749                     (853)                    (33)
+  Restricted cash                                --                       --                   7,606
+  Dividends paid on preferred stock          (2,194)                  (1,616)                   (776)
+  Issuance of Common Stock                       24                       71                      10
+                                           --------                 --------                --------
+     Cash used for financing activities     (10,373)                  (6,588)                 (2,839)
+                                           --------                 --------                --------
+INCREASE (DECREASE) IN CASH AND
+     CASH EQUIVALENTS                        (2,078)                   5,977                  (2,614)
+
+CASH BALANCE AT BEGINNING OF YEAR             8,101                    2,124                   4,738
+                                           --------                 --------                --------
+CASH BALANCE AT END OF YEAR             $     6,023              $     8,101             $     2,124
+                                           ========                 ========                ========
+CASH PAID (REFUNDED) DURING
+     THE YEAR FOR:
+  Interest                                   $6,989                   $7,229                  $2,628
+  Income taxes                                ($613)                  $1,742                      --
+
+<FN>
+         The accompanying notes are an integral part of these consolidated financial statements
+</TABLE>
+
+<TABLE>
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+(In Thousands)                         
+<CAPTION>
+                              SERIES A          SERIES B                    ADDI-                STOCK-
+                          PREFERRED STOCK    PREFERRED STOCK   COMMON STOCK     TIONAL   RETAINED    HOLDERS'
+                          ------  ------    --------------    ------  -----     PAID-IN  EARNINGS     EQUITY
+                          SHARES   AMOUNT   SHARES   AMOUNT   SHARES   AMOUNT   CAPITAL  (DEFICIT)   (DEFICIT)
+                           -----    -----    -----    -----    -----    -----    ------    ------      ------
+<S>                       <C>     <C>       <C>     <C>       <C>     <C>      <C>       <C>         <C>
+Balance at April 30,1992      --       --       --       --    6,229 $ 15,205 $      15 $ (58,773) $  (43,553)
+
+Four-for-ten reverse split    --       --       --       --   (3,737)      --        --        --          --
+
+Shares issued pursuant
+   to reorganization plan    269 $ 20,581      197 $ 10,730    1,869    2,934        --        --      34,245
+
+Shares converted              --       --      (91)  (4,974)   3,176    4,974        --        --          --
+
+Stock options exercised       --       --       --       --       11       10        --        --          10
+
+Dividends paid                --       --       --       --       --       --        --      (776)       (776)
+
+Net income                    --       --       --       --       --       --        --    23,758      23,758
+                           -----    -----    -----    -----    -----    -----    ------    ------      ------
+Balance at April 30, 1993    269   20,581      106    5,756    7,548   23,123        15   (35,791)     13,684
+
+Shares issued pursuant
+   to reorganization plan      1       73       --       --       --       --        --        --          73
+
+Shares converted              --       --     (100)  (5,423)   3,464    5,423        --        --          --
+
+Stock options exercised       --       --       --       --       49       71        --        --          71
+
+Dividends paid                --       --       --       --       --       --        --    (1,616)     (1,616)
+
+Net income                    --       --       --       --       --       --        --     6,300       6,300
+                           -----    -----    -----    -----    -----    -----    ------    ------      ------
+Balance at April 30, 1994    270   20,654        6      333   11,061   28,617        15   (31,107)     18,512
+
+Shares issued pursuant
+   to reorganization plan     --       34       --       --       --       --        --        --          34
+
+Stock options exercised       --       --       --       --       16       24        --        --          24
+
+Dividends paid                --       --       --       --       --       --        --    (2,194)     (2,194)
+
+Net income                    --       --       --       --       --       --        --     3,700       3,700
+                           -----    -----    -----    -----    -----    -----    ------    ------      ------
+Balance at April 30, 1995    270 $ 20,688        6 $    333   11,077 $ 28,641 $      15 $ (29,601) $   20,076
+                           =====    =====    =====    =====    =====    =====    ======    ======      ======
+
+<FN>
+                   The accompanying notes are an integral part of these consolidated financial statements
+</TABLE>
+
+
+NOTE 1 -  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Principles of consolidation and operations - The consolidated
+financial statements include the accounts of WTD Industries, Inc.
+and its wholly owned subsidiaries (hereinafter "WTD" or "the
+Company").  All significant intercompany accounts and transactions
+have been eliminated.
+
+     The Company operates in one industry segment, the manufacture
+and sale of softwood and hardwood lumber products, wood chips and
+other by-products.  Most lumber products are sold to wholesalers,
+distributors or directly to large retailers.  The Company's
+products are used in many applications, including residential and
+commercial construction, packaging and industrial uses.
+
+     Market conditions in the housing sector deteriorated during
+the third and fourth quarters of fiscal 1995.  Low lumber prices
+combined with high log prices created losses for the Company during
+the fourth quarter, a period in which operating results have been
+historically strong.  The Company curtailed production in response
+to these weak market conditions.  Reduced operations at selected
+mills and temporary curtailments at others will continue until
+operating conditions improve.
+
+     The fiscal 1995 results and the expectation of results for the
+first quarter of fiscal 1996 were such that management initiated an
+amendment to its primary debt agreement.  This debt agreement was
+amended as of May 1, 1995, with respect to certain affirmative
+financial performance covenants.  Improved operating conditions
+will be necessary for the Company to remain in compliance with its
+primary debt agreement.  See Note 4 to Consolidated Financial
+Statements.
+
+     The Company's sales are predominantly in the United States;
+export sales are not material.  During the year ended April 30,
+1995, the Company had sales to one major customer of $33,346,000,
+or 12.1% of net sales.  During the year ended April 30, 1994, WTD
+had no sales to any one customer in excess of 10 percent of net
+sales.  The loss of any one customer would not, in the opinion of
+management, have a material adverse impact on the financial results
+of the Company.
+
+     Temporary cash investments and trade receivables potentially
+subject the Company to concentrations of credit risk.  The Company
+places its temporary cash investments with high credit-quality
+financial institutions, and by policy limits the amount of credit
+exposure to any one institution.  The Company reviews a customer's
+credit history before extending credit and continuously evaluates
+its accounts receivable.  Concentrations of credit risk on trade
+receivables are limited due to the Company's large number of
+customers and their widely varying locations.  Generally, the
+Company does not require collateral or other security to support
+its trade receivables.
+
+     WTD has from time to time utilized futures contracts to
+minimize the Company's exposure to adverse movements in the log and
+lumber markets.  This activity has not been significant in the past
+and the Company had no material futures position at April 30, 1995.
+
+     Cash and cash equivalents - Financial instruments with a
+maturity of three months or less are considered to be cash
+equivalents.
+
+     Accounts receivable - Trade accounts receivable are shown net
+of allowances for doubtful accounts and discounts of $199,000 and
+$658,000 at April 30, 1995 and 1994, respectively.
+
+     Inventories - Inventories are valued at the lower of cost or
+market.  Cost is determined using the average cost and first-in,
+first-out (FIFO) methods.  A summary of inventory by principal
+product classification follows (in thousands):
+
+                                             APRIL 30,
+                                        1995          1994
+                                     --------       --------
+                Logs                 $  6,100       $ 11,777
+                Lumber                 10,808         13,818
+                Supplies                1,196          1,201
+                                     --------       --------
+                                     $ 18,104       $ 26,796
+                                     ========       ========
+
+
+     At April 30, 1995 and 1994, $375,000 and $3,094,000,
+respectively, of log inventory was valued at market, which
+approximated cost.  At both April 30, 1995 and 1994, all lumber
+inventory was valued at market, which represented reductions of
+$2,729,000 and $2,511,000, respectively, from cost.
+
+     Property, plant and equipment - Property, plant and equipment
+of the Company's facilities are stated at cost.  For financial
+reporting purposes, the Company uses the units-of-production method
+for computing depreciation over the estimated useful lives of
+assets, ranging from ten to thirty years for buildings and
+improvements, and three to ten years for machinery and equipment. 
+When assets are retired or disposed of, cost and accumulated
+depreciation are reversed from the related accounts and any gain or
+loss is included as income.
+
+     Timber and timberlands - Timber and timberlands are stated at
+the lower of aggregate cost or estimated disposal value, less the
+amortized cost of timber harvested.  The portion of the cost
+attributable to standing timber is charged against income as timber
+is cut, at rates determined periodically based on the relationship
+between unamortized timber value and the estimated volume of
+recoverable timber.  The costs of roads and land improvements are
+capitalized and amortized over their economic lives.  The carrying
+costs of timber, timberlands and related assets are expensed as
+incurred.  The Company classifies timber and timber-related assets
+as current or long-term assets based upon expected harvest and
+disposal plans.
+
+     Timber-cutting contracts - The Company purchases timber under
+various types of contracts.  Certain contracts, for which the total
+purchase price is fixed, are recorded as assets along with the
+related liability at the date acquired.  The remaining contracts,
+for which the total purchase price depends on the volume of timber
+removed, are considered to be commitments (as discussed in Note 9)
+and are not recorded until the timber is removed.
+
+     Income taxes - Income taxes are provided for transactions in
+the year in which they are reflected in earnings, even though they
+may be reported for tax purposes in a different year.  The
+resulting difference between taxes charged to operations and taxes
+paid is reported as deferred income taxes.  Tax credits are
+recognized in the year utilized, using the flow-through method. 
+Effective May 1, 1993, the Company adopted Statement of Financial
+Accounting Standard Number 109 "Accounting for Income Taxes".  No
+gain or loss was recorded as a result of implementing this
+pronouncement.  See Note 5 to Consolidated Financial Statements.
+
+     Accrued expenses - The following is a summary of the
+components of accrued expenses (in thousands):
+
+
+                                                  APRIL 30,
+                                            1995            1994
+                                          --------        --------
+          Payroll and related items       $  5,127        $  5,442
+          Freight payable                      867             868
+          Reserve for disputed and
+           unallowed prepetition claims         40             290
+          Other                              1,432           1,346
+                                          --------        --------
+                                          $  7,466        $  7,946
+                                          ========        ========
+
+
+NOTE 2  - NET INCOME PER SHARE
+
+     This computation is based on net income less preferred
+dividends for the period, divided by the weighted average number of
+shares of Common Stock and equivalents assumed to be outstanding
+during the period.  Anti-dilutive common stock equivalents are
+excluded from the calculations.
+
+     The calculations of net income per share for the years ended
+April 30, 1995, 1994 and 1993 are summarized below (in thousands,
+except per-share data):
+
+
+<TABLE>
+<CAPTION>
+                                                              YEAR ENDED APRIL 30,
+                                         -------------------------------------------------------------
+                                            1995                     1994                    1993
+                                         ----------               ----------              ----------
+<S>                                      <C>                      <C>                     <C>
+INCOME BEFORE EXTRAORDINARY ITEMS       $     3,700              $     6,300             $     2,413
+EXTRAORDINARY ITEMS                              --                       --                  21,345
+                                         ----------               ----------              ----------
+NET INCOME                                    3,700                    6,300                  23,758
+PREFERRED DIVIDENDS                           2,126                    1,616                     647
+                                         ----------               ----------              ----------
+NET INCOME APPLICABLE TO 
+  COMMON SHAREHOLDERS                   $     1,574              $     4,684             $    23,111
+                                         ==========               ==========              ==========
+
+
+WEIGHTED AVERAGE NUMBER
+WEIGHTED AVERAGE SHARES OUTSTANDING(1)       11,075                    9,477                   3,744
+
+ADDITIONAL SHARES ASSUMED FROM:
+ Conversion of Series B
+  preferred stock                               213                    1,770                   2,367
+
+ Exercise of stock options                      204                      186                      55
+                                         ----------               ----------              ----------
+AVERAGE NUMBER OF SHARES AND
+ EQUIVALENTS OUTSTANDING
+  - PRIMARY BASIS                            11,492                   11,433                   6,166
+
+ADDITIONAL SHARES ASSUMED FROM
+ EXERCISE OF STOCK OPTIONS                       18                       86                      65
+                                         ----------               ----------              ----------
+AVERAGE NUMBER OF SHARES AND
+ EQUIVALENTS OUTSTANDING
+  - ASSUMING FULL DILUTION                   11,510                   11,519                   6,231
+                                         ==========               ==========              ==========
+
+
+NET INCOME PER COMMON SHARE
+ - PRIMARY BASIS
+    Before extraordinary items                $0.14                    $0.41                   $0.29
+    Extraordinary items                          --                       --                    3.46
+                                         ----------               ----------              ----------
+
+                                              $0.14                    $0.41                   $3.75
+                                         ==========               ==========              ==========
+
+NET INCOME PER COMMON SHARE
+ - ASSUMING FULL DILUTION
+    Before extraordinary items                $0.14                    $0.41                   $0.28
+    Extraordinary items                          --                       --                    3.43
+                                         ----------               ----------              ----------
+
+                                              $0.14                    $0.41                   $3.71
+                                         ==========               ==========              ==========
+<FN>
+ (1) 1993 shares adjusted for four-for-ten reverse common stock split on November 30, 1992.
+</TABLE>
+
+NOTE 3  - TIMBER, TIMBERLANDS AND TIMBER-RELATED ASSETS
+
+     The following summarizes the components of timber, timberlands
+and timber-related assets (in thousands):
+
+
+                                                   APRIL 30,
+                                              1995           1994
+                                            --------       --------
+     Timber held under contract            $  5,565        $  6,730
+     Timber, timberlands 
+       and timber deposits                    3,353           4,936
+     Logging roads (at amortized cost)          381              77
+                                           --------        --------
+                                           $  9,299        $ 11,743
+                                           ========        ========
+
+     Timber and timberlands, long-term     $    705        $    845
+                                           ========        ========
+
+     Timber held under contract is comprised of various public and
+private timber contracts representing approximately 23 million
+board feet (MMBF) at April 30, 1995 and 19 MMBF at April 30, 1994. 
+Outstanding obligations relating to these contracts at April 30,
+1995 and 1994, were $1,660,000 and $2,292,000, respectively.
+
+NOTE 4  - LONG-TERM DEBT
+
+     Long-term debt consists of the following (in thousands):
+
+                                                    APRIL 30,
+                                                1995        1994
+                                              --------    --------
+
+     Senior secured debt, bearing interest
+     at 10%; principal payable in quarterly
+     installments of $225 through December
+     15, 1997, then quarterly installments
+     of $400 through December 15, 1998,
+     then quarterly installments of $1,000
+     beginning March 15, 1999, and a final
+     payment in December 2004; secured by
+     substantially all assets of the Company
+     not otherwise encumbered.                $ 50,523    $ 56,894
+
+     Secured notes, interest at rates from
+     8.8% to 11%; payable on various dates;
+     secured by various assets.                    987       1,931
+
+     Priority notes, $228 payable in fiscal
+     1996, $29 payable in fiscal 1997, $18
+     payable in fiscal 1998, plus interest
+     at 8.3%; senior to all other unsecured
+     obligations.                                  275         468
+
+     Unsecured Senior Subordinated Notes,
+     net of discount of $428 ($624 at April
+     30, 1994); 8% coupon, effective interest
+     rate of 13.3%; semi-annual interest
+     payments each June 30 and December 31;
+     principal due in full June 30, 2005.        1,048       1,435
+
+     Other unsecured debt, net of discount
+     of $229 ($592 at April 30, 1994); pay-
+     able in equal annual installments of
+     $478; non-interest bearing; effective
+     interest rate of  12.3%.                      886       1,797
+                                              --------    --------
+                                                53,719      62,525
+
+     Less current maturities                    (2,298)     (1,938)
+                                              --------    --------
+                                              $ 51,421    $ 60,587
+                                              ========    ========
+
+
+     The Company's primary debt agreement includes covenants for
+maintaining specified levels of income, cash flow, working capital,
+and collateral coverage.  This agreement also imposes certain
+restrictions and limitations on capital expenditures, investments,
+dividend payments, new indebtedness, and transactions with
+officers, directors, shareholders and affiliates.  This debt
+agreement was amended as of May 1, 1995, with respect to two
+affirmative financial performance covenants.  One covenant requires
+the Company to maintain tangible net worth of $10 million at April
+30, 1995, and the second covenant requires the Company to maintain
+adjusted cumulative operating income (as defined) of $20 million. 
+At April 30, 1995, the Company's tangible net worth and adjusted
+cumulative operating income were $19.3 million and $24.1 million,
+respectively.  These debt covenants contain escalation provisions
+over the term of the agreement.  The tangible net worth covenant
+increased to $15 million at May 1, 1995, declines to $13.5 million
+at November 1, 1995, and increases to $15 million at May 1, 1996. 
+The adjusted cumulative operating income covenant increases to
+$22.5 million at January 1, 1996, and $27.5 million at May 1, 1996.
+
+     During the year ended April 30, 1995, the Company's adjusted
+cumulative operating income increased by $3.2 million despite a
+loss before tax benefit of $1.9 million.  See Note 1 to
+Consolidated Financial Statements.
+
+     In accordance with the Company's primary debt agreement,
+mandatory additional prepayments are required if the Company's
+cumulative operating income exceeds certain specified amounts.  No
+such prepayment will be required for the year ended April 30, 1995.
+
+     Future minimum repayments under the terms of all of the
+Company's debt are as follows (in thousands):
+
+                    1996           2,298
+                    1997           1,126
+                    1998           1,313
+                    1999           2,447
+                    2000           4,007
+                    thereafter    42,528
+                                --------
+                                $ 53,719
+                                ========
+
+NOTE 5  -     PROVISION FOR INCOME TAXES
+
+     The income tax provision (benefit) is based on the estimated
+effective annual tax rate for each fiscal year.  The provision
+(benefit) includes anticipated current income taxes payable or
+refundable, the tax effect of anticipated differences between the
+financial reporting and tax basis of assets and liabilities, and
+the expected utilization of net operating loss (NOL) carryforwards.
+
+     Effective May 1, 1993, the Company adopted Statement of
+Financial Accounting Standard (SFAS) Number 109, "Accounting for
+Income Taxes."  This statement mandates the asset and liability
+approach to determining income tax provision or benefit.  Deferred
+income tax benefits and liabilities are recognized for the tax
+consequences of temporary differences in the carrying value of
+assets and liabilities for financial reporting and income tax
+purposes.  The cumulative effect of adopting SFAS Number 109 as of
+May 1, 1993 was not material.  The Company's prior year financial
+statements have not been restated for the provisions of this
+pronouncement.  The federal and state income tax provision consists
+of the following (in thousands):
+
+                                           Year Ended April 30,
+                                      1995        1994        1993
+                                    -------     -------     -------  
+Income (loss) before income taxes   $(1,946)    $ 8,324     $ 3,956
+                                    =======     =======     =======
+Income tax provision (benefit):
+    Federal                         $(5,052)    $ 1,984     $ 1,345
+    State                              (594)         40         198
+                                    -------     -------     -------
+                                    $(5,646)    $ 2,024     $ 1,543
+                                    =======     =======     =======
+
+    Current                         $(1,384)    $ 2,040     $    -
+    Deferred                         (4,262)        (16)         -
+                                    -------     -------     -------
+                                    $(5,646)    $ 2,024     $    -
+                                    =======     =======     =======
+
+     The fiscal 1993 tax provision was calculated at statutory
+rates and the estimated benefits of net operating loss (NOL)
+carryforwards were recognized as extraordinary items.  The tax
+benefit of NOL carryforwards in fiscal 1993 includes $7.7 million
+associated with an extraordinary gain on debt restructure.
+
+     The income tax provision in fiscal 1993 differs from the
+amount computed by applying the federal statutory rate principally
+as a result of state income taxes.  The income tax provision in
+fiscal 1994 differs from the amount computed by applying the
+federal statutory rate principally as a result of recognizing the
+tax benefits of NOL carryforwards.  The tax provision in fiscal
+1995 differs from the amount computed by applying the federal
+statutory rate principally as a result of elections made under the
+Internal Revenue Code regarding the calculation and use of NOL
+carryforwards.
+
+     In the quarter ended January 31, 1995, the Company recorded
+current and deferred income tax benefits of $5.4 million associated
+with elections made by the Company under Internal Revenue Service
+(IRS) Regulations regarding the calculation and use of NOL
+carryforwards.  These elections required the Company to reduce its
+federal NOL by approximately $8.2 million and its state NOL by
+approximately $5.9 million.  These reductions relate to interest
+expense recorded on debts which were converted to equity in the
+reorganization and taxable income not recognized on the conversion
+of debt to stock.  However, the elections permit the remaining NOL
+to offset taxable income without annual limitation.
+
+     Accordingly, the Company amended its tax returns for fiscal
+year 1993 and filed its fiscal year 1994 tax returns to reflect
+utilization of its remaining federal and state NOL without annual
+limitation.  This results in anticipated refunds of prior year and
+current year taxes and deposits aggregating approximately $1.9
+million, of which $1.45 million had been received as of April 30,
+1995.  The Company can expect audits of its tax returns by various
+taxing authorities for the years ending after April 30, 1991.  The
+results of any such examinations could affect the amount of NOL
+carryforwards available to offset future tax liabilities.  The
+Company's remaining NOL at April 30, 1995 is approximately $18.6
+million for federal income tax and $15.9 million for state income
+tax purposes.  These carryforwards expire in 2006 and 2007.
+
+     SFAS Number 109 requires that all current deferred tax assets
+and liabilities be grouped and reported as one amount and that all
+noncurrent deferred tax assets and liabilities be grouped and
+reported as one amount.   Classification as current or noncurrent
+is based upon the classification of the related asset or liability
+for financial reporting.  For deferred tax amounts that do not
+relate to an asset or liability for financial reporting,
+classification is to be based upon the expected utilization.
+
+     At April 30, 1995 and 1994, deferred tax assets and
+liabilities were comprised of the following (in thousands):
+
+
+                                          Year Ended April 30,
+                                            1995       1994
+                                          --------   --------
+
+Current deferred tax assets:
+   Non-deductible accruals                $  1,741   $  1,953
+   Reserves for doubtful accounts
+     and discounts                              89        244
+                                          --------   --------
+       Net current deferred tax assets    $  1,830   $  2,197
+                                          ========   ========
+
+Non-current deferred tax assets:
+   Tax benefit of net operating
+     loss carryforward                    $  7,107   $ 11,028
+   Valuation allowance against tax
+     benefit of net operating
+     loss carryforwards                     (2,946)   (11,028)
+                                          --------   --------
+                                             4,161        --
+Non-current deferred tax liabilities:
+   Differences in depreciation 
+     and capitalization of assets for
+     financial reporting and tax purposes   (1,713)    (2,181)
+                                          --------   --------
+
+       Net long-term deferred tax 
+         assets (liabilities)             $  2,448   $ (2,181)
+                                          ========   ========
+
+Total net deferred tax asset              $  4,278   $     16
+                                          ========   ========
+
+     Management has assessed the likelihood of utilizing the
+recorded deferred tax asset related to its NOL carryforwards,
+including its operating history, the cyclical nature of the
+industry in which the Company operates, current economic conditions
+and the potential outcome of any IRS audits.  Based upon the above
+factors, management believes that a valuation allowance of
+approximately $2.9 million is necessary.  Management periodically
+reviews the above factors and may change the amount of valuation
+allowance as facts and circumstances dictate.
+
+
+NOTE 6  - STOCKHOLDERS' EQUITY
+
+     Stockholders' equity at April 30, 1995 consists of the
+following:
+
+     Series A preferred stock, $100 per share liquidation
+preference; 500,000 shares authorized; 270,079 shares issued and
+outstanding, limited voting rights; cumulative dividends payable
+quarterly in advance at the prime rate, with a minimum rate of 6%
+and a maximum rate of 9%; convertible into Common Stock at $7.50
+per share after April 30, 1999; redeemable at original issue price
+plus any accrued dividends at the option of the Board of Directors,
+in the form of cash or in exchange for senior unsecured debt with
+12% coupon.  The holders of the Series A preferred stock will be
+granted voting control of the Company's Board of Directors in the
+event the Company misses three consecutive quarterly dividend
+payments, four quarterly dividend payments within twenty-four
+months or a total of eight quarterly dividend payments.
+
+     Series B preferred stock, $100 per share liquidation
+preference; 500,000 shares authorized; 6,111 shares issued and
+outstanding; limited voting rights; convertible into 212,693 shares
+of Common Stock; dividends payable only if paid on the Company's
+Common Stock; redeemable at original issue price plus accrued
+dividends at the option of the Board of Directors after all Series
+A preferred stock has been redeemed.
+
+     Common Stock, no par value; 40,000,000 shares authorized;
+11,077,074 shares issued and outstanding.  Before giving effect to
+any shares that might be issued pursuant to the management
+incentive stock option plan or conversion of any Series A preferred
+stock, the total number of common shares would increase to
+11,289,767 shares if the remaining outstanding Series B preferred
+stock is converted to Common Stock.
+
+
+NOTE 7  - EXTRAORDINARY ITEMS AND REORGANIZATION CHARGES (CREDITS)
+
+     In fiscal 1993, the Company reorganized under Chapter 11 of
+the Federal Bankruptcy Code and recognized a gain on its debt
+restructure of $12,102,000 and a tax benefit related to the use of
+net operating loss carryforwards of $9,243,000.  These items,
+aggregating $21,345,000, were recognized as extraordinary items. 
+In conjunction with the restructuring, management reduced the value
+of assets associated with certain facilities to their estimated net
+realizable value and established certain reserves for expenses
+related to the cost of holding and disposing of such facilities. 
+In fiscal years 1993, 1994 and 1995, the reorganization charges and
+credits related to the Company's sale of idle assets and settlement
+of obligations at amounts which varied from their original
+estimates.
+
+
+NOTE 8  - STOCK OPTIONS, WARRANTS AND EMPLOYEE BENEFIT PLANS
+
+     Effective December 30, 1992, the Company's Stock Option Plan
+("Option Plan") was amended and restated, and new options were
+granted.  Non-qualified stock options may be granted to directors,
+independent contractors, consultants, and employees, and incentive
+stock options may be granted to employees, to acquire up to
+1,245,900 shares of Common Stock.  Options may be granted for a
+term not to exceed 10 years and are not transferable other than by
+will or the laws of descent and distribution.  The Option Plan
+terminates on July 11, 1996, or such earlier time as the Board of
+Directors may determine.  The Option Plan provides for incremental
+vesting based upon the optionee's period of service with the
+Company and is administered by the Compensation Committee of the
+Board of Directors.
+
+     Following is a summary of the activity with respect to the
+Option Plan for the years ended April 30, 1993, 1994 and 1995:
+
+
+<TABLE>
+<CAPTION>
+                                                                          Non-Employee
+                                           Employee Stock Options        Stock Options
+                                           Option     Number of     Option     Number of
+                                            Price       Shares       Price      Shares
+                                         ----------   ----------  ----------  ----------
+<S>                                      <C>         <C>          <C>         <C>
+Shares under option at April 30, 1993       $.95625
+                                           to $3.00      646,200       $1.50     140,000
+
+Options granted May 3, 1993                   $3.00      119,600       $3.00      40,000
+
+Options exercised                           $.95625
+                                           to $1.50      (60,800)                     --
+
+Options cancelled                           $.95625
+                                           to $3.00      (54,600)                     --
+                                                      ----------              ----------
+Shares under option at April 30, 1994                    650,400                 180,000
+
+Options granted                               $3.00       40,000       $3.00      40,000
+
+Options exercised                          $.95625       (16,000)                     --
+
+Options cancelled                           $.95625
+                                           to $3.00      (38,000)                     --
+                                                      ----------              ----------
+Shares under option at April 30, 1995                    636,400                 220,000
+                                                         =======                 =======
+
+Shares exercisable at April 30, 1995                     386,240                 206,250
+                                                         =======                 =======
+</TABLE>
+
+     Options for 312,700 shares remain available for grant.  The
+balance of the options will have an exercise price of the greater
+of $3.00 per share or an amount per share determined by the Plan
+Administrator, but not less than 85 percent of the fair market
+value of the Company's Common Stock on the date of grant.
+
+     The Company maintains a weekly discretionary bonus program for
+its mill workers based on the performance of each production shift
+at individual mills.  The bonus program for mill workers is
+designed to reward productivity, safety and regular attendance. 
+The Company also has a monthly discretionary profit sharing bonus
+program for management and administrative employees.  Profit
+sharing bonuses are based on net pre-tax profits and are generally
+allocated according to base salary level.  Amounts paid under all
+bonus programs were approximately $6,800,000; $8,500,000; and
+$7,400,000 in fiscal years 1995, 1994 and 1993, respectively.
+
+     The Company maintains a 401(k) Retirement Savings Plan.  Under
+the plan, eligible participants may contribute 2 percent to 20
+percent of their compensation.  The Company matches contributions
+of employees participating in the Production/Safety/Attendance
+Bonus program on a monthly basis in an amount as determined from
+time to time by the Board of Directors.  Salaried employees are not
+generally entitled to matching contributions.  During the years
+ended April 30, 1995, 1994 and 1993 the Company incurred expenses
+for matching contributions and plan administration of $377,000;
+$391,000; and $402,000; respectively.  Company contributions to
+this plan are funded on a current basis.
+
+
+NOTE 9  - COMMITMENTS AND CONTINGENCIES
+
+     (a)  Timber commitments - At April 30, 1995, the Company had
+contracts to purchase approximately 27.9 MMBF of timber from the
+U.S. Forest Service and others for an estimated stumpage cost of
+$8.9 million.  Deposits were made on these contracts and additional
+payments are required as timber is removed.  Under current lumber
+market conditions, the Company may sustain a loss in conversion of
+certain of these contracts.  Because of the volatility of product
+prices, the long-term nature of these contracts and the options of
+selling logs, or processing them into lumber, it is not possible to
+estimate potential losses, if any, that might be incurred under
+these contracts at April 30, 1995.  The expiration dates of the
+contracts are as follows:
+
+
+                                   Footage         Stumpage
+       Year Ending April 30,        MMBF             Cost
+                                --------          -----------   
+              1996                  7.1           $1,289,000
+              1997                 15.2            5,060,000
+              1998                  5.6            2,563,000
+                                --------         ------------
+                                   27.9           $8,912,000
+                                ========         ============
+
+     (b)  Leases - At April 30, 1995, the Company had future
+minimum rental commitments for new or assumed operating leases as
+follows:  1996 - $819,000; 1997 - $373,000; 1998 - $312,000; 1999 - 
+$176,000; 2000 - $125,000; thereafter - $70,000.
+
+     Total rental expense for all leases was $1,196,000, $1,131,000
+and $1,199,000 for the years ended April 30, 1995, 1994 and 1993,
+respectively.  Actual rental expense includes short-term rentals
+and leases shorter than one year, which are not included in the
+commitments.
+
+     (c)  Litigation - Certain claims arising from the Company's
+reorganization have not been settled.  A reserve of $40,000 was
+included as a current liability at April 30, 1995 to reflect the
+aggregate estimated liability of such claims.
+
+     The Company is involved in other litigation primarily arising
+in the normal course of its business.  In the opinion of
+management, the Company's liability, if any, under such pending
+litigation will not have a material impact upon the Company's
+consolidated financial condition or results of operations.
+
+     (d)  Environmental compliance - The Company is subject to
+various federal, state and local regulations regarding waste
+disposal and pollution control.  The Company believes it is in
+substantial compliance with all existing regulations and orders. 
+Various government agencies are considering new regulations,
+including those related to log yard management and disposal of log
+yard waste.  Management believes that it will be able to comply
+with any final regulations in this area without a material adverse
+impact on its financial condition or results or operations.
+
+
+NOTE 10 - NON-CASH INVESTING AND FINANCING ACTIVITIES
+
+     In connection with the Company's reorganization, certain of
+the Company's liabilities were discharged in fiscal 1993 through
+the issuance of various debt and equity securities with a market
+value of $101.1 million.  These transactions affected the financial
+position of the Company but did not directly affect its cash flow
+during the periods presented.
+
+
+NOTE 11 - UNAUDITED QUARTERLY FINANCIAL INFORMATION
+
+     The following quarterly information for the years ended April
+30, 1995 and 1994 is unaudited but includes all adjustments (which
+consist of normal recurring adjustments) which management considers
+necessary for a fair presentation of such information (in
+thousands, except per-share amounts):
+
+<TABLE>
+<CAPTION>
+                                         ************* YEAR ENDED APRIL 30, 1995 *********
+                                         ************* QUARTER ****************
+                                         FIRST     SECOND      THIRD     FOURTH      TOTAL
+                                         -----      -----      -----      -----      -----
+<S>                                   <C>        <C>        <C>        <C>        <C>
+Net sales                                $76,466    $79,157    $61,592    $57,751   $274,966
+Gross Profit (loss)                        5,539      6,328      1,251       (486)    12,632
+Net income (loss)                         $1,040     $1,664     $3,997    ($3,001)    $3,700
+Net income (loss) per common share         $0.05      $0.10      $0.30     ($0.31)     $0.14
+</TABLE>
+<TABLE>
+<CAPTION>
+                                         ************* YEAR ENDED APRIL 30, 1994 *********
+                                         *************** QUARTER ***************
+                                         FIRST     SECOND      THIRD     FOURTH      TOTAL
+                                         -----      -----      -----      -----      -----
+<S>                                   <C>        <C>        <C>        <C>        <C>
+Net sales                                $53,859    $65,885    $85,673    $72,698   $278,115
+Gross Profit                               1,297      6,873     11,203      5,010     24,383
+Net income (loss)                        ($1,619)    $2,494     $3,974     $1,451     $6,300
+Net income (loss) per common share        ($0.23)     $0.18      $0.31      $0.09      $0.41
+
+</TABLE>
+
+NOTE 12 - VALUATION AND QUALIFYING RESERVES
+
+     The following table summarizes the activity associated with
+the Company's reserves for doubtful accounts and allowances for
+discounts for the years ended April 30, 1995, 1994 and 1993 (in
+thousands):
+
+
+Allowance for doubtful accounts -
+   deducted from accounts receivable
+   in the balance sheet                    Year Ended April 30,
+                                        1995      1994      1993
+                                       ------    ------    ------
+Balance at beginning of year           $  584    $  504    $  307
+
+Charged (credited) to costs
+   and expenses                           (10)      458       268
+
+Deductions (1)                            459       378        71
+                                       ------    ------    ------
+Balance at end of year                 $  115    $  584    $  504
+                                       ======    ======    ======
+
+
+Allowance for discounts -
+   deducted from accounts receivable
+   in the balance sheet                    Year Ended April 30,
+                                        1995      1994      1993
+                                       ------    ------    ------
+Balance at beginning of year           $   74    $  135    $  101
+
+Charged to costs and expenses           2,482     2,520     2,135
+
+Deductions (1)                          2,472     2,581     2,101
+                                       ------    ------    ------
+Balance at end of year                 $   84    $   74    $  135
+                                       ======    ======    ======
+
+(1) Uncollected receivables written off, net of recoveries, and
+discounts taken by customers.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>2
+<TEXT>
+
+                                                Exhibit 4.2.2
+                            AMENDMENT
+                   DATED AS OF JANUARY 27, 1995
+                                TO
+                  CREDIT AND SECURITY AGREEMENT
+                  DATED AS OF NOVEMBER 30, 1992
+
+
+
+     Reference is hereby made to that certain Credit and Security
+Agreement ("Credit Agreement") dated as of November 30, 1992 among
+Principal Mutual Life Insurance Company, Aetna Life Insurance
+Company, The Northwestern Mutual Life Insurance Company, Chemical
+Bank, Seattle-First National Bank and Bank of America Oregon, and
+WTD Industries, Inc. and its Affiliates and the Term Notes issued
+by the Borrowers in connection with the Credit Agreement. 
+Capitalized terms used herein shall have the same meaning ascribed
+thereto in the Credit Agreement.
+
+     The Term Note originally issued to Aetna Life Insurance
+Company was split into two Notes which were sold to Franklin
+Principal Maturity Trust ("Franklin") and Foothill Group, Inc.  The
+Term Notes originally issued to Chemical Bank, Seattle-First
+National Bank, and Bank of America Oregon were sold to Oppenheimer
+& Co., Inc. ("Oppenheimer").
+     
+     Pursuant to that certain Offer to Purchase dated January 13,
+1995, Borrowers purchased $708,391.93 original face amount
+($653,537.53 current principal amount) of Franklin's Term Note and
+$2,904,723.36 original face amount ($2,679,795.80 current principal
+amount) of Oppenheimer's Term Notes. Borrowers thereupon issued to
+Franklin and Oppenheimer  substitute Term Notes reflecting the new
+principal amount owed to each after the purchase. Pursuant to the
+terms of the Offer to Purchase, $3,613,115.29 aggregate original
+face amount ($3,333,333.33 aggregate current principal amount) of
+Term Notes was cancelled. The purchase and cancellation has the
+effect of reducing the proportionate share of future scheduled
+principal and interest payments for Franklin and Oppenheimer and
+increasing the proportionate shares of each Lender who did not
+participate in the Offer to Purchase. Accordingly, certain exhibits
+to the Credit Agreement require amendment as follows:
+     
+     1.   Credit Agreement Exhibits 2.04(a) and 2.05(b) are hereby
+restated in the form, respectively, of Exhibit 2.04(a) (Restated
+01/27/95) and Exhibit 2.05(b) (Restated 01/27/95) attached hereto
+and incorporated herein.
+
+     2.   In all other respects, the Credit Agreement shall remain
+unchanged and in full force and effect.
+
+
+
+
+
+
+
+EFFECTIVE DATE:     January 27, 1995.
+
+
+PRINCIPAL MUTUAL LIFE              THE NORTHWESTERN MUTUAL LIFE
+INSURANCE COMPANY                  INSURANCE COMPANY
+
+
+By:___________________________     By:____________________________
+
+Its:__________________________     Its:___________________________
+
+
+By:___________________________     FOOTHILL GROUP, INC.
+
+Its:__________________________
+                                   By:____________________________
+
+                                   Its:___________________________
+
+
+OPPENHEIMER & CO., INC.
+
+
+By:___________________________     WTD INDUSTRIES, INC.
+
+Its:__________________________
+                                   By:____________________________
+
+                                   Its:___________________________
+
+
+FRANKLIN PRINCIPAL MATURITY
+TRUST
+
+
+By:___________________________
+
+Its:__________________________
+
+<TABLE>
+WTD INDUSTRIES, INC.                                  EXHIBIT 2.04(a) (RESTATED 01/27/95)
+ALLOCATION OF PRINCIPAL PAYMENTS                       to Credit and Security Agreement
+FOR SECURED PROMISSORY NOTES                            Dated as of November 30, 1992
+(RESTATED AS OF JAN 27, 1995)
+<CAPTION>
+                100.000000% TOTAL           47.228439% PRINCIPAL        20.235984% NORTHWESTERN      6.838639% OPPENHEIMER
+              --------------------------  --------------------------  --------------------------  ------------------------
+                PAYMENT       BALANCE       PAYMENT       BALANCE       PAYMENT       BALANCE       PAYMENT      BALANCE
+              ------------  ------------  -----------  -------------  -----------  -------------  -----------  -----------
+<S>          <C>           <C>           <C>          <C>            <C>          <C>            <C>          <C>
+BALANCE DEC 31, 1994       54,087,212.32               23,970,264.80               10,270,546.98              6,150,670.04
+
+PRINCIPAL PURCHASE
+ JAN 27, 1995 3,333,333.33 50,753,878.99         0.00  23,970,264.80         0.00  10,270,546.98 2,679,795.80 3,470,874.24
+SCHEDULED PAYMENTS
+ MAR 15, 1995   225,000.00 50,528,878.99   106,263.99  23,864,000.81    45,530.96  10,225,016.02    15,386.94 3,455,487.30
+ JUN 15, 1995   225,000.00 50,303,878.99   106,263.99  23,757,736.82    45,530.96  10,179,485.06    15,386.94 3,440,100.36
+ SEP 15, 1995   225,000.00 50,078,878.99   106,263.99  23,651,472.83    45,530.96  10,133,954.10    15,386.94 3,424,713.42
+ DEC 15, 1995   225,000.00 49,853,878.99   106,263.99  23,545,208.84    45,530.96  10,088,423.14    15,386.94 3,409,326.48
+ MAR 15, 1996   225,000.00 49,628,878.99   106,263.99  23,438,944.85    45,530.96  10,042,892.18    15,386.94 3,393,939.54
+ JUN 15, 1996   225,000.00 49,403,878.99   106,263.99  23,332,680.86    45,530.96   9,997,361.22    15,386.94 3,378,552.60
+ SEP 15, 1996   225,000.00 49,178,878.99   106,263.99  23,226,416.87    45,530.96   9,951,830.26    15,386.94 3,363,165.66
+ DEC 15, 1996   225,000.00 48,953,878.99   106,263.99  23,120,152.88    45,530.96   9,906,299.30    15,386.94 3,347,778.72
+ MAR 15, 1997   225,000.00 48,728,878.99   106,263.99  23,013,888.89    45,530.96   9,860,768.34    15,386.94 3,332,391.78
+ JUN 15, 1997   225,000.00 48,503,878.99   106,263.99  22,907,624.90    45,530.96   9,815,237.38    15,386.94 3,317,004.84
+ SEP 15, 1997   225,000.00 48,278,878.99   106,263.99  22,801,360.91    45,530.96   9,769,706.42    15,386.94 3,301,617.90
+ DEC 15, 1997   225,000.00 48,053,878.99   106,263.99  22,695,096.92    45,530.96   9,724,175.46    15,386.94 3,286,230.96
+ MAR 15, 1998   400,000.00 47,653,878.99   188,913.75  22,506,183.17    80,943.94   9,643,231.52    27,354.56 3,258,876.40
+ JUN 15, 1998   400,000.00 47,253,878.99   188,913.75  22,317,269.42    80,943.94   9,562,287.58    27,354.56 3,231,521.84
+ SEP 15, 1998   400,000.00 46,853,878.99   188,913.75  22,128,355.67    80,943.94   9,481,343.64    27,354.56 3,204,167.28
+ DEC 15, 1998   400,000.00 46,453,878.99   188,913.75  21,939,441.92    80,943.94   9,400,399.70    27,354.56 3,176,812.72
+ MAR 15, 1999 1,000,000.00 45,453,878.99   472,284.39  21,467,157.53   202,359.84   9,198,039.86    68,386.39 3,108,426.33
+ JUN 15, 1999 1,000,000.00 44,453,878.99   472,284.39  20,994,873.14   202,359.84   8,995,680.02    68,386.39 3,040,039.94
+ SEP 15, 1999 1,000,000.00 43,453,878.99   472,284.39  20,522,588.75   202,359.84   8,793,320.18    68,386.39 2,971,653.55
+ DEC 15, 1999 1,000,000.00 42,453,878.99   472,284.39  20,050,304.36   202,359.84   8,590,960.34    68,386.39 2,903,267.16
+ MAR 15, 2000 1,000,000.00 41,453,878.99   472,284.39  19,578,019.97   202,359.84   8,388,600.50    68,386.39 2,834,880.77
+ JUN 15, 2000 1,000,000.00 40,453,878.99   472,284.39  19,105,735.58   202,359.84   8,186,240.66    68,386.39 2,766,494.38
+ SEP 15, 2000 1,000,000.00 39,453,878.99   472,284.39  18,633,451.19   202,359.84   7,983,880.82    68,386.39 2,698,107.99
+ DEC 15, 2000 1,000,000.00 38,453,878.99   472,284.39  18,161,166.80   202,359.84   7,781,520.98    68,386.39 2,629,721.60
+ MAR 15, 2001 1,000,000.00 37,453,878.99   472,284.39  17,688,882.41   202,359.84   7,579,161.14    68,386.39 2,561,335.21
+ JUN 15, 2001 1,000,000.00 36,453,878.99   472,284.39  17,216,598.02   202,359.84   7,376,801.30    68,386.39 2,492,948.82
+ SEP 15, 2001 1,000,000.00 35,453,878.99   472,284.39  16,744,313.63   202,359.84   7,174,441.46    68,386.39 2,424,562.43
+ DEC 15, 2001 1,000,000.00 34,453,878.99   472,284.39  16,272,029.24   202,359.84   6,972,081.62    68,386.39 2,356,176.04
+ MAR 15, 2002 1,000,000.00 33,453,878.99   472,284.39  15,799,744.85   202,359.84   6,769,721.78    68,386.39 2,287,789.65
+ JUN 15, 2002 1,000,000.00 32,453,878.99   472,284.39  15,327,460.46   202,359.84   6,567,361.94    68,386.39 2,219,403.26
+ SEP 15, 2002 1,000,000.00 31,453,878.99   472,284.39  14,855,176.07   202,359.84   6,365,002.10    68,386.39 2,151,016.87
+ DEC 15, 2002 1,000,000.00 30,453,878.99   472,284.39  14,382,891.68   202,359.84   6,162,642.26    68,386.39 2,082,630.48
+ MAR 15, 2003 1,000,000.00 29,453,878.99   472,284.39  13,910,607.29   202,359.84   5,960,282.42    68,386.39 2,014,244.09
+ JUN 15, 2003 1,000,000.00 28,453,878.99   472,284.39  13,438,322.90   202,359.84   5,757,922.58    68,386.39 1,945,857.70
+ SEP 15, 2003 1,000,000.00 27,453,878.99   472,284.39  12,966,038.51   202,359.84   5,555,562.74    68,386.39 1,877,471.31
+ DEC 15, 2003 1,000,000.00 26,453,878.99   472,284.39  12,493,754.12   202,359.84   5,353,202.90    68,386.39 1,809,084.92
+ MAR 15, 2004 1,000,000.00 25,453,878.99   472,284.39  12,021,469.73   202,359.84   5,150,843.06    68,386.39 1,740,698.53
+ JUN 15, 2004 1,000,000.00 24,453,878.99   472,284.39  11,549,185.34   202,359.84   4,948,483.22    68,386.39 1,672,312.14
+ SEP 15, 2004 1,000,000.00 23,453,878.99   472,284.39  11,076,900.95   202,359.84   4,746,123.38    68,386.39 1,603,925.75
+ DEC 15, 2004        BALANCE DUE                 BALANCE DUE                 BALANCE DUE                 BALANCE DUE
+</TABLE>
+<TABLE>
+WTD INDUSTRIES, INC.                                  EXHIBIT 2.04(a) (RESTATED 01/27/95)
+ALLOCATION OF PRINCIPAL PAYMENTS                       to Credit and Security Agreement
+FOR SECURED PROMISSORY NOTES                            Dated as of November 30, 1992
+(RESTATED AS OF JAN 27, 1995)
+<CAPTION>
+                               18.729872% FOOTHILL          6.967066% FRANKLIN
+                            ----------------------     ----------------------
+                              PAYMENT       BALANCE       PAYMENT       BALANCE
+                             ---------    -----------    ---------    -----------
+<S>                        <C>           <C>          <C>            <C>
+BALANCE DEC 31, 1994                     9,506,136.53                4,189,593.97
+
+PRINCIPAL PURCHASE
+ JAN 27, 1995                       0.00 9,506,136.53     653,537.53 3,536,056.44
+SCHEDULED PAYMENTS
+ MAR 15, 1995                  42,142.21 9,463,994.32      15,675.90 3,520,380.54
+ JUN 15, 1995                  42,142.21 9,421,852.11      15,675.90 3,504,704.64
+ SEP 15, 1995                  42,142.21 9,379,709.90      15,675.90 3,489,028.74
+ DEC 15, 1995                  42,142.21 9,337,567.69      15,675.90 3,473,352.84
+ MAR 15, 1996                  42,142.21 9,295,425.48      15,675.90 3,457,676.94
+ JUN 15, 1996                  42,142.21 9,253,283.27      15,675.90 3,442,001.04
+ SEP 15, 1996                  42,142.21 9,211,141.06      15,675.90 3,426,325.14
+ DEC 15, 1996                  42,142.21 9,168,998.85      15,675.90 3,410,649.24
+ MAR 15, 1997                  42,142.21 9,126,856.64      15,675.90 3,394,973.34
+ JUN 15, 1997                  42,142.21 9,084,714.43      15,675.90 3,379,297.44
+ SEP 15, 1997                  42,142.21 9,042,572.22      15,675.90 3,363,621.54
+ DEC 15, 1997                  42,142.21 9,000,430.01      15,675.90 3,347,945.64
+ MAR 15, 1998                  74,919.49 8,925,510.52      27,868.26 3,320,077.38
+ JUN 15, 1998                  74,919.49 8,850,591.03      27,868.26 3,292,209.12
+ SEP 15, 1998                  74,919.49 8,775,671.54      27,868.26 3,264,340.86
+ DEC 15, 1998                  74,919.49 8,700,752.05      27,868.26 3,236,472.60
+ MAR 15, 1999                 187,298.72 8,513,453.33      69,670.66 3,166,801.94
+ JUN 15, 1999                 187,298.72 8,326,154.61      69,670.66 3,097,131.28
+ SEP 15, 1999                 187,298.72 8,138,855.89      69,670.66 3,027,460.62
+ DEC 15, 1999                 187,298.72 7,951,557.17      69,670.66 2,957,789.96
+ MAR 15, 2000                 187,298.72 7,764,258.45      69,670.66 2,888,119.30
+ JUN 15, 2000                 187,298.72 7,576,959.73      69,670.66 2,818,448.64
+ SEP 15, 2000                 187,298.72 7,389,661.01      69,670.66 2,748,777.98
+ DEC 15, 2000                 187,298.72 7,202,362.29      69,670.66 2,679,107.32
+ MAR 15, 2001                 187,298.72 7,015,063.57      69,670.66 2,609,436.66
+ JUN 15, 2001                 187,298.72 6,827,764.85      69,670.66 2,539,766.00
+ SEP 15, 2001                 187,298.72 6,640,466.13      69,670.66 2,470,095.34
+ DEC 15, 2001                 187,298.72 6,453,167.41      69,670.66 2,400,424.68
+ MAR 15, 2002                 187,298.72 6,265,868.69      69,670.66 2,330,754.02
+ JUN 15, 2002                 187,298.72 6,078,569.97      69,670.66 2,261,083.36
+ SEP 15, 2002                 187,298.72 5,891,271.25      69,670.66 2,191,412.70
+ DEC 15, 2002                 187,298.72 5,703,972.53      69,670.66 2,121,742.04
+ MAR 15, 2003                 187,298.72 5,516,673.81      69,670.66 2,052,071.38
+ JUN 15, 2003                 187,298.72 5,329,375.09      69,670.66 1,982,400.72
+ SEP 15, 2003                 187,298.72 5,142,076.37      69,670.66 1,912,730.06
+ DEC 15, 2003                 187,298.72 4,954,777.65      69,670.66 1,843,059.40
+ MAR 15, 2004                 187,298.72 4,767,478.93      69,670.66 1,773,388.74
+ JUN 15, 2004                 187,298.72 4,580,180.21      69,670.66 1,703,718.08
+ SEP 15, 2004                 187,298.72 4,392,881.49      69,670.66 1,634,047.42
+ DEC 15, 2004                      BALANCE DUE                BALANCE DUE
+</TABLE>
+
+EXHIBIT 2.05(b) (RESTATED 01/27/95)
+Lenders' Percentages
+(Restated as of January 27, 1995)
+
+
+
+Principal                   47.228439 %
+Northwestern                20.235984 %
+Oppenheimer                  6.838639 %
+Foothill                    18.729872 %
+Franklin                     6.967066 %
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>3
+<TEXT>
+
+                                                Exhibit 4.2.3
+                            AMENDMENT
+                     DATED AS OF MAY 1, 1995
+                               TO
+                  CREDIT AND SECURITY AGREEMENT
+                  DATED AS OF NOVEMBER 30, 1992
+
+
+
+     Reference is hereby made to that certain Credit and Security
+Agreement ("Credit Agreement") dated as of November 30, 1992 among
+Principal Mutual Life Insurance Company, Aetna Life Insurance
+Company, The Northwestern Mutual Life Insurance Company, Chemical
+Bank, Seattle-First National Bank and Bank of America Oregon, and
+WTD Industries, Inc. and its Affiliates and the Term Notes issued
+by the Borrowers in connection with the Credit Agreement. 
+Capitalized terms used herein shall have the same meaning ascribed
+thereto in the Credit Agreement.
+
+     The Term Note originally issued to Aetna Life Insurance
+Company was split into two Notes which were sold to Franklin
+Principal Maturity Trust ("Franklin") and Foothill Group, Inc.  The
+Term Notes originally issued to Chemical Bank, Seattle-First
+National Bank, and Bank of America Oregon were sold to Oppenheimer
+& Co., Inc. ("Oppenheimer").
+
+     The Credit Agreement is hereby modified as follows:
+
+     1.   Credit Agreement Section 6.01D is hereby restated to read
+as follows:
+
+          D.   Tangible Net Worth.  Maintain a positive Tangible
+Net Worth of not less than the respective amount set forth below,
+at all times during the periods set forth below:
+
+         Period                           Tangible Net Worth
+
+     Effective Date through 7/31/93          $ 6.5 Million
+     8/1/93 through 4/30/94                  $ 8.0 Million
+     5/1/94 through 4/30/95                  $10.0 Million
+     5/1/95 through 10/31/96                 $15.0 Million
+     11/1/95 through 4/30/96                 $13.5 Million
+     5/1/96 through 4/30/98                  $15.0 Million
+     5/1/98 through 4/30/99                  $20.0 Million
+     5/1/99 and beyond                       $25.0 Million
+
+     2.   Credit Agreement Section 6.01G is hereby restated to read
+as follows:
+
+          G.   Minimum Cumulative Adjusted EBITDA.  Maintain a
+minimum EBITDA (calculated from and including the first day of the
+first calendar month following the Effective Date) minus (a) actual
+Capital Expenditures, minus (b) Timber and Timberlands Expenditures
+Non-Current, of not less than the respective amount set forth
+below, at all times during the periods set forth below:
+
+          Period                         Millions of Dollars
+         --------                        -------------------
+     Effective Date through 4/30/93                 0
+     5/1/93 through 7/31/93                         2
+     8/1/93 through 1/31/94                         5
+     2/1/94 through 7/31/94                        10
+     8/1/94 through 12/31/95                       20
+     1/1/96 through 4/30/96                        22.5
+     5/1/96 through 4/30/97                        27.5
+     5/1/97 through 4/30/98                        35
+     5/1/98 through 4/30/99                        50
+     5/1/99 through 4/30/00                        65
+     5/1/00 through 4/30/01                        80
+     5/1/01 and beyond                             80
+
+     3.   In all other respects, the Credit Agreement shall remain
+unchanged and in full force and effect.
+
+EFFECTIVE DATE:  May 1, 1995.
+
+PRINCIPAL MUTUAL LIFE              THE NORTHWESTERN MUTUAL LIFE
+INSURANCE COMPANY                  INSURANCE COMPANY
+
+
+By:___________________________     By:____________________________
+
+Its:__________________________     Its:___________________________
+
+                                   (Pro Rata Interest: 20.235984%)
+By:___________________________
+
+Its:__________________________      FOOTHILL GROUP, INC.
+
+(Pro Rata Interest: 47.228439%)
+                                   By:____________________________
+
+OPPENHEIMER & CO., INC.            Its:___________________________
+
+                                   (Pro Rata Interest: 18.729872%)
+By:___________________________
+
+Its:__________________________     WTD INDUSTRIES, INC.
+
+(Pro Rata Interest: 6.838639%)
+                                   By:____________________________
+
+FRANKLIN PRINCIPAL MATURITY        Its:___________________________
+TRUST
+
+
+By:___________________________
+
+Its:__________________________
+
+(Pro Rata Interest: 6.967066%)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>4
+<TEXT>
+
+<TABLE>
+WTD INDUSTRIES, INC. AND SUBSIDIARIES                                                     Exhibit 12.2
+
+COMPUTATION OF REGISTRANT'S NET INCOME (LOSS)
+TO AVERAGE TOTAL ASSETS
+    (In Thousands, Except Ratios)
+
+<CAPTION>
+
+                                                                     YEAR ENDED APRIL 30,
+                                         -------------------------------------------------------------
+                                            1995         1994        1993        1992        1991
+                                            -------     --------     -------     -------     -------
+<S>                                      <C>         <C>          <C>         <C>         <C>
+NET INCOME (LOSS)                       $     3,700 $      6,300 $    23,758 $     2,992 $   (85,152)
+                                           ========     ========    ========    ========    ========
+AVERAGE TOTAL ASSETS
+ Beginning of period                    $    97,100 $    100,039 $   113,561 $   106,038 $   220,930
+ End of period                               88,944       97,100     100,039     113,561     106,038
+
+   Average                              $    93,022 $     98,570 $   106,800 $   109,800 $   163,484
+                                           ========     ========    ========    ========    ========
+
+RATIO OF NET INCOME (LOSS) TO
+ AVERAGE TOTAL ASSETS                           4.0 %        6.4 %      22.2 %       2.7 %     (52.1)%
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>5
+<TEXT>
+
+<TABLE>
+                                                                                          Exhibit 12.3
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+COMPUTATION OF REGISTRANT'S NET INCOME (LOSS)
+TO AVERAGE STOCKHOLDERS' EQUITY (DEFICIT)
+(In Thousands, Except Ratios)
+
+<CAPTION>
+
+                                                            YEAR ENDED APRIL 30,
+                                         -------------------------------------------------------------
+                                            1995         1994        1993        1992        1991
+                                            -------      -------     -------     -------     -------
+<S>                                      <C>         <C>          <C>         <C>         <C>
+NET INCOME (LOSS)                       $     3,700 $      6,300 $    23,758 $     2,992 $   (85,152)
+                                           ========     ========    ========    ========    ========
+AVERAGE STOCKHOLDERS' EQUITY
+  (DEFICIT)
+ Beginning of period                    $    18,512 $     13,684 $   (43,553)$   (46,545)$    38,607
+ End of period                               20,076       18,512      13,684     (43,553)    (46,545)
+
+   Average                              $    19,294 $     16,098 $   (14,935)$   (45,049)$    (3,969)
+                                           ========     ========    ========    ========    ========
+RATIO OF NET INCOME (LOSS) TO
+ AVERAGE STOCKHOLDERS'
+ EQUITY (DEFICIT)                              19.2 %       39.1 %       NM         NM           NM         
+
+<FN>
+ NM - Not meaningful
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>6
+<TEXT>
+
+<TABLE>
+
+                                                                                          Exhibit 12.4
+WTD INDUSTRIES, INC. AND SUBSIDIARIES
+
+COMPUTATION OF REGISTRANT'S AVERAGE STOCKHOLDERS'
+EQUITY (DEFICIT) TO AVERAGE TOTAL ASSETS
+(In Thousands, Except Ratios)
+
+
+<CAPTION>
+
+                                                            YEAR ENDED APRIL 30,
+                                         -------------------------------------------------------------
+                                            1995         1994        1993        1992        1991
+                                            -------      -------     -------     -------     -------
+<S>                                      <C>         <C>          <C>         <C>         <C>
+AVERAGE STOCKHOLDERS' EQUITY
+  (DEFICIT)
+ Beginning of period                    $    18,512 $     13,684 $   (43,553)$   (46,545)$    38,607
+ End of period                               20,076       18,512      13,684     (43,553)    (46,545)
+
+   Average                              $    19,294 $     16,098 $   (14,935)$   (45,049)$    (3,969)
+                                            =======      =======     =======     =======     =======
+
+
+AVERAGE TOTAL ASSETS
+ Beginning of period                    $    97,100 $    100,039 $   113,561 $   106,038 $   220,930
+ End of period                               88,944       97,100     100,039     113,561     106,038
+
+   Average                              $    93,022 $     98,570 $   106,800 $   109,800 $   163,484
+                                            =======      =======     =======     =======     =======
+
+
+RATIO OF AVERAGE STOCKHOLDERS'
+ EQUITY (DEFICIT) TO AVERAGE
+ TOTAL ASSETS                                  20.7 %       16.3 %       NM           NM          NM        
+
+
+
+<FN>
+ NM - Not meaningful
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>7
+<TEXT>
+
+
+                                                       Exhibit 21
+WTD Industries, Inc.
+
+Subsidiaries of the Registrant
+As of July 10, 1995
+Grouped by State/Country of Incorporation
+
+Oregon
+
+Alturas Lumber Co.
+Burke Lumber Co.
+Central Point Lumber Co.
+Cottage Grove Lumber Co.
+Crater Lake Lumber Co.
+Custer Lumber Co.
+Eugene Wood Products Co.
+Glide Lumber Products Co.
+Goshen Veneer Co.
+Halsey Veneer Co.
+Judith Gap Lumber Co.
+Junction City Lumber Co.
+Midway Forest Products Co.
+North American Enterprises Co.
+North Powder Lumber Co.
+Pacific Softwoods Co.
+Philomath Forest Products Co.
+Port Westward Pulp Co.
+Riverside Lumber Co.
+Silverton Forest Products Co.
+Trask River Lumber Co.
+TreeSource, Inc.
+Union Forest Products Co.
+Union Rail Enterprises, Inc.
+Western Timber Co.
+Whitehall Plywood, Inc.
+
+Washington
+
+Cle Elum Lake Veneer Co.
+Graham Plywood Co.
+Morton Forest Products Co.
+Olympia Forest Products Co.
+Orient Lumber Co.
+Pacific Hardwoods-Aberdeen Co.
+Pacific Hardwoods-South Bend Co.
+Sedro-Woolley Lumber Co.
+Spanaway Lumber Co.
+Tumwater Lumber Co.
+Valley Wood Products Co.
+
+Montana
+
+Columbia Falls Forest Products, Inc.
+
+Guam
+
+TreeSource International, Inc.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>8
+<TEXT>
+
+[MOSS ADAMS LETTERHEAD]
+
+        CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the Registration
+Statement on Form S-8 and Form S-3 pertaining to the WTD
+Industries, Inc. Amended and Restated 1986 Stock Option Plan with
+respect to the financial statements of WTD Industries, Inc.,
+which appear in the WTD Industries, Inc. Annual Report on Form
+10-K for the year ended April 30, 1995, filed with the Securities
+and Exchange Commission.
+
+
+
+                              /s/ Moss Adams
+                              -----------------------------------
+                              MOSS ADAMS
+
+
+
+Beaverton, Oregon
+June 13, 1995
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>9
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM REGISTRANT'S
+ANNUAL REPORT ON FORM 10-K AN DIS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+FINANCIAL STATEMENTS.
+</LEGEND>
+<CIK> 0000797543
+<NAME> WTD INDUSTRIES, INC.
+<MULTIPLIER> 1000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          APR-30-1995
+<PERIOD-END>                               APR-30-1995
+<CASH>                                            6023
+<SECURITIES>                                         0
+<RECEIVABLES>                                    11404
+<ALLOWANCES>                                         0
+<INVENTORY>                                      18104
+<CURRENT-ASSETS>                                 51187
+<PP&E>                                           79852
+<DEPRECIATION>                                   47727
+<TOTAL-ASSETS>                                   88944
+<CURRENT-LIABILITIES>                            17447
+<BONDS>                                          51421
+<COMMON>                                         28641
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                      21021
+<OTHER-SE>                                     (29586)
+<TOTAL-LIABILITY-AND-EQUITY>                     88944
+<SALES>                                         274966
+<TOTAL-REVENUES>                                274966
+<CGS>                                           262334
+<TOTAL-COSTS>                                   262334
+<OTHER-EXPENSES>                                  8606
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                5972
+<INCOME-PRETAX>                                 (1946)
+<INCOME-TAX>                                    (5646)
+<INCOME-CONTINUING>                               3700
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      3700
+<EPS-PRIMARY>                                      .14
+<EPS-DILUTED>                                      .14
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

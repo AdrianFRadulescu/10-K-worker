@@ -1,0 +1,3059 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ WCSLHlmGNZ3x/JRKNiWCE6S6NDf6Q4jNDaShGxBNfrYiRHGvdT9RIclaTxr2qiMp
+ 9RHX71SAUqdY1P/WAeYfrw==
+
+<IMS-DOCUMENT>0000950123-95-000411.txt : 19950609
+<IMS-HEADER>0000950123-95-000411.hdr.sgml : 19950609
+ACCESSION NUMBER:		0000950123-95-000411
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	19941231
+FILED AS OF DATE:		19950303
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UST INC
+		CENTRAL INDEX KEY:			0000811669
+		STANDARD INDUSTRIAL CLASSIFICATION:	TOBACCO PRODUCTS [2100]
+		IRS NUMBER:				061193986
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17506
+		FILM NUMBER:		95518191
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 W PUTNAM AVE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2036611100
+
+	MAIL ADDRESS:	
+		STREET 1:		100 W PUTNAM AVE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K UST INC.
+<TEXT>
+
+<PAGE>   1
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                                   FORM 10-K
+                             ---------------------
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+ 
+(MARK ONE)
+ 
+[X]             ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                   SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+ 
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 1994
+ 
+                                       OR
+ 
+[  ]          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                  SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+ 
+                  FOR THE TRANSITION PERIOD FROM                TO
+ 
+                         COMMISSION FILE NUMBER 0-17506
+ 
+                                    UST INC.
+             (Exact name of registrant as specified in its charter)
+ 
+                   DELAWARE                                     06-1193986
+       (State or other jurisdiction of                       (I.R.S. Employer
+        incorporation or organization)                     Identification No.)
+ 
+              100 WEST PUTNAM AVENUE, GREENWICH, CONNECTICUT       06830
+                 (Address of principal executive offices)        (Zip Code)
+ 
+      REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:  (203) 661-1100
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+ 
+                                               NAME OF EACH EXCHANGE ON
+        TITLE OF EACH CLASS                        WHICH REGISTERED
+        -------------------                    ------------------------
+   COMMON STOCK -- $.50 PAR VALUE               NEW YORK STOCK EXCHANGE
+                                                PACIFIC STOCK EXCHANGE
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+ 
+                                      NONE
+                                ----------------
+                                (TITLE OF CLASS)
+ 
+     INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF
+1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS. YES  X      NO
+ 
+     INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM
+405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE
+BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS
+INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS
+FORM 10-K. [X]
+ 
+     AS OF FEBRUARY 15, 1995, THE AGGREGATE MARKET VALUE OF REGISTRANT'S COMMON
+STOCK, $.50 PAR VALUE, HELD BY NON-AFFILIATES OF REGISTRANT (WHICH FOR THIS
+PURPOSE DOES NOT INCLUDE DIRECTORS OR OFFICERS) WAS $5,720,449,710.
+ 
+     AS OF FEBRUARY 15, 1995, THERE WERE 195,940,336 SHARES OF REGISTRANT'S
+COMMON STOCK, $.50 PAR VALUE, OUTSTANDING.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+      CERTAIN SECTIONS OF UST ANNUAL REPORT TO STOCKHOLDERS FOR THE FISCAL
+      YEAR ENDED DECEMBER 31, 1994 AND FILED AS AN EXHIBIT AS REQUIRED BY ITEM
+      601(B)(13) OF REGULATION S-K .............................. PARTS I & II
+      CERTAIN PAGES OF UST 1995 NOTICE OF ANNUAL MEETING AND PROXY
+      STATEMENT ................................................. PART III
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>   2
+ 
+                                     PART I
+ 
+ITEM 1 -- BUSINESS
+ 
+GENERAL
+ 
+     UST Inc. was formed on December 23, 1986 as a Delaware corporation.
+Pursuant to a reorganization approved by stockholders at the 1987 Annual
+Meeting, United States Tobacco Company (originally incorporated in 1911) became
+a wholly owned subsidiary of UST Inc. on May 5, 1987. UST Inc., through its
+subsidiaries (collectively "Registrant" unless the context otherwise requires),
+is engaged in manufacturing and marketing consumer products in the following
+industry segments:
+ 
+          Tobacco Products: Registrant's primary activities are manufacturing
+     and marketing smokeless tobacco (snuff and chewing tobacco) and marketing
+     other tobacco products.
+ 
+          Wine: Registrant produces and markets wine.
+ 
+          Other: The international and video entertainment operations as well as
+     certain miscellaneous businesses are included in this segment. Registrant
+     also produces or imports and markets certain other products such as
+     smokers' accessories and operates certain commercial agricultural
+     properties.
+ 
+INDUSTRY SEGMENT DATA
+ 
+     Registrant hereby incorporates by reference the Consolidated Industry
+Segment Data pertaining to the years 1992 through 1994 set forth on page 32 of
+its Annual Report to stockholders for the fiscal year ended December 31, 1994
+("Annual Report"), which page is included as Exhibit 13.1.
+ 
+                                        1
+<PAGE>   3
+ 
+                                TOBACCO PRODUCTS
+ 
+PRINCIPAL PRODUCTS
+ 
+     Registrant's principal smokeless tobacco products and brand names are as
+follows:
+ 
+          Moist -- COPENHAGEN, SKOAL LONG CUT, SKOAL, SKOAL BANDITS
+ 
+          Dry -- BRUTON, CC, RED SEAL
+ 
+          Chewing -- WB CUT
+ 
+     It has been claimed that the use of tobacco products may be harmful to
+health. To the best of Registrant's knowledge, unresolved controversy continues
+to exist among scientists concerning the claims made about tobacco and health.
+In 1986, federal legislation was enacted regulating smokeless tobacco products
+by, inter alia, requiring health warning notices on smokeless tobacco packages
+and advertising and prohibiting the advertising of smokeless tobacco products on
+electronic media. A federal excise tax was imposed in 1986, which was increased
+in 1991 and 1993. The Health Security Act announced by the Clinton
+Administration in 1993 sought, inter alia, a significant federal excise tax
+increase on moist smokeless and other tobacco products. Also, in recent years,
+proposals have been made at the federal level for additional regulation of
+tobacco products including, inter alia, the requirement of additional warning
+notices, the disallowance of advertising and promotion expenses as deductions
+under federal tax law, a significant increase of federal excise taxes, a ban or
+further restriction of all advertising and promotion, regulation of
+environmental tobacco smoke and increased regulation of the manufacturing and
+marketing of tobacco products by new or existing federal agencies. Substantially
+similar proposals will likely be considered in 1995. In recent years, various
+state and local governments continued the regulation of tobacco products,
+including, inter alia, the imposition of significantly higher taxes, sampling
+and advertising bans or restrictions, regulation of environmental tobacco smoke
+and anti-tobacco advertising campaigns. Additional state and local legislative
+and regulatory actions will likely be considered in 1995. Registrant is unable
+to assess the future effects these various actions may have on its tobacco
+business.
+ 
+RAW MATERIALS
+ 
+     Except as noted below, raw materials essential to Registrant's business are
+generally purchased in domestic markets under competitive conditions.
+ 
+     In 1994, Registrant increased its purchases of dark fired, burley and dark
+air cured tobaccos ("tobacco") primarily from domestic sources. In 1994
+purchases from foreign suppliers declined, and continued to decline as a
+percentage of total tobacco purchased. Such foreign suppliers were located in
+Canada and Italy. Various factors, including a failure of domestic tobacco
+production to continue to increase, may require Registrant to purchase
+additional amounts of tobacco from foreign sources in order to meet future
+requirements. Tobaccos used in the manufacture of smokeless tobacco products
+must be processed and aged by Registrant for a period of two to four years prior
+to their use.
+ 
+     Registrant or its suppliers purchase certain flavoring components used in
+Registrant's tobacco products from foreign sources.
+ 
+     At the present time, Registrant has no reason to believe that its future
+raw material requirements for its tobacco products will not be satisfied.
+However, the continuing availability and the cost of tobacco from both domestic
+and foreign sources is dependent upon a variety of factors which cannot be
+predicted, including weather, growing conditions, disease, local planting
+decisions, overall market demands and other factors.
+ 
+WORKING CAPITAL
+ 
+     The principal portion of Registrant's operating cash requirements relates
+to its need to maintain significant inventories of leaf tobacco, primarily for
+manufacturing of smokeless tobacco products, and its need to age and cure
+certain of these tobaccos for periods of up to four years prior to use.
+ 
+                                        2
+<PAGE>   4
+ 
+CUSTOMERS
+ 
+     Registrant markets tobacco products throughout the United States
+principally to chain stores and tobacco and grocery wholesalers. Approximately
+31% of Registrant's gross sales of tobacco products are made to five customers,
+one of which accounts for more than 10% of Registrant's consolidated revenue.
+Registrant has maintained satisfactory relationships with these customers for
+many years.
+ 
+COMPETITIVE CONDITIONS
+ 
+     The tobacco manufacturing industry in the United States is composed of at
+least four domestic companies larger than Registrant and many smaller ones. The
+larger companies concentrate on the manufacture and marketing of cigarettes; one
+also manufactures and markets smokeless tobacco products. Registrant is a well
+established and major factor in the smokeless tobacco sector of the overall
+tobacco market. Consequently, Registrant competes actively with both larger and
+smaller companies in the marketing of its tobacco products. Registrant's
+principal methods of competition in the marketing of its tobacco products
+include quality, advertising, promotion, sampling, price, product recognition
+and distribution.
+ 
+                                      WINE
+ 
+     Registrant is an established producer of premium varietal and blended
+wines. CHATEAU STE. MICHELLE and COLUMBIA CREST varietal table wines and DOMAINE
+STE. MICHELLE sparkling wine are produced by Registrant in the state of
+Washington and marketed throughout the United States. Registrant also produces
+and markets two California premium wines under the labels of VILLA MT. EDEN and
+CONN CREEK. Approximately 49% of Registrant's wine sales are made to nine
+distributors, no one of which accounts for more than 22% of total wine sales.
+Substantially all wines are sold through state-licensed distributors with whom
+Registrant maintains satisfactory relationships.
+ 
+     It has been claimed that the use of alcohol beverages may be harmful to
+health. To the best of Registrant's knowledge, unresolved controversy continues
+to exist among scientists concerning the claims made about alcohol beverages and
+health. In 1988, federal legislation was enacted regulating alcohol beverages by
+requiring health warning notices on alcohol beverages. Effective in 1991, the
+federal excise tax on wine was increased from $.17 a gallon to $1.07 a gallon
+for those manufacturers that produce more than 250,000 gallons a year, such as
+Registrant. In recent years at the federal level, proposals were made for
+additional regulation of alcohol beverages including, inter alia, an excise tax
+increase, modification of the required health warning notices and the regulation
+of labeling, advertising and packaging. Substantially similar proposals will
+likely be considered in 1995. Also in recent years, increased regulation of
+alcohol beverages by various states included, inter alia, the imposition of
+higher taxes, the requirement of health warning notices and the regulation of
+advertising and packaging. Additional state and local legislative and regulatory
+actions affecting the marketing of alcohol beverages will likely be considered
+during 1995. Registrant is unable to assess the future effects these regulatory
+and other actions may have on the sale of its wines.
+ 
+     Registrant uses grapes harvested from its own vineyards, as well as grapes
+purchased from independent growers located primarily in Washington State. Grape
+harvest yields experienced by Registrant and throughout Washington State in 1994
+continue to be adequate to meet requirements for premium varietal wines. From
+time to time adverse weather conditions have significantly affected grape
+harvests from Washington State. Should any vineyards be destroyed as a result of
+such conditions, new vineyards generally require five to six years to provide
+full yields. At the present time, Registrant has no reason to believe that its
+future raw material requirements for its wine products will not be satisfied.
+ 
+     Registrant's principal competition comes from many larger, well-established
+national companies, as well as many smaller wine producers. Registrant's
+principal methods of competition include quality, price, consumer and trade wine
+tastings, competitive wine judging and advertising. Registrant is a minor factor
+in the total nationwide business of producing wines.
+ 
+     Registrant concentrates its marketing efforts on premium varietal table
+wines and sparkling wines. The future of Registrant's wine business will be
+dependent on sales, price and volume growth for premium varietal wines, the
+success of new products and adequate grape harvest yields from Washington State.
+ 
+                                        3
+<PAGE>   5
+ 
+                                     OTHER
+ 
+     Included in this segment for 1994 are the international operations, video
+entertainment business, pipes, smokers' accessories, agricultural properties and
+a majority interest in a company that develops and markets equipment used in
+filmmaking. None of the above, singly, constitutes a material portion of
+Registrant's operations.
+ 
+                        ADDITIONAL BUSINESS INFORMATION
+ 
+CUSTOMERS
+ 
+     In 1994 sales to McLane Co. Inc., a national distributor, exceeded 10% of
+Registrant's consolidated revenue.
+ 
+ENVIRONMENTAL REGULATIONS
+ 
+     Registrant does not believe that compliance with federal, state and local
+provisions regulating the discharge of materials into the environment or
+otherwise relating to the protection of the environment will have a material
+effect upon the capital expenditures, earnings or competitive position of
+Registrant.
+ 
+NUMBER OF EMPLOYEES
+ 
+     Registrant's average number of employees during 1994 was 3,817.
+ 
+TRADEMARKS
+ 
+     Registrant markets consumer products under a large number of trademarks.
+All of the significant trademarks either have been registered or applications
+therefor are pending with the United States Patent and Trademark Office.
+ 
+SEASONAL BUSINESS
+ 
+     No material portion of the business of any industry segment of Registrant
+is seasonal.
+ 
+ORDERS
+ 
+     Backlog of orders is not a material factor in any industry segment of
+Registrant.
+ 
+                                        4
+<PAGE>   6
+ 
+ITEM 2 -- PROPERTIES
+ 
+     Set forth below is information concerning principal facilities and real
+properties of Registrant.
+ 
+<TABLE>
+<CAPTION>
+                                        BUILDINGS
+                                           IN
+                                       APPROXIMATE
+                LOCATION               SQUARE FEET                  ACTIVITIES
+                --------               -----------   -----------------------------------------
+<S>                                    <C>           <C>
+Headquarters:
+
+       Greenwich, Connecticut........    160,000     Executive, sales and general offices in
+                                                     several buildings.
+ 
+Tobacco Facilities:
+
+       Nashville, Tennessee..........    900,000     Office and manufacturing plants for moist
+                                                     and dry smokeless tobacco products,
+                                                     plastic injection molding operation for
+                                                     production of cans and lids,
+                                                     manufacturing engineering department,
+                                                     research and development laboratory and
+                                                     warehouse for distribution of various
+                                                     products.
+
+       Hopkinsville, Kentucky........    635,000     Office and plants and warehouses for
+                                                     tobacco leaf handling, processing and
+                                                     storage and for manufacture of dry flour
+                                                     for smokeless tobacco products.
+
+       Franklin Park, Illinois.......    425,000     Office and manufacturing plant for moist
+                                                     smokeless tobacco products, fiberboard
+                                                     can operations and warehouse for
+                                                     distribution of various products.
+ 
+Wine Facilities:
+
+       Paterson, Washington..........    410,000     Winery, distribution and storage
+                                                     facility, office and retail shop.
+
+       Woodinville, Washington.......    195,000     Winery, distribution and storage
+                                                     facility, executive and sales offices and
+                                                     retail shop.
+
+       Roosevelt, Washington.........     70,000     Winery and storage facility.
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                          LAND
+                                           IN
+                                       APPROXIMATE
+                LOCATION                  ACRES                     ACTIVITIES
+                --------               -----------   -----------------------------------------
+<S>                                    <C>           <C>
+Yakima, Benton and Island Counties,
+  Washington.........................      3,351     Vineyards.
+
+Benton County, Washington............     18,494     Other, including agricultural properties.
+</TABLE>
+ 
+     Such principal properties in Registrant's industry segments were utilized
+only in connection with Registrant's business operations. Registrant believes
+that the above properties at December 31, 1994 were suitable and adequate for
+the purposes for which they were used, and were operated at satisfactory levels
+of capacity.
+ 
+     All principal properties are owned in fee by Registrant.
+ 
+                                        5
+<PAGE>   7
+ 
+ITEM 3 -- LEGAL PROCEEDINGS
+ 
+     Registrant has been named in certain litigation against the major cigarette
+companies and others seeking damages relating to the usage of cigarettes and, in
+certain of the complaints, "tobacco products", one of which contains several
+allegations relating to smokeless tobacco products, including:
+ 
+     -- Norma R. Broin, et al. v. Philip Morris Companies, Inc. et al., Case
+No.: 91-49738 CA (22), Circuit Court, 11th Judicial Circuit, Dade County,
+Florida, served on or about January 17, 1992. Purported class action on behalf
+of flight attendants seeking $5 billion in punitive damages and unspecified
+compensatory damages as a result of exposure to environmental tobacco smoke on
+airplanes; on December 12, 1994, the Circuit Court entered an order granting
+certification of the class, which defendants have appealed.
+ 
+     -- John G. Allman, et al. v. Philip Morris, Inc., et al., Case No.:
+94-0504-IEG (CM), U.S. District Court, Southern District of California, served
+on or about April 6, 1994. Purported class action on behalf of persons who have
+smoked defendants' cigarettes, became "addicted" and purchased, or would be
+purchasing in the future, nicotine patches, seeking unspecified damages for
+various alleged violations including allegations of a conspiracy to withhold
+information about the claimed effects of cigarette smoking; the court has
+dismissed with prejudice the plaintiffs' complaint and the parties to this
+action have entered into a stipulation dismissing with prejudice plaintiffs'
+appeal of this decision.
+ 
+     -- Diane Castano, et al. v. The American Tobacco Company, Inc., et al.,
+Case No.: 94-1044 "B" (3), U.S. District Court, Eastern District of Louisiana,
+served on or about May 12, 1994. Purported class action on behalf of "nicotine
+dependent" persons who have smoked defendants' cigarettes, seeking unspecified
+damages as a result of defendants' alleged manipulation of the levels of
+nicotine in their cigarettes for the purpose of "addicting" consumers. On
+February 17, 1995, the Court entered an order granting certification of the
+class "only in regard to the liability issues of fraud, breach of warranty
+(express or implied), intentional tort, negligence, strict liability and
+consumer protection and punitive damages issues." The Court denied certification
+of the class in regard to the issues of injury-in-fact, proximate cause,
+reliance, affirmative defenses, compensatory damages and medical monitoring.
+ 
+     -- McGraw v. The American Tobacco Company, et al., Civil Action No.
+94-1707, Circuit Court of Kanawha County, West Virginia, served on or about
+November 1, 1994. Action purportedly on behalf of the State of West Virginia
+seeking unspecified damages and other relief as reimbursement for amounts
+allegedly spent by the state as a result of "tobacco-related injuries, diseases
+or sickness"; several allegations relate to smokeless tobacco products.
+ 
+     Except for the Allman action which has been dismissed with prejudice, each
+of these actions is in varying stages of pretrial activities.
+ 
+     Registrant believes that these pending litigation matters will not result
+in any material liability for a number of reasons, including the fact that
+Registrant has had only limited involvement with cigarettes and Registrant's
+current percentage of total tobacco industry sales is relatively small. Prior to
+1986, Registrant manufactured some cigarette products which had a de minimis
+market share. From May 1, 1982 to August 1, 1994, Registrant distributed a small
+volume of imported cigarettes and is indemnified against claims relating to
+those products.
+ 
+     Registrant also believes that these actions are without merit and intends
+to defend them vigorously.
+ 
+ITEM 4 -- SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+     Not applicable.
+ 
+                                        6
+<PAGE>   8
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     Pursuant to instruction 3 to Item 401(b) of Regulation S-K, the name,
+office, age and business experience of each executive officer of Registrant as
+of February 15, 1995 is set forth below:
+ 
+<TABLE>
+<CAPTION>
+                  NAME                                        OFFICE                      AGE
+- ----------------------------------------  ----------------------------------------------  ---
+<S>                                       <C>                                             <C>
+Robert E. Barrett.......................  Executive Vice President                         56
+John J. Bucchignano.....................  Executive Vice President and Chief Financial
+                                          Officer                                          47
+Vincent A. Gierer, Jr...................  Chairman of the Board, Chief Executive Officer
+                                          and President                                    47
+Harry W. Peter III......................  Executive Vice President                         55
+Joseph R. Taddeo........................  Executive Vice President                         50
+Richard H. Verheij......................  Senior Vice President and General Counsel        36
+</TABLE>
+ 
+     None of the executive officers of Registrant has any family relationship to
+any other executive officer or director of Registrant.
+ 
+     After election, all executive officers serve until the next annual
+organization meeting of the Board of Directors and until their successors are
+elected and qualified.
+ 
+     All of the executive officers of Registrant have been employed continuously
+by it for more than five years except for Mr. Barrett.
+ 
+     Mr. Barrett has served as Executive Vice President since October 7, 1991.
+He also has served as President of UST Enterprises Inc. since July 1, 1991. Mr.
+Barrett served as Senior Vice President from January 1, 1991 to October 6, 1991,
+and served as a member of the Board of Directors from July 27, 1989 through
+December 13, 1990. Mr. Barrett served as President of Barrett Consultants, a
+public and government relations firm which he founded in 1980. Mr. Barrett has
+been employed by Registrant since January 1, 1991.
+ 
+     Mr. Bucchignano has served as Executive Vice President and Chief Financial
+Officer since October 7, 1991. Mr. Bucchignano served as Senior Vice President
+and Controller from September 27, 1990 to October 6, 1991, and as Controller
+from August 1, 1987 to September 26, 1990. Mr. Bucchignano has been employed by
+Registrant since December 10, 1984.
+ 
+     Mr. Gierer has served as Chairman of the Board and Chief Executive Officer
+since December 1, 1993 and has served as President since September 27, 1990. Mr.
+Gierer also served as Chief Operating Officer from September 27, 1990 to
+November 30, 1993 and as Executive Vice President and Chief Financial Officer
+from February 17, 1988 to September 26, 1990. Mr. Gierer has been employed by
+Registrant since March 16, 1978.
+ 
+     Mr. Peter has served as Executive Vice President since October 29, 1990. He
+also has served as President of UST International Inc. since January 1, 1993.
+Mr. Peter served as Senior Vice President from July 27, 1989 to October 28, 1990
+and as Vice President from June 23, 1988 to July 26, 1989. Mr. Peter has been
+employed by Registrant since February 1, 1988.
+ 
+     Mr. Taddeo has served as Executive Vice President and President of United
+States Tobacco Company since September 27, 1990. Mr. Taddeo also served as
+Senior Vice President of United States Tobacco Company from June 23, 1988 to
+September 26, 1990. Mr. Taddeo has been employed by Registrant since March 29,
+1982.
+ 
+     Mr. Verheij has served as Senior Vice President and General Counsel since
+December 1, 1994. Mr. Verheij served as Senior Vice President and Associate
+General Counsel from April 4, 1994 to November 30, 1994, as Vice President and
+Associate General Counsel from December 17, 1992 to April 3, 1994, as Assistant
+General Counsel from January 1, 1991 to December 16, 1992 and as Senior
+Corporate Counsel from October 1, 1988 to December 31, 1990. Mr. Verheij has
+been employed by Registrant since November 24, 1986.
+ 
+                                        7
+<PAGE>   9
+ 
+                                    PART II
+ 
+ITEM 5 -- MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ 
+     Registrant hereby incorporates by reference the information with respect to
+the market for its common stock, $.50 par value ("Common Stock"), and related
+security holder matters set forth on pages 30 and 31 of its Annual Report, which
+pages are included herein as Exhibit 13.2. Registrant's Common Stock is listed
+on the New York Stock Exchange and the Pacific Stock Exchange. As of February
+15, 1995, there were approximately 13,065 stockholders of record of its Common
+Stock.
+ 
+ITEM 6 -- SELECTED FINANCIAL DATA
+ 
+     Registrant hereby incorporates by reference the Consolidated Selected
+Financial Data set forth on pages 46 and 47 of its Annual Report, which pages
+are included herein as Exhibit 13.3.
+ 
+ITEM 7 -- MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+ 
+     Registrant hereby incorporates by reference the Management's Discussion and
+Analysis of Results of Operations and Financial Condition set forth on pages
+24-31 of its Annual Report, which pages are included herein as Exhibit 13.4.
+ 
+ITEM 8 -- FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+     Registrant hereby incorporates by reference the information contained in
+the financial statements, including the notes thereto set forth on pages 32-45
+of its Annual Report, which pages are included herein as Exhibit 13.5.
+ 
+ITEM 9 -- CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+ 
+     Not applicable.
+ 
+                                    PART III
+ 
+ITEM 10 -- DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     Registrant hereby incorporates by reference the information with respect to
+the names, ages and business histories of the directors of Registrant which is
+contained in Table I and the accompanying text set forth under the caption
+"Election of Directors" in its Notice of 1995 Annual Meeting and Proxy
+Statement. Information concerning executive officers of Registrant is set forth
+above following Item 4 of this Report.
+ 
+ITEM 11 -- EXECUTIVE COMPENSATION
+ 
+     Registrant hereby incorporates by reference the information with respect to
+executive compensation which is contained in Tables II through V (including the
+notes thereto) and the accompanying text set forth under the caption
+"Compensation of Executive Officers" in its Notice of 1995 Annual Meeting and
+Proxy Statement.
+ 
+ITEM 12 -- SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     Registrant hereby incorporates by reference the information with respect to
+the security ownership of management which is contained in Table I and the
+accompanying text set forth under the caption "Election of Directors" in its
+Notice of 1995 Annual Meeting and Proxy Statement.
+ 
+ITEM 13 -- CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     Registrant hereby incorporates by reference certain transactions with
+directors and information with respect to indebtedness of management which is
+contained in Table VI and the accompanying text set forth under the caption
+"Compensation of Executive Officers" in its Notice of 1995 Annual Meeting and
+Proxy Statement.
+ 
+                                        8
+<PAGE>   10
+ 
+                                    PART IV
+ 
+ITEM 14 -- EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+     (a) Documents filed as part of this Report:
+ 
+          (3) The following exhibits are filed by Registrant pursuant to Item
+     601 of Regulation S-K:
+ 
+<TABLE>
+<S>                  <C>
+           3.1    -- Restated Certificate of Incorporation dated May 5, 1992, incorporated
+                     by reference to Exhibit 3.1 to Form 10-Q for the quarter ended March
+                     31, 1992.
+           3.2    -- By-Laws adopted on December 23, 1986, incorporated by reference to
+                     Exhibit 3.2 to Form S-4 Registration Statement filed on March 20,
+                     1987.
+          10.1*   -- Employment Agreement dated October 1, 1990 between UST and Joseph R.
+                     Taddeo, an Executive Officer, incorporated by reference to Exhibit
+                     10.1 to Form 10-Q for the quarter ended September 30, 1990.
+          10.2*   -- Form of Employment Agreement dated October 20, 1986 between United
+                     States Tobacco Company (subsequently assumed by UST) and Vincent A.
+                     Gierer, Jr., an Executive Officer, incorporated by reference to
+                     Exhibit 10.1 to Form 10-Q for the quarter ended September 30, 1986.
+          10.3*   -- Employment Agreement dated December 1, 1993 between UST and John J.
+                     Bucchignano, an Executive Officer, incorporated by reference to
+                     Exhibit 10.3 to Form 10-K for the fiscal year ended December 31,
+                     1993.
+          10.4*   -- Form of Severance Agreement dated October 27, 1986 between United
+                     States Tobacco Company (subsequently assumed by UST) and nonexecutive
+                     officers, incorporated by reference to Exhibit 10.2 to Form 10-Q for
+                     the quarter ended September 30, 1990.
+          10.5*   -- 1982 Stock Option Plan restated as of March 22, 1989, incorporated by
+                     reference to Exhibit 4.1 to Form S-8 Registration Statement filed on
+                     April 14, 1989.
+          10.6*   -- 1992 Stock Option Plan, effective as of May 5, 1992, incorporated by
+                     reference to Appendix A to the UST 1992 Notice of Annual Meeting and
+                     Proxy Statement dated March 27, 1992.
+          10.7*   -- Incentive Compensation Plan, as restated as of January 1, 1994,
+                     incorporated by reference to Exhibit 10.7 for Form 10-K for the
+                     fiscal year ended December 31, 1993.
+          10.8*   -- Officers' Supplemental Retirement Plan, as restated as of December 1,
+                     1992, incorporated by reference to Exhibit 10.7 to Form 10-K for the
+                     fiscal year ended December 31, 1992.
+          10.9    -- Nonemployee Directors' Retirement Plan, effective as of January 1,
+                     1988, incorporated by reference to Exhibit 10.8 to Form 10-K for the
+                     fiscal year ended December 31, 1992.
+          10.10   -- Directors' Supplemental Medical Plan, amended and restated as of
+                     February 16, 1995.
+          13.1    -- Industry Segment Data pertaining to the years 1992 through 1994.
+          13.2    -- Market for Registrant's Common Equity and Related Stockholder
+                     Matters.
+          13.3    -- Selected Financial Data.
+          13.4    -- Management's Discussion and Analysis of Financial Condition and
+                     Results of Operations.
+          13.5    -- Financial Statements and Supplementary Data.
+</TABLE>
+ 
+                                        9
+<PAGE>   11
+ 
+ITEM 14 -- EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM
+8-K -- (CONTINUED)
+ 
+<TABLE>
+<S>                  <C>
+          21.1    -- Subsidiaries of UST.
+          23.1    -- Consent of Independent Auditors.
+          27.1    -- Financial Data Schedule.
+</TABLE>
+ 
+     (b) No current reports on Form 8-K were filed during the fourth quarter of
+         Registrant's most recent fiscal year.
+ 
+* Management contract or compensatory plan or arrangement required to be filed
+  as an exhibit pursuant to Item 14(c) of the rules governing the preparation of
+  this Report.
+ 
+                                       10
+<PAGE>   12
+ 
+                                 SIGNATURE PAGE
+ 
+     PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934, REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED ON ITS
+BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+ 
+                                            UST Inc.
+Date: February 16, 1995
+                                            By:      VINCENT A. GIERER, JR.
+                                              ----------------------------------
+                                                    VINCENT A. GIERER, JR.
+                                                 CHAIRMAN OF THE BOARD, CHIEF
+                                                           EXECUTIVE
+                                                    OFFICER AND PRESIDENT
+ 
+     PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS
+REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF REGISTRANT
+AND IN THE CAPACITIES AND ON THE DATES INDICATED.
+ 
+<TABLE>
+<S>                   <C>                          <C>
+                       Chairman of the Board,
+                       Chief Executive Officer
+                      and President (Principal
+February 16, 1995        Executive Officer)                  VINCENT A. GIERER, JR.
+                                                   -------------------------------------------
+                                                             VINCENT A. GIERER, JR.
+                      Executive Vice President
+                         and Chief Financial
+                               Officer
+                        (Principal Financial
+February 16, 1995             Officer)                         JOHN J. BUCCHIGNANO
+                                                   -------------------------------------------
+                                                               JOHN J. BUCCHIGNANO
+                             Controller
+                        (Principal Accounting
+February 16, 1995             Officer)                       ROBERT T. D'ALESSANDRO
+                                                   -------------------------------------------
+                                                             ROBERT T. D'ALESSANDRO
+
+February 16, 1995         Chairman Emeritus                      LOUIS F. BANTLE
+                                                   -------------------------------------------
+                                                                 LOUIS F. BANTLE
+
+February 16, 1995             Director                         JOHN J. BUCCHIGNANO
+                                                   -------------------------------------------
+                                                               JOHN J. BUCCHIGNANO
+
+February 16, 1995             Director                           JAMES W. CHAPIN
+                                                   -------------------------------------------
+                                                                 JAMES W. CHAPIN
+
+February 16, 1995             Director                       EDWARD H. DEHORITY, JR.
+                                                   -------------------------------------------
+                                                             EDWARD H. DEHORITY, JR.
+
+February 16, 1995       Chairman of the Board                VINCENT A. GIERER, JR.
+                                                   -------------------------------------------
+                                                             VINCENT A. GIERER, JR.
+
+February 16, 1995             Director                             P.X. KELLEY
+                                                   -------------------------------------------
+                                                                   P.X. KELLEY
+
+February 16, 1995             Director                          ALBERT H. LEADER
+                                                   -------------------------------------------
+                                                                ALBERT H. LEADER
+
+February 16, 1995             Director                           RALPH L. ROSSI
+                                                   -------------------------------------------
+                                                                 RALPH L. ROSSI
+
+February 16, 1995             Director                          SPENCER R. STUART
+                                                   -------------------------------------------
+                                                                SPENCER R. STUART
+
+February 16, 1995             Director                          JOSEPH R. TADDEO
+                                                   -------------------------------------------
+                                                                JOSEPH R. TADDEO
+
+February 16, 1995             Director                           JOHN P. WARWICK
+                                                   -------------------------------------------
+                                                                 JOHN P. WARWICK
+</TABLE>
+ 
+                                       11
+<PAGE>   13
+ 
+                                 EXHIBIT INDEX
+ 
+<TABLE>
+<S>    <C>  <C>
+ 3.1     -- Restated Certificate of Incorporation dated May 5, 1992, incorporated by reference
+            to Exhibit 3.1 to Form 10-Q for the quarter ended March 31, 1992.
+ 3.2     -- By-Laws adopted on December 23, 1986, incorporated by reference to Exhibit 3.2 to
+            Form S-4 Registration Statement filed on March 20, 1987.
+10.1*    -- Employment Agreement dated October 1, 1990 between UST and Joseph R. Taddeo, an
+            Executive Officer, incorporated by reference to Exhibit 10.1 to Form 10-Q for the
+            quarter ended September 30, 1990.
+10.2*    -- Form of Employment Agreement dated October 20, 1986 between United States Tobacco
+            Company (subsequently assumed by UST) and Vincent A. Gierer, Jr., an Executive
+            Officer, incorporated by reference to Exhibit 10.1 to Form 10-Q for the quarter
+            ended September 30, 1986.
+10.3*    -- Employment Agreement dated December 1, 1993 between UST and John J. Bucchignano, an
+            Executive Officer, incorporated by reference to Exhibit 10.3 to Form 10-K for the
+            fiscal year ended December 31, 1993.
+10.4*    -- Form of Severance Agreement dated October 27, 1986 between United States Tobacco
+            Company (subsequently assumed by UST) and nonexecutive officers, incorporated by
+            reference to Exhibit 10.2 to Form 10-Q for the quarter ended September 30, 1990.
+10.5*    -- 1982 Stock Option Plan restated as of March 22, 1989, incorporated by reference to
+            Exhibit 4.1 to Form S-8 Registration Statement filed on April 14, 1989.
+10.6*    -- 1992 Stock Option Plan, effective as of May 5, 1992, incorporated by reference to
+            Appendix A to the UST 1992 Notice of Annual Meeting and Proxy Statement dated March
+            27, 1992.
+10.7*    -- Incentive Compensation Plan, as restated as of January 1, 1994, incorporated by
+            reference to Exhibit 10.7 for Form 10-K for the fiscal year ended December 31,
+            1993.
+10.8*    -- Officers' Supplemental Retirement Plan, as restated as of December 1, 1992,
+            incorporated by reference to Exhibit 10.7 to Form 10-K for the fiscal year ended
+            December 31, 1992.
+10.9     -- Nonemployee Directors' Retirement Plan, effective as of January 1, 1988,
+            incorporated by reference to Exhibit 10.8 to Form 10-K for the fiscal year ended
+            December 31, 1992.
+10.10    -- Directors' Supplemental Medical Plan amended and restated as of February 16, 1995.
+13.1     -- Industry Segment Data pertaining to the years 1992 through 1994.
+13.2     -- Market for Registrant's Common Equity and Related Stockholder Matters.
+13.3     -- Selected Financial Data.
+13.4     -- Management's Discussion and Analysis of Financial Condition and Results of
+            Operations.
+13.5     -- Financial Statements and Supplementary Data.
+21.1     -- Subsidiaries of UST.
+23.1     -- Consent of Independent Auditors.
+27.1     -- Financial Data Schedule.
+</TABLE>
+ 
+* Management contract or compensatory plan or arrangement required to be filed
+  as an exhibit pursuant to Item 14(c) of the rules governing the preparation of
+  this Report.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>2
+<DESCRIPTION>DIRECTORS' SUPPLEMENTAL MEDICAL PLAN
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                   EXHIBIT 10.10
+ 
+                                    UST INC.
+                      DIRECTORS' SUPPLEMENTAL MEDICAL PLAN
+ 
+     1. Purpose; Applicability.  The purpose of the Plan is to provide
+supplemental medical benefits to nonemployee members of the Board of Directors
+of UST Inc. (the "Company"). The Plan was adopted as of January 1, 1994 and
+amended and restated to add a new Section 3 as of February 16, 1995. The Plan
+shall be applicable to all current or future directors of the Company, other
+than directors who are employees or former employees of the Company or its
+subsidiaries, whether direct or indirect ("Eligible Directors"). Neither the
+spouse of an Eligible Director nor any other member of an Eligible Director's
+family shall be eligible for coverage under the Plan.
+ 
+     2. Benefits.  The Company, or any third party administrator appointed by
+the Company, shall reimburse each Eligible Director for the reasonable,
+medically related expenses incurred by such Director for deductibles,
+coinsurance, co-pays, prescription drugs, physician charges, medically related
+charges, annual physicals, professional nursing care, medically related
+transportation and lodging, special health equipment, vision care, eyeglasses,
+contact lenses and hearing aids ("Covered Expenses"); provided, however, that
+(i) the amount of Covered Expenses incurred in any calendar year for which an
+Eligible Director may be reimbursed shall not exceed $7,500, and (ii) Covered
+Expenses shall not include cosmetic surgery, insurance premiums, hot tubs
+(etc.), care not approved by a physician, act of war, free services, or claims
+covered by any other health plan.
+ 
+     3. Continuing Coverage.  Coverage under the Plan shall continue after an
+Eligible Director's service as a director ceases for any reason, for the same
+number of months as the number of full months that the Eligible Director shall
+have served as a director; provided, however, that in the event an Eligible
+Director dies before the end of the period in which payments are to be made,
+coverage shall cease as of the last day of the month in which occurs the death
+of such Director.
+ 
+     4. Administration.  The Company, or any third party administrator appointed
+by the Company, may establish such reasonable rules and conditions for the
+submission and reimbursement of claims as it shall in its discretion determine.
+ 
+     5. No Right of Service.  Nothing contained in this Plan shall give any
+Director the right to remain as a director.
+ 
+     6. Nontransferability.  No amounts payable under the Plan shall be
+transferable by the Eligible Director.
+ 
+     7. Amendments to Plan.  The Board of Directors of the Company may, by its
+duly taken action, at any time terminate or from time to time modify or suspend
+the Plan, in whole or in part, except that termination, modification or
+suspension of the Plan shall not, without the consent of the affected Eligible
+Directors, adversely affect any right of any such Director to receive benefits
+that have previously accrued.
+ 
+     8. Governing Law.  The Plan shall be governed and construed in accordance
+with the laws of the State of Delaware.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.1
+<SEQUENCE>3
+<DESCRIPTION>INDUSTRY SEGMENT DATA 1992-1994
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 13.1
+ 
+                                      UST
+ 
+                       CONSOLIDATED INDUSTRY SEGMENT DATA
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                                  YEAR ENDED DECEMBER 31
+                                                         ----------------------------------------
+                                                            1994           1993           1992
+                                                         ----------     ----------     ----------
+<S>                                                      <C>            <C>            <C>
+NET SALES TO UNAFFILIATED CUSTOMERS
+Tobacco
+  Smokeless tobacco....................................  $1,045,546     $  930,465     $  832,929
+  Other tobacco products...............................      12,715         21,124         51,048
+                                                         ----------     ----------     ----------
+                                                          1,058,261        951,589        883,977
+Wine...................................................      89,170         80,205         70,458
+Other..................................................      78,737         81,489         87,603
+Elimination of intersegment sales......................      (3,152)        (2,880)        (2,663)
+                                                         ----------     ----------     ----------
+          NET SALES....................................  $1,223,016     $1,110,403     $1,039,375
+                                                          =========      =========      =========
+OPERATING PROFIT
+Tobacco................................................    $653,695       $572,062       $508,775
+Wine...................................................       8,832          6,126          4,770
+Other..................................................       1,485          9,228          9,630
+                                                         ----------     ----------     ----------
+          OPERATING PROFIT.............................     664,012        587,416        523,175
+  Corporate expenses...................................     (23,284)       (22,664)       (22,412)
+  Interest (expense) income, net.......................         (92)         2,004          1,866
+  Gain on disposal of product line.....................          --         35,029             --
+                                                         ----------     ----------     ----------
+          EARNINGS BEFORE INCOME TAXES AND CUMULATIVE
+            EFFECT OF ACCOUNTING CHANGES...............    $640,636       $601,785       $502,629
+                                                          =========      =========      =========
+IDENTIFIABLE ASSETS AT DECEMBER 31
+  Tobacco..............................................    $414,888       $394,805       $371,560
+  Wine.................................................     164,950        167,157        150,527
+  Other................................................      88,529         95,674         91,620
+  Corporate............................................      72,869         48,559         60,258
+                                                         ----------     ----------     ----------
+                                                           $741,236       $706,195       $673,965
+                                                          =========      =========      =========
+CAPITAL EXPENDITURES (DISPOSITIONS), NET
+  Tobacco..............................................     $14,407        $38,797        $19,438
+  Wine.................................................       9,253          9,354          8,604
+  Other................................................        (536)         3,648            732
+  Corporate............................................         560          2,711          1,279
+                                                         ----------     ----------     ----------
+                                                            $23,684        $54,510        $30,053
+                                                          =========      =========      =========
+DEPRECIATION
+  Tobacco..............................................     $18,307        $17,069        $15,158
+  Wine.................................................       6,562          5,877          5,265
+  Other................................................       1,834          2,027          2,287
+  Corporate............................................         707            933            855
+                                                         ----------     ----------     ----------
+                                                            $27,410        $25,906        $23,565
+                                                          =========      =========      =========
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.2
+<SEQUENCE>4
+<DESCRIPTION>MARKET FOR REGISTRANT'S COMMON EQUITY & ETC.
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 13.2
+ 
+                                      UST
+ 
+                           DIVIDENDS AND STOCK PRICES
+ 
+CASH DIVIDENDS
+ 
+     The Company increased its 1994 cash dividend by 16.7 percent to an annual
+rate of $1.12 per share. Since 1991, the dividend rate has increased 69.7
+percent reflecting an average annual increase of 19.3 percent. Total cash
+dividends paid by the Company in 1994 were $225.7 million or 58.2 percent of net
+earnings. Cash dividends paid to stockholders have exceeded 50 percent of net
+earnings in each of the last three years.
+ 
+     In December 1994, the Board of Directors approved a first quarter 1995
+dividend of 32 1/2 cents per share. This equates to an indicated annual rate of
+$1.30, and represents an increase of 16.1 percent. The Company has paid cash
+dividends without interruption since 1912. Future dividends depend on many
+factors, including internal estimates of future performance and the Company's
+need for funds.
+ 
+STOCK PRICES
+ 
+     UST shares are traded on the New York Stock Exchange and the Pacific Stock
+Exchange, ticker symbol -- UST.
+ 
+     The number of stockholders of record at December 31, 1994 was 13,116. The
+following table sets forth dividends paid per share and the high and low market
+prices for the year and each quarter of 1994 and 1993.
+ 
+<TABLE>
+<CAPTION>
+                                                                          MARKET PRICE
+                                                          CASH          PER COMMON SHARE
+                                                        DIVIDENDS       ----------------
+                                                          PAID          HIGH        LOW
+                                                        ---------       -----      -----
+        <S>                                             <C>             <C>        <C>
+        1st Quarter
+          1994........................................    $ .28        $29 5/8    $24 3/8
+          1993........................................      .24         32 3/4     24 3/4
+ 
+        2nd Quarter
+          1994........................................      .28         28 1/2     23 5/8
+          1993........................................      .24         30 7/8     25 7/8
+ 
+        3rd Quarter
+          1994........................................      .28         31 1/2     27 1/4
+          1993........................................      .24         29 7/8     26 1/4
+ 
+        4th Quarter
+          1994........................................      .28         29 3/8     26
+          1993........................................      .24         31 3/8     24 3/8
+ 
+        Year
+          1994........................................     1.12         31 1/2     23 5/8
+          1993........................................      .96         32 3/4     24 3/8
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.3
+<SEQUENCE>5
+<DESCRIPTION>SELECTED FINANCIAL DATA
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 13.3
+ 
+                                      UST
+ 
+                CONSOLIDATED SELECTED FINANCIAL DATA -- 11 YEARS
+ 
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+<TABLE>
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31
+                                          ---------------------------------------------------------------------
+                                             1994         1993         1992        1991       1990       1989
+                                          ----------   ----------   ----------   --------   --------   --------
+<S>                                       <C>          <C>          <C>          <C>        <C>        <C>
+SUMMARY OF OPERATIONS
+  Net sales.............................  $1,223,016   $1,110,403   $1,039,375   $904,427   $761,741   $679,322
+  Cost of products sold.................     251,944      246,445      256,796    227,546    191,824    185,464
+  Selling, advertising and
+    administrative expenses.............     330,344      299,206      281,816    253,076    220,927    195,433
+                                          ----------   ----------   ----------   --------   --------   --------
+  Operating income......................     640,728      564,752      500,763    423,805    348,990    298,425
+  Other (expense) income:
+    Interest (expense) income, net......         (92)       2,004        1,866      2,279      3,203      3,190
+    Gain on disposal of product line....          --       35,029           --         --         --         --
+                                          ----------   ----------   ----------   --------   --------   --------
+  Earnings before income taxes and
+    cumulative effect of accounting
+    changes.............................     640,636      601,785      502,629    426,084    352,193    301,615
+                                          ----------   ----------   ----------   --------   --------   --------
+  Income taxes..........................     253,110      232,893      190,071    160,179    128,918    111,128
+                                          ----------   ----------   ----------   --------   --------   --------
+  Earnings before cumulative effect of
+    accounting changes..................     387,526      368,892      312,558    265,905    223,275    190,487
+  Cumulative effect of accounting
+    changes (net of income tax
+    benefit)............................          --       19,846           --         --         --         --
+                                          ----------   ----------   ----------   --------   --------   --------
+  Net earnings..........................  $  387,526   $  349,046   $  312,558   $265,905   $223,275   $190,487
+                                          ==========   ==========   ==========   =========  =========  =========
+PER SHARE DATA
+  Primary earnings per common share
+    before cumulative effect of
+    accounting changes..................       $1.87        $1.71        $1.41      $1.18       $.98       $.82
+  Primary earnings per common share.....        1.87         1.62         1.41       1.18        .98        .82
+  Dividends per common share............        1.12          .96          .80        .66        .55        .46
+  Market price per common share:
+    High................................      31 1/2       32 3/4       35 3/8     33 7/8     18 1/4     15 3/8
+    Low.................................      23 5/8       24 3/8       25 3/8     16 3/8     12 3/8      9 5/8
+FINANCIAL CONDITION
+  Current assets........................    $381,937     $334,996     $330,208   $305,430   $265,854   $275,954
+  Current liabilities...................     160,755      106,642       81,208     95,455     68,660     66,643
+  Working capital.......................     221,182      228,354      249,000    209,975    197,194    209,311
+  Ratio of current assets to current
+    liabilities.........................       2.4:1        3.1:1        4.1:1      3.2:1      3.9:1      4.1:1
+  Total assets..........................     741,236      706,195      673,965    656,513    622,595    630,155
+  Long-term debt........................     125,000       40,000           --         --      3,060      6,789
+  Deferred taxes........................       5,065        7,955       46,358     50,928     53,301     55,108
+  Stockholders' equity..................     361,669      462,972      516,606    482,875    473,873    482,254
+OTHER DATA
+  Common stock repurchased..............    $298,843     $236,704     $212,581   $184,424   $151,259    $97,517
+  Dividends paid on common shares.......    $225,715     $199,725     $167,951   $139,670   $118,295   $101,197
+  Dividends paid as a percentage of net
+    earnings............................       58.2%        57.2%        53.7%      52.5%      53.0%      53.1%
+  Return on net sales...................       31.7%        31.4%        30.1%      29.4%      29.3%      28.0%
+  Return on average assets..............       53.5%        50.6%        47.0%      41.6%      35.6%      31.0%
+  Return on average stockholders'
+    equity..............................       94.0%        71.3%        62.5%      55.6%      46.7%      40.7%
+  Percent of long-term debt to
+    stockholders' equity................       34.6%         8.6%           --         --        .6%       1.4%
+  Average number of common shares (in
+    thousands) -- primary...............     207,504      215,719      222,033    225,130    227,667    233,305
+</TABLE>
+ 
+- ---------------
+See Management's Discussion and Analysis.
+ 
+All share data have been adjusted to reflect the two-for-one stock splits
+distributed on January 27, 1992, 1989 and 1987.
+<PAGE>   2
+ 
+                                      UST
+ 
+        CONSOLIDATED SELECTED FINANCIAL DATA -- 11 YEARS -- (CONTINUED)
+ 
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+<TABLE>
+<CAPTION>
+                                                                       YEAR ENDED DECEMBER 31
+                                                        ----------------------------------------------------
+                                                          1988       1987       1986       1985       1984
+                                                        --------   --------   --------   --------   --------
+<S>                                                     <C>        <C>        <C>        <C>        <C>
+SUMMARY OF OPERATIONS
+  Net sales...........................................  $615,614   $573,298   $516,031   $478,347   $442,367
+  Cost of products sold...............................   174,560    168,942    158,719    156,783    156,000
+  Selling, advertising and administrative
+    expenses..........................................   180,839    166,957    157,038    144,442    121,314
+                                                        --------   --------   --------   --------   --------
+  Operating income....................................   260,215    237,399    200,274    177,122    165,053
+  Other (expense) income:
+    Interest (expense) income, net....................     1,068     (2,768)    (5,534)    (5,898)    (5,147)
+    Gain on disposal of product line..................        --         --         --         --         --
+                                                        --------   --------   --------   --------   --------
+  Earnings before income taxes and
+    cumulative effect of accounting changes...........   261,283    234,631    194,740    171,224    159,906
+                                                        --------   --------   --------   --------   --------
+  Income taxes........................................    99,133    103,760     90,802     77,695     76,179
+                                                        --------   --------   --------   --------   --------
+  Earnings before cumulative effect of
+    accounting changes................................   162,150    130,871    103,938     93,529     83,727
+  Cumulative effect of accounting changes
+    (net of income tax benefit).......................        --         --         --         --         --
+                                                        --------   --------   --------   --------   --------
+  Net earnings........................................  $162,150   $130,871   $103,938   $ 93,529   $ 83,727
+                                                        =========  =========  =========  =========  =========
+PER SHARE DATA
+  Primary earnings per common share before
+    cumulative effect of accounting changes...........      $.70       $.56       $.46       $.41       $.36
+  Primary earnings per common share...................       .70        .56        .46        .41        .36
+  Dividends per common share..........................       .37        .30    .24 1/4    .21 1/2        .18
+  Market price per common share:
+    High..............................................    10 1/2          8      5 5/8      4 7/8      5 3/8
+    Low...............................................         6      4 7/8      3 3/4      3 5/8      3 7/8
+FINANCIAL CONDITION
+  Current assets......................................  $291,006   $260,530   $250,460   $222,378   $183,927
+  Current liabilities.................................    69,935     63,242     60,895     55,732     65,077
+  Working capital.....................................   221,071    197,288    189,565    166,646    118,850
+  Ratio of current assets to current liabilities......     4.2:1      4.1:1      4.1:1      4.0:1      2.8:1
+  Total assets........................................   597,955    548,951    523,927    468,125    408,465
+  Long-term debt......................................    21,828     37,131     47,061     57,039     35,999
+  Deferred taxes......................................    52,939     47,465     44,412     31,978     26,298
+  Stockholders' equity................................   453,253    401,113    371,559    323,376    281,091
+OTHER DATA
+  Common stock repurchased............................   $67,356    $50,865     $9,907    $16,288    $30,310
+  Dividends paid on common shares.....................   $81,672    $66,789    $54,744    $47,835    $40,494
+  Dividends paid as a percentage of net
+    earnings..........................................     50.4%      51.0%      52.7%      51.1%      48.4%
+  Return on net sales.................................     26.3%      22.8%      20.1%      19.6%      18.9%
+  Return on average assets............................     28.3%      24.4%      21.0%      21.3%      21.4%
+  Return on average stockholders' equity..............     38.0%      33.9%      29.9%      30.9%      30.9%
+  Percent of long-term debt to stockholders'
+    equity............................................      4.8%       9.3%      12.7%      17.6%      12.8%
+  Average number of common shares (in
+    thousands) -- primary.............................   230,417    232,370    227,142    228,350    234,140
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.4
+<SEQUENCE>6
+<DESCRIPTION>MANAGEMENT'S DISCUSSION AND ANALYSIS
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 13.4
+ 
+                                      UST
+ 
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+ 
+RESULTS OF OPERATIONS
+ 
+CONSOLIDATED RESULTS
+ 
+  1994 compared with 1993
+ 
+     Consolidated net sales rose to $1.22 billion, a 10.1 percent increase over
+1993.
+ 
+     Tobacco segment sales increased 11.2 percent, and accounted for 94.7
+percent of the $112.6 million sales increase. The Wine segment also contributed
+to the overall sales gain, posting an 11.2 percent increase. Other segment sales
+were lower due to the absence of Zig-Zag cigarette papers and related products
+resulting from the sale of its distribution rights on March 31, 1993, partially
+offset by increased sales in the entertainment business.
+ 
+     Over the last three years, net sales have increased 35.2 percent at an
+average annual rate of 10.6 percent.
+ 
+     Cost of products sold increased 2.2 percent to $251.9 million. Cost of
+products sold for the Tobacco segment was slightly higher, as higher unit costs
+and increased unit volume for moist smokeless tobacco were offset by lower costs
+for other tobacco products resulting from significant volume declines. Wine
+segment costs were higher due to volume gains which were partially offset by
+lower unit costs. Costs for the Other segment were lower primarily due to the
+absence of cigarette papers and lower Canadian excise taxes, partially offset by
+increased costs due to volume gains for the entertainment business.
+ 
+     Gross profit increased $107.1 million, or 12.4 percent over 1993 primarily
+due to higher selling prices and increased unit volume for moist smokeless
+tobacco.
+ 
+     The gross profit percentage rose to 79.4 percent mainly due to the
+favorable results for moist smokeless tobacco and volume declines for lower
+margin products. The gross profit percentage has increased 4.6 percentage points
+over the last three years.
+ 
+     Selling, advertising and administrative expenses rose 10.4 percent to
+$330.3 million. Selling and advertising expenses increased for the Tobacco and
+Other segments and remained stable in the Wine segment. Administrative and other
+expenses were generally higher due to increases in salary and related costs,
+increased spending associated with addressing legal and regulatory issues, the
+early adoption of Statement of Financial Accounting Standards (SFAS) No. 116,
+"Accounting for Contributions Received and Contributions Made" and reserves
+recorded for nonstrategic assets.
+ 
+     The Company incurred net interest expense as a result of interest expense
+on short-term borrowings and long-term debt exceeding income from cash
+equivalent investments.
+ 
+     The comparison of earnings per share for the year 1994 as compared to 1993,
+was adversely affected by 3 cents due to several events which occurred in 1993.
+On March 31, 1993, the Company sold its distribution rights for Zig-Zag
+cigarette papers and related products which resulted in an after-tax gain of $22
+million or 10 cents per share. In addition, operating results for the year of
+1994 do not include Zig-Zag and related products amounting to 2 cents per share.
+Also in 1993, the Company adopted SFAS No. 106 and SFAS No. 109, which reduced
+primary earnings per share by 9 cents.
+ 
+     Pretax profit margins decreased slightly to 52.4 percent on earnings before
+income taxes of $640.6 million. Over the last three years, earnings before
+income taxes have increased 50.4 percent at an average annual rate of 14.7
+percent, while pretax margins have averaged 51.7 percent.
+ 
+     The overall tax rate for 1994 increased slightly.
+ 
+     Net earnings increased for the 34th consecutive year rising 11 percent to
+$387.5 million. Primary earnings per share rose to $1.87, a 15.4 percent
+increase over 1993. Primary earnings per share have increased 58.5 percent over
+the last three years at an average annual rate of 16.6 percent.
+ 
+  1993 compared with 1992
+ 
+     Consolidated net sales rose 6.8 percent to $1.11 billion.
+<PAGE>   2
+ 
+     The Tobacco segment accounted for 95.2 percent of the $71 million sales
+increase. The Wine segment also contributed to the overall sales gain, posting a
+13.8 percent increase. Other segment sales were lower due to the absence of
+Zig-Zag cigarette papers and related products resulting from the sale of its
+distribution rights on March 31, 1993.
+ 
+     Cost of products sold decreased 4 percent to $246.4 million. Cost of
+products sold for the Tobacco segment was lower due to significant volume
+declines for other tobacco products which was partially offset by higher unit
+costs and increased unit volume for moist smokeless tobacco. Costs for the Other
+segment were lower primarily due to the absence of cigarette papers, while Wine
+segment unit costs were higher.
+ 
+     Gross profit increased $81.4 million, or 10.4 percent over 1992, primarily
+due to higher selling prices and increased unit volume for moist smokeless
+tobacco.
+ 
+     The gross profit percentage rose to 77.8 percent, mainly due to favorable
+results for moist smokeless tobacco and volume declines for lower margin
+products.
+ 
+     Selling, advertising and administrative expenses rose 6.2 percent to $299.2
+million. Selling and advertising expenses increased for all segments.
+Administrative and other expenses were generally lower, with increases in salary
+and related costs being offset by lower spending in other areas and gains
+recorded on the sale of corporate investments.
+ 
+     Operating income increased 12.8 percent in 1993 to $564.8 million.
+ 
+     Net interest income resulted as income from cash equivalent investments
+exceeded interest expense.
+ 
+     Results for 1993, as compared to 1992, were affected by several events. The
+Company sold its distribution rights for Zig-Zag cigarette papers and related
+products on March 31, 1993 for $39 million in cash and additional consideration
+based on future earnings for the next ten years. This transaction resulted in an
+after-tax gain of $22 million, amounting to 10 cents per share. The absence of
+these products in operating results for the remainder of 1993 reduced primary
+earnings per share by 2 cents. In addition, the "Omnibus Budget Reconciliation
+Act," which increased the statutory corporate federal income tax rate to 35
+percent retroactive to January 1, 1993, reduced primary earnings per share by 3
+cents for the year. Also in 1993, the Company adopted SFAS No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions," and SFAS No. 109,
+"Accounting for Income Taxes." As a result of adopting SFAS No. 106 the Company
+recorded a one-time charge to net earnings of $32.7 million. The adoption of
+SFAS No. 109 resulted in an increase in net earnings of $12.8 million. The
+cumulative effect of these accounting changes reduced primary earnings per share
+by 9 cents.
+ 
+     Profit margins rose to 54.2 percent on earnings before income taxes and the
+cumulative effect of accounting changes of $601.8 million.
+ 
+     The overall tax rate for 1993 increased due to the higher statutory
+corporate federal income tax rate.
+ 
+     Net earnings increased 11.7 percent to $349 million. Primary earnings per
+share before the cumulative effect of accounting changes rose to $1.71, a 21.3
+percent increase over 1992. Primary earnings per share, after the cumulative
+effect of accounting changes, rose to $1.62, a 14.9 percent increase over 1992.
+ 
+TOBACCO SEGMENT
+ 
+  1994 compared with 1993
+ 
+     Tobacco segment sales increased 11.2 percent to $1.06 billion and accounted
+for 86.5 percent of consolidated revenues. Smokeless tobacco sales increased
+12.4 percent to $1.05 billion, representing 85.5 percent of consolidated sales.
+Other tobacco product sales decreased significantly due to volume declines.
+ 
+     The increase in smokeless tobacco sales resulted from higher selling prices
+and unit volume gains for moist smokeless tobacco. Domestic unit volume for
+moist smokeless tobacco products increased 2.6 percent in 1994 to 627.4 million
+cans, as compared with the similar period for 1993. Fourth quarter unit volume
+increased 4.1 percent to 158.2 million cans, compared with the similar 1993
+period. The unit volume
+<PAGE>   3
+ 
+comparison for the fourth quarter of 1994 to the similar period in the prior
+year was favorably affected by distributor inventory build-up in December.
+ 
+     Cost of sales for the Tobacco segment was slightly higher, as higher unit
+costs and increased unit volume for moist smokeless tobacco were offset by lower
+costs due to significant volume declines for other tobacco products. Moist
+smokeless tobacco unit costs increased slightly due to higher leaf tobacco costs
+and overhead expenses.
+ 
+     Gross profit for the segment rose substantially during 1994. Higher selling
+prices and unit volume gains for moist smokeless tobacco were the primary
+reasons for the increase.
+ 
+     Selling expenses increased 7.5 percent, primarily due to higher costs
+associated with promotional activities as well as higher salaries for the sales
+force and support personnel.
+ 
+     Advertising costs increased slightly as compared with the prior year.
+Selling and advertising expenses were directed at the promotion and support of
+our moist smokeless tobacco products. Administrative expenses were significantly
+higher primarily due to expenses incurred to address legal and regulatory issues
+and increased salary and related costs.
+ 
+     Operating profit increased 14.3 percent to $653.7 million.
+ 
+  1993 compared with 1992
+ 
+     Tobacco segment sales rose to $951.6 million for an increase of 7.6 percent
+and accounted for 85.7 percent of consolidated revenues. Smokeless tobacco sales
+increased 11.7 percent to $930.5 million, and represented 83.8 percent of
+consolidated sales. Other tobacco product sales decreased significantly due to
+lower unit volume.
+ 
+     The increase in smokeless tobacco sales resulted from higher selling prices
+and unit volume gains for moist smokeless tobacco. Domestic unit volume for
+moist smokeless tobacco products increased 2.3 percent in 1993, to 611.6 million
+cans, which included one less shipping day as compared to 1992. On an equivalent
+shipping day basis unit volume for domestic moist smokeless tobacco would have
+increased 3.1 percent.
+ 
+     Moist smokeless tobacco unit costs increased slightly due to higher leaf
+tobacco costs and increased excise taxes imposed January 1, 1993. Cost of sales
+for the Tobacco segment was significantly lower due to decreased unit volume for
+other tobacco products which have higher unit costs as compared to moist
+smokeless tobacco.
+ 
+     Gross profit for the segment rose substantially during 1993 as a result of
+higher selling prices and unit volume gains for moist smokeless tobacco.
+ 
+     Selling expenses increased 12.9 percent, primarily due to higher costs
+associated with promotional activities and higher salaries and increased
+expenses for the sales force.
+ 
+     Advertising costs increased significantly as compared with the prior year.
+Selling and advertising expenses were directed at the promotion and support of
+our moist smokeless tobacco products, including two new flavors which were
+introduced during 1993. Administrative expenses were lower as increased salary
+and related costs were offset by lower spending in other areas.
+ 
+     Operating profit increased 12.4 percent to $572.1 million.
+ 
+WINE SEGMENT
+ 
+  1994 compared with 1993
+ 
+     Wine segment revenue increased 11.2 percent to $89.2 million and accounted
+for 7.3 percent of consolidated sales. Higher case volume for premium wine
+accounted for the increase. Case volume for premium wine increased 13.2 percent.
+Overall case volume for the Wine segment increased 9.2 percent. Chateau Ste.
+Michelle and Columbia Crest, our two leading brands of premium wine, accounted
+for approximately 70 percent of total wine revenue.
+<PAGE>   4
+ 
+     Unit costs decreased slightly primarily due to excellent harvest yields in
+1992 and 1993.
+ 
+     The Company uses grapes both harvested from its own vineyards and purchased
+from regional growers in its wine production. Total grape tonnage harvested and
+purchased in 1994 was significantly lower than the exceptional harvest
+experienced in 1993. As a result of lower harvest yields, the cost for grapes
+was slightly higher which will affect future unit costs. However, the 1994
+harvest level was adequate to enable the Company to meet its requirements for
+premium wine.
+ 
+     Gross profit for the Wine segment increased 13.1 percent primarily as a
+result of an increase in premium wine case volume and slightly lower unit costs.
+ 
+     Selling, advertising and administrative expenses remained stable in 1994.
+Selling and advertising expenses were directed toward expanding the brand
+awareness of premium wines, primarily Columbia Crest and Domaine Ste. Michelle.
+ 
+     Administrative and other expenses, primarily salary and related expenses,
+were slightly higher.
+ 
+     The Wine segment recorded an operating profit of $8.8 million in 1994, an
+increase of 44.2 percent over 1993.
+ 
+  1993 compared with 1992
+ 
+     Wine segment revenue increased 13.8 percent to $80.2 million and accounted
+for 7.2 percent of consolidated sales. Higher case volume for premium wine
+accounted for the increase. Overall case volume for the Wine segment increased
+7.6 percent, while case volume for premium wine increased 14.4 percent.
+ 
+     Overall, unit costs increased primarily due to higher grape costs resulting
+from low harvest yields in prior years.
+ 
+     Total grape tonnage harvested and purchased in 1993 was significantly
+higher than in 1992, resulting in increased inventory levels, which will have a
+favorable effect on future unit costs.
+ 
+     Gross profit for the Wine segment increased 10.7 percent primarily as a
+result of an increase in premium wine case volume partially offset by higher
+unit costs.
+ 
+     Selling, advertising and administrative expenses increased in 1993. Selling
+expenses increased primarily to support higher volume levels of premium brands.
+ 
+     Advertising expenses were higher and were aimed at supporting and expanding
+national brand awareness of our existing premium wines and new products.
+ 
+     Administrative and other expenses were slightly lower as higher salary and
+related costs were offset by lower spending in other areas.
+ 
+     The Wine segment recorded an operating profit of $6.1 million in 1993.
+ 
+OTHER SEGMENT
+ 
+  1994 compared with 1993
+ 
+     Other segment sales were $78.7 million, a 3.4 percent decrease from 1993,
+and accounted for 6.4 percent of consolidated sales. Other segment sales were
+lower due to the sale of the distribution rights for Zig-Zag cigarette papers
+and related products on March 31, 1993, partially offset by higher revenues for
+the entertainment business.
+ 
+     The absence of the cigarette paper operations for the entire year, higher
+spending associated with developing international markets and reserves recorded
+for nonstrategic assets more than offset favorable results for the entertainment
+business. Overall, the Other segment recorded an operating profit of $1.5
+million in 1994.
+<PAGE>   5
+ 
+  1993 compared with 1992
+ 
+     Other segment sales decreased 7 percent to $81.5 million and accounted for
+7.3 percent of consolidated sales. Other segment sales were lower due to the
+sale of the distribution rights for Zig-Zag cigarette papers and related
+products on March 31, 1993. The absence of these products for the remainder of
+1993 had an adverse effect on the operating results for the Other segment.
+ 
+     Operating profit was significantly lower for tobacco-related products due
+to the sale of the cigarette paper business, but was partially offset by
+favorable results for other businesses. The Other segment recorded an operating
+profit of $9.2 million in 1993.
+ 
+HEALTH CARE REFORM
+ 
+     As introduced by the Clinton Administration during the 103rd Congress, The
+Health Security Act proposed, among other things, a significant federal excise
+tax increase on all tobacco products, including moist snuff. This proposal
+failed last year. We expect some form of health care debate during the 104th
+Congress and we will vigorously oppose any proposed increase in the federal
+excise tax on our tobacco products. Accordingly, the Company is not able to
+predict the amount, if any, by which the federal excise tax rate may increase,
+or assess the future effect that any such increase may have on its tobacco
+business.
+ 
+FINANCIAL CONDITION
+ 
+SOURCES AND USES OF CASH -- OPERATIONS
+ 
+     Cash provided by operating activities is the major source of funds
+available to the Company. Cash from operations increased to $453.2 million in
+1994, as compared to $367.6 million in 1993 and $288.8 million in 1992. The
+primary reason for the increase was higher earnings generated by the Tobacco
+segment.
+ 
+     Significant inventories of leaf tobacco are required primarily in
+connection with our smokeless tobacco products. During the last three years,
+$175.4 million was used for the purchase of leaf tobacco and related costs. In
+addition, the cost of grapes harvested and purchased totaled $64.7 million over
+the last three years.
+ 
+INVESTING ACTIVITIES
+ 
+     Net cash used in investing activities was $21.5 million in 1994. Purchases
+of property, plant and equipment over the last three years totaled $119.9
+million.
+ 
+     Major areas of capital spending from 1992 through 1994 were:
+ 
+Tobacco segment
+ 
+- - Manufacturing, processing and packaging equipment
+ 
+- - Automobiles for the sales force
+ 
+- - Building renovations
+ 
+Wine segment
+ 
+- - Storage capacity and processing equipment
+ 
+- - New facilities and building renovations
+ 
+- - Irrigation and vineyard development
+ 
+Other segment
+ 
+- - Equipment
+ 
+- - Building additions and renovations
+<PAGE>   6
+ 
+Shared assets
+ 
+- - Transportation equipment -- primarily aircraft
+ 
+- - Headquarters, conference and training facility renovations
+ 
+     In 1995, the Company's capital program is expected to approximate $52
+million, and will primarily include improvements to the tobacco processing and
+manufacturing operations and the expansion of wine processing and storage
+facilities.
+ 
+     In 1993 the Company sold its distribution rights for Zig-Zag cigarette
+papers and related products for $39 million in cash and additional consideration
+based on future earnings.
+ 
+FINANCING ACTIVITIES
+ 
+     Other significant sources and uses of cash over the last three years have
+included long-term borrowings, the issuance of common stock, stock repurchases
+and cash dividends. During 1994, the Company entered into a $200 million
+revolving credit and term loan agreement with several banks replacing the
+similar $50 million credit facility. The Company has borrowed $125 million under
+this credit facility since 1993 and used the funds for its share repurchase
+program. The remaining $75 million is available and may be used for the stock
+repurchase program depending on market conditions. (See Revolving Credit and
+Term Loan Agreement and Short-Term Lines of Credit Note.)
+ 
+     Common stock was issued upon the exercise of options granted under the
+Company's stock option plans. Options are granted to employees who have made or
+who are expected to make contributions to the growth of the Company. The Company
+receives income tax benefits upon the exercise of certain of these options.
+Since 1991, funds received from the exercise of options, together with these tax
+benefits, totaled $168.7 million.
+ 
+     During 1994, the Company continued its program to repurchase shares of its
+common stock as authorized by the Board of Directors. In 1994, the Board of
+Directors approved a new stock repurchase program, authorizing the Company to
+repurchase up to 20 million shares of its common stock from time to time in open
+market or negotiated transactions to be used in connection with employee benefit
+programs and other corporate purposes. The new program commenced during the
+fourth quarter of 1994, upon completion of the prior program, which provided for
+the repurchase of up to 40 million shares.
+ 
+     During 1994, the Company repurchased 10.6 million shares at a cost of
+$298.8 million. As of December 31, 1994, 15.8 million shares remained to be
+repurchased under the new program.
+ 
+     It is the Company's philosophy that its stockholders should benefit
+directly from increases in net earnings. Accordingly, the Company has regularly
+increased dividend payments as earnings have risen. During the last three years,
+cash dividends distributed to stockholders amounted to $593.4 million, totaling
+56.6 percent of net earnings for the period.
+ 
+LIQUIDITY
+ 
+     Sources of cash exceeded uses of cash by $25.4 million in 1994. The Company
+anticipates that cash generated from operating activities will meet most of its
+requirements in 1995. Seasonal purchases of leaf tobacco occasionally require
+the Company to use short-term borrowings in the form of commercial paper, when
+necessary, to augment cash generated by operating activities. In 1994 sufficient
+cash was generated to meet these requirements and short-term borrowings were
+limited. The Company anticipates that leaf tobacco purchases and related costs
+in 1995 will increase to approximately $82 million as compared to $70 million
+for 1994. Increased spending in 1995 reflects the Company's plan to maintain a
+higher level of leaf tobacco inventory.
+ 
+     The ratio of current assets to current liabilities (current ratio) at
+December 31, 1994 was 2.4 to 1 and has averaged 3.2 to 1 over the last three
+years. Increases in accrued expenses and income taxes payable reduced the
+current ratio from prior years. However, the Company continues to maintain a
+strong liquidity position. Further enhancing this position is the fact that
+certain inventories are carried at costs computed under the
+<PAGE>   7
+ 
+LIFO method. The average costs of these inventories was $41.8 million more than
+the amount at which they are carried in the Consolidated Statement of Financial
+Position at December 31, 1994.
+ 
+     The Company believes that adequate credit facilities are available through
+committed short-term credit lines. The Company has available short-term lines of
+credit with domestic and foreign banks totaling $100 million at December 31,
+1994. The lines of credit are generally committed for a one-year period expiring
+at various times during 1995 and provide for borrowing at prime rates. These
+arrangements require commitment fees which are not significant. These facilities
+can be used as bank financing or as support for commercial paper borrowing. The
+commercial paper market is expected to continue as an attractive source of
+funds. The Company has the highest ratings available on its commercial paper.
+ 
+     The Company intends to maintain appropriate facilities to ensure access to
+credit markets providing sufficient financial resources and operational
+flexibility.
+ 
+CAPITAL RESOURCES
+ 
+     Over the last two years the Company has taken advantage of its strong
+capital structure and relatively low interest rates in the marketplace and has
+borrowed $125 million under its $200 million credit facility. This amount was
+classified as long-term debt at December 31, 1994. These borrowings were used
+for the stock repurchase program. Depending on market conditions the Company may
+borrow the additional $75 million available under this credit facility in 1995
+and use the proceeds for the stock repurchase program. (See Revolving Credit and
+Term Loan Agreement and Short-Term Lines of Credit Note.)
+ 
+     The percentage of long-term debt outstanding to stockholders' equity is
+34.6 percent. The Company had no short-term debt outstanding at December 31,
+1994.
+ 
+     Stockholders' equity decreased in 1994, as the effects of the stock
+repurchase program and dividend payments exceeded the effects of net earnings
+and common stock issued under the Company's stock option plans.
+ 
+     The return on average stockholders' equity has increased by 38.4 percentage
+points to 94 percent over the last three years.
+<PAGE>   8
+ 
+DIVIDENDS AND STOCK PRICES
+ 
+CASH DIVIDENDS
+ 
+     The Company increased its 1994 cash dividend by 16.7 percent to an annual
+rate of $1.12 per share. Since 1991, the dividend rate has increased 69.7
+percent reflecting an average annual increase of 19.3 percent. Total cash
+dividends paid by the Company in 1994 were $225.7 million or 58.2 percent of net
+earnings. Cash dividends paid to stockholders have exceeded 50 percent of net
+earnings in each of the last three years.
+ 
+     In December 1994, the Board of Directors approved a first quarter 1995
+dividend of 32 1/2 cents per share. This equates to an indicated annual rate of
+$1.30, and represents an increase of 16.1 percent. The Company has paid cash
+dividends without interruption since 1912. Future dividends depend on many
+factors, including internal estimates of future performance and the Company's
+need for funds.
+ 
+STOCK PRICES
+ 
+     UST shares are traded on the New York Stock Exchange and the Pacific Stock
+Exchange, ticker
+symbol -- UST.
+ 
+     The number of stockholders of record at December 31, 1994 was 13,116. The
+following table sets foth dividends paid per share and the high and low market
+prices for the year and each quarter of 1994 and 1993.
+ 
+<TABLE>
+<CAPTION>
+                                                                          MARKET PRICE
+                                                          CASH          PER COMMON SHARE
+                                                        DIVIDENDS       ----------------
+                                                          PAID          HIGH        LOW
+                                                        ---------       -----      -----
+        <S>                                             <C>             <C>        <C>
+        1st Quarter
+          1994........................................    $ .28        $29 5/8    $24 3/8
+          1993........................................      .24         32 3/4     24 3/4
+ 
+        2nd Quarter
+          1994........................................      .28         28 1/2     23 5/8
+          1993........................................      .24         30 7/8     25 7/8
+ 
+        3rd Quarter
+          1994........................................      .28         31 1/2     27 1/4
+          1993........................................      .24         29 7/8     26 1/4
+ 
+        4th Quarter
+          1994........................................      .28         29 3/8     26
+          1993........................................      .24         31 3/8     24 3/8
+ 
+        Year
+          1994........................................     1.12         31 1/2     23 5/8
+          1993........................................      .96         32 3/4     24 3/8
+</TABLE>
+<PAGE>   9
+ 
+       GRAPHICAL INFORMATION INCLUDED IN EXHIBIT 13.4 IS DESCRIBED BELOW.
+ 
+           (DOLLARS IN MILLIONS EXCEPT SHARE AMOUNTS AND PERCENTAGES)
+ 
+The following are bar graphs:
+ 
+     Consolidated Net Sales: 1992 - $1,039, 1993 - $1,110 and 1994 - $1,223.
+ 
+     Consolidated Gross Profit: 1992 - $783, 1993 - $864 and 1994 - $971.
+ 
+     Pretax Margins: 1992 - 48.4%, 1993 - 54.2% and 1994 - 52.4%.
+ 
+     Earnings Per Share: 1992 - $1.41, 1993 - $1.62 and 1994 - $1.87.
+ 
+     Tobacco Sales: 1992 - $884, 1993 - $952 and 1994 - $1,058.
+ 
+     Wine Sales: 1992 - $70, 1993 - $80 and 1994 - $89.
+ 
+     Other Sales: 1992 - $88, 1993 - $81 and 1994 - $79.
+ 
+     Net Cash Provided By Operating Activities: 1992 - $289, 1993 - $368 and
+1994 - $453.
+ 
+     Return On Average Stockholders' Equity: 1992 - 62.5%, 1993 - 71.3% and 1994
+- - 94.0%.
+ 
+     Dividends Per Share: 1992 - $.80, 1993 - $.96 and 1994 - $1.12.
+ 
+The following bar graph illustrates the relationship between net earnings and
+dividends paid:
+ 
+     Net Earnings: 1992 - $313, 1993 - $349 and 1994 - $388.
+ 
+     Dividends Paid: 1992 - $168, 1993 - $200 and 1994 - $226.
+ 
+A pie chart illustrating the percentage of capital expenditures by segment for
+1992 - 1994:
+     Tobacco 67%, Wine 25%, Other 4% and Corporate 4%.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.5
+<SEQUENCE>7
+<DESCRIPTION>FINANCIAL STATEMENTS & SUPPLEMENTARY DATA
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 13.5
+ 
+                                      UST
+ 
+                       CONSOLIDATED INDUSTRY SEGMENT DATA
+ 
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                                  YEAR ENDED DECEMBER 31
+                                                         ----------------------------------------
+                                                            1994           1993           1992
+                                                         ----------     ----------     ----------
+<S>                                                      <C>            <C>            <C>
+NET SALES TO UNAFFILIATED CUSTOMERS
+Tobacco
+  Smokeless tobacco....................................  $1,045,546     $  930,465     $  832,929
+  Other tobacco products...............................      12,715         21,124         51,048
+                                                         ----------     ----------     ----------
+                                                          1,058,261        951,589        883,977
+Wine...................................................      89,170         80,205         70,458
+Other..................................................      78,737         81,489         87,603
+Elimination of intersegment sales......................      (3,152)        (2,880)        (2,663)
+                                                         ----------     ----------     ----------
+          NET SALES....................................  $1,223,016     $1,110,403     $1,039,375
+                                                          =========      =========      =========
+OPERATING PROFIT
+Tobacco................................................    $653,695       $572,062       $508,775
+Wine...................................................       8,832          6,126          4,770
+Other..................................................       1,485          9,228          9,630
+                                                         ----------     ----------     ----------
+          OPERATING PROFIT.............................     664,012        587,416        523,175
+  Corporate expenses...................................     (23,284)       (22,664)       (22,412)
+  Interest (expense) income, net.......................         (92)         2,004          1,866
+  Gain on disposal of product line.....................          --         35,029             --
+                                                         ----------     ----------     ----------
+          EARNINGS BEFORE INCOME TAXES AND CUMULATIVE
+            EFFECT OF ACCOUNTING CHANGES...............    $640,636       $601,785       $502,629
+                                                          =========      =========      =========
+IDENTIFIABLE ASSETS AT DECEMBER 31
+  Tobacco..............................................    $414,888       $394,805       $371,560
+  Wine.................................................     164,950        167,157        150,527
+  Other................................................      88,529         95,674         91,620
+  Corporate............................................      72,869         48,559         60,258
+                                                         ----------     ----------     ----------
+                                                           $741,236       $706,195       $673,965
+                                                          =========      =========      =========
+CAPITAL EXPENDITURES (DISPOSITIONS), NET
+  Tobacco..............................................     $14,407        $38,797        $19,438
+  Wine.................................................       9,253          9,354          8,604
+  Other................................................        (536)         3,648            732
+  Corporate............................................         560          2,711          1,279
+                                                         ----------     ----------     ----------
+                                                            $23,684        $54,510        $30,053
+                                                          =========      =========      =========
+DEPRECIATION
+  Tobacco..............................................     $18,307        $17,069        $15,158
+  Wine.................................................       6,562          5,877          5,265
+  Other................................................       1,834          2,027          2,287
+  Corporate............................................         707            933            855
+                                                         ----------     ----------     ----------
+                                                            $27,410        $25,906        $23,565
+                                                          =========      =========      =========
+</TABLE>
+<PAGE>   2
+ 
+                                      UST
+ 
+                       CONSOLIDATED STATEMENT OF EARNINGS
+ 
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+<TABLE>
+<CAPTION>
+                                                                  YEAR ENDED DECEMBER 31
+                                                         ----------------------------------------
+                                                            1994           1993           1992
+                                                         ----------     ----------     ----------
+<S>                                                      <C>            <C>            <C>
+NET SALES..............................................  $1,223,016     $1,110,403     $1,039,375
+COSTS AND EXPENSES
+  Cost of products sold................................     251,944        246,445        256,796
+  Selling, advertising and administrative..............     330,344        299,206        281,816
+                                                         ----------     ----------     ----------
+TOTAL COSTS AND EXPENSES...............................     582,288        545,651        538,612
+                                                         ----------     ----------     ----------
+OPERATING INCOME.......................................     640,728        564,752        500,763
+                                                         ----------     ----------     ----------
+OTHER (EXPENSE) INCOME
+  Interest (expense) income, net.......................         (92)         2,004          1,866
+  Gain on disposal of product line.....................          --         35,029             --
+                                                         ----------     ----------     ----------
+EARNINGS BEFORE INCOME TAXES AND CUMULATIVE EFFECT OF
+  ACCOUNTING CHANGES...................................     640,636        601,785        502,629
+                                                         ----------     ----------     ----------
+INCOME TAXES...........................................     253,110        232,893        190,071
+                                                         ----------     ----------     ----------
+EARNINGS BEFORE CUMULATIVE EFFECT OF ACCOUNTING
+  CHANGES..............................................     387,526        368,892        312,558
+                                                         ----------     ----------     ----------
+CUMULATIVE EFFECT OF ACCOUNTING CHANGES
+  Postretirement benefits other than pensions (net of
+     income tax benefit of $18,115)....................          --        (32,690)            --
+  Income taxes.........................................          --         12,844             --
+                                                         ----------     ----------     ----------
+NET EARNINGS...........................................  $  387,526     $  349,046     $  312,558
+                                                          =========      =========      =========
+EARNINGS PER SHARE
+  Primary earnings before cumulative effect of
+     accounting changes................................       $1.87          $1.71          $1.41
+  Cumulative effect of accounting changes..............          --           (.09)            --
+NET EARNINGS PER SHARE
+  Primary..............................................       $1.87          $1.62          $1.41
+  Fully diluted........................................       $1.87          $1.62          $1.41
+AVERAGE NUMBER OF COMMON SHARES OUTSTANDING
+  Primary..............................................     207,504        215,719        222,033
+  Fully diluted........................................     207,576        215,779        222,423
+</TABLE>
+ 
+See Notes to Consolidated Financial Statements.
+<PAGE>   3
+ 
+                                      UST
+ 
+                  CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+ 
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                                              DECEMBER 31
+                                                                         ----------------------
+                                                                           1994         1993
+                                                                         ---------    ---------
+<S>                                                                      <C>          <C>
+ASSETS
+Current assets
+  Cash and cash equivalents............................................  $  50,718    $  25,327
+  Accounts receivable..................................................     65,883       64,376
+  Inventories..........................................................    237,720      215,635
+  Prepaid expenses and other current assets............................     27,616       29,658
+                                                                         ---------    ---------
+          Total current assets.........................................    381,937      334,996
+                                                                         ---------    ---------
+Property, plant and equipment, net.....................................    305,885      309,611
+Other assets...........................................................     53,414       61,588
+                                                                         ---------    ---------
+                                                                         $ 741,236    $ 706,195
+                                                                          ========     ========
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities
+  Accounts payable and accrued expenses................................  $ 104,558    $  62,445
+  Income taxes.........................................................     56,197       44,197
+                                                                         ---------    ---------
+          Total current liabilities....................................    160,755      106,642
+                                                                         ---------    ---------
+Long-term debt.........................................................    125,000       40,000
+Deferred income taxes..................................................      5,065        7,955
+Postretirement benefits other than pensions............................     61,286       56,782
+Other liabilities......................................................     27,461       31,844
+                                                                         ---------    ---------
+          Total liabilities............................................    379,567      243,223
+                                                                         ---------    ---------
+Stockholders' equity
+  Capital stock........................................................    100,172      106,612
+  Additional paid-in capital...........................................    343,390      337,842
+  Retained earnings....................................................     33,713      255,222
+                                                                         ---------    ---------
+                                                                           477,275      699,676
+  Less cost of shares in treasury......................................    115,606      236,704
+                                                                         ---------    ---------
+          Total stockholders' equity...................................    361,669      462,972
+                                                                         ---------    ---------
+                                                                         $ 741,236    $ 706,195
+                                                                          ========     ========
+</TABLE>
+ 
+See Notes to Consolidated Financial Statements.
+<PAGE>   4
+ 
+                                      UST
+ 
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                 (IN THOUSANDS)
+ 
+<TABLE>
+<CAPTION>
+                                                                   YEAR ENDED DECEMBER 31
+                                                             ----------------------------------
+                                                               1994         1993         1992
+                                                             --------     --------     --------
+<S>                                                          <C>          <C>          <C>
+OPERATING ACTIVITIES
+  Net earnings.............................................  $387,526     $349,046     $312,558
+  Adjustments to reconcile net earnings to cash provided by
+     operating activities:
+     Depreciation and amortization.........................    28,169       26,674       24,467
+     Deferred income taxes.................................    (4,257)     (24,783)      (5,212)
+     Cumulative effect of accounting changes...............        --       37,961           --
+     Gain on disposal of product line......................        --      (35,029)          --
+     Changes in operating assets and liabilities:
+       Increase in accounts receivable.....................    (1,507)     (10,557)      (3,743)
+       Increase in inventories.............................   (22,085)      (4,866)     (19,751)
+       Decrease (increase) in prepaid expenses
+          and other assets.................................     6,038       (1,590)     (10,979)
+       Increase (decrease) in accounts payable, accrued
+          expenses and other liabilities...................    47,338        8,719       (5,057)
+       Increase (decrease) in income taxes payable.........    12,000       22,052       (3,458)
+                                                             --------     --------     --------
+          Net cash provided by operating activities........   453,222      367,627      288,825
+                                                             --------     --------     --------
+INVESTING ACTIVITIES
+  Purchases of property, plant and equipment...............   (27,659)     (58,199)     (33,998)
+  Dispositions of property, plant and equipment............     3,975        3,689        3,945
+  Proceeds received from sales of businesses...............     2,221       37,218          100
+  Other, principally long-term investments.................        --           --       17,288
+                                                             --------     --------     --------
+          Net cash used in investing activities............   (21,463)     (17,292)     (12,665)
+                                                             --------     --------     --------
+FINANCING ACTIVITIES
+  Proceeds from long-term debt.............................    85,000       40,000           --
+  Proceeds from the issuance of common stock...............    33,190       35,051      100,458
+  Reduction of long-term debt..............................        --           --       (1,250)
+  Dividends paid...........................................  (225,715)    (199,725)    (167,951)
+  Common stock repurchased.................................  (298,843)    (236,704)    (212,581)
+                                                             --------     --------     --------
+          Net cash used in financing activities............  (406,368)    (361,378)    (281,324)
+                                                             --------     --------     --------
+          Increase (decrease) in cash and cash
+            equivalents....................................    25,391      (11,043)      (5,164)
+          Cash and cash equivalents at beginning of year...    25,327       36,370       41,534
+                                                             --------     --------     --------
+          Cash and cash equivalents at end of year.........  $ 50,718     $ 25,327     $ 36,370
+                                                             ========     ========     ========
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+  Cash paid during the year for:
+     Income taxes..........................................  $232,615     $201,082     $147,784
+     Interest..............................................     4,708        1,150          756
+</TABLE>
+ 
+See Notes to Consolidated Financial Statements.
+<PAGE>   5
+ 
+                                      UST
+ 
+           CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+ 
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+<TABLE>
+<CAPTION>
+                                                ADDITIONAL                                    TOTAL
+                                    COMMON       PAID-IN       RETAINED     TREASURY      STOCKHOLDERS'
+                                    STOCK        CAPITAL       EARNINGS       STOCK          EQUITY
+                                   --------     ----------     --------     ---------     -------------
+<S>                                <C>          <C>            <C>          <C>           <C>
+Balance at December 31, 1991.....  $105,490      $ 217,418     $159,967     $      --       $ 482,875
+Net earnings for the year........        --             --      312,558            --         312,558
+Cash dividends -- $.80 per
+  share..........................        --             --     (167,951)           --        (167,951)
+Exercise of stock
+  options -- 6,964,400 shares....     3,482         49,171           --            --          52,653
+Income tax benefits net of
+  increase in receivables from
+  exercise of stock options......        --         47,805           --            --          47,805
+Common stock repurchased for
+  treasury and
+  retired -- 6,907,000 shares....    (3,454)       (10,509)    (198,618)           --        (212,581)
+Adjustment for additional minimum
+  pension liability, net of
+  taxes..........................        --             --        1,247            --           1,247
+                                   --------     ----------     --------     ---------     -------------
+Balance at December 31, 1992.....   105,518        303,885      107,203            --         516,606
+Net earnings for the year........        --             --      349,046            --         349,046
+Cash dividends -- $.96 per
+  share..........................        --             --     (199,725)           --        (199,725)
+Exercise of stock
+  options -- 2,186,700 shares....     1,094         18,745           --            --          19,839
+Income tax benefits net of
+  increase in receivables from
+  exercise of stock options......        --         15,212           --            --          15,212
+Common stock repurchased for
+  treasury -- 8,467,000 shares...        --             --           --      (236,704)       (236,704)
+Adjustment for additional minimum
+  pension liability, net of
+  taxes..........................        --             --       (1,302)           --          (1,302)
+                                   --------     ----------     --------     ---------     -------------
+Balance at December 31, 1993.....   106,612        337,842      255,222      (236,704)        462,972
+Net earnings for the year........        --             --      387,526            --         387,526
+Cash dividends -- $1.12 per
+  share..........................        --             --     (225,715)           --        (225,715)
+Exercise of stock
+  options -- 2,001,800 shares....     1,001         16,514           --            --          17,515
+Income tax benefits and decrease
+  in receivables from exercise of
+  stock options..................        --         15,675           --            --          15,675
+Common stock repurchased for
+  treasury -- 10,648,000
+  shares.........................        --             --           --      (298,843)       (298,843)
+Retirement of treasury stock --
+  14,881,800 shares..............    (7,441)       (26,641)    (385,859)      419,941              --
+Adjustment for additional minimum
+  pension liability, net of
+  taxes..........................        --             --        2,539            --           2,539
+                                   --------     ----------     --------     ---------     -------------
+Balance at December 31, 1994.....  $100,172      $ 343,390     $ 33,713     $(115,606)      $ 361,669
+                                   ========       ========     ========     =========      ==========
+</TABLE>
+ 
+See Notes to Consolidated Financial Statements.
+<PAGE>   6
+ 
+                                      UST
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+  Consolidation
+ 
+     The consolidated financial statements include the accounts of the Company
+and all of its subsidiaries after the elimination of intercompany accounts and
+transactions. Investments in a limited partnership and 50 percent or less owned
+companies, accounted for by the equity method, are carried at amounts equal to
+the Company's equity in the underlying assets of such entities.
+ 
+  Fair Value of Financial Instruments
+ 
+     The estimated fair value of amounts reported in the consolidated financial
+statements have been determined by using available market information and
+appropriate valuation methodologies. All current assets and current liabilities
+are carried at their fair value, which approximates market value, because of
+their short-term nature. The fair value of long-term investments and long-term
+debt approximate their carrying value.
+ 
+  Inventories
+ 
+     Inventories are stated at lower of cost or market. The major portion of
+leaf tobacco and briar inventory costs is determined by the last-in, first-out
+(LIFO) method. The cost of the remaining inventories is determined by the
+first-in, first-out (FIFO) and average cost methods. Leaf tobacco and wine
+inventories are included in current assets as a standard industry practice,
+notwithstanding the fact that such inventories are carried for several years for
+the purpose of curing and aging.
+ 
+  Property, Plant and Equipment
+ 
+     Property, plant and equipment are carried at cost less allowances for
+depreciation computed by the straight line method.
+ 
+  Goodwill
+ 
+     Goodwill represents the excess of cost over the fair value of net assets of
+businesses acquired. Unamortized goodwill is included in other assets and is
+being amortized ratably over periods from ten to forty years ending in 2026.
+ 
+  Income Taxes
+ 
+     Income taxes are provided on all revenue and expense items included in the
+Consolidated Statement of Earnings, regardless of the period in which such items
+are recognized for income tax purposes, except for items representing permanent
+differences between pretax accounting income and taxable income. Deferred income
+taxes are provided on temporary differences between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts used for
+income tax purposes.
+ 
+  Earnings Per Share
+ 
+     Primary earnings per share are calculated by dividing net earnings by the
+weighted average number of common and common equivalent shares outstanding
+during the period. Common equivalent shares are shares which would be issuable
+upon the exercise of outstanding stock options, reduced by the number of shares
+which are assumed to be purchased by the Company from the resulting proceeds at
+the average market price during the period. For the fully diluted earnings per
+share calculation, shares are assumed to be purchased by the Company at the
+higher of the average or period-end price and may include additional dilutive
+options.
+<PAGE>   7
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+                (Dollars in thousands, except per share amounts)
+ 
+CASH AND CASH EQUIVALENTS
+ 
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31
+                                                                     ---------------------
+                                                                      1994          1993
+                                                                     -------       -------
+    <S>                                                              <C>           <C>
+    Cash...........................................................  $ 9,718       $11,327
+    Commercial paper...............................................   41,000        14,000
+                                                                     -------       -------
+                                                                     $50,718       $25,327
+                                                                     =======       =======
+</TABLE>
+ 
+     Cash equivalents are all highly liquid investments generally with
+maturities of three months or less when acquired.
+ 
+INVENTORIES
+ 
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31
+                                                                     ---------------------
+                                                                       1994         1993
+                                                                     --------     --------
+    <S>                                                              <C>          <C>
+    Leaf tobacco...................................................  $104,313     $ 90,742
+    Products in process and finished goods.........................   115,261      108,117
+    Other materials and supplies...................................    18,146       16,776
+                                                                     --------     --------
+                                                                     $237,720     $215,635
+                                                                     ========     ========
+</TABLE>
+ 
+     At December 31, 1994 and 1993, $103.2 million and $88.4 million,
+respectively, of inventories were valued using the LIFO method. The average
+costs of these inventories are greater than the amounts at which these
+inventories are carried in the Consolidated Statement of Financial Position by
+$41.8 million and $39.6 million, respectively.
+ 
+PROPERTY, PLANT AND EQUIPMENT
+ 
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31
+                                                                     ---------------------
+                                                                       1994         1993
+                                                                     --------     --------
+    <S>                                                              <C>          <C>
+    Land...........................................................  $ 27,259     $ 27,318
+    Buildings......................................................   188,872      184,147
+    Machinery and equipment........................................   273,160      261,388
+                                                                     --------     --------
+                                                                      489,291      472,853
+    Less allowances for depreciation...............................   183,406      163,242
+                                                                     --------     --------
+    Net property, plant and equipment..............................  $305,885     $309,611
+                                                                     ========     ========
+</TABLE>
+ 
+OTHER ASSETS
+ 
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31
+                                                                     ---------------------
+                                                                      1994          1993
+                                                                     -------       -------
+    <S>                                                              <C>           <C>
+    Prepaid pension costs..........................................  $22,083       $23,517
+    Investments in unconsolidated companies........................   12,683        12,910
+    Goodwill.......................................................    6,822         7,756
+    Long-term investments..........................................    3,690         3,691
+    Intangible pension asset.......................................    3,065         4,263
+    Other..........................................................    5,071         9,451
+                                                                     -------       -------
+                                                                     $53,414       $61,588
+                                                                     =======       =======
+</TABLE>
+ 
+     The investments in unconsolidated companies consist principally of a
+limited partnership that owns and leases a cogeneration facility.
+<PAGE>   8
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+ 
+<TABLE>
+<CAPTION>
+                                                                          DECEMBER 31
+                                                                      --------------------
+                                                                        1994        1993
+                                                                      --------     -------
+    <S>                                                               <C>          <C>
+    Trade accounts payable..........................................  $ 20,544     $21,285
+    Employee compensation and benefits..............................    49,059      18,349
+    Taxes, other than income........................................     7,358       6,050
+    Other accrued expenses..........................................    27,597      16,761
+                                                                      --------     -------
+                                                                      $104,558     $62,445
+                                                                      ========     =======
+</TABLE>
+ 
+REVOLVING CREDIT AND TERM LOAN AGREEMENT AND SHORT-TERM LINES OF CREDIT
+ 
+     In 1994, the Company entered into a $200 million revolving credit and term
+loan agreement with several banks. This agreement replaced the $50 million
+revolving credit and term loan agreement which had been in effect since 1993.
+ 
+     At December 31, 1994 the Company had $125 million outstanding under this
+agreement at interest rates ranging from 5.9 percent to 6.5 percent. At December
+31, 1994 this amount was classified as long-term debt in the Consolidated
+Statement of Financial Position.
+ 
+     Under the terms of the agreement, the Company may borrow funds and elect to
+pay interest under the "Base Rate," "Competitive Bid" or "Eurodollar" interest
+rate provisions. The terms of the agreement provide for a three-year revolving
+line of credit. At the Company's option, any balance outstanding thereafter may
+be converted into a three-year term loan. Principal repayments are optional
+during the revolving credit period, while 36 equal monthly installments are
+required during the term loan period. The Company is required to pay a facility
+fee of 1/10 of 1 percent per annum during the revolving credit period.
+ 
+     Certain provisions of this agreement require the maintenance of tangible
+net worth levels as well as certain financial ratios. The agreement expires in
+August of 2000.
+ 
+     In addition, the Company has available short-term lines of credit with
+domestic and foreign banks totaling $100 million at December 31, 1994 and 1993.
+The lines of credit are generally committed for a one-year period expiring at
+various times during 1995, and provide for borrowing at prime rates. These
+arrangements require commitment fees which are not significant.
+ 
+OTHER LIABILITIES
+ 
+     Other liabilities include the non-current portion of the net pension
+liabilities for 1994 and 1993 of $27.1 million and $30.9 million, respectively.
+(See Employee Benefit and Compensation Plans Note.)
+ 
+CAPITAL STOCK
+ 
+     The Company has two classes of capital stock, preferred stock and common
+stock. Preferred stock carries a par value of $.10 and no shares have been
+issued. Common stock carries a $.50 par value. Authorized preferred stock is 10
+million shares and authorized common stock is 600 million shares.
+ 
+     In 1994, the Board of Directors approved a new stock repurchase program,
+authorizing the Company to repurchase up to 20 million shares of its common
+stock from time to time in open market or in negotiated transactions for use in
+connection with employee benefit programs and other corporate purposes. The new
+program began upon the completion of the prior program which provided for the
+repurchase of up to 40 million shares of the Company's common stock and had been
+in effect since 1990. In 1994, the Company repurchased a total of 10.6 million
+shares of its common stock pursuant to its stock repurchase programs of which
+4.2 million shares related to the new program.
+<PAGE>   9
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     Common stock issued and outstanding at December 31, 1994 and 1993 was
+196,110,436 shares and 204,756,636 shares, respectively.
+ 
+     Events causing changes in the issued and outstanding shares are described
+in the Consolidated Statement of Changes in Stockholders' Equity.
+ 
+STOCK OPTIONS
+ 
+     The Company maintains two stock option plans, the 1992 and 1982 Stock
+Option Plans. At December 31, 1994, 7,502,700 shares were available for grant
+under the 1992 plan, while no shares were available under the 1982 plan. Under
+the plans, options may be granted at not less than the fair market value on the
+date of grant.
+ 
+     Under the 1992 Stock Option Plan, options first become exercisable, in
+ratable installments or otherwise, over a period of one to five years from the
+date of grant and may be exercised up to a maximum of ten years from the date of
+grant using various payment methods.
+ 
+     Receivables from the exercise of options in the amount of $15.3 million in
+1994, $17.4 million in 1993 and $17.2 million in 1992 have been deducted from
+stockholders' equity.
+ 
+     Changes in outstanding options were as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                PRICE RANGE        SHARES
+                                                               -------------     ----------
+    <S>                                                        <C>               <C>
+    Outstanding
+      Dec. 31, 1991..........................................  $ 2.16-$24.19     21,234,000
+      Options granted........................................          30.81      3,798,400
+      Options exercised......................................    2.16- 30.81     (6,964,400)
+      Options expired........................................           2.16         (2,400)
+                                                                                 ----------
+ 
+    Outstanding
+      Dec. 31, 1992..........................................    4.05- 30.81     18,065,600
+      Options granted........................................          25.50      1,198,800
+      Options exercised......................................    4.05- 30.81     (2,186,700)
+      Options forfeited......................................          25.50         (4,200)
+                                                                                 ----------
+ 
+    Outstanding
+      Dec. 31, 1993..........................................    4.05- 30.81     17,073,500
+      Options granted........................................   27.81- 27.88      1,706,400
+      Options exercised......................................    4.05- 30.81     (2,001,800)
+      Options forfeited......................................   25.50- 27.81         (3,700)
+                                                                                 ----------
+ 
+    Outstanding
+      Dec. 31, 1994..........................................    4.05- 30.81     16,774,400
+                                                                                 ==========
+</TABLE>
+ 
+     Under the 1982 Stock Option Plan, incentive and nonqualified options to
+purchase a total of 13,894,400 shares were outstanding and exercisable as of
+December 31, 1994. The average price per share is $18.97, with expiration dates
+ranging from February 11, 1995 to February 6, 2002.
+ 
+     Under the 1992 Stock Option Plan, incentive and nonqualified options to
+purchase a total of 2,880,000 shares were outstanding, of which 807,900 shares
+were exercisable at December 31, 1994 due to vesting requirements. The average
+price per share is $26.88, with expiration dates ranging from February 22, 2003
+to November 16, 2004.
+<PAGE>   10
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+EMPLOYEE BENEFIT AND COMPENSATION PLANS
+ 
+     The Company and its subsidiaries maintain a number of noncontributory
+defined benefit pension plans covering substantially all employees over age 21
+with at least one year of service. The Company's plan for salaried employees
+provides pension benefits based on their highest three-year average
+compensation. The Company's funding policy for this plan is to contribute an
+amount sufficient to meet or exceed ERISA minimum requirements. All other funded
+plans base benefits on the employee's compensation in each year of employment.
+The Company's funding policy for these plans is generally to contribute the
+annual normal cost plus the amount required to amortize unfunded liabilities
+over 20 years from the date established. The Company also maintains unfunded
+plans providing pension and additional benefits for certain employees. The
+assumptions used to determine expense for 1994, 1993 and 1992 were:
+ 
+<TABLE>
+<CAPTION>
+                                                                     1994     1993     1992
+                                                                     ----     ----     ----
+    <S>                                                              <C>      <C>      <C>
+    Discount rate..................................................   7%        8%       8%
+    Average rate of increase in compensation levels................   5%        6%       6%
+    Expected long-term rate of return on plan assets...............   9%       10%      10%
+</TABLE>
+ 
+Net periodic pension cost for 1994, 1993 and 1992 include the following
+components (in millions):
+ 
+<TABLE>
+<CAPTION>
+                                                                     1994     1993    1992
+                                                                    ------   ------   -----
+    <S>                                                             <C>      <C>      <C>
+    Service cost -- benefits earned during period.................  $  8.2   $  7.1   $ 6.5
+    Interest cost on projected benefit obligation.................    14.2     13.9    13.1
+    Actual return on plan assets..................................     4.3    (18.7)   (8.3)
+    Net amortization and deferral.................................   (20.2)     1.6    (9.0)
+                                                                    ------   ------   -----
+    Net periodic pension cost.....................................  $  6.5   $  3.9   $ 2.3
+                                                                    ======   ======   =====
+</TABLE>
+<PAGE>   11
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     The following table presents a reconciliation of the funded status of the
+plans (in millions):
+ 
+<TABLE>
+<CAPTION>
+                                                                    DECEMBER 31,
+                                         -------------------------------------------------------------------
+                                                      1994                                1993
+                                         -------------------------------     -------------------------------
+                                             PLANS             PLANS             PLANS             PLANS
+                                             WHOSE             WHOSE             WHOSE             WHOSE
+                                         ASSETS EXCEED      ACCUMULATED      ASSETS EXCEED      ACCUMULATED
+                                          ACCUMULATED        BENEFITS         ACCUMULATED        BENEFITS
+                                           BENEFITS        EXCEED ASSETS       BENEFITS        EXCEED ASSETS
+                                         -------------     -------------     -------------     -------------
+<S>                                      <C>               <C>               <C>               <C>
+Actuarial present value of benefit
+  obligations:
+  Vested benefits......................     $(109.3)          $ (28.0)          $(125.6)          $ (31.1)
+  Nonvested benefits...................       (12.5)             (2.3)            (14.0)             (3.8)
+                                         -------------     -------------     -------------     -------------
+  Accumulated benefits.................      (121.8)            (30.3)           (139.6)            (34.9)
+  Effect of future pay increases.......       (15.9)             (5.9)            (23.8)             (6.5)
+                                         -------------     -------------     -------------     -------------
+  Projected benefit obligation.........      (137.7)            (36.2)           (163.4)            (41.4)
+Plan assets at fair value..............       185.7                --             195.8               1.6
+Unrecognized net (gain) loss...........       (17.9)              6.8              (2.3)             14.1
+Prior service cost not yet recognized
+  in net periodic pension cost.........        (2.7)               .8               (.5)             (1.5)
+Unrecognized portion of initial net
+  obligation (asset)...................        (5.3)              4.4              (6.1)              4.9
+Adjustment to recognize additional
+  minimum liability....................          --              (6.1)               --             (11.5)
+                                         -------------     -------------     -------------     -------------
+Net pension asset (liability)..........     $  22.1           $ (30.3)          $  23.5           $ (33.8)
+                                         ==========        ==========        ==========        ==========
+</TABLE>
+ 
+     For 1994 and 1993, the net pension assets of $22.1 million and $23.5
+million, respectively, consist of prepaid pension costs and are included in
+other assets. The noncurrent portion of the net liabilities for 1994 and 1993 of
+$30.3 million and $33.8 million, respectively, are included in other
+liabilities.
+ 
+     For pension plans whose accumulated benefits exceed assets at December 31,
+1994, the Consolidated Statement of Financial Position reflects an additional
+minimum liability of $6.1 million: an intangible asset of $3.1 million included
+in other assets and a reduction of retained earnings of $2 million, which is net
+of deferred tax benefits of $1 million. At December 31, 1993, the Consolidated
+Statement of Financial Position included an additional minimum liability of
+$11.5 million: an intangible asset of $4.3 million and a reduction of retained
+earnings of $4.8 million, which is net of deferred tax benefits of $2.4 million.
+ 
+     Plan assets include marketable equity securities (including common stock of
+the Company having a market value of $35.7 million as of December 31, 1994 and
+$35.5 million as of December 31, 1993) and corporate and government debt
+securities.
+ 
+     The discount rate used in determining the present value of benefit
+obligations was 9 percent for 1994 and 7 percent for 1993.
+ 
+     The Company sponsors a defined contribution plan (Employees' Savings Plan)
+covering substantially all of its employees. The Plan requires one year of
+service prior to eligibility for participation. Company contributions are based
+upon participant contributions. The expense was $3.7 million in 1994, $3.6
+million in 1993 and $3.4 million in 1992.
+ 
+     The Company has an Incentive Compensation Plan which provides for incentive
+payments to designated employees based on stated percentages of net income as
+defined in the Plan. Expenses under the Plan amounted to $33.5 million for 1994,
+$28.8 million for 1993 and $26.3 million for 1992.
+<PAGE>   12
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+POSTRETIREMENT BENEFITS OTHER THAN PENSIONS
+ 
+     The Company and certain of its subsidiaries maintain a number of
+postretirement welfare benefit plans which provide certain medical and life
+insurance benefits to substantially all full-time employees who have attained
+certain age and service requirements upon retirement. The health care benefits
+are subject to deductibles, co-insurance and in some cases flat dollar
+contributions which vary by plan, age and service at retirement. All life
+insurance coverage is noncontributory. The welfare plans are not funded.
+ 
+     Effective January 1, 1993, the Company adopted SFAS No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions," which requires the
+Company to accrue the expected cost of providing postretirement benefits as an
+employee renders service.
+ 
+     In 1993 the Company elected to immediately recognize the accumulated
+postretirement benefit obligation of $50.8 million through a one-time cumulative
+effect adjustment to earnings of $32.7 million, net of income taxes. The
+liability is stated separately in the Consolidated Statement of Financial
+Position.
+ 
+     The following table sets forth the combined status of the plans at December
+31:
+ 
+<TABLE>
+<CAPTION>
+                                                                        1994        1993
+                                                                       -------     -------
+    <S>                                                                <C>         <C>
+    Accumulated postretirement benefit obligation:
+      Retirees.......................................................  $15,153     $15,599
+      Fully eligible active plan participants........................    7,719       8,076
+      Other active plan participants.................................   22,400      24,886
+                                                                       -------     -------
+                                                                        45,272      48,561
+    Unrecognized net gain............................................   16,014       8,221
+                                                                       -------     -------
+    Accrued postretirement benefit obligation........................  $61,286     $56,782
+                                                                       =======     =======
+</TABLE>
+ 
+     Postretirement benefit expense was $6 million in 1994, $7.3 million in 1993
+and $1.6 million in 1992. The expense for 1992 was recorded on a pay-as-you-go
+(cash) basis. The net periodic postretirement benefit cost for 1994 and 1993
+included the following components:
+ 
+<TABLE>
+<CAPTION>
+                                                                        1994         1993
+                                                                       ------       ------
+    <S>                                                                <C>          <C>
+    Service cost.....................................................  $2,835       $3,311
+    Interest cost....................................................   3,342        4,009
+    Amortization of unrecognized gain................................    (226)          --
+                                                                       ------       ------
+    Net periodic postretirement benefit cost.........................  $5,951       $7,320
+                                                                       ======       ======
+</TABLE>
+ 
+     The discount rate used in determining the net periodic postretirement
+benefit cost was 7 percent for 1994 and 8 percent for 1993.
+ 
+     The rate of increase in per capita costs of covered health care benefits is
+assumed to be 11.1 percent for 1995 and to decrease gradually to 6.5 percent by
+the year 2008 and remain at that level thereafter. The health care cost trend
+rate assumption has a significant effect on the amounts reported. To illustrate,
+increasing the assumed health care cost trend rates by 1 percentage point in
+each year would increase the accumulated postretirement benefit obligation as of
+December 31, 1994 by approximately $7 million and the 1994 net periodic
+postretirement benefit cost by approximately $1.2 million.
+ 
+     The weighted average discount rate used in determining the accumulated
+postretirement benefit obligation was 9 percent at December 31, 1994 and 7
+percent at December 31, 1993.
+<PAGE>   13
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+INCOME TAXES
+ 
+     Effective January 1, 1993, the Company adopted SFAS No. 109, "Accounting
+for Income Taxes," which required a change in the method of accounting for
+income taxes from the deferred method to the liability method. The Company
+reflected this change through a cumulative effect adjustment which increased net
+earnings and reduced deferred tax liabilities reported in the Consolidated
+Statement of Financial Position by $12.8 million.
+ 
+     Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes.
+ 
+     Significant components of the Company's deferred tax liabilities and assets
+as of December 31 are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                        1994        1993
+                                                                       -------     -------
+    <S>                                                                <C>         <C>
+    Deferred tax liabilities:
+      Depreciation...................................................  $40,883     $38,452
+      Investment in limited partnerships.............................   10,269      11,198
+      Prepaid pension assets.........................................    8,230       8,360
+                                                                       -------     -------
+              Total deferred tax liabilities.........................   59,382      58,010
+                                                                       -------     -------
+    Deferred tax assets:
+      Postretirement benefits other than pensions....................   21,450      19,927
+      Other accrued liabilities......................................   19,608      16,773
+      Accrued pension liabilities....................................    9,674       9,920
+      All other, net.................................................    3,585       3,435
+                                                                       -------     -------
+              Total deferred tax assets..............................   54,317      50,055
+                                                                       -------     -------
+    Net deferred tax liabilities.....................................  $ 5,065     $ 7,955
+                                                                       =======     =======
+</TABLE>
+ 
+     Significant components of the provision for income taxes are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                                     DEFERRED
+                                                             LIABILITY METHOD         METHOD
+                                                           ---------------------     --------
+                                                             1994         1993         1992
+                                                           --------     --------     --------
+  <S>                                                      <C>          <C>          <C>
+  Current:
+    Federal..............................................  $223,407     $208,059     $168,357
+    State and local......................................    33,960       31,502       26,926
+                                                           --------     --------     --------
+            Total current................................   257,367      239,561      195,283
+                                                           --------     --------     --------
+  Deferred:
+    Federal..............................................    (4,257)     (23,261)      (5,164)
+    State and local......................................        --       (1,522)         (48)
+                                                           --------     --------     --------
+            Total deferred...............................    (4,257)     (24,783)      (5,212)
+                                                           --------     --------     --------
+                                                           $253,110     $214,778     $190,071
+                                                           ========     ========     ========
+</TABLE>
+ 
+     The current tax provisions do not reflect $13.5 million, $15.4 million and
+$52.5 million for 1994, 1993 and 1992, respectively, of tax benefits arising
+from the exercise of stock options. These amounts were credited directly to
+additional paid-in capital.
+ 
+     The deferred tax provision for 1993 includes the benefit of $18.1 million
+resulting from the adoption of SFAS No. 106. In addition, the deferred tax
+provisions for 1994, 1993 and 1992 do not reflect the respective tax effects of
+$(1.4) million, $.8 million and $(.6) million resulting from the minimum pension
+liability adjustment required by SFAS No. 87, "Employers' Accounting for
+Pensions."
+<PAGE>   14
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     The 1993 "Omnibus Budget Reconciliation Act" increased the statutory
+corporate federal income tax rate to 35 percent effective January 1, 1993.
+ 
+     Differences between the effective tax rate and the statutory U.S. federal
+income tax rate are explained as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                     1994     1993     1992
+                                                                     ----     ----     ----
+    <S>                                                              <C>      <C>      <C>
+    Statutory U.S. federal income tax rate.........................  35.0%    35.0%    34.0%
+    State and local taxes, net of federal benefit..................   3.4      3.5      3.5
+    Other, net.....................................................   1.1       .5       .3
+                                                                     ----     ----     ----
+                                                                     39.5%    39.0%    37.8%
+                                                                     ====     ====     ====
+</TABLE>
+ 
+EXCISE TAXES
+ 
+     Net sales and cost of products sold include excise taxes of $25.3 million
+in 1994, $30 million in 1993 and $31.7 million in 1992.
+ 
+INTEREST
+ 
+     Interest (expense) income, net, is comprised of expense associated with
+short-term and long-term obligations and income from cash equivalent
+investments.
+ 
+<TABLE>
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31
+                                                             ------------------------------
+                                                              1994        1993        1992
+                                                             -------     -------     ------
+    <S>                                                      <C>         <C>         <C>
+    Short-term obligations.................................  $(1,660)    $(1,091)     $(700)
+    Long-term obligations..................................   (2,956)       (152)       (33)
+                                                             -------     -------     ------
+                                                              (4,616)     (1,243)      (733)
+                                                             -------     -------     ------
+    Income from cash equivalents...........................    4,524       3,247      2,599
+                                                             -------     -------     ------
+                                                             $   (92)    $ 2,004     $1,866
+                                                             =======     =======     ======
+</TABLE>
+ 
+QUARTERLY FINANCIAL DATA (UNAUDITED)
+ 
+<TABLE>
+<CAPTION>
+                   1994                       FIRST      SECOND     THIRD      FOURTH       YEAR
+                                             --------   --------   --------   --------   ----------
+<S>                                          <C>        <C>        <C>        <C>        <C>
+Net sales..................................  $280,379   $310,203   $310,366   $322,068   $1,223,016
+Gross profit...............................   225,978    246,803    246,383    251,908      971,072
+Net earnings...............................    88,758     99,486    100,330     98,952      387,526
+Primary earnings per share.................      $.42       $.48       $.48       $.49        $1.87
+                                             ------------------------------------------------------
+1993
+Net sales..................................  $265,019   $279,707   $278,978   $286,699   $1,110,403
+Gross profit...............................   201,866    219,230    220,464    222,398      863,958
+Earnings before cumulative effect of
+  accounting changes.......................   103,555     89,836     88,703     86,798      368,892
+Net earnings...............................    83,709     89,836     88,703     86,798      349,046
+Primary earnings per share before
+  cumulative effect of accounting
+  changes..................................      $.47       $.41       $.41       $.41        $1.71
+Primary earnings per share.................      $.38       $.41       $.41       $.41        $1.62
+</TABLE>
+ 
+     The first quarter of 1993 includes a pretax gain of $35 million, amounting
+to 10 cents per share, from the sale of a tobacco-related business. This gain
+was offset by the cumulative effect of accounting changes as a result of the
+adoption of SFAS No. 106 and SFAS No. 109, which resulted in a decrease in net
+earnings of $19.8 million, or 9 cents per share.
+<PAGE>   15
+ 
+                                      UST
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+INDUSTRY SEGMENT DATA
+ 
+     The Company's industry segments are Tobacco, Wine and Other. The Company
+operates primarily in the tobacco industry and also produces and markets a
+number of nontobacco products. Tobacco segment sales are principally to a large
+number of wholesalers and chain stores which are widely dispersed. In 1994,
+sales to one wholesale customer accounted for approximately 19 percent of
+Tobacco segment sales.
+ 
+     The Company operates primarily in the United States; foreign operations and
+export sales are not significant. Intersegment sales are accounted for at cost.
+ 
+     Operating profit is total revenue less operating expenses excluding
+corporate expenses and interest, net, and in 1993, the gain on disposal of a
+product line. Identifiable assets by segment include assets directly identified
+with those operations and an allocable share of jointly used assets. Corporate
+assets consist primarily of cash and cash equivalents, other long-term
+investments and an allocation of property, plant and equipment associated with
+nonsegment activities.
+ 
+OTHER MATTERS
+ 
+     The Company has been named in certain litigation against the major
+cigarette companies and others seeking damages relating to the usage of
+cigarettes and, in certain of the complaints, "tobacco products," one of which
+contains several allegations relating to smokeless tobacco products.
+ 
+     The Company believes that these pending litigation matters will not result
+in any material liability for a number of reasons, including the fact that the
+Company has had only limited involvement with cigarettes and the Company's
+current percentage of total tobacco industry sales is relatively small. Prior to
+1986, the Company manufactured some cigarette products which had a de minimis
+market share. From May 1, 1982 to August 1, 1994, the Company distributed a
+small volume of imported cigarettes and is indemnified against claims relating
+to those products.
+ 
+     The Company also believes that these actions are without merit and intends
+to defend them vigorously.
+ 
+     On March 31, 1993, the Company sold its distribution rights for Zig-Zag
+cigarette papers and related products for $39 million in cash and additional
+consideration for the next ten years. The transaction resulted in a pretax gain
+of $35 million, amounting to 10 cents per share.
+<PAGE>   16
+ 
+               REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+ 
+To the Directors and Stockholders UST Inc.
+ 
+     We have audited the accompanying consolidated statement of financial
+position of UST Inc. as of December 31, 1994 and 1993, and the related
+consolidated statements of earnings, changes in stockholders' equity, and cash
+flows for each of the three years in the period ended December 31, 1994. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+ 
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of UST Inc. at
+December 31, 1994 and 1993, and the consolidated results of its operations and
+its cash flows for each of the three years in the period ended December 31, 1994
+in conformity with generally accepted accounting principles.
+ 
+     As discussed in the notes to the financial statements, in 1993 the Company
+changed its methods of accounting for Income Taxes and Postretirement Benefits
+Other Than Pensions.
+ 
+                                          ERNST & YOUNG LLP
+ 
+Stamford, Connecticut
+February 1, 1995
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>8
+<DESCRIPTION>SUBSIDIARIES OF UST
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 21.1
+ 
+PARENT AND SUBSIDIARIES
+ 
+     UST is an independent corporation without parent. It had the following
+significant subsidiaries as of December 31, 1994:
+ 
+<TABLE>
+<CAPTION>
+                                                                                    PERCENTAGE
+                                                                                        OF
+                                                                                   OWNERSHIP BY
+                                                                                    UST OR ITS
+                                                                 JURISDICTION OF   WHOLLY OWNED
+                NAME OF SUBSIDIARY OR AFFILIATE                   INCORPORATION    SUBSIDIARIES
+- ---------------------------------------------------------------  ---------------   ------------
+<S>                                                              <C>               <C>
+International Wine & Spirits Ltd. .............................   Delaware              100%
+  Stimson Lane Ltd. >..........................................   Washington            100%
+United States Tobacco Company..................................   Delaware              100%
+  United States Tobacco Manufacturing Company Inc. ............   Delaware              100%
+  United States Tobacco Sales and Marketing Company Inc. ......   Delaware              100%
+UST Enterprises Inc. ..........................................   Delaware              100%
+UST International Inc. ........................................   Delaware              100%
+</TABLE>
+ 
+- ---------------
+ 
+Certain subsidiaries have been omitted since, if considered in the aggregate as
+a single subsidiary, they would not constitute a significant subsidiary.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>9
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>   1
+ 
+                                                                    EXHIBIT 23.1
+ 
+                        CONSENT OF INDEPENDENT AUDITORS
+ 
+     We consent to the incorporation by reference in this Annual Report (Form
+10-K) of UST Inc. of our report dated February 1, 1995, included in the 1994
+Annual Report to stockholders of UST Inc.
+ 
+     We also consent to the incorporation by reference in Post-Effective
+Amendment No. 4 to the Registration Statement (Form S-8 No. 2-72410) pertaining
+to the UST Inc. Employees' Savings Plan, the Registration Statement (Form S-8
+No. 33-28137) pertaining to the 1982 Stock Option Plan, and the Registration
+Statement (Form S-8 No. 33-48828) pertaining to the 1992 Stock Option Plan, of
+our report dated February 1, 1995, with respect to the consolidated financial
+statements of UST Inc. incorporated by reference in this Annual Report (Form
+10-K) for the year ended December 31, 1994.
+ 
+                                          ERNST & YOUNG LLP
+Stamford, Connecticut
+March 3, 1995
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>10
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from Registrant's
+condensed consolidated statement of financial position and condensed
+consolidated statement of earnings and is qualified in its entirety by reference
+to such financial statements. (In thousands except per share amounts).
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1994
+<PERIOD-END>                               DEC-31-1994
+<CASH>                                          50,718
+<SECURITIES>                                         0
+<RECEIVABLES>                                   65,883
+<ALLOWANCES>                                         0
+<INVENTORY>                                    237,720
+<CURRENT-ASSETS>                               381,937
+<PP&E>                                         489,291
+<DEPRECIATION>                                 183,406
+<TOTAL-ASSETS>                                 741,236
+<CURRENT-LIABILITIES>                          160,755
+<BONDS>                                        125,000
+<COMMON>                                       100,172
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     261,497
+<TOTAL-LIABILITY-AND-EQUITY>                   741,236
+<SALES>                                      1,223,016
+<TOTAL-REVENUES>                             1,223,016
+<CGS>                                          251,944
+<TOTAL-COSTS>                                  251,944
+<OTHER-EXPENSES>                               330,344
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  92
+<INCOME-PRETAX>                                640,636
+<INCOME-TAX>                                   253,110
+<INCOME-CONTINUING>                            387,526
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   387,526
+<EPS-PRIMARY>                                     1.87
+<EPS-DILUTED>                                     1.87
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

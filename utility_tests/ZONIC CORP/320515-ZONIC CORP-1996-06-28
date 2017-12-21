@@ -1,0 +1,3102 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GwgaIVMNg7pDdSIAipFxFEFNHwjJsbqg7UPB/HByDfUjPUmuUNqzKmU4RPbQm/pS
+ /M86FFMggZ0ZBRyasvBqMA==
+
+<SEC-DOCUMENT>0000320515-96-000005.txt : 19960701
+<SEC-HEADER>0000320515-96-000005.hdr.sgml : 19960701
+ACCESSION NUMBER:		0000320515-96-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19960331
+FILED AS OF DATE:		19960628
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZONIC CORP
+		CENTRAL INDEX KEY:			0000320515
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				310791199
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12283
+		FILM NUMBER:		96588356
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25 WHITNEY DRIVE
+		STREET 2:		50 WEST TECHNECENTER DR
+		CITY:			MILFORD
+		STATE:			OH
+		ZIP:			45150
+		BUSINESS PHONE:		5132481911
+
+	MAIL ADDRESS:	
+		STREET 1:		PARK 50 TECHNECENTER
+		STREET 2:		50 W TECHNECENTER DR
+		CITY:			MILFORD
+		STATE:			OH
+		ZIP:			45150-9777
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION                      
+                            Washington, D. C. 20549                            
+
+                                   FORM 10-K                                   
+
+                Annual Report Pursuant to Section 13 or 15(d) of               
+                      the Securities Exchange Act of 1934                      
+
+For the fiscal year ended March 31, 1996. 
+Commission file number 0-12283.
+
+                               ZONIC CORPORATION                               
+
+(Exact name of registrant as specified in its charter)
+
+           Ohio                                     31-0791199    
+_______________________________           ________________________
+(State or other jurisdiction of           (I.R.S. Employer
+incorporation or organization)             Identification No.)
+
+Park 50 TechneCenter, 50 W. TechneCenter Drive, Milford, Ohio  45150-9777 
+______________________________________________________________________________
+
+(Address of principal executive offices)                        (Zip Code)
+
+Registrant's telephone number, including area code  (513) 248-1911
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                        Common Shares, Without Par Value                       
+______________________________________________________________________________
+                                 Title of Class
+
+     Indicate by check mark whether the registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 
+1934 during the preceding 12 months (or for such shorter period that the 
+registrant was required to file such reports), and (2) has been subject to 
+such filing requirements for the past 90 days.   Yes __X__       No       
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of registrant's knowledge, in definitive proxy or information statements 
+incorporated by reference in Part III of this Form 10-K or any amendment to 
+this Form 10-K.  [ ]
+
+The aggregate market value of the voting stock held by non-affiliates of the 
+registrant as of March 31, 1996 was $468,296.
+
+The number of shares outstanding of the registrant's Common Shares as of March 
+31, 1996 was 3,044,136.
+
+                        DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Registrant's Proxy Statement for the August, 1996 Annual 
+Meeting of Shareholders are incorporated by reference in Part III.
+
+                                 page 1
+<PAGE>
+                                 PART I
+
+Item 1.  Business.
+
+General
+
+     Zonic Corporation designs, manufactures and markets fully integrated 
+standard systems used to analyze and predict noise and vibration 
+characteristics of mechanical structures.  The Company utilizes a number of 
+technologies in its systems, including digital signal processing, high speed 
+multichannel data acquisition and processing, structural modal analysis, noise 
+analysis, and computerized machinery monitoring. 
+
+     The Company's systems are used world-wide in engineering testing and 
+machinery condition monitoring.  The Company's testing systems are designed to 
+enable engineers engaged in the product design process to shorten development 
+time and improve product quality by evaluating and redesigning products 
+without the cost and delay associated with constructing physical prototypes.  
+The Company's monitoring systems allow operators of turbines, compressors and 
+other large rotating machinery to monitor wear, schedule maintenance before 
+failures occur and optimize operating performance.  The Company's systems have 
+also been used in the  field of non-destructive production testing.  These 
+systems are designed to provide a cost effective method to improve product 
+quality by allowing for one hundred percent inspection of component parts.
+
+Industry-Applications and Technology
+
+     Engineering Testing.  Increasing global competition in the industries 
+served by the Company has made the development and introduction of new 
+products on a timely, cost effective basis vital to a manufacturer's success.  
+As a result, product design engineers are constantly challenged to shorten 
+product design cycles and improve product quality.  Computer Aided Engineering 
+(CAE) systems are vital tools in helping engineers achieve these goals.
+
+     Lack of noise and vibration are key measures of product quality.  
+Traditional methods of assessing noise and vibration characteristics of a 
+product involve the costly and time consuming process of building, testing and 
+revising physical prototypes.  In contrast, CAE systems allow new products to 
+be evaluated and redesigned through the use of computer software.  Once an 
+acceptable design has been developed, an actual prototype can be tested to 
+confirm the computerized analysis.  This change can significantly reduce the 
+amount of time required to design new products.
+
+     Machinery Monitoring Systems (MMS).  Turbines, compressors and other 
+types of large, rotating machinery designed to operate continuously for many 
+years are used extensively in the petrochemical and power generation 
+industries.  Breakdown of the machinery can be extremely expensive, both in 
+terms of lost production and repair cost.
+
+                                 page 2
+<PAGE>
+
+     Machinery Monitoring Systems utilize high-speed digital signal processing 
+technology and sophisticated monitoring software to continuously monitor 
+vibration, temperature, pressure and flows in this type of machinery.  Current 
+operating characteristics can be compared to a "baseline" obtained when the 
+machine was new.  This comparison can be used to monitor wear in bearings, 
+blades, and other parts, and to predict failures.  The analysis can be 
+conducted automatically without the presence of a skilled engineer at the 
+equipment site.  Predictions can be used to schedule maintenance before 
+catastrophic breakdowns occur.
+
+     Monitoring large, rotating machinery requires rapid collection, 
+management, and analysis of vast amounts of data.  Once this data is 
+available, it can be used to monitor the performance and efficiency of the 
+machinery.  Machinery Monitoring Systems can be developed to adjust operating 
+parameters of the equipment to maximize output and minimize fuel cost.
+
+     Non-Destructive Testing (NDT).  Demands for high quality products are 
+forcing manufacturers to find ways to eliminate defects in parts used in the 
+assembly of their products.  Interest is growing in using 100 percent parts 
+inspection as a method of  accomplishing this goal.  Although a variety of 
+techniques are available to inspect parts, vibration analysis systems offer 
+several important benefits.  Vibration analysis systems are designed to be 
+inexpensive, efficient, and allow detection of cracks and internal flaws in a 
+part that cannot be detected by physical inspection.
+
+     When a vibration analysis system is used for non-destructive production 
+testing, the vibrational characteristics of an approved part are measured and 
+used as a baseline.  As each part is produced, it is tested and compared to 
+this baseline.  Parts that do not match can be rejected or more thoroughly 
+inspected.
+
+     The Company believes that its expertise in acquisition and analysis of 
+vibration data position it well to take advantage of these opportunities in 
+the non-destructive testing field.  For example, the Company's systems have 
+been used by automotive parts suppliers to conduct non-destructive testing of 
+steering knuckles, drive shaft yokes and other automobile components.
+
+Relationships
+
+     In 1988, the Company established a relationship with A&D Company Ltd. 
+(A&D), a Japanese instrument manufacturer.  As part of this relationship, 
+A&D  acquired a 28% ownership interest in the Company; and the Company and A&D 
+engaged in joint product development and marketing efforts.  The Company 
+benefited from this relationship, as funding and hardware manufacturing 
+expertise supplied by A&D coupled with the Company's expertise in the design 
+of hardware and software used in noise and vibration analysis systems enabled 
+the Company to expand its product development and marketing efforts, which 
+included the World Class Analyzer product line ("WCA Product"), previously 
+owned 60% by A&D and 40% by the Company.  
+
+                                 page 3
+<PAGE>
+
+     In December 1992, the Company entered into a Credit Agreement (the 
+"Credit Agreement") with A&D, whereby the Company had borrowed up to an 
+aggregate of $2,480,000 in loans from A&D.  As consideration for the making of 
+loans and issuance of guaranties under the Credit Agreement by A&D, the 
+Company granted A&D a stock option for 1,000,000 shares of the Company's 
+common stock (the "Common Stock") and executed a Control Agreement (the 
+"Control Agreement") whereby the Company granted A&D the right to purchase a 
+sufficient number of shares of the Common Stock to give A&D a majority of all 
+the then issued and outstanding shares of Common Stock in the event the 
+Company violates the Credit Agreement.
+
+     In June 1995, the Company sold its 40% interest in the WCA Product to 
+A&D, the owner of the remaining 60% ownership interest in the WCA Product, 
+pursuant to a WCA Rights Sale Agreement.  The Company's ownership interest in 
+the WCA Product sold to A&D included intellectual property, know-how, 
+drawings, source and machine executable software, manufacturing drawings, 
+manufacturing fixtures, manufacturing procedures, and marketing and 
+distribution rights.
+
+     The Company sold its 40% interest in the WCA Product for total 
+consideration of $2,397,275.  $2,000,000 represents the purchase price and was 
+used to repay a portion of existing indebtedness to A&D under the Credit 
+Agreement.  The remaining $397,275 constituted accrued but unpaid interest on 
+loans made by A&D to the Company which was forgiven by A&D.  The purchase 
+price was determined through arms-length negotiation and was based upon the 
+following factors: (1) an analysis of estimated WCA Product sales over a five-
+year period; (2) a calculation of the Company's 40% interest in the estimated 
+WCA Product sales; (3) future interest expense reduction resulting from the 
+interest forgiveness and reduced debt outstanding; and (4) the amount of the 
+debt reduction. 
+
+     In conjunction with the sale of the Company's interest in the WCA 
+Product, the credit limit under the Credit Agreement was reduced from 
+$6,000,000 to $4,000,000.  Borrowing by the Company under the Credit Agreement 
+currently consists of $3,500,000 in bank loans guaranteed by A&D and $680,000 
+in loans made by A&D.  A&D has waived this indebtedness in excess of the 
+credit limit as a violation of the Credit Agreement.  The Company has no 
+further ability to borrow under the Credit Agreement.  In addition, the 
+Control Agreement was terminated, such that A&D no longer has the right to 
+purchase a controlling interest in the Company.  (See Note D of Notes to 
+Financial Statements.)
+
+     The Company and A&D also entered into an Amendment to the Distribution 
+Agreement (the "Amendment") which added the WCA Product to the existing 
+Product Distribution Agreement, dated October 7, 1988, between the Company and 
+A&D.  Pursuant to the Amendment the Company and A&D agreed to customize 
+certain operational features of the WCA Product software and provide the 
+Company with technical information and advice.  A&D also granted the Company 
+the right to configure, assemble, test and support WCA systems for sale to end 
+users or agents, as well as an unlimited license to manufacture all printed 
+circuit boards, assemblies and other items which are specific to the 
+construction of WCA Portable systems.
+
+                                 page 4
+<PAGE>
+
+     In April 1991, the Company entered into a marketing agreement with 
+Structural Dynamics Research Corporation ("SDRC"), a leading supplier of 
+computer aided engineering software, to market three software products 
+developed by SDRC for engineering testing applications.  The use of these 
+software products with the Company's Workstation 7000 multichannel signal 
+processors enhances the capabilities of these systems in engineering testing 
+applications.
+
+In February 1996, the Company entered into an OEM Distribution and 
+Confidentiality Agreement (the "Spectral Agreement") with Spectral Dynamics, 
+Inc. ("Spectral").  Pursuant to the Spectral Agreement, Spectral markets and 
+distributes certain of the Company's manufactured equipment on a non-exclusive 
+basis.  The Company and Spectral also agreed in the Spectral Agreement to join 
+forces to identify and develop new products.
+
+Products
+
+     Noise and vibration systems require both hardware and analysis software.  
+Unlike many of its competitors, the Company designs and manufactures fully-
+integrated standard systems that can be used without additional equipment.
+
+     The capability of a noise and vibration analysis system is typically 
+ranked by the number of channels of data that can be collected simultaneously.  
+A channel generally corresponds to data measured at a single point on a 
+structure.  The Company offers a full range of systems from single channel 
+systems to those that can acquire over 1,000 channels of data simultaneously.
+
+     Engineering Testing Products.  The Company offers a broad range of 
+products for use in Engineering Testing applications.  These products include:
+
+          - Zonic A&D 3527 Portable Analyzer - The 3527 Analyzer is an 
+economical, hand held single channel unit used for limited data collection in 
+a production plant environment.  The 3527 Analyzer sells for approximately 
+$4,000.
+
+          - Zonic A&D 3524/25 Analyzer - These two channel analyzers offer a 
+broad range of pre-programmed analysis functions and are particularly useful 
+for spectrum and noise analysis.  This product has a price range of 
+approximately $15,000 to $25,000.
+
+          - Zonic A&D Series 4000 WCA (World Class Analyzer) - The WCA 
+Product can be configured to acquire 2 to 32 channels of data, has a broad 
+range of analysis capabilities, and a full color graphical user interface.  It 
+is integrated with an Apple Macintosh computer which enables it to provide a 
+wide range of display and output options.  A WCA Portable model makes it 
+possible to acquire and analyze data at field locations.  The WCA Product 
+ranges in price from approximately $25,000 to $100,000.  See "Business - 
+Research and Development and Software Construction" for a description of 
+research and development costs; "Business - Relationships."
+
+                                 page 5
+<PAGE>
+
+          - Zonic Medallion Series Mobile FFT Analyzer - This analyzer is a 
+portable, instrument grade, multichannel FFT Analyzer offering an open 
+software environment under Microsoft's Windows 95 and NT operating 
+systems.  It provides simultaneous FFT analysis on eight input channels and 
+one output channel.  This product has a price range of approximately $13,000 
+to $20,000.
+
+          - Zonic Workstation 7000 - The Workstation 7000 products generally 
+fall into two size categories, smaller systems which can accommodate 8 to 96 
+channels of data, and larger systems which can be configured to acquire over 
+1000 channels of data.  These products utilize the Company's proprietary 
+parallel digital signal processing technology which is designed to give it the 
+capability to efficiently acquire, analyze, and manage large quantities of 
+data.  The modular design allows the systems to be configured to the customers 
+needs.
+
+     The larger 7000 systems' large capacity for data analysis makes it 
+particularly useful in testing large structures.  For example, the system is 
+used by the National Aeronautics and Space Administration ("NASA") to test the 
+space shuttle orbiter and other space vehicles for structural integrity.  
+These systems sell from $100,000 to more than $2,000,000.
+
+     The smaller 7000 system is used in the automotive and other machinery 
+industries to analyze the properties of moderate-sized structures.  These 
+systems range in price from approximately $50,000 to $150,000.
+
+     The 7000 is also designed to interface with CAE (Computer Aided 
+Engineering) software developed by SDRC.  The SDRC software performs a variety 
+of engineering functions including testing.  The 7000 can be used to acquire 
+the vibration and acoustical data required by the testing programs in the SDRC 
+software.  The Company has a marketing and distribution agreement with SDRC.  
+See "Business - Relationships."
+
+          - Zonic PC7000 Multichannel Analyzer and Software Suite - The PC7000 
+allows the Workstation 7000 to be operated from a PC using the Windows NT 
+operating system and provides the tools to measure, analyze and document noise 
+and vibration problems.  This product has a price range of approximately 
+$25,000 to $150,000.
+
+          - Zonic XCITE Hydraulic Exciters - The exciter is a key part of 
+the process for testing the vibrational characteristics of a structure.  The 
+exciter applies known, controlled forces to the structure in order to induce 
+vibration, which in turn can be measured and analyzed by one of the systems 
+described above.  A variety of XCITE products are offered to provide all types 
+of excitation, with a price range of approximately $35,000 to $100,000.  
+
+          - Machinery Monitoring Systems - The Company designs, assembles, and 
+markets systems for machinery monitoring.  These products are targeted toward 
+large petrochemical processing and electric power generation plants.  Such 
+plants have large rotating compressors and generators that may run 
+continuously for several years.  Often this equipment is unattended and is 
+checked infrequently by maintenance personnel.  
+
+                                 page 6
+<PAGE>
+
+     The Company's Machinery Monitoring Systems measure vibrational 
+characteristics and operating parameters (pressures, temperatures, speeds, 
+etc.) at predetermined intervals.  The systems record, store, organize and 
+analyze massive amounts of data.  The systems also perform analytical 
+functions to assist maintenance personnel in monitoring the equipment.
+
+The Company's Machinery Monitoring Systems compare current vibrational 
+characteristics with a baseline determined when the equipment was new.  Based 
+on this comparison, the systems are designed to monitor wear and predict 
+possible failure before it occurs.  They can also be programmed to broadcast 
+alarms or even shut down the machine if certain parameters exceed 
+predetermined levels.  Machinery Monitoring Systems also can be programmed to 
+use the operating data they collect to calculate adjustments to operating 
+parameters that will maximize efficiency and minimize fuel usage.  
+
+     Because each large petrochemical and power generation plant is unique, 
+each Machinery Monitoring System is tailored to measure the operational 
+characteristics of specific machines and to meet the needs of each customer.  
+Machinery Monitoring Systems prices range from several hundred thousand to 
+over $2,000,000 depending on the requirements of the installation.
+
+         - Non-Destructive Production Testing Products - Applications of the 
+Company's systems for Non-Destructive Production Testing ("NDT") are numerous.  
+This is a growing market as manufacturers look for ways to improve product 
+quality.  One way to improve quality is to eliminate defects in component 
+parts and assemblies.  The Company's systems can be used for efficient, cost 
+effective 100% inspection.  The price of the Company's Non-Destructive Testing 
+systems range from approximately $20,000 to $25,000 per production line.
+
+Marketing and Distribution
+
+     The Company markets its Engineering Testing and Non-Destructive Testing 
+systems primarily to original equipment manufacturers and suppliers in the 
+aerospace and transportation industries, while its Machinery Monitoring 
+Systems are marketed primarily to petrochemical manufacturing facilities and 
+power generation plants.
+
+     The Company sells its products world-wide.  Export sales accounted for 
+56%, 40% and 45% of the Company's net revenue during the fiscal years ended 
+March 31, 1996, 1995 and 1994, respectively.  See Note G of Notes to Financial 
+Statements.
+
+     As part of their relationship, the Company and A&D have jointly 
+established a marketing network to sell both companies' products in various 
+parts of the world.  Zonic A&D Company, a general partnership between the 
+Company and a subsidiary of A&D was established in 1988 and markets both 
+companies' products in the Western Hemisphere.  A&D sells both companies' 
+products in the Japanese market.  The Company sells its own products in the 
+remainder of the world.  The Company also has an agreement with Spectral 
+whereby Spectral markets and distributes certain of the Company's manufactured 
+equipment on a non-exclusive basis.  See "Business - Relationships."
+
+                                 page 7
+<PAGE>
+
+     Except as described herein, the Company's products are sold directly 
+through independent manufacturers' representatives and agents.  Zonic A&D 
+Company employs regional sales managers who handle direct sales and supervise 
+the activities of the Company's manufacturers' representatives and agents. 
+
+Major Customers
+
+     During the fiscal year ended March 31, 1996, one customer accounted for 
+10% or more of the Company's total revenues totaling $396,000 or 11% of total 
+revenues.  (See Note H of Notes to Financial Statements.)  
+
+Manufacturing and Supplies
+
+     In manufacturing its systems, the Company utilizes custom designed 
+electronic components, custom machined parts and, to the extent feasible, 
+commercially available devices such as integrated circuits, power supplies, 
+servo-valves and CRT monitors.  The Company also purchases engineering work 
+stations and personal computers which are used in the assembly of its 
+products.
+
+     The Company purchases several component parts from single source 
+suppliers.  If these single source suppliers are unable to supply the Company 
+with needed parts, or to supply them on schedule, material production delays 
+could occur.  
+
+Service, Maintenance and Warranty
+
+     The Company provides a one year limited warranty for all hardware 
+products, and a ninety day limited warranty for software products.  The 
+Company will repair, or at its option replace, defective products returned to 
+its Milford, Ohio, location.  The customer must pay shipping expenses.  As an 
+alternative, service technicians employed by the Company will provide repair 
+service at the customer's location if the customer pays travel expenses.  
+Service for products sold overseas is generally provided by the distribution 
+company that sells the Company's product in that country.  See "Business - 
+Marketing and Distribution."  The Company's warranty expense was 3.1%, 3.0% 
+and 2.8% of revenue for fiscal 1996, 1995 and 1994, respectively.
+
+     The Company also sells extended warranty service contracts.  These 
+contracts are for one year and extend the original warranty provisions.  
+Owners of extended warranty service contracts are also entitled to receive, 
+without additional cost, all software upgrades issued during the year for that 
+product.
+
+                                 page 8
+<PAGE>
+Research and Development and Software Construction
+
+     Research and product development and software construction is an 
+important factor in the Company's business.  The Company maintains an internal 
+staff of 8 full-time employees for the development of new products and 
+software, as well as the improvement and refinement of its present products 
+and the expansion of their uses and applications.  There can be no assurance 
+the Company will be successful in developing new products or software or 
+improving existing products or software.  Moreover, there can be no assurance 
+that the introduction of new products or technological developments by others 
+will not materially adversely affect the Company's operations.  The Company 
+has significantly reduced its research and product development and software 
+construction during the last three fiscal years.
+
+     Software construction and product enhancement costs totaling $252,000, 
+$276,000 and $738,000 were capitalized during fiscal years 1996, 1995 and 
+1994, respectively.  Software construction and product enhancement 
+amortization expenses for fiscal years 1996, 1995 and 1994 were $722,000, 
+$853,000 and $1,231,000, respectively.  The Company expensed $12,000, $35,000 
+and $406,000 for research and product development for fiscal years 1996, 1995 
+and 1994, respectively.  In addition, the Company wrote off $79,000 and 
+$2,759,000 of previously capitalized costs in the fiscal years ended March 31, 
+1996 and 1994, respectively.  See Note A of Notes to Financial Statements.
+
+Patents
+
+     The Company's primary focus in the area of research and development is 
+the development of data acquisition, digital signal process electronics, and 
+related software.  The Company holds three patents.  In the opinion of 
+management, the Company's present position and its future progress are a 
+function of the level of excellence and creativity of its technical staff; 
+patent protection is useful, but of secondary importance.
+
+Competition
+
+     The Company markets a full range of standard products for use in 
+analyzing noise and vibration from single channel systems to systems that 
+process over 1,000 channels of data.  There are different competitors in each 
+market segment.  See "Business - Products."
+
+     Many of the Company's competitors offer only hardware or software 
+components of a noise and vibration analysis system.  Thus, a customer 
+purchasing products from those competitors must integrate components in order 
+to have the complete system necessary to conduct noise and vibration analysis.  
+The Company provides its customers with fully integrated systems that include 
+both the hardware and software necessary for the customer to conduct noise and 
+vibration analysis.   
+
+     Competition in the market for noise and vibration analysis systems is 
+generally based on product features.  Customers select a particular system 
+based on how well they perceive it will meet their particular needs.  Price is 
+generally a secondary consideration, although the system selected must fit 
+within the customer's equipment budget.  The Company has designed its products 
+with a wide range of capabilities so that those products will meet a variety 
+of customer needs.
+
+                                 page 9
+<PAGE>
+     Competitors in the market for one and two channel analyzers include 
+Hewlett-Packard Corporation, Ono Sokki (a Japanese company), Scientific 
+Atlanta Corporation, and Bruel & Kjaer (a Danish company).
+
+     Competitors in the market for the company's mid-range (WCA Product) and 
+large (System 7000) analyzers until recently offered either hardware or 
+software solutions.  Competitors selling only hardware include Hewlett-Packard 
+Corporation and Bruel & Kjaer (a Danish company).  Suppliers of only software 
+solutions are Spectral Dynamics Corporation, Vibrant Technology Inc., Leuven 
+Measurement Systems NA (a Belgium company), and Structural Dynamics Research 
+Corporation.  A combination of hardware from one competitor and software from 
+another is required to compete with one of Zonic's integrated systems.  
+Recently, Leuven Measurement Systems NA, and Data Physics Corporation, have 
+begun to offer turnkey solutions including hardware, software, and system 
+integration.
+
+     Competitors in the market for large Machinery Monitoring Systems include 
+SKF Corporation and Bentley Nevada Corporation.  Competitors in this market 
+may also include custom systems developers who develop specialized one-of-a-
+kind systems.
+
+     Several of the Company's and Zonic A&D Company's competitors, including 
+the above, have financial, technical, research, distribution and personnel 
+resources that exceed those of the Company and Zonic A&D Company.  There can 
+be no assurance that the Company and Zonic A&D Company can continue to 
+effectively compete against such companies, or that other competitors will not 
+emerge.  Competition is intense in all product lines and, in many cases, 
+requires significant discounts from list prices being passed on to customers.
+
+Product Backlog
+
+     The Company's product and services backlog of orders believed to be firm 
+as of March 31, 1996 and March 31, 1995 were $1,470,000 and $1,574,000, 
+respectively.  The backlog for both years includes orders placed by A&D and 
+Zonic A&D Company.
+
+     Generally, orders can be processed and shipped on products not requiring 
+modifications in 15 to 45 days if requested by the customer.  Certain orders 
+are processed and shipped on a longer cycle due to customer delivery requests 
+or because of modifications ordered by a customer.  Orders are subject to 
+cancellation upon certain conditions.
+
+Employees
+
+     As of March 31, 1996, the Company had 26 employees, exclusive of those 
+employed by Zonic A&D Company.  Many of the Company's employees are highly 
+skilled.  The Company's continued success will depend in part on its ability 
+to attract and retain such employees.  None of the Company's employees are 
+represented by a labor organization.  The Company believes its relations with 
+its employees are good.
+
+                                 page 10
+<PAGE>
+Item 2.  Properties.
+
+     The Company's executive offices and manufacturing facilities, and the 
+executive offices and sales facilities of Zonic A&D Company, are located at 
+Park 50 TechneCenter, 50 West TechneCenter Drive, Milford, Ohio.  The leased 
+premises consists of approximately 16,500 square feet of which about 8,000 
+square feet is office space.  The lease also provides the Company with the 
+option to lease additional contiguous space during the term of the lease.  The 
+Company anticipates that this facility will accommodate the Company's needs 
+for the near future.  The lease for the premises expires December 31, 2000.  
+In September 1993, the Landlord of the leased premises was granted warrants to 
+purchase up to 100,000 shares of the Company's Common Shares at $2.00 per 
+share in consideration of the Landlord waiving payment of all unpaid rent, 
+late charges, interest and penalty amounts due and owing from the Company as 
+of March 31, 1993 which amounted to $250,000.  The warrants expire on March 
+31, 2000.
+
+     Zonic A&D Company occupies approximately 1,000 square feet of these 
+premises.  The Company is providing the space to Zonic A&D Company on a rent-
+free basis pursuant to the Company's agreement with A&D Co. of Japan.
+
+Item 3. Legal Proceedings.
+
+     The Company and its subsidiaries occasionally are involved in ordinary 
+routine litigation incidental to their business.  Neither the Company nor its 
+subsidiaries are involved in any material pending litigation not covered by 
+insurance. 
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+     Not Applicable.
+
+                                     PART II
+
+Item 5.  Market For Registrant's Common Equity
+         and Related Stockholder Matters.
+
+     (a)  The Company's Common Shares were traded in the automated quotation 
+system of the National Association of Securities Dealers, Inc. (NASDAQ) under 
+the symbol "ZNIC".  Effective June 18, 1993, the Company's stock price was no 
+longer reported by NASDAQ due to the Company's inability to maintain the 
+minimum capital and surplus required by the NASDAQ listing requirements.  
+
+     The Company's Common Shares are currently listed over-the-counter on the 
+"OTC Bulletin Board" through the National Daily Quotation Bureau, Inc.; 
+therefore, there is only limited trading in the Company's Common Shares.  
+Quarterly trading information is not available.  
+
+     (b)  As of March 31, 1996, there were approximately 622 holders of record 
+of the Company's Common Shares, without par value, the Company's only class of 
+common equity.  On March 31, 1996, there were 3,044,136 Common Shares of the 
+Company outstanding.
+
+     (c)  The Company did not pay any dividends during the fiscal years ended 
+March 31, 1996 and March 31, 1995.
+
+                                 page 11
+<PAGE>
+
+Item 6.  Selected Financial Data.
+
+     The following financial data is provided for the Company and its 
+subsidiaries for the five preceding fiscal years.
+
+                          1996        1995        1994        1993        1992
+                          ____        ____        ____        ____        ____
+
+Net revenues        $3,639,982  $4,860,036  $4,629,665  $7,091,400 $10,302,496
+
+Profit (Loss)
+before extra-
+ordinary item           (9,969) (1,366,481) (6,135,649) (2,871,008)     93,242
+
+Profit (Loss)          387,306     447,648  (6,135,649) (2,871,008)    469,645
+
+Primary Earnings 
+Net Profit (Loss)
+Per Share               $.13        $.14      $(1.99)      $(.94)       $.15
+
+Fully Diluted           
+Earnings (Loss)         
+Per Share:              
+
+  Net profit (loss)
+  before extra-    
+  ordinary item              0       $(.44)     $(1.99)      $(.94)       $.03
+                        
+  Extraordinary
+  item - benefit of                          
+  utilization of  
+  loss carryforward       $.13        $.58         -0-         -0-        $.12
+                        
+  Net profit (loss)       $.13        $.14      $(1.99)      $(.94)       $.15
+                        
+Total Assets        $3,242,766  $4,387,721  $5,628,446 $10,924,800 $11,624,928
+
+Long-term  
+obligations             
+(including              
+long-term               
+debt and                
+capital                 
+leases less
+current
+maturities)         $4,070,000  $6,018,761  $7,587,311  $7,689,571  $5,711,963
+
+Cash dividends
+declared per 
+common share               -0-         -0-         -0-         -0-         -0-
+
+Item 7.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operation.
+
+     The following Management's Discussion and Analysis should be read in 
+conjunction with the financial statements and notes thereto which follow.
+
+                                 page 12
+<PAGE>
+
+Results of Operations
+1996 versus 1995
+
+Revenues
+
+     Total revenues decreased $1,220,000 or 25% in 1996 from the prior year.  
+Sales decreased in all product lines with the most significant declines in the 
+Company's structural excitation and Machinery Monitoring System product lines 
+as the Company experienced delays in receiving orders.  Sales in both periods 
+were geographically diverse and not dependent on any one customer nor specific 
+region of the world.  (See Notes G and H of Notes to the Financial 
+Statements.)  Price increases did not have a significant impact on sales.  As 
+a percentage of total revenues, sales to domestic customers decreased in 1996 
+to 44% compared to 60% in 1995 and 55% in 1994.  A foreign government was the 
+Company's largest customer which accounted for 11% of total sales in 1996, 
+while the U.S. government accounted for 13% of total sales in 1995.
+
+Cost of Products and Services Sold
+
+     Cost of Products and Services sold as a percentage of revenues increased 
+to 52% in 1996 versus 49% in the prior year, mainly due to lower profit 
+margins on two Workstation 7000 sales recorded earlier this fiscal year, and 
+higher material costs related to WCA sales.
+
+Selling and Administrative Expenses
+
+     Selling and administrative expenses decreased by $471,000 in 1996 from 
+the prior year due primarily to lower commissions to sales representatives and 
+the reduction of facility related costs.  However, as a percentage of total 
+revenue, these expenses increased slightly to 45% in 1996 compared to 43% in 
+1995 as the result of revenues being significantly lower in 1996 versus 1995.
+
+Research and Development and Software Construction and Product Enhancement 
+Amortization
+
+     Research and development and software construction and product 
+enhancement amortization decreased from 888,000 in 1995 to 734,000 in 1996.  
+This decrease is primarily attributable to the sale of the Company's interest 
+in the WCA product in June of this year.  Research and development expenses 
+decreased to $12,000 in 1996 versus $35,000 in 1995.  The Company capitalized 
+certain costs related to significant improvements in its products which are 
+incurred after technological feasibility of the product is established.  Such 
+costs are amortized over the estimated useful life of the improvements.  (See 
+Liquidity and Capital Resources which follows and Note A-3 of Notes to the 
+Financial Statements.)
+
+Costs Related to Management Change and Product Discontinuance
+
+     In December, 1995, the President and Chief Executive officer of the 
+Company resigned.  The Company has accrued certain costs related to the 
+resignation.  Also, the Company recorded an expense for the write-off of a 
+development project that will not be completed. Costs related to both of these 
+events totaled $455,682 (See Liquidity and Capital Resources which follows and 
+Note B of Notes to the Financial Statements.)
+
+                                 page 13
+<PAGE>
+Gain on the Sale of Asset
+
+     In June, 1995, the Company sold its 40% ownership of the WCA Product to 
+A&D Company Ltd.  The gain on the sale of this asset was $1,417,027 and is net 
+of the unamortized portion of Capitalized Development for the WCA product. 
+(See Liquidity and Capital Resources which follows and Note C of Notes to the 
+Financial Statements.)
+
+Interest Expense
+
+     Interest expense decreased to $486,000 in 1996 from $750,000 in 1995 due 
+to reduced borrowing levels as the result of the Company restructuring its 
+bank loans during the fourth quarter of last year and the use of proceeds from 
+the sale of its WCA Product to repay debt in June of this year.  The effect of 
+this decrease in borrowings was partially offset by interest costs related to 
+the sale of trade accounts receivable and higher interest rates earlier this 
+year.  Interest capitalized which related to software construction and product 
+enhancements amount to $5,000 and $20,000 in 1996 and 1995, respectively.
+
+Foreign Currency Losses
+
+     Foreign currency gains amounted to $131,000 in 1996 compared with a loss 
+of $108,500 in 1995.  These gains were due to the increase in value of the 
+U.S. dollar against the Japanese yen.
+
+Extraordinary Item-Gain on Debt Restructuring
+
+     In conjunction with the sale of its WCA Product in June, 1995, accrued 
+interest totaling $397,275, was forgiven.  This amount represents interest due 
+on loans made by A&D Company Ltd. to the Company under the Credit Agreement 
+between the Company and A&D Company Ltd. dated December 7, 1992.  There is no 
+net tax effect of the gain.  (See Liquidity and Capital Resources which follow 
+and Note C of Notes to the Financial Statements.)
+
+Results of Operations
+1995 versus 1994
+
+Revenues
+
+     Total revenues increased $230,000 or 5% in 1995 from the prior year with 
+revenues from products and services increasing 13% in the comparative periods.  
+Sales in both periods were geographically diverse and not dependent on any one 
+customer nor specific region of the world.  (See Notes G and H of Notes to 
+Financial Statements.)  Price increases did not have a significant impact on 
+sales.  As a percentage of total revenues, sales to domestic customers 
+increased in 1995 to 60% compared to 55% in 1994.  The US Government was the 
+Company's largest customer in both 1995 and 1994 accounting for 13% and 19% of 
+total sales respectively.  Significant increases in revenues form the 
+Company's Workstation 7000 multichannel analyzer and structural excitation 
+products were partially offset by a decline in WCA Product revenue in 1995 
+when compared to 1994.
+
+                                 page 14
+<PAGE>
+
+     No development contracts or other revenue were recorded in 1994 as 
+compared to $338,000 recorded in 1994 because the contracts with A&D Company 
+Ltd. generating such revenue were completed in 1994.
+
+Cost of Products and Services Sold
+
+     Cost of Products and Services sold decreased by $68,500 in 1995 from the 
+prior year despite an increase in revenue primarily due to the product sales 
+mix changes in 1995 from 1994 and improvements in productivity undertaken by 
+the Company.  As a percentage of products and services revenue, these costs 
+decreased to 49% in 1995 versus 57% in 1994.
+
+Selling and Administrative Expenses
+
+     As a percentage of total revenue, selling and administrative expenses 
+decreased to 43% in 1995 compared to 49% in 1994.  Significant reductions in 
+employee benefits and facility related costs were realized from the reduction 
+of employees and relocation of the Company's offices in prior years.
+
+Research and Development and Software Construction and Product Enhancement 
+Amortization.  
+
+     Research and development and software construction and product 
+enhancement amortization decreased from $1,638,000 in 1994 to $888,000 in 
+1995.  This decrease is primarily attributable to the writedown taken in prior 
+periods on the amount of capitalized software and product enhancements 
+previously capitalized.  (See Note A of Notes to Financial Statements.)  
+Research and development expenses decreased to $35,000 in 1995 versus $406,000 
+in 1994.  This decrease relates to a specific project completed in 1994 for 
+which there was no similar expense in 1995.  The Company capitalizes certain 
+costs related to significant improvements in its products which are incurred 
+after technological feasibility of the product is established.  Such costs are 
+amortized over the estimated useful life of the improvements.  (See Liquidity 
+and Capital Resources which follows and Note A of Notes to the Financial 
+Statements.)
+
+Bad Debt Expense -- Affiliate.  
+
+     No costs were incurred for affiliate bad debt in the year ended March 31, 
+1995.  In 1994, the Company had recognized bad debt expense of $481,000 and 
+$200,000 for potential write-offs of accounts receivable due the Company from 
+Zonic A&D Ltd. and Zonic A&D Company, respectively.  In 1995, the Company 
+reduced operations of Zonic A&D Ltd. and traded through direct agents in 
+Europe.  (See Note J of Notes to the Financial Statements.)
+
+Loss from Affiliate.  
+
+     During 1994, the Company recognized a loss of $90,000 for a loan made by 
+A&D Company to Zonic A&D Company which the Company assumed.  Also in 1994, the 
+Company recorded an allowance of $50,000 for costs associated with the 
+possible dissolution of Zonic A&D Ltd.  Those losses are limited to the 
+Company's investment in those affiliates and the Company is not committed to 
+fund any additional losses.
+
+                                 page 15
+<PAGE>
+
+Interest Expense.  
+
+     Interest expense increased to $750,000 in 1995 from $570,000 in 1994 due 
+to increases in interest rates and a reduction in the amount of interest 
+capitalized related to software construction and product enhancements.  
+Interest amounting to $20,000 was capitalized in 1995 as compared to $67,000 
+in 1994.
+
+     Foreign Currency Losses.  
+
+     Foreign currency losses amounted to $108,500 in 1995 compared with 
+$34,000 in 1994.  These losses are due primarily to the decline in value of 
+the dollar against the Japanese yen.
+
+     Extraordinary Item-Gain on Debt Restructuring.  
+
+     In March, 1995, the Company extinguished $2,422,879 of short-term bank 
+debt and interest with a cash payment of $600,000 and issuance of warrants for 
+350,000 common shares.  The resultant gain of $1,814,129 is net of the 
+valuation of the warrants and net of taxes.  (See Note D of Notes to the 
+Financial Statements.)
+
+Liquidity and Capital Resources.
+
+     In June 1995, the Company used proceeds from the sale of its rights in 
+the WCA Product totaling $2,000,000 to repay debt owed to A&D Company.  
+Repayment of the then remaining $480,000 was extended to June 30, 1997.  In 
+addition, the Company has received additional short-term loans of $200,000 
+from A&D as of March 31, 1996 which are repayable upon the collection of 
+certain receivables.  Also, the Company has a $600,000 short-term note payable 
+to a bank which is guaranteed by A&D due on September 15, 1996.  The Company 
+anticipates that the repayment date will be extended through fiscal 1997.
+
+     Working capital decreased to a negative $1,966,000 as of March 31, 1996 
+from a negative $1,457,000 in 1995.  This decline is mainly due to the 
+increase in deferred income resulting from billings pursuant to the terms of a 
+contract in excess of revenues earned.  The decrease in accrued liabilities 
+resulting from the forgiveness of accrued interest during the current year was 
+partially offset by accrued costs incurred related to the change in 
+management.  Total Current Liabilities increased 15% from $3,264,000 at March 
+31, 1995 to $3,742,000 at the end of 1996.
+
+     The Company's operations generated $153,000 of cash in 1996 versus 
+$342,000 in 1995, and short-term borrowings from A&D Company less repayment of 
+debt obligation provided an additional $177,000 in 1996. The Company realized 
+cash proceeds of $606,000 in 1996 from the sale of certain trade receivables.  
+(See Note A-8 of Notes to Financial Statements.)  Investments in software 
+construction and product enhancement activities used cash of $312,000 and 
+$276,000 in 1996 and 1995, respectively. 
+
+                                 page 16
+<PAGE>
+     The Company continues to experience serious cash flow problems as a 
+result of reduced revenues but has been able to reduce certain accrued 
+liabilities by reductions in fixed operating expenses as a result of 
+facilities relocation and other on-going cost reduction efforts by the 
+Company.  The Company is seeking additional sources of working capital either 
+through additional debt or equity financing to reduce its accounts payable, 
+and make payments on its debt obligations.  If additional working capital 
+cannot be obtained, there is substantial doubt about its ability to continue 
+as a going concern.  There can be no assurance that the Company will be able 
+to obtain additional financing on favorable terms, if at all, from any source.  
+(See Notes D and N of Notes to Financial Statements.)
+
+Item 8.  Financial Statements and Supplementary Data. 
+
+     Financial Statements included as part of this Report:
+
+Auditors' Report
+Statements of Operations for the Years Ended March 31, 1996, 1995, and 1994
+Balance Sheets as of March 31, 1996 and 1995
+Statements of Cash Flows for the Years Ended March 31, 1996, 1995, and 1994
+Statements of Shareholders' Equity for the
+     Years Ended March 31, 1996, 1995, and 1994.
+Notes to Financial Statements
+
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and 
+         Financial Disclosure.
+
+Not Applicable.  
+
+                               PART III
+
+Items 10, 11, 12 and 13 of Part III hereof are incorporated by reference to 
+the Company's Definitive Proxy Statement for the Annual Meeting of 
+Shareholders involving the election of directors which will be filed on or 
+about July 23, 1996.  The information being incorporated by reference is set 
+forth under the captions:  "Outstanding Voting Securities"; "Election of 
+Directors"; "Executive Officers of the Company"; and "Executive Compensation."
+
+PART IV
+ 
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+    (a)   The following documents are filed as a part of this Report or 
+          incorporated by reference:
+
+          (1)  All financial statements required to be filed by Item 8 of this 
+               Form and included in this Report have been listed previously.
+
+          (2)  Financial Statements and Financial Statement Schedules 
+Required:
+
+               Zonic A&D Company . . . . . . . . . . . . . . . .      
+                   Independent Auditors' Report and            
+                   Financial Statements for the Years Ended    
+                   March 31, 1996 and March 31, 1995
+
+                                 page 17
+<PAGE>
+
+
+Auditors' Report . . . . . . . . . . . . . . .   
+
+
+To the Board of Directors and Shareholders
+Zonic Corporation
+Cincinnati, Ohio
+
+     We have audited the accompanying balance sheets of Zonic Corporation as 
+of March 31, 1996 and 1995 and the related statements of operations, 
+shareholders' equity (deficit), and cash flows for each of the three years in 
+the period ended March 31, 1996.  These financial statements are the 
+responsibility of the Company's management.  Our responsibility is to express 
+an opinion on these financial statements based on our audits.  
+
+     We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free of 
+material misstatement.  An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements.  An audit 
+also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation.  We believe that our audits provide a reasonable basis 
+for our opinion.
+
+     In our opinion, such financial statements present fairly, in all material 
+respects, the financial position of the Company as of March 31, 1996 and 1995 
+and the results of its operations and its cash flows for each of the three 
+years in the period ended March 31, 1996 in conformity with generally accepted 
+accounting principles.
+
+     The accompanying financial statements have been prepared assuming that 
+Zonic Corporation will continue as a going concern.  As discussed in Note N to 
+the financial statements, the Company is experiencing difficulty in generating 
+sufficient cash flow to meet its obligations and sustain its operations, which 
+raises substantial doubt about its ability to continue as a going concern.  
+Management's plans concerning these matters are also described in Note N.  The 
+financial statements do not include any adjustments that might result from the 
+outcome of this uncertainty.
+
+by: / s /  Deloite and Touche LLP
+
+Cincinnati, Ohio
+June 13, 1996
+
+                                 page 18
+<PAGE>
+Statements of Operations for the Years
+   Ended March 31, 1996, 1995 and 1994 . . . .       
+                                                  Years ended March 31
+                                             1996         1995          1994
+                                             ____         ____          ____
+Revenues:
+   Products and services               $ 3,639,982  $ 4,860,036  $ 4,291,705
+   Development contracts and other              -             -      337,960
+                                         _________    _________    _________
+       Total                             3,639,982    4,860,036    4,629,665
+                                        __________    _________    _________
+
+Cost of products and services sold       1,882,848    2,369,965    2,438,493
+Writedown of inventory                           -            -      220,000
+Selling and administrative expenses      1,642,061    2,113,509    2,286,905
+Research and development expenses and 
+   software construction and  product
+   enhancement amortization                733,770      887,808    1,637,500
+Writedown of capitalized software                -            -    2,758,842
+Bad debt expense - affiliate                     -            -      681,434
+Costs related to management change and 
+   product discontinuance                  455,682            -            -
+                                         _________    _________   __________
+         Total Operating Expenses        4,714,361    5,371,282   10,023,174
+                                         _________    _________   __________
+
+Operating loss                          (1,074,379)    (511,246)  (5,393,509)
+
+Gain on sale of asset                    1,417,027            -            -
+Loss from affiliate                              -            -     (140,000)
+Interest expense                          (486,286)    (749,964)    (569,558)
+Other income                                 2,318        3,189        1,702
+Foreign currency gains (losses)            131,351     (108,460)     (34,284)
+                                         _________    _________   __________
+
+Loss before taxes and extraordinary item    (9,969)  (1,366,481)  (6,135,649)
+Provision for income taxes                       -            -            -
+                                          ________    _________    _________
+
+          Loss before extraordinary item    (9,969)  (1,366,481)  (6,135,649)
+
+Extraordinary item - gain from debt 
+   restructuring, net of taxes             397,275    1,814,129            -
+                                          ________     ________    _________
+
+          Net profit (loss)             $  387,306   $  447,648  $(6,135,649)
+                                         =========     ========   ==========
+
+Primary earnings (loss) per share       $      .13   $      .14      $ (1.99)
+                                         =========     ========   ===========
+
+Fully diluted earnings (loss) per share
+     Net loss before extraordinary item $        0   $     (.44)     $ (1.99)
+     Extraordinary item - gain from
+     debt restructuring, net of taxes          .13          .58            -
+                                        __________    _________   __________
+          Net profit (loss)             $      .13   $      .14   $    (1.99)
+                                           =======     ========      =======
+Weighted average:
+        Primary shares outstanding       3,081,497    3,094,136    3,080,553
+        Fully diluted shares outstanding 3,081,497    3,094,136    3,080,553
+
+Dividends - none in 1996, 1995 or 1994. 
+
+The accompanying notes are an integral part of these statements.
+
+                                 page 19
+<PAGE>Balance Sheets as of March 31, 1996 and 1995 .         
+
+Assets 
+                                                                 March 31 
+                                                             1996        1995
+                                                             ____        ____
+Current Assets
+  Cash                                                   $ 28,951   $  27,222
+    Receivables, net of allowance 
+          for doubtful accounts
+      Trade                                               642,311     494,229
+      Related parties                                     334,781     412,302
+      Unbilled contracts                                   56,788      73,881
+                                                        _________     _______
+      Total receivables                                 1,033,880     980,412
+        Inventories
+          Finished products                               296,762     359,844
+          Work in process                                 102,418     118,719
+          Raw material                                    309,737     316,894
+                                                        _________     _______
+      Total inventory                                     708,917     795,457
+
+      Prepaid expenses                                      3,833       4,004
+                                                        _________   _________
+
+ Total current assets                                   1,775,581   1,807,095
+
+ 
+Property and Equipment-at cost 
+       Furniture and office equipment                     465,421     484,053
+       Machinery and plant equipment                    1,046,580   1,273,631
+       Software construction and product enhancements   7,260,451   8,974,113
+                                                        _________   _________
+                                                        8,772,452  10,731,797
+       Less accumulated depreciation and amortization   7,305,267   8,151,171
+                                                        _________   _________
+                                                        1,467,185   2,580,626
+
+                                                       __________  __________
+                                                       $3,242,766  $4,387,721
+                                                       ==========  ==========
+
+The accompanying notes are an integral part of these statements.
+
+                                 page 20
+<PAGE>
+
+Balance Sheets as of March 31, 1996 and 1995 (Continued) .         
+
+Liabilities and Shareholders' Equity (Deficit)                      
+                                                                March 31 
+                                                            1996        1995
+                                                            ____        ____
+Current Liabilities
+    Short term notes payable and current maturities 
+      of long-term obligations                     $   806,316    $  622,874
+    Accounts payable - trade	                          844,685       778,994
+    Accounts payable - related parties                 611,823       806,466
+    Deferred income                                    792,977       172,969
+    Accrued liabilities
+      Salaries and wages                               142,813       158,853
+      Property and payroll taxes                        86,429       100,900
+      Interest                                         111,060       404,714
+      Costs related to management change               122,931             -
+      Other                                            223,021       218,330
+                                                     _________     _________
+    Total accrued liabilities                          686,254       882,797
+                                                     _________     _________
+Total current liabilities                            3,742,055     3,264,100
+ 
+
+Long-term obligations, less current maturities       4,070,000     6,018,761
+ 
+Deferred rent                                          292,685       354,140
+Commitments and Contingencies 
+
+Shareholders' Equity (Deficit)
+  Preferred shares - authorized, 250,000 shares 
+    without par value; none issued or outstanding.
+  Common shares - authorized, 9,750,000 shares 
+    without par value; issued and outstanding, 
+    3,044,136 shares at March 31, 1996 and 
+    3,094,136 at March 31, 1995 at stated issue price    61,674       62,674
+  Additional paid-in capital                          5,727,881    5,726,881
+                                                     __________   __________
+                                                      5,789,555    5,789,555
+
+  Accumulated deficit                               (10,651,529) (11,038,835)
+                                                     __________   __________
+
+Total  shareholders' equity (deficit)               (4,861,974)   (5,249,280)
+                                                     _________     _________
+
+                                                    $3,242,766    $4,387,721
+                                                    ==========    ==========
+
+
+The accompanying notes are an integral part of these statements.
+
+                                 page 21
+
+<PAGE>
+Statements of Cash Flows for the Years
+   Ended March 31, 1996, 1995 and 1994 . . . .       
+                                                   Years ended March 31
+                                               1996        1995         1994
+                                               ____        ____         ____
+Cash provided by operations
+  Net profit (loss) for year              $ 387,306   $ 447,648  $(6,135,649)
+  Adjustments to reconcile net profit
+        (loss) to net cash provided
+        by operating activities:
+    Gain from sale of right 
+        to software                    $ (1,417,027)          -            -
+    Gain from debt restructuring           (397,275) (1,814,129)           -
+    Depreciation and amortization            55,126     112,153      189,857
+    Amortization of software construction
+        and product enhancements            722,039     852,685    1,231,328
+    Write-off of costs related to management
+        change and product discontinuance   304,573           -            -
+    Write-off of capitalized software 
+        costs                                     -           -    2,758,842
+    Amortization of deferred income        (274,809)   (278,850)    (254,808)
+    Bad debts provision (recovery)           17,135     (12,014)     793,434
+    Provision for obsolete inventories       36,000      60,000      284,999
+    Amortization of stock options            57,888      63,144       63,144
+    Loss from affiliates                          -           -      140,000
+    Issuance of common shares for 
+          services provided                       -           -       18,958
+    Foreign currency (gain) loss and other (170,128)    109,751       30,839
+    Increase (decrease) in cash due 
+          to changes in:
+      Receivables                          (225,525)    (17,296)      64,042
+      Inventories                          (164,453)    513,260      211,790
+      Prepaid expenses                          171       1,379        5,145
+      Accounts payable and accrued 
+            liabilities                     388,634         486      459,778
+      Accrued rent                          (61,455)    (55,450)     (39,788)
+      Deferred income and advanced 
+           billings to customers            894,817     359,535      266,411
+                                          _________      _______       _______
+        Net cash provided by operations     153,017     342,302       88,322
+                                           
+Cash used in investment activities
+  Purchase of equipment and leasehold 
+    improvements                            (16,134)    (22,171)      (4,137)
+  Proceeds from sale of fixed assets              -      41,068            -
+  Software construction and product 
+      enhancement expenditures             (311,947)   (276,016)    (737,777)
+                                          _________     _______      _______
+    Net cash used in investment 
+      activities                           (328,081)   (257,119)    (741,914)
+
+Cash provided by (used in) financing activities
+  Proceeds from short-term notes            300,000     600,000            -
+  Proceeds from long-term obligations             -           -      950,000
+  Repayment of short-term notes and 
+         long-term obligations            (123,207)   (680,647)     (598,214)
+                                         _________     _______       _______
+
+    Net cash provided by (used in) 
+      financing activities                 176,793    (80,647)      351,786
+  
+Increase (decrease) in cash                  1,729       4,536      (301,806)
+Cash - beginning of period                  27,222      22,686       324,492
+                                         _________     _______       _______
+Cash - end of period                        28,951  $   27,222    $   22,686
+                                           =======     =======      ========
+Interest paid during the year 
+      (net of amounts capitalized)       $ 325,683  $  419,023   $   439,637
+                                           =======     =======      ========
+
+The accompanying notes are an integral part of these statements.
+
+                                 page 22
+<PAGE>
+
+Statements of Shareholders' Equity (Deficit) for the
+   Years Ended March 31, 1996, 1995 and 1994.     
+
+                                        Additional
+                    Common  Preferred      Paid in    Accumulated
+                    Shares     Shares      Capital        Deficit      Total
+
+Balance at 
+March 31, 1993     $62,195         -    $5,689,652  $(5,350,834)    $401,013
+
+Common shares
+issued                 479         -        18,479            -       18,958
+Stock warrants
+issued                   -         -        10,000            -       10,000
+Net loss for year        -         -             -   (6,135,649)  (6,135,649)
+Balance at 
+                   _______      ____     _________    __________    _________
+March 31, 1994    $ 62,674         -    $5,718,131 $(11,486,483) $(5,705,678)
+
+Stock warrants 
+issued                   -         -         8,750            -        8,750
+Net income
+for year                 -         -             -      447,648      447,648
+Balance at 
+                   _______      ____     _________    __________    _________
+March 31, 1995    $ 62,674         -    $5,726,881 $(11,038,835) $(5,249,280)
+
+Common shares
+retired             (1,000)        -         1,000            -            -
+Net income
+for year                 -         -             -      387,306      387,306
+                   _______      ____     _________    __________    _________
+Balance at
+March 31, 1996      61,674         -    $5,727,881  (10,651,529)  (4,861,974)
+                   =======      ====     =========   ==========    =========
+
+
+
+
+The accompanying notes are an integral part of these statements.
+
+                                 page 23
+<PAGE>
+
+Notes to Financial Statements  . . . . . . . .    
+
+Note A - Summary of Accounting Policies
+
+     The Company's principal activity consists of the design, manufacture, and 
+marketing of data acquisition and analysis systems.  A summary of significant 
+accounting policies applied in the preparation of the accompanying financial 
+statements follows:
+
+     1.  Inventories
+
+         Inventories are stated at the lower of cost or market. Finished 
+products and work in process cost is determined principally by the average 
+cost method, including material, labor, and overhead associated with inventory 
+production. Raw material cost is determined by the first-in first-out method 
+(FIFO). Inventories are reduced by allowances for obsolescence totaling 
+$199,559 and $344,024 at March 31, 1996 and 1995, respectively.
+
+     2.  Depreciation 
+
+         Depreciation is provided in amounts sufficient to relate the cost of 
+depreciable assets to operations over their estimated service lives under the 
+straight-line method. Estimated remaining useful lives range from three to 
+five years.
+ 
+     3.  Research and Development Expenses, Software Construction, and 
+         Product Enhancement 
+
+         Certain software development costs are capitalized when incurred. 
+Capitalization of software development costs begins upon the establishment of 
+technological feasibility. The establishment of technological feasibility and 
+the ongoing assessment of recoverability of capitalized software development 
+costs requires considerable judgment by management with respect to certain 
+external factors, including, but not limited to, technological feasibility, 
+estimated economic life and changes in software and hardware technologies. 
+Research and development expenses, including development costs of new products 
+and processes, are expensed as incurred.
+
+         Total unamortized costs for software construction and product 
+enhancement at March 31, 1996 and 1995 were:
+
+                                                       1996           1995
+                                                       ----           ----
+Software construction                            $1,188,184     $2,175,337
+Product enhancement                                 123,832        268,793
+                                                  _________      _________
+                                                 $1,312,016     $2,444,130
+                                                  =========      =========
+
+                                 page 24
+<PAGE>
+
+         Capitalized costs of software construction and product enhancement 
+and related information for fiscal years 1996, 1995, and 1994 follow:
+
+                                           1996          1995           1994
+                                           ____          ____           ____
+Capitalized costs
+   Software construction               $246,947     $  255,852    $  892,716
+   Medallion                             60,000              -             -
+   Interest                               5,000         20,164        67,389
+Development funding                           -              -      (222,328)
+
+Amortization     
+   Software construction               723,583      1,112,929      1,194,743
+   Product enhancement                  99,037        138,928        481,151
+   Development funding                (100,581)      (399,172)      (444,566)
+              
+Reductions of capitalized
+   software construction and   
+   product enhancement 
+   costs                                79,049              -     2,758,842
+
+Research and development
+  expenses                              11,731         35,123       406,172
+
+         The reduction of capitalized software construction and product 
+enhancement costs in 1996, was due to the write-off of costs related to a 
+development project that will not be completed.  The 1996 reduction is 
+included in costs related to management change and product discontinuance on 
+the accompanyhing statement of operation.  In 1994, a writedown of costs 
+occurred due to a reduction in estimated useful lives of certain products 
+reflecting management's projection of future revenues.
+
+         In 1996, the Company purchased a new product, Medallion, for $60,000.  
+This amount has been included with software construction and product 
+enhancement costs on the balance sheet.  Current year capitalized costs 
+include amounts related to further development of this product. 
+
+         See Note C of Notes to the Financial Statements for explanation of 
+development service funding.
+
+     4.  Income Taxes
+
+         The Company provides for income taxes using the asset and liability 
+method required under Statement of Financial Accounting Standards No. 109 
+"Accounting for Income Taxes."  (See Note I of Notes to the Financial 
+Statements.)
+
+     5.  Use of Estimates
+
+         The preparation of financial statements in conformity with generally 
+accepted accounting principles requires management to make estimates and 
+assumptions that affect the reported amounts of assets and liabilities at the 
+date of the financial statements and the reported amounts of revenues and 
+expenses during the reporting period.  Actual results could differ from those 
+estimates.
+
+                                 page 25
+<PAGE>
+
+     6.  Joint Ventures
+
+         The Company, along with A&D Co. Limited of Japan (A&D), have 
+established two jointly-owned entities, Zonic A&D Company, an Ohio general 
+partnership, and Zonic A&D Ltd., a corporation organized under the laws of the 
+United Kingdom, to conduct marketing activities with respect to the Company's 
+and A&D's products in the Western Hemisphere and Europe, respectively. The 
+Company's interest in the income and losses of these two entities is accounted 
+for under the equity method of accounting. Under this method, the Company's 
+net income for a particular accounting period includes its proportionate share 
+of the net income or losses reported by these entities during that period to 
+the extent of its investment. (See Note J of Notes to the Financial 
+Statements.)
+
+     7.  Revenue Recognition 
+
+         The Company recognizes revenue upon shipment for contracts which are 
+completed and shipped within one fiscal quarter. The Company recognizes 
+revenue using the percentage of completion method for those contracts which 
+production spans more than one fiscal quarter and are significant to the 
+financial statements.
+
+         Under the percentage of completion method, revenues are recognized 
+based on the ratio of total cost incurred at the balance sheet date to total 
+estimated cost of the project through completion. 
+
+         The Company sells extended warranty contracts which provide for 
+repair of hardware and no-cost upgrades of software. These contracts normally 
+cover a one year period with revenue being recognized on a straight line basis 
+over the contract period.
+
+     8.  Credit Risk
+
+         The Company is diversified geographically and has a broad customer 
+base. The Company grants credit to substantially all of its customers. Export 
+sales are generally secured with a letter of credit in favor of the Company 
+payable on shipment. Management believes bad debt losses resulting from 
+default by a single customer, or defaults by customers in any depressed region 
+or business sector, would not have a material effect on the Company's 
+financial position. (See Notes G and H of Notes to the Financial Statements.) 
+
+         At March 31, 1996 the Company had an allowance for doubtful accounts 
+of $1,165,889, including $1,094,988 relating to receivables from affiliates. 
+At March 31, 1995 such allowances amounted to $1,148,754, including $1,094,988 
+related to affiliate receivables. (See Note J of Notes to the Financial 
+Statements.)
+
+         During 1996, the Company began selling certain trade receivables 
+which require payment of a fee based on the period of time the account remains 
+unpaid by the customer.  The Company retains substantially the same credit 
+risk as if the receivables had not been sold.  Cash proceeds from the sale of 
+trade receivables during the year were $605,728.  At March 31, 1996, the 
+amount of receivables sold which remain uncollected from customers was 
+$66,699.  The Company has received $56,694 from the sale of the receivable and 
+such amount has reduced the amount of receivables reported on the balance 
+sheet.
+                                 page 26
+<PAGE>
+
+         In addition to the related party receivables discussed in Note J, the 
+Company had accounts receivable from major customers, each of which was in 
+excess of 10% of the Company's total accounts receivable, as follows:
+
+                                         Number of        Percent of Gross
+                                         Customers     Accounts Receivable
+                                         _________     ___________________
+
+March 31, 1996                                   2                     56%
+March 31, 1995                                   3                     39%
+
+9. Stock Based Compensation
+
+     The Financial Accounting Standards Board issued Statement of Financial 
+Accounting Standards No. 123 - Accounting for Stock-Based Compensation during 
+fiscal 1996.  The standard defines a fair-value-based method of accounting for 
+stock-based compensation, but permits compensation expense to continue to be 
+measured using the intrinsic-value-based method previously used.  The Company 
+intends to continue measuring compensation expense using the intrinsic-value-
+based method and under the provisions of the standard, which must be adopted 
+in fiscal 1997, will be required to make pro forma disclosures of net income 
+and earnings per share as if the fair value method had been used.  Such pro-
+forma information has not yet been obtained for 1996.
+
+     10. Earnings Per Share
+
+     Earnings per common and common equivalent share were based on the 
+weighted average number of common shares and common equivalent shares 
+outstanding during each period. Exercise of options is not assumed when the 
+effect would be anti-dilutive.
+
+Note B - Resignation of President and Product Discontinuance
+
+     On December 27, 1995, the Board of Directors of the Company accepted the 
+resignation of Gerald J. Zobrist as President and Chief Executive Officer 
+effective December 31, 1995.  At the same time, the Board of Directors elected 
+James B. Webb to succeed Mr. Zobrist as President and Chief Executive Officer 
+of the Company.  Mr. Zobrist retains his ownership in the Company, less 50,000 
+shares which he surrendered to the Company without compensation, remains on 
+the Company's Board of Directors, and no longer personally guarantees any 
+loans under the Credit Agreement with A&D Company Ltd.  However, Mr. Zobrist 
+continues to guarantee past due rents under the Company's prior facilities 
+lease agreement.  (See Note F of Notes to the Financial Statements.)  The 
+Company has recorded $156,640 as costs related to his resignation.  Also, in 
+connection with the change in management the Company recorded an expense of 
+$299,042 for the write-off of a development project that will not be 
+completed.  At March 31, 1996, related accrued costs were $122,931.
+
+                                 page 27
+
+<PAGE>
+
+Note C - Sale of Asset
+
+     In June 1995, the Company sold its 40% ownership interest in the WCA 
+Products to A&D Company, Ltd. (A&D), who previously owned the remaining 60% 
+interest in WCA.  Proceeds from the sale were $2,000,000 which resulted in a 
+pre-tax gain of $1,417,027.  The gain on sale of this asset is net of the 
+unamortized portion of Capitalized Software Construction and Product 
+Enhancement for the WCA product.  These proceeds were directly applied to 
+reduce loans owed to A&D Company, Ltd.  Included in the terms of sale was the 
+forgiveness of accrued interest on these loans amounting to $397,275 or $.13 
+per share, which was recorded as an extraordinary item.  In addition, 
+modifications to the Credit Agreement were made, and A&D appointed the Company 
+as exclusive distributor of the WCA Product in the Western Hemisphere. (See 
+Note D of Notes to the Financial Statements)
+
+
+Note D - Short-Term Note Payable and Long-Term Obligations
+
+     Short-term note payable and long-term obligations at March 31 consist of 
+the following:
+                                                    1996               1995
+                                                    ____               ____
+ 
+Notes Payable to Banks                       $ 4,100,000        $ 4,100,000
+Notes payable to A&D                             770,000          2,570,000
+Value of stock options issued in connection
+ with notes payable to A&D (net)                       -            (57,888)
+Capitalized lease 
+     obligations & other                           6,316             29,523
+                                               _________          _________
+                                               4,876,316          6,641,635
+Less current maturities                          806,316            622,874
+                                               _________          _________
+                                              $4,070,000         $6,018,761
+                                               =========          =========
+
+In June 1995, the Company used proceeds from the sale of its ownership 
+interest in the WCA Product to repay $2,000,000 of loans payable to A&D which 
+were made under a Credit Agreement dated December 7, 1992.  At the same time 
+modifications to the Credit Agreement included a reduction in the Company's 
+maximum allowable indebtedness to A&D and loan guarantees by A&D from 
+$6,000,000 to $4,000,000, elimination of the Control Agreement as defined in 
+the Credit Agreement which granted A&D the right to purchase a sufficient 
+number of shares of the Company's common stock to give A&D a majority of all 
+outstanding shares, and the extension of the due date of the then remaining 
+$480,000 due to A&D to June 30, 1997.
+
+                                 page 28
+<PAGE>
+
+
+     The Company's ability to request additional advances or guarantees under 
+the Agreement terminated March 31, 1996, but has been extended for an 
+additional one year period by mutual consent of the parties.  The Agreement 
+also provides that A&D under certain circumstances and using their sole 
+reasonable judgement may declare the Company in default of the Agreement if 
+the Company is not achieving the desired results from the Plan of 
+Restructuring or the occurrence of certain other events, resulting in the 
+loans becoming due immediately.
+
+     As consideration for entering into the Agreement, the Company granted A&D 
+a stock option to purchase 1,000,000 shares of the Company's stock at $2.00 
+per share.  This option is exercisable until all outstanding loans and 
+guarantees is equal to $3,000,000 or less and the Company can no longer 
+request loans as advances under the Agreement.  The Agreement is 
+collateralized by all the assets of the Company and contains several negative 
+covenants that the Company must comply with including restrictions on assuming 
+additional indebtedness and the issuance of stock options to directors and 
+officers.  The terms of the Agreement provide that A&D will be able to 
+exercise significant influence on the Company's operations and policies.
+
+     Gerald Zobrist, the former President of the Company, personally 
+guaranteed loans received under the Agreement.  This guarantee was terminated 
+upon his resignation in December of 1995.  As consideration for this 
+guarantee, he received an option to purchase 140,000 shares of the Company's 
+common stock at $2.00 per share.  This option expires December 7, 2002.
+
+     The option issued to A&D and the Company's President were valued by an 
+independent appraiser at $.18 per share, or $205,200.  This amount has been 
+recorded as a reduction of long-term debt and credited to paid-in capital in 
+the accompanying statements and has been amortized to interest expense on a 
+straight line basis from December 7, 1992 through March 31, 1996.  
+Amortization included in interest expense amounted to $57,888 in 1996, and 
+$63,144 in both 1995 and 1994.
+
+     At March 31, 1996, the Company's aggregate indebtedness to A&D and 
+guaranteed by A&D under the Agreement exceeded $4,000,000.  A&D has waived 
+this violation and has notified the Company that it has no intention to 
+declare loans made under the Agreement payable before April 1, 1997.
+
+     Notes payable to A&D amounting to $680,000, including $480,000 payable 
+June 30, 1997, bear interest at the prime rate plus 1%.  At March 31, 1996, 
+the prime rate was 8.25%.
+
+     In 1994, the Company assumed a $90,000 short-term loan due A&D from Zonic 
+A&D Company which is not part of the Agreement.  The loan bears interest at 4% 
+and the due date has been extended to April 1, 1997.
+
+     In March 1995, the Company recorded an extraordinary gain of $1,814,129, 
+or $.58 per share from the extinguishment of long-term bank debt.  The Company 
+extinguished $2,422,879 of interest and principal for an immediate payment of 
+$600,000 and the issuance of warrants for 350,000 share of common stock.  At 
+the time of the extinguishment of debt, the Company was in compliance with all 
+the covenants of the loan agreement.
+
+                                 page 29
+<PAGE>
+
+
+     A $600,000 short-term note payable to a bank which is guaranteed by A&D 
+bears interest at 1.50% over the Federal Funds rate, adjusted and payable on a 
+quarterly basis.  The rate at March 31, 1996 was 7.18%.  Principal and 
+interest are due on September 15, 1996.  (See Note J of Notes to the Financial 
+Statements.)
+
+     A $3,500,000 bank loan guaranteed by A&D is payable April 1, 1997 and 
+requires interest payments quarterly at 1.25% over the Federal Funds rate.  
+(See Note J of Notes to the Financial Statements.)  The Federal Funds rate at 
+March 31, 1996 and 1995 was 5.63% and 6.50%, respectively.
+
+The Company has leased certain equipment through capital leases.  The leased 
+property for 1996 and 1995 had a cost of $93,658 and accumulated amortization 
+of $83,847 and $64,224, respectively.
+
+     Notes payable and capital lease obligations mature as follows:
+
+                                           Notes Payable  Capital Leases
+
+     1997                                    $   800,000        $  6,316
+     1998                                      4,070,000              -
+
+     Fair value of financial instruments has not been provided for notes 
+payable and long-term debt as it is not practicable to estimate such fair 
+values as such instruments are being transacted with related parties or are 
+guaranteed by related parties.  The Company has not recently secured debt from 
+unrelated parties and accordingly cannot estimate, with reasonable certainty, 
+the rate available to the Company or even if market debt would be provided at 
+all.  All other financial instruments are carried at an amount approximating 
+their fair value.
+
+                                 page 30
+
+<PAGE>
+
+Note E - Shareholders' Equity (Deficit)
+
+     The Company has certain incentive and non-qualified stock option plans 
+available to key employees to purchase common stock of the Company at not less 
+than the market value on the date of grant. A summary of option transactions 
+during 1996, 1995 and 1994 follows:
+
+                                               Number of            Options
+                                                 Options        Price Range
+
+     Outstanding at March 31, 1993             1,602,892          63 - 4.00
+     Granted in 1994                             432,500         .65 -  .72
+     Exercised in 1994                                 0                  -
+     Forfeited in 1994                          (270,000)        .65 - 4.00
+
+     Outstanding at March 31, 1994             1,765,392         .63 - 3.875
+     Granted in 1995                               8,000                .31
+     Exercised in 1995                                 0                  -
+     Forfeited in 1995                          (121,642)        .65 - 3.875
+ 
+     Outstanding at March 31, 1995             1,651,750         .31 - 3.875
+     Granted in 1996                             190,000         .34 -  .50
+     Exercised in 1996                                 0                  -
+     Forfeited in 1996                           (89,750)        .65 - 2.00
+
+     Outstanding at March 31, 1996             1,752,000         .31 - 3.875
+
+     Exercisable at March 31, 1996               543,750         .31 - 3.875
+ 
+     At March 31, 1996, there were 499,500 incentive options and 1,252,500 
+non-qualified options outstanding and 70,750 shares were available for 
+granting additional options.
+
+     During 1994, the Company issued warrants for 100,000 common shares in 
+connection with the renegotiation of the lease for its facilities. The 
+warrants are exercisable at $2.00 per share and expire on March 31, 2000. None 
+of these warrants have been exercised.
+
+     During 1995, the Company issued warrants for 350,000 common shares, with 
+a market value of $8,750, in connection with the extinguishment of certain 
+long-term debt obligations. These warrants are exercisable for $2.00 per share 
+and expire on March 31, 2000. None of these warrants have been exercised.
+
+     At March 31, 1996 the Company has reserved common shares sufficient to 
+cover the exercise of outstanding stock options and warrants.
+
+                                 page 31
+
+<PAGE>
+
+Note F - Operating Lease Commitments
+
+     In 1995, the Company relocated its operations. The new facilities lease 
+agreement results in a reduction of rent payments from the 1994 amounts. This 
+lease expires in December, 2000. Deferred rent arising from incentives and 
+concessions from the landlord was $292,685 and $354,140 at March 31, 1996 and 
+1995, respectively, including $142,399 of past due rent related to the lease 
+agreement signed in 1993. These amounts are amortized as a reduction of rent 
+payments charged to expense over the remaining life of the lease. 
+
+     In addition, the Company also leases furniture, fixtures, and computer 
+equipment under operating leases.
+
+     The minimum future rental commitments under operating leases are as 
+follows:
+
+     1997        $229,347
+     1998         206,124
+     1999         193,344
+     2000         193,344
+     2001         145,008
+
+     Rent expense including deferred rent for 1996, 1995, and 1994 was 
+$132,885, $205,591, and $258,852, respectively. 
+
+Note G - Foreign Sales
+
+     The Company had foreign sales as follows:
+
+                                                                  Percent of
+                                                      Amount     Total Sales
+     1996                                        $ 2,027,000             56%
+     1995                                          1,957,000             40%
+     1994                                          2,103,000             45%
+
+Note H - Sales to Major Customers
+
+     The Company had sales to major customers as follows:
+
+                                                                 Percent of
+                                       Customers      Amount    Total Sales
+     1996                                  1        $396,000            11%
+     1995                                  1         619,000            13%
+     1994                                  1         875,000            19%
+
+     Sales to major customers (customers with sales in excess of 10% of total 
+annual sales) include products and services sold to end-user customers through 
+the Company's exclusive selling agents for their respective geographic 
+territories. These selling agents include related parties described in Note J 
+of Notes to the Financial Statements. Sales of large systems to end-users 
+represent relatively high percentages of sales. However, the Company is not 
+dependent on any one customer for future sales.
+
+     A foreign government was the Company's largest customer in 1996, while 
+the  U.S. Government was the major customer in 1995 and 1994.
+
+                                 page 32
+<PAGE>
+
+Note I - Federal Income Taxes
+
+     Deferred income taxes reflect the net tax effects of temporary 
+differences between the carrying amounts of assets and liabilities for 
+financial reporting purposes and the amount used for income tax purposes. 
+Deferred tax assets have been reduced by a valuation allowance, as it is 
+uncertain when these benefits will be realized. Although the Company realized 
+profits in 1996 and 1995, there was no provision for income taxes as the 
+result of changes in deferred tax assets and the related valuation allowance 
+during the year. 
+
+Deferred taxes at March 31 consist of the following:
+
+                                                         1996           1995
+                                                         ____           ____
+Current deferred tax asset:
+  Reserves not currently deductible                 $   484,015  $   533,297
+  Deferred revenue                                       50,726       41,237
+  Accruals not currently deductible                      77,412       89,451
+                                                       ________     ________
+    Total                                               612,153      663,985
+  Less valuation allowance                             (612,153)    (663,985)
+                                                       ________     ________
+  Net                                               $         -  $         -
+                                                       ========     ========
+Non-current deferred tax asset:
+  Net operating loss carryforward                   $ 2,205,360  $ 2,029,953
+  Research, development, and 
+  investment tax credits                                667,278      674,613
+  Write-off and reserve for software construction 
+         and product                                    370,139      555,209
+    Deferred Income                                      99,877      120,771
+                                                       ________    _________
+
+      Subtotal                                        3,342,654    3,380,546
+                                                     __________    _________
+Non-current deferred tax liability:
+   Loss from affiliates                               (164,696)     (195,475)
+   Capital leases and accelerated depreciation          (3,838)       (3,146)
+                                                      __________   _________
+
+      Subtotal                                        (168,534)     (198,621)
+
+Net non-current deferred tax asset                   3,174,120     3,181,925
+Less valuation allowance                            (3,174,120)   (3,181,925)
+                                                     __________    _________
+
+Net                                                $         -  $          -
+                                                     ==========    ==========
+
+                                 page 33
+<PAGE>
+
+The provision for income taxes for the years ended consist of the following:
+
+                                              1996         1995         1994
+                                              ____         ____         ____
+
+Deferred expense                          $ 59,637    $ 153,137    2,000,798
+Reduction in the valuation reserve         (59,637)    (153,137)  (2,000,798)
+                                            ______      _______    _________
+Provision for income taxes                $      -    $       -  $         -
+                                           =======      =======    =========
+
+     At March 31, 1996 the Company had net operating loss carryforwards of 
+approximately $6.5 million for U.S. Federal tax purposes. Such loss 
+carryforwards, if unused as offsets to future taxable income, will expire 
+beginning in 2001 and continuing through 2011. 
+
+     Tax credits are accounted for under the flow-through method as a 
+reduction of the provisions for income taxes in the year utilized.
+
+     The Company has $667,278 of tax credits primarily comprised of research 
+and development available for U.S. income tax purposes. These credits expire 
+at various dates beginning in 1997 and continuing through 2008.
+
+Note J - Related Party Transactions and Bad Debt Expense-Affiliate
+
+     The Company has developed a significant relationship with A&D, a 29% 
+shareholder.  
+
+     In October 1988, the Company and A&D Engineering Inc., a wholly-owned 
+subsidiary of A&D, formed a joint venture, Zonic A&D Company, to distribute 
+all of the Company's products, and A&D's spectrum analysis instruments in the 
+Western Hemisphere. The Company and A&D each have 50% ownership interest and 
+share the results of operations equally. Under the joint venture agreement, 
+the Company loaned $500,000 and A&D loaned $2,801,500 to Zonic A&D Company to 
+fund operating costs. The Company accounts for its investment using the equity 
+method of accounting and as such recognizes losses only to the extent it is at 
+risk for funding such losses. During 1994, the Company assumed a loan on 
+behalf of Zonic A&D Company of $90,000, and recognized a loss for the same 
+amount. The Company is not required to provide any additional funding, but 
+would recognize losses up to its funded amount if it did so. The Company's 
+investment in Zonic A&D Company was $0 at March 31, 1996 and 1995 as a result 
+of this accounting treatment. The joint venture agreement also permits the two 
+parties to charge Zonic A&D Company for expenses incurred by them on its 
+behalf.
+
+     During 1995, Zonic A&D Company repaid notes payable to A&D totaling 
+$2,691,000. The source of funds for the repayment was a capital contribution 
+from A&D Engineering, Inc.  The remaining notes payable and unpaid interest to 
+A&D and to the Company were forgiven and contributed as capital. There was no 
+effect on the Company's statement of income as these receivables had 
+previously been written off.
+
+     In 1991, the Company and A&D founded Zonic A&D Ltd. in the United 
+Kingdom, to distribute the products of both companies in Europe. Each partner 
+has a 50% ownership interest and shares the results of the operation equally.  
+The Company contributed capital and made a loan totaling $485,000 and 
+recognized losses to the extent of its investment in the affiliate. No losses 
+have been recorded by the Company since 1992.
+
+                                 page 34
+<PAGE>
+     Due to continuing losses, the partners of Zonic A&D Ltd. have 
+significantly reduced the operations of Zonic A&D Ltd. and now distribute 
+products in this market directly from their respective operations. None of the 
+amounts due the Company are considered collectable and have been fully 
+reserved in 1996 and 1995. In addition, a liability of $50,000 was recorded in 
+1994 for potential liabilities associated with the reduction of operations, of 
+which $28,125 remains as of March 31, 1996. Management does not expect to 
+incur any additional liability associated with the reduction of this 
+operation.  The operations of Zonic A&D Ltd. are not significant to the 
+Company's financial statements.
+
+     The Company recognized bad debt expense of $681,434 in 1994, to provide 
+for potential write-offs of accounts receivable due the Company from its 
+affiliates.  $481,434 of this amount is related to amounts due from Zonic A&D 
+Ltd. and the remaining $200,000 is related to amounts due from Zonic A&D Co. 
+The total reserve against affiliate receivables at March 31, 1996 and 1995 was 
+$1,094,988. There was no bad debt expense related to affiliates in 1996 or 
+1995.
+
+     The Company had the following amounts due from/to related parties at the 
+balance sheet dates:
+
+                                                      March 31     March 31
+                                                          1996         1995
+                                                      ________     ________
+Receivable from:
+   A&D                                             $       974     $ 20,322
+   Zonic A&D Company                                   471,375      529,548
+   Zonic A&D Limited                                   957,420      957,420
+                                                     _________    _________
+      Total                                          1,429,769    1,507,290
+Allowance for doubtful accounts                     (1,094,988)  (1,094,988)
+                                                     _________    _________
+Net receivables                                     $  334,781   $  412,302
+                                                      ========     ========
+Accounts payable-A&D                                $  611,823   $  806,466
+                                                      ========     ========
+
+     During 1996 and 1995, the Company purchased from Zonic A&D Company 
+accounts receivable of $1,903,227 and $3,090,143, respectively, due from end-
+user customers in exchange for forgiveness of accounts receivable due from 
+Zonic A&D Company.
+
+                                 page 35
+
+<PAGE>
+
+     The summarized balance sheets of Zonic A&D Company at March 31, 1996 and 
+1995 and the results of operations for the years then ended follows:
+
+Zonic A&D Company
+Balance Sheets
+
+                                                          1996       1995
+                                                          ____       ____
+Assets
+   Current assets                                   $    1,104  $   1,611
+   Fixed and other assets                               18,226     46,946
+                                                      ________   ________
+   Total assets                                     $   19,330  $  48,557
+                                                      ========   ========
+Liabilities and Deficit 
+   Current liabilities                              $  559,114  $ 635,169
+   Net deficit in owners' capital                     (539,784)  (586,612)
+                                                      ________   ________
+   Total liabilities and deficit                    $   19,330  $  48,557
+                                                       =======    =======
+
+Statements of Operations
+
+Net revenue                                         $  353,346  $ 545,932
+Net expenses                                           306,518    449,302
+                                                       _______    _______
+Net Income                                          $   46,828  $  96,630
+                                                       =======    =======
+
+     The following summarizes revenues from sales by the Company to A&D, Zonic 
+A&D Company, and Zonic A&D Ltd. in the aggregate:
+
+
+                                         1996          1995           1994
+                                         ____          ____           ____
+
+Sales for resale to end-users      $2,040,206   $ 3,207,032    $ 3,099,921
+
+Development contracts and other             -             -        337,960
+
+Total                              $2,040,206   $ 3,207,032    $ 3,437,881
+
+
+     The Company sells products to these related parties at its normal gross 
+profit margins for items resold to customers. The Company also sells 
+demonstration equipment to the related parties at cost.
+
+     The Company pays commissions to Zonic A&D Company and Zonic A&D Ltd. for 
+sales made through the related entities to end-users. Commission expense for 
+1996, 1995, and 1994 was $353,346, $545,932, and $577,397, respectively.
+
+     The Company also purchases components from A&D used principally in the 
+production of its WCA product line. Such purchases totaled $301,889, $218,990, 
+and $522,876, for 1996, 1995, and 1994 respectively.
+
+                                 page 36
+<PAGE>
+     The Company has charged Zonic A&D Company and Zonic A&D Ltd. for certain 
+costs incurred on their behalf amounting to $53,560, $66,322, and $109,440, 
+for 1996, 1995, and 1994, respectively.
+
+     In May 1990, the Company entered into a research and development 
+agreement with A&D totaling approximately $1,600,000. The Company has a 40% 
+ownership interest and A&D has a 60% ownership interest in the products 
+developed under this agreement. The two parties share profits on this product 
+line relative to their respective ownership percentage. Pursuant to this 
+agreement, the Company recorded revenue related to the funding from A&D for 
+the project of $324,369 in 1994.
+
+Note K - Retirement Plan
+
+     The Company has an employee savings and investment retirement plan 
+qualified under sections 401 (a) and 401 (k) of the Internal Revenue Code. The 
+plan covers all employees of the Company age 18 and over who have completed 
+three months of service and are scheduled to work 1,000 hours or more during 
+the plan year. 
+
+     Under the Plan agreement the Company is required to contribute 30 percent 
+of the voluntary 401 (k) contribution of all participants up to a maximum of 
+5% of each employee's salary. One half of this contribution may be made in 
+Company stock at the discretion of the Company's Board of Directors.
+
+     In any plan year, a supplemental contribution may be made if the Company 
+has a net after tax profit of more than 5% of sales.
+
+     The Company made contributions of $14,040 and $15,432 for 1996 and 1995, 
+respectively.  The Company recorded a liability of $20,088 in 1994 for 
+contributions which were paid in 1995.  None of the contributions were made in 
+Company stock.
+
+
+Note L - Statement of Cash Flows
+
+     In addition to those shown in the statement of cash flows or elsewhere 
+within these footnotes, the following non-monetary transactions occurred:
+
+        1) The Company offset accounts payable owed to A&D with accounts 
+receivable from A&D in 1996 and 1995. This offset reduced both current assets 
+and current liabilities by $156,326 and $62,004 in 1996 and 1995, 
+respectively, resulting in no gain or loss.
+
+        2) The Company reduced accounts payable and increased deferred rent in 
+1995 by $142,399 in conjunction with signing a new lease facilities agreement.
+
+        3) The Company issued warrants for 350,000 common shares in 1995 in 
+connection with the extinguishment of long-term debt. Additional paid in 
+capital was increased by $8,750 as the result of this transaction. (See Note D 
+of Notes to the Financial Statements.)
+
+                                 page 37
+
+<PAGE>
+
+Note M - Percentage of Completion Contracts
+
+     With regard to contracts in progress, the Company has recognized the 
+following through March 31:
+
+                                               1996               1995
+                                               ____               ____
+
+Total revenue recognized                   $  91,531         $ 617,349
+Total billings                               732,810           543,468
+                                             _______           _______
+Under (Over) billed receivables            $(641,279)        $  73,881
+                                             =======           =======
+Total costs incurred                       $  42,518         $ 267,855
+
+
+     Billings, as specified in the terms of a contract, and in excess of 
+revenue earned have been recorded as deferred income.  Unbilled receivables at 
+March 31, 1996 totaling $57,000 are amounts retained by the Company's 
+customers pursuant to the terms of their contracts.    
+
+Note N - Basis of Financial Statement Presentation
+
+     The Company has prepared a business plan for fiscal 1997 which 
+contemplates improved cash flow during the third and fourth quarters due 
+primarily to an increase in revenue and the benefit of continuing cost 
+reduction measures achieved to date. Specific to this business plan are 
+increases in sales of specific products, constant level of staff, and 
+expenditures for product development equal to 1996.  A&D has made short-term 
+loans to the Company during the first quarter of fiscal 1997 and the 1997 
+business plan requires additional short-term borrowings from A&D during the 
+second quarter.  All of these loans are scheduled for repayment by the end of 
+the third quarter of fiscal 1997.
+
+     As the result of operating losses incurred in 1996, 1995, and 1994, the 
+Company continues to experience cash flow problems, but has been able to 
+improve on the aging of its accounts payable and certain accrued liabilities 
+during 1996 through improved inventory turnover and the overall reduction of 
+operating expenses. The accompanying financial statements have been prepared 
+assuming that the Company will continue as a going-concern which contemplates 
+the realization of assets and the satisfaction of liabilities in the normal 
+course of business.  The financial statements do not include any adjustment 
+relating to the recoverability and classification of recorded asset amounts or 
+the amount and classification of liabilities that might be necessary should 
+the Company be unable to generate sufficient cash to meet its obligations and 
+sustain operations. 
+
+Note O - Fourth Quarter Adjustments
+
+     During the fourth quarter of 1994, a charge of $1,959,000 was recorded 
+for the writedown of capitalized software construction and product enhancement 
+costs. The adjustment was necessary to reflect management's estimate of the 
+net realizable value resulting from the decline in revenue of certain products 
+and the effects from products no longer marketed by the company.  No such 
+adjustments were necessary in 1996 or 1995.
+
+                                 page 38
+
+<PAGE>
+ZONIC A&D COMPANY 
+(a Partnership)
+Financial Statements for the Years Ended March 31, 1996 and 1995 and 
+Independent Auditors' Report
+
+ZONIC A&D COMPANY
+TABLE OF CONTENTS
+FOR THE YEARS ENDED MARCH 31, 1996 AND 1995
+Page
+INDEPENDENT AUDITORS' REPORT                                          40
+FINANCIAL STATEMENTS OF ZONIC A&D COMPANY AS OF MARCH 31, 1996 AND 
+  1995 AND FOR THE YEARS THEN ENDED:
+  Balance Sheets                                                      41
+  Statements of Operations and Partners' Deficit                      43
+  Statements of Cash Flows                                            44
+  Notes to Financial Statements                                       45
+
+                                 page 39
+
+<PAGE>
+
+INDEPENDENT AUDITORS' REPORT
+To the Partners of
+  Zonic A & D Company
+
+We have audited the accompanying balance sheets of Zonic A & D Company (the 
+Partnership) as of March 31, 1996 and 1995, and the related statements of 
+operations and partners' deficit and of cash flows for the years then ended.  
+These financial statements are the responsibility of the Partnership's 
+management.  Our responsibility is to express an opinion on these financial 
+statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free of 
+material misstatement.  An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements.  An audit 
+also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation.  We believe that our audits provide a reasonable basis 
+for our opinion.
+
+In our opinion, the financial statements present fairly, in all material 
+respects, the financial position of the Partnership as of March 31, 1996 and 
+1995, and the results of its operations and its cash flows for the years then 
+ended in conformity with generally accepted accounting principles.
+
+The accompanying financial statements have been prepared assuming that the 
+Partnership will continue as a going concern.  As discussed in Note 5 to the 
+financial statements, the excess of Partnership liabilities over its assets 
+raises substantial doubt about its ability to continue as a going concern.  
+Management's plans concerning these matters are also described in Note 5.  The 
+financial statements do not include any adjustments that might result from the 
+outcome of the uncertainty.
+
+As discussed in Note 4 to the financial statements, the Partnership has 
+significant transactions with one of the partners and, as a result, the 
+accompanying financial statements may not necessarily be indicative of the 
+conditions that would have existed or the results of operations if the 
+Partnership had operated without the assistance of the partners.
+
+by: / s / Deloitte and Touche LLP
+
+Cincinnati, Ohio
+June 13, 1996
+
+                                 page 40
+<PAGE>
+
+ZONIC A&D COMPANY (a Partnership)
+
+BALANCE SHEETS
+
+MARCH 31, 1996 AND 1995
+
+ASSETS                                               1996             1995
+                                                     ____             ____
+CURRENT ASSETS:
+  Cash                                        $       247      $     1,211
+  Accounts receivable                                 857              400
+                                               __________       __________
+          Total current assets                      1,104            1,611
+                                               __________       __________
+PROPERTY AND EQUIPMENT, AT COST: 
+  Furniture and equipment                          66,783           70,350
+  Vehicles                                         32,839           50,806
+                                               __________       __________
+          Total                                    99,622          121,156
+
+  Accumulated amortization                        (96,476)        (116,212)
+                                               __________       __________
+         Property and equipment, net               3,146            4,944
+                                               __________       __________
+DEMONSTRATION EQUIPMENT, AT COST
+  Equipment                                       502,051          510,079
+  Reserve for obsolescence                       (486,971)        (468,077)
+                                               __________       __________
+           Demonstration equipment, net            15,080           42,002
+                                               __________       __________
+
+TOTAL ASSETS                                   $    19,330      $    48,557
+                                               ==========       ==========
+
+                                 page 41
+<PAGE>
+
+ZONIC A&D COMPANY (a Partnership)
+ 
+BALANCE SHEETS
+
+MARCH 31, 1996 AND 1995
+
+LIABILITIES AND PARTNERS' DEFICIT                    1996              1995
+                                                     ____              ____
+CURRENT LIABILITIES:
+  Accounts payable:
+    Trade                                    $      33,898      $    34,990
+    Partners                                       471,375          529,548
+                                                __________       __________
+          Total accounts payable                   505,273          564,538
+                                                __________       __________
+  Accrued liabilities:
+    Salaries and wages                              14,081           11,813
+    Property and payroll taxes                       3,650            5,209
+    Commissions                                     19,962           39,181
+    Interest - A&D Engineering, Inc.                13,684           13,684
+    Other                                            2,464              744
+                                                __________       __________
+          Total accrued liabilities                 53,841           70,631
+                                                __________       __________
+          Total current liabilities                559,114          635,169
+                                                __________       __________
+
+PARTNERS' EQUITY (DEFICIT):
+  Zonic Corporation                             (1,498,963)      (1,522,377)
+  A&D Engineering, Inc.                            959,179          935,765
+                                                __________       __________
+          Total partners' deficit                 (539,784)        (586,612)
+                                                __________       __________
+TOTAL LIABILITIES AND PARTNERS' DEFICIT      $      19,330      $    48,557
+                                                ==========       ==========
+
+See notes to financial statements.
+
+                                 page 42
+<PAGE>
+
+ZONIC A&D COMPANY (a Partnership)
+
+STATEMENTS OF OPERATIONS AND PARTNERS' DEFICIT
+FOR THE YEARS ENDED MARCH 31, 1996 AND 1995
+
+                                                          1996          1995
+                                                          ____          ____
+
+NET PRODUCT SALES                                 $  1,903,227   $ 3,090,143
+                                                    ==========     ==========
+COMMISSION INCOME                                 $    353,346   $   545,932
+                                                   __________     __________
+EXPENSES:
+  Selling and administrative expense                   278,634       412,331
+  Depreciation and amortization expense                  3,223         3,203
+  Provision for demonstration equipment obsolescence    24,661        33,768
+                                                    __________    __________
+           Total expenses                              306,518       449,302
+                                                    __________    __________
+
+NET INCOME                                              46,828        96,630
+
+CONTRIBUTIONS BY PARTNERS DURING THE YEAR                    -     3,763,006
+
+PARTNERS' DEFICIT, Beginning of year                  (586,612)   (4,446,248)
+                                                    __________     _________
+
+PARTNERS' DEFICIT, End of year                    $   (539,784)   $ (586,612)
+                                                    ==========     =========
+
+See notes to financial statements.
+
+                                 page 43
+<PAGE>
+
+ZONIC A&D COMPANY (a Partnership)
+
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED MARCH 31, 1996 AND 1995
+
+                                                          1996        1995
+                                                          ____        ____
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+  Net income                                         $  46,828   $   96,630
+                                                      ________     __________
+  Adjustments to reconcile net income to 
+      net cash provided by operating activities:
+    Depreciation and amortization                        3,223        3,203
+    Provision for demonstration equipment obsolescence  24,661       33,768
+
+Gain on exchange of equipment in lieu of 
+      commission payment                               (10,790) 
+    Other                                               (1,404)      (3,924)
+
+    Change in assets and liabilities:
+      Accounts receivable                                 (457)         285
+      Demonstration equipment                                        10,980
+      Other assets                                                    1,754
+      Accounts payable                                 (59,265)    (127,019)
+      Accrued liabilities                               (3,760)     (17,310)
+                                                      ________     ________
+          Total adjustments                            (47,792)     (98,263)
+                                                      ________     ________
+          Net cash provided by operating activities       (964)      (1,633)
+                                                      ________     ________
+
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+  Proceeds from sale of equipment                                     2,500
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Capital contributions from partner                              2,691,500
+  Repayment of notes payable                                     (2,691,500)
+                                                     _________   __________
+          Net cash from financing activities                 -            -
+                                                     _________   __________
+
+
+NET INCREASE (DECREASE) IN CASH                           (964)         867
+
+CASH, Beginning of year                                  1,211          344
+                                                     _________    _________
+CASH, End of year                                   $      247   $    1,211
+                                                     =========    =========
+See notes to financial statements.
+
+                                  page 44
+<PAGE>
+
+ZONIC A&D COMPANY
+
+NOTES TO FINANCIAL STATEMENTS
+
+FOR THE YEARS ENDED MARCH 31, 1996 AND 1995
+
+1.  ORGANIZATION AND SUMMARY OF ACCOUNTING POLICIES
+
+     Organization - In October 1988, Zonic Corporation (an Ohio corporation 
+hereafter referred to as Zonic) and A&D Engineering, Inc. (a California 
+corporation), which is an affiliate of A&D Company, Limited of Tokyo, Japan 
+(hereafter referred to as A&D), formed an Ohio partnership called Zonic A&D 
+Company (the Partnership). This partnership is a sales and marketing joint 
+venture, the purpose of which is to market Zonic products and A&D spectrum 
+analysis instruments in North and South America.  These products consist 
+primarily of data acquisition, analysis and computer graphics systems.  Zonic 
+and A&D Engineering, Inc. each have a 50% ownership in the Partnership which 
+is based on a one year automatically renewable agreement unless terminated 
+six months in advance of the renewal date.
+
+     Demonstration Equipment - Demonstration equipment includes inventory 
+items in the custody of salesmen or potential customers and is stated at the 
+lower of cost or market.  Cost is determined principally by the specific 
+identification method.  The cost of demonstration equipment is amortized over 
+a five-year period.  Amortization stops at the time the unit is sold.
+
+     Use of Estimates - Preparation of the financial statements requires the 
+use of estimates, none of which have a material effect on the financial 
+statements.
+
+     Depreciation - Provisions for depreciation of property and equipment are 
+computed over the estimated useful lives of the assets, using the straight-
+line method.
+
+     Income Taxes - Zonic A&D Company is a partnership.  As such, income 
+taxes are the responsibility of the individual partners and, accordingly, are 
+not reflected in the financial statements.
+
+     Fair Value of Financial Instruments has not been provided for partners 
+accounts payable as it is not practicable to estimate such fair value as such 
+instrument is being transacted with related parties.  The Company has not 
+recently secured debt from unrelated parties and accordingly cannot estimate, 
+with reasonable certainty, the market rate available to the Company or even 
+if market debt would be provided at all.  All other financial instruments are 
+carried at an amount approximating their fair value.
+
+2.  CONTRIBUTION OF CAPITAL
+
+     On September 30, 1994 A&D Engineering Inc. forgave the Partnership's 
+note payable of $110,000 and contributed additional capital of $2,691,500.  
+The contribution was used by the Partnership to repay a note payable to A&D.  
+The forgiveness of the note payable was recorded as a capital contribution.  
+As part of this transaction, A&D also agreed to forgive accrued interest of 
+$309,074.  The forgiveness of this liability was also recorded as a capital 
+contribution.  Additionally, Zonic made a capital contribution of $652,432 in 
+the form of forgiveness of the notes payable of $590,000 and accrued interest 
+of $62,432.
+
+                                 page 45
+<PAGE>
+3.  NOTES PAYABLE
+
+     As described in Note 2, all notes payable were repaid or forgiven as of 
+March 31, 1995.
+
+     While outstanding, the notes payable to A&D and Zonic accrued interest 
+at a rate of 4% per year, while the note payable to A&D Engineering, Inc. 
+accrued interest at 8% per year.  In accordance with the partnership 
+agreement, the interest is payable upon termination of the partnership.  
+During 1996 and 1995, interest expense related to all notes payable was 
+waived.  In addition, interest accrued related to the notes payable to A&D 
+and Zonic was forgiven in 1995. The partners have not committed to make any 
+additional loans or advances.
+
+4.  RELATED PARTY TRANSACTIONS
+
+     As described in Note 1, the Partnership sells only Zonic and A&D 
+products.  The partnership agreement requires that all products sold by this 
+Partnership be purchased from Zonic.  In addition, the Partnership 
+occasionally purchases equipment from Zonic for demonstration purposes.  
+There were no purchases of demonstration equipment in 1996 or 1995.
+
+     The Partnership earns commissions from Zonic equal to 20.0% (23.5% in 
+1994) of the Partnership's purchases of Zonic and A&D products provided the 
+sale carries a minimum gross margin dependent upon product.  All commissions 
+are reduced in direct proportion to the respective gross margins when they 
+are less than the minimum gross margins.  The Partnership earned commission 
+income of $353,346 and $545,932 in 1996 and 1995, respectively.
+
+     The partnership agreement also requires the Partnership to pay Zonic a 
+management fee for its administrative and consulting services.  The 
+management fee was waived for 1996 and 1995.
+
+     The partnership agreement permits Zonic and A&D Engineering, Inc. to 
+charge the Partnership both direct expenses and an allocation of their 
+selling and administrative expenses.  Both partners waived these charges for 
+1996 and 1995.
+
+     Zonic provides office space to the Partnership at no cost.
+
+     The Partnership had the following amounts due to related parties at 
+March 31:
+
+                                                     1996            1995
+                                                     ____            ____
+
+Accounts payable                              $   471,375     $   529,548
+Accrued interest payable                           13,684          13,684  
+
+                                 page 46
+<PAGE>
+
+5.  GOING CONCERN
+
+     The accompanying financial statements have been prepared on a going 
+concern basis, which contemplates the realization of assets and satisfaction 
+of liabilities in the normal course of business  The Partnership's 
+liabilities exceed its assets and cash flows are dependent upon Zonic.  
+Therefore, the Partnership's continuation is dependent upon Zonic's ability 
+to generate sufficient cash flow to meet it's obligations to the Partnership 
+and others on a timely basis or to obtain additional financing from outside 
+sources.  The financial statements do not include any adjustments relating to 
+the recoverability and classification of recorded asset amounts or the amount 
+and classification of liabilities that might be necessary should the 
+Partnership be unable to continue.  In 1995, Zonic assumed responsibility for 
+the sales management and marketing areas at no additional cost to the 
+Partnership.  Management is of the opinion that Zonic will continue to meet 
+its obligations and sustain operations from cash flows from increased sales 
+and reduced operating costs.
+
+6.  RETIREMENT PLAN
+
+     All employees of the Partnership are covered by a defined contribution 
+plan sponsored by Zonic (the Sponsor).  Such plan is an employee savings and 
+investment retirement plan qualified under Sections 401(a) and 401(k) of the 
+Internal Revenue Code.  The plan covers all employees of the Company age 18 
+and over who have completed three months of service and are scheduled to work 
+1,000 hours or more during the plan year.
+
+     The Partnership is required to make a contribution equal to 30 percent 
+of the voluntary 401(k) contribution of all participants up to a maximum of 
+5% of each employee's salary.  One half of this contribution may be made in 
+the Sponsor's stock at the discretion of the Sponsor's Board of Directors.  
+The Partnership expensed $1,262 and $1,008 for 1996 and 1995, respectively.
+
+     In any plan year, a supplemental contribution may be made if the Sponsor 
+has a net after tax profit of more than 5% of sales.  No such contributions 
+were made in 1996 or 1995.
+
+7.  STATEMENTS OF CASH FLOWS
+
+     The Partnership offset accounts payable with accounts receivable from a 
+related party in the amount of $353,346 and $545,932 at March 31, 1996 and 
+1995, respectively.
+
+     During 1996 and 1995, Zonic purchased receivables of the Partnership 
+without recourse amounting to $ 1,903,227 and $3,090,143.  In consideration 
+for the purchases of these receivables an equivalent amount of accounts 
+payable to Zonic were forgiven.
+
+     During 1996, the Partnership transferred certain equipment and 
+demonstration equipment with a net book value of $2,240 to a third party in 
+exchange for settlement of $13,030 in commissions due.
+
+     In 1995, notes payable to partners totaling $700,000 and accrued 
+interest totaling $371,506 were forgiven and recorded as capital 
+contributions to the Partnership.
+
+                                 page 47
+<PAGE>
+
+
+          (3)  Exhibits Required by Item 601 of Regulation S-K:
+
+               (3)(i)  The Company's Amended and Restated Articles of 
+                       Incorporation incorporated by reference to Exhibit 
+                       14(a)(3)(3)(i) of the Form 10-K filed by the Company
+                       for the fiscal year ended March 31, 1993.
+
+                 (ii)  Code of Regulations of the Company incorporated by 
+                       reference to Exhibit (b) to Registration Statement of 
+                       Company which became effective under the Securities 
+                       Act of 1933 on July 2, 1981, (File No. 2-72450C) "the
+                       Registration Statement".
+                      
+                (iii)  Amendment to the Company's Code of Regulations Article 
+                       II Section 1 as adopted by the stockholders on 
+                       August 8, 1986 incorporated by reference to
+                       Exhibit 14(a)(3)(iv) of the Form 10-K filed by the
+                       Company for fiscal year ended March 31, 1987.
+
+              (4) (i)  Specimen Common Share Certificate incorporated by 
+                       reference to Exhibit 3(e) to the Registration       
+                       Statement.
+                
+                 (ii)  1989 Stock Option Plan incorporated by reference to 
+                       Exhibit 14(a)(3)(4)(xii) of Form 10-K filed by the 
+                       Company for the fiscal year ended March 31, 1990.
+                                      
+                (iii)  1991 Executive Stock Option Plan incorporated by 
+                       reference to Exhibit 14 (a)(3)(4)(ix) of Form 10-K 
+                       filed by the Company for the fiscal year
+                       ended March 31, 1991.
+
+              (10)(i)  Partnership Agreement, dated October 7, 1988, between 
+                       the Company, A&D Co., Ltd. and A&D Engineering, Inc. 
+                       incorporated by reference to Exhibit 14(a)(3)(10)(v)
+                       of the Form 10-K filed by the Company for the fiscal
+                       year ended March 31, 1989.
+
+                 (ii)  Distributorship Agreement, dated October 7, 1988, 
+                       between the Company and A&D Co., Ltd. incorporated by 
+                       reference to Exhibit 14(a)(3)(10)(vi) of the Form 10-K 
+                       filed by the Company for the fiscal year ended 
+                       March 31, 1989.
+
+                (iii)  Distributorship Agreement, dated October 7, 1988, 
+                       between the Company and Zonic-A&D Company incorporated 
+                       by reference to Exhibit 14(a)(3)(10)(vii) of the Form 
+                       10-K filed by the Company for the fiscal year ended 
+                       March 31, 1989.
+
+                 (iv)  Sales Promotional Fee Contract, dated October 7, 1988, 
+                       between the Company and A&D Co., Ltd. incorporated by 
+                       reference to Exhibit 14(a)(3)(10)(viii) of the 
+                       Form 10-K filed by the Company for the fiscal year
+                       ended March 31, 1989.
+
+                                 page 48
+<PAGE>
+
+
+                  (v)  Distribution Agreement, dated February 26, 1988, 
+                       between the Company and A&D Co., Ltd. incorporated by
+                       reference to Exhibit 14 (a)(3)(10)(viii) of the
+                       Form 10-K filed by the Company for the fiscal year
+                       ended March 31, 1990.
+
+                 (vi)  Shareholder Agreement, dated February 21, 1991, 
+                       between the Company and A&D Co., Ltd. with respect
+                       to Zonic A&D Ltd. incorporated by reference to
+                       Exhibit 14 (a) (3) (10)(ix) of the Form 10-K filed
+                       by the Company for the fiscal year ended 
+                       March 31, 1991.
+
+                (vii)  Distribution Agreement, dated February 21, 1991, 
+                       between the Company and A&D Co., Ltd. incorporated
+                       by reference to Exhibit 14 (a)(3)(10)(x) of the
+                       Form 10-K filed by the Company for the fiscal year
+                       ended March 31, 1991.
+
+               (viii)  Amended and Restated Distribution Agreement, dated 
+                       March 1, 1992, between the Company and Zonic A&D Ltd.
+                       incorporated by reference to Exhibit 14(a)(3)(10)(xi) 
+                       of the Form 10-K filed by the Company for the fiscal 
+                       year ended March 31, 1992.
+
+                 (ix)  Termination Agreement, dated March 31, 1992, between 
+                       the Company and A&D Co., Ltd. incorporated by 
+                       reference to Exhibit 14(a)(3)(10)(xii) of the 
+                       Form 10-K filed by the Company for the fiscal year 
+                       ended March 31, 1992.
+
+                  (x)  Value Added Reseller U.S. Sales Agreement, dated 
+                       October 10, 1991, between the Company and Apple
+                       Computer, Inc. incorporated by reference to
+                       Exhibit 14(a)(3)(10)(xiii) of the Form 10-K filed
+                       by the Company for the fiscal year ended 
+                       March 31, 1992.
+
+                 (xi)  Credit Agreement, dated December 7, 1992, between
+                       the Company and A&D Co., Ltd. incorporated by
+                       reference to Exhibit 10.1 of the Form 8-K dated 
+                       December 7, 1992 filed by the Company.
+
+                (xii)  Non-Qualified Stock Option granted to A&D Co., Ltd. 
+                       dated December 7, 1992 incorporated by reference to 
+                       Exhibit 10.2 of the Form 8-K dated December 7, 1992 
+                       filed by the Company.
+
+               (xiii)  Control Agreement, dated December 7, 1992, between 
+                       the Company and A&D Co., Ltd. incorporated by
+                       reference to Exhibit 10.3 of the Form 8-K dated
+                       December 7, 1992 filed by the Company.
+
+                                 page 49
+<PAGE>
+
+                (xiv)  Services Agreement, dated December 7, 1992, between 
+                       the Company and A&D Co., Ltd. incorporated by 
+                       reference to Exhibit 10.5 of the Form 8-K dated
+                       December 7, 1992 filed by the Company.
+
+                 (xv)  First Lease Amendment, dated September 1, 1993, 
+                       between the Company and Duke Associates No. 55
+                       Limited Partnership for the premises located at 
+                       Park 50 TechneCenter, 50 W. TechneCenter Drive,
+                       Milford, Ohio incorporated by reference to
+                       Exhibit 14(a)(3)(10)(xvii) of the Form 10-K filed by 
+                       the Company for the fiscal year ended March 31, 1994.
+
+                (xvi)  Warrant, dated September 1, 1993, between the Company 
+                       and Duke Associates No. 55 Limited Partnership 
+                       incorporated by reference to Exhibit 
+                       14(a)(3)(10)(xviii) of the Form 10-K filed by the 
+                       Company for the fiscal year ended March 31, 1994.
+
+               (xvii)  Amendment to Partnership Agreement, dated May 31, 
+                       1990, between the Company, A&D Engineering, Inc.
+                       and A&D Co., Ltd. incorporated by reference
+                       to Exhibit (10)(xvii) of the Form 10-K filed by the
+                       Company for the fiscal year ended March 31, 1995.
+
+              (xviii)  Second Amendment to the Partnership Agreement, dated 
+                       September 30, 1994, between the Company and A&D 
+                       Engineering, Inc. incorporated by reference to Exhibit 
+                       (10)(xviii) of the Form 10-K filed by the Company for 
+                       the fiscal year ended March 31, 1995.
+
+                (xix)  Capital Contribution Agreement, dated September 30, 
+                       1994, between the Company, A&D Engineering, Inc.,
+                       Zonic A&D Company and A&D Co., Ltd. incorporated by
+                       reference to Exhibit (10)(xviv) of the Form 10-K filed
+                       by the Company for the fiscal year ended 
+                       March 31, 1995.
+
+                 (xx)  Warrant, dated March 16, 1995, between the Company and 
+                       Star Bank, National Association, issued in connection 
+                       with the discharge in full of the Company's Star Bank 
+                       indebtedness incorporated by reference to Exhibit 
+                       (10)(xx) of the Form 10-K filed by the Company for the 
+                       fiscal year ended March 31, 1995.
+
+                (xxi)  WCA Rights Sale Agreement, dated June 30, 1995, 
+                       between A&D Company, Ltd. and the Company incorporated
+                       by reference to Exhibit 2.1 of the Form 8-K dated
+                       June 30, 1995 filed by the Company.
+
+               (xxii)  Amendment to Credit agreement, dated June 30, 1995, 
+                       between the Company and A&D Company, Ltd. incorporated 
+                       by reference to Exhibit 2.2 of the Form 8-K dated June 
+                       30, 1995 filed by the Company.
+
+                                 page 50
+<PAGE>
+
+              (xxiii)  Amendment to Distribution Agreement, dated June 30, 
+                       1995, between the Company and A&D Company, Ltd. 
+                       incorporated by reference to Exhibit 2.3 of the 
+                       Form 8-K dated June 30, 1995 filed by the Company.
+
+               (xxiv)  WCA Software Source Agreement, dated June 30, 1995, 
+                       between A&D Company, Ltd. and the Company incorporated 
+                       by reference to Exhibit 2.4 of the Form 8-K dated June 
+                       30, 1995 filed by the Company.
+
+               (xxv)   WCA Manufacturing Agreement, dated June 30, 1995, 
+                       between A&D Company, Ltd. and the Company incorporated 
+                       by reference to Exhibit 2.5 of the Form 8-K dated June 
+                       30, 1995 filed by the Company.
+
+               (xxvi)  OEM Distribution and Confidentiality Agreement, dated 
+                       February 12, 1996, between Spectral Dynamics, Inc. and 
+                       the Company.
+
+            (22)  The only subsidiaries of the Company are TechneCenter 
+                  Limited, a United Kingdom corporation and Zonic A&D Ltd., a 
+                  United Kingdom corporation.  The Company also has an 
+                  ownership interest in Zonic A&D Company, an Ohio general 
+                  partnership.
+
+       (b)  Reports on Form 8-K.
+            None.
+
+       (c)  Exhibits.
+            See subparagraph (a) above.
+
+       (d)  Financial Statement Schedules.
+            None, except as set forth under Item 14(a)(2)
+            above.
+
+                                 page 51
+<PAGE>
+
+                         OEM Distribution
+                               and 
+                     Confidentiality Agreement
+
+     This Agreement is made and entered into as of this February 12, 1996 by 
+and between Spectral Dynamics, Inc., a California company with principal 
+offices at 1983 Concourse Drive, San Jose, California, hereinafter referred 
+to as "Spectral", and Zonic Corporation, an Ohio Corporation with principal 
+office at 50 West TechneCenter Drive Milford, Ohio, hereinafter referred to 
+as "Zonic".
+
+     WHEREAS, Zonic is a manufacturer of data acquisition and digital signal 
+processing equipment and engaged in the business of supplying such products 
+for use in structural analysis applications; and,
+     WHEREAS, Spectral is a manufacturer of shaker control equipment, related 
+software products and general signal analysis and modal analysis software and 
+engaged in the business of supplying such products for use in structural 
+analysis applications; and,
+     WHEREAS, the parties desire that Spectral market and distribute Zonic 
+manufactured equipment.
+     NOW, THEREFORE, the parties agree as follows:
+      1. Zonic agrees to sell to Spectral those Zonic products identified as 
+Exhibit "A" at the prices therein listed.
+
+      2. Spectral agrees purchase from Zonic the materials identified Exhibit 
+A and incorporate the purchased products into systems for resale to 
+Spectral's customers. 
+
+      3. Zonic warrants that products manufactured by Zonic and sold to 
+Spectral under this agreement will be free from defects in material and 
+workmanship for one year from date of shipment from Zonic's facility.  Zonic 
+will repair or replace, at Zonic's option and without charge, any product 
+which fails to satisfy this warranty.  Claims against this warranty must be 
+made in writing and the defective material returned to Zonic, prepaid and 
+insured.  Zonic will return ship EX-WORKS after repair.
+
+    In no event shall Zonic be liable to Spectral nor Spectral's end customer 
+for any incidental or consequential damages, including without limitation any 
+loss, damage, claim, liability or expense, of any kind or nature, caused 
+directly or indirectly by the furnishing of service or materials pursuant to 
+this Agreement, or by any interruption of service, or loss of use thereof or 
+for any loss of business or damage to Spectral whatsoever and howsoever 
+caused.
+
+      4. Zonic agrees to provide reasonable amounts of technical and product 
+training to Spectral's designated representatives at Zonic's facility.
+
+      5. Zonic agrees to provide reasonable amounts of demonstration 
+materials to Spectral under terms to be mutually agreed upon by the parties.
+
+      6. The parties agree that additional products developed by Zonic may be 
+added to Exhibit "A" from time to time by mutual consent and such additions 
+shall be considered amendments to this agreement.
+
+                                 page 52
+<PAGE>
+
+      7. The parties agree to cooperate in the identification and development 
+of new products and enter into development agreements by mutual consent.
+
+      8. This agreement is nonexclusive and the parties retain their rights 
+to secure similar distribution agreements with others as they deem 
+appropriate. 
+
+      9. All information in any form transferred by Zonic to Spectral related 
+to product design, product plans, marketing plans, or other business matters 
+will be considered proprietary information and will be provided on the 
+condition that it be retained in confidence and not disclosed to any third 
+party without the written consent of Zonic.  Product specifications, 
+operating information, performance characterizations and other information 
+published and made available by Zonic to the general public shall not be 
+considered confidential information as defined herein.
+
+     10. All information in any form transferred by Spectral to Zonic related 
+to product design, product plans, marketing plans, or other business mattress 
+will be considered proprietary information and will be provided on the 
+condition that it be retained in confidence and not disclosed to any third 
+party without the written consent of Spectral.  Product specifications, 
+operating information, performance characterizations and other information 
+published and made available by Spectral to the general public shall not be 
+considered confidential information as defined herein.
+
+     11. Either party may terminate this Agreement by providing the other 
+party 60 days notice of their intention to terminate the agreement except 
+that the confidentially provisions as described in Articles 9 and 10 of this 
+Agreement shall be binding on the parties for five (5) years after 
+termination of this Agreement.  Notice shall be considered to have been given 
+upon delivery of such notice in writing by registered mail
+
+     12. This Agreement, including all Exhibits referenced herein, 
+constitutes the entire agreement between the parties with respect to the 
+subject matter and supersedes any and all previous agreements, 
+representations, and understandings, either oral or written between the 
+parties.  This Agreement shall be modified only by an instrument in writing 
+and signed by the duly authorized representatives of the parties
+
+     13. This Agreement will be governed and construed in accordance with the 
+laws of the State of Ohio.
+
+Spectral Dynamics                  Zonic Corporation
+
+
+by: / s /  Stewart Slykhous        by:  / s / James B. Webb
+___________________________        ________________________
+Stewart Slykhous                   James B. Webb
+President                          President
+
+                                 page 53
+<PAGE>
+
+                                 SIGNATURES
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities 
+Exchange Act of 1934, the registrant has duly caused this report to be signed 
+on its behalf by the undersigned, thereunto duly authorized.
+
+ZONIC CORPORATION
+
+
+By: \ s \ James B. Webb                                 
+   James B. Webb, President
+
+Date:  June 28, 1996     
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934 
+this report has been signed below by the following persons on behalf of the 
+registrant and in the capacities and on the dates indicated.
+
+
+By: \ s \ James B. Webb                                 
+   James B. Webb, President, Treasurer
+   Principal Executive Officer,
+   and Director
+
+Date:  June 28, 1996     
+
+
+
+By: \ s \ John H. Reifschneider                                 
+   John H. Reifschneider, Controller
+   
+Date:  June 28, 1996
+
+
+
+By: \ s \ Shoiche Sekine                                 
+   Shoiche Sekine, Executive Vice-
+   President and Director
+
+Date:  June 19, 1996
+
+
+
+By: \ s \ Gerald J. Zobrist                                  
+   Gerald J. Zobrist, Director
+
+Date:  June 19, 1996
+
+                                 page 54
+<PAGE>
+
+                          EXHIBIT INDEX
+
+Exhibit No.    Name of Exhibit
+
+(3)(I)         Amended and Restated Articles of Incorporation (incorporated
+               by reference)
+
+(3)(ii)        Code of Regulations (incorporated by reference).
+
+(3)(iii)       Amendment to Article II Section 1 of the Company's Code of   
+               Regulations (incorporated by reference).
+
+(4)(I)         Specimen Common Share Certificate (incorporated by reference).
+
+(4)(ii)        1989 Stock Option Plan (incorporated by reference).
+
+(4)(iii)       1991 Executive Stock Option Plan (incorporated by reference).
+
+(10)(I)        Partnership Agreement, dated October 7, 1988 between the
+               Company, A&D Co., Ltd. and A&D Engineering, Inc. (incorporated
+               by reference).
+
+(10)(ii)       Distributorship Agreement, dated October 7, 1988, between
+               the Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(iii)      Distributorship Agreement, dated October 7, 1988, between
+               the Company and Zonic-A&D Company (incorporated by reference).
+
+(10)(iv)       Sales Promotional Fee Contract, dated October 7, 1988, between
+               the Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(v)        Distribution Agreement, dated February 26, 1988, between the
+               Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(vi)       Shareholder Agreement, dated February 21, 1991, between the 
+               Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(vii)      Distribution Agreement, dated February 21, 1991, between the 
+               Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(viii)     Amended and Restated Distribution Agreement, dated March 1, 
+               1992, between the Company and Zonic A&D Ltd. (incorporated by 
+               reference).
+
+(10)(ix)       Termination Agreement, dated March 31, 1992, between the
+               Company and A&D Co., Ltd. (incorporated by reference).
+
+(10)(x)        Value Added Reseller U.S. Sales Agreement, dated October 10, 
+               1991, between the Company and Apple Computer, Inc.
+               (incorporated by reference).
+
+(10)(xi)       Credit Agreement, dated December 7, 1992, between the Company 
+               and A&D Co., Ltd. (incorporated by reference).
+
+(10)(xii)      Non-Qualified Stock Option granted to A&D Co., Ltd. dated 
+               December 7, 1992 (incorporated by reference).
+
+                                 page 55
+<PAGE>
+
+(10)(xiii)     Control Agreement, dated December 7, 1992, between the Company 
+               and A&D Co., Ltd. (incorporated by reference).
+
+(10)(xiv)      Services Agreement, dated December 7, 1992, between the
+               Company and A&D Co., Ltd.(incorporated by reference).
+
+(10)(xv)       First Lease Amendment, dated September 1, 1993, between the
+               Company and Duke Associates No. 55 Limited Partnership for the 
+               premises located at Park 50 TechneCenter, 50 W. TechneCenter 
+               Drive, Milford, Ohio (incorporated by reference).
+
+(10)(xvi)      Warrant, dated September 1, 1993, between the Company and Duke 
+               Associates No. 55 Limited Partnership (incorporated by 
+               reference).
+
+(10)(xvii)     Amendment to Partnership Agreement, dated May 31, 1990,
+               between the Company, A&D Engineering, Inc. and A&D Co., Ltd. 
+               (incorporated by reference).
+
+(10)(xviii)    Second Amendment to the Partnership Agreement, dated 
+               September 30, 1994, between the Company and A&D Engineering, 
+               Inc. (incorporated by reference).
+
+(10)(xix)      Capital Contribution Agreement, dated September 30, 1994, 
+               between the Company, A&D Engineering, Inc., Zonic A&D Company 
+               and A&D Co., Ltd. (incorporated by reference).
+
+(10)(xx)       Warrant, dated March 16, 1995, between the Company and Star 
+               Bank, National Association, issued in connection with the 
+               discharge infull of the Company's Star Bank indebtedness.  
+               (incorporated by reference).
+
+(10)(xxi)      WCA Rights Sale Agreement, dated June 30, 1995, between A&D 
+               Company, Ltd. and the Company.  (incorporated by reference).
+
+(10)(xxii)     Amendment to Credit agreement, dated June 30, 1995, between
+               the Company and A&D Company, Ltd. (incorporated by reference).
+
+(10)(xxiii)    Amendment to Distribution Agreement, dated June 30, 1995, 
+               between the Company and A&D Company, Ltd.(incorporated by 
+               reference).
+
+(10)(xxiv)     WCA Software Source Agreement, dated June 30, 1995, between 
+               A&D Company, Ltd. and the Company. (incorporated by 
+               reference).
+
+(10)(xxv)      WCA Manufacturing Agreement, dated June 30, 1995, between A&D 
+               Company, Ltd. and the Company.  (incorporated by reference).
+
+(10)(xxvi)     OEM Distribution and Confidentiality Agreement, dated 
+               February 12, 1996, between Spectral Dynamics, Inc. and
+               the Company.
+
+                                 page 56
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THE SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM FORM
+10-K FOR THE YEAR ENDED MARCH 31, 1996 AND IS QUALIFIED IN ITS ENTIRITY BY
+REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          MAR-31-1996
+<PERIOD-END>                               MAR-31-1996
+<CASH>                                          28,951
+<SECURITIES>                                         0
+<RECEIVABLES>                                1,104,781
+<ALLOWANCES>                                    70,901
+<INVENTORY>                                    708,917
+<CURRENT-ASSETS>                             1,775,581
+<PP&E>                                       8,772,452
+<DEPRECIATION>                               7,305,267
+<TOTAL-ASSETS>                               3,242,766
+<CURRENT-LIABILITIES>                        3,742,055
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        61,674
+<OTHER-SE>                                 (4,924,093)
+<TOTAL-LIABILITY-AND-EQUITY>                 3,242,766
+<SALES>                                      3,639,982
+<TOTAL-REVENUES>                             3,639,982
+<CGS>                                        1,882,848
+<TOTAL-COSTS>                                2,831,513
+<OTHER-EXPENSES>                           (1,548,378)<F1>
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             483,968
+<INCOME-PRETAX>                                (9,969)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                            (9,969)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                397,275
+<CHANGES>                                            0
+<NET-INCOME>                                   387,306
+<EPS-PRIMARY>                                      .13
+<EPS-DILUTED>                                      .13
+<FN>
+<F1>INCLUDES GAIN FROM SALE OF ASSET OF $1,417,027 AND FOREIGN CURRENCY GAIN
+OF $131,351.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

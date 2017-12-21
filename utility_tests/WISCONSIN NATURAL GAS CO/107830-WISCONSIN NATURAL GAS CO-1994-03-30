@@ -1,0 +1,2323 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ qxDvGg0WjooEfYymUquqRVpoBij3Rh8eTlLUzPDL9fWD71A7SfnkvDkTOGNe4KFl
+ itlvbtDvqa41dk5fBgKIxQ==
+
+<IMS-DOCUMENT>0000107815-94-000008.txt : 19940404
+<IMS-HEADER>0000107815-94-000008.hdr.sgml : 19940404
+ACCESSION NUMBER:		0000107815-94-000008
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WISCONSIN NATURAL GAS CO
+		CENTRAL INDEX KEY:			0000107830
+		STANDARD INDUSTRIAL CLASSIFICATION:	4922
+		IRS NUMBER:				390713260
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-20369
+		FILM NUMBER:		94519278
+
+	BUSINESS ADDRESS:	
+		STREET 1:		231 W MICHIGAN ST
+		STREET 2:		PO BOX 2046
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53201
+		BUSINESS PHONE:		4142772590
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RACINE GAS LIGHT CO
+		DATE OF NAME CHANGE:	19670831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WISCONSIN GAS & ELECTRIC CO
+		DATE OF NAME CHANGE:	19660919
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>WISCONSIN NATURAL GAS COMPANY
+<TEXT>
+
+<PAGE> 1
+<TABLE>
+<S> <C>
+                                         SECURITIES AND EXCHANGE COMMISSION
+                                               WASHINGTON, D. C. 20549
+
+                                                      FORM 10-K
+
+                      X             ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                    -----              OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                      For the Fiscal Year Ended December 31, 1993
+
+                                            Commission file number 2-2066
+
+                                                    ------------
+                                           WISCONSIN NATURAL GAS COMPANY
+                               (Exact name of registrant as specified in its charter) 
+
+                                Wisconsin                                 39-0713260
+                      (State or other jurisdiction of        (I.R.S. Employer Identification No.)
+                       incorporation or organization)
+
+                      231 West Michigan Street, P.O. Box 2046, Milwaukee, Wisconsin      53201
+                                (Address of principal executive offices)               (Zip Code)
+
+                                                   (414) 221-2590
+                                (Registrant's telephone number, including area code)
+                                                    ------------
+
+    Securities Registered Pursuant to Section 12(b) of the Act:
+                                                                                      Name of Each Exchange
+                   Title of Each Class                                                 on which Registered
+        -----------------------------------------                                     ---------------------
+                          None                                                                 --
+
+    Securities Registered Pursuant to Section 12(g) of the Act:
+
+                                                        NONE
+                                                  (Title of Class)
+                                                    ------------
+
+    Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section
+    13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter
+    period that the Registrant was required to file such reports), and (2) has been subject to such filing
+    requirements for the past 90 days.   Yes   X    No
+                                             -----     -----
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not
+    contained herein, and will not be contained, to the best of Registrant's knowledge, in definitive proxy
+    or information statements incorporated by reference in Part III of this Form 10-K or any amendment to
+    this Form 10-K.  (Not applicable; no Section 12 registered securities.)    X      
+                                                                            ------- 
+
+                                                    ------------
+
+    Indicate the number of shares outstanding of each of the Registrant's classes of common stock, as of the
+    latest practicable date.
+
+                                  Class                          Outstanding at March 1, 1994
+                                  -----                          ----------------------------
+                        COMMON STOCK, $1 PAR VALUE                      1,725,000 Shares     
+
+    The Registrant meets the conditions set forth in General Instruction J(1)(a) and (b)
+    of Form 10-K and is therefore filing this Form with the reduced disclosure format.
+
+
+                                       Documents Incorporated by Reference
+                                       -----------------------------------
+                                                       None
+
+
+</TABLE>
+<PAGE> 2
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+       FORM 10-K ANNUAL REPORT TO THE SECURITIES AND EXCHANGE COMMISSION
+                      FOR THE YEAR ENDED DECEMBER 31, 1993              
+       -----------------------------------------------------------------
+
+                               TABLE OF CONTENTS
+                               -----------------
+
+ITEM                                                                  PAGE
+- ----                                                                  ----
+                                    PART I
+                                    ------
+  1.      Business . . . . . . . . . . . . . . . . . . . . . . . . .    3
+  2.      Properties . . . . . . . . . . . . . . . . . . . . . . . .    6
+  3.      Legal Proceedings  . . . . . . . . . . . . . . . . . . . .    6
+  4.      Submission of Matters to a Vote of Security Holders  . . .    7
+
+
+                                    PART II
+                                    -------
+  5.      Market for Registrant's Common Equity
+               and Related Stockholder Matters . . . . . . . . . . .    8
+  6.      Selected Financial Data  . . . . . . . . . . . . . . . . .    8
+  7.      Management's Discussion and Analysis of Financial
+               Condition and Results of Operations . . . . . . . . .    8
+  8.      Financial Statements and Supplementary Data  . . . . . . .   11
+          Report of Independent Accountants  . . . . . . . . . . . .   24
+  9.      Changes in and Disagreements with Accountants
+               on Accounting and Financial Disclosure  . . . . . . .   25
+
+
+                                   PART III
+                                   --------
+ 10.      Directors and Executive Officers of the Registrant . . . .   25
+ 11.      Executive Compensation . . . . . . . . . . . . . . . . . .   25
+ 12.      Security Ownership of Certain Beneficial Owners and
+               Management  . . . . . . . . . . . . . . . . . . . . .   25
+ 13.      Certain Relationships and Related Transactions . . . . . .   25
+
+
+                                    PART IV
+                                    -------
+ 14.      Exhibits, Financial Statement Schedules, and
+               Reports on Form 8-K . . . . . . . . . . . . . . . . .   25
+          Consent of Independent Accountants . . . . . . . . . . . .   33
+          Signatures . . . . . . . . . . . . . . . . . . . . . . . .   34
+
+
+
+
+
+
+
+
+
+
+
+
+                                     - 2 -
+<PAGE> 3
+
+                                    PART I
+
+ITEM 1.  BUSINESS
+
+Wisconsin Natural Gas Company ("Wisconsin Natural" or "company"), incorporated
+in the State of Wisconsin in 1866, is a wholly-owned subsidiary of Wisconsin
+Energy Corporation ("Wisconsin Energy") and is an affiliated company to
+Wisconsin Electric Power Company ("Wisconsin Electric"), the electric utility
+subsidiary of Wisconsin Energy.
+
+Wisconsin Natural's operations are presently limited to a single business: the
+purchase, distribution and sale of natural gas to retail customers and
+transportation of customer-owned gas in its three distinct service areas in
+Wisconsin: west and south of the City of Milwaukee; the Appleton area and the
+Prairie du Chien area.  The gas service territory has an estimated population
+of over 1,000,000. There were 287,732 customers at December 31, 1993, an
+increase of 2.9 percent since December 31, 1992.
+
+Effective January 1, 1994, Wisconsin Southern Gas Company, Inc. ("Wisconsin
+Southern") was acquired by Wisconsin Energy through a merger of Wisconsin
+Southern into Wisconsin Natural.  In the transaction, all outstanding shares
+of Wisconsin Southern common stock were converted into 1,637,935 shares of
+Wisconsin Energy common stock.  An order approving the merger was issued by
+the PSCW on December 7, 1993.  Wisconsin Natural will continue to use the
+acquired facilities of Wisconsin Southern for the distribution and
+transportation of natural gas.  For additional information,  see Item 7.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS.
+
+On January 24, 1994, Wisconsin Energy announced plans to merge Wisconsin
+Natural into Wisconsin Electric.  The merger, which will be subject to a
+number of conditions, including requisite regulatory and other approvals, is
+anticipated to be effective by year-end 1994.  The merger of Wisconsin Natural
+into Wisconsin Electric is expected to improve customer service and reduce
+future operating costs.
+
+
+GAS UTILITY OPERATIONS
+
+Total gas therms delivered by Wisconsin Natural, including customer-owned gas
+transported by Wisconsin Natural, increased 4.9 percent in 1993 compared to
+1992, largely reflecting colder winter weather during the first quarter of
+1993.
+
+Approximately 31 percent of total 1993 deliveries were on interruptible rates. 
+Wisconsin Natural's maximum daily send-out in 1993 was 478,425 Dths.  A
+dekatherm ("Dth") is equivalent to ten therms or one million British Thermal
+Units ("BTU").  Sales of the gas utility fluctuate with the heating cycle of
+the year and are also impacted by varying weather conditions from year-to-
+year.
+
+During 1993, ANR Pipeline Company ("ANR"), Wisconsin Natural's largest
+pipeline transporter, received approval from the FERC to implement new rates
+in compliance with FERC Order 636.  Wisconsin Natural's other pipeline
+transporters also implemented new rates based on FERC Order 636 during 1993. 
+The number of service choices now available to Wisconsin Natural has expanded,
+but the responsibility for selecting the proper mix and level of services has
+commensurately increased.
+
+
+                                     - 3 -
+<PAGE> 4
+
+ITEM 1.  BUSINESS - Gas Utility Operations (Cont'd)
+
+As a result of the restructuring of pipeline rates and services under FERC
+Order 636, Wisconsin Natural has entered into more than 20 firm gas supply
+contracts, which vary in term from less than one year to ten years, that price
+natural gas at the market rate.  Wisconsin Natural also has other pricing
+options, such as fixing future prices for varying terms, built into these
+contracts which it can exercise to manage the risk of substantial market price
+increases.  The gas from these contracts is used to meet customer requirements
+and to fill storage during the warm months and is combined with withdrawals
+from storage during the heating season to meet system gas demand.
+
+Wisconsin Natural has four firm gas storage and associated firm transportation
+agreements with ANR and Natural Gas Pipeline Company of America ("NGPL") which
+allow daily withdrawals of 256,900 Dths and an annual capacity of 20 million
+Dths.  The initial terms of these contracts vary, with the first one expiring
+in March 1996 and the last one expiring in October 2002.  This storage
+effectively replaces storage used by the pipeline companies to provide gas
+sales service to Wisconsin Natural in the pre-FERC Order 636 environment.  Gas
+stored at these facilities is purchased by Wisconsin Natural from a number of
+suppliers.
+
+Wisconsin Natural has four transportation contracts each with ANR and NGPL and
+one transportation contract with Northern Natural Pipeline Company ("Northern
+Natural").  All but three of these contracts expire in 2002 with the remaining
+contracts expiring in 1997, 2001 and 2003.  In each case, subject to certain
+provisions, Wisconsin Natural can extend the terms of these contracts at the
+time that the agreements would otherwise expire.
+
+Wisconsin Natural transports gas for its customers who purchase gas directly
+from other suppliers.  Transported gas accounted for approximately 32 percent
+of the company's total therms delivered during 1993, 34 percent during 1992
+and 35 percent during 1991.  
+
+Wisconsin Natural anticipates that because of the above mentioned
+restructuring of ANR's rates and services, some of its existing gas
+transportation customers will begin purchasing gas directly from Wisconsin
+Natural, thereby reducing the amount of customer-owned gas to be transported. 
+Since rates charged for transportation services are designed to recover the
+same margin as gas sold directly by Wisconsin Natural, no significant impact
+on operating income is expected due to this change.
+
+Wisconsin Natural is the supplier of natural gas for Wisconsin Electric's new
+Concord combustion turbine power plant which began operation in July 1993. 
+Delivery of this facility's fuel requirements is made possible by an eleven
+mile pipeline extension which was completed in 1992.
+
+Wisconsin Natural provides utility service to a diversified base of industrial
+customers.  Major industries served include the paper industry, the food
+products industry and the machinery production industry.  No single customer
+accounted for more than 2.8 percent of total gas therms sold and transported
+in 1993.
+
+
+REGULATION
+
+Wisconsin Natural is subject to the jurisdiction of the Public Service
+Commission of Wisconsin ("PSCW") as to gas rates, standards of service,
+issuance of securities, construction of new facilities, transactions with
+affiliates, billing practices and various other matters.
+                                     - 4 -
+<PAGE> 5
+
+ITEM 1.  BUSINESS - (Cont'd)
+
+RATE MATTERS
+
+See Item 3. LEGAL PROCEEDINGS - "RATE MATTERS" for a discussion of rate
+matters, including a discussion of the tariffs with respect to the adjustment
+for the cost of gas purchased for resale.
+
+
+ENERGY EFFICIENCY
+
+The management of Wisconsin Natural believes that a strong and continuing
+emphasis must be placed on energy management and efficient energy use. 
+Wisconsin Natural is continuing to develop programs to meet the identified
+needs of its customers and to assist customers and inform them about energy
+efficiency options.  This policy is regarded by Wisconsin Natural as in the
+best interests of its customers and the owners of its securities.
+
+
+ENVIRONMENTAL COMPLIANCE
+
+Environmental regulations have had no material impact on the financial
+position of Wisconsin Natural.
+
+Solid Waste Landfills
+
+Wisconsin Natural provides for the disposal of hazardous wastes through
+licensed independent contractors, but federal statutory provisions impose
+joint and several liability on the generators of waste for certain clean-up
+costs.  Remediation-related activity pertaining to specific sites is discussed
+below.
+
+Hunt's Landfill: In 1991, Wisconsin Natural was notified by the EPA that it is
+a PRP with regard to the former Hunt's Landfill (located in Racine County,
+Wisconsin).  Wisconsin Electric is also a participant in the clean-up of this
+site to avoid litigation with the PRPs.  Even though Wisconsin Electric and
+Wisconsin Natural have taken the position that they were not responsible for
+the disposal of any hazardous substances or materials at the site, both
+companies have agreed to participate in the funding as "de minimis" parties in
+the execution of a consent decree with the EPA for clean-up.  Materials
+disposed of at the site by Wisconsin Electric and Wisconsin Natural consisted
+primarily of waste paper and soil from construction sites.  The portion of
+clean-up costs assigned to Wisconsin Electric and Wisconsin Natural is
+expected to be about $20,000 in total.
+
+
+OTHER
+
+Wisconsin Natural is authorized to provide gas service in designated
+territories in the state of Wisconsin, as established by indeterminate
+permits, certificates of public convenience and necessity, or boundary
+agreements with other utilities.
+
+Research and development expenditures of Wisconsin Natural amounted to
+$144,000 in 1993, $50,000 in 1992 and $3,000 in 1991.  In addition to the
+foregoing amounts, Wisconsin Natural paid $619,000 in 1991 and $652,000 in
+1992 for support of the Gas Research Institute under a surcharge of 1.42 cents
+per Dth sold in 1991 and 1.47 cents per Dth sold in 1992.  As a result of the
+decoupling of rates and services under FERC Order 636 these surcharges are no
+longer determinable.
+
+
+
+                                     - 5 -
+<PAGE> 6
+
+ITEM 1.  BUSINESS - Other (Cont'd)
+
+At December 31, 1993, Wisconsin Natural employed 761 persons, of which 8 were
+part-time.
+
+
+ITEM 2.  PROPERTIES
+
+As of December 31, 1993, the gas distribution system of Wisconsin Natural
+includes approximately 5,315 miles of mains connected to the ANR, NGPL and
+Northern Natural pipeline transmission systems at 12 gate stations.  Wisconsin
+Natural has a liquefied natural gas storage plant which converts and stores in
+liquefied form natural gas received during periods of low consumption.  The
+liquefied natural gas storage plant has a send-out capability of 68,000 Dths
+per day.  For information regarding the former Wisconsin Southern Gas Company
+Inc., which was merged into Wisconsin Natural effective January 1, 1994, see
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS.
+
+The liquefied natural gas plant is located on land owned in fee by Wisconsin
+Natural.  The gas distribution mains and services are located, for the most
+part, in public streets and highways and on land owned by others.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+ENVIRONMENTAL MATTERS
+
+Wisconsin Natural is subject to federal, state and certain local laws and
+regulations governing the environmental aspects of its operations.  Wisconsin
+Natural believes that, with immaterial exceptions, its existing facilities are
+in compliance with applicable environmental requirements.
+
+As have other public utilities, Wisconsin Natural and/or its predecessors and
+affiliates, have operated manufactured gas plants and disposed of ash and
+other waste products from electric utility activities.  Operations at these
+manufactured gas sites ceased over 40 years ago with remediation activities
+having been conducted at certain of these sites, while other sites are
+currently being or are planned to be investigated.  Costs associated with
+remediation activities, to the extent not covered by insurance, have been
+allowed in rates for utility service.  Wisconsin Natural believes any such
+future costs will continue to be considered appropriate for inclusion in rates
+and therefore will not have a material adverse impact on its financial
+condition.
+
+Burlington Manufactured Gas Site:  As a result of the acquisition and merger
+of Wisconsin Southern into Wisconsin Natural effective January 1, 1994,
+Wisconsin Natural has assumed ownership of a manufactured gas site formerly
+operated by Wisconsin Southern in Burlington, Wisconsin.  Prior to the
+acquisition and merger, Wisconsin Southern hired an environmental engineering
+firm to perform testing at this site.  Wisconsin Southern had recorded a
+liability of $3 million for future estimated site remediation costs, based
+upon estimates that such costs may total $3-7 million in the future. 
+Wisconsin Natural believes that all associated costs incurred for remediation
+are probable for recovery in future rates based on Wisconsin Southern's
+correspondence with the PSCW and prior regulatory treatment by the PSCW. 
+Under current plans, remediation expenditures could begin during 1994.
+
+See Item 1. BUSINESS - ENVIRONMENTAL COMPLIANCE - "Solid Waste Landfills" for
+a discussion of matters related to specific solid waste landfill sites.
+
+                                     - 6 -
+<PAGE> 7
+
+ITEM 3.  LEGAL PROCEEDINGS - (Cont'd)
+
+RATE MATTERS
+
+Wisconsin Retail Gas Jurisdiction
+
+1993/1994 Rate Case: The PSCW granted an annualized rate increase of $9.2
+million, or 3.3 percent, effective September 2, 1993.  The new rates, for the
+test year ending August 31, 1994, are based on an 11.9 percent regulatory
+return on common equity, as determined for ratemaking purposes, down from the
+previously authorized return of 12.75 percent.
+
+1994/1995 Test Year:  During 1993, the PSCW announced that it will discontinue
+the practice of conducting annual rate case proceedings, replacing it with a
+new schedule which calls for future rate cases to be conducted once every two
+years.  As a result, no filing was made with respect to the 1994/1995 test
+year.
+
+Purchased Gas Adjustment Tariffs:  Sales of natural gas are subject to
+adjustment tariffs designed to pass on to gas customers increases or decreases
+in the cost of natural gas purchased for resale.
+
+
+Take-or-Pay and FERC Order 636 Transition Costs
+
+Take-or-pay costs being billed by the pipeline companies are no longer
+material.  However, as a result of FERC Order 636, pipeline companies are no
+longer in the merchant business and have begun billing transition costs, such
+as Gas Supply Realignment and stranded capacity costs, to their customers. 
+The transition costs to be billed to Wisconsin Natural are currently estimated
+to be about $10.0 million annually during 1994-1995, $7.5 million annually
+during 1996-1997 and $2.5 million each year thereafter until 2008.  These
+estimates include the components attributable to the former Wisconsin Southern
+Gas Company Inc., which was acquired by Wisconsin Energy through a merger of
+Wisconsin Southern into Wisconsin Natural effective January 1, 1994.  The PSCW
+is allowing the local gas distribution companies to pass these costs on to
+their customers through the purchased gas adjustment mechanism.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     - 7 -
+<PAGE> 8
+
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY
+         AND RELATED STOCKHOLDER MATTERS
+
+The amount of cash dividends declared on Wisconsin Natural's Common Stock
+during the two most recent fiscal years are set forth below.  Dividends were
+paid to Wisconsin Natural's sole common stockholder, Wisconsin Energy.
+
+                                                            Total
+                          Quarter                          Dividend         
+- ----------------------------------------------------------------------------
+          1992               1                           $2,121,750
+                             2                            2,121,750
+                             3                            2,121,750
+                             4                            2,121,750
+- ----------------------------------------------------------------------------
+          1993               1                           $2,121,750
+                             2                            2,121,750
+                             3                            2,121,750
+                             4                            2,121,750
+- ----------------------------------------------------------------------------
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Information required by Item 6 is omitted pursuant to General Instruction
+J(2)(a) of Form 10-K.
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS
+
+Information required by Item 7 is omitted pursuant to General Instruction
+J(2)(a) of Form 10-K and in lieu thereof Wisconsin Natural provides the
+following:
+
+Wisconsin Natural's revenues increased $41.7 million, or 17.4 percent, in 1993
+compared to 1992.  This reflects the recovery of increased purchased gas
+costs, the increase in natural gas therm deliveries made during 1993 and
+annualized retail rate increases of $4.0 million, or 1.4 percent, effective
+October 15, 1992 and $9.2 million, or 3.3 percent, effective September 2,
+1993.
+
+Total gas therms delivered by Wisconsin Natural increased 4.9 percent in 1993
+compared to 1992, largely reflecting colder winter weather during the first
+quarter of 1993.
+
+The $32 million increase in the cost of gas sold during 1993 compared to 1992
+reflects the impact of a higher average delivered cost of gas and the 8.7
+percent increase in natural gas therm sales during 1993.  Changes in the cost
+of purchased gas are reflected in rates through Wisconsin Natural's purchased
+gas adjustment clause.  For further discussion of purchased gas contracts and
+gas market purchases see Item 1. BUSINESS - "Gas Utility Operations".  
+
+
+
+
+
+                                     - 8 -
+<PAGE> 9
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS - (Cont'd)
+
+Other operation expenses were $7 million higher during 1993 compared to 1992
+reflecting an increase in postretirement benefit costs associated with the
+adoption of Statement of Accounting Standards No. 106 ("FAS No. 106") -
+Employers' Accounting for Postretirement Benefits Other Than Pensions" (see
+Note C to the Financial Statements - Benefits Other Than Pensions) and growth
+in conservation related expenses associated with improving the efficiency of
+customers' use of natural gas.
+
+Effective January 1, 1994, Wisconsin Southern Gas Company, Inc. ("Wisconsin
+Southern") was acquired by Wisconsin Energy through a merger of Wisconsin
+Southern into Wisconsin Natural.  In the transaction, structured as a tax-free
+reorganization, all outstanding shares of Wisconsin Southern common stock were
+converted into 1,637,935 shares of Wisconsin Energy common stock, with
+fractional interests paid in cash, based on an exchange ratio of 1.6330 shares
+of Wisconsin Energy common stock for each outstanding share of Wisconsin
+Southern common stock.  The merger has been structured to qualify as a pooling
+of interests for accounting and financial reporting purposes beginning in
+1994.
+
+Wisconsin Southern was a gas utility engaged in the purchase, distribution,
+transportation and sale of natural gas for residential, commercial and
+industrial consumption in a service territory contiguous to Wisconsin
+Natural's service territory located in southeastern Wisconsin.  Following the
+merger, Wisconsin Natural now serves approximately 336,000 customers and is
+Wisconsin's second largest gas distribution company.  For additional
+information, see Note M - Subsequent Events in the Notes to Financial
+Statements.
+
+In January 1992, Wisconsin Natural issued $10 million of 5-5/8% Series and $10
+million of 6-5/8% Series First Mortgage Bonds, using the proceeds to refund
+its 8-3/4% and 8-3/8% Series First Mortgage Bonds.
+
+In August 1992, Wisconsin Natural issued $25 million of 6-1/8% Debentures due
+September 1, 1997, using the proceeds to redeem $24 million of its 9-1/4%
+Series First Mortgage Bonds.  
+
+Depending on market conditions and other factors, additional debt refundings
+may occur.
+
+In December 1992, Wisconsin Natural issued $25 million of 8-1/4% Debentures
+due December 15, 2022, using the proceeds to repay short-term borrowings which
+had been incurred to finance part of the company's on-going capital
+requirements.
+
+Wisconsin Natural's parent, Wisconsin Energy, made capital contributions of
+$10 million and $7 million to Wisconsin Natural in 1993 and 1991,
+respectively, which were used to reduce short-term debt.
+
+
+Wisconsin Electric and Wisconsin Natural Revitalization
+
+In response to increasing competitive pressures in the markets for electricity
+and natural gas, Wisconsin Electric and Wisconsin Natural have developed a
+revitalization process to increase efficiencies and improve customer service.
+
+
+
+                                     - 9 -
+<PAGE> 10
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS - (Cont'd)
+
+Wisconsin Electric and Wisconsin Natural are "reengineering" and restructuring
+their organizations.  The new structures consolidate many business functions. 
+This "reengineering" and restructuring of the business systems will lead to a
+reduction in the total Wisconsin Electric/Wisconsin Natural workforce. 
+Effective in early 1994, employees have the option of choosing a voluntary
+separation package.  An early retirement option also has been offered to
+qualified employees.  As a result, it is currently estimated that Wisconsin
+Energy's utility subsidiaries will incur non-recurring reorganization charges
+aggregating between $30 to $75 million during 1994.  The portion attributable
+to Wisconsin Natural is currently estimated to be between $3 to $10 million. 
+See Note C to the Financial Statements - Benefits Other Than Pensions, for
+additional information.  It is expected that these costs will be offset,
+before the end of 1995, by the reductions in future operating costs that these
+programs will achieve. 
+
+In addition to the corporate restructuring at Wisconsin Electric and Wisconsin
+Natural, as part of this revitalization effort, Wisconsin Energy announced its
+intent to merge the two companies to form a single combined utility
+subsidiary.  The proposed merger will accomplish the goal of improved customer
+service and will also enable the reduction of operating costs.  The merger,
+which is anticipated to be effective by year-end 1994, will be subject to a
+number of conditions, including regulatory and other approvals.
+
+
+The following details the principal changes in revenues and expenses
+contributing to the decrease in net income in 1993. 
+
+                                                      Thousands of Dollars
+                                                      --------------------
+Aggregate increase in gas therm sales
+  net of increase in gas therms purchased              $ 7,812
+
+Aggregate decrease in revenue per therm sold
+  net of decrease in cost of gas per therm
+  purchased                                              1,704
+                                                      ---------
+                                                                   $ 9,516
+Increase in other operation expenses                   $(7,226)
+Decrease in maintenance                                     84 
+Increase in depreciation                                  (765)
+Increase in taxes other than income taxes                 (303)
+Increase in operating income taxes                        (412)
+Decrease in other income                                  (165)
+Increase in interest charges                              (842)
+                                                      ---------
+                                                                    (9,629)
+                                                                   -------
+Decrease in net income                                             $  (113)
+                                                                   =======
+
+
+
+
+
+
+
+
+                                    - 10 -
+<PAGE> 11
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+                   STATEMENT OF INCOME AND RETAINED EARNINGS
+                            Year Ended December 31
+
+                                                  1993      1992      1991
+                                                  ----      ----      ----
+                                                   (Thousands of Dollars)
+
+ Operating Revenues                              $281,718  $239,991  $233,120  
+
+ Operating Expenses
+   Cost of gas sold                               183,759   151,548   148,386
+   Other operation expenses                        45,611    38,385    37,402
+   Maintenance                                      5,934     6,018     6,055
+   Depreciation (Note D)                           14,511    13,746    12,699
+   Taxes other than income taxes                    4,783     4,480     3,924
+   Federal income tax (Note E)                      5,324     5,929     4,640
+   State income tax (Note E)                        1,393     1,548     1,217
+   Deferred income taxes - net (Note E)             1,062      (104)      985
+   Investment tax credit - net (Note E)              (456)     (462)     (467)
+                                                 --------  --------  --------
+        Total Operating Expenses                  261,921   221,088   214,841
+ Operating Income                                  19,797    18,903    18,279
+ Other Income and Deductions 
+   Interest income                                    336       525       491
+   Allowance for other funds used during
+     construction (Note F)                              4        32       196
+   Miscellaneous - net                                (85)      (52)      (45)
+   Federal income tax (Note E)                        (88)     (155)     (147)
+   State income tax (Note E)                          (21)      (39)      (37)
+                                                 --------  --------  --------
+        Total Other Income and Deductions             146       311       458
+
+Income Before Interest Charges                     19,943    19,214    18,737
+Interest Charges
+   Long-term debt                                   6,090     4,958     5,009
+   Other interest                                   1,348     1,654     1,742
+   Allowance for borrowed funds used during
+     construction (Note F)                             (2)      (18)     (109)
+                                                 --------  --------  --------
+        Total Interest Charges                      7,436     6,594     6,642
+                                                 --------  --------  --------
+Net Income                                         12,507    12,620    12,095
+Retained Earnings - Balance, January 1             41,214    37,081    33,473
+                                                 --------  --------  --------
+                                                   53,721    49,701    45,568
+   Cash Dividends Common Stock                     (8,487)   (8,487)   (8,487)
+                                                 --------  --------  --------
+   Balance, December 31                          $ 45,234  $ 41,214  $ 37,081
+                                                 ========  ========  ========
+
+NOTE:  Earnings and Dividends per share of common stock are not applicable 
+       because all of the company's common stock is owned by Wisconsin Energy
+       Corporation. 
+
+See Notes to Financial Statements.
+
+                                    - 11 -
+<PAGE> 12
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+                            STATEMENT OF CASH FLOWS
+                            Year Ended December 31
+
+                                                  1993      1992      1991
+                                                  ----      ----      ----
+                                                   (Thousands of Dollars)
+
+Operating Activities 
+  Net income                                    $ 12,507  $ 12,620  $ 12,095
+  Reconciliation to cash 
+    Depreciation                                  14,511    13,746    12,699
+    Deferred income taxes - net                    1,062      (104)      985
+    Investment tax credit - net                     (456)     (462)     (467)
+    Allowance for other funds used
+       during construction                            (4)      (32)     (196)
+    Change in   Accounts receivable               (2,607)    1,636    (6,213) 
+                Inventories                      (25,034)   (3,061)   (6,862)
+                Accounts payable                  (3,875)    5,059    (6,652)
+                Other current assets              (2,695)   (2,934)    3,829  
+                Other current liabilities          3,347    (3,147)     (584)
+    Other                                            576       781      (267)
+                                                 -------   -------   -------
+Cash Provided by (Used in) Operating Activities   (2,668)   24,102     8,367
+
+Investing Activities 
+  Construction expenditures                      (21,361)  (22,578)  (20,587)
+  Allowance for borrowed funds used
+       during construction                            (2)      (18)     (109)
+  Other                                              432      (428)     (407)
+                                                 -------   -------   -------
+Cash Used in Investing Activities                (20,931)  (23,024)  (21,103)
+
+Financing Activities 
+  Sale of long-term debt                             -      69,032       -    
+  Retirement of long-term debt                    (2,991)  (53,674)      -  
+  Change in short-term debt                       24,925    (4,840)   13,275
+  Stockholder contribution                        10,000       -       7,000  
+  Dividends on common stock                       (8,487)   (8,487)   (8,487)
+                                                 -------   -------   -------
+Cash Provided by Financing Activities             23,447     2,031    11,788
+
+Change in Cash and Cash Equivalents              $  (152)  $ 3,109   $  (948)
+                                                 =======   =======   =======
+
+Supplemental information disclosures 
+  Cash Paid for   
+    Interest (net of amount capitalized)         $ 6,684   $ 6,400  $  6,722
+    Income taxes                                   5,800     9,519     6,800
+                                                   
+
+
+See Notes to Financial Statements. 
+
+
+
+
+
+                                    - 12 -
+<PAGE> 13
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+                                 BALANCE SHEET
+
+                                  December 31
+
+                                    ASSETS
+
+                                                    1993               1992
+                                                    ----               ----
+                                                    (Thousands of Dollars)
+
+Utility Plant                                     $393,032           $372,956
+  Accumulated provision for depreciation          (180,202)          (165,920)
+                                                  --------           --------
+       Net Utility Plant                           212,830            207,036 
+
+Other Property and Investments                          70                 71 
+
+Current Assets
+  Cash and cash equivalents                          6,318              6,470 
+  Accounts receivable, net of allowance
+    for doubtful accounts - $999 and $919           23,251             20,644 
+  Accrued utility revenues                          34,961             32,407 
+  Materials and supplies (at average cost)           2,641              2,546 
+  Natural gas stored
+    (at first-in, first-out cost)                   36,571             11,632 
+  Prepayments and other assets                       3,091              2,950 
+                                                  --------           --------
+       Total Current Assets                        106,833             76,649 
+
+Deferred Charges and Other Assets
+  Accumulated deferred income taxes (Note E)        11,918              3,993 
+  Deferred take-or-pay buyout                          606              3,316 
+  Deferred regulatory assets (Note A)                3,879                -
+  Other                                              1,843              2,587 
+                                                  --------           --------
+       Total Deferred Charges and Other Assets      18,246              9,896 
+                                                  --------           --------
+Total Assets                                      $337,979           $293,652 
+                                                  ========           ========
+
+
+
+See Notes to Financial Statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 13 -
+<PAGE> 14
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+                                 BALANCE SHEET
+
+                                  December 31
+
+                         CAPITALIZATION AND LIABILITIES
+
+
+                                                  1993                 1992
+                                                  ----                 ----
+                                                    (Thousands of Dollars)
+Capitalization (See Capitalization Statement)
+  Common stock equity                           $114,734             $100,714
+  Long-term debt (Note I)                         71,192               74,059
+                                                --------             --------
+       Total Capitalization                      185,926              174,773
+
+Current Liabilities
+  Long-term debt due currently (Note I)            1,200                1,200
+  Notes payable (Note J)                          68,508               43,583
+  Accounts payable                                24,434               28,309
+  Payroll and vacation accrued                     2,587                2,427
+  Taxes accrued - income and other                 4,047                2,069
+  Interest accrued                                 1,458                1,516
+  Other                                            1,776                  509
+                                                --------              -------
+       Total Current Liabilities                 104,010               79,613
+
+Deferred Credits and Other Liabilities
+  Accumulated deferred income taxes (Note E)      28,657               28,264
+  Accumulated deferred investment tax credits      6,667                7,123
+  Deferred take-or-pay buyout                        606                3,316
+  Deferred regulatory liabilities (Note A)        11,530                  -
+  Other                                              583                  563
+                                                --------              -------
+       Total Deferred Credits and Other
+         Liabilities                              48,043               39,266
+
+Commitments and Contingencies (Note L)
+                                                --------             -------- 
+Total Capitalization and Liabilities            $337,979             $293,652
+                                                ========             ========
+
+
+
+See Notes to Financial Statements.
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 14 -
+<PAGE> 15
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+                           CAPITALIZATION STATEMENT
+
+                                  December 31
+
+
+                                                          1993        1992
+                                                          ----        ----
+                                                       (Thousands of Dollars)
+Common Stock Equity
+  Common stock ($1 par value; authorized 38,000,000
+    shares; issued 1,725,000 shares)                    $  1,725   $  1,725
+  Other paid in capital                                   67,775     57,775
+  Retained earnings                                       45,234     41,214
+                                                        --------   --------
+       Total Common Stock Equity                         114,734    100,714
+
+
+Long-Term Debt
+  First mortgage bonds
+
+       Series       Due
+       ------       ---
+       5-5/8%      1995                                   10,000     10,000
+       6-5/8%      1997                                   10,000     10,000
+       9-1/4%      2016                                    3,000      6,000
+                                                        --------   --------
+                                                          23,000     26,000
+
+Debentures (unsecured)
+   6-1/8% Series due 1997                                 25,000     25,000
+   8-1/4% Series due 2022                                 25,000     25,000
+Unamortized discount - net                                  (608)      (741)
+Long-term debt due currently                              (1,200)    (1,200)
+                                                        --------   --------
+       Total Long-Term Debt                               71,192     74,059
+                                                        --------   --------
+       Total Capitalization                             $185,926   $174,773
+                                                        ========   ========
+
+
+
+See Notes to Financial Statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 15 -
+<PAGE> 16
+
+                         WISCONSIN NATURAL GAS COMPANY
+                         NOTES TO FINANCIAL STATEMENTS
+
+
+A - Summary of Significant Accounting Policies
+- ----------------------------------------------
+
+General
+- -------
+
+The accounting records of the company are kept as prescribed by the Public
+Service Commission of Wisconsin (PSCW).  
+
+Revenues
+- --------
+
+Utility revenues are recognized on the accrual basis and include estimated
+amounts for service rendered but not billed.
+
+Property
+- --------
+
+Property is recorded at cost.  Additions to and significant replacements of
+utility property are charged to utility plant at cost; minor items are charged
+to maintenance expense.  Cost includes material, labor and allowance for funds
+used during construction (see Note F).  The cost of depreciable utility
+property, together with removal cost less salvage, is charged to accumulated
+provision for depreciation when property is retired.
+
+Deferred Regulatory Assets and Liabilities
+- ------------------------------------------
+
+Pursuant to Statement of Financial Accounting Standards No. 71, Accounting for
+the Effects of Certain Types of Regulation, the company capitalizes as
+deferred regulatory assets incurred costs which are expected to be recovered
+in future utility rates.  The company also records as deferred regulatory
+liabilities the current recovery in utility rates of costs which are expected
+to be paid in the future.
+
+The significant portion of the company's deferred regulatory assets and
+liabilities relate to the amounts recorded due to the adoption of Statement of
+Financial Accounting Standards No. 109, Accounting for Income Taxes (FAS 109). 
+See Note E.  
+
+Statement of Cash Flows
+- -----------------------
+
+Cash and cash equivalents includes marketable debt securities acquired three
+months or less from maturity.
+
+
+B - Pension Plans                                   
+- -----------------                                       
+
+Effective in 1993, the PSCW adopted Statement of Financial Accounting
+Standards No. 87, Employers' Accounting for Pensions (FAS 87), for ratemaking. 
+For 1992 and 1991, the PSCW recognized funded amounts for ratemaking and the
+company charged the following amounts to expense as paid, $165,000 and
+$555,000, respectively.
+
+                                    - 16 -
+<PAGE> 17
+
+B - Pension Plans - (Cont'd)
+- ----------------------------
+
+The company has several noncontributory pension plans covering all eligible
+employees.  Pension benefits are based on years of service and the employee's
+compensation.  The majority of the plans' assets are equity securities; other
+assets include corporate and government bonds, guaranteed investment contracts
+and real estate.  The plans are funded to meet the requirements of the
+Employee Retirement Income Security Act of 1974.
+
+In the opinion of the company, current pension trust assets and amounts which
+are expected to be paid to the trust in the future will be adequate to meet
+future pension payment obligations to current and future retirees.  
+
+Pension Cost calculated per FAS 87                1993       1992       1991
+- ----------------------------------               ------     ------     ------
+                                                    (Thousands of Dollars)
+Components of Net Periodic Pension Cost,
+  Year Ended December 31 -
+  Cost of pension benefits earned by
+   employees                                    $ 1,207    $ 1,077    $   967
+  Interest cost on projected benefit
+   obligation                                     3,633      3,264      3,085
+  Actual return on plan assets                   (4,292)    (1,599)    (9,878)
+  Net amortization and deferral                     305     (3,318)     5,875
+                                                -------    -------     ------
+Total pension cost (credit) calculated
+under FAS 87                                    $   853    $  (576)   $    49
+                                                =======    =======     ======
+Actuarial Present Value of Accumulated
+  Benefit Obligation, at December 31 -
+  Vested benefits-employees' right to
+   receive benefit no longer contingent
+   upon continued employment                    $39,142    $34,112
+  Nonvested benefits-employees' right to
+   receive benefit contingent upon
+   continued employment                             428        424
+                                                -------    -------
+Total obligation                                $39,570    $34,536
+                                                =======    =======
+Funded Status of Plans: Pension Assets and
+  Obligations at December 31 -
+  Pension assets at fair market value           $55,224    $52,172
+  Projected benefit obligation
+   at present value                             (50,455)   (43,112)
+  Unrecognized transition asset                  (1,511)    (1,635)
+  Unrecognized prior service cost                 1,908      1,854
+  Unrecognized net gain                          (2,802)    (6,806)
+                                                -------     ------
+Projected status of plans                       $ 2,364    $ 2,473
+                                                =======     ======
+Rates used for calculations (%) -
+  Discount Rate-interest rate used to
+   adjust for the time value of money               7.5        8.0        8.0 
+  Assumed rate of increase in
+   compensation levels                              5.0        5.0        5.0
+  Expected long-term rate of return 
+   on pension assets                                9.0        9.0        9.0
+
+
+                                    - 17 -
+<PAGE> 18
+
+C - Benefits Other Than Pensions 
+- --------------------------------
+
+In January 1993, the company adopted prospectively Statement of Financial
+Accounting Standards No. 106, Employers' Accounting for Postretirement
+Benefits Other Than Pensions (FAS 106), and elected the 20 year option for
+amortization of the previously unrecognized accumulated postretirement benefit
+obligation.  The PSCW has issued an order recognizing FAS 106 for ratemaking;
+therefore adoption has no material impact on net income.  For years prior to
+1993 the cost of these postretirement benefits was expensed when paid and was
+$614,000 in 1992, and $527,000 in 1991. 
+                                   
+The company sponsors defined benefit postretirement plans that cover both
+salaried and nonsalaried employees who retire at age 55 or older with at least
+10 years of credited service.  The postretirement medical plan provides
+coverage to retirees and their dependents.  Retirees contribute to the medical
+plan.  The group life insurance benefit is based on employee compensation and
+is reduced upon retirement.
+
+Employees' Benefit Trusts (Trusts) are used to fund a major portion of
+postretirement benefits.  The funding policy for the Trusts is to maximize tax
+deductibility.  The majority of the Trusts' assets are mutual funds.  
+
+
+Postretirement Benefit Cost calculated per FAS 106      (Thousands of Dollars)
+- --------------------------------------------------
+
+Components of Net Periodic Postretirement Benefit Cost,
+  Year Ended December 31, 1993 - 
+  Cost of postretirement benefits earned by employees     $    297
+  Interest cost on projected benefit obligation              1,024
+  Actual return on plan assets                                (221)
+  Net amortization and deferral                                520
+                                                          --------
+Total postretirement benefit cost calculated              $  1,620
+  under FAS 106                                           ========
+
+
+Funded Status of Plans: Postretirement Obligations 
+  and Assets at December 31, 1993 - 
+  Accumulated Postretirement Benefit Obligation at
+   December 31, 1993 - 
+   Retirees                                               $ (5,710)           
+   Fully eligible active plan participants                  (2,221)          
+   Other active plan participants                           (6,039)          
+                                                          --------
+  Total obligation                                         (13,970)
+                                                                    
+  Postretirement assets at fair market value                 2,771
+                                                          --------
+  Accumulated postretirement benefit obligation in 
+   excess of plan assets                                   (11,199) 
+         
+  Unrecognized transition obligation                         9,787          
+  Unrecognized net loss                                        336  
+                                                          --------
+  Accrued Postretirement Benefit Obligation               $ (1,076)          
+                                                          ========
+
+
+                                    - 18 -
+<PAGE> 19
+
+C - Benefits Other Than Pensions - (Cont'd)
+- -------------------------------------------
+
+Rates used for calculations (%) -
+   Discount Rate-interest rate used to adjust 
+    for the time value of money                             7.5
+   Assumed rate of increase in compensation levels          5.0 
+   Expected long-term rate of return on 
+    postretirement assets                                   9.0 
+   Health care cost trend rate                             14.0 declining to   
+                                                            5.0 in 2002
+      
+Changes in health care cost trend rates will affect the amounts reported.  For
+example, a 1% increase in rates would increase the accumulated postretirement
+benefit obligation as of December 31, 1993 by $1,000,000 and the aggregate of
+the service and interest cost components of net periodic postretirement
+benefit cost for the year then ended by $100,000.
+
+Statement of Financial Accounting Standards No. 112, Employers' Accounting for
+Postemployment Benefits (FAS 112), was issued in 1992.  This statement
+establishes standards of financial accounting and reporting for the estimated
+cost of benefits provided by an employer to former or inactive employees after
+employment but before retirement.  The company adopted FAS 112 prospectively
+for 1994.  It is anticipate that adoption will not have a material effect on
+net income.    
+
+The company has announced a Voluntary Severance Package (VSP) and Early
+Retirement Incentive Program (ERIP) effective January 1994 and March 1994,
+respectively to eligible employees.  The availability of these plans to
+various bargaining units is based upon agreements made between the company and
+the unions.  These plans are available to all management employees but not
+elected officers. 
+
+The VSP includes a severance payment, medical/dental insurance, outplacement
+services, personal financial planning and tuition support.  ERIP provides for
+a monthly income supplement, medical benefits, and personal financial
+planning.  It is estimated that 8%-20% of total employees will elect one of
+these plans.  The estimated cost associated with these plans is $3,000,000 -
+$10,000,000.
+
+
+D - Depreciation
+- ----------------
+
+Depreciation expense is accrued at straight line rates, certified by the PSCW, 
+which include estimates of salvage and removal costs.  
+
+Depreciation as a percent of average depreciable utility plant was 4.0% in
+1993 and 1992 and 3.9% in 1991.
+
+
+E - Income Taxes
+- ----------------
+
+Comprehensive interperiod income tax allocation is used for federal and state
+temporary differences.  The federal investment tax credit is accounted for on
+the deferred basis and is reflected in income ratably over the life of the
+related property. 
+
+
+                                    - 19 -
+<PAGE> 20
+
+E - Income Taxes - (Cont'd)
+- ---------------------------
+
+Following is a summary of income tax expense and a reconciliation of total
+income tax expense with the tax expected at the federal statutory rate.
+
+                                    1993       1992      1991
+                                  -------    -------   -------
+                                     (Thousands of Dollars)
+Current tax expense               $ 6,826    $ 7,671   $ 6,041
+Investment tax credit-net            (456)      (462)     (467)
+Deferred tax expense                1,062       (104)      985
+                                  -------    -------   -------
+Total tax expense                 $ 7,432    $ 7,105   $ 6,559
+                                  =======    =======   =======
+
+Income before income taxes        $19,939    $19,725   $18,654
+                                  =======    =======   =======
+Expected tax at federal
+  statutory rate                  $ 6,979    $ 6,706   $ 6,342
+State income tax net of federal 
+  tax reduction                     1,106      1,107     1,036
+Investment tax credit restored       (456)      (462)     (467)
+Deferred tax restored -
+  rate differential                  (234)      (255)     (255)
+Other (no item over 5% of
+  expected tax)                        37          9       (97)
+                                  -------    -------   -------
+Total tax expense                 $ 7,432    $ 7,105   $ 6,559 
+                                  =======    =======   =======
+
+FAS 109 requires the recording of deferred assets and liabilities to recognize
+the expected future tax consequences of events that have been reflected in the
+company's financial statements or tax returns, the adjustment of deferred tax
+balances to reflect tax rate changes and the recognition of previously
+unrecorded deferred taxes.  The company adopted FAS 109 prospectively in 1993. 
+Following is a summary of deferred income taxes as of December 31, 1993, after
+FAS 109 adoption, and December 31, 1992, prior to adoption.
+
+                                                 1993                1992
+                                               -------             -------     
+                                                  (Thousands of Dollars)
+    Deferred Income Tax Assets
+      Construction advances                    $ 8,720             $ 3,993
+      Other                                      3,198                 -  
+                                               -------             -------
+        Total Deferred Income Tax Assets       $11,918             $ 3,993
+                                               =======             =======
+    Deferred Income Tax Liabilities
+      Plant related                            $26,397             $28,264
+      Other                                      2,260                 -  
+                                               -------             -------
+        Total Deferred Income Tax Liabilities  $28,657             $28,264
+                                               =======             =======
+
+The company also has recorded deferred regulatory assets and liabilities of
+$3,879,000 and $11,530,000, respectively, as of December 31, 1993, which
+represent the future expected impact of deferred taxes on utility revenues. 
+Adoption of FAS 109 had no material effect on net income.
+
+                                    - 20 -
+<PAGE> 21
+
+F - Allowance for Funds Used During Construction (AFUDC)
+- --------------------------------------------------------
+
+Through August 1993, AFUDC is capitalized in utility plant accounts and
+represents the cost of borrowed funds used during construction and a rate of
+return on stockholder's capital used for construction purposes.  On the income
+statement the cost of borrowed funds (before income taxes) is a reduction of
+interest expense and the return on stockholder's capital is an item of noncash
+other income.  Beginning September 1993, all construction work in progress
+(CWIP) is allowed to earn a current return.
+
+AFUDC was capitalized at the following rates, as approved by the PSCW:
+
+   October 1992 - August 1993        Current return on investment for selected
+                                     projects included in CWIP; 10.97% for
+                                     remaining CWIP
+   September 1991 - September 1992   Current return on investment for selected
+                                     projects included in CWIP; 11.19% for
+                                     remaining CWIP
+   January 1991 - August 1991        11.37% for all projects
+
+G - Transactions With Associated Companies
+- ------------------------------------------
+
+Managerial, financial, accounting, legal, data processing and other services
+may be rendered between associated companies and are billed in accordance with
+service agreements approved by the PSCW.  The company also sells gas to
+Wisconsin Electric Power Company (WE), another subsidiary of Wisconsin Energy
+Corporation (WEC), for electric generation at rates approved by the PSCW.  The
+company received from WEC a stockholder contribution of $10,000,000 and
+$7,000,000 in 1993 and 1991, respectively.   
+
+H - Preferred Stock
+- -------------------
+
+Serial Preferred Stock authorized but unissued is cumulative, $100 par value,
+120,000 shares.
+
+I - Long-Term Debt
+- ------------------
+
+The maturities and sinking fund requirements through 1998 for the aggregate
+amount of long-term debt outstanding at December 31, 1993 are shown below.  
+
+               1994      $ 1,200,000
+               1995       11,200,000            
+               1996          600,000         
+               1997       35,000,000            
+               1998           -        
+
+Sinking fund requirements for the years 1994 through 1998, included in the
+table above, are $3,000,000.  Substantially all utility plant is subject to
+the applicable mortgage.  
+
+Long-term debt premium or discount and expense of issuance are amortized by
+the straight line method over the lives of the debt issues and included as
+interest expense.  Unamortized amounts pertaining to reacquired debt are
+written off currently, when acquired for sinking fund purposes, or amortized
+in accordance with PSCW orders, when acquired for early retirement.
+
+                                    - 21 -
+<PAGE> 22
+
+J - Notes Payable
+- -----------------
+
+Short-term notes payable consist of:
+                                         December 31
+                                       1993       1992
+                                      ------     ------
+                                    (Thousands of Dollars)
+
+        Banks                        $39,999    $ 4,999  
+        Commercial paper              28,509     38,584
+                                     -------    -------    
+                                     $68,508    $43,583
+                                     =======    =======
+
+Unused lines of credit for short-term borrowings amounted to $35,509,000       
+at December 31, 1993.  In support of various informal lines of credit from
+banks, the company has agreed to pay commitment fees; these commitment fees
+are not significant.  
+
+K - Fair Value of Financial Instruments
+- ---------------------------------------
+
+Statement of Financial Accounting Standards No. 107, Disclosures about Fair
+Value of Financial Instruments (FAS 107), requires, if practicable, disclosure
+of the fair value of financial instruments, both assets and liabilities
+recognized and not recognized in the balance sheet.  The fair values provided
+below represent the amounts at which the financial instruments could have been
+exchanged between willing parties on December 31.
+
+Fair value is estimated based upon the market value of the financial
+instrument or upon instruments with similar characteristics.  For most
+financial instruments held by the company, book value approximates fair value. 
+The value of financial instruments recognized on the balance sheet, for which
+book value does not approximate fair value, is as follows:
+
+                                                  December 31
+                                          1993                    1992
+                                    Book        Fair        Book        Fair
+                                    Value       Value       Value       Value
+                                  --------    --------    --------    --------
+                                              (Thousands of dollars) 
+     
+     Debentures                   $ 50,000    $ 54,469    $ 50,000    $ 50,219
+
+
+In 1993, the FASB issued Statement of Financial Accounting Standards No. 115
+(FAS 115), Accounting for Certain Investments in Debt and Equity Securities.
+This standard addresses the accounting and reporting for investments in equity
+securities that have readily determinable fair values and for all investments
+in debt securities. The company adopted FAS 115 prospectively in 1994.  It is
+anticipated that adoption will not have a material effect on net income.
+
+
+
+
+
+
+
+
+                                    - 22 -
+<PAGE> 23
+
+L - Commitments and Contingencies
+- ---------------------------------
+
+Discussion of take-or-pay costs and FERC Order 636 transition costs billed by
+natural gas pipeline companies can be found elsewhere in this report in "Legal
+Proceedings - Rate Matters" in Item 3.
+
+M - Subsequent Events
+- ---------------------
+
+Effective January 1, 1994 Wisconsin Energy Corporation (WEC) acquired all of
+the outstanding common stock of Wisconsin Southern Gas Company, Inc. (WSG)
+through a statutory merger of WSG into WN in which all of WSG's common stock
+was converted into common stock of WEC.  WSG was a gas utility engaged in the
+purchase, distribution, transportation and sale of natural gas primarily in a
+section of southeastern Wisconsin which is contiguous to WN's service
+territory.  WSG was merged into WN using the pooling of interests method of
+accounting.  Accordingly, historical financial data in future reports will be
+restated to include WSG.  The following unaudited proforma data summarizes the
+combined results of operations of the company and WSG as though the merger had
+occurred at the beginning of 1991:
+
+(Thousands of Dollars)                    1993         1992         1991
+                                          ----         ----         ----
+Total operating revenues                $331,301     $283,699     $273,804
+Net income                                14,155       14,209       12,913
+
+In January 1994, WEC announced plans to merge WN into Wisconsin Electric Power
+Company, a wholly-owned utility subsidiary of WEC.  The merger, subject to
+requisite regulatory and other approvals, is anticipated to be effective by
+year-end 1994.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 23 -
+<PAGE> 24
+
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+To the Board of Directors and the
+ Stockholder of Wisconsin Natural Gas Company
+
+In our opinion, the financial statements listed under Item 14(a)(1) and (2) on
+pages 25 and 26 present fairly, in all material respects, the financial
+position of Wisconsin Natural Gas Company at December 31, 1993 and 1992, and
+the results of its operations and its cash flows for each of the three years
+in the period ended December 31, 1993, in conformity with generally accepted
+accounting principles.  These financial statements are the responsibility of
+the Company's management; our responsibility is to express an opinion on these
+financial statements based on our audits.  We conducted our audits of these
+financial statements in accordance with generally accepted auditing standards
+which require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management,
+and evaluating the overall financial statement presentation.  We believe that
+our audits provide a reasonable basis for the opinion expressed above.  As
+discussed in the Notes to Financial Statements, the Company changed its method
+of accounting for income taxes and postretirement benefits effective 
+January 1, 1993.  We concur with these changes in accounting.
+
+
+
+
+
+
+
+/s/Price Waterhouse
+- -------------------
+PRICE WATERHOUSE
+
+
+Milwaukee, Wisconsin
+January 26, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 24 -
+<PAGE> 25
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+         AND FINANCIAL DISCLOSURE
+
+None.
+
+
+                                   PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Information called for by Item 10 is omitted pursuant to General Instruction
+J(2)(c) to Form 10-K.
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Information called for by Item 11 is omitted pursuant to General Instruction
+J(2)(c) to Form 10-K.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+Information called for by Item 12 is omitted pursuant to General Instruction
+J(2)(c) to Form 10-K.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information called for by Item 13 is omitted pursuant to General Instruction
+J(2)(c) to Form 10-K.
+
+
+                                    PART IV
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+          (a) 1. Financial Statements
+
+                     Included in Part II of this report:
+
+                       Statement of Income and Retained Earnings for the
+                          three years ended December 31, 1993
+
+                       Statement of Cash Flows for the three years ended
+                          December 31, 1993
+
+                       Balance Sheet at December 31, 1993 and 1992
+
+                       Capitalization Statement at December 31, 1993 and 1992
+
+                       Notes to Financial Statements
+
+                       Report of Independent Accountants
+
+
+
+
+
+
+                                    - 25 -
+<PAGE> 26
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES,
+          AND REPORTS ON FORM 8-K (Cont'd) 
+
+          (a)  2. Financial Statement Schedules
+                      Included in Part IV of this report:
+                        For the three years ended December 31, 1993
+
+                              Schedule V   Property, Plant and Equipment
+                              Schedule VI  Accumulated Depreciation, 
+                                             Depletion, and Amortization of
+                                             Property, Plant and Equipment
+                              Schedule IX  Short-Term Borrowings
+                              Schedule X   Supplementary Income Statement
+                                             Information
+
+                  Other schedules are omitted because of the absence of
+                  conditions under which they are required or because the
+                  required information is given in the financial statements
+                  or notes thereto.
+
+
+               3. Exhibits
+
+                  The following Exhibits are filed with this report:
+ 
+                  Exhibit No.
+
+                  (23)    Consent of Independent Accountants, dated 
+                          March 30, 1994 appearing on page 33 of this
+                          Annual Report on Form 10-K for the year ended 
+                          December 31, 1993.
+
+In addition to the Exhibit shown above, which is filed herewith, Wisconsin
+Natural hereby incorporates the following Exhibits pursuant to Exchange Act
+Rule 12b-32 and Regulation Section 201.24 by reference to the filings set
+forth below:
+
+                  (2)     Agreement and Plan of Reorganization, dated as of
+                          July 30, 1993, by and among Wisconsin Energy
+                          Corporation, Wisconsin Natural Gas Company and
+                          Wisconsin Southern Gas Company, Inc., including the
+                          related Plan and Agreement of Merger between
+                          Wisconsin Natural and Wisconsin Southern.
+                          (Exhibit A to the Proxy Statement/Prospectus dated
+                          October 20, 1993 contained in the Registration
+                          Statement of Wisconsin Energy Corporation on 
+                          Form S-4, No. 33-50653)
+
+                  (3)-1   Restated Articles of Incorporation of Wisconsin
+                          Natural Gas Company, as adopted on December 1, 1982.
+                          (Exhibit (3)-1 to Wisconsin Natural's 1982 Form 10-K
+                          in File No. 2-2066)
+
+                      2   Bylaws of Wisconsin Natural Gas Company, as
+                          amended to November 23, 1992.  (Exhibit (3)-1
+                          to Wisconsin Natural's 1992 Form 10-K in File
+                          No. 2-2066)
+
+
+
+                                    - 26 -
+<PAGE> 27
+
+                   Mortgage, Indenture or                              Under
+                   Supplemental Indenture       Date      Exhibit #   File No.
+                  ------------------------------------------------------------
+                  (4)-1 Mortgage and Deed of    6/1/50       7-C       2-8457
+                        Trust
+                      2 Third                   9/1/57       2-D       2-13563
+                      3 Fourth                10/15/61       2-E       2-18922
+                      4 Fifth                  11/1/62       2-F       2-20799
+                      5 Sixth                  10/1/65       2-G       2-24012
+                      6 Seventh                9/15/67       2-H       2-27101
+                      7 Eighth                 9/15/69       4-J       2-34303
+                      8 Ninth                   7/1/71     (4)-1       2-2066
+                                                                       (1980
+                                                                    Form 10-K)
+                      9 Tenth                  9/15/86     (4)-9       2-2066
+                                                                       (1986
+                                                                    Form 10-K)
+                     10 Eleventh               1/15/92     (4)-1       2-2066
+                                                                       (1991
+                                                                    Form 10-K)
+                     11 Twelfth                11/1/92     (4)-1       2-2066
+                                                                      (9/30/92
+                                                                    Form 10-Q)
+                     12 Thirteenth              1/1/94     (4)-1       2-2066
+                                                                      (1/01/94
+                                                                    Form 8-K)
+                     13 Indenture for Debt      9/1/92     (4)-2       2-2066
+                        Securities                                    (9/30/92
+                        (the "Indenture")                           Form 10-Q)
+                     14 Securities              9/1/92     (4)-3       2-2066
+                        Resolution No. 1                              (9/30/92
+                        under the Indenture                         Form 10-Q)
+                     15 Securities             12/1/92     (4)-1       2-2066
+                        Resolution No. 2                               (1992
+                        under the Indenture                         Form 10-K)
+
+                     16 Thirteenth Supplemental
+                        Indenture, dated
+                        January 1, 1994, to
+                        Indenture dated
+                        September 1, 1950 of
+                        Wisconsin Southern Gas
+                        Company, Inc. (to reflect
+                        the assumption of bonds            (4)-2       2-2066
+                        by Wisconsin Natural in                       (1/01/94
+                        connection with merger).                    Form 8-K)
+
+
+          All agreements and instruments with respect to long-term debt not
+          exceeding 10% of the total assets of the Registrant have been
+          omitted as permitted by related instructions.  The Registrant agrees
+          pursuant to Item 601(b)(4) of Regulation S-K to furnish to the
+          Securities and Exchange Commission, upon request, a copy of all
+          such agreements and instruments.
+
+                  (10)-1  Supplemental Benefits Agreement between Wisconsin
+                          Natural and employee Ronald K. Espe dated 
+                          December 14, 1990.  (Exhibit (10)-1 to Wisconsin
+                          Natural's 1990 Form 10-K in File No. 2-2066) *
+
+                                    - 27 -
+<PAGE> 28
+
+                       2  Service Agreement dated January 1, 1987 between
+                          Wisconsin Natural Gas Company, Wisconsin Energy
+                          Corporation and other non-utility affiliated
+                          companies.  (Exhibit (10)-(a) to Wisconsin
+                          Natural's Form 8-K dated January 2, 1987 in
+                          File No. 2-2066)
+
+     *  Management contracts and executive compensation plans or arrangements
+        required to be filed as exhibits pursuant to Item 14(c) of Form 10-K.
+        Certain compensatory plans in which directors or executive officers of
+        the Registrant are eligible to participate are not filed in reliance
+        on the exclusion in Item 601(b)(10)(iii)(B)(6) of Regulation S-K. 
+
+
+          (b)  Reports on Form 8-K
+
+No reports on Form 8-K were filed during the fourth quarter of the year ended
+December 31, 1993.  
+
+However, a report on Form 8-K dated January 1, 1994 was filed by Wisconsin
+Natural reporting the effectiveness of the acquisition of Wisconsin Southern
+Gas Company, Inc. by Wisconsin Energy through a merger of Wisconsin Southern
+Gas Company, Inc. into Wisconsin Natural, a wholly-owned subsidiary of
+Wisconsin Energy, and filing the related historical financial statements and
+pro forma financial information.
+
+Additionally, a report on Form 8-K dated January 24, 1994 was filed by
+Wisconsin Natural reporting the announced plan of Wisconsin Energy to merge
+Wisconsin Natural into Wisconsin Energy's wholly-owned principal utility
+subsidiary, Wisconsin Electric, anticipated to be effective by year-end 1994.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 28 -
+<PAGE> 29
+
+
+                       WISCONSIN NATURAL GAS COMPANY
+
+                SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                                DECEMBER 31
+
+
+              Col. A                           Col. F
+              ------               -------------------------------
+         Classification             1993         1992         1991             
+         --------------             ----         ----         ----
+                                       (Thousands of Dollars)
+
+Gas Utility Plant
+   Storage Plant                 $  9,101     $  9,101     $  9,030        
+   Distribution Plant             345,732      328,110      309,846      
+   General Plant                   37,712       34,490       33,239      
+   Work in Progress                   487        1,255          972      
+                                 --------     --------     --------    
+        Total Gas Utility Plant   393,032      372,956      353,087      
+
+Nonutility Property                    70           79           79      
+                                 --------     --------     --------
+
+        Total Property and Plant $393,102     $373,035     $353,166      
+                                 ========     ========     ========
+
+Note:  Neither total additions nor total retirements in 1993, 1992, and 1991 
+       amounted to more than 10% of the total property balances at December
+       31 of these years.  All additions were for ordinary extensions and
+       improvements of the system.  Additions include Allowance for Funds
+       Used During Construction of $6,000 in 1993, $50,000 in 1992, and 
+       $305,000 in 1991.  Total additions and retirements for the years
+       1991-1993 are shown below.
+
+                                 1993         1992         1991        
+                                 ----         ----         ----        
+                                     (Thousands of Dollars)
+
+      Total Additions         $ 21,367      $ 22,628     $ 20,892     
+      Total Retirements          1,300         2,759        1,364     
+
+
+Depreciation
+
+    Depreciation expense is accrued at straight line rates certified by the
+    PSCW.  The average depreciation rate was 4.0% in 1993, 4.0% in 1992
+    and 3.9% in 1991.
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 29 -
+<PAGE> 30
+<TABLE>
+
+                                        WISCONSIN NATURAL GAS COMPANY
+                            SCHEDULE VI - ACCUMULATED DEPRECIATION, DEPLETION AND
+                                AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+
+<CAPTION>
+    Col. A                        Col. B           Col. C         Col. D        Col. E        Col. F
+                                                 Additions                      Other
+                                Balance at       Charged to                    Changes-     Balance at
+Description                    Beginning of      Costs and                       Add          End of
+                                  Period          Expenses      Retirements    (Deduct)       Period
+                                                                 (Note A)
+                               ------------      ----------     -----------    --------     ----------
+                                                          (Thousands of Dollars)
+<S>                             <C>               <C>              <C>        <C>             <C>
+Year Ended December 31, 1993:
+- -----------------------------
+  Accumulated Depreciation   
+
+    Gas Utility                 $165,920          $16,207          $  903     $(1,022)        $180,202
+    Nonutility                         8             -                  8        -                -
+                                --------          -------          ------     --------        --------
+       Total                    $165,928          $16,207          $  911     $(1,022)        $180,202
+                                ========          =======          ======     ========        ========
+
+Year Ended December 31, 1992:
+- -----------------------------
+  Accumulated Depreciation
+
+    Gas Utility                 $154,739          $15,431          $3,144     $(1,106)        $165,920
+    Nonutility                         8             -                -           -                  8
+                                --------          -------          ------     --------        --------
+       Total                    $154,747          $15,431          $3,144     $(1,106)        $165,928
+                                ========          =======          ======     ========        ========
+
+Year Ended December 31, 1991:
+- -----------------------------
+  Accumulated Depreciation
+
+    Gas Utility                 $143,210          $14,365          $1,772     $(1,064)        $154,739
+    Nonutility                         8             -               -            -                  8
+                                --------          -------          ------     --------        --------
+       Total                    $143,218          $14,365          $1,772     $(1,064)        $154,747
+                                ========          =======          ======     ========        ========
+
+
+
+<FN>
+Note A - After deduction of net salvage from property retired.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         - 30 -
+</TABLE>  
+<PAGE> 31
+<TABLE>
+
+                                        WISCONSIN NATURAL GAS COMPANY
+                                     SCHEDULE IX - SHORT-TERM BORROWINGS
+
+<CAPTION>
+Col. A                        Col. B         Col. C        Col. D               Col. E           Col. F
+                                                           Maximum             Average          Weighted
+                                            Weighted        Amount              Amount           Average
+                            Balance at       Average      Outstanding        Outstanding        Interest
+Category of Aggregate         End of        Interest      During the         During the        Rate During
+Short-Term Borrowings        Period           Rate          Period             Period          the Period
+                            (Note A)                                          (Note B)          (Note C)
+- ---------------------      -----------      --------      ------------       -----------       -----------
+                                                     (Thousands of Dollars)
+<S>                          <C>              <C>           <C>               <C>                 <C>
+Year 1993
+- ---------
+
+Notes payable to banks      $39,999           3.28%         $39,999           $10,207             3.20%
+Commercial paper             28,509           3.31%          65,518            28,580             3.36%
+
+
+Year 1992
+- ---------
+
+Notes payable to banks       $ 4,999          4.08%         $ 4,999           $ 4,999             3.94%
+Commercial paper             $38,584          3.54%         $57,418           $32,273             4.08%
+
+Year 1991
+- ---------
+Notes payable to banks       $ 4,999          4.24%         $ 4,999           $ 4,999             5.96%
+Commercial paper             $43,424          5.09%         $43,424           $22,931             6.35%
+
+
+<FN>
+Note A - Bank loans include a note due within one year.  Commercial paper outstanding at
+         December 31, 1993 is due within one month.
+Note B - Based on daily amounts outstanding.
+Note C - The weighted average interest rate was derived by relating short-term interest expense to
+         average short-term loans outstanding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         - 31 -
+</TABLE>
+<PAGE> 32
+
+
+                         WISCONSIN NATURAL GAS COMPANY
+
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION (Note A)
+
+
+
+        Col. A                                           Col. B            
+                                              Charged to Costs and Expenses
+                                              -----------------------------
+        Item                                   1993       1992        1991
+        ----                                   ----       ----        ----
+                                                  (Thousands of Dollars)
+
+Taxes other than payroll and
+    income taxes
+        
+    Wisconsin license fee tax                 $2,328     $2,221      $2,128    
+     Other(B)                                    421        308         (75)   
+                                              ------     ------      ------    
+       Total                                  $2,749     $2,529      $2,053    
+                                              ======     ======      ======    
+ 
+
+
+
+Note A - Maintenance expense and depreciation are shown on the Income
+         Statement.  No royalties were paid and advertising costs did
+         not exceed 1% of revenues.
+
+Note B - 1991 includes Wisconsin ad valorem tax refunds for years
+         1984-1985 and 1986-1989.
+
+         1992 includes Wisconsin ad valorem tax refunds for years
+         1986-1989.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 32 -
+<PAGE> 33
+
+
+
+                      CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration
+Statements and Prospectuses constituting part of the Registration Statements
+on Form S-3 (Nos. 33-41368 and 33-48927) of Wisconsin Natural Gas Company of
+our report dated January 26, 1994 appearing on page 24 of this Form 10-K.
+
+
+
+
+
+
+
+/s/Price Waterhouse
+- -------------------
+PRICE WATERHOUSE
+
+
+Milwaukee, Wisconsin
+March 30, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 33 -
+<PAGE> 34
+
+                                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                          WISCONSIN NATURAL GAS COMPANY
+
+
+                                        /s/R. A. Abdoo
+                                    By -------------------------------------
+Date     March 30, 1994                 (R. A. Abdoo, Chairman of the Board
+                                            and Chief Executive Officer)
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+    Signature and Title                                         Date
+
+
+   
+   /s/R. A. Abdoo
+- -----------------------------------------------             March 30, 1994
+   (R. A. Abdoo, Chairman of the Board and                  
+    Chief Executive Officer and Director
+    - Principal Executive Officer)
+
+
+   /s/R. K. Espe
+- -----------------------------------------------             March 30, 1994
+   (R. K. Espe, President and Chief                   
+    Operating Officer and Director)
+
+
+   /s/J. G. Remmel
+- -----------------------------------------------             March 30, 1994
+   (J. G. Remmel, Chief Financial Officer and           
+    Director - Principal Financial Officer)
+
+
+   /s/A. K. Klisurich
+- -----------------------------------------------             March 30, 1994
+   (A. K. Klisurich, Controller
+    - Principal Accounting Officer)
+
+
+   /s/R. H. Gorske
+- -----------------------------------------------             March 30, 1994
+   (R. H. Gorske, Vice President and
+    General Counsel and Director)                                
+
+
+   /s/D. K. Porter
+- -----------------------------------------------             March 30, 1994
+   (D. K. Porter, Vice President and Director)          
+
+
+
+
+                                    - 34 -
+<PAGE> 35
+
+
+                         Wisconsin Natural Gas Company
+
+                                 EXHIBIT INDEX
+                                 -------------
+
+                        1993 Annual Report on Form 10-K
+
+
+ Exhibit
+ Number
+ -------
+
+ (23)    Consent of Independent Accountants, dated March 30, 1994 appearing
+         on page 33 of this Annual Report on Form 10-K for the year ended 
+         December 31, 1993.
+
+
+The foregoing Exhibit is filed with this report.  The additional Exhibits
+which are incorporated by reference are listed in Item 14(a)(3) of this
+report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    - 35 -
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

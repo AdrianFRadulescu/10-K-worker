@@ -1,0 +1,1970 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ SdwxKRZeCrGiyTPNZqpepxpbOXu1xlhxNz3Tswm/wNgVCXp5AQzK1Q6Ynxi3+Pe9
+ cVXaGtvGitjAKuK/Y2SS8g==
+
+<IMS-DOCUMENT>0000950005-95-000022.txt : 19950615
+<IMS-HEADER>0000950005-95-000022.hdr.sgml : 19950615
+ACCESSION NUMBER:		0000950005-95-000022
+CONFORMED SUBMISSION TYPE:	10-K405
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19941231
+FILED AS OF DATE:		19950313
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WATKINS JOHNSON CO
+		CENTRAL INDEX KEY:			0000105006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				941402710
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K405
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05631
+		FILM NUMBER:		95520332
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3333 HILLVIEW AVE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		4154934141
+
+	MAIL ADDRESS:	
+		STREET 1:		3333 HILLVIEW AVENUE
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304-1223
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+
+=============================================================================
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549 
+                                  FORM 10-K 
+
+/X/  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+     ACT OF 1934 
+
+                 For the fiscal year ended December 31, 1994 
+                                      OR 
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 
+
+                      For the transition period from to 
+
+                        Commission file number 1-5631 
+
+                           WATKINS-JOHNSON COMPANY 
+            (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER) 
+
+              California                                       94-1402710 
+(STATE OR OTHER JURISDICTION OF INCORPORATION              (I.R.S. EMPLOYER 
+             OR ORGANIZATION)                             IDENTIFICATION NO.) 
+
+        
+
+3333 Hillview Avenue, Palo Alto, California                  94304-1223 
+ (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)                    (ZIP CODE) 
+                                  
+                               
+                                (415) 493-4141 
+             (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE) 
+ 
+                       ---------------------------------
+
+         Securities registered pursuant to Section 12(b) of the Act: 
+
+                                                   NAME OF EACH EXCHANGE ON 
+       TITLE OF EACH CLASS                             WHICH REGISTERED 
+       -------------------                         -------------------------
+  Common stock, no par value                       New York Stock Exchange 
+                                                    Pacific Stock Exchange 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+
+   Indicate by check mark whether the registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 
+1934 during the preceding 12 months, and (2) has been subject to such filing 
+requirements for the past 90 days.  Yes      /X/        No 
+
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item 
+405 of Regulation S-K is not contained herein, and will not be contained, 
+to the best of registrant's knowledge, in definitive proxy or information 
+statements incorporated by reference in Part III of this Form 10-K or any 
+amendment to this Form 10-K.  /X/
+
+
+                                                 AS OF FEBRUARY 3, 1995 
+                                                ---------------------- 
+Aggregate market value of the voting stock held 
+ by non-affiliates of the registrant: ..........$242,959,000 
+Number of shares outstanding: Common stock, 
+ no par value ..................................   7,587,000       shares 
+
+                     DOCUMENTS INCORPORATED BY REFERENCE 
+
+   Portions of the Watkins-Johnson Company Notice of Annual Meeting of 
+Shareowners--April 8, 1995 and Proxy Statement filed with the commission 
+pursuant to Regulation 14A are incorporated by reference into Part III. 
+============================================================================= 
+
+
+<PAGE>
+                                    PART I 
+
+ITEM 1. BUSINESS 
+(a)  General Development of Business 
+
+     The company's  structure  during 1994 was unchanged from the previous year.
+     Since Watkins-Johnson realigned its business between 1991 and 1993, it has
+     operated in three principal  business  segments:  semiconductor  equipment,
+     electronic products and environmental services.
+
+     At the end of 1994, the environmental services unit was divested. Including
+     that  divestiture,  there were no  material  reclassifications,  mergers or
+     consolidations  of the company or its  subsidiaries  during the year. There
+     were no acquisitions  or dispositions of materials  amounts of assets other
+     than in the ordinary course of business during 1994.
+
+
+(b)  Financial Information about Industry Segments 
+
+     The  company   operated   within  three  industry   segments--semiconductor
+     equipment,  electronics,  and  environmental  services.  The  environmental
+     services  segment was  divested at the end of 1994.  Financial  information
+     about industry segments is included in Note 8 to the consolidated financial
+     statements contained in Part II, Item 8 of this annual report on Form 10-K.
+
+(c)  Narrative Description of Business 
+
+     Semiconductor Equipment
+
+     The Semiconductor  Equipment Group  manufactures  chemical-vapor-deposition
+     (CVD) equipment.  The company's  atmospheric-pressure CVD equipment is used
+     by  semiconductor  manufacturers  worldwide  in the  production  of  memory
+     devices (DRAMs) and microprocessors.
+
+     Historically,  the company's  CVD systems have been used  primarily for the
+     deposition of interlevel-dielectric  films--the initial dielectric layer on
+     a  semiconductor  wafer.  The company's  current  principal  products,  the
+     TEOS999 and WJ-1000 Systems, deposit both  interlevel-dielectric  (ILD) and
+     intermetal-dielectric  (IMD) layers of film on sub-half-micron  geometries.
+     The addition of an IMD capability to WJ's historic concentration on the ILD
+     process potentially doubles the market size for WJ's CVD equipment.
+
+     Changing wafer-processing requirements,  involving the addition of multiple
+     layers  of both  ILD and IMD to  advanced  integrated  circuits,  are  also
+     increasing  the market for WJ systems.  The WJ-1000  System,  designed  for
+     high-throughput  CVD onto the 200-mm  (8-inch)  wafers  currently  entering
+     production in major  fabrication  facilities in the U.S. and overseas,  has
+     been well accepted by the market.
+
+     A variant of  Watkins-Johnson's  semiconductor-production  tool is used for
+     manufacturing  flat-panel  displays for  personal-communication,  computing
+     and entertainment products.
+
+     Sales by the segment were 43% of  consolidated  sales in 1994,  29% in 1993
+     and 22% in 1992. The company is changing its mode of selling  semiconductor
+     equipment.  In place of a network  of  manufacturers'  representatives  and
+     distributors,   WJ  is  establishing   direct  sales  and  service  offices
+     worldwide.
+
+     Customers of the Semiconductor  Equipment Group are numerous. A majority of
+     the  segment's  sales  is  to  manufacturers  of  semiconductor  integrated
+     circuits.  Marubeni  Hytech,  the  company's  Japanese  distributor,  is  a
+     significant  customer  of the  segment.  There  are  several  domestic  and
+     international  competitors  and  competition  is  intense.  In meeting  the
+     competition,  emphasis is placed on selling  quality  products  having both
+     reliability and performance and a strong customer- support network.
+
+     The  Semiconductor  Equipment  Group's  business  depends  upon the capital
+     expenditures   of   semiconductor   manufacturers,   and  the  current  and
+     anticipated  market demand for integrated  circuits.  It is recognized that
+     the  semiconductor  equipment  business is cyclical and can change rapidly.
+     Uncertainty   increases    significantly   when   projecting   demand   for
+     semiconductor equipment products more than 6 months in the future.
+
+                                1           
+
+<PAGE>
+
+     Electronics
+
+     The Electronics Group manufactures turnkey systems,  integrated  subsystems
+     and  signal-processing  components for a broad range of communications  and
+     defense-electronics  applications.  The group is serving new customers with
+     wireless-communication requirements, in addition to supplying sophisticated
+     electronic   products  for   defense-intelligence,   missile-guidance   and
+     space-communications missions.
+
+     Recent  non-defense   contracts  include  transceivers  for  cellular  base
+     stations,    receivers    for   locating    emergency   911   callers   and
+     high-dynamic-range  mixers  for  the  Japanese  manufacturer  of  "personal
+     handi-phone" base stations.
+
+     Watkins-Johnson receivers,  antennas and signal-analysis equipment are used
+     by  both   commercial  and  military   governmental   agencies  to  perform
+     range-monitoring,     frequency-measurement,     signal-localization    and
+     interference-analysis  functions,  often  in  complex,  high-signal-density
+     environments.
+
+     The company is a subcontractor  for certain key missile  programs,  such as
+     the Advanced  Medium-Range  Air-to-Air  Missile  (AMRAAM),  the  High-speed
+     Anti-Radiation  Missile  (HARM)  and  the  Standard  Missile  Block 4 which
+     continue  to   represent  a   substantial   portion  of  the  group's  core
+     defense-electronics business.
+
+     Electronics  Group products are marketed through direct selling efforts and
+     distributor  networks.  Sales  by  the  electronics  segment  were  57%  of
+     consolidated  sales in 1994, 71% in 1993 and 78% in 1992. A majority of the
+     segment  sales is made to  government  agencies and to  customers,  such as
+     Hughes Aircraft Company, engaged in defense contracting.  The principal end
+     user for such sales is the U.S. Department of Defense. Sales contracts with
+     the  government  are  customarily  subject  to terms and  conditions  which
+     provide for  renegotiation of profits or termination of the contract at the
+     election of the government.  The right to terminate for convenience has not
+     had any significant  effect on the company's  financial position or results
+     of operations.
+
+     The electronics segment has numerous  competitors which include both large,
+     diversified  corporations  and  smaller  specialty  firms.  In  addition to
+     pressures from competing companies,  Watkins-Johnson's  defense-electronics
+     business is influenced by political activity and national budgetary policy.
+     In recent years,  Department of Defense  budget  cutbacks have required the
+     company  to reduce  its work  force and  restructure  its  organization  to
+     address changing business opportunities. Ongoing reductions in U.S. defense
+     spending could limit future demand for the company's products.
+
+     Due to the various  industries  in which the  company  and its  competitors
+     operate, a competitive ranking cannot be reasonably  established.  However,
+     WJ's  Electronics  Group is a leading  supplier  in several of its  product
+     markets.  In meeting its  competition,  the company offers quality products
+     featuring both reliability and performance at competitive prices.
+
+
+
+     Other Business Items
+
+     Raw materials for the production of semiconductor  equipment and electronic
+     products are acquired  from a broad range of suppliers.  Because  suppliers
+     are  numerous,  dependence  on any one  supplier  is kept to a minimum.  On
+     occasion,  however,  the  failure  of a supplier  to deliver  key parts can
+     jeopardize the on-time shipment of WJ products. Business operations are not
+     believed to be seasonal. Except for negotiated advance or progress payments
+     from customers on long-term contracts in the defense-electronics  business,
+     there are no special working capital practices.
+
+     The company has been active in securing patents and licensing agreements to
+     protect certain  proprietary  technologies and know-how  resulting from its
+     ongoing  research and  development.  The financial  impact of the company's
+     efforts  to protect  its  intellectual  property  are  unknown.  Management
+     believes that the company's competitive strength derives primarily from its
+     core  competence  in  engineering,   manufacturing  and  understanding  its
+     customers  and  markets;  therefore,   aggressive  steps  to  protect  that
+     knowledge are considered justifiable.
+
+                                2           
+
+<PAGE>
+
+
+     Total  company  backlog at December 31, 1994 was  $235,942,000  compared to
+     $221,437,000  at December 31, 1993. The percentage of backlog  attributable
+     to the semiconductor  equipment and electronics  segments were 39% and 61%,
+     respectively,  in 1994, compared to 22% and 78% in 1993.  Approximately 92%
+     of all backlog at year-end 1994 is shippable within 12 months,  compared to
+     86% at year-end 1993.
+
+     Company-sponsored research and development expense was $34,436,000 in 1994,
+     $27,163,000 in 1993, and $27,210,000 in 1992.  Customer-sponsored  research
+     and  development  was estimated to be  approximately  $24,000,000  in 1994,
+     $18,000,000  in 1993,  and  $25,000,000  in 1992,  and was performed by the
+     Electronics Group.
+
+     The  company's  employment  at  December  31,  1994 was 2,220.  None of the
+     company's employees is covered by a  collective-bargaining  agreement.  The
+     company's relationship with its employees is generally good.
+
+     Environmental issues are discussed in Note 6 to the consolidated  financial
+     statements contained in Part II, Item 8 of this annual report on Form 10-K.
+
+(d)  Financial Information about Foreign and Domestic Operations and Export 
+     Sales. 
+
+     Assets  and sales  from  foreign  operations  are less than ten  percent of
+     consolidated  totals.  Export  sales  and  sales  from  foreign  operations
+     accounted for 45% of the company's  sales in 1994,  33% in 1993, and 25% in
+     1992.  The  inherent  risks of foreign  business  are  similar to  domestic
+     business,  with the additional risks of foreign government  instability and
+     export license  cancellation.  A major portion of foreign product orders in
+     the  electronics  segment  requires  export  licensing by the Department of
+     State prior to shipment.  For international  shipments for both electronics
+     and  semiconductor   equipment  segments,  the  company  purchases  forward
+     exchange  contracts  and/or  obtains  customer  letters of credit to reduce
+     foreign currency  fluctuation and credit risks. For further  information on
+     foreign  sales,  see  Note  8  to  the  consolidated  financial  statements
+     contained in Part II, Item 8 of this annual report on Form 10-K.
+
+ITEM 2. PROPERTIES 
+
+     Watkins-Johnson  Company and subsidiaries  conduct their main operations at
+     plants  in Palo  Alto  and  Scotts  Valley,  California  and  Gaithersburg,
+     Maryland.  Additional  operations  are conducted in Windsor,  England.  The
+     plant in San Jose, California, has been closed and is offered for sale. The
+     company  plans to  close  its  50,000  square  foot  facility  in  Columbia
+     (Savage),  Maryland, in the first quarter of 1995 and will return it to the
+     lessor.
+
+     At December 31, 1994, there were approximately 530,000 square feet of plant
+     space in  California,  225,000  square feet in Maryland,  and 15,000 square
+     feet in England. Approximately 95% of the company's plant space is occupied
+     for the  company's  operations.  The company is pursuing  opportunities  to
+     realize the market value of its properties while ensuring  efficient use of
+     available space.
+
+     The electronics  segment  utilizes  substantially  all of the Palo Alto and
+     Gaithersburg    facilities.    The   Scotts   Valley   plant   houses   the
+     semiconductor-equipment segment.
+
+     The Palo Alto facility and sales office  locations are leased.  Information
+     on  long-term  obligations  is in  Note  3 to  the  consolidated  financial
+     statements contained in Part II, Item 8 of this annual report on Form 10-K.
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+     Information  required  under  this  item  is  contained  in  Note  6 to the
+     consolidated  financial  statements  contained  in Part II,  Item 8 of this
+     annual report on Form 10-K.
+
+                                3           
+
+<PAGE>
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+     The company  submitted no matters to a vote of the  shareowners  during the
+     last quarter of the period covered by this report.
+
+                     EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+<TABLE>
+<CAPTION>
+                                                           OFFICER       BUSINESS EXPERIENCE 
+           NAME             AGE        OFFICE HELD          SINCE          LAST FIVE YEARS 
+- ------------------------- ----- ------------------------ --------- ------------------------------ 
+<S>                       <C>   <C>                      <C>       <C>
+Dr. Dean A. Watkins  .....72    Chairman of the Board    1957      Chairman of the Board 
+
+Dr. H. Richard Johnson  ..68    Vice Chairman of the     1957      Vice Chairman of the Board 
+                                Board
+
+Dr. W. Keith Kennedy, Jr. 51    President and Chief      1977      President and Chief Executive 
+                                Executive Officer                  Officer 
+
+Keith D. Gilbert* ........53    Executive Vice President 1984      President, Electronics Group 
+                                                                   (formerly Defense Group); 
+                                                                   Prior to 1993, Vice President, 
+                                                                   Defense Group 
+
+James L. Schram ..........47    Executive Vice President 1989      President, Semiconductor 
+                                                                   Equipment Group (formerly 
+                                                                   Commercial Group); Prior to 
+                                                                   1993, Vice President, 
+                                                                   Commercial Group; Prior to 
+                                                                   1992, Vice President and 
+                                                                   Manager, Components Division 
+
+Scott G. Buchanan ........43    Vice President and Chief 1989      Vice President and Chief 
+                                Financial Officer                  Financial Officer; Prior to 
+                                                                   1993, Chief Financial Officer 
+                                                                   and Treasurer; Prior to 1991, 
+                                                                   Treasurer 
+
+Richard G. Bell ..........47    Vice President and       1990      Vice President and General 
+                                General Counsel                    Counsel 
+
+Darryl T. Quan ...........40    Controller               1991      Controller; Prior to 1991, 
+                                                                   Manager, Corporate Accounting 
+
+Carol H. Roosen ..........63    Secretary                1988      Secretary 
+                                                                   
+Joan M. Varrone ..........43    Treasurer                1994      Treasurer; Prior to 1994, 
+                                                                   Assistant Treasurer, Raychem 
+                                                                   Corporation 
+</TABLE>
+
+     Dr.  Watkins and Dr.  Johnson have been  directors of the company since its
+     incorporation in 1957. Dr. Kennedy has been a Director since August 1987.
+
+     None  of  the  above   officers   is  related  to  any  other   officer  at
+     Watkins-Johnson Company.
+
+     *In January 1995, Mr.  Gilbert  resigned as Executive Vice President of the
+     company.
+
+                                4           
+
+<PAGE>
+                                   PART II 
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+
+     The  company's  common  stock  is  principally  traded  on the New York and
+     Pacific  stock  exchanges.  At December  31, 1994 there were  approximately
+     4,600 shareowners,  which included holders of record and beneficial owners.
+     The company  expects that  comparable  cash  dividends will continue in the
+     future.
+
+                          DIVIDENDS AND STOCK PRICES 
+
+              1994 QUARTERS                      1ST    2ND     3RD     4TH 
+- ---------------------------------------        -----    -----   -----   ----- 
+Dividends Declared Per Share (in cents)        12       12      12      12 
+Stock Price (NYSE--in dollars) .........High   28-3/4   35-5/8  36-5/8  36 
+                                        Low    19-5/8   24-7/8  26-1/8  28-1/2 
+
+              1993 QUARTERS                      1ST    2ND     3RD     4TH 
+- ---------------------------------------        ------- ------- ------- ------- 
+Dividends Declared Per Share (in cents)          12      12      12      12 
+Stock Price (NYSE--in dollars) .........High     15-1/2  18-1/2  24-1/2  26-1/4 
+                                        Low      12      12-3/4  17-1/4  19-3/8 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+<TABLE>
+<CAPTION>
+                                   (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS) 
+                           ------------------------------------------------------------------ 
+                               1994        1993         1992         1991            1990 
+                           ----------- ----------- ------------  -------------    ----------- 
+<S>                        <C>         <C>         <C>           <C>              <C>
+OPERATING RESULTS 
+Sales .....................$  332,606  $  282,134  $  255,485    $    268,010     $  303,008 
+Net Income ................    20,961      11,596      10,401(a)      (22,399)(b)     13,030 
+Net Income Per Share  .....      2.56        1.45        1.38(a)        (2.98)(b)       1.67 
+Dividends Per Share .......       .48         .48         .48             .48            .48 
+Average Shares Outstanding  8,200,000   7,999,000   7,551,000       7,527,000      7,791,000 
+
+FINANCIAL POSITION 
+Working Capital ...........$  116,651  $  108,497  $  100,852    $     90,363     $   99,367 
+Total Assets ..............   235,030     220,628     206,090         212,579        222,763 
+Long-Term Obligations  ....    22,583      26,463      28,644          31,630         19,459 
+Shareowners' Equity .......   149,626     133,888     125,055         118,126        143,975 
+Firm Backlog ..............$  235,942  $  221,437  $  203,717    $    218,434     $  223,762 
+<FN>
+- -----------
+(a) Includes a tax benefit of $5,438,000, or 72 cents per share, due to the 
+    cumulative effect of a change in accounting for income taxes. 
+(b) Includes pre-tax charges for restructuring, environmental remediation and 
+    pending claims on government contracts totaling $29,751,000 or $3.08 loss 
+    per share. 
+</TABLE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+RESULTS OF OPERATIONS 
+
+     Financial Condition:
+
+     The company's  financial  condition  remains healthy.  During 1994 cash and
+     equivalents  decreased  $11 million from $45 to $34 million.  Although cash
+     flow from operations was positive,  the decline in cash was attributable to
+     higher capital expenditures,  repayment of a long-term mortgage, dividends,
+     and cash used for stock repurchases exceeding stock issuances.  The company
+     expects its  operations  to generate  sufficient  funds to meet next year's
+     cash requirements.  In addition, the company has the ability to augment any
+     unplanned cash needs with readily available external financing.
+
+     Current Operations:
+
+     The  semiconductor-equipment   business  remained  strong  during  1994  as
+     semiconductor  manufacturers  continued to expand their plant capacity. The
+     Semiconductor  Equipment  Group  increased its production  capacity to keep
+     pace with demand. To better serve its international
+
+                                5           
+
+<PAGE>
+
+     customers,  in 1994 the group established  subsidiary  operations in Japan,
+     Singapore and Taiwan in addition to South Korea,  which was  established in
+     1993.  Preparations are underway to open an office in Europe in early 1995.
+     Although the company  remains  cautious about the  uncertainty and cyclical
+     nature of the  semiconductor-equipment  business,  it is  encouraged by the
+     group's record  backlog at the end of 1994 and good order  prospects in the
+     first half of 1995.
+
+     In  contrast  to  the  burgeoning   semiconductor-equipment   market,   the
+     persistent weakness in the defense market prompted the Electronics Group to
+     further streamline its operations and reduce costs.  During 1994, the group
+     consolidated its two Northern California operations into the company's Palo
+     Alto,  California Plant. The group is also planning to consolidate its East
+     Coast operations into the  Gaithersburg,  Maryland Plant in early 1995. The
+     company  believes these actions should help to improve its  competitiveness
+     in the shrinking defense electronics market.
+
+     Furthermore,  the company divested its Environmental business at the end of
+     the  year.  The  divestiture  did  not  have a  significant  impact  on the
+     company's  results of operation and  financial  position.  The  divestiture
+     should allow the company to focus its resources on  high-growth  areas such
+     as   the   already   robust   semiconductor-equipment   segment   and   the
+     telecommunications market within the electronics segment.
+
+     Results of Operations:
+
+     1994 Compared to 1993: Sales in the semiconductor-equipment  segment surged
+     78%  and  more  than  offset  the 6%  decline  in the  electronics  segment
+     resulting  in an overall  company  increase  of 18%.  The  favorable  shift
+     towards more profitable  semiconductor-equipment products helped to improve
+     the  company's  gross  margin  to above  40%  despite  consolidation  costs
+     incurred in the Electronics Group. Selling and administrative expenses grew
+     faster  than  revenues  because  of  commissions  on  higher  international
+     semiconductor-equipment sales. As previously discussed, to improve customer
+     service and better control international  expenses, the company established
+     certain foreign  operations.  The offices will operate in parallel with the
+     current  distributors during a transition period.  Research and development
+     expenditures  were  expectedly  higher than last year due to the  company's
+     efforts in advancing  high-density plasma technology and development of the
+     next generation of products for both business  segments.  The effective tax
+     rate  declined  from 31% to 30%  primarily  due to higher R&D credit.  As a
+     result of the above factors,  net income from  continuing  operations  rose
+     78%.
+
+     1993 Compared to 1992: Semiconductor Equipment Group sales jumped 46% while
+     Electronics  Group sales were flat.  Margins improved  significantly in the
+     Semiconductor  Equipment  Group due to the higher  volume  and  operational
+     efficiencies.  This more than offset the slight  decline in profit  margins
+     experienced  in the  Electronics  Group.  As a result,  the combined  gross
+     margin improved from 35% in 1992 to 36% in 1993. Selling and administrative
+     expenses were higher as expected due to the increase in volume and expenses
+     associated with the profitability of the company. In a  percentage-of-sales
+     comparison,  selling and administrative expenses were favorable relative to
+     1992 but may increase in 1994 due to  anticipated  higher  commissions  and
+     expenses  associated  with  certain   international  sales.   Research  and
+     development  expenses  decreased  for the first  three  quarters of 1993 as
+     activities eased from the intense levels experienced in 1992. In the fourth
+     quarter  1993,  the  Semiconductor  Equipment  Group  began to  reemphasize
+     research and  development  activities  to focus on the next  generation  of
+     products to meet the  time-to-market  window.  The higher level of research
+     and  development  expenses  incurred  in the fourth  quarter is expected to
+     continue for at least the first half of 1994. All other nonoperating income
+     and expenses were within  expectations.  Due to the combined  effect of the
+     above factors, 1993 net income more than doubled the 1992 income before the
+     cumulative effect of an accounting change.
+
+                                6           
+
+<PAGE>
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                         YEAR ENDED DECEMBER 31 
+                                                  ---------------------------------- 
+                                                      1994        1993       1992 
+                                                  ----------- ----------- ---------- 
+<S>                                             <C>           <C>         <C>
+Sales ..........................................$   332,606   $ 282,134   $  255,485 
+                                                  ----------- ----------- ---------- 
+Costs and expenses: 
+Cost of goods sold .............................    195,558     181,557      166,371 
+Selling and administrative .....................     72,033      55,627       52,952 
+Research and development .......................     34,436      27,163       27,210 
+                                                  ----------- ----------- ---------- 
+                                                    302,027     264,347      246,533 
+                                                  ----------- ----------- ---------- 
+Income from operations .........................     30,579      17,787        8,952 
+
+Other income (expense): 
+Interest income ................................      1,562       1,497        1,422 
+Interest expense ...............................     (1,141)     (1,291)      (1,497) 
+Other income (expense)--net ....................       (149)       (278)        (423) 
+                                                  ----------- ----------- ---------- 
+Income from continuing operations before 
+Federal and foreign income taxes and 
+cumulative effect of accounting change  ........     30,851      17,715        8,454 
+Federal and foreign income taxes ...............     (9,200)     (5,550)      (2,650) 
+                                                  ----------- ----------- ---------- 
+Income from continuing operations before 
+cumulative effect of accounting change  ........     21,651      12,165        5,804 
+Discontinued operations (Note 8): 
+Loss from discontinued operations, net of taxes        (490)       (569)        (841) 
+Loss on disposition, net of taxes ..............       (200) 
+                                                  ----------- ----------- ---------- 
+Income before cumulative effect of change in 
+accounting for income taxes ....................     20,961      11,596        4,963 
+Cumulative effect of change in accounting 
+for income taxes ...............................                               5,438 
+                                                  ----------- ----------- ---------- 
+Net income .....................................$    20,961    $ 11,596    $  10,401 
+                                                  =========== =========== ========== 
+Fully diluted per share amounts (difference 
+between fully diluted and primary earnings 
+per share is not material): 
+
+Income from continuing operations before 
+cumulative effect of accounting change  ........$      2.64    $   1.52    $     .77 
+Discontinued operations ........................       (.08)       (.07)        (.11) 
+Cumulative effect of change in accounting 
+for income taxes ...............................                                 .72 
+                                                  ----------- ----------- ---------- 
+Net income .....................................$      2.56    $   1.45    $    1.38 
+                                                  =========== =========== ========== 
+
+Average common and equivalent shares ...........  8,200,000   7,999,000    7,551,000 
+<FN>
+               See notes to consolidated financial statements. 
+</TABLE>
+
+                                7           
+
+<PAGE>
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                         CONSOLIDATED BALANCE SHEETS 
+               (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS) 
+
+<TABLE>
+<CAPTION>
+                                                                   DECEMBER 31 
+                                                            ----------------------- 
+                                                               1994        1993 
+                                                            ----------- ----------- 
+<S>                                                         <C>         <C>
+                                       ASSETS 
+CURRENT ASSETS: 
+Cash and equivalents .......................................$  34,469  $   45,040 
+Receivables ................................................   80,427      73,971 
+Inventories: 
+Finished goods .............................................    1,680       1,805 
+Work in process ............................................   37,682      28,014 
+Raw materials and parts ....................................   12,293       7,327 
+Deferred income taxes ......................................   11,060      10,545 
+Other ......................................................    1,861       2,072 
+                                                            ----------- ----------- 
+Total current assets .......................................  179,472     168,774 
+                                                            ----------- ----------- 
+PROPERTY, PLANT AND EQUIPMENT: 
+Land .......................................................    3,198       4,130 
+Buildings and improvements .................................   24,617      31,250 
+Plant facilities, leased ...................................   13,060      13,060 
+Machinery and equipment ....................................  119,808     119,417 
+                                                            ----------- ----------- 
+                                                              160,683     167,857 
+Accumulated depreciation and amortization .................. (115,537)   (121,028) 
+                                                            ----------- ----------- 
+Property, plant and equipment--net .........................   45,146      46,829 
+                                                            ----------- ----------- 
+OTHER ASSETS: 
+Deferred income taxes ......................................    4,560       4,380 
+Other ......................................................    5,852         645 
+                                                            ----------- ----------- 
+Total other assets .........................................   10,412       5,025 
+                                                            ----------- ----------- 
+                                                            $ 235,030   $ 220,628 
+                                                            =========== =========== 
+                         LIABILITIES AND SHAREOWNERS' EQUITY 
+CURRENT LIABILITIES: 
+Accounts payable ...........................................$  15,045   $  13,243 
+Accrued expenses ...........................................   11,466      10,619 
+Advances on contracts ......................................    7,572      11,820 
+Provision for warranties and losses on contracts  ..........    7,192       5,984 
+Payroll and profit sharing .................................   16,074      13,217 
+Income taxes ...............................................    5,472       5,394 
+                                                            ----------- ----------- 
+Total current liabilities ..................................   62,821      60,277 
+                                                            ----------- ----------- 
+LONG-TERM OBLIGATIONS ......................................   22,583      26,463 
+                                                            ----------- ----------- 
+SHAREOWNERS' EQUITY: 
+Preferred stock, $1.00 par value--authorized and unissued, 
+500,000 shares 
+Common stock, no par value--authorized, 45,000,000 shares; 
+outstanding: 1994, 7,576,471 shares; 1993, 7,598,290 shares    20,279       9,106 
+Retained earnings ..........................................  129,347     124,782 
+                                                            ----------- ----------- 
+Total shareowners' equity ..................................  149,626     133,888 
+                                                            ----------- ----------- 
+                                                            $ 235,030   $ 220,628 
+                                                            =========== =========== 
+<FN>
+               See notes to consolidated financial statements. 
+</TABLE>
+
+                                8           
+
+<PAGE>
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                CONSOLIDATED STATEMENTS OF SHAREOWNERS' EQUITY 
+               (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS) 
+
+<TABLE>
+<CAPTION>
+                                                                           TOTAL 
+                                         COMMON STOCK       RETAINED    SHAREOWNERS' 
+                                      SHARES     DOLLARS    EARNINGS       EQUITY 
+                                   ----------- ---------- ----------- -------------- 
+<S>                                <C>         <C>        <C>         <C>
+Balance, January 1, 1992 ..........7,538,495   $ 7,685   $ 110,441   $ 118,126 
+Net income for 1992 ...............                         10,401      10,401 
+Dividends declared--$.48 per share                          (3,626)     (3,626) 
+Sales under stock option plans  ...   16,370       154                     154 
+                                   ----------- ---------- ----------- -------------- 
+Balance, December 31, 1992 ........7,554,865     7,839     117,216     125,055 
+Net income for 1993 ...............                         11,596      11,596 
+Repurchase of common stock ........  (32,000)      (27)       (399)       (426) 
+Dividends declared--$.48 per share                          (3,631)     (3,631) 
+Sales under stock option plans  ...   75,425     1,294                   1,294 
+                                   ----------- ---------- ----------- -------------- 
+Balance, December 31, 1993 ........7,598,290     9,106     124,782     133,888 
+Net income for 1994 ...............                         20,961      20,961 
+Repurchase of common stock ........ (564,200)     (972)    (12,833)    (13,805) 
+Dividends declared--$.48 per share                          (3,563)     (3,563) 
+Sales under stock option plans  ...  542,381    12,145                  12,145 
+                                   ----------- ---------- ----------- -------------- 
+Balance, December 31, 1994 ........7,576,471   $20,279   $ 129,347   $ 149,626 
+                                   =========== ========== =========== ============== 
+<FN>
+
+               See notes to consolidated financial statements. 
+</TABLE>
+
+                                9           
+
+<PAGE>
+
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                    CONSOLIDATED STATEMENTS OF CASH FLOWS 
+                            (DOLLARS IN THOUSANDS) 
+
+
+<TABLE>
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31 
+                                                           --------------------------------- 
+                                                             1994       1993        1992 
+                                                           ---------- ---------- ----------- 
+<S>                                                        <C>        <C>        <C>
+OPERATING ACTIVITIES: 
+Net income ................................................$ 20,961  $  11,596  $  10,401 
+Adjustments to reconcile net income to net cash provided 
+by operating activities: 
+Depreciation and amortization .............................   8,711      9,961     11,305 
+Deferred tax provisions including accounting change  ......    (695)    (1,075)    (6,450) 
+Net changes in: 
+Receivables ...............................................  (6,456)   (18,409)    13,527 
+Inventories ............................................... (14,509)       345     (2,218) 
+Other assets ..............................................      27       (556)     4,438 
+Accruals and payables .....................................   9,550      8,878      1,318 
+Advances on contracts .....................................  (4,248)     1,261    (12,037) 
+Provision for warranties and losses on contracts  .........   1,208       (980)       198 
+Environmental remediation .................................  (2,727)    (1,676)    (1,581) 
+                                                           ---------- ---------- ----------- 
+Net cash provided by operating activities .................  11,822      9,345     18,901 
+                                                           ---------- ---------- ----------- 
+INVESTING ACTIVITIES: 
+Additions of property, plant and equipment ................ (12,526)    (9,714)    (5,206) 
+Other .....................................................     476        869         32 
+                                                           ---------- ---------- ----------- 
+Net cash used in investing activities ..................... (12,050)    (8,845)    (5,174) 
+                                                           ---------- ---------- ----------- 
+FINANCING ACTIVITIES: 
+Payments on long-term obligations .........................  (4,916)    (1,982)      (974) 
+Proceeds from issuance of common stock ....................  12,145      1,294        154 
+Repurchase of common stock ................................ (13,805)      (426) 
+Dividends paid ............................................  (3,563)    (3,631)    (3,626) 
+Other .....................................................    (204)       204       (343) 
+                                                           ---------- ---------- ----------- 
+Net cash used in financing activities ..................... (10,343)    (4,541)    (4,789) 
+                                                           ---------- ---------- ----------- 
+Net increase (decrease) in cash and equivalents  .......... (10,571)    (4,041)     8,938 
+Cash and equivalents at beginning of year .................  45,040     49,081     40,143 
+                                                           ---------- ---------- ----------- 
+Cash and equivalents at end of year .......................$  34,469  $  45,040  $  49,081 
+                                                           ========== ========== =========== 
+Other cash flow information: 
+Income taxes paid (refunded) ..............................$  9,003  $   3,808  $  (2,638) 
+Interest expense paid .....................................   1,143      1,324      1,522 
+Noncash investing and financing activities: 
+Reclassification of plant held for sale from "Property, 
+Plant and Equipment" to "Other Assets", at book value 
+which is below market (Note 3). ...........................$  5,107 
+<FN>
+
+               See notes to consolidated financial statements. 
+</TABLE>
+
+                               10           
+
+<PAGE>
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+1. SIGNIFICANT ACCOUNTING POLICIES 
+
+Principles of Consolidation--The consolidated financial statements include those
+of the company and its subsidiaries  after elimination of intercompany  balances
+and transactions.
+
+Cash  Equivalents--Cash  equivalents  consist  principally  of commercial  paper
+acquired with  remaining  maturity  periods of 90 days or less and are stated at
+cost plus accrued  interest  which  approximates  market  value.  The  company's
+investment  guidelines  limit  holdings in commercial  paper to  $1,000,000  per
+issuer.
+
+Inventories--Inventories  are  stated  at the  lower  of cost,  using  first-in,
+first-out and average-cost basis, or market. Cost of inventory items is based on
+purchase  and  production  cost.   Long-term  contract  costs  and  selling  and
+administrative  expenses are excluded from inventory.  Progress payments are not
+netted against inventory.
+
+Property, Plant and Equipment--Property, plant and equipment are stated at cost.
+Leases  which at  inception  assure the lessor full  recovery of the fair market
+value  of the  property  over the  lease  term are  capitalized.  Provision  for
+depreciation and amortization is primarily based on the sum-of-the-years'-digits
+and straight-line methods.
+
+Revenue  Recognition--Revenue  on  fixed-price  contracts  other than  long-term
+contracts is recorded  upon  shipment or completion of tasks as specified in the
+contract.  Sales and  allowable  fees  under  cost-reimbursement  contracts  are
+recorded as costs are incurred.  Long-term contract sales and cost of goods sold
+are  recognized  using the  percentage-of-completion  method based on the actual
+physical  completion of work  performed and the ratio of costs incurred to total
+estimated costs to complete the contract.  Any  anticipated  losses on contracts
+are charged to earnings when identified.
+
+Foreign Currency Translation--The functional currency for all foreign operations
+is the  U.S.  dollar.  Gains  or  losses,  which  result  from  the  process  of
+remeasuring  foreign currency  financial  statements and transactions  into U.S.
+dollars, are included in net income and are not material in any year presented.
+
+Income  Taxes--In  1992, the company adopted  Statement of Financial  Accounting
+Standard  No. 109,  "Accounting  for Income  Taxes" (SFAS 109);  previously  the
+company had  accounted for taxes under SFAS 96 (see Note 5). Under SFAS 109, the
+consolidated  statements of income include  provisions for deferred income taxes
+using the "liability"  method for  transactions  that are reported in one period
+for financial accounting purposes and in another period for income tax purposes.
+State  and local  income  taxes  are  included  in  selling  and  administrative
+expenses.
+
+Per Share Information--Beginning in 1993, net income per share is computed using
+the weighted  average number of common and common  equivalent  shares  (dilutive
+stock options) outstanding during the year. The difference between fully diluted
+earnings per share and primary earnings per share is not  significant.  Prior to
+1993,  the  computation  excluded  outstanding  stock options as their  dilutive
+effect was not material.
+
+Reclassification--Certain  amounts for 1993 and 1992 have been  reclassified  to
+conform to the 1994 presentation.
+
+                                       11
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+2. RECEIVABLES 
+
+
+Receivables consist of the following (in thousands): 
+
+                                            1994      1993 
+                                           ---------- --------- 
+U.S. Government long-term contracts: 
+Billed ....................................$ 2,613   $  2,936 
+Unbilled ..................................  9,516      4,896 
+Commercial long-term contracts: 
+Billed ....................................  9,663      3,818 
+Unbilled ..................................    723     11,917 
+                                           ---------- --------- 
+Total long-term contract receivables  ..... 22,515     23,567 
+Other trade receivables ................... 57,912     50,404 
+                                           ---------- --------- 
+Total receivables less allowance of $1,015 
+in 1994 and $999 in 1993 ..................$80,427   $ 73,971 
+                                           ========== ========= 
+
+Unbilled  receivables  represent revenue recognized for long-term  contracts not
+yet billable based on the terms of the contract. These amounts are billable upon
+shipment  of the  product,  achievement  of  milestones,  or  completion  of the
+contract.  Unbilled  receivables are expected to be billed and collected  within
+one year. Receivables representing retainage not collectible within one year are
+not material. There are no significant billed or unbilled receivables subject to
+future negotiation.
+
+Government contracts have provisions for audit, price  redetermination and other
+profit and cost limitations. Contracts may be terminated without prior notice at
+the Government's convenience. In the event of such termination,  the company may
+be  compensated  for work  performed,  a reasonable  allowance  for profit,  and
+commitments at the time of  termination.  The right to terminate for convenience
+has not had any  significant  effect  on the  company's  financial  position  or
+results of operations.
+
+3. LONG-TERM OBLIGATIONS AND LINES OF CREDIT 
+
+Long-term  obligations,  excluding  amounts due within one year,  consist of (in
+thousands):
+
+                              1994      1993 
+                           ---------- --------- 
+Mortgage ..................$     0   $  4,238 
+Deferred compensation  ....  6,330      4,034 
+Environmental remediation    8,430     10,257 
+Long-term leases ..........  7,823      7,934 
+                           ---------- --------- 
+Total .....................$22,583   $ 26,463 
+                           ========== ========= 
+
+The current portion of long-term obligations is included in current liabilities.
+The  expected  maturity  amounts  are  as  follows:  1995,   $2,947,000;   1996,
+$2,072,000; 1997, $1,955,000; 1998, $1,948,000; 1999, $1,942,000.
+
+Mortgage--Primarily  consisted of a mortgage bearing 8 3/4 % interest secured by
+the San Jose,  California  plant.  During 1994,  the mortgage was paid while the
+property was offered for sale.  Based on the  borrowing  rates  available to the
+company for loans with  similar  terms,  the  carrying  value of the mortgage at
+December 31, 1993 approximated fair value.
+
+Deferred  Compensation--The  company has deferred  compensation  plans  covering
+selected  members of management and key technical  employees.  The purpose is to
+reward and encourage talented employees to remain with the company.
+
+                               12           
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+Environmental  Remediation--As  discussed in Note 6, the company is obligated to
+remediate  groundwater   contamination  at  the  Scotts  Valley  and  Palo  Alto
+facilities.  The  portion  expected  to be paid  within one year is  included in
+current liabilities.
+
+Leases--Certain  long-term  leases for plant  facilities  are treated as capital
+leases for financial statement purposes. The leases expire during the years 2014
+to 2029, and renewal options do not provide for lease extensions beyond the year
+2029. The company also has noncancellable  operating leases for plant facilities
+and  equipment  expiring  through  1998.  The leases may be renewed  for various
+periods after the initial term. Payment  obligations under these capitalized and
+operating leases as of December 31, 1994 are as follows (in thousands):
+
+                                    CAPITAL  OPERATING 
+                                     LEASES   LEASES 
+                                ---------- ----------- 
+1995 ...........................$    848   $1,176 
+1996 ...........................     848      357 
+1997 ...........................     848      319 
+1998 ...........................     848      115 
+1999 ...........................     848        0 
+Remaining years ................  15,720        0 
+                                ---------- ----------- 
+Total ..........................  19,960   $1,967 
+                                           =========== 
+Imputed interest ............... (12,026) 
+                                ---------- 
+Present value of lease payments 
+(current portion, $111) ........$  7,934 
+                                ========== 
+
+
+Rent expense  included in  continuing  operations  for  property  and  equipment
+relating to operating leases is as follows (in thousands):
+
+                 1994      1993     1992 
+               --------- --------- -------- 
+Real property  $  774   $   822   $   866 
+Equipment .....   626       865       830 
+               --------- --------- -------- 
+Total .........$ 1,400   $ 1,687   $ 1,696 
+               ========= ========= ======== 
+
+Lines of  Credit--The  company  has  arranged  with  certain  banks  to  provide
+unsecured revolving lines of credit totaling  $23,500,000.  These agreements are
+generally renegotiated on an annual basis. No material compensating balances are
+required  or  maintained.  Borrowings  under  these  facilities  generally  bear
+interest at prime rate,  which ranged from 6 to 8 1/2 percent in 1994. The lines
+of credit were  substantially  unused during the year. The amount of outstanding
+letters of credit and other guarantees, which may reduce the company's available
+lines, totaled $4,701,000 at December 31, 1994.
+
+4. SHAREOWNERS' EQUITY 
+
+Stock  Repurchase  Program--During  1994,  the Board of Directors  increased its
+common-stock-repurchase   authorization  from  1,500,000  to  2,500,000  shares.
+Through December 31, 1994, 1,500,000 shares have been repurchased completing the
+previous repurchase authorization.  The new authorization enables the company to
+continue to acquire its common stock from time to time when appropriate.
+
+Common  Share   Purchase   Rights--For   each  share  of  company  common  stock
+outstanding,  one Common Share  Purchase  Right is attached.  The Rights  expire
+October 20,  1996,  and may be redeemed by the company for $.01 per Right at any
+time  prior to 15 days  after an entity  acquires  20% or more of the  company's
+common stock. The Rights become exercisable if an entity acquires 20% or more of
+the company's outstanding common stock, or announces an offer which would result
+in such entity acquiring
+
+                               13           
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+30% or more of the company's common stock.  When  exercisable,  the Rights trade
+separately  from the common  stock and  entitle a holder to buy one share of the
+company's  common stock for $160. If the company is  subsequently  involved in a
+merger or other business combination,  each Right will entitle its holder to buy
+a number  of shares of common  stock of the  surviving  company  having a market
+value of twice the $160 exercise  price.  The Rights also provide for protection
+against self-dealing transactions by a controlling shareowner.
+
+Stock  Option  Plans--The  Employee  Stock  Option Plan  provides  for grants of
+nonqualifying and incentive stock options to certain key employees and officers.
+The options  are granted at the market  price on date of grant and expire at the
+tenth anniversary date. One-third of the options granted are exercisable in each
+of the third, fourth and fifth succeeding years. The Plan allows those employees
+who are subject to the insider  trading  restrictions  certain limited rights to
+receive  cash in the  event of a change in  control.  Shares  issued  are net of
+retirement  of shares used in payment for options  exercised.  In addition,  the
+Plan permits the award of  restricted  stock rights  subject to a fixed  vesting
+schedule.  The holder of vested restricted stock has certain  dividend,  voting,
+and other shareowner  rights.  No restricted stock awards have been made through
+December 31, 1994.
+
+The  Nonemployee  Directors  Stock Option Plan provides for a fixed  schedule of
+options to be granted through 1998. Options granted are exercisable similarly to
+the Employee  Stock  Option Plan.  The total number of shares to be issued under
+this plan may not exceed 200,000  shares.  Included in the tables below,  16,320
+option  shares  were  granted at $29.00 in 1994 and 17,640  option  shares  were
+granted at $12.88 in 1993.
+
+Activity related to stock option plans is as follows: 
+
+ 1994                          SHARES         PRICE 
+- --------------------------- ----------- ---------------- 
+Granted ....................  577,320   $22.75 to $35.88 
+Exercised ..................  573,842   $ 9.63 to $28.25 
+Terminated .................   28,641 
+At December 31: 
+Outstanding ................1,844,249   $ 9.63 to $36.75 
+Exercisable ................  865,146   $ 9.63 to $36.75 
+Reserved for future grants  1,108,551 
+
+
+ 1993                          SHARES         PRICE 
+- --------------------------- ----------- ---------------- 
+Granted ....................  449,640   $12.38 to $24.50 
+Exercised ..................   87,945   $13.00 to $21.00 
+Terminated .................  154,167 
+At December 31: 
+Outstanding ................1,869,412   $ 9.63 to $36.75 
+Exercisable ................1,058,700   $ 9.88 to $36.75 
+Reserved for future grants  1,657,230 
+
+Included in the Consolidated  Statements of Shareowners' Equity are tax benefits
+related to sales under stock option plans of $2,327,000, $123,000 and $9,000 for
+1994, 1993 and 1992, respectively.
+
+                               14           
+
+<PAGE>
+
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+5. INCOME TAXES 
+
+In 1992 the company adopted Statement of Financial Accounting Standards No. 109,
+"Accounting  for  Income  Taxes"  (SFAS 109) which  permits  recognition  of tax
+benefits for certain  temporary  differences  that could not be recognized under
+SFAS 96. Under SFAS 109,  deferred  tax assets are  recognized  when  management
+believes  realization  of future tax benefits of temporary  differences  is more
+likely than not.  In  estimating  future tax  consequences,  SFAS 109  generally
+considers all expected future events other than enactments of changes in the tax
+law or rates,  whereas SFAS 96 gave no  recognition  to future events other than
+the recovery of assets and settlement of liabilities at their carrying  amounts.
+The cumulative effect of this accounting change increased deferred tax assets at
+January 1, 1992 and first  quarter 1992 net income by $5,438,000 or 72 cents per
+share.  The  provision  for  Federal  and  foreign  income  taxes on income from
+continuing operations consists of the following (in thousands):
+
+               1994      1993      1992 
+            --------- --------- --------- 
+Current ....$ 9,895   $  6,625  $  3,662 
+Deferred  ..   (695)    (1,075)   (1,012) 
+            --------- --------- --------- 
+Total ......$ 9,200   $  5,550  $  2,650 
+            ========= ========= ========= 
+
+Deferred tax assets  (liabilities) are comprised of the following at December 31
+(in thousands):
+
+                                   1994      1993      1992 
+                                ---------- --------- --------- 
+Capitalized leases .............$   632   $    675  $    736 
+Deferred compensation ..........  3,251      3,357     2,055 
+Loss accruals ..................  6,295      5,423     5,919 
+Environmental remediation  .....  3,490      4,034     4,601 
+Uniform capitalization .........  1,273      1,055       929 
+Vacation accrual ...............  1,724      1,744     1,698 
+Other ..........................    675        454       211 
+                                ---------- --------- --------- 
+Gross deferred tax assets  ..... 17,340     16,742    16,149 
+                                ---------- --------- --------- 
+Depreciation ................... (1,562)    (1,413)   (1,910) 
+Other ..........................   (158)      (404)     (389) 
+                                ---------- --------- --------- 
+Gross deferred tax liabilities   (1,720)    (1,817)   (2,299) 
+                                ---------  --------- --------- 
+Net deferred tax asset .........$15,620   $ 14,925  $ 13,850 
+                                ========== ========= ========= 
+
+The differences  between the effective income tax rate and the statutory Federal
+income tax rate are as follows:
+
+                                    1994    1993    1992 
+                                  ------- ------- ------- 
+Statutory Federal tax rate  ......  35.0%   35.0%   34.0% 
+Foreign sales corporation benefit   (5.5)   (7.0)   (6.3) 
+Research credit ..................  (2.3) 
+Foreign subsidiary losses ........    .2     1.7     2.5 
+Other ............................   2.4     1.7     1.3 
+                                  ------- ------- ------- 
+Effective rate ...................  29.8%   31.4%   31.5% 
+                                  ======= ======= ======= 
+
+Domestic  state and local  income taxes  included in selling and  administrative
+expenses totaled  $1,813,000 in 1994,  $1,257,000 in 1993, and $640,000 in 1992.
+Foreign operation amounts represent less than 5% of totals.
+
+                               15           
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+The Omnibus  Budget  Reconciliation  Act of 1993 (the Act) became  effective  on
+August 10, 1993. The provisions of the Act did not have a material effect on the
+company's deferred taxes or its results of operations.
+
+6. ENVIRONMENTAL REMEDIATION AND OTHER CONTINGENCIES 
+
+The company remains in compliance with the remedial action plans being monitored
+by various regulatory agencies at its Scotts Valley and Palo Alto sites. In 1994
+the company  reached  agreement  with the other  potential  responsible  parties
+regarding allocations of the remediation costs at the Palo Alto site.
+
+In 1991 the company  recorded a $15  million  charge for  estimated  remediation
+actions and cleanup costs. No additional provision has been recorded since 1991.
+Expenditures  of $2,727,000,  $1,676,000  and  $1,581,000  were incurred for the
+years 1994, 1993 and 1992, respectively. While the timing and ultimate amount of
+expenditures  of restoring  the sites cannot be predicted  with  certainty,  the
+company  believes that the provision  taken is adequate  based on facts known at
+this  time.  Changes  in  environmental  regulations,  improvements  in  cleanup
+technology and discovery of additional  information  concerning  these sites and
+other sites could affect the estimated costs in the future.
+
+In  addition  to the above  environmental  matters,  the  company is involved in
+various  legal  actions  which  arose in the  ordinary  course  of its  business
+activities.  Although  the  environmental  provision  was  not  reduced  by  any
+potential  recoveries from insurers or other  responsible  parties,  the company
+will continue to vigorously pursue such recoveries. Except for the environmental
+provision  noted  above,  the company  believes  the final  resolution  of these
+matters  should not have a material  impact on its results of  operations,  cash
+flows, and financial position.
+
+7. EMPLOYEE BENEFIT PLANS 
+
+Profit Sharing Investment  Plan--The  Watkins-Johnson  Employees' Profit Sharing
+Investment Plan conforms to the  requirements of ERISA and the Internal  Revenue
+Code as a qualified defined contribution plan. The Plan covers substantially all
+employees  and  provides  that the  company's  contribution  equal 9% of the net
+pretax  earnings  and be funded  each  year.  The  amount  charged to income was
+$3,190,000 in 1994,  $1,945,000 in 1993, and $906,000 in 1992. During the fourth
+quarter of 1994, the Board of Directors  approved an amendment to the Plan which
+provides  for earnings  contributions  to be replaced  with company  matching of
+employees' 401(k) salary deferrals  effective January 1, 1995. Under the revised
+plan, the company will match up to 3% of eligible employee compensation.
+
+Employee Stock  Ownership  Plan  (ESOP)--The  ESOP was  established to encourage
+employee  participation  and  long-term  ownership of company  stock.  The Board
+determines each year's  contribution  depending on the performance and financial
+condition  of the  company.  The Board  approved a  contribution  equal to 1% of
+eligible  employee  compensation  for 1994,  1993,  and 1992,  which resulted in
+charges to income of $894,000,  $887,000, and $900,000,  respectively.  The ESOP
+held  204,000 and 185,000  shares of common stock at December 31, 1994 and 1993,
+respectively.  The ESOP is a qualified defined contribution plan under ERISA and
+the Internal Revenue Code.
+
+8. BUSINESS SEGMENT REPORTING 
+
+The  company  had  operated  in  three  industry  segments.  Operations  in  the
+Electronics  segment  include the design,  development,  manufacture and sale of
+advanced  electronic  systems and devices for military,  space,  and  commercial
+applications.  Operations in the  Semiconductor  Equipment  segment  involve the
+development,   production,   sales  and  service  of   chemical-vapor-deposition
+equipment  used in the  manufacture  of  semiconductor  products and  flat-panel
+displays.  The Environmental  Services  operations provide technical  consulting
+services   ranging  from  the   exploration,   development  and  utilization  of
+groundwater  resources to the detection and remediation of  contaminated  sites.
+This business was divested at the end of 1994 and is reported as a  discontinued
+business in the financial statements.
+
+                               16           
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+The U.S.  Government and Hughes Aircraft  Company are significant  customers for
+the Electronics  segment.  Sales to U.S. Government agencies and Hughes Aircraft
+Company totaled $57,000,000 and $35,000,000 in 1994; $60,000,000 and $41,000,000
+in 1993; $62,000,000 and $28,000,000 in 1992, respectively. Marubeni Hytech, the
+company's Japanese distributor,  is a significant customer for the Semiconductor
+Equipment  Group.  Sales  to  Marubeni  Hytech  totaled   $39,000,000  in  1994;
+$16,000,000 in 1993; and $7,000,000 in 1992.
+
+Continuing operations by business segment are as follows (in thousands): 
+
+<TABLE>
+<CAPTION>
+                                             YEAR ENDED DECEMBER 31, 1994 
+                            ------------------------------------------------------------- 
+                                                       YEAR- 
+                                          PRE-TAX       END       CAPITAL 
+                                SALES      INCOME     ASSETS     ADDITIONS   DEPRECIATION 
+                            ----------- ---------- ----------- ----------- -------------- 
+<S>                         <C>         <C>        <C>         <C>         <C>
+Electronics ................$189,070   $  8,394   $ 108,656   $  4,600    $  5,272 
+Semiconductor Equipment  ... 143,536     22,185      68,270      7,649       2,993 
+Corporate ..................                         58,104        277         446 
+                            ----------- ---------- ----------- ----------- -------------- 
+Income from continuing 
+ operations ................             30,579 
+Other income (expense)--net                 272 
+                            ----------- ---------- ----------- ----------- -------------- 
+Total ......................$332,606   $ 30,851   $ 235,030   $ 12,526    $  8,711 
+                            =========== ========== =========== =========== ============== 
+
+                                             YEAR ENDED DECEMBER 31, 1993 
+                            ------------------------------------------------------------- 
+Electronics ................$201,410   $  7,196   $ 108,030   $  4,833    $  6,661 
+Semiconductor Equipment  ...  80,724     10,591      49,012      4,299       2,786 
+Corporate ..................                         63,586        582         514 
+                            ----------- ---------- ----------- ----------- -------------- 
+Income from continuing 
+operations .................             17,787 
+Other income (expense)--net                 (72) 
+                            ----------- ---------- ----------- ----------- -------------- 
+Total ......................$282,134   $ 17,715   $ 220,628   $  9,714    $  9,961 
+                            =========== ========== =========== =========== ============== 
+
+                                             YEAR ENDED DECEMBER 31, 1992 
+                            ------------------------------------------------------------- 
+Electronics ................$200,279   $  9,414   $ 112,097   $  3,277    $  8,035 
+Semiconductor Equipment  ...  55,206       (462)     24,829      1,798       3,011 
+Corporate ..................                         69,164        131         259 
+                            ----------- ---------- ----------- ----------- -------------- 
+Income from continuing 
+operations .................              8,952 
+Other income (expense)--net                (498) 
+                            ----------- ---------- ----------- ----------- -------------- 
+Total ......................$255,485   $  8,454   $ 206,090   $  5,206    $ 11,305 
+                            =========== ========== =========== =========== ============== 
+</TABLE>
+
+Corporate assets consist primarily of cash and equivalents.  Also included,  are
+assets  of  discontinued   operations  which  are  not  material  for  any  year
+represented.
+
+                               17           
+
+<PAGE>
+                    WATKINS-JOHNSON COMPANY AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+Summarized below are operating results and assets of the discontinued 
+Environmental Services business. Intersegment sales were transferred based on 
+negotiated prices (in thousands). 
+
+                                     YEAR ENDED DECEMBER 31 
+                                ------------------------------ 
+                                   1994      1993       1992 
+                                --------- --------- ---------- 
+Sales ..........................$ 4,911  $  5,536  $ 10,490 
+Intersegment sales ............. (1,294)   (1,380)   (1,575) 
+                                --------- --------- ---------- 
+Net sales ......................  3,617     4,156     8,915 
+                                --------- --------- ---------- 
+Loss before income taxes  ......   (690)     (869)   (1,241) 
+Income tax benefit .............    200       300       400 
+Loss on disposition net of $100 
+ income tax benefit ............   (200) 
+                                --------- --------- ---------- 
+Net loss .......................$  (690) $   (569) $   (841) 
+                                ========= ========= ========== 
+                                         DECEMBER 31 
+                                ---------------------------- 
+                                  1994      1993     1992 
+                                --------- --------- -------- 
+Assets .........................$ 2,281   $ 3,923   $ 5,633 
+                                ========= ========= ======== 
+
+Sales  from  continuing  operations  by  geographic  area  are  as  follows  (in
+thousands):
+
+                                1994        1993        1992 
+                             ----------- ----------- ----------- 
+United States ...............$183,963   $ 188,919   $ 190,696 
+Export sales: 
+Europe ......................  26,534      20,830      12,266 
+Far East ....................  98,924      44,970      26,548 
+Other .......................  12,385      15,652      11,311 
+European foreign operations    10,800      11,763      14,664 
+                             ----------- ----------- ----------- 
+Total .......................$332,606   $ 282,134   $ 255,485 
+                             =========== =========== =========== 
+
+Foreign  operations' sales and identifiable  assets are less than ten percent of
+consolidated totals.
+
+9.  QUARTERLY FINANCIAL DATA--UNAUDITED 
+
+Unaudited  quarterly  financial  data are as follows (in  thousands,  except per
+share amounts):
+
+                              YEAR ENDED DECEMBER 31 
+                     --------------------------------------- 
+1994 QUARTERS            1ST       2ND       3RD       4TH 
+- -------------------- --------- --------- --------- --------- 
+Sales ...............$80,526   $87,365   $83,174   $81,541 
+Gross profit ........ 29,476    37,585    34,776    35,211 
+Net income ..........  3,624     5,934     5,386     6,017 
+Net income per share $   .45   $   .73   $   .61   $   .77 
+
+
+ 1993 QUARTERS           1ST       2ND       3RD       4TH 
+- -------------------- --------- --------- --------- --------- 
+Sales ...............$65,443   $66,963   $71,804   $77,924 
+Gross profit ........ 21,821    22,762    25,352    30,642 
+Net income ..........  1,370     2,652     3,512     4,062 
+Net income per share $   .18   $   .33   $   .42   $   .52 
+
+
+Included  in net income and net income per share are results  from  discontinued
+operations which do not have a material impact on any individual quarter.
+
+                               18           
+
+<PAGE>
+                             REPORT OF MANAGEMENT 
+
+The   consolidated   financial   statements  of   Watkins-Johnson   Company  and
+subsidiaries  were  prepared  by  management,  which is  responsible  for  their
+integrity and  objectivity.  The  statements  were  prepared in conformity  with
+generally accepted accounting  principles and, as such, include amounts that are
+based on the best judgments of management.
+
+The system of internal controls of the company is designed to provide reasonable
+assurance  that assets are  safeguarded  and that  transactions  are executed in
+accordance with management's  authorization and are reported  properly.  Perhaps
+the most important  safeguard for  shareowners is the company's  emphasis in the
+selection,  training and  development  of  professional  accounting  managers to
+implement and oversee the proper  application  of its internal  controls and the
+reporting of  management's  stewardship of corporate  assets and  maintenance of
+accounts in conformity with generally accepted accounting principles.
+
+Deloitte  & Touche  LLP,  independent  auditors,  are  retained  to  provide  an
+objective,   independent   review   as  to   management's   discharge   of   its
+responsibilities  insofar as they relate to the  fairness of reported  operating
+results and financial position. They obtain and maintain an understanding of the
+company's accounting and financial controls,  and conduct such tests and related
+procedures as they deem necessary to arrive at an opinion on the fairness of the
+financial statements.
+
+The Audit Committee of the Board of Directors, composed solely of Directors from
+outside the  company,  meets  periodically,  separately  and  jointly,  with the
+independent  auditors and  representatives  of  management to review the work of
+each. The functions of the Audit Committee  include  recommending the engagement
+of the  independent  auditors,  reviewing the scope and results of the audit and
+reviewing  management's  evaluation of the system of internal controls. 
+
+
+    W. Keith Kennedy,  Jr.                       Scott G.  Buchanan
+    President  and                                Vice President and 
+       Chief  Executive  Officer                   Chief Financial Officer
+
+                               19           
+
+<PAGE>
+                         INDEPENDENT AUDITORS' REPORT 
+
+The Shareowners and Board of Directors 
+ of Watkins-Johnson Company: 
+
+We have audited the accompanying  consolidated balance sheets of Watkins-Johnson
+Company  and  subsidiaries  as of December  31,  1994 and 1993,  and the related
+consolidated  statements of operations,  shareowners' equity, and cash flows for
+each of the three years in the period ended December 31, 1994.  These  financial
+statements   are  the   responsibility   of  the   company's   management.   Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion,  such consolidated  financial  statements present fairly, in all
+material  respects,  the  financial  position  of  Watkins-Johnson  Company  and
+subsidiaries at December 31, 1994 and 1993, and the results of their  operations
+and their cash flows for each of the three  years in the period  ended  December
+31, 1994 in conformity with generally accepted accounting principles.
+
+In 1992, the company  adopted  Statement of Financial  Accounting  Standards No.
+109,  "Accounting for Income Taxes," as described in Note 5 to the  consolidated
+financial statements.
+
+February 3, 1995 
+
+Deloitte & Touche LLP 
+San Francisco, California 
+
+                               20           
+
+<PAGE>
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+        FINANCIAL DISCLOSURE 
+
+Not applicable. 
+
+                                   PART III 
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+     The information required by this item concerning the company's directors is
+     shown under the caption "Election of Directors" in the company's definitive
+     proxy statement filed with the Commission pursuant to Regulation 14A.
+
+     The information  relating to the company's  executive officers is presented
+     in Part I of this Form 10-K under the  caption  "Executive  Officers of the
+     Registrant".
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+     See this caption in the definitive  proxy  statement  which the company has
+     filed with the Commission pursuant to Regulation 14A.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+
+     This information is shown under the captions "Security Ownership of Certain
+     Beneficial Owners & Management" in the company's definitive proxy statement
+     filed with the Commission pursuant to Regulation 14A.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+     Information  concerning  certain business  relationships is shown under the
+     caption  "Executive  Compensation"  in the definitive proxy statement which
+     the company has filed with the Commission pursuant to Regulation 14A. There
+     were no transactions with management for which disclosure would be required
+     by Item 404 of Regulation S-K.
+
+                                   PART IV 
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K 
+
+<TABLE>
+<CAPTION>
+                                                                            PAGE 
+                                                                          ------- 
+<S>     <C>                                                               <C>
+(a)1.   Consolidated Financial Statements 
+
+        Consolidated Statements of Operations For the Years Ended 
+        December 31, 1994, 1993 and 1992                                      7 
+
+        Consolidated Balance Sheets December 31, 1994 and 1993                8 
+
+        Consolidated Statements of Shareowners' Equity For the Years 
+        Ended December 31, 1994, 1993 and 1992                                9 
+
+        Consolidated Statements of Cash Flows For the Years Ended 
+        December 31, 1994, 1993 and 1992                                     10 
+
+        Notes to Consolidated Financial Statements                        11-18 
+
+        Report of Management                                                 19 
+
+        Independent Auditors' Report                                         20 
+
+                               21           
+
+<PAGE>
+                                                                            PAGE 
+                                                                          ------- 
+
+     2. Financial Statement Schedules
+
+     Independent Auditors' Report                                         24
+
+     II Valuation and Qualifying Accounts and Reserves For the Years 
+        Ended December 31, 1994, 1993 and 1992                            25 
+</TABLE>
+
+     Schedules not listed above are omitted because of the absence of conditions
+     under  which they are  required  or because  the  required  information  is
+     included in the financial statements or in the notes thereto.
+
+     3. Exhibits
+
+     A list of the  exhibits  required to be filed as part of this report is set
+     forth in the Exhibit Index, which immediately  precedes such exhibits.  The
+     exhibits are numbered  according to Item 601 of  Regulation  S-K.  Exhibits
+     incorporated by reference to a prior filing are designated by an asterisk.
+
+- ----------
+(b) No reports on Form 8-K were required to be filed during the last quarter 
+    of the period covered by this report. 
+(c) The exhibits required to be filed by Item 601 of Regulation S-K are the 
+    same as Item 14(a)3 above. 
+(d) Financial statement schedules not included herein have been omitted 
+    because of the absence of conditions under which they are required or 
+    because the required information is included in the financial statements 
+    or in the notes thereto. 
+
+                               22           
+
+<PAGE>
+                                  SIGNATURES 
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities 
+Exchange Act of 1934, the registrant has duly caused this annual report to be 
+signed on its behalf by the undersigned, thereunto duly authorized. 
+
+
+                                              WATKINS-JOHNSON COMPANY 
+                                    ----------------------------------------- 
+                                                    (Registrant) 
+
+Date: March 1, 1995                 By:   /s/    DEAN A. WATKINS 
+                                    ----------------------------------------- 
+                                                 DEAN A. WATKINS 
+                                             CHAIRMAN OF THE BOARD 
+
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this 
+report has been signed below by the following persons on behalf of the 
+registrant and in the capacities and on the dates indicated. 
+
+<TABLE>
+<CAPTION>
+            SIGNATURE                               TITLE                           DATE 
+<S>                              <C>                                       <C>                   
+- -------------------------------- ----------------------------------------- --------------------  
+
+Principal Executive Officer: 
+
+ /s/   W. KEITH KENNEDY, JR. 
+ -------------------------------- 
+       W. KEITH KENNEDY, JR.     President and Chief Executive Officer     March 1, 1995 
+
+
+Principal Financial and Accounting Officer: 
+
+ /s/     SCOTT G. BUCHANAN 
+ -------------------------------- Vice President and Chief Financial 
+         SCOTT G. BUCHANAN       Officer                                   March 1, 1995 
+
+ /s/    H. RICHARD JOHNSON 
+ -------------------------------- 
+        H. RICHARD JOHNSON       Director                                  March 1, 1995 
+
+ /s/     JOHN J. HARTMANN 
+ -------------------------------- 
+         JOHN J. HARTMANN        Director                                  February 28, 1995 
+
+ /s/   RITA RICARDO-CAMPBELL 
+ -------------------------------- 
+       RITA RICARDO-CAMPBELL     Director                                  March 1, 1995 
+
+ /s/      VON R. ESHLEMAN 
+ -------------------------------- 
+          VON R. ESHLEMAN        Director                                  March 1, 1995 
+
+ /s/   RAYMOND F. O'BRIEN 
+ -------------------------------- 
+       RAYMOND F. O'BRIEN        Director                                  February 27, 1995 
+
+ /s/     WILLIAM R. GRAHAM 
+ -------------------------------- 
+         WILLIAM R. GRAHAM       Director                                  March 8, 1995 
+
+ /s/     GARY M. CUSUMANO 
+ -------------------------------- 
+         GARY M. CUSUMANO        Director                                  March 1, 1995 
+
+ /s/     ROBERT L. PRESTEL 
+ -------------------------------- 
+         ROBERT L. PRESTEL       Director                                  February 28, 1995 
+</TABLE>
+
+                               23           
+
+<PAGE>
+                         INDEPENDENT AUDITORS' REPORT 
+
+Watkins-Johnson Company: 
+
+We have audited the consolidated financial statements of Watkins-Johnson Company
+and  subsidiaries  as of December  31, 1994 and 1993,  and for each of the three
+years in the period ended  December 31, 1994, and have issued our report thereon
+dated February 3, 1995, which report includes an explanatory  paragraph as to an
+accounting change in 1992 to adopt Statement of Financial  Accounting  Standards
+No. 109,  "Accounting for Income Taxes," such consolidated  financial statements
+and report are included in Item 8 of this annual report on Form 10-K. Our audits
+also included the consolidated  financial  statement schedule of Watkins-Johnson
+Company  and  subsidiaries,  listed  in Item  14.  This  consolidated  financial
+statement  schedule  is the  responsibility  of the  company's  management.  Our
+responsibility  is to express an opinion  based on our audits.  In our  opinion,
+such consolidated  financial  statement taken as a whole,  present fairly in all
+material respects the information set forth therein.
+
+
+February 3, 1995 
+
+Deloitte & Touche LLP 
+San Francisco, California 
+
+                               24           
+
+<PAGE>
+                                                                   SCHEDULE II 
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                VALUATION AND QUALIFYING ACCOUNTS AND RESERVES 
+             FOR THE YEARS ENDED DECEMBER 31, 1994, 1993 AND 1992 
+
+<TABLE>
+<CAPTION>
+                                   BALANCE AT   CHARGED TO                 BALANCE AT 
+                                   BEGINNING    COSTS AND                    END OF 
+DESCRIPTION                        OF PERIOD     EXPENSES   DEDUCTIONS(1)   PERIOD(2) 
+- -------------------------------- ------------ ------------ ------------- ------------- 
+<S>                              <C>          <C>          <C>           <C>
+1994 
+Allowance for doubtful accounts  $998,998     $16,900      $1,000        $ 1,014,898 
+                                 ============ ============ ============= ============= 
+1993 
+Allowance for doubtful accounts  $982,244     $21,420      $4,666        $   998,998 
+                                 ============ ============ ============= ============= 
+1992 
+Allowance for doubtful accounts  $965,989     $24,550      $8,295        $   982,244 
+                                 ============ ============ ============= ============= 
+<FN>
+- ----------
+(1) Write-off of uncollectible accounts. 
+(2) Reduction of accounts receivable. 
+</TABLE>
+
+                               25           
+
+<PAGE>
+
+                                EXHIBIT INDEX 
+
+
+<TABLE>
+<CAPTION>
+ EXHIBIT 
+NUMBER                                               DESCRIPTION 
+- ----------- ------------------------------------------------------------------------------------------- 
+<S>         <C>
+3-a         *Articles of Incorporation of Watkins-Johnson Company, as amended May 8, 1989. 
+
+3-b         *By-Laws of Watkins-Johnson Company, as amended April 27, 1989 (Exhibit 3-b to Form 10-K 
+            for 1980, Commission File No. 1-5631). 
+
+10          Material Contracts 
+
+10-a        *Lease and Agreement between Lindco Properties Company and Watkins-Johnson 
+            Company commencing May 1, 1969 (Exhibit (b) I to Form 10-K for 1969, Commission File No. 
+            2-22436). 
+
+10-b        *Lease and Agreement between Morrco Properties Company and Watkins-Johnson 
+            Company dated October 31, 1975 (Exhibit 2(c) to Form 10-K for 1976, Commission File No. 
+            1-5631). 
+
+10-c        *Lease and Agreement between Danac Real Estate Investment Corporation and Watkins-Johnson 
+            Company (Exhibit 6 to Form 10-K for 1972, Commission File No. 2-22436) and the amendments 
+            thereto (Exhibit 1(b) to Form 10-K for 1976, Commission File No. 1-5631). 
+
+10-d        *Building and Loan Agreement and Deed of Trust Note between Danac Real Estate 
+            Investment Corporation and Watkins-Johnson Company (Exhibit 7 to Form 10-K for 1972, 
+            Commission File No. 2-22436). 
+
+10-e        *Promissory Note and Deed of Trust Agreement entered into between the New England Mutual 
+            Life Insurance Company and Watkins-Johnson Company dated May, 1978 
+            (Exhibit 2 to Form 10-K for 1978, Commission File No. 1-5631). 
+
+10-f        *Promissory Note and Deed of Trust entered into by the Wake County Industrial Facilities 
+            and Pollution Control Financing Authority, the NCNB National Bank of North Carolina and 
+            Watkins-Johnson Company dated December 28, 1984 (Exhibit 10-f to Form 10-K for 1984, 
+            Commission File No. 1-5631). 
+
+10-g        *Deferred Compensation Plan effective November 29, 1979 (Exhibit 10-g to Form 10-K for 
+            1984, Commission File No. 1-5631). 
+
+10-h        *Key Top-Management Incentive Bonus Plan Summary (Exhibit 10-h to Form 10-K for 1985, 
+            Commission File No. 1-5631). 
+
+10-i        *Employment Agreement Form, in effect for those employees listed in the company's 
+            definitive proxy statement filed with the Commission pursuant to Regulation 14A 
+            (Exhibit 10-i to Form 10-K for 1984, Commission File No. 1-5631). 
+
+10-j        *Deferred Compensation Plan effective November 29, 1979 as amended March 31, 1986 (Exhibit 
+            10-j to Form 10-K for 1986, Commission File No. 1-5631). 
+
+10-k        *Lease and Agreement between Seagate Technology and Watkins-Johnson Company dated September 
+            19, 1986 (Exhibit 10-k to Form 10-K for 1986, Commission File No. 1-5631). 
+
+10-k(1)     *Termination of Lease and Agreement between Seagate Technology and Watkins-Johnson Company 
+            dated September 22, 1987 (Exhibit 10-k(1) to Form 10-K for 1987, Commission File No. 
+            1-5631). 
+
+10-1        *Severance Agreement Form, in effect for those employees listed in the company's definitive 
+            proxy statement filed with the Commission pursuant to Regulation 14A (Exhibit 10-l to Form 
+            10-K for 1986, Commission File No. 1-5631). 
+
+10-m        *Form of Rights Agreement between Watkins-Johnson Company and Bank of America National 
+            Trust and Savings Association (Exhibit 4 to the 1986 Third Quarter Form 10-Q, Commission 
+            File No. 1-5631). 
+
+
+                               26           
+
+<PAGE>
+EXHIBIT 
+NUMBER                                               DESCRIPTION 
+- ----------- ------------------------------------------------------------------------------------------- 
+
+10-n        *Watkins-Johnson Company 1976 Stock Option Plan, as amended September 28, 1987 
+            (Appendix A to the company's definitive proxy statement dated March 1, 1988 filed with the 
+            Commission pursuant to Regulation 14A). 
+
+10-o        *Watkins-Johnson Company 1989 Stock Option Plan for nonemployee directors (Appendix A to 
+            the company's definitive proxy statement dated February 28, 1990 filed with the Commission 
+            pursuant to Regulation 14A). 
+
+10-p        *Watkins-Johnson Company 1976 Stock Option Plan amended and renamed as the 1991 Stock 
+            Option and Incentive plan (Appendix A to the company's definitive proxy statement dated 
+            February 28, 1991 filed with the commission pursuant to Regulation 14A). 
+
+11          Statement re Computation of Per Share Earnings. 
+
+21          Subsidiaries of Watkins-Johnson Company. 
+
+23          Consent of Independent Auditors. 
+</TABLE>
+
+                               27           
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF NET INCOME PER COMMON SHARE
+<TEXT>
+
+
+                                                                    EXHIBIT 11 
+                   WATKINS-JOHNSON COMPANY AND SUBSIDIARIES 
+                  COMPUTATION OF NET INCOME PER COMMON SHARE 
+              FOR THE YEARS ENDED DECEMBER 31, 1994, 1993, 1992 
+               (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS) 
+
+                                                  YEAR ENDED DECEMBER 31 
+                                           ----------------------------------- 
+                                               1994        1993        *1992 
+                                           ----------- ----------- ----------- 
+For primary net income per share: 
+Weighted average shares outstanding  ...... 7,425,000   7,558,000   7,551,000 
+Equivalent shares--dilutive stock 
+options-- 
+based on treasury stock method using 
+average market price ......................   728,000     367,000         -- 
+                                           ----------- ----------- ----------- 
+Total ..................................... 8,153,000   7,925,000   7,551,000 
+                                           =========== =========== =========== 
+For fully diluted net income per share: 
+Weighted average shares outstanding  ...... 7,425,000   7,558,000   7,551,000 
+Equivalent shares--dilutive stock 
+options-- 
+based on treasury stock method using 
+greater of average or ending market price     775,000     441,000         -- 
+                                           ----------- ----------- ----------- 
+Total ..................................... 8,200,000   7,999,000   7,551,000 
+                                           =========== =========== =========== 
+Net income ................................$   20,961  $   11,596  $   10,401 
+                                           =========== =========== =========== 
+Primary net income per share ..............$     2.57  $     1.46  $     1.38 
+                                           =========== =========== =========== 
+Fully diluted net income per share  .......$     2.56  $     1.45  $     1.38 
+                                           =========== =========== =========== 
+- ----------
+* Computation excluded dilutive stock options, totaling 139,000 equivalent 
+  shares, as their dilutive effect was not material in 1992. 
+
+This calculation is submitted in accordance with Regulation S-K, Item 
+601(b)(11). 
+
+                               28           
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF WATKINS-JOHNSON COMPANY
+<TEXT>
+
+
+                                                                    EXHIBIT 21 
+                   SUBSIDIARIES OF WATKINS-JOHNSON COMPANY 
+
+                                                          JURISDICTION OF 
+                        SUBSIDIARY                        INCORPORATION 
+- --------------------------------------------------------- ------------------- 
+Watkins-Johnson Associates ...............................California 
+
+Watkins-Johnson Environmental, Inc. ......................California 
+
+Watkins-Johnson FSC ......................................Guam 
+
+Watkins-Johnson International ............................California 
+
+Watkins-Johnson International Korea, Limited .............Korea 
+
+Watkins-Johnson Italiana, S.p.A. .........................Italy 
+
+Watkins-Johnson Limited ..................................California 
+
+Watkins-Johnson (U.K.) Limited ...........................United Kingdom 
+
+Watkins-Johnson International Japan, K.K. ................Japan 
+
+Watkins-Johnson International Singapore PTE, Limited  ....Singapore 
+
+Watkins-Johnson International Taiwan .....................Taiwan 
+
+                               29           
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+
+                                                                    EXHIBIT 23 
+                       CONSENT OF INDEPENDENT AUDITORS 
+
+
+
+Watkins-Johnson Company: 
+
+We hereby consent to the  incorporation  by reference in Registration  Statement
+No. 33-21142 on Form S-8 of our reports dated February 3, 1995 appearing in your
+Annual Report on Form 10-K for the year ended  December 31, 1994.  
+
+
+March 7, 1995
+
+Deloitte & Touche LLP 
+San Francisco, California
+
+                               30           
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<MULTIPLIER>                                   1000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-mos
+<FISCAL-YEAR-END>                              DEC-31-1994
+<PERIOD-START>                                 JAN-01-1994
+<PERIOD-END>                                   DEC-31-1994
+<CASH>                                         34469
+<SECURITIES>                                       0
+<RECEIVABLES>                                  80427
+<ALLOWANCES>                                       0
+<INVENTORY>                                    51655
+<CURRENT-ASSETS>                              179472
+<PP&E>                                        160683
+<DEPRECIATION>                                115537
+<TOTAL-ASSETS>                                235030
+<CURRENT-LIABILITIES>                          62821
+<BONDS>                                        22583
+<COMMON>                                       20279
+<PREFERRED-MANDATORY>                              0 
+<PREFERRED>                                        0
+<OTHER-SE>                                    129347
+<TOTAL-LIABILITY-AND-EQUITY>                  149626
+<SALES>                                       332606
+<TOTAL-REVENUES>                              332606
+<CGS>                                         195558
+<TOTAL-COSTS>                                 195558
+<OTHER-EXPENSES>                              105056
+<LOSS-PROVISION>                                   0 
+<INTEREST-EXPENSE>                              1141
+<INCOME-PRETAX>                                30851
+<INCOME-TAX>                                    9200
+<INCOME-CONTINUING>                            21651
+<DISCONTINUED>                                  (690)
+<EXTRAORDINARY>                                    0  
+<CHANGES>                                          0  
+<NET-INCOME>                                   20961
+<EPS-PRIMARY>                                   2.57
+<EPS-DILUTED>                                   2.56
+        
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

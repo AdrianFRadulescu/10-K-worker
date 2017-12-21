@@ -1,0 +1,2506 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AYNlR0YBzlD2hJ0DcvIoHdr3VbExGMXVkYW5MufRibISfbbYdnyQQlcC8Fe73MGu
+ 0aYNN389OA3Z3j6urWe/Kg==
+
+<SEC-DOCUMENT>0000912057-95-011743.txt : 19960102
+<SEC-HEADER>0000912057-95-011743.hdr.sgml : 19960102
+ACCESSION NUMBER:		0000912057-95-011743
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19950930
+FILED AS OF DATE:		19951229
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WOODHEAD INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000108215
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				361982580
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1001
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05971
+		FILM NUMBER:		95605932
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2150 E LAKE COOK RD SUITE 400
+		CITY:			BUFFALO GROVE
+		STATE:			IL
+		ZIP:			60089
+		BUSINESS PHONE:		7084658300
+
+	MAIL ADDRESS:	
+		STREET 1:		2150 E LAKE COOK RD SUITE 400
+		CITY:			BUFFALO GROVE
+		STATE:			IL
+		ZIP:			60089
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WOODHEAD DANIEL CO
+		DATE OF NAME CHANGE:	19710624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-K
+<TEXT>
+
+<PAGE>
+
+- -------------------------------------------------------------------------------
+
+        UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                     Washington, D.C. 20549
+
+                            FORM 10-K
+
+[X]     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+               THE SECURITIES EXCHANGE ACT OF 1934
+
+          FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 1995
+                  Commission file number 0-5971
+
+[  ]              TRANSITION REPORT PURSUANT TO
+                   SECTION 13 OR 15(d) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+
+                    WOODHEAD INDUSTRIES, INC.
+     (Exact name of registrant as specified in its charter)
+
+                DELAWARE                   36-1982580
+ (State or other jurisdiction of        (I.R.S. Employer
+ of incorporation or organization)    Identification Number)
+
+  2150 E. LAKE COOK RD., SUITE 400, BUFFALO GROVE, IL.     60089
+(Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code (708) 465-8300
+
+   Securities registered pursuant to Section 12(g) of the Act:
+
+     COMMON STOCK, PAR VALUE $1.00         NASDAQ - NATIONAL
+     COMMON STOCK PURCHASE RIGHTS            MARKET SYSTEM
+           (Title of Class)        (Exchange on which registered)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, (or such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days, Yes  X  No
+                                                  ----   ----
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of November 25, 1995 was $168,708,784.  Shares outstanding as
+of November 25, 1995 were 10,382,079.
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant's definitive proxy statement dated December 21,
+1995, for the annual meeting of stockholders to be held January 26, 1996, and
+portions of the Annual Report to Stockholders for the year ended September
+30, 1995 are incorporated by reference in Parts I, II, III, and IV.
+
+- -------------------------------------------------------------------------------
+
+<PAGE>
+
+                     ANNUAL REPORT FORM 10-K
+
+             FOR THE YEAR ENDED SEPTEMBER 30, 1995
+      AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION
+
+                        TABLE OF CONTENTS
+
+ITEM NO.                                                   PAGE
+
+ 1. Business . . . . . . . . . . . . . . . . . . . . . . . . 2-4
+
+ 2. Description of Property. . . . . . . . . . . . . . . . .   4
+
+ 3. Legal Proceedings. . . . . . . . . . . . . . . . . . . .   5
+
+ 4. Submission of Matters to a Vote of Securities Holders. .   5
+
+ 5. Market for Registrant's Common Equity and Related
+      Stock Matters. . . . . . . . . . . . . . . . . . . . .  6-7
+
+ 6. Selected Financial Data. . . . . . . . . . . . . . . . .   7
+
+ 7. Management's Discussion and Analysis of Financial
+      Condition and Results of Operations. . . . . . . . . .   7
+
+ 8. Financial Statements and Supplementary Data. . . . . . .   7
+
+ 9. Changes in and Disagreements with Accountants on
+      Accounting and Financial Disclosure. . . . . . . . . .   7
+
+10. Directors and Executive Officers of the Registrant . . . 8-9
+
+11. Executive Compensation . . . . . . . . . . . . . . . . .   9
+
+12. Security Ownership of Certain Beneficial Owners and
+       Management. . . . . . . . . . . . . . . . . . . . . .   9
+
+13. Certain Relationships and Related Transactions . . . . .   9
+
+14. Exhibits, Financial Statement Schedules, and Reports on
+       Form 8-K. (Index of Exhibits is on Pages 16-18) . . .  9-13
+
+
+       The term "Company" is used herein to refer to Woodhead
+       Industries, Inc. (the Registrant) and its subsidiaries
+       unless the context indicates otherwise.
+
+                                      1
+
+
+<PAGE>
+
+                                 PART I
+ITEM 1.  BUSINESS
+
+GENERAL
+
+     Woodhead Industries, Inc. was incorporated in Illinois in 1922 and
+reincorporated in Delaware in 1978.  The corporation and its subsidiaries are
+primarily engaged in the manufacture and sale of devices for the control and
+distribution of electrical power for industry.
+
+    There were no material changes in the manner in which the Company
+conducted its business during fiscal 1995.
+
+INDUSTRY SEGMENTS
+
+     The Company consists of one business segment which can best be described
+as specialty power and signaling devices.  That segment accounted for 99% of
+the sales and 97% of the earnings in 1995 and during the past five years has
+averaged 98% of sales and 96% of earnings.  Molded rubber products, an
+immaterial business segment and therefore not reported separately, accounted
+for the  remainder of the sales and earnings.
+
+PRODUCTS
+
+     The Company's products are designed for and used primarily in industrial
+applications for the distribution of power, for signaling and for motion
+control.  They can be classified into three groups: electrical specialties,
+reels and power systems, and molded rubber products.  The electrical
+specialty  product classification includes, among other items, portable
+handlamps, low-voltage safety lights, wiring devices, weatherproof
+receptacles, circuit testers, portable power distribution equipment, pendant
+push-button enclosures, general-purpose power and control connectors, and
+custom copper and fiber optic cable assemblies.  Reels and power systems
+include such products as electric cord and cable reels, electric cable
+festooning systems, collector rings, static discharge reels, tool balancers,
+ergonomic workstations, hose reels, and multiple-cable carrier systems.
+
+     There is widespread applicability for the Company's products throughout
+a broad range of industries such as petro-chemical, automotive, steel,
+airline, chemical, food processing, utility, communications, mining, heavy
+construction, health care, and recreation.  A majority of the products are
+used in plant maintenance and production with the balance becoming a
+component part of another product.
+
+                                      2
+
+<PAGE>
+
+
+                            PART I - CONT'D.
+
+      The percent of sales and income for the three product classifications
+over the past five years is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                       Sales                           Income
+                           ----------------------------   ----------------------------
+                           1995  1994  1993  1992  1991   1995  1994  1993  1992  1991
+<S>                         <C>   <C>   <C>   <C>   <C>    <C>   <C>   <C>   <C>   <C>
+
+Electrical specialties       66    68    68    67    69     81    78    75    87   100
+Reels and power systems      33    31    30    31    29     16    18    20     7    (4)
+Molded rubber products        1     1     2     2     2      3     4     5     6     4
+
+</TABLE>
+
+DISTRIBUTION
+
+     All of the Company's products are of heavy-duty, industrial grade. These
+products are sold directly to users, to original equipment manufacturers, and
+through selected distributors, mainly in the United States, Canada and Europe
+with some sales going to other parts of the world.  These distributors are
+serviced by manufacturers' agencies whose sales personnel solicit sales for
+the Company's products and promote them to the ultimate users.  These
+agencies also represent other manufacturers whose lines, in general, are
+complementary to the Company's products.
+
+AVAILABILITY OF MATERIALS
+
+     Parts and materials for the Company's products are readily available
+from a variety of suppliers.  It has been a practice to develop and use more
+than one source of supply for any item considered critical.
+
+PATENTS/TRADEMARKS/LICENSING
+
+     On certain of its products, the Company holds patents, trademarks, and
+licensing arrangements which, while valuable, are not considered essential to
+the maintenance or future growth of the business.
+
+SEASONALITY
+
+     The business is not considered to be seasonal.
+
+INVENTORIES
+
+     Products of the type manufactured and sold by the Company are also
+available through other manufacturers as well.  As a result, delivery time as
+well as quality and customer service are important to the success of the
+business and therefore require that sufficient inventories be maintained to
+insure fast turnaround time on orders.
+
+CUSTOMER PROFILE
+
+     The Company's sales are broad-based with no single customer accounting
+for a significant portion of total sales and no single industry accounting
+for a majority of its business.
+
+BACKLOG
+
+     On November 25, 1995, there were unshipped orders totalling
+approximately $8.7 million.  Last year's backlog at approximately the same
+date was $8.7 million.
+
+                                       3
+
+<PAGE>
+
+                             PART I - CONT'D.
+COMPETITION
+
+     Products similar to those sold by the Company are manufactured and sold
+by other companies as well, resulting in a very competitive environment.
+However, the Company feels its ability to manufacture high quality products
+that serve specialized needs of industry through its highly efficient
+distribution channels differentiates the Company from its competitors.
+
+RESEARCH AND DEVELOPMENT
+
+     For the years ended September 30, 1995, October 1, 1994, and October 2,
+1993, the Company expended approximately $2,404,000, $2,148,000,  and
+$2,105,000, respectively, on the development of new products and the
+improvement of existing products.  These expenditures included the
+compensation of engineers, designers, and drafters who were engaged in
+product development.
+
+EMPLOYEES
+
+     The company has approximately 1,126 full-time employees.
+
+FOREIGN AND EXPORT BUSINESS
+
+     See footnote 8, page 31 of the Annual Report to Stockholders for the
+year ended September 30, 1995 which is incorporated herein by reference and
+filed as an exhibit to this report.
+
+ITEM 2.  DESCRIPTION OF PROPERTY
+
+     The Company owns facilities in the following locations:
+
+                             Land Owned            Plant Floor Area
+    Northbrook, Illinois      4.7 acres             119,000 sq. ft.
+    Kalamazoo, Michigan      39.1 acres             116,000 sq. ft.
+    Franklin, Massachusetts   6.6 acres              60,000 sq. ft.
+    El Paso, Texas            5.0 acres              50,000 sq. ft.
+    Belvidere, Illinois       3.5 acres              36,000 sq. ft.
+    Juarez, Mexico             .8 acres              36,000 sq. ft.
+    Netherlands               1.3 acres              30,000 sq. ft.
+    Wales, U.K.               4.5 acres              25,000 sq. ft.
+    Uxbridge, Massachusetts   3.5 acres              20,000 sq. ft.
+
+
+     All of the above properties are owned in fee except the land in Wales,
+U.K. which is held under a lease expiring in 2105.
+
+     The Company also leases approximately 20,000 square feet in Ontario,
+Canada; 20,000 square feet in Remchingen, Germany; 9,000 square feet in Grand
+Rapids, Michigan; 7,000 square feet in Buffalo Grove, Illinois; 3,400 square
+feet in Thorigny sur Marne, France; and 2,000 square feet in Singapore.  All
+plants are considered to be well-equipped and well-maintained.  They are of
+masonry or steel construction.  In the judgment of management, sufficient
+capacity is available at the above locations to cover the Company's needs at
+least through fiscal 1996.
+
+                                       4
+
+<PAGE>
+
+                           PART I  -  CONT'D.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+The Company is subject to federal and state hazardous substance cleanup laws
+that impose liability for the costs of cleaning up contamination resulting
+from past spills, disposal or other releases of hazardous substances.  In
+this regard, the  Company has incurred, and expects to incur, assessment,
+remediation and related costs at one of the Company's facilities.  In 1991,
+the Company reported to state regulators a release at that site from an
+underground storage tank ("UST"),  The UST and certain contaminated soil
+subsequently were removed and disposed of at an off-site disposal facility.
+The Company's independent environmental consultant has been conducting an
+investigation of soil and groundwater at the site with oversight by the state
+Department of Environmental Quality ("DEQ").  The investigation indicates
+that additional soil and groundwater at the site have been impaired by
+chlorinated solvents, including tetrachloroethane and trichloroethylene.
+Also, the company learned that a portion of the site had been used as a
+disposal area by the previous owners of the site.  The Company's consultant
+is investigating and has begun to remediate this area and believes that it is
+an additional likely source of contamination of soil and groundwater.  In
+addition, the investigation of the site indicates that the groundwater
+contaminants may have migrated off-site.  However, the extent of the
+contamination has not been fully delineated at this time.  The Company is
+conducting additional investigations to determine the extent of contamination
+at and around the site and to determine the extent of other sources of
+contamination in addition to the removed UST and the above-referenced
+disposal area, including the possible presence of ongoing dumping activities
+by others in the vicinity around the Company's facilities.
+
+The Company's consultant has estimated that a minimum of $1.5 million of
+investigation and remediation expenses will be incurred at the site. The
+Company has a reserve for such purposes and has notified the previous owners
+of the site and various insurers of possible claims by the Company relating
+to the remediation of the site.  The consultant's cost estimate was based on
+a review of currently available data, which is limited, and assumptions
+concerning the extent of contamination, geological conditions, and the costs
+and effectiveness of certain treatment technologies.  The cost estimate is
+subject to substantial uncertainty until the extent of contamination and
+geological conditions are fully understood, feasible remedial alternatives
+are assessed, and the DEQ approves a remediation plan.  The Company is
+continuing to investigate the environmental conditions at the site and will
+adjust its reserve if necessary.  The Company may incur significant
+additional assessment, remediation and related costs at the site, and such
+costs could materially and adversely affect the Company's consolidated net
+income for the period in which such costs are incurred.  The Company,
+however, cannot estimate the time or potential magnitude of such costs at
+this time.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There were no matters submitted to a vote of the security holders
+either through solicitation of proxies or otherwise during the fourth
+quarter of the fiscal year ended September 30, 1995.
+
+                                      5
+
+<PAGE>
+                                 PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCK MATTERS
+
+    (a)  The Company's common stock trades on the NASDAQ stock market
+         under the symbol WDHD.  The daily quotations as reported by
+         NASDAQ are published in the Wall Street Journal and other
+         leading financial publications.
+
+         On April 26, 1995, the board of directors declared a three-for-
+         two stock split effected in the form of a 50% common stock dividend,
+         payable May 22, 1995, to holders of record on May 8, 1995.  On
+         January 22, 1993, the board of directors declared a two-for-one stock
+         split effected in the form of a 100% stock dividend, payable March 1,
+         1993, to holders of record on February 12, 1993. All share and per
+         share amounts in this filing have been adjusted to give retroactive
+         effect to these stock splits.
+
+         Common Stock Purchase Rights have been distributed to stockholders and
+         deemed to be attached to the shares of Common Stock of the Registrant.
+         If and when the rights become exercisable, the holders initially would
+         be entitled to purchase one share of Common Stock at a purchase price
+         of $13.33 (both the number of shares and the purchase price are
+         subject to adjustment). See footnote 5, page 29 of the Annual Report to
+         Stockholders for the year ended September 30, 1995, for further
+         explanation.   This footnote is incorporated herein by reference and
+         filed as an exhibit to this report.
+
+         The range in the market price per share of the common stock during the
+         past two years was as follows:
+
+                      1995                               1994
+      ------------------------------       ------------------------------
+      Fiscal                                Fiscal
+      Quarter        High        Low       Quarter       High         Low
+          1st     10 13/16    9 5/16           1st   10 11/16     8 15/16
+          2nd     13  5/16    10 1/2           2nd     12 1/4     8 13/16
+          3rd           15  12 11/16           3rd   10 13/16     8 13/16
+          4th       14 3/4    12 1/2           4th   10 11/16     9 11/16
+
+      (b)  The number of holders of record of the Company's securities
+           as of December 15, 1995, was as follows:
+
+             Title of Class                Number of Stockholders
+             Common Stock                           584
+             Common Stock Purchase Rights           584
+
+
+                                       6
+
+<PAGE>
+                            PART II - CONT'D.
+
+     (c)  The cash dividends declared for the past two years were as
+          follows:
+
+                1995                                     1994
+     --------------------------------       ------------------------------
+       Fiscal Quarter         Rate            Fiscal Quarter       Rate
+          1st               $0.063                 1st            $0.057
+          2nd               $0.065                 2nd            $0.057
+          3rd               $0.065                 3rd            $0.057
+          4th               $0.065                 4th            $0.063
+                            ------                                ------
+                     Total  $0.258                        Total   $0.234
+                            ------                                ------
+                            ------                                ------
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The "Financial Profile" appearing on pages 18 and 19 of the Annual
+Report to Stockholders for the year ended September 30, 1995, is
+incorporated herein by reference and filed as an exhibit to this
+report.
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+          AND RESULTS OF OPERATIONS
+
+     "Management's Discussion of Operations and Financial Position"
+appearing on pages 16 and 17 of the Annual Report to Stockholders for
+the year ended September 30, 1995, is incorporated herein by reference
+and filed as an exhibit to this report.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The "Report of Independent Public Accountants" included on page 15
+and the consolidated financial statements with accompanying footnotes
+appearing on pages 20 through 32 of the Annual Report to Stockholders
+for the year ended September 30, 1995, are incorporated herein by
+reference and filed as an exhibit to this report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+         ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     None.
+
+
+                                       7
+
+<PAGE>
+
+                                PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     (a)  Information appearing under the heading "Nominees and
+Continuing Directors" on pages 1 through 3 of the Registrant's
+definitive proxy statement dated December 21, 1995, for the annual
+meeting of stockholders to be held on January 26, 1996, is hereby
+incorporated herein by reference and made a part hereof.
+
+     (b)  The following information is provided with respect to the
+executive officers of the Company:
+
+                                                                Position Held
+      Name of Officer       Age  Position                            Since
+
+      C. Mark DeWinter      53   President and Chief              July, 1993
+                                  Executive Officer
+
+      Robert G. Jennings    57   Vice-President, Finance and      July, 1987
+                                  Chief Financial Officer
+
+      Robert J. Tortorello  46   Vice-President, General       January, 1991
+                                  Counsel and Corporate
+                                  Secretary
+
+      Robert A. Moulton     46   Vice-President, Human             May, 1987
+                                  Resources
+
+      Joseph P. Nogal       40   Treasurer/Controller and         July, 1993
+                                  Assistant Secretary
+
+
+     All officers are elected each year at the Annual Meeting of the
+     Board of Directors which is held immediately following the annual
+     meeting of stockholders.  The next Annual Meeting of the Board of
+     Directors will be held on January 26, 1996.
+
+    (c)  Not applicable.
+
+    (d)  Not applicable.
+
+    (e)  The business experience of those executive officers who are not
+         directors or nominees is as follows:
+
+         Mr. Robert G. Jennings joined the Company in July 1987.   He
+         previously had served as Vice President, Finance and Treasurer for
+         MagneTek, Inc. from 1984 to 1987 and was Vice President, Treasurer
+         and Controller for Louis Allis Division, Litton Industries
+         from 1973 to 1984.
+
+         Mr. Robert J. Tortorello became the Company's General Counsel
+         and Corporate Secretary in June 1987.  He was elected a
+         Vice-President of the Company in January, 1991. Before joining the
+         Company he served as Senior Attorney and Assistant Vice President for
+         Beatrice Companies, Inc. from 1986 to 1987.  Prior to that he had
+         been a Senior Attorney at Beatrice since 1978.
+
+                                       8
+
+<PAGE>
+
+                           PART III - CONT'D.
+
+         Mr. Robert A. Moulton joined the company in October 1986 as
+         Manager, Human Resources and was elected Vice President in May
+         1987.  He was formerly a Director, Personnel at G. D. Searle
+         and Company from 1981 to 1986.
+
+         Mr. Joseph P. Nogal became the Company's Treasurer/Controller
+         in January 1991. He was elected the Assistant Secretary of
+         the Company in July, 1993.  From 1986 to 1990, he had served as
+         Controller of the Company's Canadian Operations.  Prior to 1986,
+         he had held various positions within the Company since he joined
+         it in 1978.
+
+    (f)  Not applicable.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+    The information contained under the headings "Directors' Compensation" on
+page 5 and "Executive Compensation" on pages 8 through 17 of the Company's
+definitive proxy statement dated December 21, 1995, for the annual meeting of
+stockholders to be held January 26, 1996, is incorporated herein by reference
+and made a part hereof.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    The table and footnotes appearing under the heading "Stock Ownership
+of Management and Certain Beneficial Owners" appearing on pages 6 and 7
+of the Registrant's definitive proxy statement dated December 21, 1995,
+for the annual meeting of stockholders to be held January 26, 1996, are
+hereby incorporated by reference and made a part hereof.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    The information contained under the heading "Nominees and Continuing
+Directors" appearing on pages  1 through 3 of the Company's definitive proxy
+statement dated December 21, 1995, for the annual meeting of stockholders to
+be held January 26, 1996, is incorporated by reference and made a part hereof.
+
+                                 PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)     Documents filed as part of this Report:
+
+    1.  Financial Statements (filed herewith as part of Exhibit 13):
+
+
+        Consolidated Balance Sheets - at September 30, 1995, October 1,
+        1994, and October 2, 1993.
+
+
+                                       9
+
+<PAGE>
+
+
+                            PART IV - CONT'D.
+
+      Consolidated Statements of Income - for the years ended September
+      30, 1995, October 1, 1994, and October 2, 1993.
+
+      Consolidated Statements of Stockholders' Investment - for the
+      years ended September 30, 1995, October 1, 1994, and October 2,
+      1993.
+
+      Consolidated Statements of Cash Flow - for the years ended
+      September 30, 1995, October 1, 1994, and October 2, 1993.
+
+      Notes to Consolidated Financial Statements.
+
+    2.  Financial Statement Schedules
+
+      The following consolidated financial information for the years
+      ended September 30, 1995, October 1, 1994, and October 2, 1993,
+      is submitted herewith:
+                                                               Page
+         Report of Independent Public Accountants on Schedules
+           and Supplementary Notes                              13
+
+         Schedule II  Valuation and Qualifying Accounts         11
+         Supplementary Notes to Consolidated
+           Financial Statements                                 12
+
+      All other schedules have been omitted because they are not
+      applicable, not required, or the information is included elsewhere
+      in the financial statements or notes thereto.
+
+      Separate financial statements of the Registrant have been omitted
+      since the Registrant is primarily a holding company and its
+      subsidiaries, included in the consolidated financial statements,
+      are wholly-owned subsidiaries.
+
+ 3.   The Exhibits are listed in the index of exhibits required by
+      Item 601 of Regulation S-K included at pages  16, 17, and 18,
+      which are incorporated herein by reference and made a part
+      hereof.
+
+(b)   No reports on Form 8-K were filed during the three months ended
+      September 30, 1995.
+
+(c)   Reference is made to Item 14(a)(3) above.
+
+(d)   Reference is made to Item 14(a)(2) above.
+
+                                      10
+
+
+<PAGE>
+
+
+
+               SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+                FOR THE THREE YEARS ENDED SEPTEMBER 30, 1995
+                               (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+
+                                                    ADDITIONS
+                                               --------------------------
+                                                               CHARGED TO
+                              BALANCE AT       CHARGED TO           OTHER                       BALANCE
+                               BEGINNING        COSTS AND        ACCOUNTS     DEDUCTIONS         AT END
+DESCRIPTION                    OF PERIOD         EXPENSES       -DESCRIBE      -DESCRIBE      OF PERIOD
+- -------------------------     ----------       ----------      ----------     ----------      ---------
+<S>                            <C>               <C>            <C>             <C>            <C>
+Reserve for excess and
+ obsolete inventory:
+
+Year ended September 30, 1995    $ 1,119            $ 402               -     $ (425)(1)        $ 1,076
+                                                                                 (20)(2)
+Year ended October 1, 1994       $ 1,304            $ 306               -      $(602)(1)        $ 1,119
+                                                                                  24 (2)
+                                                                                  87 (3)
+Year ended October 2, 1993       $ 1,296            $ 226               -      $(373)(1)        $ 1,304
+                                                                                  (8)(2)
+                                                                                 163 (3)
+
+</TABLE>
+
+- -----------------------
+(1) Represents write-offs less recoveries.
+(2) Foreign currency translation adjustment.
+(3) Business acquired.
+
+
+                                       11
+
+
+<PAGE>
+
+                     SUPPLEMENTARY NOTES TO CONSOLIDATED
+                            FINANCIAL STATEMENTS
+
+ACCRUED EXPENSES
+
+Accrued expenses at September 30, 1995, October 1, 1994, and October 2, 1993
+consisted of the following:
+
+
+
+                                                (in thousands)
+
+                                          1995        1994         1993
+                                        ------      ------       ------
+       Payroll                          $3,386      $3,050       $2,849
+
+       Pension and profit sharing        1,399       1,580          983
+
+       Environmental                     1,519       1,310            -
+
+       Litigation & related expenses       936       1,022        1,217
+
+       Commissions                         780         687          655
+
+       Insurance                           474         461          521
+
+       Other                             4,015       2,640        2,855
+                                       -------     -------       ------
+                                       $12,509     $10,750       $9,080
+                                       -------     -------       ------
+                                       -------     -------       ------
+
+
+                                       12
+
+
+
+<PAGE>
+
+                   REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                     ON SCHEDULES AND SUPPLEMENTARY NOTES
+
+
+
+To Woodhead Industries, Inc.:
+
+
+We have audited in accordance with generally accepted auditing standards, the
+consolidated financial statements of Woodhead Industries, Inc. and
+subsidiaries included in the Woodhead Industries, Inc. Annual Report to
+Stockholders for the year ended September 30, 1995 incorporated by reference
+in this Form 10-K, and have issued our report thereon dated November 14,
+1995.  Our audit was made for the purpose of forming an opinion on those
+statements taken as a whole.  The schedules and supplementary notes included
+on pages 11 through 12 of this Form 10-K are presented for purposes of
+complying with the Securities and Exchange Commission's rules and are not
+part of the basic financial statements.  These schedules and notes have been
+subjected to the auditing procedures applied in the audit of the basic
+financial statements and, in our opinion, fairly state in all material
+respects the financial data required to be set forth therein in relation to
+the basic financial statements taken as a whole.
+
+
+                                              ARTHUR ANDERSEN LLP
+
+
+
+Chicago, Illinois
+November 14, 1995
+
+                                      13
+
+
+<PAGE>
+
+
+                   INDEMNIFICATION UNDERTAKING
+
+ For the purposes of complying with the amendments to the rules governing
+Form S-8 (effective July 13, 1990) under the Securities Act of 1933 (the
+"Act"), the undersigned registrant hereby undertakes as follows, which
+undertaking shall be incorporated by reference into registrant's Registration
+Statement on Form S-8 No. 33-40414 (filed May 6, 1991):
+
+ Insofar as indemnification for liabilities arising under the Securities Act
+of 1933 may be permitted to directors, officers and controlling persons of
+the registrant pursuant to the foregoing provisions, or otherwise, the
+registrant has been advised that in the opinion of the Securities and
+Exchange Commission such indemnification is against public policy as
+expressed in the Securities Act of 1933 and is, therefore, unenforceable.  In
+the event that a claim for indemnification against such liabilities (other
+than the payment by the registrant of expenses incurred or paid by a
+director, officer or controlling person of the registrant in the successful
+defense of any action, suit or proceeding) is asserted by such director,
+officer or controlling person in connection with the securities being
+registered, the registrant will, unless in the opinion of its counsel the
+matter has been settled by controlling precedent, submit to a court of
+appropriate jurisdiction the question whether such indemnification by it is
+against public policy as expressed in the Act and will be governed by the
+final adjudication of such issue.
+
+
+                                      14
+
+<PAGE>
+
+                                 SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+WOODHEAD INDUSTRIES, INC.
+
+
+BY /s/ Robert G. Jennings                 BY /s/ Joseph P. Nogal
+   -------------------------                 -----------------------
+   Robert G. Jennings                        Joseph P. Nogal
+   Vice President, Finance                   Treasurer/Controller
+   (Chief Financial Officer)                 (Principal Accounting Officer)
+
+
+Date 12/14/95
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by all of the following directors on behalf of
+the Registrant and in the capacities and on the dates indicated:
+
+
+        Signature                   Title                      Date
+
+
+
+    /s/ Alan Reed                  Chairman                  12/18/95
+- ---------------------------
+        Alan Reed
+
+  /s/ C. Mark DeWinter         President and C.E.O.          12/14/95
+- ---------------------------
+      C. Mark DeWinter
+
+  /s/ Richard A. Virzi              Director                 12/18/95
+- ---------------------------
+      Richard A. Virzi
+
+  /s/ Ward M. Woodhead              Director                 12/26/95
+- ---------------------------
+      Ward M. Woodhead
+
+
+                                       15
+
+
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+Exhibit
+Number                             Description
+- -------                     -----------------------
+
+(3)  Articles of incorporation and bylaws
+
+          (a) Certificate of Incorporation including amendments through
+              January 22, 1993, are hereby incorporated by reference to
+              Exhibit (4)a of Registrant's Form S-8 filed April 22, 1994,
+              as Registration #33-77968.
+
+          (b) Company by-laws are hereby incorporated herein by reference to
+              Exhibit 4(b) of Registrant's Form S-8 filed April 22, 1994,
+              as Registration #33-77968.
+
+(4)  Instruments defining the rights of security holders, including indentures
+
+          (a) Credit Agreement between Registrant and Harris Trust and
+              Savings Bank dated October 29, 1993, providing for a revolving
+              credit line not exceeding $15,000,000.
+
+              The above document described in this paragraph (4a) is not
+              filed herewith by Registrant, but Registrant undertakes to
+              furnish copies thereof to the Securities and Exchange Commission
+              upon request.
+
+          (b) The Common Stock Purchase Rights Plan adopted May 16, 1986, as
+              amended and restated on July 25, 1990, as set forth in
+              Exhibits 1 and 2 of Form 8-K filed August 13, 1990, and as
+              adjusted pursuant to Section 12 of said Rights Plan as set
+              forth in the Form 8-K filed January 26, 1993, is incorporated
+              herein by reference and made a part hereof.
+
+(10)  Material contracts
+
+          (a) The 1981 Incentive Stock Compensation Plan, as amended, as
+              set forth in Exhibit 4(b) of Registrant's Form S-8 filed
+              September 26, 1988, as Registration #33-24737, is incorporated
+              herein by reference and made a part hereof.
+
+          (b) The 1987 Stock Compensation Plan as set forth in Exhibit A of
+              Registrant's definitive proxy statement dated December 21,
+              1987, for the annual meeting of stockholders held January 22,
+              1988, which is incorporated  herein by reference and made a
+              part hereof.
+
+          (c) The 1990 Stock Awards Plan as set forth in Exhibit A of
+              Registrant's definitive proxy statement dated December 19, 1990
+              for the annual meeting of stockholders held January 25, 1991,
+              which is incorporated herein by reference and made a part hereof.
+
+                                      16
+
+
+<PAGE>
+
+
+                        EXHIBIT INDEX (cont'd.)
+
+
+Exhibit
+Number                             Description
+- -------                     -----------------------
+
+(10)    (d) Amendments to:  The 1981 Incentive Stock Compensation
+            Plan, the 1987 Stock Compensation Plan, and the 1990 Stock
+            Awards Plan, all as set forth in Exhibit C of Registrant's
+            definitive proxy statement dated December 22, 1993, for the
+            annual meeting of stockholders held January 28, 1994, which
+            is incorporated herein by reference and made a part hereof.
+
+        (e) The 1993 Stock Awards Plan as set forth in Exhibit A of
+            Registrant's definitive proxy statement dated December 22,
+            1993, for the annual meeting of stockholders held January 28,
+            1994, which is incorporated herein by reference and made a part
+            hereof.
+
+        (f) The 1990 Directors Stock Option Plan for non-employee
+            Directors as set forth in Exhibit B of Registrant's definitive
+            proxy statement dated December 19, 1990, for the annual meeting of
+            stockholders held January 25, 1991, which is incorporated herein
+            by reference and made a part hereof.
+
+        (g) The 1993 Directors Stock Option Plan for non-employee Directors
+            as set forth as Exhibit B of Registrant's definitive proxy
+            statement dated December 22, 1993 for the annual meeting of
+            stockholders held January 28, 1994, which is incorporated herein
+            by reference and made a part hereof.
+
+        (h) The Management Incentive Plan effective for fiscal 1996 as
+            described on page 16 of the Registrant's definitive proxy statement
+            dated December 21, 1995, for the annual meeting of stockholders
+            to be held January 26, 1996, which page is incorporated herein by
+            reference and made a part hereof.
+
+        (i) The Plan of Compensation for Outside Directors, as set forth
+            in Item (10) of the exhibits to the Form 10-K Annual Report for the
+            year ending September 18, 1985, which is incorporated herein by
+            reference and is made a part hereof.
+
+        (j) The 1990 Supplemental Executive Retirement Plan ("SERP") as
+            set forth on page 15 of Registrant's definitive proxy statement
+            dated December 21, 1995, for the annual meeting of stockholders
+            to be held January 26, 1996, which page is incorporated herein
+            by reference and made a part hereof.
+
+                                       17
+
+<PAGE>
+
+                           EXHIBIT INDEX (cont'd)
+
+Exhibit
+Number                             Description                          Page
+- -------                      --------------------                      ------
+(10)     (k) Severance Agreement as set forth in Item (10) of the
+             exhibits to Form l0-K Annual Report for the year
+             ending October 1, 1994, which is incorporated herein
+             by reference and is made a part hereof, with C. Mark
+             DeWinter dated September 7, 1989.  Robert G. Jennings,
+             Robert A. Moulton, Joseph P. Nogal, Terry L. Spandet,
+             and Robert J. Tortorello have substantially identical
+             contracts.
+
+(11)  Statement regarding computation of per share earnings              19
+
+(13)  The following items incorporated by reference herein from the
+      Annual Report to Stockholders for the year ended September 30,
+      1995 (the "1995 Annual Report"), are filed as Exhibits to this
+      report:
+
+      (a)  Information under the footnote entitled "Information about
+           the Company's Operations in Different Geographic Areas"
+           set forth on Page 31 of the 1995 Annual Report;
+
+      (b)  Information under the footnote entitled "Capital Stock"
+           set forth on Page 29 of the 1995 Annual Report;
+
+      (c)  Information under the section entitled "Financial Profile"
+           set forth on Pages 18-19 of the Annual Report;
+
+      (d)  Information under the section entitled "Management's
+           Discussion of Operations and Financial Position" set forth
+           on Pages 16-l7 of the 1995 Annual Report;
+
+      (e)  Report of Independent Public Accountants set forth on Page
+           15 of the 1995 Annual Report;
+
+      (f)  Consolidated Financial Statements set forth Pages 20-23 of
+           the 1995 Annual Report; and
+
+      (g)  Notes to Consolidated Financial Statements set forth on
+           Pages 24-32 of the 1995 Annual Report.
+
+(21)  Subsidiaries of the Registrant                                     20
+
+(23)  Consent of Arthur Andersen LLP                                     21
+
+(27)  Financial Data Schedule for the year ended September 30, 1995.
+
+
+                                      18
+
+
+<PAGE>
+
+                      COMPUTATION OF PER SHARE EARNINGS
+
+                 (IN THOUSANDS EXCEPT PER SHARE INFORMATION)
+
+
+                                         For the years ended
+                     ---------------------------------------------------------
+                            1995              1994               1993
+                     -----------------   -----------------   -----------------
+                                 Fully               Fully               Fully
+                     Primary   Diluted   Primary   Diluted   Primary   Diluted
+                     -------   -------   -------   -------   -------   -------
+
+Net Income           $ 9,228   $ 9,228   $ 7,250   $ 7,250   $ 5,803   $ 5,803
+                     -------   -------   -------   -------   -------   -------
+                     -------   -------   -------   -------   -------   -------
+Weighted average
+ common shares
+ outstanding          10,351    10,351    10,284    10,284    10,119    10,119
+
+Incremental shares
+ issuable for stock
+ options outstanding
+ (Treasury Stock
+ Method)                 465       532       382       382       348       439
+                     -------   -------   -------   -------   -------   -------
+Common and common
+ equivalent shares    10,816    10,883    10,666    10,666    10,467    10,558
+                     -------   -------   -------   -------   -------   -------
+                     -------   -------   -------   -------   -------   -------
+Earnings per share   $   .85   $   .85   $   .68   $   .68    $  .55   $   .55
+                     -------   -------   -------   -------   -------   -------
+                     -------   -------   -------   -------   -------   -------
+
+
+                                       19
+
+<PAGE>
+
+                       SUBSIDIARIES OF THE REGISTRANT
+
+The subsidiaries of the Company at September 30, 1995 were:
+
+
+
+              Name of Subsidiary              State or Other Jurisdiction
+                                                       in Which Organized
+
+          AI/FOCS, Inc.                                 State of Delaware
+            FOCS Midwest, Inc.                          State of Delaware
+          Aero-Motive Company                           State of Michigan
+          Aero-Motive (U.K.) Limited                       United Kingdom
+            Woodhead France S.A.R.L.                               France
+              Elitec S.A.                                          France
+          Central Rubber Company                        State of Illinois
+          Daniel Woodhead Company                       State of Delaware
+          H. F. Vogel GmbH Electrotechnische Fabrik               Germany
+          Woodhead Asia Pte. Ltd.                               Singapore
+          Woodhead Canada Ltd.                        Province of Ontario
+          Woodhead de Mexico S.A. de C.V.                          Mexico
+          Woodhead Industries (The Netherlands) B.V.      The Netherlands
+            Akapp Electro Industrie B.V.                  The Netherlands
+          W.I.S. Corp.                                U.S. Virgin Islands
+
+
+
+                                       20
+
+<PAGE>
+
+
+              CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+As independent public accountants, we hereby consent to the incorporation by
+reference of our report dated November 14, 1995 incorporated by reference in
+this Form 10-K, into the previously filed Woodhead Industries, Inc.
+Registration Statement on Form S-8 (Registration #33-77968).
+
+
+                                        ARTHUR ANDERSEN LLP
+
+
+Chicago, Illinois
+December 21, 1995
+
+
+                                      21
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 13
+<TEXT>
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+REPORT OF MANAGEMENT
+- -------------------------------------------------------------------------------
+
+The management of Woodhead Industries, Inc. is responsible for the integrity
+of the information presented in this Annual Report, including the Company's
+financial statements.  These statements have been prepared in conformity with
+generally accepted accounting principles and include, where necessary,
+informed estimates and judgments by management.
+
+The Company maintains systems of accounting and internal controls designed to
+provide assurance that assets are properly accounted for as well as to insure
+that the financial records are reliable for preparing financial statements.
+The systems are augmented by qualified personnel and are reviewed on a
+periodic basis.
+
+Our independent auditors, Arthur Andersen LLP, conduct annual audits of our
+financial statements in accordance with generally accepted auditing
+standards, which include the review of internal controls for the purpose of
+establishing audit scope, and issue an opinion on the fairness of such
+financial statements.
+
+The Audit Committee of the Board of Directors, which is composed solely of
+outside Directors, meets periodically with management and the independent
+auditors to review the manner in which they are performing their
+responsibilities and to discuss auditing, internal accounting controls, and
+financial reporting matters.  The independent auditors periodically meet
+alone with the Audit Committee and have free access to the Audit Committee at
+any time.
+
+C. MARK DEWINTER                       ROBERT G. JENNINGS
+President and                          Vice President and
+Chief Executive Officer                Chief Financial Officer
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+- -------------------------------------------------------------------------------
+
+To Woodhead Industries, Inc.:
+
+We have audited the accompanying consolidated balance sheets of WOODHEAD
+INDUSTRIES, INC. (a Delaware corporation) AND SUBSIDIARIES as of September
+30, 1995, October 1, 1994, and October 2, 1993, and the related consolidated
+statements of income, stockholders' investment, and cash flows for the years
+then ended.  These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of WOODHEAD INDUSTRIES, INC.
+AND SUBSIDIARIES as of September 30, 1995, October 1, 1994, and October 2,
+1993, and the results of their operations and their cash flows for the years
+then ended in conformity with generally accepted accounting principles.
+
+
+Arthur Andersen LLP
+Chicago, Illinois
+November 14, 1995
+
+                                                                             15
+
+<PAGE>
+
+MANAGEMENT'S DISCUSSION OF OPERATIONS AND FINANCIAL POSITION
+
+FISCAL 1995 RESULTS COMPARED WITH 1994
+- -------------------------------------------------------------------------------
+
+SALES
+
+Fiscal 1995 sales of $120.0 million were 13.5% ahead of the $105.7 million
+reported for 1994.  International sales accounted for 54.7% of this year's
+sales increase and were equal to 27.1% of total sales.  The higher unit
+volumes in Asia, Canada and Europe were augmented by a weak U.S. dollar.
+Strong domestic sales reflect improvements in core product lines, including
+connectors and workstation products.  Price increases during the year netted
+less than 1%.
+
+The backlog of unfilled orders was $7.9 million at year end compared with
+$8.0 million at the close of fiscal 1994.
+
+GROSS PROFIT
+- -------------------------------------------------------------------------------
+
+Gross Profit of $52.5 million was $5.9 million or 12.5% greater than in 1994.
+The reduced rate of 43.7% versus 44.1% in 1994 was due to strong
+international price pressures which held price increases to a minimum.  In
+fiscal 1995, inflationary increases in the cost of sales were somewhat offset
+by the benefit of a devaluation in the Mexican peso which occurred during the
+year.  The Company continued to invest in its manufacturing processes to
+reduce costs and improve productivity.
+
+OPERATING EXPENSES
+- -------------------------------------------------------------------------------
+
+Operating expenses for 1995 totaled $35.3 million, representing an 8.3%
+increase over the 1994 total of $32.6 million.  The increase was driven by
+the Company's continued investment in new product development and marketing
+programs. Overall, operating expenses declined as a percent of net sales to
+29.4% from 30.8% in 1994 primarily due to limited increases in administrative
+expenses.
+
+OTHER EXPENSE/INCOME
+- -------------------------------------------------------------------------------
+
+Other expenses increased $.3 million to $2.8 million in fiscal 1995.  During
+1995 the Company increased its reserve for litigation, environmental and
+other contingencies.  For additional information regarding the environmental
+matter, see footnote #6 concerning Contingent Liabilities.
+
+NET INCOME
+- -------------------------------------------------------------------------------
+
+Net income increased $2.0 million to $9.2 million in 1995.  The earnings
+improvement was achieved by leveraging sales increases with controlled
+overhead spending and administrative expenses.  The Company's effective tax
+rate also declined from 37.1% in 1994 to 35.7% in 1995 primarily due to
+utilization of foreign tax credits.
+
+FINANCIAL POSITION
+- -------------------------------------------------------------------------------
+
+Working capital increased to $19.7 million at the close of 1995 representing
+an increase of $5.1 million over the 1994 year end level.  The current ratio
+also increased slightly to 1.9/1 in 1995 from 1.8/1 in 1994.  The Company's
+$15 million revolving credit line was unused at year end.  Looking forward,
+projected cash flow is expected to exceed the operating requirements of the
+Company in fiscal year 1996.
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+FISCAL 1994 RESULTS COMPARED WITH 1993
+- -------------------------------------------------------------------------------
+
+The Company's sales of $105.7 million exceeded fiscal 1993 results by $15.8
+million or 17.6%.  The full year results of prior year acquisitions coupled
+with increased unit demand worldwide drove the improvement.  International
+sales increases were recorded at all subsidiaries with significant
+improvements coming from Asia, Canada, and the United Kingdom. Strong
+domestic sales were supported through gains in the Company's core electrical
+specialty products.  Price increases during the year netted slightly less
+than 2%.
+
+The backlog of unfilled orders grew 27% over the prior year and ended fiscal
+1994 at $8.0 million.
+
+- -------------------------------------------------------------------------------
+
+The gain in gross profit amounted to $7.0 million and was primarily due to
+the higher level of sales.  Although price increases were limited, the
+Company continued to invest in tooling and product redesigns which increased
+manufacturing productivity and generated cost reductions.  These investments
+allowed the Company to maintain its gross profit rate at 44.1% for fiscal
+1994.
+
+- -------------------------------------------------------------------------------
+
+As a percent of net sales, operating expenses fell to 30.8% from 32.7% in
+1993. Operating expenses of $32.6 million in fiscal 1994 were $3.2 million or
+10.9% ahead of the prior year.  Increased spending resulted mainly from the
+first full year of expenses incurred by companies acquired in the prior year,
+as well as higher levels of commissions due to increased volume.  Also, in
+1994 the Company continued to invest in engineering for new products as well
+as in efforts to achieve ISO 9000 certification.
+
+- -------------------------------------------------------------------------------
+
+Other expenses increased to $2.5 million in fiscal 1994 from $.7 million in
+1993.  The increase in 1994 was primarily attributable to two charges, one
+for $.6 million to effect the reorganization and combination of the Company's
+Advanced Interconnect, Inc. and FOCS subsidiaries.  In addition, the Company
+took a $.9 million charge pertaining to an ongoing assessment and remediation
+of an environmental matter at one of its subsidiaries.  For additional
+information regarding the environmental matter, see #6 concerning Contingent
+Liabilities.
+
+- -------------------------------------------------------------------------------
+
+Net income of $7.3 million was 24.9% greater than 1993 primarily due to the
+increase in sales volume coupled with a lower rate of spending in operating
+expenses.  The total effect of these improvements was offset in part by the
+charges incurred in other expenses.  During the year, the Company's effective
+tax rate declined from 38.9% to 37.1% due to the utilization of tax credits.
+
+- -------------------------------------------------------------------------------
+
+There was a $4.1 million increase in working capital during 1994 which
+brought the total to $14.6 million and raised the current ratio from 1.7/1 to
+1.8/1. Strong cash flow allowed the Company to reduce total long-term debt
+from $2.7 million to $.2 million.  The Company's $15 million revolving credit
+line was unused at year end.
+
+
+COMMON STOCK PRICE RANGE BY QUARTER
+(AMOUNTS IN DOLLARS)
+- -------------------------------------------------------------------------------
+
+The Compay's common stock trades on the NASDAQ Stock Market under the symbol
+WDHD. The daily quotations as reported by NASDAQ are published in the Wall
+Street Journal and other leading financial publications. The range in the
+market price per share of the stock and dividends paid during the past two
+years were as follows:
+
+<TABLE>
+<CAPTION>
+
+                 Price
+FY 1995     High       Low      Dividends
+- -------------------------------------------------------------------------------
+<S>         <C>        <C>      <C>
+  1ST     10 13/16     9 5/16     $.063
+  2ND     13 5/16     10 1/2       .063
+  3RD     15          12 11/16     .065
+  4TH     14 3/4      12 1/2       .065
+
+- -------------------------------------------------------------------------------
+
+               Price
+FY 1994     High       Low      Dividends
+- -------------------------------------------------------------------------------
+<S>         <C>        <C>      <C>
+  1ST     10 11/16     8 15/16    $.057
+  2ND     12 1/4       8 13/16     .057
+  3RD     10 13/16     9 13/16     .057
+  4TH     10 11/16     9 11/16     .057
+- -------------------------------------------------------------------------------
+
+</TABLE>
+
+ALL PERIODS HAVE BEEN ADJUSTED FOR A THREE-FOR-TWO STOCK SPLIT EFFECTED IN
+THE FORM OF A STOCK DIVIDEND IN MAY 1995, AND THE STOCK PRICES HAVE BEEN
+ROUNDED TO THE NEAREST SIXTEENTH.
+
+                                                                             17
+
+<PAGE>
+
+FINANCIAL PROFILE
+
+OPERATIONS
+
+<TABLE>
+<CAPTION>
+
+(AMOUNTS IN THOUSANDS EXCEPT PER SHARE, EMPLOYEES, AND STOCKHOLDERS)     1995      1994     1993     1992
+- ----------------------------------------------------------------------------------------------------------
+<S>                                                                   <C>       <C>       <C>      <C>
+Net sales                                                             $120,003  $105,689  $89,864  $79,518
+
+Cost of sales                                                           67,541    59,070   50,238   43,756
+
+Gross profit                                                            52,462    46,619   39,626   35,762
+  % of net sales                                                         43.7%     44.1%    44.1%    45.0%
+
+Operating and other expenses                                            38,110    35,096   30,125   28,007
+  % of net sales                                                         31.8%     33.2%    33.5%    35.2%
+Income before income taxes                                              14,352    11,523    9,501    7,755
+  % of net sales                                                         12.0%     10.9%    10.6%     9.8%
+
+Provision for income taxes                                               5,124     4,273    3,698    3,000
+
+Net income                                                               9,228     7,250    5,803    4,755
+  % of net sales                                                          7.7%      6.9%     6.5%     6.0%
+  % of average assets                                                    13.6%     12.2%    11.1%    10.3%
+  Return on stockholders' average investment                             19.8%     18.2%    16.6%    15.2%
+
+Earnings per common and common
+  equivalent share                                                    $    .85   $   .68  $   .55  $   .47
+
+Dividends per share                                                        .26       .23      .23      .23
+
+Common and common equivalent shares                                     10,816    10,666   10,467   10,040
+
+Memo:  Interest expense (income)                                            97       178       39    (138)
+  % of net sales                                                           .1%       .2%      .0%    (.2)%
+  Depreciation and amortization                                          4,475     4,199    3,777    3,229
+  % of net sales                                                          3.7%      4.0%     4.2%     4.1%
+  Engineering and development                                            2,404     2,148    2,105    2,041
+  % of net sales                                                          2.0%      2.0%     2.3%     2.6%
+
+
+
+YEAR END POSITION
+- ----------------------------------------------------------------------------------------------------------
+Total assets                                                        $ 73,411  $ 62,263  $ 56,360  $ 48,564
+
+Total liabilities                                                     23,007    19,316    19,700    15,460
+
+Working capital                                                       19,654    14,572    10,538    14,129
+
+Current ratio                                                       1.9 to 1  1.8 to 1  1.7 to 1  2.1 to 1
+
+Stockholders' investment                                              50,404    42,947    36,660    33,104
+
+Long-term debt                                                            --        63     2,047       500
+
+Book value per share                                                $   4.86  $   4.15  $   3.57  $   3.31
+
+Number of employees                                                    1,126     1,079       947       764
+
+Number of stockholders                                                   571       598       634       640
+
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+<TABLE>
+<CAPTION>
+
+FINANCIAL PROFILE
+                                                  1991      1990      1989      1988      1987      1986      1985
+- --------------------------------------------------------------------------------------------------------------------
+<S>                                              <C>       <C>       <C>       <C>       <C>       <C>       <C>
+Net sales                                        $73,499   $72,168   $71,443   $71,178   $69,887   $63,929   $59,723
+
+Cost of sales                                     41,753    41,034    42,070    42,015    42,325    38,908    35,941
+
+Gross profit                                      31,746    31,134    29,373    29,163    27,562    25,021    23,782
+  % of net sales                                   43.2%     43.1%     41.1%     41.0%     39.4%     39.1%     39.8%
+
+Operating and other expenses                      26,552    22,708    22,195    22,993    21,805    20,305    19,680
+  % of net sales                                   36.1%     31.5%     31.1%     32.3%     31.2%     31.8%     33.0%
+Income before income taxes                         5,194     8,426     7,178     6,170     5,757     4,716     4,102
+  % of net sales                                    7.1%     11.7%     10.0%      8.7%      8.2%      7.4%      6.9%
+
+Provision for income taxes                         2,374     3,406     2,878     2,490     2,591     2,139     1,822
+
+Net income                                         2,820     5,020     4,300     3,680     3,166     2,577     2,280
+  % of net sales                                    3.8%      7.0%      6.0%      5.2%      4.5%      4.0%      3.8%
+  % of average assets                               6.6%     12.6%     10.3%      8.2%      6.8%      5.3%      5.0%
+  Return on stockholders' average investment        9.7%     18.4%     17.7%     17.1%     12.9%      9.1%      8.1%
+
+Earnings per common and common
+  equivalent share                               $   .29   $   .52   $   .45   $   .39   $   .29   $   .23   $   .21
+
+Dividends per share                                  .23       .21       .20       .20       .20       .20       .20
+
+Common and common equivalent shares                9,615     9,672     9,492     9,387    10,740    11,103    11,091
+
+Memo:  Interest expense (income)                      43     (299)       543     1,107       824     1,055       669
+  % of net sales                                     .1%     (.4)%       .8%      1.6%      1.2%      1.7%      1.1%
+  Depreciation and amortization                    3,062     2,461     2,362     2,335     2,328     2,113     1,921
+  % of net sales                                    4.2%      3.4%      3.3%      3.3%      3.3%      3.3%      3.2%
+  Engineering and development                      1,749     1,577     1,377     1,574     1,524     1,622     1,555
+  % of net sales                                    2.4%      2.2%      1.9%      2.2%      2.2%      2.5%      2.6%
+
+
+YEAR END POSITION
+- --------------------------------------------------------------------------------------------------------------------
+Total assets                                     $43,709   $41,216   $38,534   $44,720   $44,806   $48,754   $49,200
+
+Total liabilities                                 14,147    12,638    12,530    22,187    24,327    20,172    21,053
+
+Working capital                                   11,443    15,542    13,245    17,029    16,614    19,835    18,423
+
+Current ratio                                   2.0 to 1  2.5 to 1  2.3 to 1  2.6 to 1  2.4 to 1  2.8 to 1  2.3 to 1
+
+Stockholders' investment                          29,562    28,578    26,004    22,533    20,479    28,582    28,147
+
+Long-term debt                                       500        --       153     9,394    10,821     7,723     5,613
+
+Book value per share                             $  3.05   $  2.98   $  2.68   $  2.40   $  2.18   $  2.57   $  2.53
+
+Number of employees                                  816       788       732       810       840       830       860
+
+Number of stockholders                               710       751       822       920       980     1,112     1,262
+
+</TABLE>
+
+                                                                             19
+
+<PAGE>
+
+CONSOLIDATED FINANCIAL
+
+CONSOLIDATED BALANCE SHEETS
+as of September 30, 1995, October 1, 1994, and October 2, 1993.
+
+ASSETS
+
+<TABLE>
+<CAPTION>
+
+(AMOUNTS IN THOUSANDS)                                1995      1994      1993
+- -------------------------------------------------------------------------------
+<S>                                                 <C>       <C>       <C>
+Current Assets:
+  Cash and short-term securities                    $ 4,202   $ 1,454   $ 1,155
+  Accounts receivable, less allowances
+    of $572 in 1995, $674 in 1994,
+    and $730 in 1993                                 18,965    16,589    12,837
+  Inventories (Note 1)                               12,613    10,402     8,671
+  Prepaid expenses                                    5,132     3,811     3,629
+
+    Total current assets                            $40,912   $32,256   $26,292
+
+Other Assets                                        $ 1,039   $ 1,570   $ 2,092
+
+Property, Plant and Equipment (Note 1)              $61,464   $55,035   $50,692
+  Less: Accumulated depreciation                     37,429    33,904    30,156
+
+    Net property, plant and equipment               $24,035   $21,131   $20,536
+
+Goodwill (Note 1)                                   $ 7,425   $ 7,306   $ 7,440
+
+TOTAL ASSETS                                        $73,411   $62,263   $56,360
+
+
+LIABILITIES AND STOCKHOLDERS' INVESTMENT
+- -------------------------------------------------------------------------------
+Current Liabilities:
+  Accounts payable                                  $ 7,033   $ 5,948   $ 5,248
+  Accrued expenses                                   12,509    10,750     9,080
+  Income taxes payable                                1,647       880       822
+  Portion of long-term debt
+    payable within one year (Note 2)                     69       106       604
+
+    Total current liabilities                       $21,258   $17,684   $15,754
+
+Deferred Income Taxes (Note 3)                      $ 1,749   $ 1,569   $ 1,899
+
+Long-term Debt, less portion payable
+  within one year shown above (Note 2)              $    --   $    63   $ 2,047
+
+Stockholders' Investment (Notes 1,2,5 and 7):
+  Preferred stock                                   $    --   $    --   $    --
+  Common stock at par, (Shares issued - 10,374)      10,374     7,470     7,470
+  Additional paid-in capital                          1,248     4,987     4,667
+  Cumulative translation adjustment                     140     (347)     (914)
+  Retained earnings                                  38,642    35,521    30,601
+  Less: Treasury stock at cost,
+    (Shares held 1994 - 575, 1993 - 634)                 --   (4,684)   (5,164)
+
+    Total stockholders' investment                  $50,404   $42,947   $36,660
+
+TOTAL LIABILITIES AND
+  STOCKHOLDERS' INVESTMENT                          $73,411   $62,263   $56,360
+
+- -------------------------------------------------------------------------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+
+For the years ended September 30, 1995,
+October 1, 1994, and October 2, 1993.
+(AMOUNTS IN THOUSANDS EXCEPT PER SHARE DATA)       1995       1994       1993
+- -------------------------------------------------------------------------------
+<S>                                              <C>        <C>        <C>
+Net Sales                                        $120,003   $105,689   $ 89,864
+
+Cost of Sales                                      67,541     59,070     50,238
+
+  Gross Profit                                   $ 52,462   $ 46,619   $ 39,626
+    Percent of net sales                            43.7%      44.1%      44.1%
+
+Operating Expenses:
+  Engineering and product development            $  2,404   $  2,148   $  2,105
+  Marketing and sales                              19,764     17,504     15,442
+  General and administrative                       13,121     12,930     11,841
+
+  Total operating expenses                       $ 35,289   $ 32,582   $ 29,388
+    Percent of net sales                            29.4%      30.8%      32.7%
+
+Income from Operations                           $ 17,173   $ 14,037   $ 10,238
+  Percent of net sales                              14.3%      13.3%      11.4%
+
+Other Expense (Income):
+  Interest expense                               $     97   $    178   $     39
+  Other, net                                        2,724      2,336        698
+
+    Net other expenses                           $  2,821   $  2,514   $    737
+
+Income Before Income Taxes                       $ 14,352   $ 11,523   $  9,501
+  Percent of net sales                              12.0%      10.9%      10.6%
+Provision for Income Taxes (Note 3)                 5,124      4,273      3,698
+
+Net Income                                       $  9,228   $  7,250   $  5,803
+  Percent of net sales                               7.7%       6.9%       6.5%
+
+EARNINGS PER COMMON AND COMMON
+  EQUIVALENT SHARE (NOTE 1)                      $    .85   $    .68   $    .55
+
+- -------------------------------------------------------------------------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                                                             21
+
+<PAGE>
+
+CONSOLIDATED FINANCIAL
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' INVESTMENT
+
+<TABLE>
+<CAPTION>
+
+For the years ended September 30,1995,
+October 1, 1994, and October 2, 1993.
+(AMOUNTS IN THOUSANDS EXCEPT PER SHARE DATA)
+- -------------------------------------------------------------------------------------------------------------------------
+                                                           Additional   Cumulative                              Total
+                                                 Common     Paid-in     Translation   Retained   Treasury   Stockholders'
+                                                  Stock     Capital     Adjustment    Earnings    Stock       Investment
+- -------------------------------------------------------------------------------------------------------------------------
+<S>                                              <C>       <C>          <C>           <C>        <C>        <C>
+Balance October 3, 1992                          $ 3,735     $5,053       $ (10)      $30,828    $(6,502)      $33,104
+  Net income for the year                             --         --           --        5,803          --        5,803
+  Translation adjustment                              --         --        (904)           --          --        (904)
+  Cash dividends, $.34 per share                      --         --           --      (2,295)          --      (2,295)
+  Stock option plans                                  --      (386)           --           --       1,338          952
+  Two-for-one stock split (Note 5)                 3,735         --           --      (3,735)          --           --
+
+Balance October 2, 1993                          $ 7,470     $4,667       $(914)      $30,601     $(5,164)     $36,660
+  Net income for the year                             --         --           --        7,250           --       7,250
+  Translation adjustment                              --         --          567           --           --         567
+  Cash dividends, $.34 per share                      --         --           --      (2,330)           --     (2,330)
+  Stock option plans                                  --        320           --           --          480         800
+
+Balance October 1, 1994                          $ 7,470     $4,987       $(347)      $35,521     $(4,684)     $42,947
+  Net income for the year                             --         --           --        9,228           --       9,228
+  Translation adjustment                              --         --          487           --           --         487
+  Cash dividends, $.257 per share                     --         --           --      (2,657)           --     (2,657)
+  Stock option plans                                  23        326           --           --           50         399
+  Retirement of treasury stock                     (569)    (4,065)           --           --        4,634          --
+  Three-for-two stock split (Note 5)               3,450         --           --      (3,450)           --          --
+
+BALANCE SEPTEMBER 30, 1995                       $10,374    $ 1,248        $ 140      $38,642     $     --     $50,404
+
+- -------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+
+For the years ended September 30, 1995,
+October 1, 1994, and October 2, 1993.
+(AMOUNTS IN THOUSANDS)                                      1995      1994      1993
+- --------------------------------------------------------------------------------------
+<S>                                                        <C>      <C>        <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income for the year                                  $ 9,228   $ 7,250   $ 5,803
+
+  Adjustments to reconcile net income to net
+  cash flows from operating activities:
+
+Depreciation and amortization                                4,475     4,199     3,777
+(Increase) decrease in:
+  Accounts receivable                                      (1,361)   (3,752)      (82)
+  Inventories                                              (1,938)   (1,731)       847
+  Prepaid expenses                                         (1,224)     (158)       217
+  Other assets                                               (147)      (66)       (7)
+Increase (decrease) in:
+  Accounts payable                                             511       700       373
+  Accrued expenses                                           1,576     1,670       857
+  Income taxes payable                                         486        34     (457)
+  Deferred income taxes                                        180     (330)      (10)
+
+Net cash flows from operating activities                   $11,786   $ 7,816   $11,318
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of property, plant & equipment                $(6,620)  $(3,928)  $(4,037)
+  Payments for businesses acquired                           (599)        --  (11,203)
+  Retirements or sales of property, plant & equipment          260        24        80
+
+Net cash used for investing activities                    $(6,959)  $(3,904) $(15,160)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  (Decrease)increase in short-term debt                   $   (37)  $  (498) $     497
+  (Decrease)increase in long-term debt                        (63)   (1,984)     1,304
+  Sales of stock                                               399       800       952
+  Dividend payments                                        (2,657)   (2,330)   (2,295)
+
+Net cash (used for) provided by financing activities      $(2,358)  $(4,012) $     458
+
+EFFECT OF EXCHANGE RATES                                  $    279  $    399 $   (691)
+
+NET INCREASE (DECREASE) IN CASH AND
+  SHORT-TERM SECURITIES                                   $  2,748  $    299 $ (4,075)
+  Cash and short-term securities at beginning of year        1,454     1,155     5,230
+
+Cash and short-term securities at end of year             $  4,202  $  1,454 $   1,155
+
+SUPPLEMENTAL CASH FLOW DATA
+Cash paid during the year for:
+  Interest                                                $     97  $    167 $     181
+  Income taxes                                               5,179     3,787     4,101
+
+- --------------------------------------------------------------------------------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                                                             23
+
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. SUMMARY OF ACCOUNTING POLICIES
+
+(AMOUNTS IN THOUSANDS, EXCEPT SHARES AND PER SHARE, IN ALL TABLES)
+
+- --------------------------------------------------------------------------------
+
+CONSOLIDATION
+The consolidated financial statements include the accounts of all subsidiaries,
+each of which is wholly owned. Revenue is recognized when products are shipped.
+All significant intercompany transactions have been eliminated in consolidation.
+The Company follows the practice of ending its fiscal year on the Saturday
+closest to September 30.
+
+INVENTORIES
+The Company values its inventory at the lower of cost or market, cost being
+determined using first-in first-out (FIFO) or last-in first-out (LIFO) method.
+The total inventories at the balance sheet dates were as follows:
+
+<TABLE>
+<CAPTION>
+                                            1995           1994            1993
+<S>                                   <C>            <C>             <C>
+- --------------------------------------------------------------------------------
+Inventories valued using FIFO         $    5,727     $    4,637      $    3,457
+
+Inventories valued using LIFO:
+  At FIFO cost                        $   11,530     $   10,321      $   10,123
+  Less:  Reserve to reduce to LIFO         4,644          4,556           4,909
+
+     LIFO inventories                 $    6,886     $    5,765      $    5,214
+
+          TOTAL INVENTORIES           $   12,613     $   10,402      $    8,671
+- --------------------------------------------------------------------------------
+Inventory composition at FIFO:
+  Raw materials                       $    8,528     $    7,012      $    5,651
+  Work-in-process and finished goods       8,729          7,946           7,929
+
+           TOTAL                      $   17,257     $   14,958      $   13,580
+- --------------------------------------------------------------------------------
+</TABLE>
+
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment are recorded at cost.  Depreciation is computed
+using the straight-line method for financial accounting purposes.  The estimated
+useful lives are as follows:
+
+     Asset Description                                                Asset Life
+- --------------------------------------------------------------------------------
+     Buildings and improvements                                   20 to 40 years
+     Machinery and equipment                                       3 to 12 years
+     Dies and molds                                                 4 to 5 years
+     Furniture and office equipment                                3 to 10 years
+
+The cost of property retired or otherwise disposed of is removed from the
+property accounts, the accumulated depreciation is removed from the related
+reserves, and the net gain or loss is reflected in income.  Maintenance and
+repairs are charged to expense as incurred.  Major renewals and betterments
+are capitalized.
+
+The details of property, plant and equipment at the balance sheet dates were as
+follows:
+
+                                               1995            1994         1993
+- --------------------------------------------------------------------------------
+Land                                     $    1,358        $    876     $    873
+Buildings and improvements                   14,816          12,757       12,053
+Machinery and equipment                      16,180          14,364       13,252
+Dies and molds                               15,654          14,548       13,913
+Furniture and office equipment               13,456          12,490       10,601
+
+                                          $  61,464        $ 55,035     $ 50,692
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+                                     Woodhead Industries Inc. 1995 Annual Report
+
+1. SUMMARY OF ACCOUNTING POLICIES (CONT.)
+- --------------------------------------------------------------------------------
+GOODWILL
+Goodwill is the cost of acquired businesses in excess of the fair value of their
+identifiable net assets and is amortized over a period not exceeding 40 years.
+The Company regularly reviews the individual components of goodwill and
+recognizes, on a current basis, any diminution in value.
+
+INCOME PER COMMON AND COMMON SHARE EQUIVALENT
+Income per share is computed on the basis of the weighted average number of
+shares outstanding plus the  effect of common stock equivalents.  The weighted
+average shares used in the computations were 10,816,000 in 1995, 10,666,000 in
+1994, and 10,467,000 in 1993.
+
+CASH FLOWS
+For purposes of reporting cash flows, cash on hand and short-term securities are
+combined.  Short-term securities may include certificates of deposit, Euro-
+dollars and commercial paper which must be held for three months or less in
+order to be considered short-term for cash flows.
+
+RESTATEMENTS
+All share and per share amounts have been adjusted for a three-for-two stock
+split effected in the form of a stock dividend in May, 1995 and a two-for-one
+stock split effected in the form of a stock dividend in March, 1993.  In
+addition, certain other fiscal 1994 balances have been reclassified to
+conform to the fiscal 1995 presentation.
+
+2. LONG-TERM DEBT AND SHORT-TERM BORROWING
+- --------------------------------------------------------------------------------
+
+Long-term debt consisted of the following:
+
+                                        1995                1994            1993
+- --------------------------------------------------------------------------------
+Bank Revolving Credit Agreement      $     -             $   -            $1,900
+Other                                     69                 169             751
+
+     Total                           $    69             $   169          $2,651
+
+Less: Portion of long-term debt
+  payable within one year                 69                 106             604
+
+NET LONG-TERM DEBT                   $     -             $    63          $2,047
+- --------------------------------------------------------------------------------
+
+The Company has a Revolving Credit Agreement (the "Agreement") with a bank that
+provides for borrowings of up to $15,000,000 at the bank's prime rate or offered
+rate.  This Agreement expires on October 31, 1996.  The average amount owing to
+the bank was $811,000 in 1995, $1,964,000 in 1994, and $2,064,000 in 1993, at
+weighted average interest rates of 6.9%, 4.2%, and 3.7%, respectively.  Under
+the Agreement, the Company is required, among other things, to maintain
+consolidated tangible net worth, as defined, of not less than $22,263,000 and a
+minimum current ratio of 1.5 to 1.  In addition, there are some restrictions on
+the creation or assumption of any lien or security interest upon any of its
+assets.
+
+Short-term borrowing averaged $6,000 in 1995, $3,000 in 1994, and $0 in 1993, at
+weighted average interest rates of 9.3%, 6.2%, and 0.0%, respectively.
+
+
+3. INCOME TAXES
+- --------------------------------------------------------------------------------
+Effective October 3, 1993, the Company adopted Statement of Financial Accounting
+Standards No. 109 (SFAS 109), "Accounting for Income Taxes."  SFAS 109 requires,
+among other things, the application of current statutory income tax rates to
+deferred income tax balances.  In the first quarter of fiscal 1994, the company
+recognized the cumulative effect, through October 3, 1993, of the accounting
+change, reflecting the difference between current statutory tax rates and the
+generally higher rates that were used to establish the deferred income tax
+balances, resulting in no material effect to the Company's financial condition.
+
+                                                                             25
+
+
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+3. INCOME TAXES  (CONT.)
+- --------------------------------------------------------------------------------
+THE PROVISION FOR INCOME TAXES FOR 1995, 1994, AND 1993 CONSISTED OF THE
+FOLLOWING:
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+U. S. federal income tax                  $    3,529    $    3,217     $  2,642
+State income taxes                               608           593          488
+Foreign income taxes                             987           463          568
+
+                                          $    5,124    $    4,273     $  3,698
+
+Current provision                         $    5,467    $    5,010     $  3,709
+Deferred provision                              (343)         (737)         (11)
+
+                                          $    5,124    $    4,273     $  3,698
+- -------------------------------------------------------------------------------
+A RECONCILIATION OF THE FEDERAL STATUTORY RATE TO THE EFFECTIVE TAX
+RATE IS AS FOLLOWS:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Federal statutory rate                          34.0%         34.0%        34.0%
+State income taxes, net of federal benefit       2.8           3.4          3.4
+Difference between U.S. and foreign rates        1.3           2.1          2.8
+     Other, net                                 (2.4)         (2.4)        (1.3)
+
+                                                35.7%         37.1%        38.9%
+- -------------------------------------------------------------------------------
+THE COMPONENTS OF INCOME BEFORE INCOME TAXES CONSISTED OF THE FOLLOWING:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Domestic                                    $ 11,980     $  10,866     $  8,611
+Foreign                                        2,372           657          890
+
+                                            $ 14,352     $  11,523     $  9,501
+- -------------------------------------------------------------------------------
+THE COMPONENTS OF THE DEFERRED TAX PROVISIONS CONSISTED OF THE FOLLOWING:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Excess of tax over book depreciation
+ and amortization                             $  (14)      $   121        $   -
+Inventory reserves                               (10)           10           44
+Litigation reserves                               90          (301)         (12)
+Environmental reserves                          (219)         (362)           -
+Other reserves                                  (190)         (205)         (43)
+
+                                              $ (343)       $ (737)       $ (11)
+
+- -------------------------------------------------------------------------------
+
+THE SIGNIFICANT DEFERRED TAX ASSETS AND LIABILITIES AT SEPTEMBER 30, 1995,
+OCTOBER 1, 1994, AND OCTOBER 2, 1993 WERE AS FOLLOWS:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Deferred tax liabilities:
+
+  Accelerated depreciation & amortization    $ 1,749      $  1,569     $  1,899
+
+          Total Deferred Liabilities         $ 1,749      $  1,569     $  1,899
+Less deferred tax assets:
+     Accounts receivable reserves            $   160      $    221     $    213
+     Inventory reserves                          378           432          520
+     Litigation reserves                         356           787          485
+     Environmental reserves                      561           438           86
+     Employee benefit reserves                   730           865          642
+     Other reserves                              461          (807)          60
+
+          Total Deferred Assets              $ 2,646      $  1,936     $  2,006
+
+NET DEFERRED TAX ASSETS                      $   897      $    367     $    107
+
+- -------------------------------------------------------------------------------
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+4. PENSION AND OTHER EMPLOYEE BENEFITS
+- -------------------------------------------------------------------------------
+The Company has defined benefit, defined contribution and government mandated
+plans covering eligible, non-bargaining unit employees.  Pension benefits are
+fully vested after five years and are based upon years of service and highest
+five-year average compensation.  It is the Company's policy to fund its pension
+costs by making annual contributions based upon the minimum funding provisions
+of the "Employee Retirement Income Security Act of 1974".  The total pension
+expense of Company sponsored plans was $297,000 in 1995 and was $290,000 and
+$394,000 in 1994 and 1993, respectively.
+
+NET PERIODIC PENSION COST FOR THE NON-UNION PLANS FOR 1995, 1994 AND 1993
+INCLUDED THE FOLLOWING COMPONENTS:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Service cost-benefits earned during the year  $  244       $   278      $   340
+Interest cost on projected benefit obligation    443           452          470
+Actual (gain) loss on plan assets               (835)           21         (530)
+Net amortization and deferral                    635          (189)         215
+
+                                              $  487       $   562      $   495
+- -------------------------------------------------------------------------------
+ASSUMPTIONS USED IN ACCOUNTING FOR THE PENSION PLANS ARE AS FOLLOWS:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Discount rate                                    8.0%          8.0%         7.5%
+Rate of increase in compensation levels          6.0%       varied       varied
+                                                            by age       by age
+Expected long-term rate of return on assets      7.5%          7.5%         8.0%
+
+- -------------------------------------------------------------------------------
+THE FOLLOWING TABLE RECONCILES THE PLANS' FUNDED STATUS AND THE AMOUNT
+RECOGNIZED IN THE COMPANY'S BALANCE SHEETS AT SEPTEMBER 30, 1995, OCTOBER 1,
+1994, AND OCTOBER 2, 1993, FOR ITS NON-UNION PLANS:
+
+                                                1995          1994         1993
+- -------------------------------------------------------------------------------
+
+Actuarial present value of benefit obligations
+     Vested benefits                        $  4,059     $   4,723     $  4,926
+     Non-vested benefits                         355           198          198
+
+     Accumulated benefit obligation         $  4,414     $   4,921     $  5,124
+     Effect of projected future
+      compensation levels                        979           873          750
+
+     Projected benefit obligation           $  5,393     $   5,794     $  5,874
+Plan assets at fair value                      5,240         5,195        5,483
+
+Under funded status                         $    153     $     599     $    391
+Unrecognized prior service cost                 (128)         (203)        (230)
+Unrecognized net loss                           (379)         (269)         (11)
+Unrecognized net asset (obligation)
+     at date of application                       16            33         (158)
+(Prepaid) accrued pension cost included
+     in balance sheet                       $   (338)    $     160     $     (8)
+
+- -------------------------------------------------------------------------------
+
+In fiscal 1990, a supplemental retirement benefit plan was approved for certain
+key executive officers which will provide supplemental payments upon retirement,
+disability, or death.  The obligations are not funded apart from the Company's
+general assets.  The Company charged to expense $205,000 in 1995, $299,000 in
+1994, and $115,000 in 1993 under the plan.
+
+Most of the Company's union employees are covered by union-sponsored,
+collectively-bargained multi-employer pension plans.  The Company contributed
+and charged to expense $154,000 in 1995, $130,000 in 1994, and $91,000 in 1993,
+for such plans.  These contributions are determined in accordance with the
+provisions of negotiated labor contracts and generally are based on the number
+of man-hours worked.  Information from the plan's administrators is not
+available to permit the Company to determine its share of unfunded vested
+benefits.
+
+
+                                                                              27
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+4. PENSION AND OTHER EMPLOYEE BENEFITS (CONT.)
+- -------------------------------------------------------------------------------
+The annual profit sharing contributions which are the lesser of (a) a percentage
+of income as defined in the plans or (b) 15% of the aggregate compensation paid
+to participants during the year, were $698,000 in 1995, $634,000 in 1994, and
+$505,000 in 1993.
+
+The Company makes matching contributions of 50% of employees' contributions
+up to 4% of compensation.  Matching contributions were $214,000 in 1995, and
+were $206,000 and $227,000 in 1994 and 1993, respectively.
+
+Plan assets of Company-sponsored plans are invested primarily in common stocks,
+corporate bonds, and government securities.  Although the Company has a right to
+improve, change or terminate the plans, they are intended to be permanent.
+
+OTHER POSTRETIREMENT BENEFITS
+The Company provides an optional retiree medical program to a majority of its
+U.S. salaried and non-union retirees.  All retirees are required to contribute
+to the cost of their coverage.  These postretirement benefits are unfunded.
+
+During the quarter ended January 1, 1994, the Company adopted Statement of
+Financial Accounting Standards No. 106 (SFAS No. 106), "Employer's Accounting
+for Postretirement Benefits other than Pensions," on a prospective basis.
+Adopting this new standard resulted in a cumulative catch-up adjustment of
+approximately $1,098,000 (pre-tax) which will be amortized over 20 years.  On an
+on-going basis, the annual incremental expense, including $55,000 amortization
+of the $1,098,000, will be approximately $181,000 (pre-tax).
+
+IN FISCAL YEARS 1995 AND 1994, THE COMPONENTS OF COST OF THESE POSTRETIREMENT
+BENEFITS, PRINCIPALLY HEALTHCARE,
+WERE AS FOLLOWS:
+                                                             1995          1994
+- -------------------------------------------------------------------------------
+     Service Cost                                         $    44      $     45
+     Interest Cost                                             87            81
+     Amortization of transition obligation                     54            55
+
+                                                          $   185      $    181
+
+- -------------------------------------------------------------------------------
+THE FUNDED STATUS OF THESE BENEFITS FOR THE FISCAL YEARS ENDED SEPTEMBER 30,
+1995 AND OCTOBER 1, 1994 WERE AS FOLLOWS:
+                                                             1995          1994
+- -------------------------------------------------------------------------------
+
+Actuarial present value of benefit obligations:
+     Retirees                                            $   424       $    428
+     Eligible active employees                               298            282
+     Other active employees                                  471            396
+
+     Accumulated postretirement benefit obligation       $ 1,193       $  1,106
+Plan assets at fair value                                      -              -
+
+Under funded status                                      $ 1,193       $  1,106
+Unrecognized transition obligation                          (989)        (1,044)
+Unrecognized net gain                                        118            119
+
+Accrued postretirement benefit cost
+     included in balance sheet                           $   322       $    181
+
+- -------------------------------------------------------------------------------
+
+<PAGE>
+
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+
+4. PENSION AND OTHER EMPLOYEE BENEFITS (CONT.)
+- -------------------------------------------------------------------------------
+ASSUMPTIONS USED IN THE ACCOUNTING WERE:
+
+                                                             1995          1994
+- -------------------------------------------------------------------------------
+
+Discount rate                                                 8.0%          7.5%
+Health care trend rate in first year                         11.0%         12.0%
+Gradually declining to a trend rate of                        6.0%          6.0%
+     in the year                                             2000          2000
+
+- -------------------------------------------------------------------------------
+
+THE EFFECT OF A ONE PERCENTAGE POINT INCREASE IN THE ASSUMED HEALTH CARE TREND
+RATE ON:
+
+                                                             1995          1994
+- -------------------------------------------------------------------------------
+
+Aggregate of service and interest cost                     $   25        $   24
+Accumulated postretirement benefit obligation                 202           177
+- -------------------------------------------------------------------------------
+POSTEMPLOYMENT BENEFITS
+The Company provides certain postemployment benefits to former or inactive
+employees after employment but before retirement.
+
+If the Company had adopted Statement of Financial Accounting Standards No. 112,
+"Employers' Accounting for Postemployment Benefits", the effect of the change
+would have been immaterial.  The Company will, on an annual basis, reevaluate
+its liability under SFAS No. 112 to verify that it remains immaterial.
+
+
+5. CAPITAL STOCK
+- -------------------------------------------------------------------------------
+The total authorized stock is 40,000,000 shares, consisting of 10,000,000
+shares of preferred stock, par value $.01 per share, and 30,000,000 shares of
+common stock, par value $1.00 per share.  No shares of preferred stock have
+been issued to date.
+
+In May, 1986, the Company declared a dividend distribution of one common
+stock purchase right ("Right") for each share of common stock outstanding.
+The plan authorizing these Rights was subsequently amended in July, 1990 and
+January, 1993.  Each Right entitles the holder thereof, until May 29, 1996,
+to buy one share of common stock at an exercise price of $13.33.  The
+exercise price and the number of shares of common stock issuable upon the
+exercise of the Rights are subject to adjustment in certain cases to prevent
+dilution.  The Rights are evidenced by the common stock certificates and are
+not exercisable, or transferable apart from the common stock, until ten days
+after a person acquires or makes a tender offer for 15% or more of the common
+stock or the Board of Directors determines that such person has become an
+Adverse Person as that term is defined in the plan.  In the event the Company
+is acquired in a merger or other business combination transaction (including
+one in which the Company is the surviving corporation), it is provided that
+each Right will entitle its holder to purchase, at the then current exercise
+price of the Right, that number of shares of common stock of the surviving
+company which at the time of such transaction would have a market value of
+two times the exercise price of the Right.  The Rights do not have any voting
+rights and are redeemable, at the option of the Company, at a price of $.0167
+per Right at any time until ten days after the person acquires beneficial
+ownership of at least 15% of the common stock.  The Rights expire on May 29,
+1996.  So long as the Rights are not separately transferable, the Company
+will issue one Right with each new share of common stock issued.
+
+On April 26, 1995, the board of directors declared a three-for-two stock
+split effected in the form of a 50% common stock dividend, payable May 22,
+1995, to holders of record on May 8, 1995.  On January 22, 1993, the board of
+directors declared a two-for-one stock split effected in the form of a 100%
+common stock dividend, payable March 1, 1993, to holders of record on
+February 12, 1993.  All share and per share amounts have been adjusted to
+give retroactive effect to these stock splits.
+
+                                                                             29
+
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+6. CONTINGENT LIABILITIES
+- -------------------------------------------------------------------------------
+
+The Company is subject to federal and state hazardous substance cleanup laws
+that impose liability for the costs of cleaning up contamination resulting
+from past spills, disposal or other releases of hazardous substances.  In
+this regard, the Company has incurred, and expects to incur, assessment,
+remediation and related costs at one of the Company's facilities.  In 1991,
+the Company reported to state regulators a release at that site from an
+underground storage tank ("UST").  The UST and certain contaminated soil
+subsequently were removed and disposed of at an off-site disposal facility.
+The Company's independent environmental consultant has been conducting an
+investigation of soil and groundwater at the site with oversight by the state
+Department of Environmental Quality ("DEQ").  The investigation indicates
+that additional soil and groundwater at the site have been impaired by
+chlorinated solvents, including tetrachloroethane and trichloroethylene.
+Also, the company learned that a portion of the site had been used as a
+disposal area by the previous owners of the site.  The Company's consultant
+is investigating and has begun to remediate this area and believes that it is
+an additional likely source of contamination of soil and groundwater.  In
+addition, the investigation of the site indicates that the groundwater
+contaminants may have migrated off-site.  However, the extent of the
+contamination has not been fully delineated at this time.  The Company is
+conducting additional investigations to determine the extent of contamination
+at and around the site and to determine the extent of other sources of
+contamination in addition to the removed UST and the above-referenced
+disposal area, including the possible presence of ongoing dumping activities
+by others in the vicinity around the Company's facilities.
+
+The Company's consultant estimates that a minimum of $1.5 million of
+investigation and remediation expenses will be incurred at the site.  The
+Company has a reserve for such purposes and has notified the previous owners
+of the site and various insurers of possible claims by the Company relating
+to the remediation of the site.  The consultant's cost estimate was based on
+a review of currently available data, which is limited, and assumptions
+concerning the extent of contamination, geological conditions, and the costs
+and effectiveness of certain treatment technologies.  The cost estimate is
+subject to substantial uncertainty until the extent of contamination and
+geological conditions are fully understood, feasible remedial alternatives
+are assessed, and the DEQ approves a remediation plan.  The Company is
+continuing to investigate the environmental conditions at the site and will
+adjust its reserve if necessary. The Company may incur significant additional
+assessment, remediation and related costs at the site, and such costs could
+materially and adversely affect the Company's consolidated net income for the
+period in which such costs are incurred.  The Company, however, cannot
+estimate the time or potential magnitude of such costs at this time.
+
+<PAGE>
+                                    Woodhead Industries Inc. 1995 Annual Report
+
+7. STOCK OPTION PLANS
+- -------------------------------------------------------------------------------
+Under the Company's stock option plans, options to purchase common shares may
+be granted to directors, officers and key employees at a price not less than
+the market value at date of grant.  As of September 30, 1995, 1,369,950
+unissued common shares are reserved under all stock option plans which
+includes 288,900 shares available for future grants.  The following grants
+are outstanding and exercisable:
+
+           Fiscal Year         Number of          Option Price       Expiration
+             of Grant           Shares              Per Share           Date
+- -------------------------------------------------------------------------------
+              1987               27,000            $ 3.77-5.21           1997
+              1988                9,500                   3.17           1998
+              1989               45,100              3.58-4.58           1999
+              1990              156,600                   4.75           2000
+              1991              174,600                   4.25           2001
+              1992              117,900                   5.17           2002
+              1993              244,350              6.98-8.42           2003
+              1994              152,400                  10.33           2004
+              1995              153,600                   9.33           2005
+
+                              1,081,050
+- -------------------------------------------------------------------------------
+
+THE FOLLOWING SUMMARIZES THE OPTIONS GRANTED, EXERCISED AND EXPIRED DURING
+THE LAST THREE FISCAL YEARS:
+
+                    Option Price                Number of Shares*
+                     Per Share*      1995              1994            1993
+- -------------------------------------------------------------------------------
+Granted            $ 14.00-21.50   106,700           115,900         106,600
+Exercised             3.17-15.50    29,300            85,400         120,850
+                               -         -                 -               -
+- -------------------------------------------------------------------------------
+Subsequent to September 30, 1995, stock options were granted for 134,100
+shares at an average price of $14.31 per share.
+
+*Option prices and shares from periods prior to the May 1995 3-for-2 stock
+split and the March 1993 2-for-1 stock split have been presented at their
+respective historical amounts to reflect actual activity.
+
+
+8. INFORMATION ABOUT THE COMPANY'S OPERATIONS IN DIFFERENT GEOGRAPHIC AREAS
+- -------------------------------------------------------------------------------
+
+                                 United States       Foreign       Consolidated
+- -------------------------------------------------------------------------------
+
+1995
+SALES TO UNAFFILIATED CUSTOMERS    $    90,324    $   29,679        $   120,003
+NET INCOME                               7,867         1,361              9,228
+IDENTIFIABLE ASSETS AT
+  SEPTEMBER 30, 1995                    53,152        20,259             73,411
+- -------------------------------------------------------------------------------
+1994
+Sales to unaffiliated customers    $    83,652    $   22,037        $   105,689
+Net income                               7,056           194              7,250
+Identifiable assets at
+  October 1, 1994                       47,322        14,941             62,263
+- -------------------------------------------------------------------------------
+1993
+Sales to unaffiliated customers    $    73,794    $   16,070        $    89,864
+Net income                               5,481           322              5,803
+Identifiable assets at
+  October 2, 1993                       44,106        12,254             56,360
+
+
+                                                                             31
+
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+9. SUMMARY OF QUARTERLY DATA (UNAUDITED)
+- -------------------------------------------------------------------------------
+
+                     Net            Gross         Net            Net Income
+                    Sales          Profit        Income           Per Share
+- -------------------------------------------------------------------------------
+1995
+FIRST QUARTER  $    27,667    $    11,747    $    1,830          $    .17
+SECOND QUARTER      31,413         13,799         2,203               .20
+THIRD QUARTER       30,329         13,101         2,305               .21
+FOURTH QUARTER      30,594         13,815         2,890               .27
+
+TOTAL          $   120,003    $    52,462    $    9,228          $    .85
+- -------------------------------------------------------------------------------
+1994
+First Quarter  $    23,536    $    10,014    $    1,426          $    .13
+Second Quarter      26,938         11,873         1,634               .15
+Third Quarter       27,446         12,088         1,927               .18
+Fourth Quarter      27,769         12,644         2,263               .21
+
+Total          $   105,689    $    46,619    $    7,250          $    .68
+- -------------------------------------------------------------------------------
+1993
+First Quarter  $    18,677    $     8,318    $    1,136          $    .11
+Second Quarter      22,316          9,973         1,353               .13
+Third Quarter       24,670         10,545         1,582               .15
+Fourth Quarter      24,201         10,790         1,732               .16
+
+Total          $    89,864    $    39,626    $    5,803          $    .55
+- -------------------------------------------------------------------------------
+
+10. ACQUISITIONS
+- -------------------------------------------------------------------------------
+On September 29, 1995, the Company acquired all of the stock of Elitec S.A.
+for $1,138,000.  Located outside of Paris, France, Elitec is a distributor of
+industrial connectors and sensors that serve the automation and
+computer-control needs of many industries.
+
+On January 1, 1993, the Company completed the purchase of H. F. Vogel GmbH, a
+manufacturer of specialty connectors located near Stuttgart, Germany.
+
+Effective April 1, 1993, the Company acquired all of the assets of FOCS, Inc.
+in Marlborough, MA.  FOCS manufactures fiber optic cable assemblies and
+systems.
+
+On April 19,1993, the Company acquired all of the stock of AKAPP Electro
+Industrie B.V. located in Barneveld, the Netherlands.  AKAPP is a
+manufacturer of continuous multi-conductor electrical bar systems for the
+transmission of power.
+
+The combined purchase price paid for the three companies acquired in fiscal
+1993 was $11,203,000 in cash.  Goodwill represents $5,182,000 of this total
+purchase price and is being amortized on a straight-line basis over 40 years.
+ Pro forma net sales for fiscal year 1993 would have been $96,360,000,
+assuming all three acquisitions had occurred at the beginning of the year.
+Pro forma net income and earnings per share, however, would not have been
+materially different.
+
+All four acquisitions have been accounted for under the purchase method, and
+their net assets and results of operations are included in the Company's
+Consolidated Financial Statements from the dates of acquisition.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEETS AND CONSOLIDATED STATEMENTS OF INCOME SECTIONS
+FOUND IN EXHIBIT 13 OF THE COMPANY'S 10K FOR THE YEAR-TO-DATE, AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          SEP-30-1995
+<PERIOD-END>                               SEP-30-1995
+<CASH>                                           4,202
+<SECURITIES>                                         0
+<RECEIVABLES>                                   19,537
+<ALLOWANCES>                                       572
+<INVENTORY>                                     12,613
+<CURRENT-ASSETS>                                40,912
+<PP&E>                                          61,464
+<DEPRECIATION>                                  37,429
+<TOTAL-ASSETS>                                  73,411
+<CURRENT-LIABILITIES>                           21,258
+<BONDS>                                              0
+<COMMON>                                        10,374
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      40,030
+<TOTAL-LIABILITY-AND-EQUITY>                    73,411
+<SALES>                                        120,003
+<TOTAL-REVENUES>                               120,003
+<CGS>                                           67,541
+<TOTAL-COSTS>                                   67,541
+<OTHER-EXPENSES>                                 2,724
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  97
+<INCOME-PRETAX>                                 14,352
+<INCOME-TAX>                                     5,124
+<INCOME-CONTINUING>                              9,228
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     9,228
+<EPS-PRIMARY>                                      .85
+<EPS-DILUTED>                                      .85
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

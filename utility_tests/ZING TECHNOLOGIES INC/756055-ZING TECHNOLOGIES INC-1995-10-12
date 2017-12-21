@@ -1,0 +1,2270 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M7f9drLFiisR3bcfhmLV2MH5lHgH9wqUBy5/GA8ANl7cD2/l0qitbOYnYJ0Bu12P
+ p9GYoCmHCcWTjeLUA0GwDw==
+
+<SEC-DOCUMENT>0000950112-95-002713.txt : 19951013
+<SEC-HEADER>0000950112-95-002713.hdr.sgml : 19951013
+ACCESSION NUMBER:		0000950112-95-002713
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19950630
+FILED AS OF DATE:		19951012
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZING TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000756055
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		IRS NUMBER:				132650621
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14328
+		FILM NUMBER:		95580166
+
+	BUSINESS ADDRESS:	
+		STREET 1:		115 STEVENS AVE
+		CITY:			VALTHALLA
+		STATE:			NY
+		ZIP:			10595
+		BUSINESS PHONE:		9147477474
+
+	MAIL ADDRESS:	
+		STREET 2:		750 LEXINGTON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZEUS COMPONENTS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ZING TECHNOLOGIES, INC.
+<TEXT>
+
+
+
+
+
+
+                     SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C. 20549
+
+                                 FORM 10-K
+
+(Mark One)
+
+         ( x )  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+                EXCHANGE ACT OF 1934 (FEE REQUIRED)
+
+                  For the fiscal year ended June 30, 1995
+
+                                     OR
+
+         (   )  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE 
+                SECURITIES EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+
+For the transition period from                           to
+                               -------------------------    --------
+
+Commission File Number         0-14328
+                      ------------------------
+
+                     ZING TECHNOLOGIES, INC.
+- ------------------------------------------------------------------------
+           (Exact name of registrant as specified in its charter)
+
+                 New York                                      13-2650621
+- -----------------------------------------------         ----------------------
+  (State or other jurisdiction or organization)         (I.R.S. Employer 
+                                                           Identification No.)
+
+     115 Stevens Avenue, Valhalla, NY                             10595
+- -------------------------------------------              ---------------------
+(Address of principal executive officers)                      (Zip Code)
+
+Registrant s telephone number, including area code:    (914) 747-7474      
+                                                    -----------------------
+
+        Securities registered pursuant to Section 12(b) of the Act:
+
+                                                         Name of each exchange
+Title of each class                                        on which registered
+- -------------------                                      ---------------------
+                                   None
+
+        Securities registered pursuant to Section 12(g) of the Act:
+
+                   Common Stock, par value $.01 per share
+
+     Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(D) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and 
+(2) has
+been subject to such filing requirements for the past 90 days.
+
+                    Yes:   X                           No:_____ 
+                        ------
+
+     The aggregate market value of the voting stock held by non-affiliates
+of the Registrant, computed by reference to the average of bid and asked
+price of the stock as of October 2, 1995 was $25,282,573.
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (Sec. 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of Registrant s knowledge,
+in definitive proxy or information statements incorporated by reference in
+Part III of this Form, 10-K or any amendment of this Form 10-K. [ ]
+
+     The number of shares of common stock, $.01 par value, outstanding as
+of October 2, 1995 was 2,597,497.
+
+                 DOCUMENTS INCORPORATED BY REFERENCE: None
+
+                  Page 1 of 36; Exhibit Index on Page 33 
+
+
+<PAGE>
+
+
+                             TABLE OF CONTENTS
+                             -----------------
+
+Part I
+
+Item 1 - Business   . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+Item 2 - Properties   . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Item 3 - Legal Proceedings  . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Item 4 - Submission of Matters to a Vote of Security Holders  . . . . . . 8
+
+
+Part II
+
+Item 5 - Market for Registrant s Common Stock and Related Matters   . . . 9
+
+Item 6 - Selected Financial Data  . . . . . . . . . . . . . . . . . . .  10
+
+Item 7 - Management's Discussion and Analysis of Financial Condition and
+            Results of Operations   . . . . . . . . . . . . . . . . . .  11
+
+Item 8 - Financial Statements and Supplementary Data  . . . . . . . . .  15
+
+Item 9 - Changes in and Disagreements with Accountants
+         on Accounting and Financial Disclosure . . . . . . . . . . . .  32
+
+Part III
+
+Items 10-13 Directors and Executive Officers of the Registrant;
+            Executive Compensation; Security Ownership of Certain 
+            Beneficial Owners and Management; Certain Relationships 
+            and Related Transactions . . . . . . . . . . . . . . . . . . 32
+
+Part IV
+
+Item 14- Exhibits, Financial Statement Schedules and
+         Reports on Form 8-K  . . . . . . . . . . . . . . . . . . . . .  33
+
+
+                                     2
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+                                   PART I
+
+
+ITEM 1 - BUSINESS
+
+
+General
+- -------
+
+    Zing Technologies, Inc. ("Zing" or the "Company") is a holding company with
+one material 98% owned operating subsidiary, Omnirel Corporation 
+("Omnirel") (approximately 84% owned by Zing on a fully diluted basis), and
+one non-material 90% owned operating subsidiary, Transition Analysis of
+Component Technology, Inc. ("TACTech").  Zing was incorporated in New York
+on October 17, 1969.
+
+   Since June 26, 1991, when the Company acquired Omnirel, the Company has
+engaged in the manufacture and sale of high reliability power semiconductor
+multi-chip modules and packaged semiconductor components in its niche
+market and has expanded its distribution into the high-end commercial and
+industrial market.
+
+   High reliability power semiconductor multi-chip modules are defined as
+electronic components and are single-package devices with a power dis-
+sipation of five watts or more.  They combine active power semiconductor
+components and passive components (such as capacitors and resistors) which
+form integrated smart power electronic circuits which control, drive and
+regulate the input and output of power (electricity) in motion control and
+power supply applications for use in electronic systems and equipment. 
+Omnirel manufacturing techniques and design standards for the military and
+high reliability industrial markets are more exacting than is the case for
+commercial general purpose hybrid circuit components.  The products
+manufactured by Omnirel include custom designed products as well as
+standard commodity products.
+
+   Omnirel produces both standard and custom products in a clean room
+environment and is certified to MIL-STD 1772, the highest level of military
+certification for a hybrid circuit manufacturer, and is registered to ISO
+9001.  Omnirel's products are used where circuit density (including
+miniaturization), electrical performance and reliability are critical
+design requirements, such as in the defense, aerospace, commercial
+transportation and medical device industries.  Omnirel's products are also
+used in the production of industrial controls and power supplies where
+these same criteria are needed.
+
+   TACTech licenses proprietary computer software databases to military
+semiconductor manufacturers, the Department of Defense and defense contrac-
+tors.  The databases provide the end users with information useful in
+determining the projected life cycle (obsolescence) of microcircuits and
+discrete semiconductor devices used primarily in the manufacture of systems
+for military and aerospace applications.  TACTech software also contains a
+description and the general specification of each microcircuit and discrete
+semiconductor device, thereby allowing the user to identify functionally
+interchangeable devices from various manufacturers and to upgrade and rank
+the devices according to life cycle and availability based on sources of
+supply.  The TACTech database is 
+
+
+                                     3
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+believed to include virtually all standard microcircuits and discrete
+devices with high reliability specifications used primarily for military or
+aerospace application.  The database is constantly updated and delivered on
+a real-time or near real-time basis.  The operations of TACTech are not
+presently material to the Company.
+
+   Until May 19, 1993, Zing was principally engaged in the business of
+distributing high reliability electronic semiconductor components used in
+military and aerospace equipment and providing value-added services under
+the name Zeus Components, Inc.  Prior to May 19, 1993, Zing/Zeus was one of
+the largest distributors in this niche market, representing over thirty
+semiconductor manufacturers, with a product line which consisted of
+integrated circuits, discrete semiconductors and passive components. 
+Integrated circuits generally are sold at higher unit prices and at a
+higher unit gross profit margin than discrete semiconductors.  Passive
+components generally consist of capacitors and resistors.  
+
+   On May 19, 1993, Zing sold the net assets of its high reliability
+electronic component distribution and value added service businesses to
+Arrow Electronics, Inc. (the "Arrow Sale").  Arrow (NYSE-ARW) is the
+world's largest electronic components distributor.  The purchase price was
+$24,254,000, representing a premium of approximately $3,000,000 over the
+net book value of the assets transferred.  In May 1996, Zing is entitled to
+receive up to $2,000,000 from Arrow as additional purchase price depending
+on the performance of Arrow's high reliability electronic components and
+value-added business.  Based upon information received to date, Zing
+believes Arrow's sales are running at a rate which would make it more
+likely than not that some or all of the $2,000,000 will be realized by
+Zing.
+
+Competition
+- -----------
+
+   The market for high reliability power semiconductor multi-chip modules
+is fragmented.  There is no single firm which maintains a dominant
+position, either in technology or in market share.  Based on recent
+industry publications of Frost & Sullivan, Moody Associates and the
+Semiconductor Industry Association, the total available market for high
+reliability power semiconductor multi-chip modules within the United States
+was approximately $300,000,000 in 1993 and $330,000,000 in 1994, and is
+expected to grow at a rate greater than 10% (per annum) during the later
+1990's.  The market for power hybrid products which Omnirel addresses is in
+excess of $125,000,000 a year and approximately 65% of the sales to such
+market are made by five manufacturers (including Omnirel) of power hybrid
+components.  Omnirel is the only such manufacturer whose primary focus is
+on high reliability power semiconductor multi-chip modules.  The principal
+competitors of Omnirel are other hybrid manufacturers, original equipment
+manufacturers with internal capability and power semiconductor manufac-
+turers who offer multi-chip modules as a complementary product line. 
+Omnirel distinguishes itself in the marketplace principally on the strength
+of its focus on power applications.  It has complete design, manufacturing
+and high reliability screening capabilities in-house, and has developed a
+reputation for innovative solutions for customer needs.  The Company also
+competes on the basis of pricing and delivery.
+
+
+                                     4
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Marketing and Sales
+- -------------------
+
+   Omnirel markets its products through four regional sales managers in the
+United States and twenty-five sales representative organizations world-
+wide.  Omnirel sells both standard and custom products to approximately two
+hundred customers world-wide.  Standard products are sold both through
+distributors and directly to customers.  Custom products are sold directly
+to customers.
+
+   Omnirel publishes and distributes to its existing customers and poten-
+tial new customers a catalogue of its standard products.  Omnirel
+management has focused its marketing effort in the United States where
+nineteen independent sales representatives are coordinated by Omnirel's
+sales management.  Key accounts are also covered by area managers in each
+sales region.  Six representatives/distributors are currently in place in
+Europe marketing Omnirel's products.
+
+   Omnirel's customers are primarily major electronic equipment and systems
+manufacturers such as General Electric, Loral, Bendix, Hamilton-Standard,
+Hughes Aircraft, Boeing, Texas Instruments, Raytheon and Motorola.  Sales
+of various products to General Electric representing multiple industrial
+and military/aerospace programs at four separate locations aggregated 65%
+of Omnirel's sales revenues for fiscal year 1995 of which a single project
+accounted for approximately 63% of 1995 sales.  Based upon orders already
+placed, sales to General Electric are expected to represent a significant
+portion of Omnirel's fiscal 1996 sales.  The Company expects that the
+current General Electric orders will be filled during the first three
+quarters of fiscal 1996, and while additional sales to such customer are
+likely, revenues from General Electric are expected significantly to
+decline over the next several years.  The amount of the decline is depen-
+dent upon factors such as the level of General Electric's business, whether
+Omnirel continues as General Electric's sole source supplier and whether
+Omnirel can produce the products required by General Electric based upon
+changing technology.  Arrow Electronics is Omnirel's exclusive distributor
+of its single and multi-chip semiconductor devices for a period ending
+December 31, 1996.
+
+   Omnirel's customers outside the United States and export sales outside
+the United States are as follows:
+                  (000's omitted)
+                                      1995  1994   1993
+                                      ----  ----   ----
+                                    
+        Canada                        $ 67  $ 89  $  --
+                                    
+        Europe                         172   183    249
+
+        Mid East (Israel)               99    30     24
+                                    
+        Far East (Japan)                12     5      4
+                                    
+        South Pacific                   12   151     44
+                                        --   ---     --
+        (Australia)                 
+                        
+             Total                    $362  $458   $321
+                                      ====  ====   ====
+                                    
+
+                                     5
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+   Omnirel's backlog on June 30, 1995 was $15,900,000; $9,100,000 of which
+is accounted for in the order from General Electric.  Approximately 90% of
+the backlog is deliverable over the next 12-month period.
+
+   For the fiscal years 1995, 1994, and 1993 Omnirel did not enter into any
+contracts with either customers of the United States Government or any
+agency of the United States Government.  Omnirel sells its products to
+subcontractors of certain government agencies through customer purchase
+orders.  Cancellation of purchase orders from time to time is customary in
+the power hybrid component industry.  Under standard industry practices, in
+the event of cancellation, Omnirel is entitled to reimbursement of costs
+incurred and a reasonable profit for work performed prior to the cancel-
+lation.
+
+   The sale of Omnirel products is not seasonal.  However, the timing of
+sales to Omnirel's principal customer was concentrated predominantly in the
+fourth quarter, and to a lesser extent the third quarter, of fiscal 1995.
+
+Supplier and Materials Used
+- ---------------------------
+
+   Unpackaged semiconductors, in chip form and other components such as
+capacitors and resistor chips or surface mount devices, metal and plastic
+packages and ceramic materials are used by Omnirel in the manufacture of
+its products.  These materials and components, none of which are presently
+in short supply, are purchased from time to time on the open market, and
+Omnirel has no long term commitments for their purchase.  Omnirel is not
+dependent on any one supplier for a primary material.  Omnirel has
+agreements with a number of premier semiconductor manufacturers which allow
+Omnirel to buy products directly from such manufacturers.  These agreements
+allow Omnirel to be apprised of technological advances and developments.
+
+Product Warranty
+- ----------------
+
+   Omnirel warrants that its products are free from defects in workmanship
+and meet the agreed upon specifications supplied by the customer or
+Omnirel's current published specifications.  Omnirel's liability for
+defective products is limited solely to replacement thereof upon receipt
+from the customer of notice of breach of warranty within periods varying
+between three (3) and twelve (12) months of the date of shipment, depending
+upon the product.
+
+Patents, Trademarks and Licenses
+- --------------------------------
+
+   Omnirel does not possess any patents for proprietary manufacturing
+processes.  Omnirel believes, however, that its proprietary processes and
+product technologies are such that they give it a unique position in the
+design and manufacture of power semiconductor hybrids and multi-chip
+modules using semiconductor assembly technology.  The Omnirel name and logo
+are unique trademarks.  While Omnirel considers that in the aggregate its
+trademarks are important in its operation, it does not consider that one or
+any group of trademarks is of such importance that termination could
+materially affect its business.  TACTech maintains copyright protection for
+its computer software and claims 
+
+
+                                     6
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+proprietary trade secret protection through customer licensing agreements.
+
+Inventory
+- ---------
+
+   Omnirel follows industry standards for procurement, sale and return of
+its inventory.  Materials are procured based upon purchase orders which
+have standard terms and conditions including the right of return  for
+inferior quality or non-compliance with purchase order terms.  Omnirel
+inventory is maintained at its principal place of business in storage
+facilities with temperature and humidity controls.  Omnirel stocks inven-
+tory for standard products, and for certain of its custom products.
+
+Environmental Compliance
+- ------------------------
+
+   Omnirel does not use hazardous materials in its manufacturing process
+nor does the manufacturing process result in the discharge of potentially
+hazardous material.  Omnirel does not expect to incur significant expen-
+ditures relating to environmental compliance.
+
+Research and Development
+- ------------------------
+
+   Generally, Omnirel's research and development expenditures involve
+engineering and design of custom products for specific applications,
+development of new packaging techniques and development of packaging for
+new semiconductor devices.  Research and development expenditures for the
+fiscal years ended June 30, 1995, June 30, 1994 and the nine months ended
+June 30, 1993 were $1,055,000, $841,000 and $808,000, respectively or 4.7%,
+7.3% and 1.5% of sales in the respective periods.
+
+Employees
+- ---------
+
+   As of June 30, 1995, Zing had 157 employees, 102 of whom were employed
+by Omnirel in a manufacturing capacity and 34 in clerical, administrative,
+engineering or sales positions at Omnirel.  The Company employs five people
+in executive or administrative functions, and TACTech employs four computer
+programmers and an additional 12 persons in clerical, sales, customer
+support and administrative roles.  None of Zing's employees are covered by
+a collective bargaining agreement.
+
+   In March 1995, in exchange for Omnirel's president's shares of Omnirel
+common stock and his release of his rights to participate in Omnirel's
+Management Incentive Rights Plan ("MIRP"), Omnirel granted its president options
+to purchase up to an aggregate of 100,000 shares of Omnirel's common stock
+pursuant to Omnirel's 1995 Non-Qualified Stock Option Exchange Plan.  Also
+in March 1995 and concurrently with the grant of options to Omnirel's
+president, Omnirel granted to other executive employees options to purchase
+up to an aggregate of 34,000 shares of Omnirel's common stock pursuant to
+Omnirel's 1995 Non-Qualified Stock Option Plan in exchange for their MIRP
+rights.  Such options were issued with exercise prices equal to or greater to 
+the then fair market value of the Omnirel common stock underlying such options.
+As a result of such exchange of shares and the option grants described above, 
+Zing's direct ownership of Omnirel's outstanding shares increased from 
+approximately 96% to approximately 98%; and, on a fully diluted basis, Zing's 
+ownership of Omnirel could be reduced to approximately 84%.
+
+
+                                     7
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ITEM 2 - PROPERTIES
+
+   The Company leases 750 square feet at a modern office building located
+in Valhalla, New York, where it maintains its executive offices.  The
+Company pays an annual rent of $15,000 for the Valhalla space.  The lease
+term expires on October 31, 1996.  The Company uses all of the leased
+space. 
+
+   Omnirel owns a 6.5 acre parcel of land with a 38,000 square foot, one
+story, modern facility located in Leominster, Massachusetts, where Omnirel
+manufactures its products in a clean-room environment.  Omnirel's processes
+are certified to MIL-STD 1772 and registered to ISO 9001.  Approximately
+12,000 square feet of the Company's facility is rated and certified as a
+class 10,000 clean-room environment.  This location houses all of the
+operations of Omnirel.  This clean room facility is equipped with design,
+manufacturing, electrical test and environment screen equipment which are
+state-of-the-art.  Substantially all of Omnirel's facility is productively
+in use.
+
+   TACTech is currently leasing a facility in Yorba Linda, California from
+Arrow Electronics on a month-to-month basis at a cost of $3,500 per month. 
+Approximately 40% of TACTech's facility is in productive use.
+
+   The Company does not currently have a formal policy in place specifical-
+ly addressing investments in real estate and real estate related products. 
+However, the Company's general investment objectives are to invest a
+majority of its available funds in relatively low risk liquid investments
+or publicly traded securities and to achieve a maximum aggregate return
+comprised of both capital appreciation and income distributions consistent
+with such investments.  Although such investments may include real estate
+and real estate related products, other than the real property described
+above, they currently do not.  The Company can alter its investment
+policies and investment portfolio at anytime without shareholder consent.
+
+ITEM 3 - LEGAL PROCEEDINGS
+
+   None.
+
+
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   None.
+
+
+                                     8
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+                                  PART II
+
+ITEM 5 -     MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+             MATTERS
+
+    A.  The Common Stock of the Company is traded on the National Market
+System (NMS) of NASDAQ, under the symbol ZING.  The following table sets
+forth the high and low closing prices of the Company's Common Stock on the
+NMS for each quarterly period during the last two years.
+
+- ---------------------------------------------------------------------------
+                                                   High          Low
+- ---------------------------------------------------------------------------
+
+          1st quarter Fiscal Year '94             2 1/2          1 7/8
+          2nd quarter Fiscal Year '94             2 1/4          1 5/8
+          3rd quarter Fiscal Year '94             2 1/4          1 7/8
+          4th quarter Fiscal Year '94             2 1/4          1 3/4
+
+          1st quarter Fiscal Year '95             2 1/2          1 7/8
+          2nd quarter Fiscal Year '95             2 1/16         6 3/4
+          3rd quarter Fiscal Year '95             10 1/4         4 5/8
+          4th quarter Fiscal Year '95             12 7/8         6 5/8
+
+          1st quarter Fiscal Year '96             26 1/2         12 1/8
+
+
+     B.  There were 2,597,497 shares of Common Stock outstanding and 78
+holders of record, and at least 895 beneficial owners of the shares as of
+September 27, 1995.
+
+     C.  No cash dividends have been paid on the Company's Common Stock for
+the fiscal years ended June 30, 1995 and 1994.  The present policy of the
+Company is to retain earnings to provide funds for the operations and
+expansion of its business. 
+
+
+                                     9
+
+
+<PAGE>
+
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ITEM 6 - SELECTED FINANCIAL DATA
+<TABLE><CAPTION>
+                                                                                                 Nine Months    Year        Year
+                                                                                                   Ended       Ended       Ended
+                                                                       Year Ended September 30,   June 30,    June 30,    June 30,
+                                                                  -----------------------------  ----------  ----------  -----------
+                                                                       1991          1992        1993   (6)     1994        1995
+                                                                  ------------------------------------------------------------------
+                                                                                         (000's omitted, except per share data)
+                                                                  ------------------------------------------------------------------
+<S>                                                               <C>              <C>           <C>         <C>         <C>
+INCOME STATEMENT DATA
+   Net Sales                                                      $    96,445      $    91,698   $  52,602   $  11,483   $  22,591
+   Cost of goods sold                                                  73,822           70,439      40,624       6,637      13,073
+                                                                  -----------      -----------   ---------   ---------   ---------
+   Gross profit                                                        22,623           21,259      11,978       4,846       9,518
+   Selling, general and administrative expenses (1)                    21,130           21,238      13,967       5,255       7,579
+   Interest expense (2)                                                 1,857            2,397       1,443         286         148
+   Interest and other income - net (3)                                    ---               --          --        (860)     (1,051)
+   Income (loss) before income taxes and
+     extraordinary item                                                  (364)          (2,376)     (3,432)        165       2,842
+   Provision (credit) for income taxes                                    (64)            (215)         36           3         325
+                                                                  -----------      -----------   ---------   ---------   ---------
+   Income (loss) before extraordinary item                               (300)          (2,161)     (3,468)        162       2,517
+   Extraordinary item (4)                                                 326               29        (155)         53          --
+                                                                  -----------      -----------   ---------   ---------   ---------
+      NET INCOME (LOSS)                                           $        26      $    (2,132)  $  (3,623)  $     215   $   2,517
+                                                                  ===========      ============  ==========  =========   =========
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+PER SHARE DATA (5)
+   Income (loss) before extraordinary item                        $     (0.11)$          (0.80)$     (1.25)$      0.06 $      0.94
+   Extraordinary item                                                    0.12             0.01       (0.06)       0.02          --
+                                                                  -----------      -----------   ---------   ---------   ---------
+      NET INCOME (LOSS)                                           $      0.01 $          (0.79)$     (1.31)$      0.08 $      0.94
+                                                                  ===========      ============  ==========  =========   =========
+
+Weighted average shares outstanding                                     2,696            2,696       2,774       2,747       2,671
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+                                                                              September 30,                  June 30,
+                                                                  -----------------------------   ----------------------------------
+                                                                       1991          1992           1993        1994        1995
+                                                                  -----------------------------   ----------------------------------
+BALANCE SHEET DATA
+   Working capital                                                $    20,632   $       18,541       6,228 $     3,878 $     6,218
+   Total  assets                                                       50,868           43,710      32,264      18,360      22,185
+   Long-term obligations                                               14,875           14,431          --         626         741
+   Stockholders' equity                                                18,300           16,168      12,540      12,424      15,129
+</TABLE>
+
+
+<TABLE><CAPTION>
+<S> <C>
+(1) Includes provision for doubtful accounts, depreciation and amortization of property, plant  and equipment.
+(2) Includes amortization of deferred note issuance costs for the years ended 1991, 1992, the nine months ended 6/30/93,
+      and the year ended 1994.
+(3) Includes interest income, dividend income, realized and unrealized losses on marketable securities 
+      amortization of the non-compete agreement, and the recognition of a permanent impairment of a non marketable security.
+(4) A gain (loss) from the extinguishment of debt, net of income taxes for 1990 through 1994.
+(5) Per share data represents income (loss) per common and common equivalent share.  See Note A 
+      to Consolidated Financial Statements for additional information regarding per share data.
+(6) During 1993 the Company sold the net assets of its high reliability electronic component distribution
+       business to Arrow Electronics, Inc.  See Note B to Consolidated Financial Statements. The Company
+       changed it's fiscal year from September 30th to June 30th during the same period.
+</TABLE>
+
+
+                                             10
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ITEM 7 -  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+          RESULTS OF OPERATIONS
+
+     The following table sets forth for the period indicated the percentage
+relationship to net sales of certain items from the Company's consolidated
+statements of operations.
+
+
+                                                  Year       Year    Nine Months
+                                                 Ended       Ended      Ended 
+                                                June 30,    June 30,   June 30,
+                                                  1995       1994       1993
+                                                  ----       ----       ----
+                                                                    
+Net Sales . . . . . . . . . . . . . . . . . .    100.0%      100.0%     100.0%
+Cost of goods sold  . . . . . . . . . . . . .     57.9        57.8       77.2
+                                                 -----       -----      -----
+Gross profit  . . . . . . . . . . . . . . . .     42.1        42.2       22.8 
+Selling, general and                                                
+   administrative expenses  . . . . . . . . .     28.1        38.9       24.9
+Depreciation and amortization of                                    
+   property, plant and equipment  . . . . . .      5.5         6.9        1.7
+Interest expense and amortization of                                
+   deferred note issuance costs . . . . . . .       .6         2.5        2.7
+Interest and other income - net   . . . . . .      4.7         7.5        ---
+                                                 -----       -----      -----
+Income (loss) before income taxes and                               
+   extraordinary item . . . . . . . . . . . .     12.6         1.4       (6.5)
+Provision for income taxes  . . . . . . . . .      1.4         ---         .1
+                                                                             
+                                                 -----       -----      -----
+Income (loss) before extraordinary item   . .     11.2         1.4       (6.6)
+Extraordinary item  . . . . . . . . . . . . .      ---          .5        (.3)
+                                                 -----       -----      -----
+                                                                    
+Net income (loss) . . . . . . . . . . . . . .     11.2%        1.9%      (6.9%)
+                                                  =====       =====       ====
+
+
+Results of Operation - Fiscal 1995 Compared to Fiscal 1994
+- ----------------------------------------------------------
+
+   The Company reported income of $2,517,000 or $.94 per share for the fiscal
+year ended June 30, 1995 as compared to income before extraordinary items of
+$162,000 or $.06 per share for the fiscal year ended June 30, 1994.  This
+increase is principally a reflection of the increased profitability of the
+business of its one material subsidiary, Omnirel.
+
+   Consolidated net sales increased to $22,591,000 during the fiscal year ended
+June 30, 1995 from $11,483,000 for the comparable period.  Omnirel's net sales
+in the 1995 fiscal year accounted for 95% of consolidated net sales as compared
+to 92% of consolidated net sales in the 1994 fiscal year.  The balance of
+consolidated net sales in each period is attributable to operation of the
+Company's TACTech subsidiary.
+
+
+                                       11
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+   Net sales from the Company's Omnirel subsidiary increased 102% for the
+fiscal year ended June 30, 1995 thereby accounting for the significant
+increase in consolidated revenues for the reporting period.
+
+   The growth in Omnirel's net sales was largely as a result of an ongoing
+order placed by General Electric for multi-chip power module systems
+containing power hybrid componentry.  These orders accounted for 63% of
+Omnirel's fiscal 1995 sales compared to 16% for the comparable period.
+
+   Net sales in TACTech increased approximately 37% in the fiscal 1995
+period compared to the 1994 period due principally to an increase in the
+subscriber base and a United States Department of Defense contract.
+
+   Consolidated gross profit for the fiscal year ended June 30, 1995 was
+$9,518,000 as compared to $4,846,000 for the comparable fiscal period. 
+Omnirel's cost of goods sold increased comparably to net sales and remained
+essentially constant as a percentage of net sales as the increased ef-
+ficiency in usage of manufacturing facilities offset an increase in
+material costs and applicable reserves.
+
+   As a result of the increase in revenues, selling and general and
+administrative expenses decreased to 28.1% of revenues for the fiscal year
+ended June 30, 1995 compared to 38.9% for the comparable period.  The 28.1%
+ratio was achieved after $391,500 of expenses were incurred in the third
+quarter of the 1995 fiscal year relating to the abandonment of a proposed 
+restructuring of the Company in which stock of TACTech and Omnirel would 
+have been distributed to shareholders of the Company.
+
+   The Company also recorded an increase in depreciation and amortization
+expense in the amount of $386,000 due to a change in estimate of the useful
+lives of certain machinery and equipment owned by Omnirel due to Omnirel's
+accelerated and additional use of its machinery and equipment in manufac-
+turing.
+
+   Interest expense declined approximately 50% during the fiscal year 1995
+principally due to the Company's retirement in 1994 of all of its Senior
+Subordinated Notes, partially offset by an increase in interest charges
+during the 1995 fiscal year related to other borrowings of the Company and
+Omnirel.
+
+   Interest and other income increased approximately 25% during the 1995
+fiscal year principally due to interest and dividend income and the fact
+that net realized and unrealized gain on marketable securities amounted to
+$27,000 in fiscal 1995 as compared to net realized and unrealized losses of
+$74,000 in marketable securities for fiscal 1994.
+
+   Provision for income taxes in fiscal 1995 in the amount of $325,000 was
+after giving effect to the Company's utilization of $3,000,000 of the
+Company's net operating losses and the related release of valuation
+allowances previously established for such losses.  In fiscal 1994, the
+Company adopted FASB 109 "Accounting for Income Taxes."  Pursuant to FASB
+109, the Company recorded a deferred tax asset, a deferred tax liability
+and a valuation allowance account which resulted in the provision for
+income taxes in fiscal 1994 in an amount of only $3,000.  See Note G of the
+Consolidation Financial Statements.
+
+
+                                     12
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Results of Operation - Fiscal 1994 Compared to Nine Months Ended June 30, 1993
+- ------------------------------------------------------------------------------
+
+   Effective April 30, 1993, Zing sold to Arrow Electronics, Inc. the net
+assets of its high reliability electronic component distribution and value-
+added service businesses operated under the name "Zeus" ("Sold Business"). 
+The purchase price was $24,254,000.  This represents a premium of ap-
+proximately $3,000,000 over the net book value of the assets being
+transferred which represents the value paid for a non-compete agreement. 
+Zing is also entitled to receive, three years from the closing of the Arrow
+sale, up to $2,000,000 from Arrow as additional purchase price depending on
+the performance of Arrow's high reliability electronic components and
+value-added business.
+
+   Since the disposition of the Sold Business, the Company's operations are
+principally a reflection of the business of its one significant subsidiary,
+Omnirel.  The Company also changed its fiscal year at that time to June 30. 
+As a consequence of these two changes, management's discussion of the
+Company's results of operations are not directly comparable from fiscal
+period to fiscal period.  To facilitate understanding of the comparative
+results of the Company's ongoing operations, operations of the Company
+excluding the Sold Business, as well as operations of the Company on a
+fully consolidated basis, are described where practical.
+
+   The Company reported income before extraordinary items of $162,000 or
+$.06 per share, for the twelve month period ended June 30, 1994.  For the
+nine month transitional fiscal year ended June 30, 1993, which included
+results for seven of those months attributable to the Sold Business, the
+Company sustained a loss before extraordinary items of $3,468,000 or $1.25
+per share.
+
+   Fiscal Year 1994 net income of $215,000 or $.08 per share includes
+extraordinary income of $53,000 or $.02 per share representing income
+realized from the repurchase by the Company of $11,650,000 face value of
+its Senior Subordinated Notes.  The net loss for the 1993 fiscal period was
+$3,623,000 or $1.31 per share, inclusive of an extraordinary loss of
+$155,000 or $.06 per share representing deferred financing costs realized
+from the repurchase by the Company of $1,600,000 face value of its Senior
+Subordinated Notes.
+
+   The improvement in 1994 fiscal year operating results compared to 1993
+is due to a combination of a greatly reduced loss at Omnirel resulting from
+improved sales and gross profit margins and the elimination of the losses
+attributable to the Sold Business.  Omnirel sustained a net loss of
+$440,000 (including the allocation of $150,000 of administrative overhead)
+in the 1994 fiscal year, compared to a net loss of $1,773,000 in the prior
+nine month period.
+
+   Net sales for the 1994 period were $11,483,000, comprised primarily of
+net sales of Omnirel of $10,586,000; for the nine month 1993 fiscal period,
+excluding the Sold Business, consolidated net sales of $6,412,000 were
+comprised primarily of Omnirel sales of $5,907,000.  The Company realized a
+gross profit on 1994 net sales of $4,846,000 compared to a gross profit of
+$2,165,000 on 1993 net sales, exclusive of the Sold Business.   Including
+the Sold Business, the Company in 1993 realized gross profits of
+$11,978,000 on net sales of $52,602,000.
+
+   The Company's higher gross profit margins in 1994 compared to the prior
+fiscal period are due 
+
+
+                                     13
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+primarily to Omnirel's improvement in net sales without a comparable
+increase in fixed costs, as well as to the elimination of less profitable
+sales of Sold Business products.
+
+   Selling, general and administrative expenses were $4,465,000 for the
+1994 period and, excluding the Sold Business, $3,001,000 for the June 30,
+1993 fiscal period.  While Omnirel's expenses declined from 1993 to 1994 as
+a percentage of its net sales, the company's increased as a percentage of
+sales on a consolidated basis.  The Company's net sales declined much more
+sharply, because of the elimination of the Sold Business in 1993, than did
+consolidated selling expenses.  Corporate overhead is therefore allocated
+in 1994 against a smaller revenue base than in 1993.
+
+   Interest expense declined in 1994 compared to 1993 as a result of the
+redemption by the Company of its Senior Subordinated Notes.
+
+   As of July 1, 1993, the Company adopted FASB Statement No. 109, "Accou-
+nting for Income Taxes".  This standard requires companies to change the
+method of accounting for income taxes from the deferred to the liability
+method.  As permitted under the statements, the Company has elected not to
+restate the financial statements of prior years.  The adoption of FASB
+Statement No. 109, on the 1994 year's operations is discussed in Note G to
+the Consolidated Financial Statements.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+   In the 1995 fiscal year, the Company employed most of its cash and cash
+equivalents in the acquisition of marketable securities.  Omnirel's
+operations in fiscal 1995 were funded from internally generated cash and
+available bank lines of credit.  During the 1995 fiscal year, Omnirel
+reduced its intercompany debt owed to the Company by $1,930,000.
+
+   In the 1994 fiscal year, the Company employed most of its cash and cash
+equivalents, which were the proceeds of the 1993 sale of the Sold Business
+to Arrow, to redeem its remaining Senior Subordinated Notes and to acquire
+marketable securities.  Omnirel's operations, however, are funded from
+internally generated cash, from intercompany borrowing, and from available
+bank lines of credit.  
+
+Impact of Inflation
+- -------------------
+
+   Inflation did not have significant impact on the operations of the
+Company for all periods presented.
+
+
+                                     14
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                       REPORT OF INDEPENDENT AUDITORS
+
+
+Shareholders and Board of Directors 
+Zing Technologies, Inc.
+Valhalla, New York
+
+
+   We have audited the consolidated financial statements and the financial
+statement schedule of Zing Technologies, Inc. and subsidiaries listed in
+the accompanying index to the financial statements (Item 14(a)).  These
+financial statements are the responsibility of the Company's management. 
+Our responsibility is to express an opinion on these financial statements
+based on our audits.
+
+   We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.
+
+   In our opinion, the financial statements listed in the accompanying
+index to financial statements (Item 14(a)) present fairly, in all material
+respects, the consolidated financial position of Zing Technologies, Inc.
+and subsidiaries at June 30, 1995 and 1994 and the consolidated results of
+their operations and their cash flows for the years ended June 30, 1995 and
+June 30, 1994 and the nine months ended June 30, 1993 in conformity with
+generally accepted accounting principles.  Also, in our opinion, the
+related financial statement schedule, when considered in relation to the
+basic financial statements taken as a whole, presents fairly in all
+material respects the information set forth therein.
+
+   As discussed in Note G to the consolidated financial statements, in 1994
+the Company changed its method of accounting for income taxes.
+
+                                 ERNST & YOUNG LLP          
+September 12, 1995
+White Plains, New York 
+
+
+                                     15
+
+
+<PAGE>
+
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+                                                            June 30,  June 30,
+                                                              1994     1995
+                                                              (000's omitted)
+                                                          --------------------
+                          ASSETS
+Current Assets
+   Cash and cash equivalents                              $     182 $   1,366
+   Marketable securities - Note I                             1,477     1,489
+   Accounts receivable, less reserves of 
+      $97 and $66, respectively                               2,384     3,533
+   Inventories - Note D                                       2,391     3,817
+   Prepaid expenses                                             233       248
+   Other current assets                                         221       380
+                                                          --------- ---------
+Total Current Assets                                          6,888    10,833
+                                                          --------- ---------
+
+Property, Plant and Equipment - Note E                        8,178     9,028
+   Less accumulated depreciation and amortization             3,046     4,427
+                                                          --------- ---------
+                                                              5,132     4,601
+Marketable Securities - non-current - Note I                  3,179     3,787
+Deferred Income Taxes, net of valuation allowance - Note G    1,255     1,284
+Excess of Cost Over Assets Acquired, net of 
+   amortization of $715 and $868, respectively                1,821     1,668
+Other Assets                                                     85        12
+                                                          --------- ---------
+      TOTAL ASSETS                                        $  18,360 $  22,185
+                                                          ========= =========
+
+           LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+   Accounts payable                                       $   1,383 $   2,035
+   Accrued expenses                                             357     1,566
+   Accrued compensation expense                                 300       524
+   Short positions in marketable equity securities              447
+   Due to broker                                                367       259
+   Current portion of long-term obligations                     156       231
+                                                          --------- ---------
+Total Current Liabilities                                     3,010     4,615
+Long-Term Obligations, less current portion - Note F            626       741
+Deferred Income - non-compete agreement                       2,300     1,700
+Stockholders' Equity - Note H
+   Common Stock, par value $.01 per share: Authorized
+      12,000,000 shares; issued 2,695,571 shares as of 
+      June 30, 1994, and 2,797,415 issued as of 
+      June 30, 1995.                                             27        28
+   Additional paid-in capital                                13,146    13,466
+   Note receivable from stockholder                            (250)     (250)
+   Net unrealized loss on noncurrent
+     marketable securities - Note I                            (288)
+   Retained earnings (deficit)                                 (163)    2,354
+   Less: treasury shares at cost 
+      (14,100 shares - 1994; 199,918 shares - 1995)             (48)     (469)
+                                                          --------- ---------
+                                                             12,424    15,129
+                                                          --------- ---------
+
+      TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY          $  18,360 $  22,185
+                                                          ========= =========
+
+
+               See notes to consolidated financial statements
+                                    16
+
+
+<PAGE>
+
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+<TABLE><CAPTION>
+
+                                                                 Nine months
+                                                               ended June 30,        Year ended June 30
+                                                                        1993        1994             1995
+                                                             ------------------    ---------------------------
+                                                                   (000's omitted, except per share data)
+<S>                                                          <C>                   <C>              <C>
+Net sales                                                          $  52,602       $   11,483       $  22,591
+Cost of goods sold                                                    40,624            6,637          13,073
+                                                             ---------------       ----------       ----------
+Gross profit                                                          11,978            4,846           9,518
+
+Selling, general and administrative expenses                          13,080            4,465           6,347
+Depreciation and amortization of property, plant & equipment             887              790           1,232
+Net interest expense and amortization of deferred
+   note issuance costs                                                 1,443              286             148
+Interest and other income - net                                                          (860)         (1,051)
+                                                             ---------------       ----------       ----------
+Income (loss) before income taxes and extraordinary item              (3,432)             165           2,842
+Provision for income taxes                                                36                3             325
+                                                             ---------------       ----------       ----------
+Income (loss) before extraordinary item                               (3,468)             162           2,517
+Extraordinary item - gain (loss) from extinguishment of debt            (155)              53        ---
+                                                             ---------------       ----------       ----------
+Net income (loss)                                                  $  (3,623)      $      215       $   2,517
+                                                             ===============       ==========       ==========
+
+
+Income (loss) per common and common equivalent share
+        Income (loss) before extraordinary item                    $   (1.25)      $     0.06       $    0.94
+        Extraordinary item                                             (0.06)            0.02        ---
+                                                             ---------------       ----------       ----------
+Net income (loss)                                                  $   (1.31)      $     0.08       $    0.94
+                                                             ===============       ==========       ==========
+
+
+Number of shares used in computation                               2,774,000        2,747,000       2,671,000
+                                                             ===============       ==========       ==========
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       See notes to consolidated financial statements.
+                                           17
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+<TABLE><CAPTION>
+                                                            CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY       
+===================================================================================================================================
+                                                                                  
+                                                                                                 Note                              
+                                                                  Common Stock    Additional   Receivable    Retained              
+                                                              -----------------    Paid-in        from       Earnings    Treasury   
+(000'S Omitted)                                                 Share   Amount     Capital    Stockholder    (Deficit)      Stock  
+===================================================================================================================================
+<S>                                                             <C>        <C>     <C>        <C>            <C>         <C>       
+Balance at September 30, 1992                                   2,695      $27     $13,146      ($250)         $3,245              
+     Net loss                                                                                                  (3,623)             
+     Repurchase of Common Stock for Treasury                       (2)                                                        ($5) 
+===================================================================================================================================
+                                                                                                                                   
+Balance at June 30, 1993                                        2,693       27      13,146       (250)           (378)         (5) 
+     Net income                                                                                                   215              
+     Net unrealized loss on noncurrent                                                                                             
+        marketable securities                                                                                                      
+     Repurchase of Common Stock for Treasury                      (12)                                                        (43) 
+===================================================================================================================================
+                                                                                                                                   
+Balance at June 30, 1994                                        2,681       27      13,146       (250)           (163)        (48) 
+     Net income                                                                                                 2,517              
+     Recognition of unrealized loss on non-current                                                                                 
+        marketable securities                                                                                                      
+     Repurchase of Common Stock for Treasury                     (186)                                                       (421) 
+     Exercise of Warrants                                         102        1         320                                         
+===================================================================================================================================
+Balance at June 30, 1995                                        2,597      $28     $13,466      ($250)         $2,354       ($469) 
+===================================================================================================================================
+
+
+
+
+
+<CAPTION>
+                                                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+========================================================================================================
+                                                                                                    
+                                                                              
+                                                                   Net Unrealized               Total
+                                                                   Loss on Noncurrent       Stockholders
+(000'S Omitted)                                                    Marketable Securit        Equity
+========================================================================================================
+<S>                                                                <C>                      <C>
+Balance at September 30, 1992                                                               $16,168
+     Net loss                                                                                (3,623)
+     Repurchase of Common Stock for Treasury                                                     (5)
+========================================================================================================
+                                                                                  
+Balance at June 30, 1993                                                                     12,540
+     Net income                                                                                 215
+     Net unrealized loss on noncurrent                                            
+        marketable securities                                              (288)               (288)
+     Repurchase of Common Stock for Treasury                                                    (43)
+========================================================================================================
+                                                                                       
+Balance at June 30, 1994                                                   (288)             12,424
+     Net income                                                                               2,517
+     Recognition of unrealized loss on non-current                                     
+        marketable securities                                               288                 288
+     Repurchase of Common Stock for Treasury                                                   (421)
+     Exercise of Warrants                                                                       321
+========================================================================================================
+Balance at June 30, 1995                                                   $---             $15,129
+========================================================================================================
+                              See notes to consolidated financial statements.
+                                                       18
+</TABLE>
+
+
+<PAGE>
+
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE><CAPTION>
+
+                                                                    Nine Months
+                                                                      Ended      Year Ended      Year Ended
+                                                                     June 30,      June 30,        June 30,
+                                                                       1993          1994            1995
+                                                                   ------------------------------------------
+                                                                                 (000's omitted)
+                                                                   ------------------------------------------
+<S>                                                                <C>                <c             <C>
+OPERATING ACTIVITIES
+    Net income (loss)                                                $  (3,623)       $   215        $  2,517
+   Adjusted to reconcile net income to net cash
+      provided by (used in) operating activities:
+         Depreciation and amortization                                   1,268          1,165           1,534
+         Amortization of non-compete agreement                            (100)          (600)           (600)
+         Provision for losses on accounts receivable                        76             66             (10)
+         Extraordinary (gain) loss                                         155            (53)            --
+         Changes in operating assets and liabilities:
+            (Increase) in accounts receivable                             (524)        (1,043)         (1,139)
+            (Increase)  in inventories                                    (157)          (423)         (1,426)
+            (Increase) decrease in prepaid expenses and
+               other current assets                                     (1,498)         1,177            (174)
+            Decrease in recoverable income taxes                           268                            --
+            (Increase) in net deferred income taxes                                    (1,255)            (29)
+            Decrease in other assets                                       230          1,511              73
+            Increase (decrease) in accounts payable and
+                accrued expenses including a reclassification
+                 of long-term debt to current of $12,225,000 
+                 in 1993                                                16,216        (13,814)          1,530
+                                                                   -----------     -----------     ----------
+             Increase in other, net                                        205                            184
+NET CASH PROVIDED BY (USED IN)
+   OPERATING ACTIVITIES                                                 12,516        (13,054)          2,460
+INVESTING ACTIVITIES
+Purchases of property and equipment                                       (961)          (381)           (850)
+Net purchases of marketable securities                                      --         (4,944)           (332)
+                                                                   -----------     -----------     ----------
+NET CASH USED IN INVESTING ACTIVITIES                                     (961)        (5,325)         (1,182)
+                                                                   -----------     -----------     ----------
+FINANCING ACTIVITIES
+   Proceeds from sale of high reliability distribution business         24,254                            --
+   Proceeds from lines of credit and long-term
+      borrowings including reclassification                                467            679             190
+Reductions of lines of credit and long-term debt                       (20,056)                           --
+Exercise of stock warrants                                                                                137
+Repurchase of common stock for treasury                                     (5)           (43)           (421)
+                                                                   -----------     -----------     ----------
+NET CASH PROVIDED BY 
+   FINANCING ACTIVITIES                                                  4,660            636             (94)
+                                                                   -----------     -----------     ----------
+NET (DECREASE) INCREASE IN CASH AND
+   CASH EQUIVALENTS                                                     16,215        (17,743)          1,184
+Cash and cash equivalents at  beginning of year                          1,710         17,925             182
+                                                                   -----------     -----------     ----------
+   CASH AND CASH EQUIVALENTS AT END OF YEAR                          $  17,925        $   182        $  1,366
+                                                                   ===========     ===========     ==========
+
+</TABLE>
+
+
+
+
+
+
+
+
+                 See notes to consolidated financial statements
+
+                                     19
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Note A - Organization and Summary of Significant Accounting Policies
+         -----------------------------------------------------------
+
+   Business Segment Information: The Company operates primarily in one
+business segment - sales of high reliability power semiconductor multi-chip
+modules for use in military/aerospace and high-end industrial applications. 
+The Company also markets a turnkey software package and database of
+pertinent component information.  Prior to the sale described in Note B,
+the Company also distributed semiconductors and passive components.
+
+   Consolidation:  The consolidated financial statements include the
+accounts of the Company and its majority-owned subsidiaries.  All sig-
+nificant intercompany accounts and transactions have been eliminated.
+
+   Revenue Recognition:  The Company recognizes sales at the time of
+shipment/services provided.  Consistent with industry practice, Omnirel
+warrants that its products are free from defects in workmanship and meet
+the agreed upon specifications supplied by the customer or Omnirel's
+current published specifications.  As of June 30, 1995, the Company has a
+$343,000 warranty reserve.
+
+   Cash and Cash Equivalents:  The Company considers all short-term liquid
+investments with a maturity of three months or less when purchased to be
+cash equivalents.
+
+   Inventories:  Inventories are stated at the lower of cost (first-in,
+first-out method) or market.
+
+   Marketable Securities: In May 1993 the Financial Accounting Standards
+Board issued Statement of Financial Accounting Standards No. 115, "Accou-
+nting for Certain Investments in Debt and Equity Securities, " effective
+for fiscal years beginning after December 15, 1993.  Under the new rules,
+debt securities that the Company has both the positive intent and ability
+to hold to maturity are carried at amortized cost.  Debt securities that
+the Company does not have the positive intent and ability to hold to
+maturity and all marketable equity securities are classified as available-
+for-sale or trading and carried at fair value.  Unrealized holding gains
+and losses on securities classified as available-for-sale are carried as a
+separate component of shareholders' equity.  Unrealized holding gains and
+losses on securities classified as trading are reported in earnings.
+
+    As of the beginning of fiscal 1995, the Company adopted the provisions
+of Statement 115 and such adoption did not have a material impact on the
+Company's financial statements.
+
+
+    Property, Plant and Equipment:  Property, plant and equipment,
+including equipment 
+
+
+                                     20
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Note A - Organization and Summary of Significant Accounting Policies (continued)
+         -----------------------------------------------------------------------
+
+
+leased under capital leases, are stated at cost and are depreciated using
+the straight-line method over the estimated useful lives of the assets,
+ranging from three to twenty five years.  Leasehold improvements are
+amortized over the terms of the respective leases or the service lives of
+the improvements, whichever is shorter.  The Company recorded an increase
+in depreciation and amortization expense in the amount of $386,000 due to a
+change in estimate of the useful lives of certain machinery and equipment
+owned by Omnirel due to Omnirel's accelerated and additional use of its
+machinery and equipment in manufacturing.
+
+
+    Excess of Cost Over Assets Acquired:  The excess cost over assets
+acquired is being amortized over fifteen years.  The Company periodically
+reviews the carrying value of the excess of cost over assets acquired for
+recoverability in relation to future earnings.
+
+    Net Income Per Common and Common Equivalent Share:  Net income per
+common and common equivalent share is based on the weighted average number
+of shares of Common Stock outstanding during each period, including the
+Common Stock equivalents of dilutive stock warrants.
+
+Note B - Sale of High Reliability Distribution Business
+         ----------------------------------------------
+
+    As of April 30, 1993, the Company sold its high reliability
+distribution business to a subsidiary of Arrow Electronics Corp. for an
+approximate net book value of $21,254,000 plus $3,000,000 for a five year
+non-compete agreement, which the Company will amortize ratably.  All
+operations of the division are included in the Company's financial
+statements through the date of sale.
+
+    The assets and liabilities sold to Arrow are as follows:
+                                                         (000's omitted)
+           
+    Accounts receivable, net  . . . . . . . . . . . .       $12,596 
+    Inventories . . . . . . . . . . . . . . . . . . .        13,175 
+    Deferred taxes  . . . . . . . . . . . . . . . . .           168 
+    Prepaid expenses and other current assets . . . .           287 
+    Fixed assets, net . . . . . . . . . . . . . . . .         1,772 
+    Other assets  . . . . . . . . . . . . . . . . . .           447 
+    Accounts payable and accrued expenses . . . . . .        (6,503)
+    Other liabilities . . . . . . . . . . . . . . . .          (594)
+    Long-term debt  . . . . . . . . . . . . . . . . .           (94)
+                                                             ------
+                                                            $21,254 
+                                                             ======
+
+
+                                     21
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+Note B - Sale of High Reliability Distribution Business (continued)
+         ----------------------------------------------
+
+
+The summarized results of operations sold were:
+
+
+                                                   Nine Months Ended
+                                                     June 30, 1993
+                                                    (000's omitted)
+                                                    ---------------
+    Sales   . . . . . . . . . . . . .                $46,190    
+    Gross profit  . . . . . . . . . .                  9,814
+    Loss before income taxes  . . . .                  1,613    
+
+
+Note C - Acquisition
+         -----------
+
+
+    On June 26, 1991, the Company acquired substantially all (approximately
+96%) of the issued and outstanding shares of common stock of Omnirel
+Corporation ("Omnirel").  
+
+    Under the terms of certain shareholder agreements, Omnirel has agreed
+to and, in certain instances, may be required to repurchase the minority
+shareholders' interest in Omnirel, at a formula price based on the fair
+value, as defined, of the Omnirel stock or earnings.  In addition, Omnirel
+established an Incentive Rights Plan ("Rights") whereby various members of
+management have been granted rights, contingent upon attaining certain
+earnings levels or other events, to appreciation in the market value of 20%
+of the Omnirel's common stock, as defined, subject to certain forfeiture
+and adjustment provisions.  The Rights were terminated in the 1995 fiscal
+year.
+
+    In connection with the acquisition, the Company loaned $250,000 to an
+officer/director of Omnirel and the Company, to purchase Common Stock of
+the Company on the open market, in exchange for a non-interest bearing
+note.  The note is due July 1, 2001, is secured by the Company's Common
+Stock, and is classified as a reduction of equity.  Subsequent to June 30,
+1995, $80,000 of this note was repaid.  The Company also loaned the
+officer/director $300,000 ($60,000 balance at June 30, 1995) in exchange
+for a non-interest bearing note due in five equal annual installments,
+commencing June 26, 1992, with interest imputed at an effective annual rate
+of 9%.
+
+
+                                     22
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Note D - Inventories
+         -----------
+
+Inventories consist of the following:
+
+                                   June 30, 1994       June 30, 1995
+                                   ------------------  --------------------
+                                                 (000's omitted)           
+                                   ----------------------------------------
+
+Raw materials . . . . . . . . .       $ 1,341              $ 2,110
+Work in process . . . . . . . .           769                1,195
+Finished goods  . . . . . . . .           281                  512
+                                       ------               ------
+                                      $ 2,391              $ 3,817
+                                       ======               ======
+
+Note E - Property, Plant and Equipment
+         -----------------------------
+
+Property, plant and equipment consists of:
+
+
+                                   June 30, 1994       June 30, 1995
+                                   ------------------  --------------------
+                                                 (000's omitted)           
+                                   ----------------------------------------
+
+Land  . . . . . . . . . . . . .       $   300               $  300
+Building  . . . . . . . . . . .         2,572                2,572
+Equipment   . . . . . . . . . .         4,398                5,033
+Furniture and fixtures    . . .           381                  541
+Leasehold improvements  . . . .           527                  582
+                                      -------               ------
+                                      $ 8,178               $9,028
+                                      =======               ======
+
+
+Note F - Long-term Obligations
+         ---------------------
+
+Long-term obligations consists of the following:
+
+
+                                   June 30, 1994       June 30, 1995
+                                   ------------------  --------------------
+                                                 (000's omitted)           
+                                   ----------------------------------------
+
+
+
+Note payable to bank (a)  . . .        $ 782               $ 972
+Less current portion  . . . . .          156                 231    
+                                         ---                 ---    
+                                       $ 626               $ 741
+                                       =====               =====
+
+
+
+                                     23
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Note F - Long-Term Obligations (continued)
+         ---------------------
+
+
+Footnote (a) to table on prior page --  Omnirel has $972,000 outstanding
+against the equipment line of credit at June 30, 1995.  Interest is payable
+at the bank's prime rate plus 3/4% (10 1/2% at June 30, 1995).  The bank
+has a security interest in the equipment purchased (which has a carrying
+amount of $1,472,000 at June 30, 1995).  The new debt included a $300,000
+line of credit payable on demand and a $1,200,000 equipment line of credit
+payable over five years from respective draw downs with interest at the
+bank's prime rate plus 1 1/2%.  The annual payment requirements for long-
+term obligations subsequent to June 30, 1995 are as follows:
+
+                         1996              $231
+                         1997               230
+                         1998               231
+                         1999               230
+                         2000                50
+
+   The Company made interest payments of $1,003,000 during the nine months
+ended 1993 and $286,000 during the year ended 1994 and $148,000 during the
+year ended 1995.
+
+   In fiscal 1993, the Company repurchased $1,600,000 face value of its 12
+1/4% Senior Subordinated Notes for $1,548,000 and wrote off $25,000 in
+corresponding deferred note issuance cost.  Further, the Company repur-
+chased the remainder of the bonds ($11,650,000), and in connection
+therewith wrote off the balance of the deferred financing costs resulting
+in an extraordinary charge of $155,000 (1993) and realized an extraordinary
+credit of $53,000 (1994).
+
+Note G - Income Taxes
+         ------------
+
+   As of July 1, 1993, the Company adopted FASB Statement No. 109, "Accou-
+nting for Income Taxes."  Under Statement No. 109, the liability  method is
+used in accounting for income taxes. Under this method, deferred tax assets
+and liabilities are determined based on differences between financial
+reporting and tax bases of assets and liabilities and are measured using
+the enacted tax rates and laws that will be in effect when the differences
+are expected to reverse.  Prior to the adoption of Statement No. 109, 
+income tax expense was determined using the deferred method.  Deferred tax
+expense was based on items of income and expense that were reported in
+different years in the financial statements and tax returns and were
+measured at the tax rate in effect when the difference originated.
+
+   At June 26, 1991 Omnirel had available approximately $6,230,000 of net
+operating loss carryforwards for Federal income tax purposes.  As a result
+of the adoption of Statement No. 109, the excess  of  cost over assets
+acquired was reduced by approximately  $1,275,000.  
+
+
+                                     24
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+Note G - Income Taxes (continued)
+         ------------
+
+
+   Omnirel's net operating loss carry forwards for federal income tax
+purposes of approximately $4,100,000 at June 30, 1995 expires through 2007,
+subject to annual limitations under Section 382 of the Internal Revenue Code.
+
+Income tax provision consists of the following:
+
+                                      Nine Months    Year        Year
+                                        Ended       Ended       Ended
+                                       June 30,    June 30,    June 30,
+                                         1993        1994       1995
+                                         ----        ----       ----
+                                      ---------------------------------
+                                                (000's omitted)
+                                      ---------------------------------
+
+Current:   Federal  . . . . . . . .     $ --          $ --       $266 
+           State  . . . . . . . . .       36            --         88  
+Deferred:  Federal  . . . . . . . .       --             3        (29) 
+           State  . . . . . . . . .       --            --         --  
+                                         ---           ---        ---
+                                        $ 36          $  3       $325 
+                                        ====          ====       ====
+
+
+                                     25
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Note G - Income Taxes (continued)
+         ------------
+
+
+     The reasons for the difference between total tax provisions and the amounts
+computed by applying the statutory Federal income tax rate to pre-tax income
+(loss) are as follows:
+
+
+                                               Nine Months    Year        Year
+                                                 Ended       Ended       Ended
+                                                June 30,    June 30,    June 30,
+                                                  1993        1994       1995
+                                                  ----        ----       ----
+                                               ---------------------------------
+                                                         (000's omitted)
+                                               ---------------------------------
+
+Statutory Federal income tax rate (34%) . . . .   (1,220)    $74         $966 
+Net operating loss utilization  . . . . . . . .       --      --           -- 
+Additional net operating losses   . . . . . . .    1,047      --    
+State income tax net of  Federal tax benefit  .       23      17           59 
+Adjustment to valuation allowance   . . . . . .       --    (154)        (927)
+Adjustment to deferred income taxes . . . . . .       --      --          193 
+Foreign sales corporation benefit   . . . . . .       (8)     --    
+Permanent differences resulting from                                
+  purchase accounting . . . . . . . . . . . . .      174      52           52 
+Entertainment expense disallowance  . . . . . .       15      12           34 
+Non-deductible insurance premiums . . . . . . .       --      13           19 
+Non-deductible capital losses . . . . . . . . .       --      39           -- 
+Tax exempt dividends  . . . . . . . . . . . . .       --     (65)        (100)
+Other-net . . . . . . . . . . . . . . . . . . .        5      15           29 
+                                                     ---     ---         ----
+                                                                    
+                                                    $ 36     $ 3         $325 
+                                                    ====     ===         ====
+
+                                       26
+
+<PAGE>
+
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+Note G - Income Taxes (continued)
+         ------------
+
+        Deferred income taxes reflect the net tax effect of temporary differen-
+ces  between the carrying amount of  assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. Significant 
+components of the Company's deferred taxes are as follows:
+
+
+                                  June 30, 1994   June 30, 1995
+                                  -------------   -------------
+                                         (000's omitted)  
+                                                      
+
+ Net operating losses              $2,778          $1,394
+ Non-compete agreement                782             578
+
+ Purchase accounting bases
+   difference                        (578)           (300)
+ Warranty reserves                    ---             117
+
+ Inventory reserves                   ---             155
+
+ Unrealized loss on marketable
+   securities                         ---             105
+ Other                                ---              35
+                                     ----            ----
+
+ Gross deferred tax asset           2,982           2,084
+ Valuation allowance               (1,727)           (800)
+                                    -----           -----
+
+ Net deferred tax asset            $1,255          $1,284
+                                    =====           =====
+
+   The net change in the valuation allowance for the year ended June 30, 1995
+was a decrease of $927,000 resulting from the current year utilization of net
+operating loss carryforwards.
+
+   The Company made no Federal income tax payments during 1993, 1994 or 1995.
+
+
+Note H - Stockholders' Equity
+         --------------------
+
+   In the years ended June 30, 1993, 1994 and 1995, the Company purchased for
+its treasury 2,600 shares (1993), 11,500 shares (1994) and 185,818 shares (1995)
+of its Common Stock at an aggregate purchase price of $5,200 (1993), $43,125
+(1994) and $421,090 (1995) or an average price of $2.00 per share (1993), $3.75
+per share (1994) and $2.27 per share (1995).
+
+
+                                       27
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+Note H - Stockholders' Equity (continued)
+         --------------------
+
+
+Warrant activity is as follows:                    Warrants        Price
+                                                   --------        -----
+Outstanding at June 30, 1993, and 1994              199,318        $1.34
+Exercised                                         (101,844)        $1.34
+                                                  ---------
+Outstanding at June 30, 1995                         97,474        $1.34
+                                                    =======
+    
+
+     As a result of the issuance of options to purchase Omnirel common stock to
+Omnirel employees in fiscal 1995, as of June 30, 1995, the Company's ownership
+of Omnirel could be reduced to approximately 84% upon the exercise of such
+options.
+
+
+Note I - Marketable Equity Securities
+         ----------------------------
+
+     For the years ended June 30, 1995 and June 30, 1994, equity securities were
+carried at market.  Marketable equity securities included in current and 
+non-current assets had a cost of $1,528,000 and $3,785,000, respectively, 
+as of June 30, 1995.  As of June 30, 1994, the cost of the current and 
+non-current marketable equity securities was $1,539,000 and $3,467,000,
+respectively.  During fiscal 1994, the Company engaged in short selling which
+obligated the Company to replace the securities borrowed by purchasing the
+identical securities at its then current market value.
+
+     Net realized gains of $357,000 and losses of $74,000 on the sale of
+marketable securities were included in the determination of net income for the
+years ended June 30, 1995 and 1994, respectively.  The cost of securities sold
+was based on the first-in first-out method.
+
+     For the year ended June 30, 1995, net unrealized losses of $335,000 were 
+charged to income of which $307,000 was recorded during the fourth quarter of 
+fiscal 1995 as a reduction in the market value of the non-current marketable 
+equity securities portfolio which reduction was deemed to be other than 
+temporary.
+
+     To reduce the carrying amount of the current marketable equity securities
+to market, which was lower than cost at June 30, 1994, a valuation allowance of
+$42,000 (including gross gains of $32,000) was established with a corresponding
+charge to net income.  To reduce the carrying amount of the non-current
+marketable equity securities to market, which was lower than cost at June 30,
+1994, a valuation allowance in the amount of $288,000 was established by a
+charge to stockholders' equity.
+
+
+                                       28
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+Note J - Employee Benefit Plan
+         ---------------------
+
+     The Company has a deferred compensation program for all employees, which is
+qualified under Section 401(k) of the Internal Revenue Code.  Under the program
+the contributions to be made by the Company are at the discretion of the Board
+of Directors of the Company and were $4,988 for 1995, $11,000 for 1994 and
+$17,000 for 1993.  The Company does not maintain post-retirement benefit plans.
+
+Note K - Leases
+         ------
+
+     The Company has a noncancellable lease expiring October 31, 1996 at an
+annual rate of $15,000.  As of June 30, 1995 the company had no other sig-
+nificant operating leases.
+
+Rental expense for all operating leases consisted of:
+
+                                      1993        1994        1995
+                                      ----        ----        ----
+                                            (000's omitted)
+
+Rental expense                        $872       $  35       $  57
+Sublease income                       (20)          --          --
+                                      ----          --          --
+Net rental expense                    $852       $  35       $  57
+                                      ====       =====       =====
+
+
+     The Company leased certain equipment under capital leases which expired in
+fiscal 1994.  The equipment under the capital leases had a cost of approximately
+$128,000 as of June 30, 1993 and a net book value of approximately $49,000 as of
+the same date.
+
+
+Note L - Research and Development
+         ------------------------
+
+     During 1993, 1994 and 1995, research and development expenditures were
+$808,000, $841,000 and $1,055,000 respectively.
+
+ 
+Note M - Foreign Sales
+         -------------
+
+     Export sales to unaffiliated customers in foreign countries (primarily
+Canada and Western Europe) as a percentage of net sales were 15% for the nine
+months ended June 30, 1993, 4% for the year ended June 30, 1994, and 2% for 
+the year ended June 30, 1995.
+
+
+
+                                       29
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+
+Note N - Concentration of  Credit Risk
+         -----------------------------
+
+     Sales to one customer aggregated 61% of the net sales of the Company for
+fiscal 1995.  Sales to two customers aggregated 17% and 11% respectively of the
+net sales of the Company for fiscal 1994.  As of June 30, 1995 and June 30,
+1994, amounts due from these customers aggregated $2,414,000 and $909,000, 
+respectively.
+
+
+Note O - Related Party Transactions
+         --------------------------
+
+     During the nine months ended June 30, 1993, the years ended June 30, 1994
+and 1995, the company incurred costs for legal services rendered by a law firm
+(a principal of which is a member of the Board of Directors of the Company)
+amounting to $390,000, $54,000 and $347,000 respectively.
+
+
+                                       30
+
+
+<PAGE>
+
+<TABLE><CAPTION>
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+QUARTERLY FINANCIAL INFORMATION (unaudited)
+
+                                                                                              1995 Fiscal Quarters
+                                                                  ----------     ----------    ---------    ---------  ---------
+                                                                      First         Second       Third        Fourth      1995
+                                                                  ----------     ----------    ---------    ---------  ---------
+                                                                              (000's omitted, except per share data)
+                                                                  ----------     ----------    ---------    ---------  ---------
+<S>                                                               <C>            <C>           <C>          <C>        <C> 
+Net sales                                                         $   3,374      $   3,580     $  5,832     $  9,805   $  22,591
+Gross profit                                                          1,330          1,476        2,694        4,018       9,518
+Total selling, general and administrative expenses                    1,380          1,469        2,489        2,241       7,579
+Interest expense and amortization of deferred note
+   issuance costs                                                        22             45           59           22         148
+Interest and other income - net                                         270            256          353          172       1,051
+Income before income taxes                                              198            218          499        1,927       2,842
+Provision for income taxes                                                3              3           96          223         325
+                                                                  ---------      ---------     --------     --------   ---------
+Net income                                                        $     195      $     215     $    403     $  1,704   $   2,517
+                                                                  ---------      ---------     --------     --------   ---------
+                                                                  ---------      ---------     --------     --------   ---------
+
+Net income per share                                              $    0.08      $    0.08     $   0.15     $   0.63   $    0.94
+                                                                  ---------      ---------     --------     --------   ---------
+                                                                  ---------      ---------     --------     --------   ---------
+Number of shares used in computation                              2,572,875      2,642,857    2,666,830    2,680,572   2,670,511
+
+- --------------------------------------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------------------------
+                                                                                              1994 Fiscal Quarters
+                                                                  ----------     ----------    ---------    ---------  ---------
+                                                                      First         Second       Third        Fourth      1994
+                                                                  ----------     ----------    ---------    ---------  ---------
+                                                                              (000's omitted, except per share data)
+                                                                  ----------     ----------    ---------    ---------  ---------
+
+Net sales                                                         $   2,697      $   2,747     $    2,844   $  3,195   $  11,483
+Gross profit                                                          1,182          1,296          1,091      1,277       4,846
+Total selling, general and administrative expenses                    1,304          1,430          1,183      1,338       5,255
+Interest expense and amortization of deferred note
+   issuance costs                                                       229             15             17         25         286
+Interest and other income - net                                         263            249            192        156         860
+Income (loss) before income taxes, extraordinary item                   (88)           100             83         70         165
+Provision (credit) for income taxes                                      --             --             50        (47)          3
+Income (loss) before extraordinary item                                 (88)           100             33        117         162
+Extraordinary item                                                       53             --             --         --          53
+                                                                  ---------      ---------     ----------   --------   ---------
+Net income (loss)                                                 $     (35)     $     100     $       33   $    117   $     215
+                                                                  ---------      ---------     ----------   --------   ---------
+                                                                  ---------      ---------     ----------   --------   ---------
+
+Income (loss) per share before extraordinary item                 $   (0.03)     $    0.04     $     0.01   $   0.04   $    0.06
+Extraordinary item                                                     0.02             --             --         --        0.02
+                                                                  ---------      ---------     ----------   --------   ---------
+Net income (loss) per share                                       $   (0.01)     $    0.04     $     0.01   $   0.04   $    0.08
+                                                                  ---------      ---------     ----------   --------   ---------
+                                                                  ---------      ---------     ----------   --------   ---------
+Number of shares used in computation                              2,755,247      2,755,447      2,747,246  2,747,246   2,747,246
+
+
+</TABLE>
+                                                                 31
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ITEM 9 -  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE.
+
+     None.
+
+
+                                    PART III
+
+
+     Information required under this part will be incorporated by reference from
+the Company's definitive Proxy Statement or by amendment on Form 10-K/A, to be
+filed within 120 days following the end of the Company's June 30, 1995 fiscal
+year.
+
+
+                                       32
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+
+                                     PART IV
+
+ITEM 14 -    EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+        (a)(1) AND (2)--LIST OF FINANCIAL STATEMENTS AND FINANCIAL STATEMENT 
+SCHEDULES
+
+    The following consolidated financial statements of Zing Technologies, Inc.
+and subsidiaries are included in Item 8:
+
+   Consolidated balance sheets -- June 30, 1994 and 1995
+
+   Consolidated statements of operations -- Year ended June 30, 1995 and June
+   30, 1994, and Nine months ended June 30, 1993
+
+   Consolidated statements of stockholders' equity -- Year ended June 30, 
+   1995, year ended June 30, 1994, and Nine months ended June 30, 1993 
+
+   Consolidated statements of cash flows -- Year ended June 30, 1995 and June
+   30, 1994, and Nine months ended June 30, 1993
+
+   Notes to consolidated financial statements 
+
+ The following consolidated financial statement schedules of Zing Technologies,
+Inc. and subsidiaries are included in Item 10(d):
+
+   Schedule II --  Valuation and qualifying accounts
+
+
+ All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and therefore have been omitted.
+
+(3)  Exhibits required by Item 601 of Regulation S-K.
+
+
+ (b) Reports on Form 8-K -- None.
+
+ (c) Exhibits
+
+   11 - Statement Re Computation of per share earnings -- Page 35
+
+
+                                       33
+
+
+<PAGE>
+<TABLE><CAPTION>
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+                                                         SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+ COL. A                                                     COL. B                COL. C                COL. D       COL. E
+                                                                                ADDITIONS
+                                                         Balance at    Charged To     Charged To
+                                                          Beginning    Costs and     Other Accounts-  Deductions-  Balance at End
+Description                                               of Period     Expenses       Describe        Describe      of Period
+                                                                                    (000's omitted)
+<S>                                                      <C>           <C>          <C>               <C>          <C>
+Year Ended June 30, 1995
+   Deducted from asset accounts:
+      Allowance for doubtful accounts                          $97                                     $31 (1)         $66
+     Valuation allowance - deferred tax asset                1,727                                     927 (2)         800
+                                                            ------                                    ----            ----
+                                                            $1,824                                    $958            $866
+                                                            ======                                    ====            ====
+
+Year Ended June 30, 1994
+   Deducted from asset accounts:
+      Allowance for doubtful accounts                          $72         $51                         $26 (1)         $97
+     Valuation allowance - deferred tax asset                                         $1,727 (2)                     1,727
+                                                               ---         ---        ------           ---          ------
+                                                               $72         $51        $1,727           $26          $1,824
+                                                               ===         ===        ======           ===          ======
+
+Nine Months Ended June 30, 1993:
+      Allowance for doubtful accounts                         $309         $76          $ --          $313 (1)(3)      $72
+                                                              ====         ===          ====          ====             ===
+
+
+
+(1) Uncollectible accounts written off, net of recoveries
+(2) Amount offsets deferred tax asset.
+(3) Amounts transferred as part of sale to Arrow Electronics
+
+
+
+
+                                       34
+
+
+
+
+
+
+</TABLE>
+
+
+
+
+
+<PAGE>
+
+<TABLE><CAPTION>
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+                                           EXHIBIT II - STATEMENT RE COMPUTATION OF PER SHARE EARNINGS
+
+
+                                                                                      1993             1994         1995
+                                                                                   --------------------------------------
+                                                                                     (In Thousand, Except Per Share Data)
+<S>                                                                                <S>                <C>          <C> 
+Average shares outstanding                                                           2,693            2,681        2,597
+Net effect  of  dilutive stock options and warrants based 
+   on the treasury stock method                                                         81               66           74
+                                                                                   --------------------------------------
+   Shares used for computation                                                       2,774            2,747        2,671
+                                                                                   --------------------------------------
+                                                                                   --------------------------------------
+Income (loss) before extraordinary item                                            ($3,468)            $162       $2,517
+
+Extraordinary item (1)                                                               ($155)             $53          --
+
+                                                                                   --------------------------------------
+Net income (loss) used for computation                                             ($3,623)            $215       $2,517
+                                                                                   --------------------------------------
+                                                                                   --------------------------------------
+Per share amount:
+Income (loss) before extraordinary item                                             ($1.25)           $0.06        $0.94
+Extraordinary item                                                                  ($0.06)           $0.02           --
+                                                                                   --------------------------------------
+   NET INCOME (LOSS)                                                                ($1.31)           $0.08        $0.94
+                                                                                   --------------------------------------
+                                                                                   --------------------------------------
+
+(1) Represents a gain (loss) from the extinguishment of debt, net of 
+    income tax effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TABLE>
+
+
+
+
+
+
+                                                35
+
+
+<PAGE>
+
+
+ZING TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+                                    SIGNATURE
+
+Pursuant to the requirement of Section 13 or 15(d) of Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized on the 28th day of September, 1995.
+
+                        Zing Technologies, Inc. 
+
+
+                        By /s/ Robert E. Schrader
+                          -----------------------
+                        Name: Robert E. Schrader
+                        Title: President, Chief Executive Officer 
+                        and Chairman of the Board
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated.
+
+       Signature                    Title                          Date
+       ---------                    -----                          ----
+
+                           President, Chief Executive
+/s/ Robert E. Schrader     Officer and Chairman of the      September 28, 1995
+- ----------------------     Board
+(Robert E. Schrader)      (Principal Executive Officer)
+
+                           Treasurer and Director
+/s/ Martin S. Fawer        (Principal Financial Officer)    September 28, 1995
+- -------------------
+(Martin S. Fawer)
+
+ 
+
+/s/ Deborah J. Schrader    Secretary and Director           September 28, 1995
+- -----------------------
+(Deborah J. Schrader)
+
+
+/s/ John F. Catrambone     Director                         September 28, 1995
+- ----------------------
+(John F. Catrambone)
+
+
+                           Director                         September 28, 1995
+- ------------------
+(Laurence Higgitt)
+
+
+/s/ Henry A. Singer        Director                         September 28, 1995
+- -------------------
+(Henry A. Singer)
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1995
+<PERIOD-END>                               JUN-30-1995
+<CASH>                                       1,366,000
+<SECURITIES>                                 1,489,000
+<RECEIVABLES>                                3,599,000
+<ALLOWANCES>                                  (66,000)
+<INVENTORY>                                  3,817,000
+<CURRENT-ASSETS>                            10,833,000
+<PP&E>                                       9,028,000
+<DEPRECIATION>                             (4,427,000)
+<TOTAL-ASSETS>                              22,185,000
+<CURRENT-LIABILITIES>                        4,615,000
+<BONDS>                                        741,000
+<COMMON>                                        28,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                  15,101,000
+<TOTAL-LIABILITY-AND-EQUITY>                22,185,000
+<SALES>                                     22,591,000
+<TOTAL-REVENUES>                            22,591,000
+<CGS>                                     (13,073,000)
+<TOTAL-COSTS>                             (13,073,000)
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                           (148,000)
+<INCOME-PRETAX>                              2,842,000
+<INCOME-TAX>                                 (325,000)
+<INCOME-CONTINUING>                          2,517,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 2,517,000
+<EPS-PRIMARY>                                     0.94
+<EPS-DILUTED>                                     0.00
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

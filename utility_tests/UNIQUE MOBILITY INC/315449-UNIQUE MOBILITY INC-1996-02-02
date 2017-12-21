@@ -1,0 +1,3328 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LI9mv/O4uYVwfusUyzjDhy35zVYjL3XNyWHvxk0105cB1vBCxvO9H8c3a9Bn96AZ
+ EbmQpFeY2j4H9++CrK4EHw==
+
+<SEC-DOCUMENT>0000315449-96-000001.txt : 19960205
+<SEC-HEADER>0000315449-96-000001.hdr.sgml : 19960205
+ACCESSION NUMBER:		0000315449-96-000001
+CONFORMED SUBMISSION TYPE:	10-K
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19951031
+FILED AS OF DATE:		19960202
+SROS:			AMEX
+SROS:			BSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIQUE MOBILITY INC
+		CENTRAL INDEX KEY:			0000315449
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTORS & GENERATORS [3621]
+		IRS NUMBER:				840579156
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09146
+		FILM NUMBER:		00000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		425 CORPORATE CIRCLE
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+		BUSINESS PHONE:		3032782002
+
+	MAIL ADDRESS:	
+		STREET 1:		425 CORPORATE CIRCLE
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+
+THIS DOCUMENT IS A COPY OF THE ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR
+ENDED OCTOBER 31, 1995 FILED ON JANUARY 30, 1996 PURSUANT TO A RULE 201
+TEMPORARY HARDSHIP EXEMPTION                                
+                                
+        UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+                                
+                           FORM 10-K
+                                
+         ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+           For the fiscal year ended October 31, 1995
+                 Commission file number 0-9146
+                                
+                      UNIQUE MOBILITY, INC.                
+     (Exact name of registrant as specified in its charter)
+                                
+               Colorado                     84-0579156    
+       (State or other jurisdiction of   (I.R.S. Employer
+       incorporation or organization)     Identification No.)
+                                
+          425 Corporate Circle, Golden, Colorado  80401    
+     (Address of principal executive offices)    (Zip Code)
+                                
+Registrant's telephone number, including area code:  (303) 278-2002
+                                
+ Securities registered pursuant to Section 12(b) of the Act:  
+                  Common stock, $.01 par value
+                                
+          Name of each exchange on which registered:  
+                    American Stock Exchange
+                     Boston Stock Exchange 
+                                
+  Securities registered pursuant to Section 12(g) of the Act:
+                  Common stock, $.01 par value
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes   X     No     .
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.      
+
+The aggregate market value of the voting stock held by nonaffiliates of the
+registrant (8,237,076 shares) computed by reference to the closing price of such
+stock on the American Stock Exchange, as of January 24, 1996:
+
+                          $30,374,218
+
+The number of shares outstanding (including shares held by affiliates) of each
+of the registrant's classes of common stock, as of January 24, 1996:
+
+                    10,716,172 shares of the
+                   registrant's common stock,
+                        $.01 par value.
+                                
+              DOCUMENTS INCORPORATED BY REFERENCE
+                                
+Proxy Statement for March 20, 1996 - Annual Meeting of Shareholders - Part III
+<PAGE>
+                      
+ITEM 1.   BUSINESS
+
+General
+
+Unique Mobility, Inc. ("Unique" or the "Company"), headquartered in Golden,
+Colorado, is engaged in the research, development and commercialization of
+electric and hybrid electric vehicles, propulsion systems for such vehicles, as
+well as other nonautomotive applications of its technologies.  Founded in 1967
+as a research and development company, the Company has, since 1977, invested
+approximately $26 million to advance state-of-the-art electric propulsion
+systems based on high-power dense (small and lightweight) permanent magnet (PM)
+motors and electronic controllers which the Company's research engineers believe
+are among the most energy efficient in the world.  Unique has incorporated this
+technology into a variety of automotive and nonautomotive applications for which
+management believes there are emerging commercial niche markets in the near-
+term, and mass markets in the longer-term.  The Company trades on the American
+and Boston Stock Exchanges under the symbol "UQM".
+
+The Company's revenue has been derived primarily from contract research and
+development services.  These sponsored research and development activities have
+supplemented internally-funded product development programs and have added
+significantly to the Company's technology base which the Company has been able
+to apply to the development of products with commercial applications.  The
+Company intends to continue to advance its existing technologies as well as to
+find additional product applications which have high potential for
+commercialization.
+
+Unique's relationships with major original equipment manufacturers (OEMs) and
+other industry leaders has enabled the Company to obtain partial funding for
+product development while still retaining substantially all rights to its
+intellectual property.  In partnership with BMW (Munich, Germany), Unique has
+developed a producible 32 kW PM traction drive system having very high
+efficiency and power density.  With the Pininfarina Group (Turin, Italy), an
+internationally acclaimed design house and manufacturer of niche market 
+vehicles, the Company is developing the Ethos 3 EV electric car incorporating a
+53 kW version of the BMW motor.  With the New York State Research and 
+Development Authority, the Company has developed and demonstrated a natural gas
+fueled hybrid electric bus.  And with Taiwan based Kwang Yang Motor Co., Ltd.
+(KYMCO), one of the world's largest manufacturers of motor scooters, Unique has
+developed a hub mounted PM motor and full authority digital controller, charger
+and dc to dc converter for KYMCO's entry into the electric scooter market.
+
+In July 1995, the Company commenced an offering of its common stock to four
+mutual funds in Italy and Sweden under Regulation S.  The sale was completed
+during the fourth quarter of fiscal 1995 and resulted in the sale of 581,111
+shares of common stock at $3.60 per share.  Net proceeds to the Company after
+deducting the expenses of the offering were approximately $1.95 million.  To
+date, the Company has used a portion of these proceeds to fund product
+development and engineering expense and for general working capital purposes.
+
+The Company's current products include a range of PM motors and controllers
+which incorporate several innovative approaches to electronic, magnetic, 
+structural and thermal design.  Chief among these is the Caliber EV 53 
+microprocessor-based brushless PM traction drive system for electric and hybrid-
+electric vehicle applications.  The system includes the UQM  53 kW SR218H PM 
+motor, CA 40-300L inverter and EVPH332 microprocessor.  The Company also offers 
+a proprietary single stage transaxle with mechanical parking lock which allows 
+the drive system to be mounted in a vehicle in either a front or rear wheel 
+drive configuration.
+<PAGE>
+
+Other products presently in development or available as prototypes include:
+
+     Hybrid-electric systems and components for bus and truck applications
+
+     Low voltage PM traction motors, controllers, chargers and dc to dc
+         converters for electric motor scooters
+
+     5-10 kW variants of the scooter traction drive system for small industrial
+         and recreational use vehicle applications
+
+     Direct drive (gearless) PM motors for low voltage, low speed traction
+         applications
+
+Management believes that the innovative designs, carefully selected materials 
+and advanced manufacturing processes used in Unique products provide a number of
+significant benefits.  These benefits include high power density 
+(packageability), high efficiencies over a wide range of operation and 
+simplified construction which are capable of achieving cost benefits at higher 
+production levels.  High power density and high efficiency is a critical 
+attribute in any application where space is at a premium and the energy supply 
+is limited.
+
+Recent Developments
+
+Ford Program.  During the third quarter, the Company, in consultation with Ford,
+discontinued work on the development of a motor-in-the-wheel concept and a gas
+turbine alternator concept following the completion of the initial feasibility
+study for each concept.  The flywheel energy storage system development is
+continuing and the Company expects to deliver a prototype unit to Ford during 
+the third quarter of fiscal 1996.  As a result of these actions, the Company's
+overall participation in the Ford program was reduced from an anticipated five-
+year $11.2 million effort under which the Company had a cost-sharing obligation
+of 50 percent or $5.6 million to a two-year $4.4 million effort with a cost
+sharing obligation of $2.2 million.  The Company reduced its workforce from a
+peak employment level of 72 full-time employees in February 1995 to 33 full-time
+employees at October 31, 1995, as a result of the reduction in the scope of this
+program.  See also "Liquidity and Capital Resources" below.
+
+New Business Unit.  In September 1995, the Company established a new business
+unit to commercialize its proprietary line of PM motors and controls.  The 
+motors and controls unit operates as the Power Products Division of the Company
+and is headed by the Company's Executive Vice President, William G. Rankin.  In
+December 1995, the Company appointed James A. Bennett to the position of 
+Director of Manufacturing for the Power Products Division, reporting to 
+Mr. Rankin.  Mr. Bennett has over 35 years experience in electric motor 
+manufacturing operations and new plant set-up with such organizations as Fasco
+Industries, Marathon Electric and General Electric.
+
+The initial focus of the Power Products Division will be directed toward 
+existing markets for low voltage small vehicle traction applications followed by
+an expansion into the emerging markets for high voltage systems for on-road 
+cars, trucks and buses.  Small vehicle traction applications include 
+wheelchairs, small industrial vehicles, golf carts and lawn care products.  
+Product offerings will be marketed under the UQM  brand name or will be private
+labeled on special order for major customers.  Manufacturing operations will be
+housed in the Company's present facilities in Golden, Colorado.
+
+Strategic Alliance with Invacare.  In November 1995, the Company and Invacare
+Corporation entered into a Memorandum of Understanding (MOU) reflecting their
+intention to enhance strategic efforts in developing world markets on an
+exclusive basis through the development and manufacturing of electric motors for
+motorized wheelchairs.  Invacare is a leading manufacturer and distributor of
+home health care and mobility products headquartered in Elyria, Ohio, with
+manufacturing facilities in the United States, Canada, France, Germany, Mexico,
+New Zealand, Switzerland and the United Kingdom.  Invacare's products are
+distributed worldwide through a network of more than 10,000 provider locations.
+<PAGE>
+
+Pursuant to the MOU and a subsequent Stock Purchase Agreement Invacare, in
+January 1996, purchased 129,032 shares of the Company's common stock at $3.88 
+per share for a total capital contribution to the Company of $500,000.  
+Contingent on development milestones, Invacare has further agreed to purchase 
+additional shares at market price during the 1996 fiscal year.  Proceeds from 
+the sale of these shares will be used to fund, in part, the Company's 
+anticipated capital investment for the production tooling, equipment and product
+launching costs required to be made by the Company for the manufacture of 
+products to be sold to Invacare.
+
+Additionally, the Company has agreed that Invacare will have the right to
+nominate one person to the Company's board of directors who shall be supported
+by the Company's management.  Accordingly, on December 8, 1995, Mr. J. B. 
+Richey, President of Invacare Technology was appointed to fill a vacancy on the
+board and will stand for election at the Company's Annual Meeting of 
+Shareholders on March 20, 1996.
+
+Research and Development Contracts.  The Company was awarded several contracts
+during the year by various private and governmental agencies and organizations
+including:
+
+     a contract authorization from Ford Motor Company in the amount of $681,000
+     to build and test a prototype flywheel energy storage system.  This
+     authorization is part of the Company's participation with Ford in the
+     second phase of the Hybrid Propulsion System Development Program 
+     sponsored by the U.S. Department of Energy.  The Company will cost 
+     share an amount equal to approximately one-half of the authorization.
+
+     a contract from the U.S. Naval Sea Command to design an advanced variable
+     speed PM motor with gearing and associated electronics for use as a
+     starter motor for a ship propulsion gas turbine.  This type of system
+     could also be used for a broad range of products in the transportation
+     and industrial drive marketplace where better power quality, higher 
+     power factors and greater energy conversion efficiencies are in demand.
+
+     a contract from Chrysler Corporation's military electronics arm, Pentastar
+     Electronics, Inc., and Southwest Research Corporation to supply UQM  PM
+     motors, generators and electronic controls for integration into a
+     prototype hybrid electric version of the High Mobility Multipurpose
+     Wheeled Vehicle (HMMWV), known commercially as the Hummer.  A UQM 
+     generator will function as both the starter for  the diesel engine and
+     as the generator for motive power.  The high power density of the UQM 
+     motor/invertor will allow one such unit to be packaged at each wheel to
+     achieve full time four-wheel drive operation with regenerative braking
+     down to zero RPM.
+
+     a contract from the Defense Research Establishment of the Canadian 
+     Department of National Defense to supply UQM  PM motors, controllers,
+     gearing and related equipment for integration into an undisclosed 
+     hybrid-electric powered military vehicle.
+<PAGE>
+
+     a contract amendment from KYMCO authorizing a $245,000 budget supplement
+     to fund the Company's further development of a PM traction drive system
+     for motor scooter applications.
+
+Growth Strategy
+
+The Company has an aggressive strategy to commercialize its technologies and to
+provide for its future growth.  The strategy is premised on the marketing of two
+basic product and service groups:  Power Products and Vehicle Systems.
+
+The Power Products Division has been established to implement the Company's role
+as a supplier to Invacare and as a manufacturer of electric propulsion systems
+to OEM automakers, electric vehicle upfitters and others.  The Company's in-
+house manufacturing capability will be augmented by joint ventures with other 
+strategic partners to access key markets.  To that end, the Company, KYMCO and 
+Turn-Luckily Technology Co., Ltd. (TLT), the Company's representatives in 
+Taiwan, have organized Taiwan UQM Electric Co. Ltd. (Taiwan UQM), a joint 
+venture company established to manufacture and market the Company's products 
+under license throughout Asia.  It is the Company's goal to have a similar joint
+venture and/or licensing arrangement in place during fiscal 1996 with a 
+prospective multi-national partner through which the Company's high voltage 
+products can be marketed to automotive OEMs in Europe and North America.
+
+The Vehicle Systems Group, now being organized as a separate business unit, will
+undertake contracts to design and develop complete vehicle systems and contracts
+to integrate electric and hybrid electric propulsion systems into vehicle
+platforms of all types.  In collaboration with Pininfarina, the Vehicle Systems
+Group will have the capability to furnish automotive OEM customers and clients
+with a full menu of "clean vehicle" products and services, including  the
+contract supply of fully operable  "badged" vehicles ready for delivery to the
+customers' distribution channel.  Additionally, in collaboration with Neoplan 
+USA Corporation (Neoplan), a major manufacturer of transit buses, the Vehicle 
+Systems Group will be equipped to integrate the Company's hybrid electric 
+propulsion systems into Neoplan's lightweight carbon fiber transit buses and 
+other buses on special order from transit authorities and bus fleet operators.
+
+The Company also plans to continue an expanded program of technological
+development activities in support of its power products and vehicle system
+business units.  One element of this effort is the ongoing development of
+flywheel energy storage systems as part of the Company's participation with Ford
+Motor Company in the U.S. Department of Energy sponsored Hybrid Propulsion 
+System Development Program.  The primary objective of the Company's effort in 
+this program is to further enhance the understanding of flywheel system dynamics
+in mobile applications.  A parallel objective is to explore the market for
+stationary flywheel systems which appear to have potential within the electric
+utility industry for peak/off-peak load leveling applications and for assuring
+uninterrupted power supplies to users who require a continuous high quality 
+power source.
+
+Implementation of the Company's growth strategy is expected to require greater
+financial resources than those currently possessed by the Company.  There can be
+no assurance that the funds required for growth will be available, or will be
+available on terms acceptable to the Company.  If the Company is unable to 
+obtain sufficient funding, management would defer, abandon or modify 
+implementation of its growth strategy.  See also "Management Discussion and 
+Analysis of Financial Condition and Results of Operations" and "Competition" 
+below.
+<PAGE>
+
+Product Development
+
+The Company has initiated the following product development programs with the
+goal of generating near-term revenue from the sale of electric and hybrid
+electric propulsion and energy storage systems and contract services related
+thereto:
+
+Motors and Controllers.  The Company has completed initial development of a
+number of high voltage PM motors ranging from 20 kW to 75 kW and controllers 
+with nominal voltages ranging from 96 V to 400 V.  It is the Company's plan to 
+market these products directly or in conjunction with strategic partners to 
+automotive OEMs and vehicle upfitters.  A typical system of this type is the 
+Caliber EV 53 microprocessor-based brushless PM traction drive system for 
+electric and hybrid vehicle application.
+
+
+
+
+
+
+         PICTURE OF THE COMPANY'S SR 218H MOTOR AND CA 40-300L INVERTER
+
+
+
+
+
+                  Fig. 1  SR 218H Motor and CA 40-300L Inverter
+
+
+The system includes the UQM  SR 218H PM motor and the CA 40-300L inverter with
+an EVPH332 microprocessor.  It can be matched to the Company's proprietary 
+single stage transaxle which accommodates either a front or rear wheel drive
+configuration.
+
+Key to the design of this and other UQM  motors are radially positioned high-
+energy permanent magnets which are mounted on a hollow rotor "cup" which is
+coaxial with a relatively thin narrow-slot stator winding.  The stator winding
+is directly pierced by the flux field of the magnets and a high magnetic pole
+count is employed.  This design approach permits the use of a multiplicity of
+thin narrow magnets rather than a fewer number of larger thicker magnets.  This
+in turn reduces the thickness of the steel in the rotor cup to which the magnets
+are mounted as well as the thickness of the magnetic flux return path in the
+stator.  The benefit of this arrangement (upon which several of the Company's
+patent claims are based) is to reduce the overall amount of iron and magnet
+material in the motor when compared to conventional PM motors.  The reduced
+amount of iron lowers the electromagnetic losses (i.e., increases efficiency) 
+and also reduces the weight and size of the motor for any given power rating.  
+The reduced amount of magnet material results in a corresponding reduction in 
+cost.
+
+Of critical importance to the system are the power electronics (amplifier)
+required to deliver a high-frequency switched supply of electrical power to the
+copper windings which energize the motor, and the logic controller
+(microprocessor) which is the "brain" that initiates all commands to the
+amplifier and provides the link between the system and the operator.  The total
+system (i.e., motor, amplifier and microprocessor) must be carefully matched to
+achieve optimum performance and efficiency in delivering a smooth, constant 
+power profile from mid to high speed.
+<PAGE>
+
+In combustion-engine vehicles constant power is achieved by progressing through
+gear changes in a mechanical transmission or torque converter.  PM motors are
+traditionally considered to be constant torque devices due to the permanent
+magnets which deliver a fixed-amplitude magnetic field.  A constant torque motor
+will have the inherent limitations of either insufficient torque, unacceptably
+low top speed or excessive (more costly) power electronics.  Through the use of
+electronic manipulation of the current supplied to the motor, however, a 
+constant power system can be achieved where sufficient torque, high top speed 
+and minimal power electronics are realized.  The manipulation of current to 
+obtain constant power can be achieved by advancing the phase-angle or vector of
+input current to the stator which weakens its magnetic field.  This allows the 
+motor to run faster and thus deliver more power.  Such field weakening 
+techniques are typically used in AC induction motors and can be applied to PM 
+motors.  However, the Company has developed a different way to achieve the same
+result while avoiding some of the disadvantages of weakening the magnetic field.
+This technique is described as "impedance-based" and employs phase advance to 
+"precharge" the windings prior to significant torque production.  The precharge
+results in a generated torque that decreases as speed increases.  The Company 
+believes that its impedance-based phase advanced system driven by a six-step 
+control possesses significant cost and performance advantages over any other PM
+drive system and has filed patent applications accordingly.
+
+In addition to its high voltage product line, the Company has completed initial
+development of a number of PM motors from 1 kW to 10 kW and electronic
+controllers with nominal voltages from 12 V to 48 V.  It is the Company's goal
+to manufacture and market these products for a variety of applications including
+bicycles, wheelchairs, small industrial vehicles, neighborhood vehicles, golf
+carts and lawn care products.  To further this objective, the Company intends to
+expand manufacturing capability at its Golden facility.  In parallel with its 
+in-house expansion, the Company may outsource low voltage products to Taiwan UQM
+if and when high volume production for the KYMCO electric scooter program 
+provides sufficient economies of scale to lower manufacturing costs.  Such low 
+cost outsourcing has the potential to enable the Company to offer low voltage 
+traction drives to several price sensitive markets in North America that it 
+otherwise might not be able to reach.
+
+The Taiwan Scooter.  The Company has entered into a product development and
+licensing agreement with Taiwan-based KYMCO to develop an advanced electric
+traction system for motor scooter applications.  First prototypes of an advanced
+hub-mounted PM motor and full authority digital controller have been built and
+tested.  Final sign-off on design specifications occurred in November 1995 and
+production engineered prototypes are currently being built.  The Company expects
+to complete the development program in the fourth quarter of fiscal 1996. 
+Pursuant to the licensing agreement, KYMCO will have, subject to certain
+conditions, the exclusive right to market the developed products for motor
+scooter applications throughout Asia, except for India and Japan, and
+nonexclusive rights throughout the rest of the world.
+
+KYMCO is one of three major manufacturers of motor scooters in Taiwan and has a
+total annual production of over 600,000 units, a substantial portion of which 
+are manufactured under license from Honda.  It has a world class, high-quality 
+fully integrated manufacturing facility located in Kaohsiung, Taiwan.  KYMCO
+launched the electric scooter program in order to comply with Taiwanese 
+regulatory mandates, and the timing for KYMCO's production launch of the 
+electric scooter is being established to comply with such mandates.  Originally,
+the program was geared to a regulatory mandate that beginning in 1998, 
+required five percent of all scooters sold in Taiwan to be electric.  Recently,
+however, the mandate was relaxed to require only two percent electric beginning
+in the year 2000.  Battery availability and lack of charging infrastructure have
+been given as reasons for this modification.
+<PAGE>
+
+With KYMCO and TLT, the Company has established a joint venture company, Taiwan
+UQM, to manufacture motors, controllers and related products under license from
+the Company.  The joint venture is intended to support the commercial phase of
+the KYMCO electric scooter program as well as other clean vehicle programs
+(including cars, trucks and buses) that the Company hopes to initiate in Taiwan,
+Mainland China and throughout Southeast Asia. Based on KYMCO's financial 
+support, Taiwan UQM has acquired approximately three acres of prime industrial 
+property near Chiang Kai-Shek International Airport.  Separately, KYMCO has 
+acquired an additional three acres on an adjacent tract.  Architectural drawings
+are currently being prepared for a motor and electronics manufacturing facility 
+to be erected on the site and construction is scheduled to begin in April 1996. 
+Mr. L. K. Luh has been appointed to head operations for Taiwan UQM and will 
+oversee construction of the new facility which is expected to be completed by 
+calendar year end.  Mr. Luh came to Taiwan UQM from China Motor Corporation 
+where he was a senior executive responsible for product development and 
+manufacturing.
+
+The Company and KYMCO are currently investigating other electric and electronic
+products which could be launched into production prior to the start of electric
+scooter component production.
+
+The Ethos 3 EV.  In November 1994, the Company announced its collaboration with
+the Pininfarina Group of Turin, Italy, in a program to solicit contracts for the
+design, development and manufacture of electric and hybrid electric vehicles for
+automotive OEMs around the world.  This collaboration brings together a set of
+vehicular experiences and technologies which management believes is unparalleled
+in the automotive industry.  The essence of the collaboration is based on the
+premise that the most cost effective and practical way to enter this emerging 
+new market can be achieved from a partnership of innovative companies who bring
+technology, experience and commercial strength to a well conceived and 
+realizable product development plan.
+
+The full menu of services offered by Unique in collaboration with Pininfarina is
+exemplified by the Ethos 3 EV concept car.  These services include market driven
+design, styling, product and process engineering, power-train development,
+lightweight structure technology, vehicle test and certification for all
+countries and a complete range of contract manufacturing operations from body
+build-up to component manufacture to the final assembly of complete vehicles.
+
+
+
+
+
+
+                       PICTURE OF THE ETHOS 3 EV AUTOMOBILE
+
+
+
+
+
+
+
+                              Figure 2: The Ethos 3 EV
+<PAGE>
+
+The Ethos 3 EV is a five-passenger sedan with original styling and atypical
+dimensions.  Very briefly, it is an aerodynamic cube having a curb weight of 726
+kg without batteries.  The length is 336 cm, the width 169 cm and the height 147
+cm.  The wheelbase is 230 cm.  The wheels are positioned at the extreme corners
+of the bodywork, which results in minimal front and rear overhang.  Other
+features that define the Ethos 3 EV include:
+
+     Easy entrance and exit.  There are four doors which open to 80 degrees,
+         plus a tailgate which is split into two parts.  This feature simplifies
+         loading of luggage from above, particularly when parked bumper-to-
+         bumper along the curb.
+
+     Safety and comfort.  Most accidents occur in urban traffic, so a car
+         designed for use in and around town must offer a high degree of 
+         occupant protection.  In this sense, the sturdy aluminum cage assures 
+         outstanding safety.  Impact beams are incorporated in the doors and the
+         front seats are fitted with dual airbags and pre-tensioned seat belts.
+
+     Modular space.  Small outside and large inside is a well-known concept in
+         the automotive industry.  The interior of the Ethos 3 EV with its 
+         smooth, uncluttered floor, can comfortably seat five passengers and a 
+         reasonable amount of cargo.
+
+The architecture of the reticular frame is made up mainly of drawn aluminum
+sections assembled together with a number of seam points (joints or nodes).  It
+creates a light cage-like structure which is extremely rigid and reliable,
+effectively protecting the passengers.  It also comprises the platform within
+which the vehicle's power system and battery pack are housed.
+
+
+
+
+
+
+
+
+         PICTURE OF THE ALUMINUM SPACE FRAME (INTERNAL STRUCTURAL COMPONENTS)
+         OF THE ETHOS 3 EV AUTOMOBILE
+
+
+
+
+
+
+
+                         Figure 3: Aluminum Space Frame
+
+
+By avoiding the use of metal stamping dies, the lead time and investment in
+platform tooling are considerably reduced.  Construction of the space frame is
+flexible and can be easily stretched into longer wheelbase configurations.  With
+appropriate fixtures, it is adaptable to crated knock down (CKD) assembly.  Most
+importantly, the light weight of aluminum (one-third less than steel) enables
+secondary weight savings with a corresponding reduction in the energy required
+to move the vehicle.
+<PAGE>
+
+The fully-integrated power system of the Ethos 3 EV is based on more than 
+fifteen years of technological development by Unique Mobility.  The system 
+represents the state-of-the-art in permanent magnet vehicle drives and is one of
+the most compact, energy efficient systems available.  A block diagram of the 
+full system is depicted in Figure 4:
+
+
+
+
+
+
+
+         SCHEMATIC BLOCK DIAGRAM OF THE OPERATING COMPONENT SYSTEMS OF THE
+         ETHOS 3 EV INCLUDING BATTERY, HVAC, BRAKE PUMP, DC/DC CONVERTER,
+         POWER INVERTER, SYSTEM CONTROLLER, USER INTERFACE AND MOTOR.
+
+
+
+
+
+
+
+ 
+                   Figure 4: Ethos 3 EV System Block Diagram 
+
+
+
+As shown in the block diagram, the vehicle power system is comprised of eight
+primary functional units, plus the heating, ventilating and air conditioning
+(HVAC) system and the brake booster pump.  At the very heart of the system is 
+the UQM  SR218H permanent magnet motor and CR40-300L controller.
+
+The Ethos 3 EV has the capability to package twelve 12 V Electrosource "Horizon"
+advanced lead acid batteries or twenty-three GM Ovonic Nickel Metal Hydride
+batteries.  The battery charger is supplied by Delco Power Systems and is 
+capable of replenishing a fully depleted battery in approximately four hours on
+a 220 VAC supply.  The DC/DC converter provides 12 V power for such accessories
+as lighting, windshield wipers, ventilation fans and audio equipment.  A 12 V 
+backup accessory battery is provided for emergency lighting.
+
+A significant development target for the Ethos 3 EV is to achieve unrestricted
+cold-weather heating and summer time cooling without emissions being generated
+or an auxiliary gas-fired heating system being required.  Because electric
+vehicles lack the conventional heat source (engine coolant), heat pumps that
+collect heat from the outside air are widely used.  An innovative dehumidifying
+heat pump system is being developed for the Ethos 3 EV by Calsonic 
+International, an affiliate of Nissan.  The system utilizes an added heat 
+exchanger that provides the dehumidification to permit enhanced vehicle warm up.
+
+The Company and Pininfarina believe that the Ethos 3 EV represents a first step
+towards a marketable electric vehicle.  It is a realistic concept that could be
+put into series production within 18 to 20 months.  This presupposes (1) the
+ready availability of a good performing battery with long-term reliability at
+reasonable cost and (2) the installation of requisite charging infrastructure in
+those areas where the vehicle is to be marketed.
+<PAGE>
+
+Because the initial market for such vehicles is likely to be small and 
+inherently high-risk, it may be economically prudent for vehicle manufacturers 
+to share investments and technologies across several markets to reduce costs.  
+The Company and Pininfarina believe the Ethos 3 EV concept lends itself to such
+commercial partnerships although no such commercial partnership has been 
+established to date.
+
+Hybrid Bus Installations
+
+The Company has developed a 25-ft. hybrid electric transit bus which it believes
+to be one of the first of its kind to become operable in North America.  The
+development was funded by a consortium consisting of Alcan Aluminium Limited, 
+the Canadian Gas Association, the Ontario Provincial Government, San Diego Gas 
+and Electric Company, Bus Industries of America, and the New York State Energy
+Research and Development Authority (NYSERDA).  The bus is powered by two UQM 
+SR218 60 kW traction motors.  The hybrid engine is a natural gas fueled 
+Chevrolet 4.3 liter V6 coupled to a third SR218 motor operating as a generator.
+The 4.3 liter engine generator provides average motive power.  Acceleration 
+is provided by 30 12V sealed lead-acid batteries.  At a curb weight of 21,540 
+pounds, vehicle performance exceeds industry White Book specifications.
+
+
+
+
+
+           PICTURE OF UQM 60 KW TRACTION DRIVE AND BRAKE ASSEMBLY
+
+
+
+
+
+
+
+             Figure 5:  UQM  60 kW Traction Drive and Brake Assembly
+
+
+The hybrid electric bus was operated as an engineering test vehicle at the
+Company's facility in Golden for approximately two years.  In October 1994, the
+Company received a contract from NYSERDA to upgrade vehicle electronics and to
+prepare the bus for leased transit service in the state of New York.  From June 
+to December 1995, the bus was made available to seven New York State transit
+operators for real-world demonstration as part of an ongoing research project by
+NYSERDA.  The demonstration sites included Albany, New York City, Ithaca, Long
+Island, Westchester County and the Buffalo/Niagra Falls area.  Each transit
+operation successfully ran the bus in its service territory, providing valuable
+operating data and rider feedback to help determine the market potential for
+hybrid electric buses of this type.
+
+The Company has entered into a cooperative effort with Neoplan to explore
+opportunities to integrate the field-tested UQM  hybrid electric propulsion
+system into Neoplan transit buses, including Neoplan's advanced carbon fiber
+composite bus.  Neoplan, an affiliate of Gottlob Auwarter GmbH (Stuttgart), is
+located in Lamar, Colorado, and is currently the only North American supplier of
+lightweight carbon fiber bus bodies.  Composite bus bodies achieve weight 
+savings of up to 30 percent when compared to conventional metal frame buses.  By
+installing the UQM  hybrid electric propulsion system in a composite-bodied bus,
+it is possible to achieve significant reductions in engine emissions as well as
+increased fuel savings, lower maintenance cost, accommodation for low floor
+configuration and compliance with overall vehicle weight standards.  Neoplan and
+the Company are presently cooperating to secure contract awards from major North
+America transit authorities for the integration of hybrid electric propulsion
+systems into both conventional and composite buses.  However, no such contract
+award has been received to date.
+<PAGE>
+
+Flywheel Energy Storage System.  The Company is participating with Ford Motor
+Company in the U.S. Department of Energy funded Hybrid Propulsion System
+Development Program.  Currently, the Company is producing an advanced prototype
+flywheel energy storage system under a cost share contract authorization from
+Ford.  Within the second quarter of fiscal 1996, the completed prototype will
+begin high speed testing.  A schematic drawing of this flywheel is shown below:
+
+                                
+               
+                                
+                                
+                                
+                                
+                                
+                                
+               
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                         
+
+                                
+                  Figure 6:  Flywheel Energy Storage System
+
+
+This flywheel design integrates the Company's permanent magnet motor/alternator
+with a polar woven composite flywheel rotor and a flex-rim hub placed within a
+hermetically sealed air-evacuated housing with only electric input and output. 
+The function of this device is to store rotational kinetic energy in the 
+flywheel rotor and supply electrical energy to the vehicle on command.  The 
+stored energy is captured from regenerative braking energy, normally 
+dissipated as heat, and reapplied for accelerative power.  Other applications 
+for flywheel energy storage systems include peak/off-peak load leveling for 
+power generating plants and uninterrupted power supplies to electric utility 
+customers who require a continuous high-quality power source.
+
+Marketing/Markets
+
+The Company's goal is to be a leading supplier of a new generation of
+intelligent, electro-mechanical products for transportation, industrial, utility
+and defense applications.  The transition to these products is being driven by
+a combination of market demand for higher performance, improved efficiency and
+by the potential to satisfy these needs with new developments made possible by
+advances in materials and electronics technologies.  To achieve its goal, the
+Company has leveraged externally-funded research and development to engineer
+products which the Company believes have multiple applications across several
+markets.
+<PAGE>
+
+Power Products.  Management believes that the Company's high efficiency, power-
+dense motors, generators and electronic controls are ideally suited for electric
+and hybrid electric cars, trucks and buses.  Industrial process equipment
+suppliers can use the Company's high-efficiency motors and drives for a wide
+range of fractional and integral horsepower applications.  These motors and
+drives are particularly well suited to high-speed spindles and machine tool
+positioning systems.  The Company's hollow-core variable speed PM motors can be
+readily adapted to provide compact, energy-efficient power for air conditioners
+and coolers.  Other PM motors can provide lightweight, space-saving power packs
+for auxiliary power units, servo systems and electro-mechanical actuators for
+many commercial, industrial and military applications.
+
+Electric Scooter.  Taiwan UQM, in which the Company has a 39 percent equity
+interest, see "Management Discussion and Analysis of Financial Condition" below,
+is planning to manufacture PM motors, controllers and related products for KYMCO
+under license from the Company.  The Taiwan Ministry of Transportation and
+Communication reported that 1995 domestic sales of gasoline powered two-wheeled
+vehicles totaled 1,088,000 units with approximately 500,000 additional units
+produced for export to the People's Republic of China.  KYMCO is Taiwan's 
+leading manufacturer of such vehicles and is its largest exporter.  Based on 
+Taiwan's mandate that two percent of all scooters sold beginning in the year
+2000 must be electric, these data suggest a base market in Taiwan of at least 
+21,760 electric scooters, with the potential of much higher levels as better 
+batteries and extended charging infrastructure become available.
+
+Additionally, the Company hopes to establish a similar joint venture or license
+of its products in India where the two and three wheeled vehicle market is
+several times greater than that of Taiwan and where the environmental push for
+clean vehicles is growing.
+
+Vehicle Systems.  The Company has teamed with Pininfarina to solicit automotive
+OEM contracts to develop complete electric and hybrid electric vehicle systems
+and to explore the commercial feasibility of producing complete vehicles and/or
+vehicle subsystems that may result from such contracts.  Neither the Company nor
+Pininfarina intend to market vehicles under their own names, respectively, but
+rather hope to engage one or more major automotive OEM partners who might wish
+to outsource part or all of the design, development and/or "badged" manufacture
+of vehicles to the Unique/Pininfarina team.  At present, there are approximately
+25 major automotive OEM groups in North America, Western Europe and Japan.  
+These OEMs, together with several newly forming companies in Asia and Eastern 
+Europe, constitute the global market for the products and services of the 
+Unique-Pininfarina team.
+
+Flywheel Energy Storage Systems.  The Company's flywheel energy storage systems
+can extend the range of electrically powered vehicles by providing surge power
+for acceleration and by recovering energy normally lost in braking.  In
+stationary applications, flywheel systems can provide uninterrupted electrical
+power to critical machines and computers during lightening strikes and other
+utility line faults.  Also, such systems can solve quality problems caused by
+modern, high-frequency switching power supplies and can provide off-peak storage
+options for reducing power generating requirements to meet peak power demands.
+<PAGE>
+
+Environmental Initiatives and Legislation
+
+The major driving force behind the commercialization of electric vehicles in the
+United States is the demand for clean urban air.  The federal government has
+responded with the Clean Air Act and other initiatives directed toward reducing
+vehicular emissions and with programs to encourage electric and hybrid electric
+vehicle development.  Some state governments, California in particular, have 
+done likewise.
+
+In 1990, California mandated that beginning in 1998, at least two percent of all
+cars and light trucks offered for sale by each automaker with annual sales in
+California of over 35,000 vehicles must be zero emission vehicles (ZEVs).  The
+proportion increases to five percent in 2001 and ten percent in 2003.  In June
+1995, the California Air Resources Board (CARB) appointed a technical advisory
+board to investigate and report on the state of EV battery development and
+commercialization to determine, in part, whether the availability of advanced
+batteries was sufficient to support the requirements of the ZEV mandates.  The
+panel's November 1995 report concluded:
+
+     low performance lead-acid and nickel cadmium batteries will be available
+     for ZEVs in 1998, but to be competitive, EVs will have to be equipped 
+     with more advanced batteries that will not be commercially available 
+     until 2000/2001.
+
+     several types of advanced high energy/high power batteries are emerging
+     with the promise of satisfying the previously announced mid-term goals 
+     ofthe government/industry sponsored U.S. Advanced Battery Consortium
+
+     commercial scale advanced battery production facilities will not occur,
+     however, until battery manufacturers receive commitments from automakers
+     for 10,000 to 40,000 battery packs per year.
+
+In December 1995, the CARB staff proposed to suspend the current mandates for
+ZEVs until the year 2003 when all automakers that sell more than 3,000 vehicles
+in California would be required to meet the ten percent ZEV requirement.  In 
+lieu of the earlier mandates, the CARB staff is proposing a voluntary "market-
+based ZEV launch" whereby the automotive industry would agree to install the 
+capacity to build a total of 5,000 ZEVs in 1996 and 1997, then 14,000 ZEVs 
+annually from 1998-2002.  Actual production within these capacity levels would 
+be governed by market demand (not by mandate) and, in some cases, ZEVs sold 
+before 2003 would receive credit toward the 2003 mandate.  The CARB proposal is
+being further developed for formal consideration in March 1996.
+
+The Company views the proposed modification of the California ZEV mandates as a
+positive step in the development of the EV industry.  While the ZEV mandates 
+were instrumental in jump starting the development of several new technologies,
+they have the potential of forcing manufacturers to offer poorly performing 
+products at prohibitive costs that, for want of a better battery, will not be 
+accepted in the marketplace.  Such a result creates an artificial market and 
+could seriously damage the ultimate acceptance of electric vehicles as a viable
+transportation alternative.
+
+The Company believes that the global market for electric and hybrid electric
+vehicles has significant potential once the issues of battery performance and
+infrastructure are resolved.  The Company further believes that Unique Mobility
+is well positioned to enter this market as the industry emerges.  For these
+reasons, management has focused on the development of next generation vehicles
+and systems rather than rushing its advanced products to a market which is 
+poorly conceived and characterized by underperforming products produced to meet
+an artificially established market driven by mandates.  In the meantime, the
+Company will direct its focus toward the newly-established Power Products
+Division in a near-term effort to tap existing markets for lightweight, energy-
+efficient small vehicle traction applications.
+<PAGE>
+
+Competition
+
+The government, automotive and industrial markets into which the Company hopes
+to introduce and market its developed products are all highly competitive and
+characterized by rapid changes due to technological improvements and
+developments.  The automotive industry, in particular, is currently being driven
+by legislation and other initiatives to advance the state-of-the-art, especially
+with respect to low emission, fuel-efficient traction drive systems.  The 
+Company is aware of efforts by many companies, including large automotive OEMs,
+to develop electric and hybrid electric vehicles.  The Company's products will
+compete with existing motor and controller technologies, many of which have a
+longer history of commercial production and use.  The Company believes its
+principal competitors in the automotive supply sector include Auxilec, Delco
+Propulsion, Hughes Electronics, Kaman Electromagnetics, SatCon Technology,
+Siemans and Westinghouse.  Principal competitors in the industrial sector 
+include Advanced DC, Emerson Electric, General Electric and Reliance Electric.
+The Company is aware of other companies, both large and small that may enter 
+the market and expects competition to intensify either though direct competition
+or via alternative technologies.
+
+Although the Company is not as well capitalized as some of its competitors and
+is more limited in terms of its facilities and personnel, its strategy is to
+compete with larger companies on the basis of technical skills, proprietary 
+know-how and its affiliation with several large and well financed strategic 
+partners. 
+
+Nevertheless, the industries served by the Company are highly competitive and a
+number of companies are involved in extensive research and development programs
+designed to address the technological challenges which the Company is seeking to
+address though its product development program.
+
+Virtually all of the Company's revenues to date have been derived in connection
+with contracts for prototype development or prototype evaluation.  As a result,
+the Company will need to develop products which address customer needs in a 
+cost-effective and timely manner.  There can be no assurance that the Company 
+will be successful in these efforts, that products developed by other companies
+will not be selected or that potential customers will purchase the Company's 
+products in a timely matter, if at all.
+
+Patents and Trademarks
+
+The Company filed a motor patent application with the U.S. Patent Office in
+December 1985, and similar applications are being prosecuted in numerous other
+countries throughout the world.  As a result of the original U.S. Application,
+U.S. Patent No. 5,004,944 was issued on April 2, 1991, containing one 
+independent claim and three dependent claims.  A Continuing Application of the 
+1985 application was field in October 1990 to pursue subject matter that was not
+allowed in the original U.S. Patent.  As a result, U.S. Patent 5,311,092 issued
+on May 10, 1994, with four independent claims and one dependent claim.  Of the
+foreign applications, a patent has been published covering thirteen European
+member countries of the European Patent Office (EPO), and an Opposition thereto
+has been resolved.  In addition, corresponding patents have been issued in
+Australia, Brazil, Canada, India, Israel, Mexico, New Zealand, South Africa and
+Taiwan.  Eight other foreign applications remain pending.
+
+In August 1989, the Company filed a separate application with the U.S. Patent
+Office to cover certain proprietary aspects of its electronic control circuitry.
+Additional claims were added by means of a Continuation in Part (CIP) filed in 
+May 1990.  In April 1992, the Company was issued U.S. Patent No. 5,107,151 as a
+result of the CIP Application.  In August 1990, an International Patent
+Application corresponding to the U.S. Application and the Continuation in Part
+was filed under the provisions of the Patent Cooperation Treaty (PCT) which
+includes the EPO, Japan and South Korea, among others.  National applications
+were also filed in eight additional countries including India, Taiwan and 
+Israel; patents have been granted in Mexico, Taiwan and Israel.  Applications 
+remain pending in India, Ireland, Japan and Korea but the EPO Application has 
+been withdrawn.
+<PAGE>
+
+In March 1990, a Continuing Application was filed to claim the method of
+constructing the motor as disclosed in U.S. Patent No. 5,004,944.  The 
+Continuing Application resulted in U.S. Patent 5,319,844 issued June 14, 1994.
+In March 1991, the Company filed an International patent Application 
+corresponding to the U.S. Application; as a result, a patent has been granted in
+Australia and there are eight applications pending in foreign countries and one
+pending application in the European Patent Office (EPO) which designates the 
+European group of countries.
+
+In September 1992, the Company filed a separate application with the U.S. Patent
+Office titled "Stator and Method of Constructing same for High Power Density
+Electric Motors and Generators" which has resulted in issuance of U.S. Patent
+5,382,859 in January 1995.  This patent embodies the Company's most recent
+enhancement to its motor technology which utilizes a segmented iron powder 
+stator ring developed specifically for brushless permanent magnet stator cores.
+A Divisional U.S. Patent Application has been filed to pursue a second invention
+disclosed in the original application.  Patent Applications in Canada, Europe,
+Japan and Korea are pending as designated in a counterpart PCT International
+Patent Application.
+
+The Company currently holds a patent issued by the United States Patent Office,
+in August 1980, which covers certain mechanical features of the ElecTrek
+automobile, principally its composite unibody structure and battery trays.  This
+patent expires in August 1997.  The Company no longer produces or markets its
+ElecTrek automobile.
+
+In July 1994, the Company filed an application in the U.S. Patent Office titled
+"Brushless DC motor using Phase Timing Advance" which embodies a low cost method
+of controlling the drive current to a motor to achieve operating characteristics
+ideal for vehicle traction drives.  This application is still pending.  In June
+1995, a counterpart PCT International Patent Application was filed.
+
+During 1994, the Company acquired the assets of Everton Developments, Ltd. of
+Birmingham, England, including all rights under PCT Application WO 92/22122
+published December 10, 1992, and patent applications filed thereunder are still
+pending in seven countries including the United States.  This technology is
+similar to that developed by the Company but is complementary to it, thus
+broadening the Company's range of products.
+
+The Company owns the trade mark "UM," which is registered with the United States
+Patent and Trademark Office and is subject to renewal in October 2000.  This
+trademark is available for use in connection with the products and publications
+of Unique.  The Company owns three U.S. Trademark Registrations for "UNIQ"
+(International Class 7 for Power Transducers, and Class 12 for Utility Land
+Vehicles and Class 16 for Publications).  The Class 12 trademark is subject to
+renewal in June 2006; the Class 7 trademark is subject to renewal in August 
+2006; and the Class 16 trademark is subject to renewal in February 2007.
+
+The Company has also initiated registration of the letters UQM and a stylized
+version thereof as its new trademark in the U.S. and 26 countries throughout the
+world.  Two U.S. Trademark Registrations and a majority of the foreign
+registrations were obtained during 1995, directed to the same trademark classes
+as for the marks "UM" and "UNIQ."  UQM is the American Stock Exchange code
+identification for the Company.  The foreign trademark registrations and
+applications include major markets where the Company is doing business or
+establishing business contacts.
+<PAGE>
+
+In November 1994, the Company and Alcan completed an assignment agreement which
+provided, among other things, that for so long as Alcan beneficially owns at
+least five percent of the Company's common stock, it shall be obligated to pay
+one-half of the patent application and maintenance fees (including reasonable
+attorney's fees related thereto) associated with the Company's PM technology in
+an amount not to exceed the aggregate amount of royalty revenue derived from the
+PM technology.
+
+The Company's future success depends, in part, on the diligent prosecution of 
+its issued and pending motor and electronic patents, as well as the filing and
+prosecution of patents on future technological advances, if any.  There can be
+no assurance that the Company will possess the financial resources necessary to
+prosecute and maintain existing applications or to pursue additional patents. 
+If the Company is not able to prosecute and maintain its existing patent
+applications, they will lapse.  There can be no assurance that the Company's
+patents will not be circumvented, invalidated or infringed, or that the Company
+will possess the financial resources to enforce its existing patents and patent
+applications in the event of an infringement.  Further, new technology may be
+developed by third parties or may already exist unknown to the Company causing
+the Company's proprietary technology to be obsolete.
+
+The Company also intends to rely on the unpatented proprietary know-how it has
+developed and now utilizes in its products.  There can be no assurance that
+others will not independently develop, acquire or obtain access to the Company's
+technology.  Although the Company protects its proprietary rights by executing
+confidentiality agreements with its management, employees and others with access
+to the Company's technology, these measures may not be adequate to protect the
+Company from disclosure or misappropriation of its proprietary information.
+
+License Agreements
+
+In January 1994, the Company entered into a Product Development and License
+Agreement with KYMCO.  This agreement provides for KYMCO to fund up to $1.25
+million of development work by the Company on an electric propulsion system for
+a purpose built motor scooter.  In December 1995, KYMCO authorized an additional
+$245,000 of supplemental funding for the scooter project.
+
+After completion of the development program, KYMCO may notify the Company that
+it wishes to proceed with the manufacture and sale of such motor scooters, in
+which case a supply agreement will be negotiated between KYMCO and Taiwan UQM. 
+In that case, the Company would grant to KYMCO a royalty free license, exclusive
+in Asia except Japan and India and non-exclusive elsewhere, to sell scooters 
+with motors and controllers manufactured by Taiwan UQM using the Company's 
+technology. The Company would similarly license its technology to Taiwan UQM for
+its manufacture of motors and controllers for scooters.
+
+The Company and Alcan have entered into an agreement (Assignment Agreement) 
+which supersedes a previous License Agreement in its entirety.  The Assignment
+Agreement shall remain in effect until all patents issued or applied for or with
+a priority date prior to December 31, 1992, have either lapsed, expired or
+otherwise terminated.  Pursuant to the Assignment Agreement, Alcan assigned to
+the Company all of its rights, title and interests in all technology developed,
+prior to the date of the Assignment Agreement, by or on behalf of Alcan pursuant
+to written contracts between Alcan and the Company.
+<PAGE>
+
+The Assignment Agreement further provides that Unique shall pay to Alcan
+royalties on revenue derived from the manufacture and sale of products or
+processes embodying PM technology subject to reduction for patent expense
+offsets, if any.
+
+The Company has agreed to diligently prosecute its patents in the United States,
+Canada, the European Patent Office countries and such other countries as may be
+agreed upon by the parties.  For so long as Alcan beneficially owns at least 
+five percent of the Company's common stock, it shall be obligated to pay one-
+half of the patent application and maintenance fees (including reasonable 
+attorney's fees related thereto) associated with the PM technology in an 
+amount not to exceed the aggregate amount of royalty revenue derived from the PM
+technology during the year.  Each party has the right, but not the obligation, 
+to bring legal action against third party infringements.
+
+Manufacturing
+
+To date, the Company has manufactured all of its products at its facility in
+Golden, Colorado.  The Company anticipates investing in manufacturing equipment
+to further develop the manufacturing capacity at this facility.  If the Company
+is successful in marketing its products, the Company will be required to deliver
+large volumes of quality products or components to its customers on a timely
+basis at reasonable costs to the Company.  The Company has no experience in
+delivering large volumes of its products and does not currently have the 
+capacity to meet high volume production requirements, although the Company 
+believes additional manufacturing space and equipment is readily available and 
+that the Company will be able to hire talented personnel with experience in 
+manufacturing hardware and software products.
+
+Backlog
+
+At October 31, 1995, the Company had unperformed service contracts from 
+customers which will provide payments to the Company upon completion aggregating
+approximately $637,000.  All such contracts are subject to amendment,
+modification or cancellation.
+
+In addition, the Company had an order backlog for motors and electronic controls
+at October 31, 1995, with an aggregate sales value of $14,000.
+
+Customers and Suppliers
+
+A significant portion of the Company's revenue for the fiscal year ended October
+31, 1995, was derived from three customers.  Revenue of $3,258,097 or 81 percent
+of contract services revenue was derived from these customers.
+
+Principal raw materials purchased by the Company include iron, steel, copper
+wire, neodymium boron iron alloy, fiberglass and epoxy resins.  All of the above
+items are available from several suppliers and the Company generally relies on
+more than one for each item.  Principal purchased products include power
+electronic switching devices and magnet material which are available from 
+several suppliers.
+
+US Government Contracts
+
+For the year ended October 31, 1995, $2,478,350 or 62 percent of the Company's
+contract service revenue was derived from contracts with agencies of the U.S.
+Government and from subcontracts with U.S. Government prime contractors.
+<PAGE>
+
+Substantially, all of the Company's business with the U.S. Government in fiscal
+1995 was performed under cost plus fixed fee contracts which provide for
+reimbursement of costs, to the extent allocable and allowable under applicable
+regulations, and payment of a fee.  The Company's contract with Ford and the 
+U.S. Government provides for the reimbursement of costs on a 50 percent cost 
+sharing basis based on not-to-exceed billing rates negotiated between the 
+Company and  the U.S. Government.  On firm fixed price contracts, the Company 
+can incur an actual loss in the performance thereof if unreimbursable costs 
+exceed the fixed fee.  All U.S. Government contracts with the Company are 
+subject to modification or cancellation at the convenience of the Government.
+
+Employees
+
+As of October 31, 1995, the Company had 33 full-time employees.  The Company
+entered into employment contacts with its four executive officers which expire
+in December 1996.  None of the company's employees are covered by a collective
+bargaining agreement.  The Company's management believes that its relationship
+with its employees has been generally satisfactory.
+
+In addition to its full-time staff, the company from time to time engages the
+services of outside consultants and contract labor to meet peak workload or
+specialized program requirements.  The Company does not anticipate any 
+difficulty in locating additional qualified professional engineers and 
+technicians if so required to meet expanded research and development activities.
+<PAGE>
+
+ITEM 2.   PROPERTIES
+
+Facilities
+
+The Company leases a 40,000 square foot office/laboratory/warehouse building in
+Golden, Colorado, from a limited liability company of which the Company and an
+investor are equal owners.  The Company has entered into a ten-year lease of the
+building at $21,667 per month with an option for an additional five years at the
+then market rate.  The Company is required to pay all taxes, maintenance and
+insurance.  The Company currently subleases 10,000 square feet of this space at
+a lease rate of $7,001 per month.
+
+The Company owns a ten-acre unimproved tract near Castle Rock, Colorado.  The
+Company also owns the basic tools and equipment, including computer hardware and
+software, necessary for the conduct of its limited production, research and
+development and vehicle prototyping activities.
+
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+There is no material litigation with respect to which the Company is a party.
+
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+There were no matters submitted for vote by security holders of the Company
+during the fourth quarter of fiscal 1995.
+<PAGE>
+
+ITEM 5.   MARKET PRICE OF COMMON STOCK
+
+Since May 21, 1993, the Company's common stock has been traded on the American
+Stock Exchange (Primary List).  From March 18, 1992, to May 21, 1993, the
+Company's common stock traded on the American Stock Exchange (Emerging Company
+Marketplace).  In addition, the Company's common stock has traded on the Boston
+Stock Exchange since October 1991.  The high and low closing prices, by fiscal
+quarter, as reported by the American Stock Exchange for the last three years are
+as follows:
+
+1995                                       High           Low
+Fourth Quarter . . . . . . . . . . . . . . $5.38         $3.63
+Third Quarter. . . . . . . . . . . . . . . $5.56         $3.83
+Second Quarter . . . . . . . . . . . . . . $5.63         $3.75
+First Quarter. . . . . . . . . . . . . . . $5.75         $4.75
+
+1994
+Fourth Quarter . . . . . . . . . . . . . . $7.00         $4.88
+Third Quarter. . . . . . . . . . . . . . . $6.88         $4.88
+Second Quarter . . . . . . . . . . . . . . $7.88         $5.75
+First Quarter. . . . . . . . . . . . . . . $8.63         $7.00
+
+1993
+Fourth Quarter . . . . . . . . . . . . . . $8.88         $5.50
+Third Quarter. . . . . . . . . . . . . . . $7.00         $5.63
+Second Quarter . . . . . . . . . . . . . . $7.88         $5.88
+First Quarter. . . . . . . . . . . . . . . $9.13         $4.00
+
+On January 24, 1996, the closing price of the common stock as reported on the
+American Stock Exchange was $3.69 per share and there were 924 holders of record
+of the common stock.
+
+The Company has not paid any cash dividends on its common stock since inception
+and intends for the foreseeable future to retain any earnings to finance the
+growth of its business.  Future dividend policy will be determined by the Board
+of Directors of the Company based upon consideration of the Company's earnings,
+capital needs and other factors then relevant.
+<PAGE>
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+<TABLE>
+                             Unique Mobility, Inc.
+                      Consolidated Selected Financial Data
+<CAPTION>                                
+
+                          1995                1994                1993                1992                1991
+<S>                  <C>                 <C>                 <C>                 <C>                 <C>
+Contract services
+revenue               $ 4,011,951           1,643,203           1,461,568           2,306,070           3,093,117 
+
+Product sales          $   701,700             708,917             695,300             468,508             324,798 
+
+Operating loss         $(1,154,338)         (3,367,873)         (2,446,574)         (2,240,170)           (671,034)
+
+Net loss               $(1,330,433)         (3,395,356)         (2,473,804)         (2,217,207)           (606,735)
+
+Net loss per                       
+common share           $    (.13)               (.35)               (.28)               (.33)               (.13)  
+
+Total assets           $ 7,678,599           5,903,551           7,791,826           4,700,507           3,301,187 
+
+Long-term                          
+obligations            $   807,003             886,996             921,758           2,161,376               -0-   
+
+Cash dividend
+declared per 
+common share           $     -0-                 -0-                 -0-                 -0-                 -0-   
+</TABLE>
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+          RESULTS OF OPERATIONS
+
+Financial Condition
+
+The Company experienced growth in its contract services business and as a result
+reported increased revenue and lower levels of operating losses for fiscal 1995.
+The growth in contract services revenue was primarily attributable to the
+Company's participation in the U.S. Department of Energy-sponsored  Hybrid
+Propulsion System Development Program with Ford Motor Company.  
+
+During the second half of fiscal 1995, the Company completed an offering of its
+common stock under Regulation S.  Proceeds to the Company net of offering
+expenses amounted to $1,950,554.  As a result, the Company's cash balances at
+fiscal 1995 year end improved compared to the prior fiscal year end balances. 
+At October 31, 1995, cash on hand and certificates of deposit were $2,115,499
+compared to $1,620,115 at October 31, 1994.  Working capital (current assets
+minus current liabilities) declined to $1,193,000 versus $2,061,612 reflecting
+short-term borrowings to meet the Company's capital contributions to Taiwan UQM.
+
+In fiscal 1996, the Company intends to launch expanded manufacturing operations
+at its Golden, Colorado facility, continue the development of the Ethos 3 EV
+demonstration vehicle in collaboration with Pininfarina and make additional
+investments in its joint venture with KYMCO.  The Company does not currently
+possess the financial resources to fully fund these activities.  See "Liquidity
+and Capital Resources" below.
+<PAGE>
+
+Accounts receivable declined to $337,849 at October 31, 1995 compared to 
+$405,403 at the end of fiscal 1994 reflecting accelerated collections on 
+engineering contracts through the utilization of progress payment provisions on
+substantially all of the Company's contracts.
+
+Costs and estimated earnings on uncompleted contracts declined $93,669 to
+$262,414 at fiscal 1995 year end from the fiscal 1994 year end level of 
+$356,083. This decline was due to accelerated billing under the progress payment
+provisions of the Company's contracts and lower levels of sponsored development
+activities for Ford Motor Company during the fourth quarter of fiscal 1995.
+
+Inventories declined to $404,701 at fiscal 1995 year end compared to the prior
+year end level of $475,151.  Raw material and work in process inventories
+declined modestly while finished products inventories accounted for $46,688 of
+the decrease.  The decline in finished goods inventories is attributable to 
+lower stocking levels of product inventories.
+
+Prepaid expenses were $35,397 at October 31, 1995, a decrease of $29,280 from 
+the fiscal 1994 year end level.  The decrease is due to prepayments of trademark
+application costs and construction costs during fiscal 1994, which were not of
+a recurring nature.
+
+The Company invested $440,079 for the acquisition of property and equipment
+during fiscal 1995.  Of this amount, $135,000 was expended for the acquisition
+of the hybrid electric Orion II transit bus which was collaboratively developed
+by the Company and a funding consortium of companies. Following its acquisition,
+the bus was leased to NYSERDA and placed in service with various transit
+operators throughout the State of New York.  The Company expects to invest
+additional amounts of capital for machinery and equipment in fiscal 1996
+coincident to the launch of volume manufacturing operations.  See also 
+"Liquidity and Capital Resources" below.
+
+Patent and trademark costs, net of accumulated amortization, increased $56,270
+over the prior year level reflecting patent application costs associated with
+technology acquired from Everton Developments, Ltd. and trademark application
+costs arising from the registration of the mark UQM in the United States and
+various industrial countries around the world.  
+
+Other assets decreased to $27,831 at October 31, 1995 from $46,235 due to the
+sale of marketable securities previously held for investment.
+
+Accounts payable declined $132,831 to $83,859 at the end of fiscal 1995 from
+$216,690 at the end of fiscal 1994 due to the acceleration of payments to 
+vendors on commercial trade accounts and an overall reduction in the Company's 
+operating cost base during the fourth quarter.
+
+Other current liabilities declined to $464,186 at October 31, 1995, from 
+$532,058 at October 31, 1994.  The decrease is generally due to lower levels of
+accrued legal and accounting fees ($54,643) and lower levels of accrued payroll,
+consulting, personal property and real estate taxes ($102,793) which were
+partially offset by an increase in accrued interest expense($86,713) arising 
+from borrowings from KYMCO.
+
+Note payable increased to $1,403,493 at October 31, 1995 reflecting amounts due
+to KYMCO pursuant to a waiver and option agreement.  Pursuant to the agreement
+KYMCO will fund the Company's capital call obligations to Taiwan UQM under the
+joint venture agreement between the Company, KYMCO and TLT arising prior to
+December 31, 1995.
+<PAGE>
+
+Billings in excess of costs and estimated earnings on uncompleted contracts
+decreased to zero at fiscal 1995 year end from $137,247 at the end of fiscal
+1994.  At the end of fiscal 1995, no customers were billed in advance of the
+performance of the associated work on sponsored development programs.   
+
+Current portion of long-term debt rose $41,425 to $81,525 at October 31, 1995,
+due to increased levels of debt associated with lease financing activities 
+conducted by the Company's wholly owned subsidiary UQM Leasing, Inc.
+
+Long-term debt declined $79,993 during fiscal 1995 due to scheduled principal
+payments and a principal prepayment of $70,000 on the mortgage debt associated
+with the Company's facilities.
+
+Common stock and additional paid-in capital increased to $105,720 and 
+$18,887,886 at October 31, 1995, respectively, compared to $99,255 and 
+$16,790,995 at October 31, 1994. The increase is primarily attributable to a 
+sale of the Company's common stock and the acquisition of common stock upon the
+exercise of stock options by employees and consultants which resulted in 
+aggregate cash proceeds to the Company, net of expenses, of $2,028,700.
+
+Results of Operations
+
+Operations for the year ended October 31, 1995 resulted in a net loss of
+$1,330,433 or $0.13 per share compared to a net loss of $3,395,356 or $0.35 per
+share for the year ended October 31, 1994, and a net loss of $2,473,804 or $0.28
+per share for the year ended October 31, 1993.
+
+Revenue derived from contract services for fiscal 1995 rose over two-fold to
+$4,011,951 from the fiscal 1994 level of $1,643,203 and the fiscal 1993 level of
+$1,461,568.  Sales of UQM products remained flat in fiscal 1995 at $701,700
+compared to the fiscal 1994 and 1993 levels of $708,917 and $695,300,
+respectively.  The increase in revenue from contract services is primarily
+attributable to U.S. Department of Energy-sponsored work performed for Ford 
+Motor Company. During the fourth quarter of fiscal 1995, the Company, in 
+consultation with Ford, reduced its cost-share participation in the program.
+The flywheel development activity, which constitutes the only ongoing work under
+the Ford program, is expected to be completed during the third quarter fiscal 
+1996. The Company's reduced participation in the Ford program was designed to 
+lower its cost-share obligations and focus the Company's research and 
+development activities to areas of nearer rather than longer term application of
+developed technologies.  Total revenue for the fourth quarter of fiscal 1995 
+declined to $523,818 compared to total revenues of $1,629,819 for the third 
+quarter of fiscal 1995 as a result of these decisions.  Revenues from the Ford 
+program constituted 24.1 percent and 36.6 percent of total revenue for the 
+fourth quarter and fiscal 1995, respectively. 
+
+Gross profit margins for fiscal 1995 rose to 31.4 percent versus 14.3 percent 
+for fiscal 1994 and 15.3 percent in fiscal 1993. The increase in gross profit 
+margins is primarily attributable to increased absorption of overhead costs 
+resulting from higher levels of contract services revenue.
+
+Research and development expenditures declined to $1,292,803 for the year ended
+October 31, 1995, from $2,088,317 for the year ended October 31, 1994, and
+$1,443,631 for the year ended October 31, 1993.  The decline is due to revenue
+arising from the contract with Ford which offset, in part, internally funded
+research activities.
+
+General and administrative costs decreased to $972,410 for fiscal 1995 versus
+$1,331,532 and $1,095,420 for fiscal 1994 and 1993, respectively.  The decrease
+results from lower levels of legal and business development expenditures and
+reduced staffing of administrative and marketing functions during fiscal 1995.
+<PAGE>
+
+Depreciation and amortization expense increased $74,795 during fiscal 1995 to
+$346,567 reflecting increased levels of amortization associated with the 
+issuance of patents covering the Company's proprietary technologies and higher 
+levels of depreciable assets, generally.
+
+Royalty expense was $23,423 for the year ended October 31, 1995, versus $11,458
+and $39,272 for the years ended October 31, 1994 and 1993 respectively.  Royalty
+expense was lower in fiscal 1994 and 1995 due to completion of an assignment
+agreement with Alcan which reduced the Company's royalty obligation.
+
+Liquidity and Capital Resources
+
+The Company's cash balances and liquidity throughout fiscal 1995 were adequate
+to meet operating needs.  Cash used by operations and for the purchase of 
+capital assets declined during fiscal 1995 compared to the fiscal 1994 and 1993
+levels.  Cash flows from financing activities rose during fiscal 1995 compared 
+to fiscal 1994. This increase is primarily attributable to the completion of an
+offering of the Company's common stock under Regulation S.  The offering, which
+was completed during the fourth quarter of fiscal 1995, resulted in the sale of
+581,111 shares of common stock at $3.60 per share.  Proceeds to the company, net
+of offering expenses, was $1,950,554. Principally as a result of these 
+activities cash and cash equivalents increased to $1,796,392 at October 31,
+1995, compared to $1,201,008 at October 31, 1994.  Working capital (current 
+assets minus current liabilities ) declined to $1,193,000 versus $2,061,612 
+primarily as a result of short-term borrowings to meet the Company's capital
+contributions to Taiwan UQM.
+
+During the fourth quarter of fiscal 1995, the Company established a new business
+unit to commercialize low voltage traction drives and reduced its participation
+in the Ford research program.  As a result, the Company has redirected personnel
+and financial resources toward the launch of the Power Products business unit.
+Management expects the near term impact of its reduced participation in the Ford
+program to result in lower levels of contract services revenue in fiscal 1996 
+and a corresponding reduction in the cost of those revenues.  The launch of the
+Power Products business unit is expected to result in operating losses which 
+will be financed in part from the proceeds of the 1995 offering.  Management 
+believes the Company currently possesses sufficient cash to fund its domestic 
+operations for a period of at least twelve months.  However, additional capital
+will be required to fully implement the Company's participation in its Taiwanese
+joint venture and commercialization of the Ethos 3 EV.
+
+In January 1996, the Company sold to Invacare Corporation 129,032 shares of the
+Company's common stock at a price of $3.88 per share.  Net proceeds to the
+Company were $500,000, the use of which is restricted principally to certain
+design and production activities.  Contingent upon the achievement of certain
+conditions, Invacare has agreed to make an additional investment in the Company
+through the purchase of common stock at market price.  The additional investment
+will be in the approximate amount of 50 percent of the mutually agreed
+investments to be made by the Company for production tooling, equipment and
+product launching costs required to be made by the Company for the manufacture
+of products to be sold to Invacare. The Company does not currently possess the
+financial resources to fund its 50 percent share of the costs to launch
+production for Invacare; however management believes that it can acquire the
+capital required to meet its obligations pursuant to the agreement through
+commercial debt or lease financing, although it currently has no commitment for
+such financing.
+<PAGE>
+
+On January 29, 1994 the Company, KYMCO and TLT entered into a joint venture
+agreement providing for the formation, funding and operation of Taiwan UQM, a
+company organized under the laws of the Republic of China.  Taiwan UQM was
+incorporated in April 1995.
+
+Under the initial provisions of the joint venture agreement the Company 
+purchased 39 percent of the initial capital of Taiwan UQM for $45,082 and agreed
+to invest 39 percent of any additional capital calls.  Pursuant to the joint 
+venture agreement, the venturers are required to invest additional funds in 
+Taiwan UQM as the board of directors of Taiwan UQM by unanimous vote determines
+to be required.
+
+During 1995, the Company was unable to make payments for additional capital call
+obligations under the joint venture agreement.  The Company, KYMCO and TLT
+entered into a waiver and option agreement on June 12, 1995, whereby KYMCO 
+agreed to first purchase those shares of Taiwan UQM underlying the Company's 
+additional capital call obligations in the amount of $1,403,493.  Under the 
+waiver and option agreement the Company has the option to repurchase these 
+shares from KYMCO for the additional capital call amount plus interest at 10 
+percent per annum. 
+
+It is the intent of management to repurchase the shares and maintain the
+Company's equity interest in Taiwan UQM at 39 percent.  The purchase by KYMCO of
+the shares related to the Company's additional capital call obligations has been
+accounted for as a financing arrangement.  Accordingly, for financial reporting
+purposes, as of October 31, 1995, the Company has recorded $1,403,493 as an
+addition to its investment in joint venture and as a note payable to joint
+venture.  The Company does not currently possess the financial resources to meet
+this obligation on a timely basis, although the Company intends to do so if
+capital becomes available on terms acceptable to the Company.  Accordingly, the
+Company plans to seek an extension of the May 31, 1996 payment date to December
+31, 1996.  However, there can be no assurance that such date can be extended, or
+that if it is extended, that the Company will then possess the financial
+resources to maintain its ownership interest in Taiwan UQM at 39 percent.  
+Should the Company not meet its  obligations under the joint venture agreement
+and the waiver and option agreement, Taiwan UQM would nevertheless be obligated
+to obtain a royalty-bearing license from the Company in order to gain 
+manufacturing rights to the Company's proprietary technologies.
+
+The Company may require additional capital beyond that discussed above to
+complete its long-term business plan.  The Company hopes to meet future capital
+requirements through the issuance of equity or debt securities or a combination
+of both, although there can be no assurance that such financing can be 
+arranged.   In the event the Company is unwilling or unable to arrange such 
+financing, management would defer, abandon or modify implementation of the 
+Company's business plan.  In addition, the Company plans to continue to pursue 
+the commercialization of its proprietary technologies directly, if financing 
+can be obtained or, if financing cannot be obtained or is deemed to be too 
+costly, indirectly by means of strategic alliances or licensing arrangements 
+with leading companies in the field.
+
+New Accounting Standards.  Statement of Financial Accounting Standards No. 121,
+Accounting for the Impairment of Long-Lived Assets to Be Disposed Of (SFAS 121)
+was issued in March 1995 by the Financial Accounting Standards Board.  It
+requires that long-lived assets and certain identifiable intangibles to be held
+and used by an entity be reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount of an asset may not be
+recoverable.  SFAS 121 is required to be adopted for fiscal years beginning 
+after December 15, 1995.  Adopting this statement by the Company is not expected
+to have a significant effect on the consolidated financial statements.
+<PAGE>
+
+Statement of Financial Accounting Standards No. 123, Accounting for Stock-Based
+Compensation (SFAS 123) was issued by the Financial Accounting Standards Board
+in October 1995.  SFAS 123 establishes financial accounting and reporting
+standards for stock-based employee compensation plans as well as transactions in
+which an entity issues its equity instruments to acquire goods or services from
+non-employees.  This statement defines a fair value based method of accounting
+for all of their employee stock compensation plans.  However, it also allows an
+entity to continue to measure compensation costs for those plans using the
+intrinsic value based method of accounting prescribed by APB Opinion No. 25,
+Accounting for Stock Issued to Employees.  Entities electing to remain with the
+accounting in Opinion 25 must make proforma disclosures of net income and, if
+presented, earnings per share, as if the fair value based method of accounting
+defined by SFAS 123 had been applied.  SFAS 123 is applicable to fiscal years
+beginning after December 15, 1995.  The Company currently accounts for its 
+equity instruments using the accounting prescribed by Opinion 25.  The Company 
+does not currently expect to adopt the accounting prescribed by SFAS 123; 
+however, the Company will include the disclosures required by SFAS 123 in future
+consolidated financial statements.
+<PAGE>
+
+ITEM 8.  Financial Statements 
+
+                           Independent Auditors' Report
+
+The Board of Directors and Stockholders
+Unique Mobility, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Unique Mobility,
+Inc. and subsidiaries as of October 31, 1995 and 1994, and the related 
+consolidated statements of operations, stockholders' equity, and cash flows for
+each of the years in the three-year period ended October 31, 1995.  These 
+consolidated financial statements are the responsibility of the Company's 
+management. 
+
+Our responsibility is to express an opinion on these consolidated financial 
+statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements.  An audit 
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement 
+presentation.  We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Unique Mobility, 
+Inc. and subsidiaries as of October 31, 1995 and 1994, and the results of their
+operations and their cash flows for each of the years in the three-year 
+period ended October 31, 1995 in conformity with generally accepted accounting 
+principles.
+
+
+
+                               "KPMG Peat Marwick LLP"
+                                KPMG Peat Marwick LLP
+
+
+Denver, Colorado
+December 22, 1995
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Consolidated Balance Sheets
+
+October 31, 1995 and 1994
+                                                                        
+
+
+Assets                                                  1995           1994
+
+Current assets:
+  Cash and cash equivalents                        $ 1,796,392       1,201,008
+  Certificates of deposit                              319,107         419,107
+  Accounts receivable (notes 5 and 10)                 337,849         405,403
+  Costs and estimated earnings in excess of
+    billings on uncompleted contracts                  262,414         356,083
+  Inventories                                          404,701         475,151
+  Prepaid expenses                                      35,397          64,677
+  Other current assets                                  70,203          66,278
+
+       Total current assets                          3,226,063       2,987,707
+
+
+Property and equipment, at cost:
+  Land (notes 2 and 5)                                 335,500         335,500
+  Building (notes 2 and 5)                           1,364,500       1,364,500
+  Molds                                                102,113         102,113
+  Transportation equipment                             251,175         116,175
+  Machinery and equipment                            1,763,818       1,458,739
+                                                     3,817,106       3,377,027
+ Less accumulated depreciation                      (1,275,530)       (942,736)
+
+       Net property and equipment                    2,541,576       2,434,291
+
+
+Investment in Taiwan joint venture (note 3)          1,432,735          41,194
+
+Patent and trademark costs, net of
+  accumulated amortization of $25,491
+  and $16,995 (note 9)                                 450,394         394,124
+
+Other assets                                            27,831          46,235
+
+                                                   $ 7,678,599       5,903,551
+
+                                                              (Continued)
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Consolidated Balance Sheets, Continued
+                                                                         
+
+
+Liabilities and Stockholders' Equity                   1995             1994
+
+Current liabilities:
+  Accounts payable                               $     83,859          216,690
+  Other current liabilities (note 4)                  464,186          532,058
+  Note payable to Taiwan joint venture
+    participant (note 3)                            1,403,493
+  Current portion of long-term debt (note 5)           81,525           40,100
+  Billings in excess of costs and estimated
+    earnings on uncompleted contracts                                  137,247
+
+       Total current liabilities                    2,033,063          926,095
+
+
+Long-term debt, less current portion (note 5)         807,003          886,996
+
+
+       Total liabilities                            2,840,066        1,813,091
+
+
+Minority interest in consolidated
+  subsidiary (note 2)                                 389,065          391,785
+
+
+Stockholders' equity (notes 7 and 8):
+  Common stock, $.01 par value, 50,000,000
+    shares authorized; 10,571,953 and
+    9,925,545 shares issued                           105,720           99,255
+  Additional paid-in capital                       18,887,886       16,790,995
+  Accumulated deficit                             (14,426,536)     (13,096,103)
+                                                    4,567,070        3,794,147
+  Less cost of 37,341 and 31,976 shares
+    of treasury stock                                 117,602           95,472
+
+       Total stockholders' equity                   4,449,468        3,698,675
+
+Commitment (note 3)
+
+                                                 $  7,678,599        5,903,551
+
+
+See accompanying notes to consolidated financial statements.
+<PAGE>
+<TABLE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Consolidated Statements of Operations
+
+Years Ended October 31, 1995, 1994 and 1993
+                                                                   
+<CAPTION>
+
+                                                       1995            1994            1993
+<S>                                               <C>              <C>             <C>
+Revenue:
+  Contract services (note 10)                     $  4,011,951       1,643,203       1,461,568
+  Product sales                                        701,700         708,917         695,300
+                                                     4,713,651       2,352,120       2,156,868
+
+Operating costs and expenses:
+  Costs of revenue                                   3,232,786       2,016,914       1,827,130
+  Research and development                           1,292,803       2,088,317       1,443,631
+  General and administrative                           972,410       1,331,532       1,095,420
+  Depreciation and amortization                        346,567         271,772         197,989
+  Royalty                                               23,423          11,458          39,272
+                                                     5,867,989       5,719,993       4,603,442
+
+     Operating loss                                 (1,154,338)     (3,367,873)     (2,446,574)
+
+
+Other income (expense):
+  Minority interest share of earnings of
+    consolidated subsidiary                            (64,627)        (69,517)        (67,810)
+  Interest income                                       50,890          98,228         145,783
+  Interest expense                                    (177,051)        (73,813)       (105,735)
+  Equity in loss of Taiwan joint venture               (11,952)         (3,888)
+  Other                                                 26,645          21,507             532
+
+     Net loss                                     $ (1,330,433)     (3,395,356)     (2,473,804)
+
+     Net loss per common share                         $(.13)           (.35)           (.28)
+
+Weighted average number of shares of common
+  stock outstanding                                 10,090,778       9,763,391       8,881,643
+
+
+See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+<TABLE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Consolidated Statements of Stockholders' Equity
+
+Years Ended October 31, 1995, 1994 and 1993                                                                                       
+<CAPTION>
+
+                                                  Number of
+                                                   common                  Additional                                 Total
+                                                   shares      common       paid-in      Accumulated    Treasury   Stockholders'
+                                                   issued       stock        capital       deficit        stock       equity
+<S>                                             <C>         <C>          <C>            <C>            <C>         <C> 
+Balances at October 31, 1992                      7,211,784  $  72,118      8,789,076     (7,226,943)    (41,823)    1,592,428
+Issuance of common stock, net of offering
+  costs of $744,923                               1,000,000     10,000      4,245,077                                4,255,077
+Issuance of common stock upon
+  conversion of debenture and accrued
+  interest thereon                                  666,666      6,667      1,193,333                                1,200,000
+Issuance of common stock upon exercise
+  of underwriters' overallotment option             150,000      1,500        651,000                                  652,500
+Issuance of common stock upon exercise
+  of Alcan preemptive right (note 7)                 49,675        497         53,661                                   54,158
+Issuance of common stock upon exercise
+  of underwriter warrants                           120,000      1,200        278,400                                  279,600
+Issuance of common stock upon exercise
+  of employee options                               257,637      2,576        324,359                                  326,935
+Issuance of common stock under
+  employee stock purchase plan                        5,623         56         22,299                                   22,355
+Net loss                                                                                  (2,473,804)               (2,473,804)
+
+Balances at October 31, 1993                      9,461,385     94,614     15,557,205     (9,700,747)    (41,823)    5,909,249
+
+Issuance of common stock upon exercise
+  of Alcan preemptive right (note 7)                111,395      1,114        199,397                                  200,511
+Issuance of common stock upon exercise
+  of underwriter warrants                            20,000        200         46,400                                   46,600
+Issuance of common stock upon exercise
+  of employee options                               325,133      3,251        936,996                    (53,649)      886,598
+Issuance of common stock for directors'
+  compensation                                        6,000         60         42,490                                   42,550
+Issuance of common stock under
+  employee stock purchase plan                        1,632         16          8,507                                    8,523
+Net loss                                                                                  (3,395,356)               (3,395,356)
+
+Balances at October 31, 1994                      9,925,545     99,255     16,790,995    (13,096,103)    (95,472)    3,698,675
+
+Issuance of common stock, net of offering
+  costs of $141,446                                 581,111      5,812      1,944,742                                1,950,554
+Issuance of common stock upon exercise
+  of employee options                                64,786        648         99,628                    (22,130)       78,146
+Issuance of common stock under
+  employee stock purchase plan                          511          5          2,521                                    2,526
+Issuance of warrants for services                                              50,000                                   50,000
+Net loss                                                                                  (1,330,433)               (1,330,433)
+
+Balances at October 31, 1995                     10,571,953  $ 105,720     18,887,886    (14,426,536)  (117,602)  4,449,468
+
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+<PAGE>
+<TABLE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Consolidated Statements of Cash Flows
+
+Years Ended October 31, 1995, 1994 and 1993
+                                                                
+<CAPTION>
+
+                                                      1995             1994            1993
+<S>                                             <C>              <C>              <C>        
+Cash flows from operating activities:
+  Net loss                                        $(1,330,433)      (3,395,356)     (2,473,804)
+  Adjustments to reconcile net loss to
+    net cash used by operating activities:
+      Depreciation and amortization                   346,567          271,772         197,989
+      Minority interest share of earnings of
+        consolidated subsidiary, net of cash
+        distributions                                  (2,720)           8,904           7,810
+      Noncash compensation expense for
+        common stock and warrants issued for
+        services                                       12,500           80,050
+      Equity in loss of Taiwan joint venture           11,952            3,888
+      Gain on sale of investments                      (3,534)
+      Change in operating assets and liabilities:
+         Accounts receivable and costs and
+           estimated earnings in excess of
+           billings on uncompleted contracts          161,223           28,995        (329,791)
+       Inventories                                     70,450           52,215        (259,515)
+       Prepaid expenses and other current
+         assets                                        25,355            9,933         (47,923)
+       Billings in excess of costs and estimated
+         earnings on uncompleted contracts           (137,247)          74,060          63,187
+       Accounts payable and other current
+         liabilities                                 (163,203)         238,712           2,715
+       Other                                             (466)          35,919          (8,513)
+
+          Net cash used by operating activities    (1,009,556)      (2,590,908)     (2,847,845)
+
+
+Cash used by investing activities:
+   Acquisition of property and equipment             (440,079)        (413,907)       (373,482)
+  Increase in patent and trademark costs              (64,766)        (131,652)       (129,644)
+  Investment in Taiwan joint venture                                   (45,082)
+  Purchase of certificates of deposit and 
+    other investments                                                                 (423,447)
+  Proceeds from sale of certificates of 
+    deposit and other investments                     117,127                          314,479
+
+         Net cash used by investing activities       (387,718)        (590,641)       (612,094)
+</TABLE>
+
+                                                              (Continued)
+<PAGE>                                                                         
+<TABLE>
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+                                                                              
+Consolidated Statements of Cash Flows, Continued
+                                                                            
+<CAPTION>                                                                          
+
+                                                      1995              1994            1993
+<S>                                             <C>              <C>             <C>         
+Cash flows provided by financing activities:
+  Proceeds from borrowings                       $   212,337
+  Repayment of debt                                 (250,905)          (36,077)        (36,827)
+  Proceeds from sale of common stock, net          1,950,554                         4,255,077
+  Issuance of common stock upon exercise of
+    underwriters' over allotment option                                                652,500
+  Issuance of common stock upon exercise
+    of employee options                               78,146           886,598         326,935
+  Issuance of common stock upon exercise of
+    underwriter warrants                                                46,600         279,600
+  Issuance of common stock upon exercise of
+    Alcan preemptive right                                             200,511          54,158
+  Issuance of common stock under employee stock
+    purchase plan                                      2,526             8,523          22,355
+
+        Net cash provided by financing
+          activities                               1,992,658         1,106,155       5,553,798
+
+        Increase (decrease) in cash and cash
+          equivalents                                595,384        (2,075,394)      2,093,859
+
+Cash and cash equivalents at beginning of year     1,201,008         3,276,402       1,182,543
+
+Cash and cash equivalents at end of year         $ 1,796,392         1,201,008       3,276,402
+
+</TABLE>
+Supplemental disclosures to the consolidated statements of cash flows:
+
+  Cash paid for interest was $89,133, $72,638 and $113,735 in 1995, 1994 and
+    1993, respectively.
+         
+  In 1995, the Company financed its additional investment in the Taiwan 
+    joint venture through the issuance of a note payable in the amount of 
+    $1,403,493 (see note 3).
+        
+  In accordance with the provisions of the Company's stock option plans, the
+    Company accepts as payment of the exercise price, shares of the 
+    Company's common stock held by the option holder prior to the date of 
+    the option exercise.  The shares received are recorded at cost as 
+    treasury stock. 
+         
+  In fiscal 1995 and 1994 the Company issued 32,130 and 24,364 shares of 
+    common stock with an exercise price of $22,130 and $53,649, 
+    respectively, for which the Company received 5,365 and 6,813 shares
+    of common stock.
+         
+  During 1993, the Company issued 666,666 shares of common stock upon the 
+    conversion of its 8% secured convertible term notes in  the amount of 
+    $1,200,000.
+         
+
+See accompanying notes to consolidated financial statements.
+
+<PAGE>
+
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements
+
+October 31, 1994 and 1993
+                                                                
+
+(1)    Summary of Significant Accounting Policies
+
+       (a)   Principles and Consolidation
+
+             The consolidated financial statements include the accounts of 
+             Unique Mobility, Inc. and those of all majority-owned or controlled
+             subsidiaries (the "Company").  All significant intercompany 
+             accounts and transactions have been eliminated in consolidation.
+
+        (b)  Contract Services
+
+             Revenue relating to service contracts, the terms of which is one 
+             year or less, is recognized using the completed-contract method.  
+             Revenue relating to long-term fixed price contracts ios recognized
+             using the percentage of completion method.  Revenue relating to 
+             cost-plus type contracts is recognized as costs are incurred and
+             billed to the customer.
+              
+         (c) Cash, Cash Equivalents and Certificates of Deposit
+
+             The Company considers cash on hand and investments with original 
+             maturities of three months or less to be cash equivalents.  
+             Certificates of deposit are carried at cost.  The certificate of 
+             deposit held at October 31, 1995 matures in April 1996.
+              
+         (d) Investment in Taiwan Joint Venture
+
+             The Company's investment in a joint venture located in Taiwan is 
+             accounted for under the equity method of accounting.  Under this 
+             method, the investment, originally recorded at cost, is adjusted 
+             to recognize the Company's share of the net earnings or losses of 
+             the joint venture as they occur.  Income or loss recognition is 
+             limited to the extent of the Company's investment in, advances 
+             to and guarantees of the joint venture.
+              
+         (e) Inventories
+
+             Inventories are stated at the lower of cost or market.  
+             Cost is determined by the first-in, first-out method.  Inventories
+             at October 31, consist of:
+              
+
+
+                                                  1995                  1994
+
+             Raw materials                     $ 247,225               263,526
+             Work in process                      31,525                38,986
+             Finished products                   125,951               172,639
+
+                                               $ 404,701               475,151
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+
+                                                               
+         
+(1)    Summary of Significant Accounting Policies (continued)
+         
+       (f)   Property and Equipment
+
+              Property and equipment is stated at cost.  Depreciation is 
+              computed using the straight-line method over the estimated useful
+              lives of the assets which range from three to five years except 
+              for the building which is depreciated over 31 years.  Maintenance
+              and repairs are charged to expense as incurred.
+
+        (g)   Patent and Trademark Costs
+
+              Patent and trademark costs consist primarily of legal expenses, 
+              and represent those costs incurred by the Company for the filing 
+              of patent and trademark applications and the maintenance of 
+              patents issued.  Amortization of patent and trademark costs is 
+              computed using the straight-line method over the estimated useful
+              life of the asset, typically 17 years for patents, and 40 years 
+              for trademarks.
+
+        (h)   Income Taxes
+
+              The Company accounts for income taxes in accordance with Statement
+              of Financial Accounting Standards No. 109, Accounting for Income
+              Taxes.  Under the asset and liability method of Statement 109, 
+              deferred tax assets and liabilities are recognized for the future 
+              tax consequences attributable to differences between the financial
+              statement carrying amounts of existing assets and liabilities and
+              their respective tax bases. 
+             
+              Deferred tax assets and liabilities are measured using enacted tax
+              rates expected to apply to taxable income in the years in which 
+              those temporary differences are expected to be recovered or 
+              settled.  Under Statement 109, the effect on deferred tax assets
+              and liabilities of a change in tax rates is recognized in income
+              in the period that includes the enactment date.
+              
+         (i)   Research and Development
+
+               Costs of researching and developing new technology or 
+               significantly altering existing technology are charged to 
+               operations as incurred.
+              
+         (j)   Loss Per Common Share
+         
+               Loss per common share is based on the weighted average number of
+               shares of common stock outstanding during each year.  Common 
+               stock equivalents were not included in the computations because 
+               their effect was anti-dilutive.
+         
+         (k)   Reclassifications
+         
+               Certain prior year amounts have been reclassified to conform with
+               the October 31, 1995 presentation.
+              
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+
+                                                               
+         
+         (2)    Limited Liability Company
+
+                In September 1992, the Company and a private investor formed a 
+                Colorado limited liability company to acquire, own, and maintain
+                a 40,000 square-foot facility in Golden, Colorado, and the
+                surrounding land.  This facility serves as the Company's 
+                corporate headquarters.  Ownership in this limited liability 
+                company is divided equally between the Company and the private 
+                investor; however, the Company is deemed to have a controlling 
+                interest in the limited liability company by virtue of its 
+                management responsibilities and the limited liability company 
+                is, therefore, accounted for as a consolidated subsidiary. 
+                Minority interest in consolidated subsidiary represents the 
+                private investor's allocable portion of the equity of the 
+                consolidated subsidiary.
+
+         (3)    Investment in Taiwan Joint Venture
+
+                On January 29, 1994 the Company, Kwang Yang Motor Co. Ltd.
+                (KYMCO), and Turn Luckily Technology Co. Ltd. (TLT), entered 
+                into a joint venture agreement (the Joint Venture Agreement) 
+                providing for the formation, funding, and operation of Taiwan 
+                UQM Electric Company, Ltd., a company organized under the laws 
+                of the Republic of China (Taiwan UQM).  Taiwan UQM was 
+                incorporated in April 1995.
+         
+                Under the initial provisions of the Joint Venture Agreement for
+                $45,082, the Company purchased 39% of the initial equity capital
+                of Taiwan UQM in 1994 and agreed to invest 39% of any additional
+                capital calls.  Pursuant to the Joint Venture Agreement, the 
+                venturers are required to invest additional funds in Taiwan UQM,
+                as the board of directors of Taiwan UQM by unanimous vote 
+                determines to be required.
+         
+                During 1995, the Company was unable to make payments for 
+                additional capital call obligations under the Joint Venture 
+                Agreement.  The Company, KYMCO and TLT entered into a Waiver and
+                Option Agreement (the Option Agreement) on June 12, 1995,
+                whereby KYMCO agreed to first purchase those shares of Taiwan 
+                UQM underlying the Company's additional capital call obligations
+                in the amount of $1,403,493.  Under the Option Agreement, the 
+                Company has the option to repurchase these shares from KYMCO
+                for the additional capital call amount, plus interest at 10% 
+                per annum.  It is the intent of management of the Company to 
+                repurchase the shares and maintain the Company's equity interest
+                in Taiwan UQM at 39%.  The purchase by KYMCO of the shares 
+                related to the Company's additional capital call obligations has
+                been accounted for as a financing arrangement.  Accordingly, for
+                financial reporting purposes, as of October 31, 1995, the 
+                Company has recorded $1,403,493 as  an addition to its 
+                investment in joint venture and as a note payable to joint 
+                venture.
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+         
+         (4)    Other Current Liabilities
+
+                Other current liabilities at October 31, consist of:
+
+
+
+                                                       1995             1994
+
+                Accrued subcontractor expense       $ 174,781          150,000
+                Accrued interest                       93,698            6,985
+                Accrued legal and accounting fees      48,611          103,254 
+                Accrued payroll, consulting,
+                  personal property and real
+                  estate taxes                         44,882          147,675
+                Other                                 102,214          124,144
+
+                                                    $ 464,186          532,058
+
+
+(5)    Long-term Debt
+
+         Long-term debt at October 31, consists of:
+         
+                                                       1995             1994
+
+
+         Note payable to bank, in monthly
+           installments with interest at the
+           bank's prime rate plus 1.0% (9.75%
+           at October 31, 1995); matures
+           October 2007; secured by land and
+           building                                 $ 829,714          927,096
+
+
+         Note payable to bank, in monthly
+           installments with interest at 12%;
+           matures November 1997; secured
+           by all of the Company's accounts
+           at the bank and all accounts
+           receivable and certain equipment            58,814
+
+                  Total long-term debt                888,528          927,096
+
+         Less current portio                           81,525           40,100
+
+         Long-term debt, less current portion       $ 807,003          886,996
+
+
+         Annual maturities of long-term debt for each of the next five fiscal
+           years and thereafter are as follows:
+
+                                 1996                     $    81,525
+                                 1997                          57,676
+                                 1998                          46,560
+                                 1999                          51,308
+                                 2000                          56,541
+                                 Thereafter                   594,918
+
+                                                            $ 888,528
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+
+      (6)    Income Taxes
+
+             At October 31, 1995, temporary differences that give rise to 
+             deferred tax assets and deferred tax liabilities are principally 
+             made up of net operating loss carryforwards and research and 
+             development credit carryforwards for income tax purposes.  Deferred
+             tax assets attributable to net operating loss carryforwards and 
+             other tax credits are offset by a valuation allowance.
+
+             At October 31, 1995, the Company had net operating loss 
+             carryforwards for income tax purposes aggregating approximately
+             $13.8 million.  Approximately $1.2 million of the net ope  rating 
+             loss carryforwards is attributable to stock options, the benefit of
+             which will be credited to additional paid-in capital if realized. 
+             Net operating loss carryforwards are subject to certain rules 
+             limiting their annual usage.  These carryforwards ex  pire between
+             1998 and 2010.
+
+      (7)    Stockholders' Equity
+
+             Alcan Aluminum Limited (Alcan) and certain affiliates of Advent 
+             International Corporation (Advent) and Techno-Venture U.S.A., Inc.
+             (Techno), significant stockholders, have preemptive rights to 
+             acquire 16.7%, 13.1% and 2.1%, respectively, of the Company's 
+             shares of common stock offered in any offering for so long as they 
+             hold any shares of the Company's common stock.
+
+             Additionally, Alcan has the right of first refusal to purchase any
+             private placement eq  uity securities to be issued or sold to third
+             parties if such issuance would cause such parties to become the 
+             beneficial owner of more than 5% of any class of the Company's 
+             equity securities.  Separately, the Company's Chairman, who holds 
+             or has the right to acquire 805,512 shares of the Company's common 
+             stock, has granted Alcan a right of first refusal to purchase any 
+             shares to be sold or transferred by the Chairman in any public or
+             private sale.
+
+      (8)    Common Stock Options and Warrants
+
+             The Company has reserved 4,104,000 shares of common stock for key 
+             employees, consultants, and key suppliers under its Incentive and 
+             Non-Qualified Option plans.  Options became exercisable as 
+             determined at the date of grant by the Board of Directors and 
+             expire within 10 years from the date of grant.  The maximum number
+             of shares that may be granted to any eligible employee during the 
+             term of the Plan is 500,000 shares.  The options require holders to
+             abide by certain Company policies on the trading of Company's 
+             common stock.
+ 
+             The following table summarizes activity under the plans:
+
+
+                                                  Shares under     Per share
+                                                     option       option price
+
+
+             Outstanding at October 31, 1992        1,447,770    $ .375 - 4.25
+             Granted                                  612,000      6.25 - 8.00
+             Exercised                               (257,637)     .375 - 3.50
+             Forfeited                                (89,268)     3.50 - 6.25
+
+
+                                                            (Continued)
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+         
+(8)    Common Stock Options and Warrants (continued)
+
+                                                   Shares under    Per share
+                                                      option      option price
+
+     Outstanding at October 31, 1993                 1,712,865   $ .375 - 8.00
+     Granted                                           618,333     5.00 - 8.13
+     Exercised                                        (325,133)    .375 - 3.50
+     Forfeited                                         (91,532)    3.50 - 6.88
+
+     Outstanding at October 31, 1994                 1,914,533      .50 - 8.13
+
+     Granted                                           100,000            5.00
+     Exercised                                         (64,786)     .50 - 3.50
+     Forfeited                                         (97,515)    3.50 - 6.88
+
+     Outstanding at October 31, 1995                 1,852,232      .50 - 8.13
+
+     Exercisable at October 31, 1995                 1,488,644
+
+     In February 1994, the Company's Board of Directors ratified a Stock Option
+     Plan for Non-Employee Directors pursuant to which Directors may elect to
+     receive stock options in lieu of cash compensation for their services as
+     directors.  The Company has reserved 250,000 shares of common stock for
+     issuance pursuant to the exercise of  options under the Plan.  The options
+     vest ratably over a three-year period beginning one year from the
+     date of grant and are exercisable for 10 years from the grant date.
+     Option prices are equal to the fair market value of common shares at the
+     date of grant.
+
+     The following table summarizes activity under the plan:
+         
+                                                  Shares under     Per share
+                                                     option      exercise price
+
+     Outstanding at October 31, 1993
+     Granted                                          48,000     $ 5.38 - 6.25
+     Outstanding at October 31, 1994                  48,000       5.38 - 6.25
+     Granted                                          61,333       5.00 - 5.13
+
+     Outstanding at October 31, 1995                 109,333       5.00 - 6.25
+
+
+     At October 31, 1995 options for 16,000 shares were exercisable.
+
+
+     In connection with a 1991 common stock issuance, the underwriters were
+     issued warrants to acquire 140,000 shares of the Company's common stock at
+     $2.32 per share.  During 1993, the underwriters exercised warrants for
+     120,000 shares of the Company's common stock.  During 1994, the
+     underwriters exercised the remaining warrants and were issued 20,000
+     shares of the Company's common stock.
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+         
+      In connection with a 1992 common stock issuance, the underwriters 
+      were issued warrants to acquire 100,000 shares of the Company's
+      common stock at $6.00 per share.  These warrants expired 
+      unexercised on December 2, 1995.
+
+      In connection with the original issuance of certain subordinated 
+      convertible term notes to Advent and Techno, the Company granted 
+      Advent and Techno warrants to acquire 790,000 shares of the 
+      Company's common stock at the lower of $2.40 per share or the 
+      market price of the common stock averaged over the 30 trading days
+      immediately preceding the date of exercise.  The warrants expire 
+      August 1997, and allow for a cashless exercise of the warrants into
+      common shares based on the spread between the market price of the 
+      common stock on the date of exercise and the $2.40 exercise price.
+      All of these warrants remain outstanding at October 31, 1995.
+
+      The Company has reserved 300,000 shares of common stock for 
+      issuance pursuant to a warrant agreement with an investment banking
+      company.  Warrants to acquire 200,000 shares of common stock vested
+      on January 20, 1994 and the remaining 100,000 shares vested on 
+      January 20,1995.  The warrants were exercisable for a period of 
+      five years, expiring on January 19, 1999, at a price of $7.63 per 
+      share.  Further, the warrants were redeemable on a one-time basis 
+      only through June 30, 1994, for a like number of warrants, at the 
+      then current fair market value of the Company's common stock with 
+      otherwise identical terms.  On April 18, 1994, the warrants were 
+      redeemed in accordance with the above provision for a like number 
+      of warrants which are exercisable at a price of $6.00 per share. 
+      The warrants contain transfer restrictions and provisions for the 
+      adjustment of the exercise price and the number and type of 
+      securities issuable upon exercise based on the occurrence of 
+      certain events. All of these warrants remain outstanding at 
+      October 31, 1995.
+         
+      In connection with the 1995 common stock issuance, the placement 
+      agent was issued warrants expiring July 21, 1998, to acquire 
+      150,000 shares of the Company's common stock at $5.75 per share. 
+      All of these warrants remain outstanding at October 31, 1995.
+   
+   (9)     Alcan Agreements
+
+             The Company had previously entered into agreements with Alcan.  
+             Under terms of the agreements, the Company's then existing motor 
+             technology and technology resulting from development projects for 
+             Alcan were cross-licensed between  Alcan and the Company.  
+             Royalties from the manufacture and sale of licensed products and a 
+             portion of royalties received from the sub-licensing of technology 
+             to third parties were payable by the licensing party to the other 
+             if the technology was commercialized.  During 1994, the Company and
+             Alcan executed another agreement, in which Alcan assigned to the 
+             Company all of its rights, title and interests in all technology 
+             developed under the original agreements between Alcan and the 
+             Company.  The 1994 agreement further provides that the Company 
+             shall pay to Alcan royalties on revenue derived from the 
+             manufacture and sale of products or processes embodying the 
+             related technology.  In addition, subject to certain conditions, 
+             Alcan has agreed to reimburse the Company for 50% of its patent 
+             application and maintenance expenditures, up to an amount not to 
+             exceed the annual royalties from the Company.   The Company  paid
+             $39,272  in  1993  pursuant  to the  original  agreements. 
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+         
+             During 1995 and 1994, the Company recorded royalty expense of 
+             $23,423 and $11,458, respectively, all of which was applied to the
+             reduction of patent application and maintenance expenditures.
+         
+      (10)   Significant Customers
+
+             The Company has historically derived significant contract services 
+             revenue from a few key customers.  During the year ended 
+             October 31, 1995, the Company derived $3,258,097 of contract 
+             services revenue from three customers, representing 81% of revenue 
+             earned from contract services.  Accounts receivable from these 
+             three customers also represented 32% of total accounts receivable
+             at October 31, 1995.  In the years ended October 31, 1994 and 1993,
+             the Company derived $966,831 and $693,592, respectively, of 
+             contract services revenue from three and two customers, 
+             respectively, representing 59% and 47%, respectively, of revenue 
+             earned from contract services.  These two customers also 
+             represented 39% and 43% of total accounts receivable at October 31,
+             1994 and 1993, respectively.
+
+      (11)   Employee Benefit Plans
+
+             401(K) Plan
+         
+             The Company has established a 401(k) Savings Plan (the Plan) under
+             which eligible employees may contribute up to 15% of their 
+             compensation.  At the direction of the participants, contributions 
+             are invested in several investment options offered by the Plan 
+             including the Company's common stock.  The Company matches 
+             participant contributions on a dollar-for-dollar basis on the first
+             5% of the participant's contributions and 25% of participant 
+             contributions in excess of 5%, subject to certain limitations.  
+             These contributions vest ratably over a three year period.  
+             Matching contributions to the Plan by the Company were $98,441, 
+             $95,257 and $90,457 for the years ended October 31, 1995, 1994 and 
+             1993, respectively.
+
+             Stock Purchase Plan
+
+             The Company has established a stock purchase plan which allows 
+             eligible employees to purchase, through payroll deductions, shares
+             of the Company's common stock at 85% of the fair market value at 
+             specified dates.  The Company has reserved 200,000 shares of common
+             stock for issuance under the stock purchase plan.  During the years
+             ended October 31, 1995, 1994 and 1993, the Company issued 511, 
+             1,632 and 5,623 shares of common stock, respectively, under the 
+             stock purchase plan.
+
+<PAGE>
+
+UNIQUE MOBILITY, INC.
+AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements, Continued
+                                                               
+         
+      (12)   Subsequent Event - Stock Purchase Agreement
+
+             On December 7, 1995, the Company entered into a Stock Purchase 
+             Agreement with Invacare Corporation (Invacare).  Pursuant to the 
+             Stock Purchase Agreement, Invacare has purchased 129,032 shares of 
+             the Company's common stock at $3.88 per share for a total capital 
+             contribution to the Company of $500,000.  The use of these proceeds
+             is restricted principally to certain design and production 
+             activities.  Contingent upon the execution of a mutually acceptable
+             Supply Agreement with respect to the sale of products by the 
+             Company to Invacare, Invacare has further agreed to make a second 
+             capital contribution at such time as the production engineering of 
+             the initial product for Invacare is completed, which event is 
+             scheduled to occur on or before April 30, 1996.  The second capital
+             contribution will be in the approximate amount of 50% of the
+             mutually agreed investments to be made by the Company for the 
+             production tooling, capital equipment and product launching costs 
+             required to be made by the Company for the manufacture of products
+             to be sold to Invacare.
+<PAGE>
+
+ITEM 9.     CHANGE IN AND DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+
+            None.
+<PAGE>
+
+                                       PART III
+
+
+Pursuant to instruction G (3) to Form 10-K, the information required in
+Items 10-13 is hereby incorporated by reference from the Company's
+definitive proxy statement for the Annual Meeting of Shareholders to be
+held on March 20, 1996, to be filed on or about February 6, 1996, pursuant
+to Regulation 14A.
+
+<PAGE>
+                                       PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+       
+       
+        (a)   1.  Financial Statements:
+             
+                  Independent Auditors' Report.
+            
+                  Consolidated Balance Sheets, October 31, 1995 and 1994.
+            
+                  Consolidated Statements of Operations for the years ended 
+                     October 31, 1995, 1994 and 1993.
+
+                  Consolidated Statements of Stockholders' Equity for the years
+                     ended October 31, 1995, 1994 and 1993.
+            
+                  Consolidated Statements of Cash Flows for the years ended 
+                     October 31, 1995, 1994 and 1993.
+
+                  Notes to Consolidated Financial Statements.
+            
+
+             2.   Financial Statement Schedules:
+
+                  None.
+
+
+         (b) Reports on Form 8-K:
+
+                  None.
+       
+       
+         (c)  Exhibits
+
+
+3.1   Articles of Incorporation and Bylaws.  Reference is made to Exhibit 3.1 of
+      the Company's Registration Statement on Form S-1 (No. 33-42342), which is
+      incorporated herein by reference.
+
+3.2   Restated Articles of Incorporation.  Reference is made to Exhibit 3.2 of 
+      the Company's Quarter Report on Form 10-K for the year ended October 31,
+      1993 (No. 0-9146) which is incorporated herein by reference.
+
+4.1   Specimen Stock Certificate.  Reference is made to Exhibit 3.1 of the 
+      Company Registration Statement on Form 10, dated February 27, 1980 
+      (No. 0-9146) which is incorporated herein by reference.
+
+10.1  Shareholder Agreement by and among Alcan International Limited, Ray A. 
+      Geddes and Unique Mobility, Inc. dated June 7, 1988.  Reference is made to
+      Exhibit 10.2 of the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended April 30, 1988 (No. 0-9146) which is incorporated herein by
+      reference.
+
+10.2  Unique Mobility, Inc. Incentive and Non-qualified Stock Option Plan 
+      (amended and restated effective January 1, 1988).  Reference is made to 
+      Exhibit 10.4 of the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended April 30, 1988 (No. 0-9146).
+
+10.3  Non-Qualified Stock Option Agreement with Simon Mencher.  Reference is 
+      made to Exhibit 10.12 of the Company's Registration Statement on Form S-2
+      (No. 33-53376)  which is incorporated herein by reference.
+
+10.4  Unique Mobility, Inc. 1992 Stock Option Plan.  Reference is made to 
+      Exhibit 4.1 to the Company's Registration Statement on Form S-8 
+      (No. 33-47454), which is incorporated herein by reference.
+
+10.5  Unique Mobility, Inc. Employee Stock Purchase Plan.  Reference is made to
+      Exhibit 4.3 to the Company's Registration Statement on Form S-8 
+      (No. 33-34612), which is incorporated herein by reference.
+
+10.6  401(k) Savings Plan of Unique Mobility, Inc.  Reference is made to Exhibit
+      4.3 to the Company's Registration Statement on Form S-8 (No. 33-34613), 
+      which is incorporated herein by reference.
+
+10.7  Note and Warrant Purchase Agreement dated March 25, 1992 between Unique 
+      Mobility, Inc. and affiliates of Advent International Corporation and 
+      Techno-Venture U.S.A., Inc.  Reference is made to Exhibit 19.1 to the 
+      Company's Quarterly Report on Form 10-Q for the quarter ended April 30, 
+      1992 (No. 0-9146) which is incorporated herein by reference.
+
+10.8  Warrant Agreements dated March 25, 1992 between Unique Mobility, Inc. and
+      affiliates of Advent International Corporation and Techno-Venture U.S.A.,
+      Inc.  Reference is made to Exhibit 19.3 to the Company's Quarterly Report
+      on Form 10-Q for the quarter ended April 30, 1992 (No. 0-9146) which is
+      incorporated herein by reference.
+
+10.9  Stock Restriction Agreement dated March 25, 1992 between Ray A. Geddes and
+      affiliates of Advent International Corporation and Techno-Venture U.S.A.,
+      Inc. Reference is made to Exhibit 19.5 to the Company's Quarterly Report 
+      on Form 10-Q for the quarter ended April 30, 1992 (No. 0-9146) which is 
+      incorporated herein by reference.
+
+10.10 Amendment to Shareholder Agreement dated March 25, 1992 between Unique 
+      Mobility, Inc., Ray A. Geddes and Alcan International Limited.  Reference
+      is made to Exhibit 19.7 to the Company's Quarterly Report on Form 10-Q for
+      the quarter ended April 30, 1992 (No. 0-9146) which is incorporated herein
+      by reference.
+
+10.11 Unique Building Partners, Ltd. Liability Co. Operating Agreement dated 
+      September 16, 1992.  Reference is made to Exhibit 10.33 of the Company's 
+      Registration Statement on Form S-2 (No. 33-53376), which is incorporated 
+      herein by reference.
+      
+10.12 Lease between the Company and Unique Building Partners, Ltd. Liability Co.
+      dated September 22, 1992.  Reference is made to Exhibit 10.34 of the 
+      Company's Registration Statement on Form S-2 (No. 33-53376), which is 
+      incorporated herein by reference. 
+
+10.13 Amended Warrant Agreements between Unique Mobility, Inc. and affiliates of
+      Advent International Corporation and Techno-Venture U.S.A., Inc.  
+      Reference is made to exhibits 10.1 through 10.7 to the Company's Quarterly
+      Report on Form 10-Q for the quarter ended April 30, 1993, (No. 0-9146) 
+      which is incorporated herein by reference.
+<PAGE>
+
+10.14 Registration agreement between Unique Mobility, Inc. and affiliates of 
+      Advent International Corporation and Techno-Venture U.S.A., Inc.  
+      Reference is made to exhibit 10.8 to the Company's Quarterly Report on 
+      Form 10-Q for the quarter ended April 30, 1993, which is incorporated 
+      herein by reference.
+
+10.15 Unique Mobility, Inc. Stock Option Plan for Non-Employee Directors.  
+      Reference is made to Exhibit 10.39 of the Company's Quarter Report on Form
+      10-K (No. 0-9146) for the year ended October 31, 1993 which is 
+      incorporated herein by reference. 
+      
+10.16 Warrant Agreement with Arnhold and S. Bleichroeder, Inc.  Reference is 
+      made to Exhibit 10.41 of the Company's Quarter Report on Form 10-K 
+      (No. 0-9146) for the year ended October 31, 1993 which is incorporated 
+      herein by reference. 
+
+10.17 Assignment Agreement with Alcan International Limited.  Reference is made
+      to Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended April 30, 1994 (No. 0-9146) which is incorporated herein by
+      reference.
+
+10.18 Amendment to the 1992 Stock Option Plan of Unique Mobility, Inc.  
+      Reference is made to Exhibit 10.4 to the Company's Quarterly Report on 
+      Form 10-Q for the quarter ended April 30, 1994 (No. 0-9146) which is 
+      incorporated herein by reference. 
+      
+10.19 Employment Agreement with Ray A. Geddes.  Reference is made to Exhibit 
+      10.1 to the Company's Quarter Report on Form 10-Q for the quarter ended 
+      July 31, 1994 (No. 0-9146) which is incorporated herein by reference. 
+      
+10.20 Non-Qualified Stock Option Agreement with Ray A. Geddes.  Reference is 
+      made to Exhibit 10.2 to the Company's Quarterly Report on Form 10-Q for 
+      the quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein
+      by reference. 
+     
+10.21 Incentive Stock Option Agreement with Ray A. Geddes.  Reference is made to
+      Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein by 
+      reference. 
+      
+10.22 Employment Agreement with William G. Rankin.  Reference is made to Exhibit
+      10.4 to the Company's Quarterly Report on Form 10-Q for the quarter ended
+      July 31, 1994 (No. 0-9146) which is incorporated herein by reference. 
+
+10.23 Non-Qualified Stock Option Agreement with William G. Rankin.  Reference is
+      made to Exhibit 10.5 to the Company's Quarterly Report on Form 10-Q for 
+      the quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein
+      by reference. 
+     
+10.24 Incentive Stock Option Agreement with William G. Rankin.  Reference is 
+      made to Exhibit 10.6 to the Company's Quarterly Report on Form 10-Q for 
+      the quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein
+      by reference. 
+     
+10.25 Employment Agreement with Donald A. French. Reference is made to Exhibit
+      10.7 to the Company's Quarterly Report on Form 10-Q for the quarter ended
+      July 31, 1994 (No. 0-9146) which is incorporated herein by reference. 
+
+10.26 Non-Qualified Stock Option Agreement with Donald A. French. Reference is 
+      made to Exhibit 10.8 to the Company's Quarterly Report on Form 10-Q for 
+      the quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein
+      by reference. 
+<PAGE>
+     
+10.27 Incentive Stock Option Agreement with Donald A. French.  Reference is made
+      to Exhibit 10.9 to the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein by 
+      reference. 
+      
+10.28 Employment Agreement with Craig S. Cambier.  Reference is made to Exhibit
+      10.10 to the Company's Quarterly Report on Form 10-Q for the quarter ended
+      July 31, 1994 (No. 0-9146) which is incorporated herein by reference. 
+
+10.29 Non-Qualified Stock Option Agreement with Craig S. Cambier.  Reference is
+      made to Exhibit 10.11 to the Company's Quarterly Report on Form 10-Q for 
+      the quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein
+      by reference. 
+
+10.30 Incentive Stock Option Agreement with Craig S. Cambier.  Reference is made
+      to Exhibit 10.12 to the Company's Quarterly Report on Form 10-Q for the 
+      quarter ended July 31, 1994 (No. 0-9146) which is incorporated herein by 
+      reference. 
+
+10.31 Unique Mobility, Inc. Stock Option Plan for Non-Employee Directors.  
+      Reference is made to Exhibit 10.13 to the Company's Quarterly Report on 
+      Form 10-Q for the quarter ended July 31, 1994 (No. 0-9146) which is 
+      incorporated herein by reference.
+
+10.32 Non-Qualified Stock Option Agreement with Francis S. M. Hodsoll.
+      Reference is made to Exhibit 10.16 to the Company's Quarterly Report on
+      Form 10-Q for the quarter ended July 31, 1994 (No. 0-9146) which is
+      incorporated herein by reference.
+
+10.33 Amendment to the 401 (k) Savings Pan of Unique Mobility, Inc. dated
+      January 18, 1995.  Reference is made to Exhibit 10.1 to the Company's
+      Quarterly Report on Form 10-Q for the quarter ended January 31, 1995
+      (No. 0-9146) which is incorporated herein by reference.
+
+10.34 Amendment to the 1992 Stock Option Plan of Unique Mobility, Inc. dated 
+      December 7, 1994.  Reference is made to Exhibit 10.2 in the Company's 
+      Quarterly Report on Form 10-Q for the Quarter ended  January 31, 1995 
+      (No. 0-9146) which is incorporated herein by reference. 
+
+10.35 Waiver and Option Agreement By and Between Unique Mobility, Inc, Kwang 
+      Yang Motor Co., Ltd. and Turn-Luckily Technology Co., Ltd. dated July 31,
+      1995.  Reference is made to Exhibit 10.1 in the Company's Quarterly Report
+      on Form 10-Q for the Quarter ended July  31, 1995 (No. 0-9146) which is 
+      incorporated herein by reference.
+
+10.36 Stock Purchase Agreement by and among Unique Mobility, Inc. and Invacare 
+      Corporation dated December 7, 1995. 
+
+21.1  Subsidiaries of the Registrant. 
+      
+24.1  Consent of KPMG Peat Marwick LLP.
+
+         (d) Financial Statement Schedules
+             None.
+
+
+<PAGE>         
+
+                                     SIGNATURE
+                                              
+Pursuant to the requirements of Section 13 of the Securities and
+Exchange Act of 1934, Unique Mobility, Inc. has duly caused this
+Annual Report on Form 10-K to be signed on its behalf by the
+undersigned, thereunto duly authorized, in Golden, Colorado on the
+26th day of January, 1996.
+
+                                UNIQUE MOBILITY, INC.,
+                                a Colorado Corporation
+                                             
+                                By: "Ray A. Geddes"         
+                                    Ray A. Geddes, President
+                                             
+Pursuant to the requirements of the Securities and Exchange Act of
+1934, this Annual Report on Form 10-K has been signed below by the
+following persons on behalf of Unique Mobility, Inc., in the
+capacities indicted and on the date indicated.
+
+Signature                       Title                          Date
+
+                       Chairman of the Board of Directors
+                       and President (Principal Executive
+"Ray A. Geddes"        Officer)                             January 26, 1996
+ Ray A. Geddes
+
+                       Treasurer and Controller
+                       (Principal Financial and
+"Donald A. French"     Accounting Officer)                  January 26,1996
+ Donald A. French
+
+
+"William G. Rankin"    Executive Vice President-Operations  January 26, 1996
+ William G. Rankin     and Director
+
+
+"Francis S.M. Hodsoll" Director                             January 25, 1995
+ Francis S.M. Hodsoll
+
+
+"H.J. Young"           Director                             January 26, 1995
+ H.J. Young
+
+
+"Michel A. Bell"       Director                             January 25, 1996
+ Michel A. Bell
+
+
+"J.B. Richey"          Director                             January 25, 1996
+ J B. Richey 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>EX 10.36 SUPPLY AGREEMENT
+<TEXT>
+
+                  STOCK PURCHASE AGREEMENT
+
+This Stock Purchase Agreement (this "Agreement"), dated as of December 7,
+1995, is by and among UNIQUE MOBILITY, INC., a Colorado corporation ("Unique"),
+and INVACARE CORPORATION, an Ohio corporation ("Invacare"). 
+     
+
+                                RECITALS
+
+Invacare desires to purchase and Unique desires to sell shares of common
+stock, $.01 par value ("Common Stock") of Unique, and the parties desire to 
+enter into a supply agreement giving Invacare exclusive worldwide rights to use
+and sell motors developed and manufactured by Unique for application to 
+motorized wheelchairs and other medical products, on the terms and conditions 
+set out below. Certain capitalized terms are defined in section 7.15 hererof.
+
+NOW, THEREFORE, in consideration of and subject to the agreements,
+terms and conditions contained herein, the parties hereto agree as follows: 
+
+                                ARTICLE I
+
+      SALE OF STOCK; SUPPLY AGREEMENT; CONFIDENTIALITY AGREEMENT
+
+1.1   Sale of Common Stock. Unique hereby agrees to sell and Invacare hereby
+      agrees to purchase, on the terms and conditions set forth herein, that 
+      number of shares of the Common Stock (the "Initial Shares") determined by
+      dividing $500,000 by the Purchase Price (as defined in section 1.2) at the
+      Initial Closing (as defined in Article II) and an additional number of 
+      shares of Common Stock (the "Additional Shares," and with the Initial
+      Shares, the "Shares") immediately after completion of Stage I as set forth
+      on Annex 1 attached hereto (the "Second Investment Date"). The number of
+      Additional Shares to be purchased on the Second Investment Date shall be 
+      determined by dividing 50% of the  amount that the parties agree on the 
+      Second Investment Date is then necessary to be spent by Unique for 
+      production tooling, capital equipment and product launch for the 
+      manufacture of products to be sold to Invacare pursuant to the Supply 
+      Agreement by the Purchase Price.
+
+      Certificates evidencing the Initial Shares and the Additional Shares, 
+      properly endorsed or accompanied by appropriate stock powers, shall be 
+      delivered to Invacare at the Initial Closing and on the Second Investment
+      Date, respectively. 
+
+1.2   Purchase Price. The purchase price for the Shares shall be the average
+      Market Value (as defined in Section 7. 15) per Share for the 30 trading 
+      days preceding the date of the Initial Closing and the Second Investment 
+      Date, as the case may be. 
+
+1.3   Supply and Confidentiality Agreements. As a condition to the obligation
+      of the parties to purchase or sell the Additional Shares the parties must
+      have executed a mutually acceptable Supply Agreement with respect to the
+      sale of motors by Unique to Invacare and must have executed a mutually 
+      acceptable Confidentiality Agreement to supersede the Proprietary 
+      Information Exchange Agreement executed by the parties on December 16.
+      1993. 
+<PAGE>
+                                ARTICLE II
+ 
+                                  CLOSING
+
+
+Subject to the conditions stated in this Agreement, the closing (the "Initial
+Closing") of the sale and purchase of the Initial Shares shall take place at the
+offices of Holme Roberts & Owen LLC in Denver, Colorado at 2:30 p.m. (local 
+time) on December 7, 1995. At the Closing, the parties hereto shall cause to be
+executed, delivered or filed all items required to be executed, delivered or
+filed at the Initial Closing. 
+
+                               ARTICLE III
+
+                 REPRESENTATIONS AND WARRANTIES OF UNIQUE
+
+Unique represents and warrants to Invacare as follows: 
+
+3.1    Organization of Unique. Unique is a corporation duly organized, validly
+       existing and in good standing under the laws of the State of Colorado, 
+       has all requisite corporate power and authority to own, lease and operate
+       its properties and to carry on its business as currently conducted and is
+       duly qualified to do business and is in good standing in the 
+       jurisdictions where the nature of its business or the character of its
+       properties makes such qualification necessary, and where the failure to 
+       so qualify would have a material adverse effect on its assets, operations
+       or financial condition, taken as a whole.  
+
+3.2    Capitalization. The authorized capital stock of Unique consists of
+       50,000,000 shares of Common Stock, of which 10,571,953 shares are issued
+       and outstanding on the date of this Agreement. All of the outstanding 
+       shares of Common Stock have been duly authorized and are validly issued, 
+       fully paid and nonassessable. Unique has outstanding warrants, options 
+       and rights to purchase shares of Common Stock as set forth in its Annual
+       Report on Form 10-K for the fiscal year ended October 31, 1994 and its 
+       Quarterly Report on Form 10-Q for the quarter ended July 31, 1995. 
+
+3.3    Authority Relative to Agreement. Neither the execution and delivery of
+       this Agreement by Unique nor consummation of the transactions 
+       contemplated by this Agreement will conflict with or result in a breach 
+       of any of the terms, conditions or provisions of Unique's Articles of 
+       Incorporation or bylaws, or violate any statute or regulation, or any 
+       judgment, order, injunction, decree or ruling of any court or
+       governmental authority, or (subject to obtaining any required consents) 
+       result in any material breach of any of the terms or provisions of, or 
+       result in a default under, or invalidate or give any other party any 
+       right of cancellation or termination of any agreement, contract, license 
+       or commitment to which Unique is a party or by which Unique is bound, 
+       which breach, default, invalidation, cancellation or termination would 
+       have a material adverse effect on the assets, operations or financial 
+       condition of Unique, taken as a whole. 
+<PAGE>
+
+3.4    SEC Reports. Unique has made available to Invacare a true and complete
+       copy of each report, schedule, registration statement and definitive 
+       proxy statement filed by Unique with the Securities and Exchange 
+       Commission ("Commission") since October 31, 1992 (as such documents 
+       have since the time of their filing been amended, the "SEC Reports") 
+       which are all the documents (other than preliminary material) that Unique
+       was required to file with the Commission since such date. As of their 
+       respective dates, the SEC Reports complied in all material respects with
+       the requirements of the Securities Act or the Exchange Act, as the case 
+       may be, and the rules and regulations of the Commission thereunder 
+       applicable to the SEC Reports, and none of the SEC Reports contained, as
+       of the respective dates thereof, any untrue statement of a material fact
+       or omitted to state a material fact required to be stated therein or 
+       necessary to make the statements therein, in light of the circumstances
+       under which they were made, not misleading. The financial statements of
+       Unique included in the SEC Reports complied, as of the respective dates 
+       thereof, as to form in all material respects with applicable accounting 
+       requirements and with the published rules and regulations of the 
+       Commission with respect thereto, and have been prepared in accordance
+       with generally accepted accounting principles as of the respective dates
+       thereof, applied on a consistent basis during the periods involved 
+       (except as may be indicated in the notes thereto, or in the case of the
+       unaudited statements, as permitted by Form 1 0-Q) and fairly present 
+       (subject, in the case of the unaudited statement, to normal, recurring
+       adjustments) the financial position of Unique as at the dates thereof and
+       the results of its operations and cash flows (or changes in financial 
+       position prior to the approval of FASB 95) for the periods then ended. 
+
+3.5    Absence of Certain Changes. Since October 31, 1995 (i) the business of
+       Unique has been conducted only in the ordinary course; (ii) there have 
+       been no material adverse changes in the assets, operations or financial 
+       condition of Unique, taken as a whole; and (iii) there has been no 
+       material damage, destruction or loss, or other occurrence or development
+       (whether or not insured against) which singly or in the aggregate 
+       materially adversely affects the assets, operations or financial 
+       condition of Unique, taken as a whole, and, to its best knowledge and 
+       belief, there are no threatened occurrences or developments which would 
+       materially adversely affect the assets, operations or financial condition
+       of Unique, taken as a whole. 
+
+3.6    Articles of Incorporation. Bylaws and Corporate Records. Copies of the
+       Articles of Incorporation and bylaws of Unique, and all amendments 
+       thereof, certified by the Secretary of Unique, which have been delivered
+       to Invacare, are complete and correct. The minute books of Unique are 
+       substantially complete and correctly reflect all corporate actions of 
+       Unique requiring action by the directors or shareholders thereof, and 
+       correctly record all resolutions of the board of directors of Unique. 
+<PAGE>
+                              
+                                   ARTICLE IV
+
+                  REPRESENTATIONS AND WARRANTIES OF INVACARE
+
+Invacare represents and warrants to Unique as follows: 
+
+4.1    Organization - Authority. Invacare is a corporation duly organized,
+       validly existing and in good standing under the laws of the state of 
+       Ohio, has all requisite power and authority to carry on its business as
+       currently conducted and is duly qualified to do business and is in good 
+       standing in the jurisdictions where such qualification is necessary. 
+       Invacare has full corporate power and authority to execute, deliver and 
+       perform this Agreement and has taken all corporate action required by 
+       law, its Certificate of Incorporation, bylaws or otherwise, to 
+       authorize the execution and delivery of this Agreement and consummation
+       of the contemplated transactions. Neither the execution and delivery of
+       this Agreement nor consummation of the transactions contemplated by this
+       Agreement will conflict with or result in a breach of any of the terms, 
+       conditions or provisions of Invacare's Certificate of Incorporation or 
+       bylaws, or violate any statute or regulation, or any judgment, order, 
+       injunction, decree or ruling of any court or governmental authority. 
+
+4.2    Investment Purpose. Invacare is acquiring the Shares for its own account
+       and not with a view to a sale or other distribution of all or any part 
+       thereof. Invacare acknowledges that it has been advised that the Common 
+       Stock is a speculative security, any return on which is not assured. 
+       Invacare acknowledges that it has had an opportunity to ask questions of,
+       and receive answers from, the officers of Unique concerning Unique and 
+       the Common Stock, and has been provided with all information concerning
+       Unique which Invacare has requested, which information constitutes all of
+       the information considered necessary by Invacare to evaluate the 
+       transaction described in this Agreement. Invacare is a resident of the 
+       State of Ohio for purposes of determining the applicability of state 
+       securities laws.
+                  
+                                   ARTICLE V
+
+                              COVENANTS OF UNIQUE
+
+Unique covenants and agrees as follows: 
+
+5.1    Use of Proceeds. Unique shall use commercially reasonable efforts to
+       apply the proceeds of the purchase of the Initial Shares as set forth in
+       Annex 1 and in accordance with the budget, time schedule and 
+       specifications set forth therein. 
+
+5.2    Appointment of Board Member. Unique shall nominate one designee of
+       Invacare to Unique's board of directors at every meeting of Unique's 
+       shareholders held for the election of directors for so long as Invacare
+       owns at least 100,000 shares of Common Stock and is not in default under
+       this agreement, the Supply Agreement or the Confidentiality Agreement. 
+<PAGE>
+
+                                   ARTICLE VI
+
+                               REGISTRATION RIGHTS
+
+6.1    Sale or Transfer of Shares: Legend. 
+
+       (a) The Registrable Shares shall not be sold or transferred unless either
+           (i) they first shall have been registered under the Securities Act, 
+           or (ii) the Company first shall have been furnished with an opinion
+           of legal counsel, reasonably satisfactory to the Company, to the 
+           effect that such sale or transfer is exempt from the registration 
+           requirements of the Securities Act. 
+
+       (b) Each certificate representing the Registrable Shares shall bear a 
+           legend substantially in the following form: 
+           
+           "The shares represented by this certificate have not been registered
+            under the Securities Act of 1933, as amended (the "Act"), and may 
+            not be offered, sold, or otherwise transferred, pledged, or 
+            hypothecated unless and until such shares are registered under the
+            Act or an opinion of counsel satisfactory to the Company is
+            furnished to the Company, to the effect that such registration is 
+            not required." 
+
+        The foregoing legend shall be removed from the certificates representing
+        any Registrable Shares at the request of the holder thereof, at such 
+        time as they become registered under the Securities act or eligible for
+        resale pursuant to Rule 1 44(k) under the Securities Act. 
+
+6.2     Required Registrations. 
+    
+        (a) Within 90 days following written notice from Invacare, the
+            Company shall effect the registration of the Registrable Shares on 
+            Form S- 1, Form S-2, Form S- 18 or Form S-3 (or any successor forms)
+            or other appropriate Registration Statement. Any demand registration
+            on Form S-1 or Form S-2 pursuant to this Section 6.2 must be
+            underwritten on a firm commitment basis (provided, however, that the
+            Company shall not be required to designate an underwriter in such 
+            circumstances nor shall it be required to effect more than one such
+            registration). 
+
+        (b) The Company shall pay the registration expenses for the demand
+            registration required hereunder, provided however, that any 
+            underwriting discounts and selling commissions shall be borne by 
+            Invacare. 
+
+        (c) The Company shall as expeditiously as possible furnish to
+            Invacare such reasonable number of copies of the proxy, including a
+            preliminary proxy, in conformity with the requirements of the 
+            Securities Act and such other documents as Invacare may reasonably
+            request in order to facilitate the public sale or other disposition
+            of the Registrable Shares owned by it. 
+<PAGE>
+
+6.3     Termination of Rights. The obligations of the Company to Invacare under
+        this Section 6 shall terminate at such time as Invacare becomes eligible
+        to sell Registrable Shares to the public pursuant to Rule 144 of the 
+        Securities Act and owns less than 2 percent of the total number of 
+        outstanding securities of the class to be sold. 
+         
+                                        ARTICLE VII
+
+                                 MISCELLANEOUS PROVISIONS
+
+7.1     Necessary Acts. All parties to this Agreement shall perform any and all
+        acts as well as execute any and all documents that may be reasonably 
+        necessary to fully carry out the provisions and intent of this 
+        Agreement. 
+
+7.2     Brokerage or Finders' Fees. Invacare and Unique represent to and agree
+        with each other that no broker or finder has been involved in any manner
+        in the negotiation, execution or consummation of this Agreement. Unique
+        agrees to indemnify and save Invacare harmless from and against any and
+        all claims, liabilities or obligations with respect to brokerage or 
+        finders' fees or commissions in connection with the transactions 
+        contemplated by this Agreement asserted by any person on the basis of 
+        any statement or representation alleged to have been made by Unique.
+        Invacare agrees to indemnify and save Unique harmless from and against
+        any all such claims, liabilities or obligations with respect to 
+        brokerage or finders' fees or commissions in connection with the 
+        transactions contemplated by this Agreement asserted by any person or 
+        persons on the basis of any statement or representation alleged to have 
+        been made by Invacare. 
+
+7.3     Access to Records. Throughout the period from the date hereof to the
+        Closing Date, Unique shall afford to Invacare and its accountants and 
+        other representatives access, during normal business hours, to all of 
+        its properties, books, contracts, commitments and records and shall 
+        furnish Invacare during such period with all such documents, copies of
+        documents (certified if requested by Invacare) and information 
+        concerning its affairs as Invacare may request.
+
+7.4     Notices. Any and all notices, demands, requests or other communications
+        required or permitted by this Agreement or by law to be served on, given
+        to or delivered to any party hereto by any other party to this Agreement
+        shall be in writing and shall be deemed duly served, given, received and
+        delivered when personally delivered to the party, or in lieu of such
+        personal delivery, five days after being sent by registered or certified
+        mail,first-class postage prepaid, properly addressed to the respective 
+        parties as follows: 
+
+<PAGE>
+             If to Unique:
+             
+             Donald A. French
+             Unique Mobility, Inc.
+             425 Corporate Circle
+             Golden, CO 80401
+               
+             If to Invacare:
+             
+             Thomas R. Miklich
+             Invacare Corporation
+             899 Cleveland Street
+             Elyria, Ohio 44036-2125
+               
+or to such other address as may be designated by any such addressees by a notice
+given in conformity herewith. 
+
+7.5    Binding on Successors. This Agreement shall inure to the benefit of and
+       be binding on the parties hereto and on each of their respective heirs, 
+       executors, administrators, personal representatives, successors and 
+       assignees. 
+
+7.6    Severability. Should any provision or portion of this Agreement be held
+       unenforceable or invalid for any reason, the remaining provisions and 
+       portions of this Agreement shall be unaffected by such holding, unless to
+       do so would alter substantially the intended effect of this Agreement or
+       cause a substantial hardship for any party hereto. 
+
+7.7    Choice of Law and Forum. This Agreement shall be construed and
+       governed by the laws, commercial usages and customs of the State of 
+       Colorado, without giving effect to the principles of conflict of laws 
+       thereof. In the event that any dispute, action, proceeding or litigation
+       arises between the parties based on or arising out of this Agreement, or
+       any agreement or instrument delivered pursuant to this Agreement, the 
+       parties agree to submit themselves to and irrevocably consent to the 
+       jurisdiction of the courts of the State of Colorado, and any federal 
+       court located in the State of Colorado. 
+
+7.8    Headings. The headings of the articles and sections of this Agreement
+       have been inserted solely for convenience of reference and shall in no 
+       way restrict or modify any of the terms or provisions hereof. 
+
+7.9    Sole and Only Agreement. This Agreement and the Proprietary
+       Information Exchange Agreement executed by the parties on December 16, 
+       1993 constitute the sole and only agreement of the parties hereto 
+       respecting the subject matter of this Agreement and correctly sets forth
+       the rights, duties and obligations of each party to the other parties in 
+       relation thereto as of its date. Any other prior agreements, promises,
+       negotiations or representations concerning the subject matter of this 
+       Agreement not expressly set forth in this Agreement shall have no force
+       or effect. 
+<PAGE>
+
+7.10   Amendment and Extension. This Agreement may not be amended or
+       extended except by an instrument in writing signed by each of the parties
+       hereto. 
+
+7.11   Counterparts. This Agreement may be executed in counterparts, each of
+       which shall be deemed an original, but all of which taken together shall
+       constitute one and the same agreement. 
+
+7.12   Survival. All representations, warrants and covenants contained in this
+       Agreement or in any document delivered pursuant hereto shall survive the
+       Closing. 
+
+7.13   Expenses. Each party shall bear its own expenses in connection with the
+       negotiation, execution and performance of this Agreement. 
+
+7.14   Public Announcement. Neither party shall make any public
+       announcement regarding the transactions contemplated hereby without the
+       approval of the other party, except as may be required by law. 
+
+7.15.  Certain Definitions. As used in this Agreement, the following
+       terms shall have the following respective meanings: 
+       
+       "Agreement" means this Stock Purchase Agreement. 
+       "Common Stock" means the common stock, $.01 par value, of Unique. 
+       "Exchange Act" means the Securities Exchange Act of 1934, as
+           amended, or any similar Federal statute, and the rules and 
+           regulations of the Commission issued under such Act, as they each 
+           may, from time to time, be in effect. 
+       "Market Value" of the Common Stock on a given day shall be the last
+           reported sale price of the Common Stock on the American Stock 
+           Exchange. 
+       "Registration Statement" means a registration statement filed by the
+           Company with the Commission for a public offering and sale of 
+           securities of the Company (other than a registration statement on
+           Form S-8 or Form S-4, or their successors, or any other form for a 
+           limited purpose, or any registration statement covering only 
+           securities proposed to be issued in exchange for securities or assets
+           of another corporation). 
+       "Registrable Shares" means (i) the shares of Common Stock
+           purchased by Invacare pursuant to this Agreement, and (ii) any other
+           shares of Common Stock of the Company issued in respect of such
+           shares (because of stock splits, stock dividends, reclassifications,
+           recapitalizations, or similar events). 
+<PAGE>
+
+       "Securities Act" means the Securities Act of 1933, as amended, or any
+           similar Federal statute, and the rules and regulations of the 
+           Commission issued under such Act. as they each may, from time to
+           time, be in effect 
+
+IN WITNESS WHEREOF, the parties hereto have each duly executed this
+Agreement as of the day and year first written above. 
+
+                                   Unique Mobility, Inc. 
+
+                                   By:"William G. Rankin"
+                                   William G. Rankin
+                                   Executive Vice President
+                                       
+
+                                   Invacare Corporation
+                                   
+                                   By:"Thomas R. Miklich"
+                                   Thomas R. Miklich
+                                       
+         
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>EX 21.1 SUBSIDIARY LIST
+<TEXT>
+
+                                                   Exhibit 21.1
+                                                                 
+                      SUBSIDIARIES OF THE REGISTRANT
+                                
+                                
+          Name of Subsidiary            Jurisdiction of Incorporation
+
+          Unique Mobility Partners 
+            Ltd. Liability Co.                  Colorado
+
+          UQM Leasing, Inc.                     Colorado
+
+          Evem Co., Inc.                        Colorado
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>EX 24.1 CONSENT OF KPMG PEAT MARWICK
+<TEXT>
+
+                      Consent of Independent Auditors
+
+The Board of Directors and Stockholders
+Unique Mobility, Inc.:
+
+We consent to incorporation by reference in the registration statements  
+(Nos. 33-23113, 33-24071, 33-34612, 33-35055, 33-34613, 33-41325, 33-64852, 
+33-47454, 33-81430 and 33-92288) on Form S-8 and in the registration statements
+( No. 33-61166 and 33-63399) on Form S-3 of Unique Mobility, Inc. of our report 
+dated December 22, 1995 relating to the consolidated balance sheets of Unique 
+Mobility, Inc. and subsidiaries as of October 31, 1995 and 1994 and the related
+consolidated statements of operations, stockholders' equity, and cash flows for
+each of the years in the three-year period ended October 31, 1995, which report
+appears in the October 31, 1995 Annual Report on Form 10-K of Unique Mobility,
+Inc. 
+
+
+                                        "KPMG Peat Marwick LLP"
+                                         KPMG Peat Marwick LLP
+
+Denver, Colorado
+January 26, 1996
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>EX 27 FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEETS OF UNIQUE MOBILITY, INC. AND CONSOLIDATED
+SUBSIDIARIES AS OF OCTOBER 31, 1995 AND 1994 AND THE CONSOLIDATED STATEMENTS OF
+OPERATIONS FOR THE THREE YEARS ENDED OCTOBER 31, 1995 AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+       
+<S>                             <C>                     <C>                     <C>
+<PERIOD-TYPE>                    12-MOS                   12-MOS                   12-MOS
+<FISCAL-YEAR-END>                OCT-31-1995             OCT-31-1994              OCT-31-1993
+<PERIOD-END>                     OCT-31-1995             OCT-31-1994             OCT-31-1993
+<CASH>                             2,115,499               1,620,115               3,695,509
+<SECURITIES>                               0                       0                       0
+<RECEIVABLES>                        337,849                 405,403                 483,576
+<ALLOWANCES>                               0                       0                       0
+<INVENTORY>                          667,115                 831,234                 834,271
+<CURRENT-ASSETS>                   3,226,063               2,987,707               5,154,244
+<PP&E>                             3,817,106               3,377,027               2,966,903
+<DEPRECIATION>                     1,275,530                 942,736                 688,682
+<TOTAL-ASSETS>                     7,678,599               5,903,551               7,791,026
+<CURRENT-LIABILITIES>              2,033,063                 926,095                 577,138
+<BONDS>                              807,003                 886,996                 921,758
+<PREFERRED-MANDATORY>                      0                       0                       0
+<PREFERRED>                                0                       0                       0
+<COMMON>                          18,993,606              16,890,250              15,651,819
+<OTHER-SE>                       (14,544,138)            (13,191,575)             (9,742,570)                   
+<TOTAL-LIABILITY-AND-EQUITY>       6,717,673               5,903,551               7,791,026
+<SALES>                              701,700                 708,917                 695,300        
+<TOTAL-REVENUES>                   4,713,651               2,352,120               2,156,868
+<CGS>                              3,232,786               2,016,914               1,827,130
+<TOTAL-COSTS>                      5,867,989               5,719,993               4,603,442
+<OTHER-EXPENSES>                        (956)                (46,330)                (78,505)
+<LOSS-PROVISION>                           0                       0                       0  
+<INTEREST-EXPENSE>                   177,051                  73,813                 105,735
+<INCOME-PRETAX>                   (1,330,433)             (3,395,356)             (2,473,804)
+<INCOME-TAX>                               0                       0                       0
+<INCOME-CONTINUING>               (1,330,433)             (3,395,356)             (2,473,804)
+<DISCONTINUED>                             0                       0                       0
+<EXTRAORDINARY>                            0                       0                       0
+<CHANGES>                                  0                       0                       0
+<NET-INCOME>                      (1,330,433)             (3,395,356)             (2,473,804)
+<EPS-PRIMARY>                           (.13)                   (.35)                   (.28)
+<EPS-DILUTED>                           (.13)                   (.35)                   (.28)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
