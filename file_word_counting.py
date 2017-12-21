@@ -114,7 +114,13 @@ def beautify_data(data='', flag=False):
         try:
             soup = BeautifulSoup(data, 'html.parser')
         except:
-            soup = BeautifulSoup(data)
+
+            # split the file
+            n = 2000
+            chunks = [data[i:i + n] for i in range(0, len(line), n)]
+            soup = ''
+            for ch in chunks:
+                soup += BeautifulSoup(ch)
     else:
         soup = BeautifulSoup(data, 'lxml')
 
@@ -282,8 +288,6 @@ def get_file_year_from_content(file=''):
             if len(current_string_year) == 4:
                 year = current_string_year
                 break
-
-    print year
     return int(year)
 
 
