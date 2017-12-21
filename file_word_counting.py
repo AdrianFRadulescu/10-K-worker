@@ -7,6 +7,24 @@ from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 
 
+def unprintable_handling_word_tokenize(text=""):
+
+    """
+        Tokenizes the text while handling unprintable characters occurrences
+    :param text:
+    :return:
+    """
+
+    printables = string.printable
+    text_chars = set(text)
+
+    for tch in text_chars:
+        if tch not in printables:
+            text.replace(tch, '')
+
+    return word_tokenize(text)
+
+
 def make_automaton_from_list(args=[]):
     """
         Creates an automaton form a given list
@@ -103,23 +121,30 @@ def beautify_data(data='', flag=False):
 
     # extract the text
     text_data = soup.get_text().encode('unicode-escape')  # .decode('unicode-escape')
-    final_text_data = text_data.decode('unicode-escape').encode('utf-8').strip()
-    final_text_data = re.sub(r'<.*?>', '', final_text_data)
+    reencoded_text_data = text_data.decode('unicode-escape').encode('utf-8').strip()
+    reencoded_text_data = re.sub(r'<.*?>', '', reencoded_text_data)
 
     # replace special caracters
-    final_text_data = final_text_data.replace('-\n', '').replace('and/or', 'and or').replace('--', '').replace('- ', '')
-    final_text_data = final_text_data.replace('_', '').replace('  ', '')
-    final_text_data = final_text_data.replace('\n', '')
+    reencoded_text_data = reencoded_text_data.replace('-\n', '').replace('and/or', 'and or').replace('--', '').replace('- ', '')
+    reencoded_text_data = reencoded_text_data.replace('_', '').replace('  ', '')
+    reencoded_text_data = reencoded_text_data.replace('\n', '')
 
-    if flag:
-        # replace unprintable characters
-        printables = string.printable
-        not_printables = set()
-        for ch in final_text_data:
-            if ch not in string.printable:
-                not_printables.add(ch)
-        for ch in not_printables:
-            final_text_data = final_text_data.replace(ch, ' ', final_text_data.count(ch))
+    printables = set(string.printable)
+    text_chars = set(reencoded_text_data)
+
+    print "printables =      ", sorted(map(lambda x: ord(x), string.printable))
+    print
+    print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars))
+    print
+    # replace unprintable characters
+    final_text_data = ''
+    for ch in reencoded_text_data:
+        if ch not in text_chars - printables:
+            final_text_data += ch
+
+    text_chars1 = set(final_text_data)
+    print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars1))
+    print
 
     return final_text_data
 
