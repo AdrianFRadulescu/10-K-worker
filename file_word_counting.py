@@ -7,6 +7,16 @@ from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 
 
+def strip_tags(html):
+    s = MLStripper()
+
+    try:
+        s.feed(html.decode("utf-8"))
+        return s.get_data()
+    except:
+        return html
+
+
 def unprintable_handling_word_tokenize(text=""):
 
     """
@@ -115,7 +125,8 @@ def beautify_data(data='', flag=False):
         try:
             soup = BeautifulSoup(data, 'html.parser')
         except:
-            soup = BeautifulSoup(data)
+            soup = strip_tags(data)
+            soup = BeautifulSoup(soup)
     else:
         soup = BeautifulSoup(data, 'lxml')
 
@@ -132,10 +143,10 @@ def beautify_data(data='', flag=False):
     printables = set(string.printable)
     text_chars = set(reencoded_text_data)
 
-    print "printables =      ", sorted(map(lambda x: ord(x), string.printable))
-    print
-    print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars))
-    print
+    #print "printables =      ", sorted(map(lambda x: ord(x), string.printable))
+    #print
+    #print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars))
+    #print
     # replace unprintable characters
     final_text_data = ''
     for ch in reencoded_text_data:
@@ -143,8 +154,8 @@ def beautify_data(data='', flag=False):
             final_text_data += ch
 
     text_chars1 = set(final_text_data)
-    print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars1))
-    print
+    #print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars1))
+    #print
 
     return final_text_data
 
