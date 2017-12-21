@@ -165,127 +165,134 @@ def rawscore_for_words_for_company(**kwargs):
         print "sy = ", special_years
         for file in files:
 
-            print get_file_year_from_content(parent_directory + company + '/' + file)
-            print first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1)
+            try:
 
-            if first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1):
-                continue
-            print "check passed"
-            if 'DS_Store' in file:
-                continue
+                print get_file_year_from_content(parent_directory + company + '/' + file)
+                print first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1)
 
-            # quick content check
-
-            data = open(parent_directory + company + '/' + file, 'r').read().split('\n')[:50]
-
-            ignore = False
-
-            for line in data:
-                if ('CONFORMED SUBMISSION TYPE:' and '/A' in line)\
-                        or ('CONFORMED SUBMISSION TYPE:' in line and not any(map(lambda s: s in line, ['10-K', '10-K405', '10-KSB']))):
-                    ignore = True
+                if first_year > 0 and get_file_year_from_content(parent_directory + company + '/' + file) not in range(first_year,last_year+1):
+                    print 'Ignoring due to bad year'
                     continue
 
-            if ignore:
-                print 'Ignoring {}, file {}, 10-K/A'.format(company, file)
-                continue
+                print "year check passed"
 
-            # check file size
-            if count_words_in_text(beautify_data(read_text_from_file_without_tables(parent_directory + company + '/' + file))) < 2000:
-                print 'Ignoring {}, file {}, word number smaller than 2000'.format(company, file)
-                continue
+                if 'DS_Store' in file:
+                    continue
 
-            #print 'file= ', file
+                # quick content check
 
-            refined_word_freqs = None
-            word_freqs = None
+                data = open(parent_directory + company + '/' + file, 'r').read().split('\n')[:50]
 
-            if kwargs['c_item7']:
+                ignore = False
 
-                # get the refined word frequencies from item 7
-                refined_word_freqs = get_item_7_word_frequencies_from_file(directory=parent_directory + company, file=file,
-                                                                   refined=True, negative_words=negative_words,
-                                                                   remove_range=remove_range)
+                for line in data:
+                    if ('CONFORMED SUBMISSION TYPE:' and '/A' in line)\
+                            or ('CONFORMED SUBMISSION TYPE:' in line and not any(map(lambda s: s in line, ['10-K', '10-K405', '10-KSB']))):
+                        ignore = True
+                        break
 
-                # get the word frequencies from the item 7
-                word_freqs = get_item_7_word_frequencies_from_file(directory=parent_directory + company, file=file,
-                                                                   refined=False)
+                if ignore:
+                    print 'Ignoring {}, file {}, 10-K/A'.format(company, file)
+                    continue
 
-            # get the word frequencies from the whole file
-            text_word_freqs = get_text_word_frequencies_from_file(directory=parent_directory + company, file=file,
-                                                                  refined=False, remove_range=remove_range,
-                                                                  negative_words=negative_words)
+                # check file size
+                if count_words_in_text(beautify_data(read_text_from_file_without_tables(parent_directory + company + '/' + file))) < 2000:
+                    print 'Ignoring {}, file {}, word number smaller than 2000'.format(company, file)
+                    continue
 
-            # get the refined word frequencies from the whole file
-            refined_text_word_freqs = get_text_word_frequencies_from_file(directory=parent_directory + company, file=file,
-                                                                  refined=True, remove_range=remove_range,
-                                                                  negative_words=negative_words)
+                #print 'file= ', file
 
-            print "twf = ", text_word_freqs.values()
-            print "i7wf = ", word_freqs.values()
+                refined_word_freqs = None
+                word_freqs = None
 
-            # reinitialise
-            categories_raw_scores = set_up_accumulator(categories)
-            categories_refined_scores = set_up_accumulator(categories)
+                if kwargs['c_item7']:
 
-            if kwargs['c_item7']:
-                # calculate raw and refined scores for item 7
+                    # get the refined word frequencies from item 7
+                    refined_word_freqs = get_item_7_word_frequencies_from_file(directory=parent_directory + company, file=file,
+                                                                       refined=True, negative_words=negative_words,
+                                                                       remove_range=remove_range)
 
-                for cat in categories_raw_scores:
-                    for w in categories_raw_scores[cat]:
-                        if refined_word_freqs.match(w):
-                            categories_raw_scores[cat][w] += sum(list(word_freqs.values(w)))
+                    # get the word frequencies from the item 7
+                    word_freqs = get_item_7_word_frequencies_from_file(directory=parent_directory + company, file=file,
+                                                                       refined=False)
 
-                for cat in categories_refined_scores:
-                    for w in categories_refined_scores[cat]:
-                        if refined_word_freqs.match(w):
-                            categories_refined_scores[cat][w] += sum(list(refined_word_freqs.values(w)))
+                # get the word frequencies from the whole file
+                text_word_freqs = get_text_word_frequencies_from_file(directory=parent_directory + company, file=file,
+                                                                      refined=False, remove_range=remove_range,
+                                                                      negative_words=negative_words)
 
-            else:
-                # calculate raw and refined scores for the whole text
-                for cat in categories_raw_scores:
-                    for w in categories_raw_scores[cat]:
-                        if refined_word_freqs.match(w):
-                            categories_raw_scores[cat][w] += sum(list(text_word_freqs.values(w)))
+                # get the refined word frequencies from the whole file
+                refined_text_word_freqs = get_text_word_frequencies_from_file(directory=parent_directory + company, file=file,
+                                                                      refined=True, remove_range=remove_range,
+                                                                      negative_words=negative_words)
 
-                for cat in categories_refined_scores:
-                    for w in categories_refined_scores[cat]:
-                        if refined_word_freqs.match(w):
-                            categories_refined_scores[cat][w] += sum(list(refined_text_word_freqs.values(w)))
+                print "twf = ", text_word_freqs.values()
+                print "i7wf = ", word_freqs.values()
 
-            if report_type == 'excel' and (categories_raw_scores is not None or categories_refined_scores is not None):
+                # reinitialise
+                categories_raw_scores = set_up_accumulator(categories)
+                categories_refined_scores = set_up_accumulator(categories)
 
-                # make excel report
-                if not word_freqs == {}: # still not the best way to handle this. A better one needs to be found
+                if kwargs['c_item7']:
+                    # calculate raw and refined scores for item 7
 
-                    report_name = excel_write_dir + company + '/' + company + '.xlsx'
-                    out_wb, out_ws = excel_handling.get_file(filedir=excel_write_dir+company, filename=report_name, company=company)
-                    excel_handling.complete_report_for_year(
-                        work_sheet=out_ws, year=get_file_year(file=file),
-                        report_dictionary=categories_raw_scores,
-                        freq_automaton=word_freqs,
-                        file_word_freq_automaton=text_word_freqs
-                    )
-                    out_wb.save(report_name)
-            elif report_type == 'csv' and (categories_raw_scores is not None or categories_refined_scores is not None):
+                    for cat in categories_raw_scores:
+                        for w in categories_raw_scores[cat]:
+                            if refined_word_freqs.match(w):
+                                categories_raw_scores[cat][w] += sum(list(word_freqs.values(w)))
 
-                # add report as line to csv file
-                if not len(list(word_freqs.values())) == 0:
-                    report_name = csv_handling.get_file(csv_write_dir, csv_report_file)
-                    csv_handling.add_year_report_as_row_to_csv_file(
-                        file_path=report_name,
-                        cik=get_cik(file=file),
-                        company=get_company_name(file),
-                        year=get_file_year_from_content(parent_directory + company + '/' + file),
-                        report_dictionary=categories_raw_scores,
-                        refined_report_dictionary=categories_refined_scores,
-                        item_7_word_freq_automaton=word_freqs,
-                        file_word_freq_automaton=text_word_freqs
-                    )
-            else:
-                print 'HERE'
-                write_scores_to_file(directory=write_dir + company, file_name=file, scores=categories_raw_scores)
+                    for cat in categories_refined_scores:
+                        for w in categories_refined_scores[cat]:
+                            if refined_word_freqs.match(w):
+                                categories_refined_scores[cat][w] += sum(list(refined_word_freqs.values(w)))
 
+                else:
+                    # calculate raw and refined scores for the whole text
+                    for cat in categories_raw_scores:
+                        for w in categories_raw_scores[cat]:
+                            if refined_word_freqs.match(w):
+                                categories_raw_scores[cat][w] += sum(list(text_word_freqs.values(w)))
+
+                    for cat in categories_refined_scores:
+                        for w in categories_refined_scores[cat]:
+                            if refined_word_freqs.match(w):
+                                categories_refined_scores[cat][w] += sum(list(refined_text_word_freqs.values(w)))
+
+                if report_type == 'excel' and (categories_raw_scores is not None or categories_refined_scores is not None):
+
+                    # make excel report
+                    if not word_freqs == {}: # still not the best way to handle this. A better one needs to be found
+
+                        report_name = excel_write_dir + company + '/' + company + '.xlsx'
+                        out_wb, out_ws = excel_handling.get_file(filedir=excel_write_dir+company, filename=report_name, company=company)
+                        excel_handling.complete_report_for_year(
+                            work_sheet=out_ws, year=get_file_year(file=file),
+                            report_dictionary=categories_raw_scores,
+                            freq_automaton=word_freqs,
+                            file_word_freq_automaton=text_word_freqs
+                        )
+                        out_wb.save(report_name)
+                elif report_type == 'csv' and (categories_raw_scores is not None or categories_refined_scores is not None):
+
+                    # add report as line to csv file
+                    if not len(list(word_freqs.values())) == 0:
+                        report_name = csv_handling.get_file(csv_write_dir, csv_report_file)
+                        csv_handling.add_year_report_as_row_to_csv_file(
+                            file_path=report_name,
+                            cik=get_cik(file=file),
+                            company=get_company_name(file),
+                            year=get_file_year_from_content(parent_directory + company + '/' + file),
+                            report_dictionary=categories_raw_scores,
+                            refined_report_dictionary=categories_refined_scores,
+                            item_7_word_freq_automaton=word_freqs,
+                            file_word_freq_automaton=text_word_freqs
+                        )
+                else:
+                    print 'HERE'
+                    write_scores_to_file(directory=write_dir + company, file_name=file, scores=categories_raw_scores)
+
+            except HTMLParser.HTMLParseError:
+                print 'File ' + file + ' Ingnored due to html error'
     return categories_raw_scores
 
 

@@ -6,17 +6,6 @@ from sys import platform
 from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 
-
-def strip_tags(html):
-    s = MLStripper()
-
-    try:
-        s.feed(html.decode("utf-8"))
-        return s.get_data()
-    except:
-        return html
-
-
 def unprintable_handling_word_tokenize(text=""):
 
     """
@@ -125,16 +114,7 @@ def beautify_data(data='', flag=False):
         try:
             soup = BeautifulSoup(data, 'html.parser')
         except:
-
-            printables = set(string.printable)
-            text_chars = set(soup)
-
-            final_text_data = ''
-            for ch in soup:
-                if ch not in text_chars - printables:
-                    final_text_data += ch
-
-            soup = BeautifulSoup(final_text_data)
+            soup = BeautifulSoup(data)
     else:
         soup = BeautifulSoup(data, 'lxml')
 
