@@ -40,13 +40,19 @@ if __name__ == "__main__":
         already_renamed_ciks = {}
 
         line_delim = "-" * (len("company") + 35 + 11 + 6) + "\n"
+
         if sys.argv[4] == 'a':
 
             # get all the directories that have already been renamed
+            '''
             with open(sys.argv[2] + '/company_ciks.csv', 'r') as aux_cik_file:
-                #print aux_cik_file.read().replace('\n', '')
                 for cik in aux_cik_file.read().replace('\n', '').split(','):
                     already_renamed_ciks[cik] = True
+            '''
+            with open(sys.argv[2] + '/company_cik_table', 'r') as aux_cik_file:
+                for content_line in aux_cik_file.read().split(line_delim)[1:]:
+                    already_renamed_ciks[content_line.split('| ')[-1].replace('\n', '')] = True
+
         else:
             cik_table_file.write(15 * " " + "Company" + 27 * " " + "CIK" + "\n")
             cik_table_file.write(line_delim)
@@ -140,11 +146,3 @@ if __name__ == "__main__":
                         os.rename(database_path + '/' + list(companies)[0] + '/' + fl, database_path + '/' + comp + '/' + fl)
                     except OSError:
                         print "fail"
-
-            '''
-            for fl in os.listdir(database_path + '/' + cik_dir):
-                company_name = get_file_company(fl)
-                print fl, '-->>', company_name
-                print database_path + '/' + cik_dir + '/' + fl, " to ", database_path + '/' + company_name + '/' + fl
-                os.rename(database_path + '/' + cik_dir, database_path + '/' + company_name)
-            '''
