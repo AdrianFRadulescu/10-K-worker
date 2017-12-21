@@ -75,8 +75,28 @@ On Windows(assuming your python interpreter is intalled in "C:\Python27\python.e
         -categs '/Users/adrian_radulescu1997/Documents/Uni-Courses/DBPartTimeJob/crawler/Culture type Bag of words.ctg'
     
     This will make a report for companies on multiple years only for the item 7 section.
+
+An additional script for reanming the directories in the database is provided:
+
+Available actions(for rename_database.py) are:
+
+    -cik        -will change the names of the directories in the database to represent the ciks of the companies the 
+                 files describe
+    -namse      -will revert the 'cik' actions 
     
-    C:\Python27\python.exe rename_database.py database_location
+Arguments are:
+    
+    -cik :
+        database_path   -the path to the directory containing the folders of the companies
+        -mode           -the opening mode for the cik_table and cik files('w' for writing them, 'a' for appending to them)
+    -names:
+        database_path   -the path to the directory containing the folders of the companies
+    
+    
+Example Usage:
+
+    C:\Python27\python.exe rename_database.py -cik database_location -mode 'w'
+    C:\Python27\python.exe rename_database.py -names database_location
     
     This will rename the comapnies in the database and create an index file 
 
