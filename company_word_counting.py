@@ -293,7 +293,9 @@ def rawscore_for_words_for_company(**kwargs):
                     write_scores_to_file(directory=write_dir + company, file_name=file, scores=categories_raw_scores)
 
             except HTMLParser.HTMLParseError:
-                print 'File ' + file + ' Ingnored due to html error'
+                print 'File ' + file + ' ingnored due to html error'
+            except MemoryError:
+                print 'File ' + file + ' ingnored due to memory error'
     return categories_raw_scores
 
 
