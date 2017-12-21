@@ -258,6 +258,19 @@ def get_file_year_from_content(file=''):
             year = year.join(filter(lambda ch: ch.isdigit(), line))[:4]
             break
 
+        elif 'YEAR ENDED' in line:
+
+            # look for 4 alphanumerical characters
+            current_string_year = ''
+            for ch in line:
+                if '0' <= ch and ch <= '9':
+                    current_string_year += ch
+                else:
+                    if len(current_string_year) < 4:
+                        current_string_year = ''
+                    else:
+                        year = current_string_year
+                        break
     return int(year)
 
 
