@@ -29,7 +29,7 @@ if __name__ == "__main__":
         if len(sys.argv) == 5 and sys.argv[4] == 'a':
             # rewrite file
             cik_table_file = open(sys.argv[2] + '/company_cik_table', "a")
-            cik_file = open(sys.argv[2] + '/company_ciks.csv', "a")
+            cik_file = open(sys.argv[2] + '/company_ciks.csv', "w")
         else:
             # append to table
             cik_table_file = open(sys.argv[2] + '/company_cik_table', "w")
@@ -63,6 +63,7 @@ if __name__ == "__main__":
                 print name_dir
 
                 if name_dir in already_renamed_ciks:
+                    ciks[name_dir] = database_path + '/' + name_dir
                     print 'directory already renamed, skipping'
                     continue
 
@@ -127,22 +128,20 @@ if __name__ == "__main__":
                 else:
                     companies[get_file_company(fl)] = [fl]
 
-            # rename current file with the first name in the dictionary
+            print "renaming files"
 
-            try:
-                print "renaming ", cik_dir, " to ", list(companies)[0]
-                os.rename(database_path + '/' + cik_dir, database_path + '/' + list(companies)[0])
-                print "successful renaming"
-            except OSError:
-                print "fail"
+            for comp in list(companies):
 
-            print "renaming other files if any"
+                print "renaming for company ", comp
 
-            for comp in list(companies)[1:]:
+                os.mkdir(database_path + '/' + comp)
 
                 for fl in companies[comp]:
                     try:
-                        print "renaming ", fl, " to ",
-                        os.rename(database_path + '/' + list(companies)[0] + '/' + fl, database_path + '/' + comp + '/' + fl)
+                        print "moving ", database_path + '/' + cik_dir + '/' + fl, " to ", database_path + '/' + comp
+                        shutil.move(database_path + '/' + cik_dir + '/' + fl, database_path + '/' + comp)
+                        #os.rename(database_path + '/' + list(companies)[0] + '/' + fl, database_path + '/' + comp + '/' + fl)
                     except OSError:
                         print "fail"
+
+            shutil.rmtree(database_path + '/' + cik_dir)
