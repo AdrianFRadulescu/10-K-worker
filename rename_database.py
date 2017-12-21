@@ -89,6 +89,8 @@ if __name__ == "__main__":
                         print database_path + '/' + name_dir + '/' + fl
                         try:
                             print "trying to rename ", get_cik(fl), " " + fl
+                            if ciks[get_cik(fl)] not in ciks:
+                                os.mkdir(database_path + '/' + ciks[get_cik(fl)])
                             os.rename(database_path + '/' + name_dir + '/' + fl, ciks[get_cik(fl)] + '/' + fl)
                             print "rename successful"
                         except OSError:
