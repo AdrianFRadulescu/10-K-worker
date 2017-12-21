@@ -82,7 +82,7 @@ Available actions(for rename_database.py) are:
 
     -cik        -will change the names of the directories in the database to represent the ciks of the companies the 
                  files describe
-    -namse      -will revert the 'cik' actions 
+    -names      -will revert the 'cik' actions 
     
 Arguments are:
     
