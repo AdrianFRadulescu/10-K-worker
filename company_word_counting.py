@@ -1,3 +1,4 @@
+import HTMLParser
 import os
 import pickle
 import csv_handling

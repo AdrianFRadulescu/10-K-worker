@@ -263,14 +263,27 @@ def get_file_year_from_content(file=''):
             # look for 4 alphanumerical characters
             current_string_year = ''
             for ch in line:
-                if '0' <= ch and ch <= '9':
-                    current_string_year += ch
+                if '0' <= ch:
+                    if ch <= '9':
+                        current_string_year += ch
+                    else:
+                        if len(current_string_year) < 4:
+                            current_string_year = ''
+                        else:
+                            year = current_string_year
+                            break
                 else:
                     if len(current_string_year) < 4:
                         current_string_year = ''
                     else:
                         year = current_string_year
                         break
+
+            if len(current_string_year) == 4:
+                year = current_string_year
+                break
+
+    print year
     return int(year)
 
 
