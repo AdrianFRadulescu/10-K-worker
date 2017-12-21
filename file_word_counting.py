@@ -125,8 +125,16 @@ def beautify_data(data='', flag=False):
         try:
             soup = BeautifulSoup(data, 'html.parser')
         except:
-            soup = strip_tags(data)
-            soup = BeautifulSoup(soup)
+
+            printables = set(string.printable)
+            text_chars = set(soup)
+
+            final_text_data = ''
+            for ch in soup:
+                if ch not in text_chars - printables:
+                    final_text_data += ch
+
+            soup = BeautifulSoup(final_text_data)
     else:
         soup = BeautifulSoup(data, 'lxml')
 
@@ -153,7 +161,6 @@ def beautify_data(data='', flag=False):
         if ch not in text_chars - printables:
             final_text_data += ch
 
-    text_chars1 = set(final_text_data)
     #print "text char ascii = ", sorted(map(lambda x: ord(x), text_chars1))
     #print
 
