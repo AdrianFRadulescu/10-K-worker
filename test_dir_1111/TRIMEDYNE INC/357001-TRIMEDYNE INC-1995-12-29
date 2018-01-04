@@ -1,0 +1,3317 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KWsjvcE8cmLnXE0WkGVQtynyGX+bFEKyUVTxM2+oq8F8Nf/RR4kcEIoQA2FGQKv3
+ T/kKHRrLN4UU+wnlA7yWVA==
+
+<SEC-DOCUMENT>0000892569-95-000755.txt : 19951231
+<SEC-HEADER>0000892569-95-000755.hdr.sgml : 19951231
+ACCESSION NUMBER:		0000892569-95-000755
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19950930
+FILED AS OF DATE:		19951229
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRIMEDYNE INC
+		CENTRAL INDEX KEY:			0000357001
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		IRS NUMBER:				363094439
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10581
+		FILM NUMBER:		95605488
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2801 BARRANCA ROAD
+		STREET 2:		P O BOX 57001
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92619
+		BUSINESS PHONE:		7145595300
+
+	MAIL ADDRESS:	
+		STREET 1:		2801 BARRANCA ROAD
+		STREET 2:		P O BOX 57001
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92619
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549 
+
+
+                       ----------------------------------
+
+                                   
+                                   FORM 10-K
+
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 1995       COMMISSION FILE NO. 0-10581
+
+
+                       ----------------------------------
+
+
+                                TRIMEDYNE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+
+             NEVADA                                         36-3094439
+ (STATE OR OTHER JURISDICTION                            (I.R.S. EMPLOYER
+       OF INCORPORATION)                                 IDENTIFICATION NO.)
+
+ 2801 BARRANCA ROAD, P.O. BOX 57001                          92619-7001
+       IRVINE, CALIFORNIA                                    (ZIP CODE)
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+
+              REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:
+                                 (714) 559-5300      
+
+
+                       ----------------------------------
+
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+                                      NONE
+
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                     COMMON STOCK, $.01 PAR VALUE PER SHARE
+                                (TITLE OF CLASS)     
+
+                       
+                       ----------------------------------
+
+
+         INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL
+REPORTS REQUIRED TO BE FILED BY SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS, AND (2) HAS BEEN SUBJECT TO THE
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.  YES  X     NO 
+                                               ----      ----
+
+         THE AGGREGATE MARKET VALUE OF VOTING STOCK HELD BY NON-AFFILIATES OF
+REGISTRANT ON DECEMBER 13, 1995, BASED UPON THE CLOSING PRICE OF THE COMMON
+STOCK ON SUCH DATE WAS $23,935,000.
+
+         AS OF DECEMBER 13, 1995, THERE WERE OUTSTANDING 9,573,910 SHARES OF
+REGISTRANT'S COMMON STOCK.
+
+         INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO
+ITEM 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED,
+TO THE BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION
+STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY
+AMENDMENT TO THIS FORM 10-K.
+                            ----------
+
+
+<PAGE>   2
+                               TABLE OF CONTENTS
+
+
+<TABLE>
+<S>                                                                                          <C>
+ITEM 1.  BUSINESS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+         General  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+         Cold Laser Use in Orthopedics and Other Surgical Applications. . . . . . . . . .     1
+         Lateral Firing Laser Devices . . . . . . . . . . . . . . . . . . . . . . . . . .     2
+         Agreement with Bard, FDA Status and Pending Lawsuits . . . . . . . . . . . . . .     3
+         Thermal Laser Use in Blood Vessels and Surgery . . . . . . . . . . . . . . . . .     4
+         Cold Laser Use in the Cardiovascular Field . . . . . . . . . . . . . . . . . . .     4
+         License Agreements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     4
+         Plastic Optical Fibers . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+         Research and Development . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+         Manufacturing, Supply Agreements . . . . . . . . . . . . . . . . . . . . . . . .     6
+         Marketing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     6 
+         Government Regulation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     6
+         Employees  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     8
+         Patents and Patent Applications  . . . . . . . . . . . . . . . . . . . . . . . .     8
+         Competition  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    10  
+         Insurance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    10
+         Industry Segment Information . . . . . . . . . . . . . . . . . . . . . . . . . .    11
+         Foreign Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    11 
+                                                                                               
+
+ITEM 2.  PROPERTIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    11
+                                                                                              
+
+ITEM 3.  LITIGATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    11
+                                                                                             
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS  . . . . . . . . . . . . . .    12
+                                                                                              
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS . . . . . .    13
+                                                                                        
+
+ITEM 6.  SELECTED FINANCIAL DATA  . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF CONSOLIDATED RESULTS OF 
+         OPERATIONS AND CONSOLIDATED FINANCIAL CONDITION  . . . . . . . . . . . . . . . .    14
+                                                                                          
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. . . . . . . . . . . . . . . . . . .    16
+                                                                                                       
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON 
+         ACCOUNTING AND FINANCIAL DISCLOSURE  . . . . . . . . . . . . . . . . . . . . . .    16
+                                                                                             
+
+ITEM 10. IDENTIFICATION OF DIRECTORS AND EXECUTIVE OFFICERS . . . . . . . . . . . . . . .    16
+                                                                                     
+
+ITEM 11. EXECUTIVE COMPENSATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    16
+                                                                                   
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT . . . . . . . . .    16
+                                                                                       
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS . . . . . . . . . . . . . . . . .    16
+                                                                                    
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K . . . . . . . .    17
+                                                                                   
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS  . . . . . . . . . . . . . . . . . . . . . . .   F-1
+                                                                          
+</TABLE>
+
+
+
+
+
+                                       i
+<PAGE>   3
+                                     PART I
+
+ITEM 1.   BUSINESS
+
+GENERAL
+
+         Trimedyne, Inc. (the "Company") is engaged in the development,
+manufacturing and marketing of Nd:YAG "thermal" lasers, Holmium "cold" lasers
+and proprietary, disposable fiber-optic laser delivery devices for use in
+urology, orthopedics  and other medical specialties.
+
+         The Company's principal efforts from its inception in 1980 until 1991
+were devoted to the manufacturing and marketing of lasers for vaporizing plaque
+(fatty deposits) in blood vessels.  As a result of significant declines in
+sales of its cardiovascular laser products, in 1991 the Company expanded its
+laser and proprietary delivery system technologies into selected "less
+invasive" surgical applications in urology, orthopedics and other medical
+specialties, where the Company believes its laser products have significant
+advantages over conventional surgical devices.
+
+         As a result of lower sales in urology, net revenue of the Company in
+fiscal 1995 decreased 3% to $13,041,000 from $13,393,000 for the prior year.
+The Company incurred a net loss of $5,290,000 or $0.56 per share during fiscal
+1995, compared to a net loss of $2,265,000 or $0.25 per share in fiscal 1994.
+The increased loss in fiscal 1995 was principally a result of lower total
+revenues and lower margins on revenues from sales of orthopedic products,
+compared to those in urology.  On September 30, 1995, the Company provided
+reserves to write down inventories, receivables, and incurred legal fees 
+related to urology products aggregating to $1,200,000.  (See "Agreement with 
+Bard", "FDA Status and Pending Litigation" and "Litigation" herein.)  The 
+Company's working capital as of September 30, 1995 was $10,082,000.  (See 
+"Management's Discussion and Analysis of Results of Operations and 
+Consolidated Financial Condition" herein).
+
+         The Company is a Nevada corporation incorporated on May 1, 1980, which
+adopted its present name on December 31, 1980.  The Company's majority owned
+(90%) subsidiary, Poly-Optical Products, Inc. ("Poly-Optical"), manufactures
+plastic optical fibers for use in automotive, consumer, industrial and medical
+products.  The Company also has several other wholly-owned subsidiaries, which
+are inactive, including TriCardio, Inc. ("TriCardio").  Unless the context
+otherwise requires, all references to the Company shall be to Trimedyne, Inc.
+and its subsidiaries.  The Company's principal executive offices are located at
+2801 Barranca Road, Irvine, California 92714, and its telephone number is (714)
+559-5300.
+
+COLD LASER USE IN ORTHOPEDICS AND OTHER SURGICAL APPLICATIONS
+
+         Cold lasers, which generate short pulses of laser energy, are able to
+cut and vaporize tissue without significant thermal damage to surrounding
+areas.  Such lasers are expected to have advantages over "thermal" lasers in
+certain surgical applications, particularly when used in tissues which are
+irreparably damaged by heat or near heat sensitive blood vessels, nerves or
+structures.  In March 1991, the Company received United States Food and Drug
+Administration ("FDA") clearance of its 510(k) Premarket Notification (see
+"Government Regulation") to market its OmniPulseTM Holmium "cold" Laser and a
+variety of disposable optical fiber delivery devices for use in orthopedic
+surgery in soft tissues.  Orthopedic tissues, such as cartilage in the joints,
+do not regenerate (re-grow) if damaged by heat.  The Holmium Laser, which
+produces short pulses of laser energy at a wavelength of 2100 nanometers, can
+cut or ablate such tissues with little or no damage.  Also, tiny fiber optic
+devices permit laser energy to be delivered into spaces in joints too small to
+accommodate conventional surgical tools. An estimated 1,200,000 arthroscopic
+surgeries are performed annually in the United States.
+
+         In December 1991, the Company received FDA clearance of its 510(k)
+Premarket Notification to market its OmniPulsTM Holmium Laser for use in
+herniated lumbar spinal disks to treat lower back pain.  In a laser discectomy
+procedure, a needle containing an optical fiber is inserted into the spinal
+disk, either under x-ray guidance or through an endoscope, and the laser is
+used to vaporize a portion of the nucleus of the disk, relieving the pressure
+of the disk on the nerves of the spinal column.  In June, 1993, the Company
+received FDA clearance of its 510(k) Premarket Notification to market its
+proprietary Sidefire_ Laser Needle for use with its Holmium laser in herniated
+spinal disks.  According to published studies, Holmium Laser use in discectomy
+was successful in relieving the pain in up to 90% of the cases treated. While
+more than 20 million people in the United States suffer from lower back pain,
+the number of these whose back pain is sufficiently serious to warrant a laser
+discectomy procedure cannot presently be ascertained.
+
+                                       
+                                       
+                                       
+                                       1
+
+
+<PAGE>   4
+
+         Sales of the Company's Holmium Lasers and delivery devices in
+orthopedics increased 65% in fiscal 1995, compared to the prior year.  The
+Company believes that sales of its Holmium Lasers and delivery devices in
+orthopedics will continue to increase in fiscal 1996 and thereafter, although
+such cannot be assured.
+
+         In September 1991, the Company received FDA clearance of its 510(k)
+Premarket Notification to market its OmniPulse(TM) Holmium Laser in general
+surgery, including laparoscopic cholecystectomy procedures.  In  March 1994,
+the Company received  FDA clearance under a 510(k) Premarket Notification to
+market this laser for use in urology and endoscopic sinus surgery, an ear, nose
+and throat ("ENT") specialty.  In July, 1995, the Company received FDA
+clearance to market this laser under a 510(k) Premarket Notification for use in
+gynecology and lithotripsy (to fragment stones in the urethra).  The Company
+plans to file similar applications with the FDA for the use of its Holmium
+Laser in a variety of other surgical applications, including dermatology and
+plastic surgery, where its ability to cut and vaporize tissue without thermal
+damage to adjoining areas is expected to offer substantial advantages over
+other lasers and conventional surgical tools.
+
+LATERAL FIRING LASER DEVICES
+
+         In certain surgical applications, deep coagulation of tissues is
+desired.  Laser light, which penetrates tissue to a predictable depth based
+upon the wavelength being used, offers the unique ability to create coagulation
+zones in tissue of almost any desired depth or shape.  The coagulated tissues
+die, due to lack of blood flow, and are partially absorbed by the body.  The
+remainder is sloughed off by the body in a mucous-like effusion, resulting in a
+shrinkage of the mass.
+
+         The Company's Neodymium:YAG ("Nd:YAG") Lasers, which produce
+continuous wave "thermal" light energy at a wavelength of 1064 nanometers,
+produce a greater depth of coagulation in tissue (approximately 4,000 microns
+or 4mm) than any other wavelength of laser light.   Heat conduction can
+increase the coagulation zone in tissue up to approximately 1.4cm (0.55
+inches).  Deep coagulation is believed to be useful in a variety of surgical
+applications in urology, gynecology, gastroenterology, general surgery,
+oncology (cancer), and other medical specialties.  However, it is frequently
+difficult to vaporize or coagulate all of the target tissue with conventional,
+straight-ahead firing optical fibers, which produce a long, narrow coagulation
+zone.
+
+         In 1988, the Company acquired an exclusive, worldwide license to a
+fiber optic device for deflecting laser energy 90 degrees to the side
+("Lateralase(TM) Fiber"), consisting of a specially designed, reflectively
+coated metal tip which is mounted on the end of an optical fiber.  Used with an
+Nd:YAG thermal laser, the Lateralase(TM) Fiber produces a sphere of coagulation
+of up to 2.8 cm (1.1 inches) in diameter, depending on the level of energy
+employed and time of lasing.  In March 1992, the license was determined to be
+non-exclusive.  Two co-licensed U.S. Patents covering such devices have issued. 
+(See "License Agreements" and "Litigation" herein for details on past
+litigation with respect to the License Agreement covering this device).
+
+         In January, 1990, the Lateralase(TM) Fiber was cleared for sale by the
+U.S. Food and Drug Administration ("FDA") under a 510(k) Premarket Notification
+for use in gynecology, and in June, 1991, the Lateralase(TM) Fiber  was cleared
+for sale by the FDA under a 510(k) Premarket Notification for ablation and
+hemostasis (coagulation) of urologic tissues.  In addition to the above
+described patent license, the Company has an exclusive license to a U.S. Patent
+which was issued in  August 1995 and covers the method of use of side-firing
+laser devices in urology, orthopedics, gynecology, gastroenterology, oncology
+and other medical specialties.
+
+         On November 28,  1994, the Company received clearance from the FDA
+under a 510(k) Premarket Notification to market a new, improved version of the
+Lateralase(TM) Fiber, which has greater durability, and a new, more versatile
+version of the Lateralase(TM) Fiber which has the ability to both coagulate and
+ablate tissue.
+
+         The Company has also developed proprietary side firing optical fibers
+which are small enough to be inserted into a needle (Sidefire(TM) Needle), which
+can be inserted directly into tissue or used through an endoscope.  In January
+and April 1992, the Company received clearance from the FDA under 510(k)
+Premarket Notifications to market its Sidefire(TM) Needles with its Holmium and
+Nd:YAG Lasers in a variety of medical specialties.
+
+
+
+
+
+                                       2
+<PAGE>   5
+         The Company is devoting significant efforts to developing improved
+side-firing laser devices and believes these devices may have a significant
+beneficial effect upon the Company's revenues in fiscal 1996 and thereafter,
+although such cannot be assured (See "Agreement with Bard").
+
+AGREEMENT WITH BARD, FDA STATUS AND PENDING LAWSUITS
+
+         In June 1991, the Company entered into a Development, Supply and
+License Agreement with C.R. Bard, Inc. ("Bard"), under which Bard was granted
+exclusive, worldwide rights to market the Company's side-firing laser devices,
+certain other laser delivery devices and improvements thereto in urology,
+gynecology and gastroenterology.  Bard markets the Company's Lateralase(TM)
+side-firing Fiber under its Urolase(R) Fiber trademark.  Bard is the world
+market leader in the sale of products in the urology field.
+
+         Under the Agreement, the Company invoices Bard for Urolase(R) Fibers
+when shipped to Bard at an agreed-upon transfer price and, when these devices
+are sold by Bard to a customer, the Company receives a portion of the sales
+price (subject to certain volume adjustments and R&D allocations).  Bard also
+agreed to pay certain future patent preparation, filing and maintenance costs
+and to share certain royalty and patent litigation costs with the Company.
+Bard also agreed, at its expense, to conduct a prospective, randomized,
+controlled clinical study of the Urolase(R) Fiber at a number of medical centers
+in the United States in the treatment of benign prostatic hyperplasia ("BPH")
+or enlarged prostate, a condition affecting an estimated 50% of all men over
+age 55.
+
+         Bard's study was begun in 1991.  In April 1992, Bard commenced a
+limited marketing release of the Urolase(R) Fiber for urologic use in the
+United States and commenced marketing these devices in Europe, the Far East and
+a number of other countries in early 1993.  Although cleared for sale by the
+FDA for ablation and hemostasis (coagulation) of urologic tissues, in January
+1993, the FDA announced that side-firing laser devices were investigational and
+not cleared for use in the treatment of BPH.  Bard thereupon ceased promoting
+the Urolase(R)Fiber in the United States.  In June 1993, the FDA announced that
+a Pre-Market Approval ("PMA") Application (see "Government Regulation") and a
+controlled, prospective clinical trial, with a one-year follow-up period, would
+be required for approval to market a side-firing laser device for the treatment
+of BPH.
+
+         In July 1993, the Company and Bard jointly filed a PMA Application to
+market the Urolase(R) Fiber for the treatment of BPH. The results of the Bard
+clinical trial, including one year follow-up data, were supplied to the FDA to
+support the PMA Application.  In November 1993, the Company announced that the
+PMA Application was accepted by the FDA after a preliminary review and had been
+granted Expedited (priority) Review Status.  The Company and Bard responded to
+questions from the FDA in January 1994 and filed the Manufacturing Section of
+the PMA Application with the FDA in October 1994.  At the Company's request, in
+late 1994 Bard withdrew its name from the PMA Application.  The Company engaged
+an experienced regulatory consultant and two respected urologists to assist it,
+and the Company responded to the FDA's remaining questions in August 1995.
+
+         In October 1995, the FDA changed its position and advised the Company
+and other laser manufacturers that side-firing laser devices could be cleared
+for sale for the treatment of BPH under the less stringent 510(k) Premarket
+Notification process, with clinical study data.  Therefore, in October 1995,
+the Company withdrew its previously filed PMA Application and filed its 510(k)
+Premarket Notification with the FDA, and amendments were subsequently made in
+response to additional FDA questions.
+
+         There is no assurance the Company's 510(k) Premarket Notification
+Application will be cleared by the FDA.  While the Urolase(R) Fiber can be sold
+for ablation and hemostasis (coagulation) of urologic tissues, in the absence
+of an FDA cleared 510(k) Premarket Notification for the treatment of BPH,
+physician acceptance of the product and third party reimbursement therefor will
+not be assured, which may limit the device's marketability.  If the Company's
+510(k) Notification is not cleared, the Company may be faced with the cost and
+time required to conduct a new, randomized, controlled clinical study.
+
+         In June 1994, Bard advised the Company that it was contemplating the
+purchase of laser devices from another laser manufacturer.  The Company
+objected and, in September 1994, Bard advised the Company that it was no longer
+contemplating the purchase of laser devices from the other manufacturer and
+intended to abide by the terms of the exclusive Development, Supply and License
+Agreement with the Company.  As of September 30, 1995, Bard has a substantial
+inventory of Urolase(R) Fibers and has not advised the Company of any plan to
+restart its marketing of this product in the United States, thus, no
+substantial sales to Bard, if any, are expected for some time.
+
+
+
+
+
+                                       3
+<PAGE>   6
+         On October 6, 1995, the Company filed a lawsuit against Bard claiming
+damages of at least $72 million  for Bard's failure to perform its obligations
+as Trimedyne's exclusive distributor under the Agreement.  The Company is
+taking actions to mitigate its damages, produce revenues and attempt to regain
+its market position in urology.
+
+         On January 25, 1995, the Company filed a lawsuit against Surgical
+Laser Technologies, Inc. (SLT) charging infringement of the Company's U.S.
+Patent No. 4,646,737, and of U.S. Patent No. 5,380,317 which is owned jointly
+by the Company and by Dr. Everett.  On November 8, 1995 the Court granted SLT's
+motion for summary judgment that U.S. Patent No. 4,646,737 is not infringed by
+SLT's contact lasing devices.  The Company believes that the Court's
+interlocutory order granting the motion for summary judgment is incorrect and
+plans to appeal the Court's decision at the appropriate time.  The Company is
+currently investigating whether SLT is infringing yet another U.S. patent owned
+by the Company.
+
+THERMAL LASER USE IN BLOOD VESSELS AND SURGERY
+
+         In 1987 and 1990, respectively, the Company received clearance from
+the FDA to market its Optilase(TM) Nd:YAG "thermal" lasers with a variety of
+optical fibers and devices for use in peripheral (below the waist) blood
+vessels and in a number of surgical specialties.  In addition to their ability
+to melt or vaporize plaque and cut, coagulate and vaporize tissue, the heat
+created by such lasers simultaneously cauterizes adjoining tissues, stopping
+bleeding.  In addition, Nd:YAG laser energy can be transmitted through tiny
+optical fibers inserted into blood vessels or body cavities through small
+incisions. The Company does not plan to devote significant efforts to marketing
+its Nd:YAG "thermal" lasers and optical fibers for use in blood vessels or
+surgery.
+
+COLD LASER USE IN THE CARDIOVASCULAR FIELD
+
+         Since the Company is focusing its efforts in the urology and
+orthopedic fields, the Company  has established  a subsidiary, TriCardio, Inc.,
+to which it intends to exclusively license all of its patents, patent
+applications and assign all of its assets and business in the cardiovascular
+field.  At the present time, this wholly-owned subsidiary is inactive.  The
+Company plans to seek private financing for TriCardio in 1996 to develop
+several new cardiovascular products based on its technology.  The most
+significant of these is a new procedure involving the use of a proprietary,
+pulsed "cold" laser inserted through a puncture between the ribs to create
+15-30 new channels through the heart wall in a beating heart.  The channels
+seal at the outer surface of the heart and enable blood from the heart's
+chamber to enter the heart muscle.
+
+         This procedure, called trans-myocardial revascularization or "TMR", is
+designed to provide blood flow to the heart muscle of persons who have failed
+coronary bypass surgery and/or balloon angioplasty, or whose condition
+precludes such surgery.  If successful, this procedure could be used as an
+alternative (or adjunct) to coronary bypass surgery.  The Company also plans to
+develop devices, like conventional heart catheters, that might enable these
+channels to be made with optical fibers extended through such catheters from
+inside the heart's chamber, as an alternative (or adjunct) to coronary balloon
+angioplasty.
+
+         The development of the aforementioned TMR devices is in a very early,
+conceptual stage, and there is no assurance the Company's efforts in this area
+will be successful.  The Company plans to obtain financing for TriCardio in
+1996 are at an early stage and may not prove successful, in which case these
+cardiovascular products will not be developed.
+
+LICENSE AGREEMENTS
+
+         On April 1, 1988, the Company entered into an exclusive, worldwide
+license agreement, for a royalty on sales in gynecology, with a co-inventor
+("the Co-Inventor") of U.S. Patent Application No. 460,843 covering a
+lateral-lasing device. As a result of litigation, in March 1992 the license
+agreement was determined to be non-exclusive.  In June 1994, the Company
+settled other litigation with the Co-Inventor.  (See "Litigation" herein for a
+description of the litigation with the Co-Inventor.)
+
+         In January 1991, the Company entered into a non-exclusive license
+agreement with International Business Machines Corporation ("IBM") to a U.S.
+Patent owned by IBM covering Excimer Lasers, under which a royalty on sales of
+such lasers is payable to IBM.
+
+         In March 1991, the Company entered into an agreement with Douglas E.
+Johnson, M.D., under which Dr. Johnson agreed to assign to the Company, for a
+royalty on sales, all U.S. and foreign patent rights to a patent application
+covering a method of use of side-firing laser devices in a variety of medical
+specialties.  The U.S. Patent covering this method issued
+
+
+
+
+
+                                       4
+<PAGE>   7
+in August 1995.  The Company believes this U.S. Patent will enable the Company
+to obtain a significant advantage in the market for products for the treatment
+of BPH, although such cannot be assured.
+
+         In fiscal 1993, the Company acquired rights to three issued U.S.
+Patents and one patent application on file in the United States and a number of
+foreign countries, as described below.
+
+         In July, 1993, the Company acquired sole ownership of a U.S. Patent
+covering an expandable laser angioplasty catheter from Robert S. Ginsburg,
+M.D., Director of the Unit for Cardiovascular Intervention of the University of
+Colorado. In November, 1995, the Company was issued a U.S. Patent covering an
+improved, expandable laser angioplasty catheter. Since coronary arteries are
+almost always larger in diameter than conventional catheters, it is necessary
+to follow the laser procedure with balloon angioplasty to widen the channel,
+which can result in reclosure of the vessel.  These U.S. Patents may enable the
+Company to develop laser catheters able to create a channel significantly
+larger than their diameter and restore normal blood flow, without the need to
+follow the laser procedure with balloon angioplasty.  A second U.S. Patent
+acquired from Dr. Ginsburg covers the use of laser energy through a balloon.
+
+         The Company acquired, for a royalty on sales, from C. Stefanadis, M.D.
+and P. Tovtousas, M.D. of the University of Athens in Greece, an exclusive,
+worldwide license to a U.S. Patent (pending in several foreign countries)
+covering a temporary, removable stent-like coronary infusion catheter for
+relieving abrupt reclosure (generally due to spasm of the vessel) or dissection
+(separation of the plaque from the vessel wall), a condition which occurs in
+approximately 5% and 9%, respectively, of the estimated 400,000 coronary
+balloon angioplasty procedures performed each year in the United States.
+
+         The Company acquired, for a royalty on sales, an exclusive license to
+a U.S. Patent issued to Glen K. Geremia M.D. and Michael Haklin of the
+Rush-Presbyterian-St. Luke's Medical Center in Chicago.  The patent covers a
+device and method for depositing a tiny coil of platinum wire, called the
+Geremia Coil, in an aneurysm in a blood vessel in the brain.  An aneurysm
+occurs when a portion of the wall of a blood vessel becomes weakened and
+balloons out, like a bubble on an automobile tire.  Depositing several Coils in
+the aneurysm causes a clot to form, filling the aneurysm and taking the
+pressure off the weakened vessel wall.  An estimated 90,000 brain aneurysms are
+diagnosed annually in the United States.  In 1995 the Company filed a U.S.
+Patent application on an improved method for delivering and relasing Coils in
+brain aneurysms.
+
+         The Company also has license agreements with a number of universities
+and inventors.  U.S. Patents covering certain of the Company's products have
+also been issued to officers and employees of the Company and have been
+assigned to the Company without royalty.  In addition, patent applications by
+officers and employees of the Company are on file with the U.S. Patent Office
+(and in a number of foreign countries) and have been assigned to the Company
+without royalty.  These patent applications are currently being processed by
+the U.S. Patent Office and, to the Company's knowledge, are proceeding in the
+normal course of review.
+
+PLASTIC OPTICAL FIBERS
+
+         In May 1983, the Company acquired Poly-Optical Products, Inc.
+("Poly-Optical"), a manufacturer of fiber-optic lighting and viewing devices.
+Poly-Optical owns four U.S. Patents and has six additional U.S. Patent
+applications pending, certain of which cover products the Company believes have
+potential for backlighting membrane switches and liquid crystal displays.  In
+December 1986, the Company sold 10% of the outstanding stock of Poly-Optical to
+Mitsubishi-Rayon Limited, Inc. ("Mitsubishi") for $416,000.
+
+         Poly-Optical's product line consists of both high and low loss
+polymeric (plastic) optical fibers.  These products sell for a wide range of
+prices, depending upon the size, shape and manufacturing complexity involved.
+Current customers include the automotive and truck manufacturing industry,
+scientific instrument manufacturers, the aircraft industry and medical device
+firms.  For the fiscal year ended September 30, 1995, Poly-Optical had sales
+of $3,403,000, and income from operations of $325,000, compared to sales of
+$2,990,000 and income from operations of $235,000 in the prior year.
+
+         The Company is engaged in discussions with several companies regarding
+the potential sale of its 90% interest in Poly-Optical.  The Company has
+discussed the potential sales of Poly-Optical with one specific buyer.  In the
+event that a sales agreement is not reached with any of the potential buyers on
+acceptable terms, the Company plans to continue operating Poly-Optical as a
+subsidiary.
+
+
+
+
+
+                                       5
+<PAGE>   8
+RESEARCH AND DEVELOPMENT
+
+         From its inception to September 30, 1995, an aggregate of $25,342,000
+has been expended by the Company and its subsidiary for research and
+development ("R&D"), including clinical and regulatory activities, of which
+$2,599,000 was expended during the fiscal year ended September 30, 1995.  As it
+has in the past, the Company intends to continue to contract with unaffiliated
+research institutions for the clinical testing of its developmental products.
+
+MANUFACTURING, SUPPLY AGREEMENTS
+
+         Trimedyne and Poly-Optical believe that each have adequate
+engineering, design and manufacturing facilities (see "Properties" herein).
+
+         The Company has supply agreements with several vendors for lasers,
+components and materials used in the production of its products.  The materials
+used in the Company's products, consisting primarily of certain plastics,
+optical fibers, lenses, various metal alloys, lasers and laser assemblies and
+components used in the manufacture of its lasers are, in most cases, available
+from several vendors.  The Company has, on occasion, experienced temporary
+delays or increased costs in obtaining these materials.  An extended shortage
+of required materials and supplies could have an adverse effect upon the
+revenue and earnings of the Company.  In addition, the Company must allow for
+significant lead times when procuring certain materials and supplies.  Where
+there is only one source of supply, the Company believes that a second source
+could be obtained within a reasonable period of time.  However, no assurance
+can be given that the Company's results of operations would not be adversely
+affected until a new source could be located.
+
+MARKETING
+
+         The principal markets for the Company's products are hospitals with
+orthopedic, urology, and other surgical operating room facilities, and
+outpatient surgery facilities.  In the United States, this market represents
+approximately 5,500 hospitals, as well as a number of outpatient surgery
+centers.  There is no assurance as to the extent to which the Company will be
+able to penetrate this market.  The Company anticipates marketing only those
+products which are customarily sold to the same customer groups that currently
+use its lasers and related devices.
+
+         At September 30, 1995, the Company had marketing arrangements for the
+sale of its lasers and certain of its disposable products on a straight
+commission basis with 23 independent sales representatives and organizations
+employing an estimated 45 sales persons specializing in the sale of medical
+devices in the United States.  Outside the United States, the Company sells its
+products through 51 independent distributors who sell various medical products
+in approximately 51 foreign countries.  The Company presently employs a Vice
+President, Sales and Marketing, two Regional Sales Directors, a Vice President
+- - International Sales, an International Sales Manager, an Asia Marketing
+Manager, a Marketing Director and a Clinical Education Director.
+
+         The Company hopes in the future to increase the number of domestic
+sales representatives and to appoint additional distributors in foreign
+countries for the purpose of expanding sales of the Company's products.  There
+is no assurance that the Company will be able to enter into marketing
+arrangements with any or all of the persons or organizations with which it is
+presently negotiating or that the Company will be able to maintain its existing
+selling arrangements.
+
+GOVERNMENT REGULATION
+
+         All of the Company's products are and will in the future likely be
+subject to extensive governmental regulation and supervision, principally by
+the FDA and comparable agencies in other countries.  The FDA regulates the
+introduction, advertising, manufacturing practices, labeling and record keeping
+of all drugs and medical devices.  The FDA has the power to seize adulterated
+or misbranded devices, require removal of devices from the market, enjoin
+further manufacture or sale of devices and publicize relevant facts regarding
+devices.
+
+         Prior to the sale of any of its products, the Company is required to
+obtain marketing approval for each product from the FDA and comparable agencies
+in foreign countries.  Extensive clinical testing of each product, which is
+both costly and time-consuming, may be required to obtain such approvals.  The
+Company's business would be adversely affected if it were unable to obtain such
+approvals or to comply with continuing regulations of the FDA and other
+governmental agencies.  In addition, the Company cannot predict whether future
+changes in government regulations might increase the cost of conducting its
+business or affect the time required to develop and introduce new products.
+
+
+
+
+
+                                       6
+<PAGE>   9
+         Specific areas of regulation by the FDA and other related matters are
+described in detail below:
+
+Investigational Device Exemption:
+
+         Before a new medical device may be used for investigational research
+in the United States, an Investigational Device Exemption ("IDE") application
+must be approved by the FDA, unless an applicable exemption, such as a 510(k)
+Premarket Notification (see "510(k) Premarket Notification") is available.
+In order to obtain an IDE, the sponsor of the investigational research must
+first obtain approval for the research from an Institutional Review Board or
+Committee ("IRB") established for this purpose at the institution (e.g.
+hospital, medical center, etc.) at which the research is to be conducted.
+
+510(k) Notification:
+
+         The procedure for obtaining clearance from the FDA to market a new
+medical device involves many steps, such as IDE's and PMA's (see "Pre-market
+Approval" ).  However, if a device is substantially equivalent to a product
+marketed prior to May 28, 1976, or a comparable product subsequently cleared by
+the FDA under a 510(k) Premarket Notification, a 510(k) pre-market Notification
+may be filed to establish the device's equivalence.  The FDA's review process
+can take three months or longer.  However, if additional testing or data are
+requested by the FDA, it is common for the overall review process to be
+extended.
+
+Pre-Market Approval:
+
+         Under the Medical Device Amendments of 1976, all medical devices are
+classified by the FDA into one of three classes.  A "Class I" device is one
+that is subject only to general controls, such as labeling requirements and
+good manufacturing practices ("GMP").  A "Class II" device is one that is
+subject to general controls and must comply with performance standards
+established by the FDA.  A "Class III" device is one for which general controls
+and performance standards alone are insufficient to assure safety and
+effectiveness, unless the device qualifies for sale under a 510(k) Premarket
+Notification.  Such devices require clinical testing to establish their safety
+and efficacy in treating specific diseases or conditions, and a Premarket
+Approval ("PMA") Application for the intended use must be approved by the FDA
+before the device can be marketed in the United States.  A device is generally
+classified as a Class I, II, or III device based on recommendations of advisory
+panels appointed by the FDA.
+
+         The filing of a PMA Application entails a rigorous review by the FDA,
+which can take one year or longer, unless additional testing or data are
+requested by the FDA, in which case the review process can be considerably
+longer.  The Company anticipates the majority of its cardiovascular products
+will be classified as Class III devices and that a PMA approval from the FDA
+will be required before the sale of each of such products commences.  The
+Company believes the majority of its urology, orthopedic and other surgical
+products can be cleared for sale pursuant to 510(k) Premarket Notifications,
+which in some cases may require limited clinical trials, although such cannot
+be assured.
+
+         There is no assurance that required PMA approvals or 510(k) clearances
+for new products can be obtained or that PMA approvals or 510(k) clearances for
+the Company's present products can be maintained.  The failure to maintain PMA
+approvals and 510(k) clearances for existing products or to obtain needed PMA
+approvals or 510(k) clearances for new products would have a material adverse
+effect upon the Company's future operations.
+
+Inspection of Plants:
+
+         The FDA also has authority to conduct detailed inspections of
+manufacturing plants, to determine whether or not the manufacturer has followed
+its  GMP requirements, which are required for the manufacture of medical
+devices. Additionally, the FDA requires reporting of certain product defects
+and prohibits the domestic sale or exportation of devices that do not comply
+with the law.  The Company believes it is in compliance with these regulatory
+requirements, and expects that the processes and procedures in place will
+satisfy the FDA, although such cannot be assured.
+
+State Regulation:
+
+         Federal law preempts states or their political subdivisions from
+regulating medical devices.  Upon application, the FDA may permit state or
+local regulation of medical devices which is either more stringent than federal
+regulations or is required because of compelling local conditions.  To date,
+and to the best of the Company's knowledge, only California has filed such an
+application.  On October 5, 1980, the FDA granted partial approval to such
+application, effective December
+
+
+
+
+
+                                       7
+<PAGE>   10
+9, 1980.  The California requirements which have been exempted from preemption
+have not had a materially adverse effect on the Company.
+
+Insurance Reimbursement:
+
+         To permit the users of the Company's products to obtain reimbursement
+under Federal health care programs such as Medicare, the Company may be
+required to demonstrate, in an application to the Health Care Financing
+Administration ("HCFA"), at either the state or federal level or both, the
+safety and efficacy of its products and the benefit to patients therefrom which
+justify the cost of such treatment.  Criteria for demonstrating such benefits
+is in the process of definition by HCFA, and there does not yet exist a clear
+method or requirement to receive approval for reimbursement.  There is no
+assurance that such an application, if made, will be approved by HCFA.  Most
+private health insurance companies and state health care programs have
+standards for reimbursement similar to those of HCFA.  If an application for
+reimbursement of a product is not approved by HCFA, private insurers and/or
+health care programs, marketing of such product would be adversely affected.
+
+Cost of Compliance with FDA and Other Applicable Regulations:
+
+         The costs of complying with FDA and other governmental regulations
+prior to the sale of approved products are reflected mainly in the Company's
+R&D expenditures.  The cost of first obtaining an IDE for a product and, after
+having developed a product which in the Company's view is safe and effective,
+obtaining a PMA approval therefor, as well as making the necessary application
+to HCFA in order to establish insurance reimbursability for treatments
+utilizing such product, adds significantly to the cost of developing and
+bringing a product to market over what such cost would have been if such
+regulatory requirements did not exist.
+
+         Such regulatory requirements also lengthen the time which is required
+to develop and market a product.  These delays increase the Company's R & D
+costs by (a) lengthening the time during which the Company must maintain and
+bear the carrying costs of a given research and development effort and (b)
+delaying the time when the Company can commence realizing revenues from sales
+of a product, during which time, however, the Company must nevertheless
+continue to bear administrative and overhead costs.  It is, however, not
+possible for the Company to quantify or estimate in advance the direct and
+indirect costs of complying with such regulatory requirements, particularly
+since the expense and difficulty of such compliance can vary greatly, depending
+upon the nature of the product, its intended use, the technological success of
+the R&D effort and the results of clinical testing of its products.
+
+         To the extent applicable regulations require more rigorous testing
+than might otherwise be deemed necessary by the Company, the costs entailed in
+conducting testing of its products by such institutions (and fees or royalties,
+if any, payable to them) may be deemed in part a cost to the Company of
+compliance with such regulatory requirements.
+
+EMPLOYEES
+
+         On September 30, 1995, the Company and Poly-Optical had 98 and 41
+full-time employees, respectively, a total of 139, of whom 80 were engaged in
+production, 28 in R&D, 15 in sales and marketing, and 16 in general and
+administrative functions.
+
+         The Company may require additional employees in the areas of
+administration, product development, research, production, regulatory affairs,
+sales and marketing in the future.  There is intense competition for capable,
+experienced personnel in the medical device and laser fields, and there is no
+assurance the Company will be able to obtain new qualified employees when
+required.
+
+         The Company believes its relations with its employees are good.
+
+PATENTS AND PATENT APPLICATIONS
+
+         As of September 30, 1995, the Company had been assigned or had
+obtained exclusive or non-exclusive , worldwide licenses to 18 issued U.S.
+Patents and had 6 patent applications on file with the U.S. Patent Office.
+Several of such patents have issued as foreign patents and several
+corresponding patent applications have been filed in up to 7 foreign countries.
+
+
+
+
+
+                                       8
+<PAGE>   11
+         There is no assurance that (a) any patents will be issued from the
+pending applications, (b) any issued patents will prove enforceable or (c) the
+Company will derive any competitive advantage therefrom.  To the extent that
+new patents do not issue, the Company may be subject to more competition.
+There can also be no assurance that the already patented products, methods and
+processes will be medically useful or commercially viable.
+
+         The issuance of patents on some but not all aspects of a product may
+be insufficient to prevent competitors from essentially duplicating the product
+by designing around the patented aspects.  In addition, there is no assurance
+the Company's products will not infringe patents owned by others, licenses to
+which may not be available to the Company.
+
+         The Company is obligated, under certain of its patent licenses, to
+make royalty payments including, in some instances, minimum payments, even if
+no sales are achieved.  Part of the Company's R&D activities will be directed
+towards obtaining additional patent rights, which may also entail royalty and
+minimum payment obligations.
+
+         Following are the pending U.S. Patent applications and issued U.S.
+Patents which the Company believes are important to its business:
+
+                            U.S. PATENT APPLICATIONS
+
+<TABLE>
+<CAPTION>
+                                                               United States                   Date
+Title                                Inventor(s)              Application No.              Filed (U.S.)
+- -----                                -----------              ---------------              ------------
+<S>                                  <C>                         <C>                          <C>
+Therapeutic Appliance                Saadatmanesh                494,382                      6/26/95
+Releasing Device
+
+Surgical Laser Instrument            Saadatmanesh                473,752                      6/7/95
+
+Enclosure for a Lasing Device        Saadatmanesh                485,362                      6/7/95
+
+Lateral Reflecting                   Saadatmanesh                239,338                      5/6/94
+Laser Device                         Loeb
+                                     Crawford
+</TABLE>
+
+                                 U.S. PATENTS
+
+<TABLE>
+<CAPTION>
+
+                                                               United States                    Date
+Title                                Inventor(s)                 Patent No.                   Granted
+- -----                                -----------               -------------                  -------
+<S>                                  <C>                         <C>                          <C>
+Expandable                           Loeb                        5,466,234                    11/14/95
+Laser Catheter                       Shaolian
+                                     Saadatmanesh
+                                     Giba
+                                     Van Pham
+
+Tissue Ablation                      Johnson                     5,437,660                    8/1/95
+and a Lateral-Lasing                 Hussein
+Fiber Optic Device Therefor          Loeb
+
+Coupling Device                      Saadatmanesh                5,396,571                    3/7/95
+and Method                           Loeb
+
+Multihead Laser                      Saadatmanesh                5,387,211                    2/7/95
+Assembly                             Loeb
+
+Medical Device                       Everett                     5,380,317                    1/10/95
+applying localized                   Acosta
+light and heat                       Hussein
+</TABLE>
+
+
+
+
+
+                                       9
+<PAGE>   12
+
+                             U.S. PATENTS (cont'd)
+
+<TABLE>
+<CAPTION>
+                                                               United States                    Date
+Title                                Inventor(s)                 Patent No.                   Granted
+- -----                                -----------               -------------                  -------
+<S>                                  <C>                         <C>                          <C>
+Steerable Stent Catheter             Stafanadis                  5,342,300                    8/30/94
+                                     Tovtouzas
+
+Connector for                        Milburn                     5,179,610                    1/12/93
+Coupling of Laser                    Saadatmanesh
+Energy                               Dessoffy
+                                     Crawford
+                                     Hussein
+
+Method and Apparatus                 Geremia                     5,108,407                    4/28/92
+for Placement of an
+Embolic Coil
+
+Dispensing                           Milburn                     4,974,789                    12/4/90
+Package for a
+Fiber Optic Device
+
+Laser Catheter                       Ginsburg                    4,790,310                    12/13/88
+Having Wide Angle
+Sweep
+
+Fiber
+Optic                                Hussein                     4,773,413                    9/27/88
+Laser Device
+
+Vascular Catheter                    Ginsburg                    4,754,752                    7/5/88
+
+Localized                            Hussein                     4,662,368                    5/5/87
+Heat Applying                        Loeb
+Fiberoptic Medical                   Sulek
+Device
+
+Localized                            Hussein                     4,646,737                    3/3/87
+Heat Applying                        Loeb
+Fiberoptic Medical
+Device(1)
+</TABLE>                                             
+- -------------------------
+(1)  Filed in up to seven foreign countries as well as the United States.
+
+COMPETITION
+
+         The Company faces competition from a number of both young and
+established companies in the medical field.  The larger of such established
+companies include Coherent, Inc., Bristol Myers, Inc., Smith & Nephew, Inc.,
+Boston Scientific, Inc. and others, all of which have greater financial
+resources, engineering and manufacturing facilities, technical skills,
+management staffs and/or marketing organizations than the Company's.
+
+         Among the younger companies with which the Company may compete are
+Eclipse, Inc., Laserscope, Inc., Surgical Laser Technologies, Inc., Hereaus
+Lasersonics, Inc., Sharplan Lasers, Inc., Myriadlase, Inc., Endocare, Inc. and
+others, certain of which are publicly held.
+
+
+
+
+
+                                       10
+<PAGE>   13
+INSURANCE
+
+         The Company has a commercial general liability insurance policy,
+including an umbrella policy providing coverage in the aggregate amount of
+$6,000,000 and a products liability insurance policy providing coverage in the
+aggregate amount of $5,000,000.  There is no assurance that such amounts of
+insurance will be sufficient to protect the Company's assets against claims by
+users of its products.  Although there have been no successful claims against
+the Company, there is no assurance the Company will be able to maintain such
+liability insurance in force in the future at an acceptable cost, or at all, in
+which case the Company's assets would be at risk in the event of successful
+claims against it.  Successful claims in excess of the amount of insurance then
+in force could have a serious adverse effect upon the Company's financial
+condition and its future viability.
+
+         The Company does not carry director and officer liability insurance,
+but does have indemnification agreements with its officers and directors.
+
+INDUSTRY SEGMENT INFORMATION
+
+         Information about the industry segments in which the Company is
+engaged is provided in Note 1 and Note 13 of the Notes to Consolidated
+Financial Statements herein.
+
+FOREIGN OPERATIONS
+
+         In fiscal 1995, sales of products in foreign countries accounted for
+approximately 16% of the Company's total sales.  See "Marketing" herein for
+information on the marketing of the Company's products in foreign countries.
+
+ITEM 2.  PROPERTIES
+
+         The Company occupies approximately 40,000 square feet of office,
+manufacturing and warehouse space in its headquarters building in Irvine,
+California, which it sub-leases at a monthly rent of approximately $16,600 per
+month.  The sub-lease expires in June 1996.  The Company also has an option to
+renew the sublease for two periods of 30 months each. This facility serves as
+the Company's headquarters, where research, regulatory, sales, marketing and
+administrative activities, as well as manufacturing and warehousing, are
+conducted.
+
+         Poly-Optical Products Inc. leases a 19,700 square foot one-story
+office and manufacturing building in Irvine, California, under a thirty month
+lease expiring in March 1996 at a monthly rent of approximately $7,500, with
+two 30 month renewal options.  As described under "Plastic Optical Fibers"
+herein, the Company is considering the sale of its 90% remaining interest in
+Poly-Optical.  It is contemplated that any sale of Poly-Optical would include
+a provision requiring the buyer to assume responsibility for Poly-Optical's
+facility lease.
+
+         Management considers all of its facilities to be well maintained and
+adequate for its present operations.
+
+ITEM 3.  LITIGATION
+
+         In connection with the June 9, 1994 settlement of litigation with the
+co-inventor of the Urolase(R) fiber, the Company amended and restated its
+licensing agreement with Dr. Everett.  The Company paid $90,000 of the
+settlement amount for royalties owed on past Urolase(R) fiber sales and $585,000
+of the settlement amount as a non-refundable prepayment of future royalties
+which otherwise would be owed to the co-inventor on future sales of the
+Urolase(R) fiber.  In addition, the Company is required to pay a royalty on
+sales of Urolase(R) fibers over the term of the agreement.  At September 30,
+1995, the Company had a balance of $439,000 in prepaid royalties of which
+$83,600 was included in other current assets.
+
+         In February 1994, a lawsuit was filed by Coherent, Inc., claiming the
+Company was infringing three of its patents in the orthopedic field.  The
+Company filed a response and counter claim.  This matter was settled by the
+parties in December 1994.  In connection with this settlement the Company
+received a license in orthopedics at a reasonable royalty rate.
+
+         On October 6, 1995, the Company filed a lawsuit against Bard claiming
+damages of at least $72 million  for Bard's failure to perform its obligations
+as Trimedyne's exclusive distributor under the Agreement.  The Company is
+taking actions to mitigate its damages, produce revenues and attempt to regain
+its market position in urology.
+
+
+
+
+
+                                       11
+<PAGE>   14
+         On January 25, 1995 the Company filed a lawsuit against Surgical Laser
+Technologies, Inc. (SLT) charging infringement of the Company's U.S. Patent No.
+4,646,737, and of U.S. Patent No. 5,380,317 which is owned jointly by the
+Company and by Dr. Everett.  On November 8, 1995 the Court granted SLT's motion
+for summary judgment that U.S. Patent No. 4,646,737 is not infringed by SLT's
+contact lasing devices.  The Company believes that the Court's interlocutory
+order granting the motion for summary judgment is incorrect and plans to appeal
+the Court's decision at the appropriate time.  The Company is currently
+investigating whether SLT is infringing yet another U.S. patent owned by the
+Company.
+
+         It is the Company's opinion that the settlements referred to above
+will not have a material adverse effect on the Company's results of operations
+or financial position.
+
+         Trimedyne was involved in several other minor actions which were
+handled by the company's insurance carrier and either settled or dismissed
+during the fiscal year ended September 1995.  At the end of the fiscal year,
+the Company was not involved in any other lawsuits which are believed to have a
+material adverse effect on the Company's results of operations or financial
+position.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted to a vote of stockholders during the fourth
+quarter of the fiscal year ended September 30, 1995.
+
+
+
+
+
+                                       12
+<PAGE>   15
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+         A.  Market Information
+
+         The Company's Common Stock has been traded in the over-the-counter
+market since April 13, 1982, and has been quoted on the NASDAQ system since the
+commencement of trading under the symbol "TMED".  On August 12, 1986, the
+Common Stock was approved for trading in the NASDAQ National Market System.
+The following table sets forth the high and low closing sales prices for the
+Common Stock for each quarterly period within the Company's two most recent
+fiscal years on the National Market System.
+
+<TABLE>
+<CAPTION>
+
+1994                                      HIGH                 LOW
+- ----                                     ------               -----
+<S>                                      <C>                  <C>
+Quarter ended:                                            
+December 31, 1993                        11 1/8               6 1/2
+March 31, 1994                           17 3/8               9 5/8
+June 30, 1994                            12 1/8               5
+September 30, 1994                        7                   3
+</TABLE>                                                  
+                                                          
+<TABLE>                                                   
+<CAPTION>                                                 
+
+1995                                      HIGH                 LOW
+- ----                                     ------               -----
+<S>                                       <C>                 <C>
+Quarter ended:                                            
+December 31, 1994                         4 5/8               2 3/4
+March 31, 1995                            3 5/8               2 1/4
+June 30, 1995                             3 3/8               1 11/16
+September 30, 1995                        5 1/8               2
+</TABLE>                                                  
+
+         B.  Holders of Common Stock
+
+         As of December 13, 1995, there were 1,692 holders of record of the
+Company's Common Stock and an additional estimated 7,000 holders who maintain
+the ownership of their shares in "Street Name".
+
+         C.  Dividends
+
+         The Company has never paid cash dividends on its Common Stock.  The
+Board of Directors currently intends to follow a policy of retaining  earnings
+to finance the growth and development of the Company's business and does not
+anticipate paying cash dividends in the foreseeable future.  Any future
+determination as to the payment of cash dividends will be dependent upon the
+Company's financial condition and results of operations and other factors then
+deemed relevant by the Board of Directors.
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+STATEMENT OF OPERATIONS DATA:
+(In thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                              Fiscal Year Ended September 30,
+                                          ----------------------------------------------------------------- 
+                                           1995             1994            1993         1992        1991
+                                          -------         -------         --------     -------      -------
+<S>                                       <C>             <C>             <C>          <C>           <C>
+Net revenues                              $13,041         $13,393         $15,724      $11,366      $ 8,483
+Loss from operations                       (5,206)         (2,774)         (1,109)      (3,035)      (7,046)
+Net loss                                   (5,290)         (2,265)           (561)      (1,961)      (6,345)
+Net loss per share                           (.56)           (.25)           (.06)        (.24)        (.93)
+</TABLE>
+
+
+
+
+
+                                       13
+<PAGE>   16
+BALANCE SHEET DATA:
+(In thousands)
+At September 30,
+
+<TABLE>
+<CAPTION>
+                                           1995           1994             1993         1992          1991
+                                          -------        -------          -------     -------       -------
+<S>                                       <C>            <C>              <C>          <C>          <C>
+Total assets                              $15,040        $20,498          $21,554     $22,405       $11,580
+Total liabilities                           2,941          3,304            2,949       3,665         3,892
+Working capital                            10,082         14,829           16,673      16,779         5,488
+Stockholders' equity                       11,957         17,081           18,517      18,649         7,618
+</TABLE>
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF CONSOLIDATED RESULTS OF
+          OPERATIONS AND CONSOLIDATED FINANCIAL CONDITION
+
+Consolidated Results of Operations
+- ----------------------------------
+
+Fiscal years 1995, 1994 and 1993
+
+         The following table sets forth certain items in the consolidated
+statements of operations as a percentage of net revenues for the year ended
+September 30, 1995 and the prior two fiscal years.
+
+
+<TABLE>
+<CAPTION>
+                                                               Year Ended September 30,
+                                                ---------------------------------------------------
+                                                1995                    1994                   1993
+                                                ----                    ----                   ----
+<S>                                             <C>                     <C>                   <C>
+Net revenues                                   100.0%                   100.0%                100.0%
+Cost of goods sold                              65.8                     54.1                  53.7
+Research and development                        19.9                     19.2                  13.7
+Selling, general
+ and administrative                             54.2                     47.4                  39.5
+Interest income                                 (2.4)                    (2.7)                 (2.5)
+Other (income) expense, net                      3.0                     (1.1)                 (0.8)
+Net loss                                        40.6                     16.9                   3.6
+</TABLE>
+
+Net Revenues
+- ------------
+
+1995 Compared to 1994
+
+         Net revenues decreased 3% in fiscal 1995 to $13,041,000 from
+$13,393,000 in fiscal 1994.  Sales in fiscal 1995 decreased from fiscal 1994
+principally due to significantly lower sales of urology products to Bard, which
+declined $3,724,000 or  approximately 78%.  This decline was partially offset
+by a $3,059,000 or 65% increase in orthopedic sales and a 13% increase in
+Poly-Optical revenues.  Total international revenues for fiscal 1995 were
+$2,055,000 compared to $2,035,000 in fiscal 1995, representing 15% of revenues
+in each fiscal year.  Laser and fiber optic device sales in urology and
+orthopedics accounted for approximately 68% of revenues in fiscal 1995 compared
+to approximately 70% in fiscal 1994.
+
+1994 Compared to 1993
+
+         Revenues in fiscal 1994 decreased from fiscal 1993 principally due to
+approximately 30% lower sales to Bard, the exclusive distributor of the
+Company's Urolase(R)Fiber for urologic use, and a 65% reduction in sales of
+orthopedic lasers in foreign markets.  This decline was offset in part by a 25%
+increase in orthopedic sales in the United States and a 13% increase in
+revenues of Poly-Optical.  Total international sales decreased by 24% to
+$2,035,000 in fiscal 1994 representing 15% of total sales compared to 17% in
+the previous year.  Laser and fiber optic device sales in urology and
+orthopedics accounted for approximately 70% of revenues in fiscal 1994 compared
+to approximately 75% in fiscal 1993.
+
+
+
+
+
+                                       14
+<PAGE>   17
+Cost of Goods Sold
+- ------------------
+
+         Cost of goods sold in fiscal 1995 was approximately 66% of net revenue
+compared to 54% in both fiscal 1994 and 1993.
+
+1995 Compared to 1994
+
+         The increase in cost of goods sold as percentage of sales was the
+result of the significant shift in the Company's product mix from urology to
+orthopedic products, which carry lower profit margins, a write-down of urology
+inventories, and greater warranty costs associated with the higher powered
+Holmium laser for use in orthopedics, which was first introduced in fiscal
+1994.
+
+1994 Compared to 1993
+
+         While the cost of goods sold remained constant from fiscal 1994 to
+fiscal 1993, the Company's gross margins were positively affected by product
+cost reductions, as the Company continued to increase the proportion of
+products it directly produces, and by the increase in domestic sales in
+relation to total sales.  Domestic sales are made on a direct basis at a higher
+margin than international sales, which are sold through distributors.  These
+affects were offset by the decline in sales of Urolase(R) fibers, which are
+manufactured on automated milling machines and carry a higher than average
+margin relative to other Trimedyne products.
+
+Research and Development Expenses (R&D)
+- ---------------------------------------
+
+         R&D expenses were $2,599,000 in fiscal 1995, compared to $2,578,000 in
+fiscal 1994, and $2,162,000 in fiscal 1993.  R&D spending in fiscal 1996 is
+expected to be approximately equal to the fiscal 1995 level, as the Company
+intends to continue to fund development of several new products.  Expenditures
+of $184,500 in fiscal 1994 and $413,000 in fiscal 1993 related to urological
+applications were offset by payments expected to be made from the development
+fund established under the agreement with Bard.  The Company did not receive
+the reimbursement for these expenditures which in part is the basis of the
+litigation with Bard (see "Litigation" herein).  R&D as a percentage of net
+revenues increased to 20% of net revenues in fiscal 1995 vs. 19% and 14% in
+fiscal years 1994 and 1993, respectively, due to a disproportionate (and
+relatively fixed) amount of R&D spending relative to sales in these years.  The
+slight increase in R&D expenses in 1995 occurred as the result of the Company
+continuing to expand its development efforts of Holmium and Neodymium:YAG
+lasers and other products for use in urology and orthopedic applications.
+
+Selling, General and Administrative Expenses
+- --------------------------------------------
+
+         Selling, general and administrative ("SG&A") expenses increased 6% to
+$7,067,000 in fiscal 1995, compared to $6,345,000 in fiscal 1994, which was a
+2% increase from the fiscal 1993 total of $6,213,000.
+
+         SG&A expenses increased as a percentage of net revenues in fiscal 1995
+over fiscal 1994 and 1993 (54%, 47% and 40%), due to a lower level of revenues,
+higher sales expenses and increased marketing costs on increased sales of
+orthopedic products, which are sold through manufacturer's reps.  SG&A expenses
+also increased due to a higher level of legal expenses incurred in connection
+with patent costs and litigation.
+
+Interest Income, Taxes and Net Loss
+- -----------------------------------
+
+         Interest income in fiscal 1995 was $309,000, compared to $359,000 in
+fiscal 1994 and $392,000 in fiscal 1993. The levels of cash and equivalents
+available for investment in interest bearing securities were $4,415,000,
+$8,758,000, and $10,809,000, as of September 30, 1995, 1994 and 1993,
+respectively.  In 1995, the Company was able to generate higher yields on its
+investments which offset in part the lower overall level of cash available for
+investment during the current fiscal year.
+
+         The fiscal 1995 loss before income taxes was $5,290,000 compared to a
+loss of $2,265,000 in fiscal 1994 and $561,000 in fiscal 1993.  The increase in
+loss in fiscal 1995 from fiscal 1994 was primarily due to higher product costs,
+a change in product mix to devices with lower profit margins, and legal
+expenses incurred in connection with patent litigation.
+
+
+
+
+
+                                       15
+<PAGE>   18
+         Due to the net losses incurred, the Company did not pay income taxes
+for fiscal 1995, 1994 and 1993.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+         As of September 30, 1995, the Company had working capital of
+$10,082,000 compared to $14,829,000 at the end of fiscal 1994 and $16,673,000
+at the end of fiscal 1993.
+
+         Cash and equivalents and marketable securities decreased by $4,246,000
+in fiscal 1995.  Cash was used primarily to fund operations and purchase
+manufacturing equipment, as well as other changes as noted in the Company's
+Consolidated Statements of Cash Flows.
+
+         The Company believes its current cash and cash equivalents and other
+resources will be sufficient to meet its anticipated operating and capital
+requirements for at least the next two years.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The financial statements and financial statement schedules required by
+Item 8 of this report are set forth in the index on page F-1.
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE
+
+         None.
+
+
+                                    PART III
+
+ITEM 10.   IDENTIFICATION OF DIRECTORS AND EXECUTIVE OFFICERS
+
+         Information with respect to this item is incorporated by reference
+from the Company's definitive Proxy Statement to be filed with the Commission
+within 120 days after the close of Registrant's fiscal year.
+
+ITEM 11.   EXECUTIVE COMPENSATION
+
+         Information with respect to this item is incorporated by reference
+from the Company's definitive Proxy Statement to be filed with the Commission
+within 120 days after the close of Registrant's fiscal year.
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         Information with respect to this item is incorporated by reference
+from the Company's definitive Proxy Statement to be filed with the Commission
+within 120 days after the close of Registrant's fiscal year.
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Information with respect to this item is incorporated by reference
+from the Company's definitive Proxy Statement to be filed with the Commission
+within 120 days after the close of Registrant's fiscal year.
+
+
+
+
+                                       16
+
+
+<PAGE>   19
+                                    PART IV
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)      The following documents are filed as a part of this report:
+
+         1.      Financial Statements.
+
+         See "Index to Consolidated Financial Statements" included in this
+         report at Page F-1.
+
+         2.      Financial Statement Schedules.  See "Index to
+                 Consolidated Financial Statements" included in this
+                 report at Page F-1.
+
+         3.      Exhibits pursuant to No. 10 of Item 601 of S-K.
+
+         FILED PREVIOUSLY
+
+         10(a)   Agreement with James Capel Incorporated dated August 1,  1991.
+
+         10(b)   Development, Supply and License Agreement with C.R. Bard,
+                 Inc., dated June 28, 1991.
+
+         10(c)   Industrial Lease (for Barranca Parkway headquarters) with
+                 Griswold Controls dated June 19, 1991, and Addendum thereto 
+                 dated July 1, 1991.
+
+         10(d)   Patent Licensing Agreement with Royice B. Everett,
+                 M.D. (covering the Lateralase Catheter) dated April
+                 1, 1988 as amended.
+
+         10(e)   Poly-Optical lease with Elpal Electronics Inc. dated
+                 August 13, 1993.
+
+         10(f)   Addendum to Industrial Lease with Griswold Controls
+                 dated September 14, 1993
+
+         10(g)   Patent assignment agreement with Robert Ginsburg,
+                 M.D. dated July 1, 1993
+
+         10(h)   License agreement with Christodoulos Stafanadis, M.D.
+                 and Pavlos Toutouzas, M.D. dated April 1, 1993
+
+         10(i)*  Amendment to Development Supply and License Agreement
+                 with C.R. Bard dated June 14, 1994.
+
+         10(j)*  Settlement Agreement and Mutual Release among Royice
+                 B. Everett, M.D., Trimedyne, Inc., and C.R. Bard
+                 dated June 9, 1994.
+
+         10(k)*  Settlement Agreement and Mutual Release among
+                 Myriadlase, Inc., Trimedyne, Inc., and C.R. Bard dated 
+                 June 9, 1994.
+
+         10(l)*  Amended and Restated Licensing Agreement with Royice
+                 B. Everett M.D. dated June 9, 1994.
+
+         FILED HEREWITH
+
+         10(m)*  License Agreement with Coherent dated December 9, 1994.
+
+         23      Consent of Independent Public Accountants
+
+         27      Financial Data Schedule
+
+- -----------------
+ *    The Company requested confidential treatment for
+      portions of those exhibits marked with an asterisk (*).
+
+(b)   No reports on Form 8-K were filed during the fourth quarter of the
+      fiscal year ended September 30, 1995.
+
+
+
+
+                                       17
+
+
+<PAGE>   20
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                            Trimedyne, Inc.
+
+
+Date:  December 22, 1995                    /s/ MARVIN P. LOEB
+                                            -------------------------------
+                                                Marvin P. Loeb, 
+                                                Chairman and Chief 
+                                                Executive Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+Signature                                              Title                              Date
+- ---------                                              -----                              ----
+<S>                                                <C>                               <C>
+/s/ MARVIN P. LOEB                                 Chairman of the                   December 22, 1995
+- -----------------------------                      Board of Directors                                                
+    Marvin P. Loeb                                 Chief Executive Officer
+                                                   
+
+
+/s/ PETER T. HYDE                                  President and Chief               December 22, 1995
+- -----------------------------                      Operating Officer
+    Peter T. Hyde                                      
+                                                   
+
+
+/s/ DONALD BAKER                                   Director                          December 22, 1995
+- -----------------------------                                                                   
+    Donald Baker
+
+
+/s/ BRUCE N. BARRON                                Director                          December 22, 1995
+- -----------------------------                                                                    
+    Bruce N. Barron
+
+
+/s/ RICHARD F. HOROWITZ                            Director                          December 22, 1995
+- -----------------------------                                                                     
+    Richard F. Horowitz
+
+
+/s/ JAMES L. KELLY                                 Vice President-Finance            December 22, 1995
+- -----------------------------                      and Chief Financial                                          
+    James L. Kelly                                 and Accounting Officer
+                                                   
+</TABLE>
+
+
+
+                                       18
+<PAGE>   21
+                                TRIMEDYNE, INC.
+
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following consolidated financial statements of Trimedyne, Inc. and its
+subsidiary are included in Item 8:
+<TABLE>
+<CAPTION>
+                                                                     Page  
+                                                                     ----  
+<S>                                                                  <C>   
+Consolidated Financial Statements:                                        
+                                                                          
+         Report of Independent Accountants                            F-2 
+                                                                          
+         Consolidated Balance Sheets at                                   
+         September 30, 1995 and 1994                                  F-3 
+                                                                          
+         Consolidated Statements of Operations                            
+         for the three years ended September 30, 1995                 F-4 
+                                                                          
+         Consolidated Statements of Changes in                            
+         Stockholders' Equity for the three years                         
+         ended September 30, 1995                                     F-5 
+                                                                          
+         Consolidated Statements of Cash Flows                            
+         for the three years ended                                        
+         September 30, 1995                                           F-6 
+                                                                          
+         Notes to Consolidated Financial Statements                   F-7 
+</TABLE>
+
+The following consolidated financial statement schedules of Trimedyne, Inc. and
+its subsidiary are included in Item 14(d):
+
+<TABLE>
+<CAPTION>
+                                                                     Page
+                                                                     ----
+         <S>      <C>                                                <C>    
+         I.       Marketable Securities                              F-15
+                  Other Security Investments
+
+         VIII.    Valuation and qualifying accounts                  F-16
+</TABLE>
+
+All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and, therefore, have been omitted.
+
+
+
+
+
+                                       F-1
+<PAGE>   22
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+To the Board of Directors and Stockholders of Trimedyne, Inc.
+
+In our opinion, the consolidated financial statements listed in the index
+appearing under Item 14. (a)(1) and (2) on page F-1 present fairly, in all
+material aspects, the financial position of Trimedyne, Inc. and its subsidiary
+at September 30, 1995 and 1994, and the results of their operations and their
+cash flows for each of the three years in the period ended September 30, 1995,
+in conformity with generally accepted accounting principles.  These financial
+statements are the responsibility of the Company's management; our
+responsibility is to express an opinion on these financial statements based on
+our audits.  We conducted our audits of these statements in accordance with
+generally accepted auditing standards which require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement.  An audit requires examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement
+presentation.  We believe that our audits provide a reasonable basis for the
+opinion expressed above.
+
+
+
+
+PRICE WATERHOUSE LLP
+Costa Mesa, California
+December 14, 1995
+
+
+
+
+
+                                       F-2
+
+
+<PAGE>   23
+                                TRIMEDYNE, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                                   SEPTEMBER 30,          
+                                                                         ---------------------------------
+                                                                             1995                 1994    
+                                                                         ------------         ------------
+<S>                                                                                            <C>
+Current assets:
+    Cash and cash equivalents                                            $  1,367,000         $  3,183,000
+    Marketable securities (Note 2)                                          3,048,000            5,478,000
+    Trade accounts receivable, net of allowance for doubtful
+           accounts of $315,000 and $335,000                                2,098,000            2,608,000
+    Inventories (Note 3)                                                    5,798,000            5,730,000
+    Other                                                                     712,000            1,134,000
+                                                                         ------------         ------------
+           Total current assets                                            13,023,000           18,133,000
+
+    Net properties (Note 3)                                                 1,368,000            1,628,000
+    Prepaid royalties (Note 10)                                               355,000              439,000
+    Intangible assets, net of accumulated amortization of
+           $315,000 and $246,000                                              294,000              298,000
+                                                                         ------------         ------------
+                                                                         $ 15,040,000         $ 20,498,000
+                                                                         ============         ============
+
+                                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+    Accounts payable                                                     $  1,021,000         $  1,297,000
+    Accrued expenses (Note 3)                                               1,833,000            1,825,000
+    Deferred income (Note 2)                                                   87,000              182,000
+                                                                         ------------         ------------
+           Total current liabilities                                        2,941,000            3,304,000
+                                                                         ------------         ------------
+Commitments and contingencies (Notes 9 and 10)
+
+Minority interest (Note 2)                                                    142,000              113,000
+                                                                         ------------         ------------
+Stockholders' equity (Note 6):
+    Common stock - .01 par value; 15,000,000 shares authorized,
+           9,573,910 and 9,548,310 shares issued                               96,000               96,000
+    Capital in excess of par value                                         35,007,000           34,932,000
+    Accumulated deficit                                                   (21,446,000)         (16,156,000)
+    Notes receivable under stock option plans (Notes 1 and 8)                (982,000)            (982,000)
+    Unrealized loss on securities available for sale                           (5,000)             (96,000)
+                                                                         ------------         ------------
+                                                                           12,670,000           17,794,000
+
+    Less shares of common stock in treasury,
+           at cost, 101,609 and 101,609 shares                               (713,000)            (713,000)
+                                                                         ------------         ------------
+           Total stockholders' equity                                       11,957,000           17,081,000
+                                                                         -------------        -------------
+                                                                         $  15,040,000        $  20,498,000
+                                                                         =============        =============
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                       F-3
+<PAGE>   24
+                                TRIMEDYNE, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                                   FOR THE YEAR ENDED SEPTEMBER 30,    
+                                                             -----------------------------------------
+                                                                 1995           1994           1993   
+                                                             -----------    -----------    -----------
+<S>                                                          <C>            <C>            <C>
+Revenues from product sales                                  $12,647,000    $12,944,000    $15,273,000
+Revenues from service contracts                                  394,000        449,000        451,000
+                                                             -----------    -----------    -----------
+  Net revenues                                                13,041,000     13,393,000     15,724,000
+
+Costs of goods sold:
+
+  Cost of products sold                                        7,718,000      6,689,000      8,659,000
+  Addition (reductions) to reserve for excess 
+    and obsolete inventory                                       446,000        319,000       (561,000)
+  Costs of service contracts                                     417,000        236,000        360,000
+                                                             -----------    -----------    -----------
+                                                               8,581,000      7,244,000      8,458,000
+                                                                                                      
+
+Selling, general and administrative expenses                   7,067,000      6,345,000      6,213,000
+Research and development expenses                              2,599,000      2,578,000      2,162,000
+                                                             -----------    -----------    -----------
+                                                              18,247,000     16,167,000     16,833,000
+                                                                                                      
+
+Loss from operations                                          (5,206,000)    (2,774,000)    (1,109,000)
+
+Other income (expense):
+  Interest income                                                309,000        359,000        392,000
+  Gain on sale of subsidiary                                                                    32,000
+  Minority interest in (earnings) loss
+    of consolidated subsidiary company                           (29,000)       (25,000)         3,000
+  Other                                                         (364,000)       175,000        121,000
+                                                             -----------    -----------    -----------
+Loss before income taxes                                      (5,290,000)    (2,265,000)      (561,000)
+Income tax provision
+                                                             -----------    -----------    -----------
+Net loss                                                     $(5,290,000)   $(2,265,000)   $  (561,000)
+                                                             ===========    ===========    ===========
+                                                                                                       
+Net loss per share (Note 2)                                       $(0.56)        $(0.25)        $(0.06)
+                                                             ===========    ===========    ===========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                       F-4
+<PAGE>   25
+                                TRIMEDYNE, INC.
+
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                 COMMON STOCK                                                         NOTE    
+                                                $.01 PAR VALUE        CAPITAL IN                                   RECEIVABLE 
+                                            ----------------------     EXCESS OF      ACCUMULATED    TREASURY     UNDER STOCK 
+                                             SHARES        AMOUNT      PAR VALUE        DEFICIT       STOCK       OPTION PLANS
+                                            ---------     --------    -----------    ------------    ---------    ------------
+<S>                                         <C>            <C>        <C>            <C>             <C>           <C>        
+Balance at September 30, 1992               8,971,340      $90,000    $32,626,000    $(13,330,000)   $(687,000)    $ (50,000)  
+                                                                                                                              
+  Exercise of stock options                    93,150        1,000        336,000                                             
+  Conversion of loan to treasury stock                                                                 (26,000)       26,000   
+  Payment received from officer notes                                                                                         
+    receivable                                                                                                        24,000   
+                                                                                                                              
+  Stock issued in lieu of cash payments                                                                                  
+    for patents                                10,000                      68,000                                             
+  Net loss for the year                                                                  (561,000)                            
+                                           ----------      -------    ------------   ------------     --------     ---------  
+Balance at September 30, 1993               9,074,490       91,000     33,030,000     (13,891,000)    (713,000)               
+                                                                                                                              
+  Exercise of stock options                   419,820        5,000      1,376,000                                             
+  Exercise of stock warrants                   44,000                     460,000                                             
+  Stock issued to Company's 401(k)                                                                                            
+    plan                                       10,000                      66,000                                             
+  Notes receivable from officer                                                                                     (982,000) 
+  Net loss for the year                                                                (2,265,000) 
+                                           ----------      -------    ------------   ------------    ---------     ---------  
+Balance at September 30, 1994               9,548,310       96,000     34,932,000     (16,156,000)    (713,000)     (982,000) 
+                                                                                                                              
+  Exercise of stock options                    25,600                      75,000                                             
+  Net loss for the year                                                                (5,290,000)                            
+                                           ----------      -------    -----------    ------------    ---------     ---------  
+Balance at September 30, 1995               9,573,910      $96,000    $35,007,000    $(21,446,000)   $(713,000)    $(982,000) 
+                                           ==========      =======    ===========    ============    =========     =========  
+                                                                                                                 
+</TABLE>
+
+                                                                                
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                       F-5
+
+<PAGE>   26
+                                TRIMEDYNE, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                       FOR THE YEAR ENDED SEPTEMBER 30,          
+                                                                ----------------------------------------------- 
+                                                                   1995             1994                1993    
+                                                                -----------      -----------        ----------- 
+<S>                                                             <C>              <C>                 <C>        
+Cash flows from operating activities:                                                                           
+  Net loss                                                      $(5,290,000)     $(2,265,000)       $ (561,000) 
+  Adjustments to reconcile net loss to net cash                                                                 
+    used for operating activities:                                                                              
+    Depreciation and amortization                                   567,000          548,000           488,000  
+    Provision (reversal of provision) for excess and                                                            
+      obsolete inventory                                            122,000          319,000          (561,000) 
+  Loss on disposal of assets                                         21,000           45,000            39,000  
+  Gain on sale of minority interest in subsidiary                                                      (32,000) 
+  Minority interest in earnings (loss) of subsidiary                 29,000           25,000            (3,000) 
+  Changes in operating assets and liabilities:                                                                  
+    Decrease (increase) in trade accounts receivable, net           510,000          531,000           (67,000) 
+    Increase in inventories                                        (190,000)      (1,517,000)         (631,000) 
+    Decrease in other current assets                                422,000            8,000            11,000  
+    Decrease (increase) in prepaid royalties                         84,000         (439,000)                   
+    (Decrease) increase in accounts payable                        (276,000)         610,000          (327,000) 
+    Increase (decrease) in accrued expenses                           8,000         (275,000)         (164,000) 
+    (Decrease) increase in deferred income                          (95,000)          20,000             6,000  
+                                                                -----------      -----------       -----------  
+    Net cash used for operating activities                       (4,088,000)      (2,390,000)       (1,802,000) 
+                                                                -----------      -----------       -----------  
+                                                                                                                
+Cash flows from investing activities:                                                                           
+  Capital expenditures                                             (259,000)        (608,000)         (426,000) 
+  Patent expenditures                                               (65,000)         (42,000)          (82,000) 
+  Payments received on note receivable from sale                                                                
+    of subsidiary                                                                     63,000            79,000  
+  Repurchase of minority interest of subsidiary                                                       (200,000) 
+  Sale of (investment in) marketable securities                   2,521,000       (1,915,000)       (3,659,000) 
+                                                                -----------      -----------       -----------  
+    Net cash provided by (used for) investing activities          2,197,000       (2,502,000)       (4,288,000) 
+                                                                -----------      -----------       -----------  
+Cash flows from financing activities:                                                                           
+  Proceeds from exercise of stock options                            75,000          399,000           337,000  
+  Proceeds from stock issued under 401(k) program                                     66,000                    
+  Net proceeds from exercise of warrants                                             460,000                    
+  Payments received on notes receivable under                                                                   
+    stock option plan                                                                                   24,000  
+                                                                                                                
+                                                                -----------      -----------       -----------  
+    Net cash provided by financing activities                        75,000          925,000           361,000  
+                                                                -----------      -----------       -----------  
+Net (decrease) increase in cash and cash equivalents             (1,816,000)      (3,067,000)       (5,729,000) 
+                                                                -----------      -----------       -----------  
+Cash and cash equivalents at beginning of period                  3,183,000        7,150,000        12,879,000  
+                                                                -----------      -----------       -----------  
+Cash and cash equivalents at end of period                      $ 1,367,000      $ 3,183,000       $ 7,150,000  
+                                                                ===========      ===========       ===========  
+                                                                                                        
+</TABLE>
+
+
+                See Notes to Consolidated Financial Statements
+
+
+                                       F-6
+<PAGE>   27
+
+                                TRIMEDYNE, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1.  THE COMPANY:
+
+         Trimedyne, Inc. ("the Company") is engaged primarily in the research
+and development, manufacture and sale of lasers and disposable laser devices in
+the medical field.  The Company is also engaged in the development, manufacture
+and sale of plastic fiber-optic illumination devices through its subsidiary,
+Poly-Optical Products, Inc. ("Poly-Optical").  The Company has discussed the
+potential sale of Poly-Optical with one specific buyer.  In the event that a
+sales agreement is not reached with the potential buyer on acceptable terms, 
+the Company plans to continue operating Poly-Optical as a subsidiary.  For the 
+year ended September 30, 1995, Poly-Optical had sales of $3,403,000 and 
+income from operations of $373,000, compared to sales of $2,990,000 and income 
+from operations of $235,000  in the prior year.
+
+
+NOTE 2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+         Basis of Presentation
+         ---------------------
+
+         The consolidated financial statements include the accounts of the
+Company and its 90% owned subsidiary, Poly-Optical Products, Inc. All
+significant intercompany accounts and transactions have been eliminated in
+consolidation.
+
+         Inventories
+         -----------
+
+         Inventories are recorded at the lower of cost or market, cost being
+determined on a first-in, first-out (FIFO) basis.
+
+         Depreciation and amortization
+         -----------------------------
+
+         Depreciation of furniture and equipment is calculated on a
+straight-line basis over the estimated useful lives of the assets ranging from
+three to seven years.  Leasehold improvements are amortized on a straight-line
+basis over the lesser of the useful lives or the term of the lease. Intangible
+assets,  which consist primarily of patents, are amortized on a straight-line
+basis over the life of the patent.
+
+         Research and development costs
+         ------------------------------
+
+         All research and development costs, including licensing costs, are
+charged to expense as incurred.  In accordance with this policy, all costs
+associated with the design, development and testing of the Company's products
+have been expensed as incurred.
+
+         Income taxes
+         ------------
+
+         The Company accounts for income taxes in accordance with Statement of
+Financial Accounting Standards No. 109 (SFAS 109), Accounting for Income Taxes.
+SFAS 109 requires the liability method for accounting for income taxes.  The
+liability method requires the recognition of deferred tax liabilities and
+assets for expected future tax consequences of temporary differences between
+the carrying amounts and tax bases of assets and liabilities.
+
+         Loss per share
+         --------------
+
+         Loss per share is based on the weighted average number of common
+shares outstanding.  Common stock equivalents are not included in the
+calculation because their inclusion would be antidilutive.  Common stock
+equivalents include dilutive stock options and warrants, if any, using the
+treasury stock method. The weighted average number of shares used in the
+calculation of earnings per share for the three years ended September 30 are
+9,449,468, 9,052,089, and 8,931,068 for 1995, 1994 and 1993, respectively.
+
+         Extended warranty/service contracts and deferred income
+         -------------------------------------------------------
+
+         Deferred income consists of the unamortized portion of payments
+received from customers for extended warranty contracts.  Revenue earned under
+these service contracts is recognized ratably over the life of the related
+contract (typically one year).
+
+         Cash and cash equivalents
+         -------------------------
+
+         Cash in excess of requirements is principally invested in short-term
+corporate and government obligations, money market funds and certificates of
+deposit with an average maturity of three months or less.  Such investments
+are deemed to be cash equivalents for purposes of the Statements of Cash Flows.
+
+
+
+                                     F-7
+
+
+<PAGE>   28
+         Marketable Securities
+         ---------------------
+
+         The amortized cost and fair market values of all marketable securities
+at September 30, 1995 are as follows:
+
+
+
+<TABLE>
+<CAPTION>
+                                                               Amortized           Fair Value          Gross
+(Securities available for sale                                 Cost Basis        (plus accrued      Unrealized
+(mature within three years)                                 (plus interest)        interest)           Loss 
+- ------------------------------                              ---------------      -------------      ----------
+<S>                                                            <C>                 <C>               <C>
+U.S. government and government agencies                        $1,534,000          $1,534,000        $      0
+Commercial paper                                                1,519,000           1,514,000          (5,000)
+                                                               ----------          ----------        --------
+                                                               $3,053,000          $3,048,000        $ (5,000)
+                                                               ==========          ==========        ========
+</TABLE>
+
+        The specific identification method has been used to determine cost for
+each security.  During fiscal 1995, the Company realized losses of $55,000 from
+the sale of securities available for sale during fiscal 1995.  The net 
+unrealized holding loss on securities available for sale which is included in
+stockholders' equity for fiscal 1995 was $5,000.  These securities are
+interest-earning securities.
+
+        Consolidated Statements of Cash Flows
+        -------------------------------------
+
+        During fiscal 1993, the Company entered into an agreement to acquire 
+title and interest in two U.S. Patents for medical devices.  As consideration, 
+the Company granted a Non-Qualified Stock Option to purchase 25,000 shares of 
+the Company's common stock at a price of $.01 per share.  Pursuant to the
+agreement, options to purchase 10,000 common stock shares were exercisable
+immediately and options to purchase 15,000 common stock shares become
+exercisable, subject to certain covenants and restrictions, at a rate of 5,000
+per year over the three years beginning on January 1, 1995.  The underlying fair
+market value of the options immediately exercisable on the date of the agreement
+of $68,000 was recorded as the value of the acquired patents.
+
+        During fiscal 1994, an officer-director exercised a 340,000 share stock 
+option and borrowed $982,000 under the Employee Stock Option Loan Program.  The
+note receivable from this officer-director is secured by the 340,000 common
+shares acquired.
+
+        The Company made no cash payments for interest or income taxes in 1995, 
+1994, or 1993.
+
+
+
+
+
+                                       F-8
+
+
+<PAGE>   29
+NOTE 3.  COMPOSITION OF CERTAIN BALANCE SHEET CAPTIONS:
+
+         Inventories consist of the following at September 30, 1995 and 1994:
+
+<TABLE>
+<CAPTION>
+                                                            1995                    1994 
+                                                        -----------              -----------
+<S>                                                      <C>                      <C>
+Raw materials                                           $ 3,362,000              $ 3,796,000
+Work-in-process                                             633,000                1,010,000
+Finished goods                                            4,546,000                3,545,000
+                                                        -----------              -----------
+                                                          8,541,000                8,351,000
+Inventory reserve                                        (2,743,000)              (2,621,000)
+                                                        -----------              -----------
+Net inventory                                           $ 5,798,000              $ 5,730,000
+                                                        ===========              ===========
+</TABLE>
+
+         Net properties consist of the following at September 30, 1995 and 1994:
+
+<TABLE>
+<CAPTION>
+                                                            1995                    1994
+                                                        -----------             -----------
+<S>                                                     <C>                     <C>
+Furniture and equipment                                 $ 4,593,000             $ 4,457,000
+Leasehold improvements                                      278,000                 256,000
+Other                                                        72,000                  43,000
+                                                        -----------             -----------
+                                                          4,943,000               4,756,000
+Accumulated depreciation and amortization                (3,575,000)             (3,128,000)
+                                                        -----------             ----------- 
+Net properties                                          $ 1,368,000             $ 1,628,000
+                                                        ===========             ===========  
+</TABLE>
+
+         Accrued expenses consist of the following at September 30, 1995 and
+1994:
+
+                                         
+<TABLE>
+<CAPTION>
+                                                            1995                    1994
+                                                         ----------              ----------
+<S>                                                      <C>                     <C> 
+Professional fees                                        $  198,000              $  200,000
+Commissions                                                 401,000                 312,000
+Salaries, wages and benefits                                549,000                 473,000
+Sales tax                                                   268,000                 217,000
+Printing                                                     89,000                  90,000
+Retrofit accrual                                             20,000                 100,000
+Product warranty                                            186,000                 126,000
+Accrued royalties                                            42,000                 140,000
+Other                                                        80,000                 167,000
+                                                         ----------              ----------
+                                                         $1,833,000              $1,825,000
+                                                         ==========              ==========
+</TABLE>
+
+NOTE 4.  DEVELOPMENT SUPPLY AND LICENSE AGREEMENT
+
+         In June 1991, the Company entered into an agreement (the "Agreement")
+granting worldwide rights to market the Company's side-firing laser devices in
+the medical specialty fields of urology, gynecology and gastroenterology to
+C.R. Bard, Inc. ("Bard").
+
+         Pursuant to the terms of the Agreement, (i) the Company receives a
+royalty amount (subject to certain specified volume adjustments) from the unit
+sales price for the Company's products charged by Bard to its customers, (ii)
+an additional 4% of the unit sales price is appropriated to an escrow fund for
+reimbursing the Company for the future development of other urological products
+or improvements to existing urological products, (iii) the Company also
+received a monthly research and development allowance of $33,333 for the first
+twelve months of the agreement, and (iv)
+
+
+
+                                      F-9
+
+
+<PAGE>   30
+Bard bears the cost of certain future patent preparation and filing costs.  In
+addition, Bard has agreed to pay a portion of royalty and patent litigation
+costs surrounding the Company's lateral lasing device (see Note 10.)
+
+         Under the Agreement, net revenues and royalties earned from Bard
+accounted for 3%, 23%, and 32% of the Company's net revenues for the fiscal
+years ended September 30, 1995, 1994 and 1993, respectively.  In addition,
+during the year ended September 30, 1995, 1994 and 1993, the Company incurred
+$0, $184,500 and $413,000, respectively, of reimbursable development costs
+related to urological applications.  At September 30, 1995, 1994 and 1993, the
+Company included $382,000, 403,000 and $586,000 respectively, in other assets.
+Such amounts represent monies receivable from Bard for royalties earned,
+reimbursable legal costs incurred and reimbursable R&D expenses incurred.  The
+Company recorded a reserve equal to the amount included in other assets,
+$382,000, as of September 30, 1995 due to the uncertainty of collectibility of
+such amounts due to the Company's filing of litigation against Bard (See Note
+10).
+
+NOTE 5.  INCOME TAXES:
+
+         Due to the net operating losses incurred by the Company in the fiscal
+years ended September 30, 1995, 1994 and 1993, no provision for income taxes
+has been made.  The deferred tax balances are comprised as follows:
+
+
+<TABLE>
+<CAPTION>                                                                                          
+                                                     September 30, 1995         September 30, 1994 
+                                                     ------------------         ------------------ 
+         <S>                                              <C>                       <C>            
+         Deferred tax assets:                                                                      
+             Net operating loss carryforwards            $ 6,574,000                $ 4,823,000    
+             Research & development credits                1,546,000                  1,221,000    
+             Inventory obsolescence reserves               1,056,000                  1,048,000    
+             Accrued expenses                                360,000                    400,000    
+             Account receivable reserves                     103,000                    134,000    
+             Valuation allowance                          (9,531,000)                (7,428,000)   
+                                                         -----------                -----------    
+                                                             108,000                    198,000    
+         Deferred tax liabilities:                                                                 
+             Fixed asset basis                              (108,000)                  (198,000)   
+                                                         -----------                -----------    
+                                                         $         0                $         0    
+                                                         ===========                ===========    
+</TABLE>
+
+         The net change in the valuation allowance for deferred tax assets was
+an increase of approximately $2,103,000 from the balance at September 30, 1994.
+The change primarily relates to additional net operating loss carryforwards
+generated in fiscal 1995, which were fully reserved for at September 30, 1995.
+
+         At September 30, 1995, the Company had net operating loss
+carryforwards for federal and state income tax purposes totaling approximately
+$17,300,000 and $11,400,000, respectively, which begin to expire in 2006.
+The Tax Reform Act of 1986 includes provisions which may limit the net
+operating loss carryforwards available for use in any given year if certain
+events occur, including significant changes in stock ownership.
+
+NOTE 6.   STOCKHOLDERS' EQUITY:
+
+Stock Options:
+
+         The Company has adopted stock option plans that authorize the granting
+of options to key employees, directors, and/or consultants to purchase unissued
+common stock subject to certain conditions, such as continued employment.
+Options are generally granted at the fair market value of the Company's common
+stock at the date of grant, become exercisable within five years from the date
+of grant, and expire in ten years.
+
+
+
+
+
+                                     F-10
+<PAGE>   31
+Activity during the years ended September 30, 1995, 1994 and 1993 under the
+plans was as follows:
+
+                           Stock Options Outstanding
+
+
+<TABLE>
+<CAPTION>
+                                                          Option Exercise               Aggregate
+                                       Options            Price Per Share             Exercise Price
+                                      ---------           ---------------             --------------
+<S>                                   <C>                 <C>                           <C>
+September 30, 1992                    1,143,000           2 3/8  -   9 3/4              $ 5,607,160
+Granted                                 486,500           1/100  -   8 1/4                3,474,125
+Exercised                              (103,150)          1/100  -   6 1/4                 (336,769)
+Canceled                               (200,300)          2 3/8  -  15 3/4               (1,060,775)                            
+                                      ---------                                         -----------
+September 30, 1993                    1,326,050           1/100  -   9 3/4                7,683,741
+Granted                                 287,000           3 5/8  -  14 5/8                2,515,750 
+Exercised                              (419,820)          2 3/8  -   8 1/4               (1,377,190)
+Canceled                                (65,400)          2 3/8  -  11 1/4                 (429,075)
+Exchanged                              (956,080)          5 7/8  -  14 5/8                7,741,733)
+Reissued                                956,080                5 1/2                      5,249,538     
+                                      ---------                                         -----------
+September 30, 1994                    1,127,830           1/100  -   5 1/2                5,901,031
+Granted                                 302,500           2 3/4  -   3 3/8                1,034,562
+Exercised                               (25,600)          1/100  -   5 1/2                  (61,463)
+Canceled                                (25,400)          3 3/8  -   5 1/2                 (105,411)
+Exchanged                              (697,080)          3 5/8  -   5 1/2               (3,766,838)
+Reissued                                697,080                 3 1/2                     2,439,780 
+                                      ---------                                         -----------
+September 30, 1995                    1,379,330           1/100  -   5 1/2              $ 5,441,661
+                                      =========           ================              ===========
+</TABLE>
+
+         Common shares reserved for future grants under the above option plans 
+totaled 0 and 260,959 at September 30, 1995 and 1994, respectively.  Of the
+shares previously granted and outstanding at September 30, 1995, 518,740 shares
+were vested and exercisable at prices ranging from $2.375 to $5.500 per share.
+
+         As options are generally granted at an exercise price equal to the 
+fair market value of the underlying stock at the date of grant, there are 
+generally no charges to income in connection with the issuance of options.  
+Upon exercise, proceeds from the sale of shares under the stock options plans 
+are credited to common stock and additional paid-in capital.
+
+          See NOTE 8 for information on a loan to an officer in connection 
+with his exercise of stock options.
+
+          On August 18, 1994 the Board of Directors approved the exchange of all
+outstanding Incentive Stock Options and Non-Qualified Stock Options held by
+directors, consultants, officers and employees of the Company that were in
+excess of $5.50 per share for new options exercisable at $5.50 per share with
+the same vesting periods.  The closing price of the common stock on such date
+was $3.25 as reported by the NASDAQ National Market System.  On September 11,
+1995 the Board of Directors approved the exchange of all outstanding Incentive
+Stock Options and Non-Qualified Stock Options held by consultants, officers
+(excluding the President and the Chairman of the Company) and employees of the
+Company that were in excess of $3.50 per share for new options exercisable at
+$3.50 per share with the same vesting periods.  The closing price of the common
+stock on such date was $3.375 as reported by the NASDAQ National Market System.
+
+         Warrants:
+
+         During fiscal 1994, 44,000 warrants issued in connection with a prior
+securities offering were exercised and total proceeds of $460,000 were
+received.  As of September 30, 1995, 356,000 warrants were outstanding at an
+exercise price of $10.31, and 130,000 unregistered warrants at a price of
+$11.86 were outstanding.
+
+NOTE 7.  EMPLOYEE BENEFIT PLANS:
+
+         Effective February 1, 1989, the Company and its subsidiary adopted a
+401(k) Retirement Savings Plan (the "Retirement Plan").  Under the terms of the
+Retirement Plan, employees may, subject to IRS limitations, contribute up to
+15% of their total compensation.  The Company contributes an additional $0.50
+for each dollar of employee contributions up to 2% of eligible employee
+compensation. Employees become vested
+
+
+
+
+
+                                       F-11
+<PAGE>   32
+in the Company's contribution at 20% per year over five years.  The Company's
+contributions to the Retirement Plan totaled $76,000, $69,000, and $60,000, for
+1995, 1994, and 1993, respectively.
+
+NOTE 8.   RELATED PARTY TRANSACTIONS:
+
+          The Company has made payments of $30,000, $43,000, and $59,000, in
+the fiscal years ending 1995, 1994 and 1993, respectively, to two law firms.  A
+director of the Company is a member of one of the law firms.  Another director
+was a member of the other law firm until his retirement from that law firm in
+1994.
+
+          On August 18, 1994, the Compensation Committee of the Board of
+Directors approved a loan to an officer-director for the purchase of 340,000
+shares of Common Stock of the Company for an aggregate of $982,000 as a result
+of the exercise of Options.  The principal amount and interest due are loaned
+without recourse to the officer-director, and the sole collateral for the note
+is the 340,000 shares of common stock held in the officer-director's name.  The
+note is due and payable five (5) years from August 18, 1994, with interest
+currently at 7.05%, said interest accruing and being payable at maturity.
+
+NOTE 9.   COMMITMENTS:
+
+The Company is obligated under certain facility lease agreements to make
+minimum rental payments, excluding taxes and common area maintenance costs, for
+the years ending September 30 as follows:
+
+<TABLE>
+          <S>                                  <C>
+          1996                                 $194,000
+                                               --------
+          TOTAL                                $194,000
+                                               ========
+</TABLE>
+
+         The lease on the Company's headquarters facility (monthly rental
+$16,600), expires in June 1996.  The Company has an option to renew the lease
+for two periods of thirty months each.  The Company's Poly-Optical Products,
+Inc. facility lease (monthly rental $7,500) expires in March 1996 and contains
+renewal options totaling five years.
+
+         Rent expense for the years ended September 30, 1995, 1994 and 1993 was
+approximately $315,000, $280,000, and $464,000, respectively.
+
+NOTE 10.    LITIGATION:
+
+         In connection with the June 9, 1994 settlement of litigation with
+Royice B. Everett, M.D., a co-inventor of the Urolase(R) fiber, the Company
+amended and restated its licensing agreement with Dr. Everett.  The Company
+paid $90,000 of the settlement amount for royalties owed on past Urolase(R) 
+fiber sales and $585,000 of the settlement amount as a non-refundable
+prepayment of future royalties which otherwise would be owed to the co-inventor
+on future sales of the Urolase(R) fiber.  In addition, the Company is required
+to pay a royalty on sales of Urolase(R) fibers over the term of the agreement.
+At September 30, 1995, the Company had a balance of $439,000 in prepaid
+royalties of which $83,600 was included in other current assets.
+
+         In February 1994, a lawsuit was filed by Coherent, Inc., claiming the
+Company was infringing three of its patents in the orthopedic field. The
+Company filed a response and counter claim.  This matter was settled by the
+parties in December 1994.  In connection with this settlement the Company
+received a license in orthopedics at an agreed-upon royalty rate.
+
+         On October 6, 1995, the Company filed a lawsuit against Bard claiming
+damages of at least $72 million for Bard's failure to perform its obligations
+as Trimedyne's exclusive distributor under the Agreement.  The Company is
+taking actions to mitigate its damages, produce revenues and attempt to regain
+its market position in urology.
+
+         On January 25, 1995 the Company filed a lawsuit against Surgical Laser
+Technologies, Inc. (SLT) charging infringement of the Company's U.S. Patent No.
+4,646,737, and of U.S. Patent No. 5,380,317 which is owned jointly by the
+Company and by Dr. Everett.  On November 8, 1995 the Court granted SLT's motion
+for summary judgment that U.S. Patent No. 4,646,737 is not infringed by SLT's
+contact lasing devices.  The Company believes that the Court's interlocutory
+order granting the motion for summary judgment is incorrect and plans to appeal
+the Court's decision at the appropriate time.  The Company is currently
+investigating whether SLT is infringing on another U.S. patent owned by the
+Company.
+
+         It is the Company's opinion that the settlements referred to above
+will not have a material adverse effect on the Company's results of operations
+or financial position.
+
+
+
+                                      F-12
+
+
+<PAGE>   33
+         Trimedyne was involved in several other minor actions which were
+handled by the company's insurance carrier and either settled or dismissed
+during the fiscal year ended September 1995.  At the end of the fiscal year,
+the Company was not involved in any other lawsuits which are believed to have a
+material adverse effect  on the Company's results of operations or financial
+position.
+
+NOTE 11.    CONCENTRATION OF CREDIT RISK AND MAJOR CUSTOMER
+
+         The Company generates revenues principally from sales of products in
+the medical field.  As a result, the Company's trade accounts receivable are
+concentrated primarily in this industry.  No single customer represented more
+than 10% of sales in fiscal 1995.  One customer accounted for approximately 23%
+and 32% of net revenues in fiscal 1994 and 1993, respectively.
+
+         Sales in foreign countries accounted for approximately 16% of the
+Company's total sales.  The breakdown  by geographic region is as follows:
+
+<TABLE>
+         <S>                                                    <C>
+         Asia                                                    $  754,000
+         Latin America                                              389,000
+         Middle East                                                 54,000
+         Europe                                                     804,000
+         Other (Australia, New Zealand, South Africa)                54,000
+                                                                 ----------
+         Total                                                   $2,055,000
+                                                                 ==========
+</TABLE>
+
+         The Company performs ongoing credit evaluations of its customers and
+generally does not require collateral.  The Company maintains reserves for
+potential credit losses and such losses have been within management's
+expectations.
+
+NOTE 12.    INDUSTRY SEGMENT FINANCIAL DATA:
+
+         During the three fiscal years ending 1995, 1994, and 1993, the Company
+operated in two industry segments: medical lasers and disposable devices and
+plastic optical fibers.  Operations in the medical laser and disposable device
+industry consist primarily of the sale of Nd:YAG and Holmium medical laser
+systems and the manufacture and sale of related disposable devices.  The
+Company's operations in the fiber optics industry relate principally to the
+manufacture and sale of plastic optical fibers and fiber-optic illumination
+products through its subsidiary, Poly-Optical.
+
+
+
+
+
+                                       F-13
+<PAGE>   34
+Industry segment information for the years ended September 30, 1995, 1994 and
+1993 is as follows:
+
+
+<TABLE>
+<CAPTION>
+                                        1995                    1994                       1993
+                               ----------------------     ------------------        -------------------     
+                                   Amount         %         Amount        %           Amount        %
+                               -------------    ----      -----------    ---        -----------    ----
+<S>                             <C>             <C>       <C>            <C>        <C>           <C>
+Net revenues:
+  Fiber Optics Industry          $ 3,403,000      26%     $ 2,990,000      22%      $ 2,635,000     17%
+  Medical Products                 9,638,000      74%      10,403,000      78%       13,089,000     83%
+                                 -----------     ---      -----------    ----       ----------    ----
+  Total                          $13,041,000     100%     $13,393,000     100%      $15,724,000    100%
+                                 ===========     ===      ===========    ====       ===========   ====
+Income (loss) from
+  operations:
+  Fiber Optics Industry          $   373,000      (7%)    $   235,000       8%      $(   62,000)    (6%)
+  Medical Products                (5,579,000)    107%      (3,009,000)   (108%)      (1,047,000)   (94%)
+                                 ----------      ---      -----------    ----       -----------   ----
+  Total                          $(5,206,000)    100%     $(2,774,000)   (100%)     $(1,109,000)  (100%)
+                                 ===========     ===      ==========     ====       ===========   ====
+
+Assets:
+  Fiber Optics Industry          $ 1,945,000      13%     $ 1,771,000       9%      $ 1,565,000      7%
+  Medical Products                13,095,000      87%      18,727,000      91%       19,989,000     93%
+                                 -----------     ---      -----------    ----       -----------   ----
+  Total                          $15,040,000     100%     $20,498,000     100%      $21,554,000    100%
+                                 ===========     ===      ===========    ====       ===========   ====
+
+Depreciation and amortization:
+  Fiber Optics Industry          $   137,000      24%     $   126,000      23%      $   110,000     23%
+  Medical Products                   430,000      76%         422,000      77%          378,000     77%
+                                 -----------     ---      -----------    ----       -----------   ----
+  Total                          $   567,000     100%     $   548,000     100%      $   488,000    100%
+                                 ===========     ===      ===========    ====       ===========   ====
+
+Capital expenditures:
+  Fiber Optics Industry          $   169,000      52%     $   189,000      31%      $   121,000     28%
+  Medical Products                   155,000      48%         419,000      69%          305,000     72%
+                                 -----------     ---      -----------     ---       -----------   ----
+  Total                          $   324,000     100%     $   608,000     100%      $   426,000    100%
+                                 ===========     ===      ===========     ===       ===========    ===
+</TABLE>
+
+
+
+
+
+                                       F-14
+<PAGE>   35
+                                   SCHEDULE I
+
+                         TRIMEDYNE, INC. AND SUBSIDIARY
+
+                        SUMMARY OF MARKETABLE SECURITIES
+
+                               SEPTEMBER 30, 1995
+
+
+
+<TABLE>
+<CAPTION>                                                                                                             
+                                                                                                           Amount at 
+                                                                                                          which shown 
+                                Maturity       Interest                                                     in the 
+Marketable Securities             Date           Rate            Cost             Market Value           balance sheet 
+- ---------------------           --------       --------       ----------          ------------           -------------
+<S>                             <C>             <C>           <C>                  <C>                     <C>         
+Commercial CR Group             01/01/96        6.375%        $  518,000           $  512,000              $  512,000 
+Norwest                         09/18/96        5.163%           500,000              501,000                 501,000 
+Fed MM LN Bks                   12/23/97        4.650%           501,000              501,000                 501,000 
+Federal Farm Cr                 11/01/95        6.330%           500,000              514,000                 514,000 
+Student Loan                    02/02/96                         499,000              500,000                 500,000 
+U.S. Treasury Notes             03/31/96        7.750%           535,000              520,000                 520,000 
+                                                              ----------           ----------              ---------- 
+Total Marketable Securities                                   $3,053,000           $3,048,000              $3,048,000 
+                                                              ==========           ==========              ==========
+</TABLE>
+
+
+
+
+
+                                       F-15
+<PAGE>   36
+
+                                 SCHEDULE VIII
+
+                         TRIMEDYNE, INC. AND SUBSIDIARY
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+
+                               SEPTEMBER 30, 1995
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                          BALANCE                                            BALANCE
+                                        AT BEGINNING      CHARGE TO                          AT END
+DESCRIPTION                              OF PERIOD       COST & EXP.        DEDUCTION       OF PERIOD
+- -----------                             ------------     -----------       -----------      -----------
+<S>                                      <C>              <C>              <C>              <C>
+Allowance bad debt                       $  335,000       $   62,000       $ (82,000)       $  315,000
+
+Inventory reserve                        $2,621,000       $  685,000       $(563,000)       $2,743,000
+
+Tax reserve                              $7,428,000       $2,103,000       $       0        $9,531,000
+</TABLE>
+
+
+
+
+
+                                       F-16
+
+<PAGE>   37
+                                EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+                                                                              SEQUENTIALLY
+EXHIBIT                                                                         NUMBERED
+NUMBER                           DESCRIPTION                                     PAGES
+- -------                          -----------                                  ------------
+ <S>     <C>                                                                     <C>
+ FILED PREVIOUSLY
+
+ 10(a)   Agreement with James Capel Incorporated dated August 1,  1991. . . .
+
+ 10(b)   Development, Supply and License Agreement with C.R. Bard,
+         Inc., dated June 28, 1991  . . . . . . . . . . . . . . . . . . . . .
+
+ 10(c)   Industrial Lease (for Barranca Parkway headquarters) with
+         Griswold Controls dated June 19, 1991, and Addendum thereto 
+         dated July 1, 1991 . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(d)   Patent Licensing Agreement with Royice B. Everett,
+         M.D. (covering the Lateralase Catheter) dated April
+         1, 1988 as amended . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(e)   Poly-Optical lease with Elpal Electronics Inc. dated
+         August 13, 1993  . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(f)   Addendum to Industrial Lease with Griswold Controls
+         dated September 14, 1993 . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(g)   Patent assignment agreement with Robert Ginsburg,
+         M.D. dated July 1, 1993  . . . . . . . . . . . . . . . . . . . . . . 
+
+ 10(h)   License agreement with Christodoulos Stafanadis, M.D.
+         and Pavlos Toutouzas, M.D. dated April 1, 1993 . . . . . . . . . . .
+
+ 10(i)*  Amendment to Development Supply and License Agreement
+         with C.R. Bard dated June 14, 1994 . . . . . . . . . . . . . . . . .
+
+ 10(j)*  Settlement Agreement and Mutual Release among Royice
+         B. Everett, M.D., Trimedyne, Inc., and C.R. Bard
+         dated June 9, 1994 . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(k)*  Settlement Agreement and Mutual Release among
+         Myriadlase, Inc., Trimedyne, Inc., and C.R. Bard dated 
+         June 9, 1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ 10(l)*  Amended and Restated Licensing Agreement with Royice
+         B. Everett M.D. dated June 9, 1994 . . . . . . . . . . . . . . . . .
+
+ FILED HEREWITH
+
+ 10(m)*  License Agreement with Coherent dated December 9, 1994 . . . . . . .
+
+ 23      Consent of Independent Public Accountants  . . . . . . . . . . . . .
+
+ 27      Financial Data Schedule  . . . . . . . . . . . . . . . . . . . . . .
+
+</TABLE>
+
+- -----------------
+
+ *    The Company requested confidential treatment for
+      portions of those exhibits marked with an asterisk (*).
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.M
+<SEQUENCE>2
+<DESCRIPTION>LICENSE AGREEMENT WITH COHERENT
+<TEXT>
+
+<PAGE>   1
+                                                                EXHIBIT 10(m)
+
+
+         ALL SECTIONS MARKED WITH TWO ASTERISKS ("**") REFLECT PORTIONS WHICH
+HAVE BEEN REDACTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE
+COMMISSION BY TRIMEDYNE, INC. AS PART OF A REQUEST FOR CONFIDENTIAL TREATMENT.
+
+
+
+                               LICENSE AGREEMENT
+
+         This Agreement is made and entered into by and between Coherent, Inc.,
+a Delaware corporation, having its principal office located at 5100 Patrick
+Henry Drive, Santa Clara, California 95054 (hereinafter "LICENSOR"), and
+Trimedyne, Inc., a California corporation having its principal office at 2801
+Barranca Road, Irvine, California 92714 (hereinafter referred to as
+"LICENSEE").
+
+                                    RECITALS
+
+         Whereas, LICENSOR is the owner of U.S. Patent No. 5,037,421 and U.S.
+Patent No. 5,147,354 both entitled "Mid Infrared Laser Arthroscopic Procedure"
+(the "Licensed Patents");
+
+         Whereas, LICENSEE desires to obtain a non-exclusive license under the
+Licensed Patents; and 
+
+         WHEREAS, LICENSOR is willing to grant LICENSEE a non-exclusive license
+under the Licensed Patents.
+
+         Now therefore, subject to the terms and conditions contained herein,
+the parties agree as follows:
+
+         1.0   Definitions
+               -----------
+
+               1.1   LICENSED PATENTS shall mean the U.S. Patents referred to
+above plus any renewals, divisions, reissues, reexaminations or
+continuations-in-part with respect thereto and any corresponding foreign
+patents.
+
+               1.2   LICENSED LASER shall mean any laser or laser systems which
+infringes one or more of the valid claims of the Licensed Patents.
+
+               1.3   LICENSED DELIVERY DEVICE shall mean any device that
+delivers the laser energy to a desired location which infringes one or more of
+the valid claims of the Licensed Patents, including such Devices sold with
+original equipment or subsequent thereto.
+
+               1.4   LICENSED DEVICE shall mean a Licensed Laser and/or a
+Licensed Delivery Device. It shall be presumed that a Licensed Device sold by
+LICENSEE infringes the Licensed Patents (in which case royalties would be due
+hereunder) if it is used with an arthroscopic or endoscope in a liquid medium
+in a method covered by any valid claim of the Licensed Patents, unless (i) the
+Licensed Device will be used solely for cardiovascular applications and
+appropriate labeling is placed on the Licensed Device or (ii) LICENSEE provides
+LICENSOR with a written statement signed by the customer that the Licensed
+Device shall not be used for applications that infringe one or more of the
+valid claims of the Licensed Patents.
+
+               1.5   LICENSED APPLICATION shall mean only orthopedic
+applications.
+
+               1.6   NET SELLING PRICE for the purpose of computing royalties
+shall mean the price at which LICENSEE invoices the sale or lease of Licensed
+Devices to its customers.  It is further understood and agreed that in respect
+of inter-company sales between the LICENSEE and its related
+
+
+
+
+
+                                       1
+<PAGE>   2
+companies, the Net Selling Price shall mean the price at which the LICENSEE
+ordinarily sells to its independent distributors or customers under similar
+circumstances.  In such event, no royalty shall accrue or be payable in respect
+of any subsequent resale of such equipment by such independent distributor or
+consumer to a third party.
+
+               1.7   EFFECTIVE DATE shall be July 1, 1994.
+
+               1.8   SUBSIDIARY shall mean a corporation, company or other
+entity more than 50% of whose outstanding shares or securities (representing
+the right to vote for the election of directors or other managing authority)
+are, now or hereafter, owned or controlled by LICENSEE.  Whenever the term
+LICENSEE is used through this Agreement, it is intended to include Licensees
+and Subsidiaries.
+
+         2.0   License Grant
+               -------------
+
+               1.2   LICENSOR grants LICENSEE a non-exclusive, world-wide
+license under the Licensed Patents to make, have made, use, lease and sell
+Licensed Devices for Licensed Applications which would infringe any valid claim
+of the Licensed Patents.
+
+               2.2   LICENSOR hereby covenants not to sue customers of LICENSEE
+for using Licensed Devices for Licensed Applications sold or leased by LICENSEE
+upon which the requisite royalties have been paid or accrued by LICENSEE under
+this Agreement.
+
+               2.3   LICENSEE agrees to appropriately mark all Licensed Devices
+with a notice stating that the products are licensed under U.S. Patent No.
+5,037,421 and U.S. Patent No. 5,147,354.
+
+               2.4   LICENSOR undertakes that it will not assert against
+LICENSEE, or any customer of LICENSEE, any United States patent, or any pending
+United States patent application upon which claims may be granted, which would
+have a scope broader than any of the independent claims in either U.S. Patent
+No. 5,037,421 or U.S. Patent No. 5,147,354.  For the purposes of this
+paragraph, a claim having a scope broader than the independent claims referred
+to above, would necessarily be infringed by performing the steps set forth in
+those claims without regard to the specific design of the laser system
+generating the 1.8 to 2.2 micron output beam.
+
+         3.0   Release of Past Infringement.  Execution of this Agreement and
+payment of the amount set forth in Section 4.1 hereof shall be in full
+settlement of any claim of infringement liability arising under the Licensed
+Patents for Licensed Applications prior to the Effective Date of this
+Agreement.
+
+         4.0   Royalties
+               ---------
+
+               4.1   LICENSEE agrees to pay LICENSOR the sum of $100,000 as a
+license issue fee, plus $50,000 for past royalties, payable within fifteen (15)
+days of execution of this Agreement. Failure to pay this amount when due shall
+be considered a material breach of this Agreement and LICENSOR shall be
+permitted, in addition to whatever other legal remedies it may be entitled to,
+to terminate this Agreement without regard to the notice provisions of Section
+6.2 hereof.
+
+               4.2   During the term of this Agreement LICENSEE agrees to pay
+LICENSOR royalties
+
+
+
+
+
+                                       2
+<PAGE>   3
+for any Licensed Devices sold or leased by LICENSEE in an amount equal to 2% of
+the Net Selling Price for the Licensed Devices.
+
+               4.3   For any agreement year during the term of this Agreement,
+royalties paid under Section 4.2 hereof shall not be less than $    nor more 
+than $**.  In the event that the Net Selling Price for Licensed Devices sold by
+Licensee during any calendar year are insufficient to require payment of $** 
+of royalties, LICENSEE agrees to pay the difference to LICENSOR with its 
+royalty payment due August 15 of the next agreement year.
+
+               4.4   Royalties shall be paid quarterly and payments shall be
+made not more than forty-five (45) days following the termination of each
+calendar quarter.  Royalties shall be payable hereunder when the sale of
+Licensed Devices shall have been invoiced by LICENSEE or shipped, whichever is
+sooner.
+
+               4.5   With respect to licensed Devices shipped to customers
+under lease, LICENSEE shall pay royalties to LICENSOR as if such transaction
+were a sale.
+
+               4.6   LICENSEE shall have the right to adjust royalties payable
+hereunder for returns, bona fide price reductions and allowances of Licensed
+Devices sold or leased by LICENSEE on which the requisite royalties shall
+previously have been paid hereunder.  Royalties will however accrue and be
+payable on subsequent sales of Licensed Devices which have been acquired by way
+of trade-ins, purchases from leasing companies, or other similar acquisitions.
+
+               4.7   If subsequent to the Effective Date, LICENSOR grants
+another license to the Licensed Patents with royalty rates and/or up front
+payments (exclusive of payments for past infringements) more favorable than
+those provided herein, LICENSEE may, at its option, adopt all of the terms of
+the new license agreement as of the effective date of such subsequent license.
+LICENSOR shall notify LICENSEE of any such subsequent licenses and provide
+LICENSEE with the opportunity to exercise its right under this Section 4.7.
+Such rights shall be exercised by Licensee in writing within 30 days notice
+from Licensor or be deemed waived.
+
+         5.0   Records and Reports
+               -------------------
+
+               5.1   LICENSEE will maintain records and keep accounts in
+sufficient detail to enable a certified public accountant nominated by LICENSOR
+and approved by LICENSEE to determine the amount of royalty actually due and
+payable for each calendar quarter year.  LICENSEE will permit such a certified
+public accountant nominated by LICENSOR and approved by LICENSEE to make
+inspection of such records and accounts nor more often than annually, at the
+request of LICENSOR.  Any such certified accountant shall maintain in
+confidence any information learned by it by reason of any such inspection and
+not use the same for any purpose whatsoever except to verify royalty payments
+and reports made by LICENSEE and to report to LICENSOR any underpayment or
+overpayment of royalties.  If an audit shall reveal that the LICENSEE has made
+an error of 10% or more in its favor in any payment due to LICENSOR, the
+LICENSEE shall pay the costs of the audit.
+
+               5.2   Unless the maximum royalty pursuant to Paragraph 4.2
+hereof has been paid, at the end of each calendar year in which this maximum
+royalty has not bee paid, LICENSEE will
+
+
+
+
+
+                                       3
+<PAGE>   4
+deliver to LICENSOR within 60 days after the end of the calendar year a
+statement setting forth the number and type (by model number) of Licensed
+Devices sold by LICENSEE during the calendar year.  LICENSOR shall retain in
+confidence all information contained in such royalty statement.
+
+         6.0   Termination
+               -----------
+
+               6.1   LICENSEE may give LICENSOR notice of termination of this
+Agreement at any time during the life of the Agreement and such termination
+will be effective thirty days following written notice from LICENSEE of intent
+to terminate.
+
+               6.2   If either party to this Agreement should default in the
+performance of any of the terms of this Agreement (including a breach of this
+Agreement which can be cured) the non-defaulting party may terminate this
+Agreement by providing written notice of termination to the defaulting party
+and the termination shall be effective 60 days from said notice unless the
+defaulting party cures such default within said 60 day period or taken
+reasonable steps to avoid recurrence of the default if the default is of a type
+which cannot be cured.
+
+               6.3   Should LICENSEE terminate this Agreement (under either 6.1
+or 6.2), said notice of termination shall be accompanied by a statement of all
+royalty based activities performed by LICENSEE on which royalties are due
+hereunder for such period as has elapsed since the last report.  Said statement
+shall be accompanied by all monies due, including the minimum royalty payment
+for the year.
+
+               6.4   Unless terminated earlier, this Agreement shall continue
+in force until the expiration of the Licensed Patents.
+
+         7.0   General
+               -------
+
+               7.1   This License shall not be assignable by LICENSEE without
+the express written consent of LICENSOR.  LICENSEE may, however, upon written
+notice to LICENSOR, assign or extend its rights under this Agreement as a part
+of the sale of all or a portion respectively of its business in which Licensed
+Devices are manufactured, used or sold pursuant to this Agreement, but only
+with respect to the business sold as a part of such sale; provided, however,
+that if the acquiring company is selling infringing Devices other than those of
+Licensee prior to the acquisition, the $** maximum royalty provision set forth 
+in Section 4.3 shall terminate and no longer apply after the acquisition. If 
+LICENSEE acquires a laser business of an unlicensed third party, neither the 
+acquisition nor this Agreement shall extinguish the third party's liability 
+for past infringement.
+
+               7.2   Any dispute or claim arising out of, in relation to, or in
+connection with this Agreement, or the interpretation, making, performance,
+breach or termination thereof, shall be finally settled by binding arbitration
+in San Francisco, California under the Commercial Arbitration Rules of the
+American Arbitration Association by three arbitrators appointed in accordance
+with said Rules. Judgment on the aware rendered by the arbitrators may be
+entered in any court having jurisdiction thereof.  This Agreement shall be
+governed by the laws of the state of California.  The arbitrators shall apply
+California law to the merits of any dispute or claim, without reference to
+rules of conflict of law.  The costs of the arbitration, including
+administrative and arbitrators' fees, shall be shared equally by the parties.
+Each party shall bear the cost of its own attorneys' fees and expert witness
+fees.  The
+
+
+
+
+
+                                       4
+<PAGE>   5
+arbitrators shall make preliminary findings of fact and conclusions of law
+which they shall circulate to the parties for their comment during the next
+fifteen days.  Between fifteen and thirty days after such circulation, the
+arbitrators shall issue their final ruling which shall include findings of fact
+and conclusion of law.
+
+               7.3   This agreement contains the entire and only agreement
+between the parties and supersedes all pre-existing agreements between them
+respecting its subject matter.  Any changes hereto are effective only if in
+writing and signed by both parties.
+
+               7.4   Any payment, notice or other communication required by, or
+permitted to be made by or given to, either party pursuant to this Agreement
+shall be sent to such party by registered, certified or express mail, postage
+prepaid, or prepaid courier service, addressed to such party at its address set
+forth at the beginning of this Agreement, or to such other addresses as such
+party shall designate by written notice given to the other party, and shall be
+deemed to have been made, given or provided on the date of mailing.
+
+               7.5   The parties to this Agreement shall not disclose the terms
+and conditions of this Agreement to any third party without the express written
+consent of the other party, except:
+
+                     (a)    In response to bona fide requirements or advice of
+                            counsel;
+
+                     (b)    In response to Government disclosure requirements
+                            and inquiries;
+
+                     (c)    In furtherance of judicial action, but the parties
+                            agree to use their best efforts to obtain a
+                            protective order limiting disclosure to attorneys
+                            only; and
+
+                     (d)    For the purpose of identifying LICENSEE as a
+                            licensee of the Licensed Patents, but excluding any
+                            dollar amounts to be paid under this Agreement.
+
+                     (d)    To prior licensees for the purpose of complying
+                            with "most favored licensee" obligation set forth
+                            in prior license agreements.
+
+The parties may also disclose the terms and conditions of this Agreement on a
+confidential basis to potential parties to commercial transactions, for example
+to potential investors or potential customers, subject to a written
+confidentiality agreement.
+
+               7.6    Upon execution of this Agreement, the parties shall
+execute a consent decree in the form of Exhibit A attached hereto, and such
+documents shall be filed jointly on behalf of the parties in the United States
+District Court for the Northern District of California in litigation C94-0591
+SBA.  Each party is to bear its own cost and attorneys' fees.
+
+               7.7    LICENSOR grants LICENSEE a non-exclusive, world-wide 
+license under U.S. Patent No. 5,257,969 to make, have made, use, lease and 
+sell products that would infringe upon any valid claim of this patent.  There 
+shall be no royalties due on account of such sales occurring within sixty days
+of the date of this Agreement.  After this 60 day period, royalties shall be 
+paid on the sale of products that infringe this patent (which shall be in 
+addition to other royalties required to be paid hereunder) in an amount equal 
+to 2% of Net Selling Price until six months past the Effective
+
+
+
+                                       5
+
+
+<PAGE>   6
+Date and 8% of Net Selling Price thereafter.  These sales shall not be counted
+towards the minimum or maximum royalties set forth in Section 4.3.  For all
+other purposes, this patent shall be considered one of the "Licensed Patents"
+and the products that infringe upon this patent shall be considered a "Licensed
+Device."
+
+         Now therefore the parties have caused this Agreement to be signed by
+their authorized representatives as of the date first written above.
+
+                                           COHERENT, INC.
+
+
+Date: December 8, 1994                     By:   /s/ Robert J. Quillinan    
+     ------------------------                 -----------------------------
+                                           Title:    VP & CFO                
+                                                 --------------------------
+
+
+                                           TRIMEDYNE, INC.
+
+
+Date: December 9, 1994                     By:    /s/ Peter Hyde           
+     ------------------------                 -----------------------------
+                                           Title:     President and COO     
+                                                  -------------------------
+
+
+
+                                       6
+
+
+
+<PAGE>   7
+
+MICHAEL A. STALLMENT
+JOHN K. UILKEMA
+LIMBACH & LIMBACH
+2001 Ferry Building
+San Francisco, CA  94111
+Telephone: (415) 433-4150
+
+Attorneys for Plaintiff and Counterdefendant
+COHERENT, INC.
+
+TALIVIDIS CEPURITIS, ESQ.
+OLSON & HIERL, LTD.
+20 North Wacker Drive, Suite 3000
+Chicago, IL  60606
+Telephone: (312) 580-1180
+
+Attorneys for Defendant and Counterclaimant
+TRIMEDYNE, INC.
+
+HOWARD F. FINE
+BAKER & MCKENZIE
+Two Embarcadero Center, 24th Floor
+San Francisco, CA  94111-3909
+Telephone: (415) 576-3000
+
+Attorneys for Defendant
+TRIMEDYNE, INC.
+
+                          UNITED STATES DISTRICT COURT
+                    FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+
+COHERENT, INC.                    )          Civil Action No.
+                 Plaintiff,       )          C94 0591 SBA
+         vs.                      )
+                                  )
+TRIMEDYNE, INC.                   )
+                 Defendant.       )
+                                  )          CONSENT DECREE
+- ----------------------------------           --------------
+TRIMEDYNE, INC.,                  )
+                 Counterclaimant, )
+         vs.                      )
+                                  )
+COHERENT, INC.,                   )
+                 Counterdefendant.)
+
+
+
+                                   EXHIBIT A
+                                   ---------
+
+
+
+
+                                       1
+<PAGE>   8
+
+         The parties hereto, having resolved their differences in accordance
+with a License Agreement executed by them, and having consented to the entry of
+the following judgment:
+
+         IT IS HEREBY ORDERED:
+
+         1.      The Court has jurisdiction over the parties and the subject 
+matter of this action.
+
+         2.      United States Letters Patents, Nos. 5,037,421, and 5,147,354
+are owned by plaintiff and are valid and enforceable in all respects as between
+the parties when interpreted to cover orthopedic applications unless and until
+there is some other final judicial or administrative (including patent office
+reexamination) determination or invalidity and/or unenforceability from which
+no appeal can be taken.
+
+         3.      Defendant Trimedyne, Inc. has infringed or has induced the
+infringement of United States Letters Patents, Nos. 5,037,421 and 5,147,354
+with respect to certain of the lasers and laser energy delivery devices it
+markets as of the date of this judgement for orthopedic applications, unless
+and until there is some other final judicial or administrative (including
+patent office reexamination) determination from which no appeal can be taken
+which limits the scope of one or more of such patents in such a way as to avoid
+infringement by such currently marketed products.
+
+         4.      United States Letters Patent No. 5,257,989 is owned by
+plaintiff and is valid and enforceable in all respects as between the parties,
+unless and until there is some other final judicial or administrative
+(including patent office reexamination) determination of invalidity and/or
+unenforceability from which no appeal can be taken.
+
+         5.      Defendant Trimedyne, Inc. has infringed United States Letters
+Patent No. 5,257,989 with respect to certain laser energy delivery devices it
+markets as of the date of this judgement, unless and until there is some other
+judicial or administration (including patent office reexamination)
+determination from which no appeal can be taken which limits the scope of one
+or more of such patents in such a way as to avoid infringement by such
+currently marketed products.
+
+         6.      Judgement on the basis of such infringement of United States
+Letters Patents, Nos. 5,037,421, 5,147,354, and 5,257,989 is entered in favor
+of plaintiff.
+
+         7.      The above-entitled civil action, including all claims of
+plaintiff against defendant and all counterclaims of defendant against
+plaintiff is hereby dismissed.
+
+         8.      There shall be no accounting or award of damages and each
+party is to bear its own costs and attorney's fees.
+
+         9.      This consent judgement is binding upon and constitutes res
+judicata between the parties except as otherwise provided above in paragraphs
+2, 3, 4 and 5.
+
+
+
+
+
+                                       2
+<PAGE>   9
+         10.     The parties waive all right to appeal from this judgment.
+
+                                            Respectfully submitted,
+                                            LIMBACH & LIMBACH
+                                            2001 Ferry Building
+                                            San Francisco, CA  94111
+                                            (415) 433-4150
+
+Dated:                                      By: 
+      -----------------------                   ----------------------------
+                                                    Michael A. Stallment
+                                                  Attorneys for Plaintiff and
+                                                      Counterdefendant
+
+                                            OLSON & HIERL, LTD.
+                                            20 North Wacker Drive, Suite 3000
+                                            Chicago, IL  60606
+                                            (312) 580-1180
+
+Dated:                                      By:       
+      -----------------------                   ----------------------------
+                                                  Talividis Cepuritis, Esq.
+                                                 Attorneys for Defendant and
+                                                      Counterclaimant
+                                                      Howard F. Fine
+                                                     BAKER & MCKENZIE
+
+         IT IS SO ORDERED:
+
+Dated:                                              
+       ---------------------                   -------------------------------
+                                               U.S. Dist. Judge S.B. Armstrong
+
+Atty. Docket No.:  COHN-A0046
+
+
+
+
+
+
+                                       3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+<TEXT>
+
+<PAGE>   1
+                                                                EXHIBIT 23
+
+
+                      CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We hereby consent to the incorporation by reference in the Prospectus
+constituting part of the Registration Statement on Form S-8 of Trimedyne, Inc.
+of our report dated December 14, 1995 appearing on page F-2 of this Form 10-K.
+We also consent to the reference to us under the heading "Experts" in such
+Prospectus.
+
+Price Waterhouse LLP
+
+PRICE WATERHOUSE LLP
+Costa Mesa, California
+December 28, 1995
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLAR
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          SEP-30-1995
+<PERIOD-START>                             OCT-01-1994
+<PERIOD-END>                               SEP-30-1995
+<EXCHANGE-RATE>                                      1
+<CASH>                                           1,367
+<SECURITIES>                                     3,048
+<RECEIVABLES>                                    2,413
+<ALLOWANCES>                                       315
+<INVENTORY>                                      5,798
+<CURRENT-ASSETS>                                13,023
+<PP&E>                                           4,943
+<DEPRECIATION>                                   3,575
+<TOTAL-ASSETS>                                  15,040
+<CURRENT-LIABILITIES>                            2,941
+<BONDS>                                              0
+<COMMON>                                            96
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      11,861
+<TOTAL-LIABILITY-AND-EQUITY>                    15,040
+<SALES>                                         13,041
+<TOTAL-REVENUES>                                13,041
+<CGS>                                            8,581
+<TOTAL-COSTS>                                    8,581
+<OTHER-EXPENSES>                                 9,666
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 (5,206)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                                  0
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    (5,290)
+<EPS-PRIMARY>                                     (.56)
+<EPS-DILUTED>                                     (.56)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

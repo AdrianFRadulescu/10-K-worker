@@ -17,6 +17,15 @@ import shutil
 from file_word_counting import get_cik
 from file_word_counting import get_file_company
 
+
+def is_cik(directory = '11111111'):
+    """
+        checks if a file's name is a cik or a company name
+    :param directory:
+    :return:
+    """
+    return all(map(lambda x: '0' <= x <= '9', directory)) and len(directory) == 10
+
 if __name__ == "__main__":
 
     database_path = sys.argv[2]
@@ -67,6 +76,9 @@ if __name__ == "__main__":
                     print 'directory already renamed, skipping'
                     continue
 
+                if is_cik(name_dir):
+                    continue
+
                 print get_cik(os.listdir(database_path + '/' + name_dir)[0])
 
                 if get_cik(os.listdir(database_path + '/' + name_dir)[0]) == name_dir:
@@ -89,9 +101,19 @@ if __name__ == "__main__":
                         print database_path + '/' + name_dir + '/' + fl
                         try:
                             print "trying to rename ", get_cik(fl), " " + fl
-                            if ciks[get_cik(fl)] not in ciks:
+                            if ciks[get_cik(fl)] not in map(lambda x: ciks[x], ciks):
+                                print "not in ciks:"
+                                print ciks[get_cik(fl)]
+                                print ciks
+                                print
+                                print
                                 os.mkdir(database_path + '/' + ciks[get_cik(fl)])
-                            os.rename(database_path + '/' + name_dir + '/' + fl, ciks[get_cik(fl)] + '/' + fl)
+                            print "actual renaming"
+                            print database_path + '/' + name_dir + '/' + fl  + '->>>>'
+                            print database_path + '/' + get_cik(fl) + '/' + fl
+                            print
+                            print
+                            os.rename(database_path + '/' + name_dir + '/' + fl, database_path + '/' + get_cik(fl) + '/' + fl)
                             print "rename successful"
                         except OSError:
                             print 'rename failed for:'
@@ -99,7 +121,8 @@ if __name__ == "__main__":
                             print ciks[get_cik(fl)] + '/' + fl
 
                     # delete directory
-                    shutil.rmtree(database_path + '/' + name_dir)
+                    if len(os.listdir(database_path + '/' + name_dir)) == 0 and not is_cik(name_dir):
+                        shutil.rmtree(database_path + '/' + name_dir)
                     # os.remove(database_path + '/' + dir)
 
                 else:
@@ -115,7 +138,14 @@ if __name__ == "__main__":
 
     elif option == '-names':
 
+        if database_path[-1] == '/':
+            database_path= database_path[:-1]
+
         for cik_dir in os.listdir(database_path):
+
+            if not is_cik(cik_dir):
+                continue
+
             if not os.path.isdir(database_path + '/' + cik_dir):
                 print cik_dir
                 continue
@@ -131,12 +161,14 @@ if __name__ == "__main__":
                     companies[get_file_company(fl)] = [fl]
 
             print "renaming files"
+            pprint.pprint(companies)
 
             for comp in list(companies):
 
                 print "renaming for company ", comp
 
-                os.mkdir(database_path + '/' + comp)
+                if not os.path.exists(database_path + '/' + comp):
+                    os.mkdir(database_path + '/' + comp)
 
                 for fl in companies[comp]:
                     try:

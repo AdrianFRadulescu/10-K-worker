@@ -42,7 +42,7 @@ Available actions(for main.py) are:
      -uf          - updates the 10-K files that are contained in the local database
      -tf          - transfers database content between given locations
 
-Genaral arguments are:
+General arguments are:
     
     -rdir         - the directory where the database is located
     -csvfile      - the path to the csv output file
@@ -76,7 +76,7 @@ On Windows(assuming your python interpreter is intalled in "C:\Python27\python.e
     
     This will make a report for companies on multiple years only for the item 7 section.
 
-An additional script for reanming the directories in the database is provided:
+An additional script for renaming the directories in the database is provided:
 
 Available actions(for rename_database.py) are:
 
@@ -101,4 +101,5 @@ Example Usage:
     This will rename the comapnies in the database and create an index file 
 
 
-
+In the case of the "-uf" option there is also the "-rec" auxiliary options
+for downloading only the files that are not present in the database at the moment.

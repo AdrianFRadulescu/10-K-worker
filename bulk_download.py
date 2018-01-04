@@ -20,7 +20,7 @@ def reformat(args=""):
 '''/Volumes/Seagate Backup Plus Drive/DBPartTime/SEC-Edgar-data/name.csv'''
 
 
-def bulk_download(args={}, write_dir='', downloaded_files_count=0, register_file='name.csv', company='-', threshold=''):
+def bulk_download(args={}, write_dir='', downloaded_files_count=0, register_file='name.csv', company='-', threshold='', recover=False):
 
     """
         Download 10-K files that are contained in the given database csv register file
@@ -40,8 +40,32 @@ def bulk_download(args={}, write_dir='', downloaded_files_count=0, register_file
     if 't' in args:
         threshold = args['t']
 
-    downloaded_companies = sorted(os.listdir(write_dir))
-    #print downloaded_companies
+    downloaded_companies = []
+
+    # get the companies for which the files have already been downloaded
+
+    if not recover:
+        downloaded_companies = sorted(os.listdir(write_dir))
+    else:
+        # dive into the files and check
+        print "are files registered with cik number at the moment? y/n?"
+        answer = raw_input()
+        if answer == 'y':
+            for cik_file in sorted(os.listdir(write_dir)):
+                if write_dir[-1] != '/':
+                    write_dir[-1] += '/'
+                downloaded_companies += os.listdir(write_dir + cik_file)
+            downloaded_companies = sorted(downloaded_companies)
+        else:
+            downloaded_companies = sorted(os.listdir(write_dir))
+
+    print "nr of donwloaded companies = ", len(downloaded_companies)
+    print "display first 150? y/n?"
+
+    answer = raw_input()
+    if answer == 'y':
+        print downloaded_companies
+
     if write_dir[-1] is not '/':
         write_dir += '/'
 
@@ -102,6 +126,7 @@ def bulk_download(args={}, write_dir='', downloaded_files_count=0, register_file
         for err in errors:
             print err
             fw.write(err + "\n")
+
 
 
 if __name__ == "__main__":

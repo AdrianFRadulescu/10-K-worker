@@ -100,7 +100,7 @@ def add_year_report_as_row_to_csv_file(file_path='', cik='0000789021', company='
                 line += [0]
 
         # add total number of words from item 7 to line report
-        line +=[sum(item_7_word_freq_automaton.values())]
+        line += [sum(item_7_word_freq_automaton.values())]
 
         # add total number of words from file to line report
         line += [sum(file_word_freq_automaton.values())]

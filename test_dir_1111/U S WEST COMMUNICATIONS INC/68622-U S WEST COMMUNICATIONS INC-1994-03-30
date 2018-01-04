@@ -1,0 +1,2837 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ G6r77n2cQ0tqSEguIXGShBhPKtCN7006HMWS158olbKATHdNkT50AaDU8iCZ6ZC8
+ 3zZXMR/VHudlsInz0ijagA==
+
+<IMS-DOCUMENT>0000912057-94-001150.txt : 19940331
+<IMS-HEADER>0000912057-94-001150.hdr.sgml : 19940331
+ACCESSION NUMBER:		0000912057-94-001150
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			U S WEST COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000068622
+		STANDARD INDUSTRIAL CLASSIFICATION:	4813
+		IRS NUMBER:				840273800
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-03040
+		FILM NUMBER:		94518966
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7800 EAST ORCHARD ROAD
+		STREET 2:		SUITE 480
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+		BUSINESS PHONE:		303-793-66
+
+	MAIL ADDRESS:	
+		STREET 1:		7800 EAST ORCHARD ROAD
+		STREET 2:		SUITE 480
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MOUNTAIN STATES TELEPHONE & TELEGRAPH CO
+		DATE OF NAME CHANGE:	19910109
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+______________________________________________________________________________
+
+                                      FORM 10-K
+
+                           SECURITIES AND EXCHANGE COMMISSION
+
+                                 WASHINGTON, D.C.  20549
+
+/ X /           ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                            SECURITIES EXCHANGE ACT OF 1934
+                      For the fiscal year ended December 31, 1993
+
+                                           OR
+
+/   /            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 OF THE
+                            SECURITIES EXCHANGE ACT OF 1934
+                   For the transition period from_______to _______
+
+                            Commission file number 1-3040
+
+                             U S WEST Communications, Inc.
+
+A Colorado Corporation                                      IRS Employer No.
+                                                            84-0273800
+
+                   1801 California Street, Denver, Colorado 80202
+                           Telephone Number (303) 896-3099
+
+              Securities registered pursuant to Section 12(b) of the Act:
+
+                                                         Name of each exchange
+Title of each class                                      on which registered
+
+Forty Year    3 1/4% Debentures due February 1, 1996   New York Stock Exchange
+
+Registered pursuant to Section 12 (g) of the Act: None.
+
+THE REGISTRANT, AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF U S WEST, INC., MEETS
+THE CONDITIONS SET FORTH IN GENERAL INSTRUCTION J(1)(a) AND (b) OF FORM 10-K
+AND IS THEREFORE FILING THIS FORM WITH REDUCED DISCLOSURE FORMAT PURSUANT TO
+GENERAL INSTRUCTION J(2).
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes x  No_
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrants  knowledge in  definitive proxy or  information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. ***
+
+*** Not applicable in that registrant is an indirect, wholly-owned subsidiary.
+
+The total number of pages contained in this report, including exhibits, is 40
+and the exhibit index is on page 31.
+
+_______________________________________________________________________________
+
+<PAGE>
+
+                             U S WEST COMMUNICATIONS, INC.
+                                      FORM 10-K
+                                  TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+Item                                Description                             Page
+- ----                                -----------                             ----
+<S>  <C>                                                                    <C>
+                                      PART I
+
+
+ 1.  Business  (Abbreviated pursuant to General  Instruction J(2)) .  .  .  .  3
+ 2.  Properties  (Abbreviated pursuant to  General Instruction  J(2)) .  .  .  6
+ 3.  Legal Proceedings.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  7
+ 4.  Submission of Matters to a Vote of Security Holders (Inapplicable).
+
+
+                                      PART II
+
+
+ 5.  Market for the Registrant's Common Equity and Related Shareowner
+       Matters (Inapplicable).
+ 6.  Selected Financial Data (Omitted pursuant to General Instruction
+       J(2)).
+ 7.  Management's Discussion and  Analysis of Financial Condition and
+       Results of Operations (Omitted pursuant  to General Instruction
+       J(2).  See "Management's Discussion.") .  .  .  .  .  .  .  .  .  .  .  8
+ 8.  Consolidated Financial Statements and Supplementary Data.  .  .  .  .  . 15
+
+ 9.  Changes in and Disagreements with Accountants on Accounting and
+       Financial Disclosure (None).
+
+                                     PART III
+
+
+10.  Directors and Executive Officers of the Registrant (Omitted
+       pursuant to General Instruction J(2)).
+11.  Executive Compensation (Omitted pursuant to General Instruction
+       J(2)).
+12.  Security Ownership of Certain Beneficial Owners and Management
+       (Omitted pursuant to General Instruction J(2)).
+13.  Certain Relationships and Related Transactions (Omitted
+       pursuant to General Instruction J(2)).
+
+
+                                      PART IV
+
+
+14.  Exhibits, Financial Statement Schedules and Reports on
+       Form 8-K .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 31
+
+</TABLE>
+
+
+                                         2
+
+<PAGE>
+
+                            U S WEST COMMUNICATIONS, INC.
+                                    FORM 10-K
+
+                                      PART I
+
+ITEM 1.  BUSINESS
+
+GENERAL
+
+      U S WEST Communications, Inc. (the "Company") is incorporated under the
+laws of the State of Colorado and has its principal offices at 1801 California
+Street, Denver, Colorado, 80202, telephone number (303) 896-3099. The Company is
+an indirect, wholly-owned subsidiary of U S WEST, Inc.  ("U S WEST").
+
+      The Company was formed January 1, 1991, when Northwestern Bell Telephone
+Company ("Northwestern Bell") and Pacific Northwest Bell Telephone Company
+("Pacific Northwest Bell") were merged into The Mountain States Telephone and
+Telegraph Company ("Mountain Bell"), which simultaneously changed its name to
+U S WEST Communications, Inc.  U S WEST acquired ownership of Mountain Bell,
+Northwestern Bell and Pacific Northwest Bell on January 1, 1984, when American
+Telephone and Telegraph Company ("AT&T") transferred its ownership interests in
+these three wholly-owned operating telephone companies to U S WEST.  This
+divestiture was made pursuant to a court approved consent decree entitled the
+Modification of Final Judgement ("MFJ"), which arose out of an antitrust action
+brought by the United States Department of Justice against AT&T.
+
+COMPANY OPERATIONS
+
+  The Company provides telecommunications services in the states of Arizona,
+Colorado, Idaho, Iowa, Minnesota, Montana, Nebraska, New Mexico, North Dakota,
+Oregon, South Dakota, Utah, Washington and Wyoming (the "14 state region"). The
+Company serves approximately  80% of the population in these states and
+approximately 40% of the land area. Beginning in 1993, the Company entered into
+a process to sell certain rural exchanges over the next several years. It is
+currently estimated that such sales could amount to approximately 2.0% of total
+network access lines. At December 31, 1993, the Company had approximately
+13,843,000 telephone network access lines in service, a 3.7% increase over year
+end 1992.
+
+     Under the terms of the MFJ, the 14 state region was divided into 29
+geographical areas called local access and transport areas ("LATAs") with each
+LATA generally centered on a metropolitan area or other identifiable community
+of interest. The principal types of telecommunications services offered by the
+Company are (i) local service, (ii) intraLATA long distance service and (iii)
+exchange access service (which connects customers to the facilities of interLATA
+service providers). For the year ended December 31, 1993, local service,
+exchange access service and intraLATA long distance service accounted for 44%,
+33% and 17%, respectively, of the sales and other revenues of the Company.
+In 1993, revenues from a single customer, AT&T, accounted for approximately
+13% of the Company's sales and other revenues.
+
+REGULATION
+
+     The Company is subject to varying degrees of regulation by state
+commissions with respect to intrastate rates and service, and access
+charge tariffs. Under traditional rate of return regulation, intrastate
+rates are generally set on the basis of the amount of revenues needed
+to produce an authorized rate of return (refer to page 9 of Management's
+Discussion).
+
+                                      3
+
+<PAGE>
+
+                            U S WEST COMMUNICATIONS, INC.
+                                    FORM 10-K
+
+                                      PART I
+
+ITEM 1.  BUSINESS (continued)
+
+REGULATION (CONTINUED)
+
+     The Company has sought alternative forms of regulation ("AFOR") plans which
+provide for competitive parity,  enhanced pricing flexibility and improved
+capability in bringing to market new products and services. In a number of
+states where AFOR plans have been adopted, such actions have been accompanied by
+requirements to refund revenues, reduce existing rates or upgrade service, any
+of which could have adverse short-term effects on earnings. Similar agreements
+may have resulted under traditional rate of return regulation (refer to pages 12
+and 13 of Management's Discussion).
+
+     The Company is also subject to the jurisdiction of the Federal
+Communications Commission ("FCC") with respect to interstate access tariffs
+(that specify the charges for the origination and termination of interstate
+communications) and other matters. The Company's interstate services have been
+subject to price cap regulation since January 1991. Price caps are a form of
+incentive regulation and, ostensibly, limit prices rather than profits. However,
+the FCC's price cap plan includes sharing of earnings in excess of authorized
+levels with interexchange carriers. The Company believes that competition will
+ultimately be the determining factor in pricing telecommunications services.
+In January 1994, the FCC announced that it will begin reviewing its
+current form of regulation.
+
+     In September,  1993, the  FCC adopted  licensing rules  for Personal
+Communications Services ("PCS") and announced that it would auction the spectrum
+frequencies available for PCS in late 1994. PCS offers users mobile voice and
+data communications capabilities similar to existing analog cellular service.
+U S WEST intends to pursue PCS opportunities as they become available.
+
+COMPETITION
+
+     Historically, communications, entertainment and information services were
+provided by different companies in different industries. The convergence of
+these technologies is changing both the competitive environment and the way the
+Company does business. This convergence, which is being fueled by technological
+advances, will lead to more intense competition from companies with which the
+Company has not historically competed.
+
+     The Company's principal current competitors are competitive access
+providers ("CAPs"). Competition from CAPs is currently limited to providing
+large business customers (with high-volume traffic) private line access to the
+facilities of interexchange carriers. In coming years, CAPs could also become
+significant competitors for other local exchange services.  MCI announced plans
+in early 1994 to build fiber-optic  rings and local switching  infrastructures
+in major metropolitan markets, hence providing the ability to compete directly
+with the local telephone company.  Additionally,  AT&T's entrance into the
+cellular communications market through its proposed acquisition of McCaw
+Cellular Communications, Inc. has the potential to create increased competition
+in local exchange as well as cellular services. The loss of local exchange
+customers to competitors would affect multiple revenue streams, including
+those related to local and access services, and long distance network
+services, and could have a material, adverse effect on the Company's
+operations.
+
+
+                                     4
+
+<PAGE>
+
+                        U S WEST COMMUNICATIONS, INC.
+                                 FORM 10-K
+
+                                  PART I
+
+ITEM 1.  BUSINESS (continued)
+
+COMPETITION (CONTINUED)
+
+     In addition to CAPs and providers of wireless services, a major potential
+source of future competition includes cable television companies which may offer
+telecommunications and other information services in addition to existing video
+services.
+
+     Competition from long distance companies continues to erode the Company's
+market share of intraLATA long distance services such as WATS and "800." These
+revenues have declined over the last several years as customers have migrated to
+interexchange carriers that have the ability to offer these services on both an
+intraLATA and interLATA basis. The Company is prohibited from providing
+interLATA long distance services.
+
+     The actions of state and federal public policymakers will play an important
+role in determining how increased competition affects the Company. The Company
+is working with regulators and legislators to help ensure that public policies
+keep pace with our rapidly changing industry and allow the Company to bring new
+services to the marketplace.
+
+     The Company supports regulatory reform. It is increasingly apparent that
+the legal and regulatory framework under which the Company operates, which
+includes restrictions on equipment manufacturing, prohibitions on cross-
+ownership of cable television by telephone companies and the provision of cable
+boundaries, limits both competition and consumer choice. The Company believes
+that it is in the public interest to lift these restrictions and to place all
+competitors under the same rules to ensure the industry's technological
+development and long-term financial health.
+
+COMPETITIVE STRATEGY
+
+     The Company intends to implement its competitive strategy by focusing on
+three key objectives: 1) business growth through the development of broadband
+networks; 2) customer loyalty through continuous improvement in customer
+service; and 3) improved productivity through systems re-engineering and
+other cost controls.
+
+
+                                    5
+
+<PAGE>
+
+
+
+                        U S WEST COMMUNICATIONS, INC.
+                                  FORM 10-K
+
+                                   PART I
+
+ITEM 2.  PROPERTIES
+
+     The properties of the Company do not lend themselves to description by
+character and location of principal units. At December 31, 1993, the percentage
+distribution of total net telephone plant by major category for the Company was
+as follows:
+
+      a.  Connecting lines not on customers'
+             premises ............................   36%
+
+      b. Central office equipment ..............     39%
+
+      c. Land and buildings (occupied
+             principally by central offices) .....   15%
+
+      d. General equipment and vehicles ........      9%
+
+      e.  Miscellaneous equipment and inside
+             wiring (substantially all of which
+             are on the premises of customers) ...    1%
+
+
+
+     At December 31, 1993, substantially all of the installations of central
+office equipment were located in buildings owned by the Company situated on land
+which it owns in fee, while many garages, and administrative and business
+offices were in leased quarters.
+
+     Total investment in telephone plant increased to $28.0 billion at December
+31, 1993, from $26.6 billion at December 31, 1992, after giving effect to
+retirements, but before deducting accumulated depreciation. The Company's 1993
+capital expenditures of $2.2 billion were substantially devoted to the continued
+modernization of rural and urban telephone plant, including investments in fiber
+optic cable and the conversion of central offices to digital technology, in
+order to improve customer services and network productivity. 1994 capital
+expenditures are anticipated to be $2.3 billion and the majority of these are
+expected to be financed through internally generated funds.
+
+
+
+                                       6
+
+
+<PAGE>
+
+
+                         U S WEST COMMUNICATIONS, INC.
+                                  FORM 10-K
+
+                                   PART I
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     With respect to lawsuits, proceedings and other claims pending at year-end,
+it is the opinion of management that after final disposition, any monetary
+liability or financial impact to the Company beyond that provided at year-end,
+would not be material to the consolidated financial position of the Company.
+
+
+
+
+
+
+
+
+
+
+                                     7
+
+<PAGE>
+
+
+                        U S WEST COMMUNICATIONS, INC.
+                                 FORM 10-K
+
+                                  PART II
+<TABLE>
+<CAPTION>
+
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+RESULTS OF OPERATIONS
+- --------------------------------------------------------------------------------
+                                                                     Change
+                                   1993          1992            $           %
+- --------------------------------------------------------------------------------
+<S>                              <C>           <C>             <C>         <C>
+Operating revenues
+  Local service                  $3,829.1      $3,674.3         $154.8      4.2
+  Interstate access service       2,146.9       2,046.9          100.0      4.9
+  Intrastate access service         682.0         672.8            9.2      1.4
+  Long distance network service   1,441.5       1,419.7           21.8      1.5
+  Other services                    556.4         510.0           46.4      9.1
+Operating expenses
+  Employee-related costs          2,916.6       2,862.6           54.0      1.9
+  Other operating expenses        1,599.4       1,556.2           43.2      2.8
+  Taxes other than income taxes     379.8         348.1           31.7      9.1
+  Depreciation and amortization   1,806.5       1,735.4           71.1      4.1
+  Restructuring charge              880.0             -          880.0        -
+Interest expense                    373.8         401.5          (27.7)    (6.9)
+Other expense                        13.0          34.9          (21.9)   (62.8)
+- --------------------------------------------------------------------------------
+Income before income taxes,
+  extraordinary items and
+  cumulative effect of change
+  in accounting principles          686.8       1,385.0         (698.2)   (50.4)
+
+Provision for income taxes        251.5         435.0         (183.5)     (42.2)
+- --------------------------------------------------------------------------------
+Income before extraordinary items
+  and cumulative effect of change
+  in accounting principles          435.3         950.0         (514.7)   (54.2)
+
+Extraordinary items (net of tax)
+  Discontinuance of SFAS No. 71  (3,040.9)            -       (3,040.9)       -
+  Early extinguishment of debt      (77.2)            -          (77.2)       -
+Cumulative effect of change in
+  accounting principles (accounting
+  for postemployment and postretire-
+  ment benefits), net of tax            -      (1,724.4)       1,724.4        -
+- --------------------------------------------------------------------------------
+Net loss                        ($2,682.8)      ($774.4)      (1,908.4)       -
+================================================================================
+</TABLE>
+
+     Income before extraordinary items and cumulative effect of change in
+accounting principles decreased $514.7 compared to 1992. Absent the effects of a
+restructuring charge, which reduced 1993 income by approximately $534.0, and the
+cumulative effect on deferred taxes of the 1993 federally mandated increase in
+income tax rates which reduced income by $54.0, income before extraordinary
+items and cumulative effect of change in accounting principles increased by
+$73.3 or 7.7%. The extraordinary items relate to the discontinuance of
+accounting for the Company's operations as a regulated enterprise and the
+refinancing of debt to obtain lower financing costs prospectively.  The Company
+had a net loss in the prior year due to the adoption of "Employer's Accounting
+for Postretirement Benefits Other than Pensions" (SFAS No. 106) and "Employer's
+Accounting for Postemployment Benefits" (SFAS No. 112).
+
+                                   8
+
+<PAGE>
+
+                        U S WEST COMMUNICATIONS, INC.
+                                 FORM 10-K
+
+                                  PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OPERATING REVENUES
+
+     Total operating revenues were $8,655.9, a $332.2, or 4.0%, increase
+compared to the prior year. In the tables below, price changes primarily
+represent the aggregate effects of price changes resulting from regulatory
+proceedings and growth represents increased market penetration through both
+increased access lines and additional sales to existing customers.  Different
+regulatory commissions govern the interstate and intrastate jurisdictions,
+resulting in varying price and refund impacts.
+
+  LOCAL SERVICE
+
+<TABLE>
+<CAPTION>
+      Price           Higher                                           Increase
+     Changes          Refunds          Growth          Other          $        %
+- --------------------------------------------------------------------------------
+    <S>             <C>              <C>             <C>         <C>        <C>
+    $  (5.7)        $ (10.6)         $ 175.5         $ (4.4)      $ 154.8    4.2
+- --------------------------------------------------------------------------------
+</TABLE>
+
+     Local service increased $154.8 primarily due to business growth. The
+Company added 498,000 access lines, a record 3.7% increase over the
+December 31, 1992, level.
+
+  INTERSTATE ACCESS SERVICE
+
+<TABLE>
+<CAPTION>
+     Price           Lower                                            Increase
+    Changes         Refunds           Growth         Other           $        %
+- --------------------------------------------------------------------------------
+    <S>             <C>              <C>             <C>         <C>        <C>
+    $ (71.5)        $   5.8          $ 175.4         $ (9.7)      $ 100.0    4.9
+- --------------------------------------------------------------------------------
+</TABLE>
+
+     The increase in interstate access service of $100.0 was primarily a result
+of increased growth partially offset by the effects of price reductions.
+Interstate access minutes of use increased 8.5% over the same period in 1992.
+Interstate access prices were reduced by approximately $60 annually, effective
+July 1, 1993, in addition to $90, effective July 1, 1992, due to FCC mandated
+changes which resulted in a cost shift to intrastate jurisdictions.  In addition
+to price changes resulting from FCC regulatory actions, an increasingly
+competitive market for access services will continue to drive prices down.
+
+  INTRASTATE ACCESS SERVICE
+
+<TABLE>
+<CAPTION>
+
+      Price           Lower                                            Increase
+     Changes         Refunds           Growth          Other          $       %
+- --------------------------------------------------------------------------------
+    <S>             <C>              <C>             <C>         <C>        <C>
+     $ (18.1)        $   8.0          $  19.3         $  0.0       $   9.2   1.4
+- --------------------------------------------------------------------------------
+</TABLE>
+
+     The  increase in  intrastate  access  service revenues of $9.2 was due to
+increased growth and lower refunds, partially offset by price decreases.
+
+
+                                      9
+
+<PAGE>
+                         U S WEST COMMUNICATIONS, INC.
+                                  FORM 10-K
+
+                                   PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OPERATING REVENUES (CONTINUED)
+
+  LONG DISTANCE NETWORK SERVICE
+
+<TABLE>
+<CAPTION>
+
+      Price          Higher                                            Increase
+     Changes         Refunds           Growth          Other        $        %
+- --------------------------------------------------------------------------------
+    <S>             <C>              <C>             <C>         <C>        <C>
+    $  (7.0)        $  (0.6)         $  31.2         $ (1.8)      $  21.8    1.5
+- --------------------------------------------------------------------------------
+</TABLE>
+
+     Long distance network service increased $21.8 primarily due to increased
+growth. This increase was partially offset by price decreases and the impacts of
+competition, particularly in the Wide Area Telephone Service ("WATS") and 800
+services.
+
+  OTHER SERVICES
+
+     Other services revenue increased $46.4 as a result of growth in billing and
+collection services and continued market penetration in voice messaging
+services.
+
+OPERATING EXPENSES
+
+     Employee-related costs increased $54.0 over 1992. The increase was a result
+of costs associated with customer service initiatives and a lower pension credit
+in the current year. Increases in basic compensation costs, including overtime
+primarily related to an increase in customer demand and flood damage in the
+mid-western states, were essentially offset  by the effects of work-force
+reductions.  In 1993, 2,500 employees exited the business under the 1991
+restructuring plan. These increases were partially offset by reduced health care
+costs.
+
+     Other operating expenses increased $43.2 over the same period last year.
+The increases were primarily related to increases in network software costs and
+advertising expenses.
+
+     The increase of $31.7 in taxes other than income taxes is a result of
+adjustments made in 1992 for resolution of certain long-standing appeals.
+
+     Depreciation and amortization expense increased over the same period last
+year by $71.1. The increase is attributable to a higher depreciable plant base
+and the approval of changed depreciation rates and amortizations by the FCC and
+certain state jurisdictions.  A depreciation adjustment in the prior year
+resulting from an alternative form of regulation implemented in the state of
+Washington partially offset the increase. Prior to the discontinuance of SFAS
+No. 71, the  Company's depreciation expense  was based on  regulator approved
+depreciation rates. The Company's discontinuance of SFAS No. 71 has resulted in
+the use of shorter asset lives (for financial reporting purposes) to more
+closely reflect the economic lives of telephone plant. With these new, economic
+lives, the Company expects depreciation expense to increase in 1994 by
+approximately 3 to 5 percent over the 1993 amount.  The Company continues to
+pursue higher regulator-approved depreciation rates and improved capital
+recovery within the regulatory environment.
+
+                                       10
+
+<PAGE>
+
+                           U S WEST COMMUNICATIONS, INC.
+                                    FORM 10-K
+
+                                     PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OPERATING EXPENSES (CONTINUED)
+
+     The Company's 1993 results reflect a pretax restructuring charge of $880
+million. The restructuring charge includes specific incremental and direct costs
+which can be estimated with reasonable accuracy and are clearly identifiable
+with the related plan.
+
+     The restructuring plan is designed to provide faster, more responsive
+customer services while reducing the costs of providing these services. As part
+of the plan, the Company will develop new systems that will enable it to monitor
+networks to reduce the risk of service interruptions, activate telephone service
+on demand, provide automated inventory systems and centralize its service
+centers so that customers can have their telecommunications needs resolved with
+one phone call. The Company will also reduce its work force by approximately
+8,000 employees by the end of 1996 (in addition to a remaining reduction of
+1,000 employees pursuant to the restructuring plan announced in 1991) and
+consolidate the operations of its existing 560 customer centers into 26
+customer centers in ten cities.
+
+     Following is a schedule of costs included in the restructuring charge:
+
+<TABLE>
+
+       <S>                                                       <C>
+       Employee separation                                        $235
+       Real estate                                                 120
+       Relocation                                                  105
+       Retraining                                                   60
+       Systems development                                         360
+                                                                ------
+                                                                  $880
+                                                                ======
+</TABLE>
+
+     Employee separation costs include severance payments, healthcare coverage
+and postemployment education benefits. Real estate costs include preparation
+costs for the new service centers. The relocation and retraining costs are
+related to moving employees to the sites of the new service centers and
+retraining employees on the new methods and systems required in the new,
+restructured mode of operation. Systems development includes the replacement of
+existing, single-purpose systems with new systems designed to provide
+integrated, end-to-end customer service. There are no costs for asset write-
+downs included in the restructuring charge. The work-force reductions would not
+be possible without the development and installation of the new systems which
+will eliminate the current, labor-intensive interfaces between existing systems.
+
+     The estimated annual cash expenditures relating to the restructuring plan
+are $365, $300 and $215 in 1994, 1995 and 1996, respectively. In addition to
+these expenditures, the Company anticipates incremental capital expenditures
+related to the restructuring plan of $450 over the next three years. The
+restructuring plan is estimated to reduce cumulative total employee and related
+costs by approximately $525 during the next three years, starting in 1994. These
+savings are expected to be largely offset by higher employee salaries and wages
+for the remainder of the work force.
+
+
+
+                                    11
+
+
+<PAGE>
+
+
+
+                         U S WEST COMMUNICATIONS, INC.
+                                  FORM 10-K
+
+                                   PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OPERATING EXPENSES (CONTINUED)
+
+     The Company's 1991 restructuring plan was established to partially offset
+the effects of future wage, salary and benefit increases. The plan will result
+in a work-force reduction of approximately 6,000 employees, of which
+approximately 5,000 employees have left the Company as of December 31, 1993.
+The 1991 restructuring charge was $240, of which approximately $56 is unused at
+December 31, 1993.
+
+INTEREST AND OTHER
+
+     Interest expense decreased $27.7 primarily as a result of the refinancing
+of debt in order to take advantage of lower interest rates. Additional detail
+of the debt refinancing is provided on page 24 in Note 7 of the Notes to
+Consolidated Financial Statements.
+
+     Other expense decreased due to the gain on the sale of several small
+exchanges and a reversal of accrued interest based on settlement with several
+interexchange carriers related to the 89/90 monitoring period, both occurring in
+the current year.  Other items impacting this decrease were a favorable Internal
+Revenue Service settlement, a charge for the refinancing of debt and the impacts
+of litigation, all occurring in the prior year.
+
+PROVISION FOR INCOME TAXES
+
+     Excluding the effects of the restructuring charge, income tax expense
+increased $162.9 over the same period last year.
+
+     The increase in the effective tax rate ("ETR") from 31.4 percent to 36.6
+percent resulted primarily from the $54.0 cumulative effect on deferred taxes of
+the 1993 federally mandated increase in income tax rates and the ongoing effects
+of discontinuing SFAS No.  71, partially offset by the tax effects of the
+restructuring charge (refer to Note 4 on page 22 of the Notes to Consolidated
+Financial Statements). In 1994, the ETR is expected to increase to approximately
+37.5 percent due to the full year ongoing impact of discontinuing SFAS No. 71.
+
+     In 1993, the Company implemented SFAS No.  109, "Accounting for Income
+Taxes." Adoption of this new standard did not have a material effect on the
+Company's financial position or results of operations, primarily because of the
+Company's 1989 adoption of SFAS No.  96 which reflects deferred income taxes at
+current income tax rates.
+
+OTHER ITEMS
+
+ALTERNATIVE FORMS OF REGULATION ("AFOR") AND REGULATORY ACTIVITY
+
+     The Company has sought AFOR plans which provide for competitive parity,
+enhanced pricing flexibility and improved capability in bringing to market new
+products and services. In addition to the FCC's price cap plan, the Company has
+existing AFOR plans in the states of Minnesota, Washington, Oregon, Colorado,
+Idaho, Nebraska, North Dakota and South Dakota. In a number of states where AFOR
+plans have been adopted, such actions have been accompanied by agreements to
+refund revenues, reduce existing prices or upgrade service.
+
+                                     12
+
+<PAGE>
+                       U S WEST COMMUNICATIONS, INC.
+                                 FORM 10-K
+
+                                  PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OTHER ITEMS (CONTINUED)
+
+ALTERNATIVE FORMS OF REGULATION ("AFOR") AND REGULATORY ACTIVITY (CONTINUED)
+
+     On August 3, 1993, the FCC announced that it will require that certain
+telephone companies, including the Company, allow competitive access providers
+to interconnect directly to a telephone company's switching equipment. The
+decision extends the current collocation requirement applicable to special
+access services to local transport for switched access services. The effect
+of this decision will be to increase competition and lower prices for interstate
+access services provided to interexchange carriers. The FCC has granted local
+telephone companies subject to this requirement additional pricing flexibility.
+
+    There are pending regulatory actions in local regulatory jurisdictions which
+call for price decreases, refunds or both. In one such instance, the Utah
+Supreme Court has remanded a Utah Public Service Commission ("PSC") order to
+the PSC for reconsideration, thereby  establishing two exceptions to  the rule
+against retroactive ratemaking: 1) unforeseen and extraordinary events and 2)
+misconduct. The Commission's initial order denied a refund request from
+interexchange carriers and other parties related to the Tax Reform Act of 1986.
+If the Commission finds that either of the exceptions apply, the Company could
+be liable for refunds, although at this time any such amount is not reasonably
+estimable since the case is still in the discovery process.
+
+DISCONTINUANCE OF SFAS NO. 71
+
+     The Company incurred a non-cash, extraordinary charge of $3.0 billion, net
+of an income tax benefit of $2.3 billion, in conjunction with its decision to
+discontinue accounting for its operations in accordance with SFAS No.  71,
+"Accounting for the Effects of Certain Types of Regulation," as of September 30,
+1993. SFAS No. 71 generally applies to regulated companies that meet certain
+requirements, including a requirement that a company be able to recover its
+costs, competition notwithstanding, by charging its customers at prices
+established by its regulators. The Company's decision to discontinue the
+application of SFAS No. 71 was based on the belief that competition, market
+conditions and the development of broadband technology, more than prices
+established by regulators, will determine the future revenues of the Company.
+As a result of this change, the remaining asset lives of the Company's telephone
+plant have been shortened to more closely reflect the useful (economic) lives of
+such plant.  The Company's accounting and reporting for regulatory purposes are
+not affected by the change. For additional detail, refer to Note 5 on page 23
+in the Notes to Consolidated Financial Statements.
+
+
+
+                                       13
+
+
+<PAGE>
+                           U S WEST COMMUNICATIONS, INC.
+                                    FORM 10-K
+
+                                     PART II
+
+MANAGEMENT'S DISCUSSION.  (DOLLARS IN MILLIONS)
+
+OTHER ITEMS (CONTINUED)
+
+EARLY EXTINGUISHMENT OF DEBT
+
+     During 1993, the Company refinanced long-term debt issues aggregating $2.7
+billion in principal amount. These refinancings allowed the Company to take
+advantage of favorable interest rates.  Extraordinary costs associated with the
+redemptions reduced 1993 net income by $77.2. Additional information is provided
+in Note 7 on page 24 in the Notes to Consolidated Financial Statements.
+
+SALE OF CERTAIN RURAL EXCHANGES
+
+     Beginning in 1993, the Company entered into a process to sell certain rural
+exchanges over the next several years. It is currently estimated that such sales
+could amount to approximately 2.0% of total network access lines.
+
+
+
+
+
+
+
+
+                                       14
+
+<PAGE>
+
+ITEM 8.  CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Shareowner and Board of Directors of U S WEST Communications, Inc.
+
+
+We have audited the consolidated financial statements and the consolidated
+financial statement schedules of U S WEST Communications, Inc. listed in the
+index on page 31 of this Form 10-K. These financial statements and financial
+statement schedules are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+financial statement schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of U S WEST
+Communications, Inc. as of December 31, 1993 and 1992, and the consolidated
+results of its operations and its cash flows for each of the three years in
+the period ended December 31, 1993, in conformity with generally accepted
+accounting principles. In addition, in our opinion, the financial statement
+schedules referred to above, when considered in relation to the basic
+financial statements taken as a whole, present fairly, in all material
+respects, the information required to be included therein.
+
+As discussed in Note 5 on page 23 of the Notes to Consolidated Financial
+Statements, the Company discontinued accounting for the operations of U S WEST
+Communications, Inc. in accordance with Statement of Financial Accounting
+Standards No.  71,  "Accounting for the Effects of  Certain Types of
+Regulation," in 1993. As discussed in Note 10 on page 26 of the Notes to
+Consolidated Financial  Statements, the Company changed  its method of
+accounting for  postretirement benefits other than  pensions and other
+postemployment benefits in 1992.
+
+COOPERS & LYBRAND
+
+
+
+Denver, Colorado
+January 20, 1994
+
+
+
+
+
+
+
+                                      15
+
+
+<PAGE>
+
+
+                          U S WEST COMMUNICATIONS, INC.
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+<TABLE>
+<CAPTION>
+________________________________________________________________________________
+
+                                                    YEAR ENDED DECEMBER 31,
+(DOLLARS IN MILLIONS)                           1993           1992        1991
+________________________________________________________________________________
+<S>                                          <C>            <C>         <C>
+OPERATING REVENUES
+    Local service                            $3,829.1       $3,674.3    $3,500.6
+    Interstate access service                 2,146.9        2,046.9     2,023.4
+    Intrastate access service                   682.0          672.8       649.7
+    Long distance network service             1,441.5        1,419.7     1,462.7
+    Other services                              556.4          510.0       528.0
+                                             --------     ----------  ----------
+      Total operating revenues                8,655.9        8,323.7     8,164.4
+                                             --------     ----------  ----------
+OPERATING EXPENSES
+    Employee-related costs                    2,916.6        2,862.6     2,728.6
+    Other operating expenses                  1,599.4        1,556.2     1,504.9
+    Taxes other than income taxes               379.8          348.1       393.4
+    Depreciation and amortization             1,806.5        1,735.4     1,690.6
+    Restructuring charges                       880.0              -       240.0
+                                             --------     ----------  ----------
+      Total operating expenses                7,582.3        6,502.3     6,557.5
+                                             --------     ----------  ----------
+        Income from operations                1,073.6        1,821.4     1,606.9
+
+    Interest expense                            373.8          401.5       433.7
+    Other expense                                13.0           34.9        19.5
+                                             --------     ----------  ----------
+      Income before income taxes,
+        extraordinary items and cumulative
+        effect of change in accounting
+        principles                              686.8        1,385.0     1,153.7
+
+    Provision for income taxes                  251.5          435.0       355.2
+                                             --------     ----------  ----------
+Income before extraordinary items and
+  cumulative effect of change in accounting
+  principles                                    435.3          950.0       798.5
+
+Extraordinary items
+  Discontinuance of SFAS No. 71, net of tax  (3,040.9)             -           -
+  Early extinguishment of debt, net of tax      (77.2)             -           -
+
+Cumulative effect of change in accounting
+  principles (accounting for postemployment
+  and postretirement benefits), net of tax          -       (1,724.4)          -
+                                             ---------     ----------  ---------
+NET INCOME (LOSS)                           ($2,682.8)       ($774.4)     $798.5
+                                            ==========     ==========  =========
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THE CONSOLIDATED FINANCIAL
+STATEMENTS.
+
+
+                                       16
+
+
+<PAGE>
+
+                           U S WEST COMMUNICATIONS, INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+________________________________________________________________________________
+
+                                             DECEMBER 31,           DECEMBER 31,
+(DOLLARS IN MILLIONS)                           1993                   1992
+________________________________________________________________________________
+<S>                                          <C>                    <C>
+ASSETS
+
+  Current assets
+    Cash and cash equivalents                       $67.3               $52.9
+    Accounts receivable, net of allowance for
+      credit losses of $27.2 and $26.8
+      in 1993 and 1992, respectively              1,390.9             1,324.1
+    Materials and supplies                          108.0               112.8
+      Deferred tax asset                            292.3                   -
+      Other                                          59.1               145.1
+                                               ----------          ----------
+        Total current assets                      1,917.6             1,634.9
+                                               ----------          ----------
+  Property, plant and equipment, at cost
+    In service                                   27,463.8            25,921.2
+    Under construction                              520.5               602.7
+    Held for future use                              27.4                30.0
+                                               ----------          ----------
+                                                 28,011.7            26,553.9
+      Less accumulated depreciation              15,464.6             9,234.1
+                                               ----------          ----------
+        Net property, plant and equipment        12,547.1            17,319.8
+                                               ----------          ----------
+
+  Other                                             697.7             1,513.5
+                                               ----------          ----------
+
+    Total assets                                $15,162.4           $20,468.2
+                                               ==========          ==========
+
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THE CONSOLIDATED FINANCIAL
+STATEMENTS.
+
+
+
+
+
+                                      17
+
+<PAGE>
+
+                         U S WEST COMMUNICATIONS, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+<TABLE>
+<CAPTION>
+_______________________________________________________________________________
+
+                                             DECEMBER 31,          DECEMBER 31,
+(DOLLARS IN MILLIONS)                            1993                  1992
+_______________________________________________________________________________
+<S>                                          <C>                   <C>
+LIABILITIES AND SHAREOWNER'S EQUITY
+
+  Current liabilities
+    Short-term debt                            $1,260.0                  $549.6
+    Accounts payable                              935.4                   991.3
+    Employee compensation                         302.9                   315.6
+    Current portion  of restructuring charges     421.3                    80.0
+    Property taxes payable                        199.9                   184.6
+    Advance billings and customer deposits        197.6                   188.7
+    Other accrued liabilities                     495.5                   285.6
+                                              ----------              ----------
+     Total current liabilities                  3,812.6                 2,595.4
+                                              ----------              ----------
+
+  Long-term debt                                4,091.8                 4,449.9
+  Postretirement benefit obligation             2,592.5                 2,723.3
+  Deferred taxes and credits                    1,525.5                 4,242.7
+
+  Shareowner's equity
+    Common shares - one share
+      without par value, owned by
+      parent                                    6,741.5                 6,456.9
+    Retained earnings (deficit)                (3,601.5)                      -
+                                              ----------              ----------
+      Total shareowner's equity                 3,140.0                 6,456.9
+                                              ----------              ----------
+
+    Total liabilities and shareowner's
+      equity                                  $15,162.4               $20,468.2
+                                              ==========              ==========
+
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THE CONSOLIDATED FINANCIAL
+STATEMENTS.
+
+
+
+
+
+                                      18
+
+
+<PAGE>
+
+
+                           U S WEST COMMUNICATIONS, INC.
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+________________________________________________________________________________
+
+                                                    YEAR ENDED DECEMBER 31,
+(DOLLARS IN MILLIONS)                           1993           1992        1991
+________________________________________________________________________________
+<S>                                            <C>          <C>         <C>
+OPERATING ACTIVITIES
+  Net income (loss)                            ($2,682.8)   ($774.4)     $798.5
+  Adjustments
+   Depreciation and amortization                 1,806.5    1,735.4     1,690.6
+   Deferred income taxes and amortization
+     of investment tax credit                     (204.3)     (31.4)     (112.7)
+   Discontinuance of SFAS No. 71                 3,040.9          -           -
+   Restructuring charges                           880.0          -       240.0
+   Cumulative effect of change in accounting
+     principles                                     -       1,724.4           -
+   Changes in operating assets and liabilities
+     Accounts receivable                           (66.8)      30.4        19.1
+     Materials, supplies and other                 (76.3)      19.6       (66.7)
+     Accounts payable and accrued liabilities      130.4      157.9       (99.4)
+   Funding of postretirement benefit
+     obligation                                   (246.1)        -           -
+   Other - net                                     236.7       (7.1)      (89.6)
+                                               ----------   ---------  ----------
+       Cash provided by operating activities     2,818.2    2,854.8     2,379.8
+                                               ----------  ----------  ----------
+INVESTING ACTIVITIES
+  Expenditures for property, plant
+    and equipment                               (2,189.8)  (2,086.7)   (2,103.9)
+  Other - net                                       42.4       52.0        36.7
+                                               ---------- ----------  ----------
+   Cash used for investing activities           (2,147.4)  (2,034.7)   (2,067.2)
+                                               ---------- ----------  ----------
+FINANCING ACTIVITIES
+  Net proceeds from short-term debt                708.1        3.1      (123.6)
+  Proceeds from long-term debt                   2,281.7      344.1       310.0
+  Repayments of long-term debt                  (3,064.0)    (669.9)          -
+  Dividends paid                                  (851.7)    (864.1)     (968.0)
+  Equity infusions from parent                     269.5      369.7       476.6
+                                               ---------- ----------  ----------
+    Cash used for financing activities            (656.4)    (817.1)     (305.0)
+                                               ---------- ----------  ----------
+CASH AND CASH EQUIVALENTS
+  Increase                                          14.4        3.0         7.6
+  Beginning balance                                 52.9       49.9        42.3
+                                               ---------- ----------  ----------
+  Ending balance                                   $67.3      $52.9       $49.9
+                                               ========== ==========  ==========
+
+</TABLE>
+
+       THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THE CONSOLIDATED FINANCIAL
+STATEMENTS.
+
+
+                                      19
+
+
+<PAGE>
+
+                          U S  WEST COMMUNICATIONS,  INC.
+                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                              (DOLLARS IN MILLIONS)
+
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION: The Consolidated Financial Statements include the
+accounts of U S WEST Communications,  Inc. and its wholly-owned subsidiaries
+(the "Company"). The Company is an indirect, wholly-owned subsidiary of U S
+WEST, Inc. The Company was formed as a result of the January 1, 1991, merger of
+The Mountain States Telephone and Telegraph Company, Northwestern Bell
+Telephone Company and Pacific Northwest Bell Telephone Company.  The merger was
+accounted for as a transfer of assets among entities under common control
+similar to that of a pooling-of-interests.
+
+    In the third quarter of 1993, the Company discontinued accounting for its
+operations under Statement of Financial Accounting Standards ("SFAS") No. 71,
+"Accounting for the Effects of Certain Types of Regulation." Refer to Note 5 on
+page 23 of the Notes to Consolidated Financial Statements.
+
+     Certain reclassifications within the Consolidated Financial Statements have
+been made to conform to the current year presentation.
+
+CASH AND CASH EQUIVALENTS: Cash and cash equivalents include highly liquid
+investments with original maturities of three months or less which are readily
+convertible into cash and which are not subject to significant risk resulting
+from changes in interest rates.
+
+MATERIALS AND SUPPLIES: New and reusable materials are carried principally at
+average cost, except for significant individual items which are valued based on
+specific costs. Non-reusable material is carried at its estimated salvage value.
+
+PROPERTY, PLANT AND EQUIPMENT: The investment in property, plant and equipment
+is carried at cost less accumulated depreciation.  Additions, replacements and
+substantial betterments are capitalized. Capitalized costs include applicable
+salaries and employee benefits, materials, taxes and certain other items. The
+cost of repairs and maintenance for property, plant and equipment is charged to
+expense as incurred.
+
+    The Company's provision for depreciation of property, plant and equipment is
+based on various straight-line group methods using remaining useful (economic)
+lives based on industry-wide studies.  Prior to discontinuing SFAS No.  71,
+depreciation was based on lives specified by regulatory commissions.  When
+depreciable property, plant and equipment is retired or sold, the original cost
+less the net salvage value is generally charged to accumulated depreciation.
+
+     The Company capitalized the cost of debt and equity funds as a component of
+plant construction. This cost was amortized over the remaining service lives of
+the plant, resulting in higher depreciation expense. Total amounts capitalized
+by the Company were $19.1, $23.4 and $30.5 in 1993, 1992 and 1991,
+respectively, and were included as an element of other expense, prior to the
+discontinuance of SFAS No. 71.  Subsequent to the discontinuance of SFAS No.
+71, amounts capitalized will be offset against interest expense.
+
+REVENUE RECOGNITION: Local telephone service revenues are generally billed
+monthly in advance.  These revenues are  recognized when services  are
+provided. Nonrecurring and usage sensitive revenues derived from installation,
+exchange access and long distance services are billed and recognized monthly
+as services are provided.
+
+                                    20
+
+
+<PAGE>
+
+                       U S WEST COMMUNICATIONS, INC.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                           (DOLLARS IN MILLIONS)
+
+NOTE 2: MAJOR CUSTOMER
+
+     The Company provides network access services to interexchange carriers, the
+largest volume of which is provided to AT&T. During 1993, 1992 and 1991,
+billings for all services to AT&T approximated $1,159, $1,191 and $1,243,
+respectively. The decreases are primarily due to price decreases prescribed by
+the Federal Communications Commission ("FCC"). Related accounts receivable at
+December 31, 1993 and 1992, totaled $97 and $106, respectively.
+
+NOTE 3: RELATED PARTY TRANSACTIONS
+
+    The Company purchases various services, as noted below, from affiliated
+companies. The amount paid by the Company for these services is determined in
+accordance with FCC and state cost allocation rules, which prescribe various
+cost allocation methodologies that are dependent upon the service provided.
+Management believes that such cost allocation methods are reasonable. The
+costs of those services are billed to the regulated company.
+
+     It is not practicable to provide a detailed estimate of the expenses which
+would be recognized on a stand-alone basis. However, the Company believes that
+corporate services, including those related to shareholder relations,
+procurement, tax, legal and human resources, are obtained more economically
+through affiliates than they would be on a stand-alone basis, since the Company
+absorbs only a portion of the total costs. Additionally, through its 1/7
+ownership interest in Bellcore (see footnote 1 below), the Company obtains
+benefits associated with research and development activities which exceed the
+Company's share of the total costs.
+
+     The Company's operations include the following charges for these services:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                Year Ended December 31,
+                                           1993           1992        1991
+- -------------------------------------------------------------------------------
+<S>                                       <C>            <C>         <C>
+Research and development (1)              $177.0         $198.5      $196.7
+Procurement                                106.8           96.0       107.5
+Corporate services                         101.1           89.0        99.9
+Marketing services                          66.2           48.7        37.3
+Telecommunications                          15.5           18.3        27.2
+Leased office space                         10.9           10.2        30.8
+Other                                       34.0           36.2        33.0
+- -------------------------------------------------------------------------------
+Total                                     $511.5         $496.9      $532.4
+===============================================================================
+<FN>
+(1) Includes charges related to  research, development and maintenance of
+existing technologies performed by Bellcore, a  telecommunications research
+entity in which the Company has 1/7 ownership interest.
+
+</TABLE>
+
+
+
+                                     21
+
+
+<PAGE>
+
+                        U S WEST COMMUNICATIONS, INC.
+                 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                             (DOLLARS IN MILLIONS)
+
+NOTE 4: RESTRUCTURING CHARGES
+
+     The Company's 1993 results reflect a pretax restructuring charge of $880
+million. The restructuring charge includes specific incremental and direct costs
+which can be estimated with reasonable accuracy and are clearly identifiable
+with the related plan.
+
+     The restructuring plan is designed to provide faster, more responsive
+customer services while reducing the costs of providing these services. As part
+of the plan, the Company will develop new systems that will enable it to monitor
+networks to reduce the risk of service interruptions, activate telephone service
+on demand, provide automated inventory systems and centralize its service
+centers so that customers can have their telecommunications needs resolved with
+one phone call. The Company will also reduce its work force by approximately
+8,000 employees by the end of 1996 (in addition to a remaining reduction of
+1,000 employees pursuant to the restructuring plan announced in 1991) and
+consolidate the operations of its existing 560 customer centers into 26
+customer centers in ten cities.
+
+     Following is a schedule of costs included in the restructuring charge:
+
+
+<TABLE>
+       <S>                                              <C>
+       Employee separation                                 $235
+       Real estate                                          120
+       Relocation                                           105
+       Retraining                                            60
+       Systems development                                  360
+                                                         ------
+                                                           $880
+                                                         ======
+</TABLE>
+
+     Employee separation costs include severance payments, healthcare coverage
+and postemployment education benefits. Real estate costs include preparation
+costs for the new service centers. The relocation and retraining costs are
+related to moving employees to the sites of the new service centers and
+retraining employees on the new methods and systems required in the new,
+restructured mode of operation.  Systems development includes the replacement
+of existing, single-purpose systems with new systems designed to provide
+integrated, end-to-end customer service. There are no costs for asset
+write-downs included in the restructuring charge. The work-force reductions
+would not be possible without the development and installation of the new
+systems which will eliminate the current, labor-intensive interfaces
+between existing systems.
+
+     The Company's 1991 restructuring plan was established to partially offset
+the effects of future wage, salary and benefit increases. The plan will result
+in a work-force reduction of approximately 6,000 employees, of which
+approximately 5,000 employees have left the Company as of December 31, 1993.
+The 1991 restructuring charge was $240, of which approximately $56 is unused
+at December 31, 1993.
+
+
+
+                                     22
+
+<PAGE>
+
+
+                        U S WEST COMMUNICATIONS, INC.
+                 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                            (DOLLARS IN MILLIONS)
+
+
+NOTE 5: DISCONTINUANCE OF SFAS NO. 71
+
+     The Company incurred a non-cash, extraordinary charge of $3.0 billion, net
+of an income tax benefit of $2.3 billion, in conjunction with its decision to
+discontinue accounting for its operations in accordance with SFAS No.  71,
+"Accounting for the Effects of Certain Types of Regulation," as of September 30,
+1993. SFAS No. 71 generally applies to regulated companies that meet certain
+requirements, including a requirement that a company be able to recover its
+costs, competition notwithstanding, by charging its customers at prices
+established by its regulators. The Company's decision to discontinue the
+application of SFAS No. 71 was based on the belief that competition, market
+conditions and the development of broadband technology, more than prices
+established by regulators, will determine the future revenues of the Company.
+As a result of this change, the remaining asset lives of the Company's telephone
+plant have been shortened to more closely reflect the useful (economic) lives of
+such plant.
+
+    Following is a list of the major categories of property, plant and equipment
+and the manner in which lives were affected by the discontinuance of
+SFAS No. 71:
+
+<TABLE>
+<CAPTION>
+                                                     Average Life (years)
+                                               ------------------------------
+                                                     Before          After
+Category                                        Discontinuance  Discontinuance
+- --------------------------------------------------------------------------------
+<S>                                             <C>             <C>
+Digital switch                                       17-18           10
+Digital circuit                                      11-13           10
+Aerial copper cable                                  18-28           15
+Underground copper cable                             25-30           15
+Buried copper cable                                  25-28           20
+Fiber cable                                             30           20
+
+</TABLE>
+     Following is a schedule of the nature and amounts of the after-tax charge
+recognized as a result of the Company's discontinuance of SFAS No. 71:
+
+<TABLE>
+<S>                                                                   <C>
+Plant-related                                                          $3,124
+Tax-related regulatory assets and liabilities                            (208)
+Other regulatory assets and liabilities                                   125
+                                                                       ------
+  Total after-tax charge                                               $3,041
+                                                                       ======
+</TABLE>
+
+NOTE 6: FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+    The carrying value of cash, short-term investments and other current amounts
+receivable and payable approximate fair value because of their short maturity.
+The fair value of the Company's long-term debt is estimated based on quoted
+market prices where available. If not available, fair value is based on
+discounting future cash flows using current interest rates. As of December 31,
+1993 and 1992, the carrying amount of the Company's debt was $5,352 and $5,000,
+respectively, and the fair value was $5,500 and $5,100, respectively.  The fair
+value of debt includes the effect of variable-to-fixed interest rate swaps on
+notional principal amounts of $200 at December 31, 1993.
+
+
+                                  23
+
+
+<PAGE>
+
+
+
+                           U S WEST COMMUNICATIONS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               (DOLLARS IN MILLIONS)
+
+NOTE 7: DEBT
+
+     The components of short-term debt follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                             December 31,
+                                                       ----------------------
+                                                          1993        1992
+- -------------------------------------------------------------------------------
+<S>                                                     <C>         <C>
+Notes payable:
+  Commercial paper                                       $978.2      $270.1
+  Other                                                     0.5         0.5
+Current portion of long-term debt                         281.3       279.0
+- -------------------------------------------------------------------------------
+Short-term debt                                        $1,260.0      $549.6
+===============================================================================
+
+</TABLE>
+
+     Under formal lines of credit with major banks, the Company is permitted to
+borrow up to $300, all of which were available at December 31, 1993.
+
+     Interest rates and maturities on long-term debt follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                            December 31,
+                                                       ----------------------
+                                                          1993        1992
+- -------------------------------------------------------------------------------
+<S>                                                     <C>           <C>
+Maturing within 5 years:
+  3 3/4 % to 6 1/8 % due 1994                               $     -      $256.5
+  6     % to 6 5/8 % due 1995                                  91.5        91.5
+  7 1/2 % to 7 5/8 % due 1996                                 370.0       370.0
+  6 1/4 % to 7 1/8 % due 1997                                  16.9        17.2
+  4 1/2 % to 5 5/8 % due 1998                                 335.4        35.4
+
+Maturing thereafter:
+  Up to 6% with various maturities through 2013               501.0       401.0
+  Above 6% to  9% with various maturities through 2043      2,435.2     3,047.5
+  Above 9% to 12% with various maturities through 2031        320.0       320.0
+- -------------------------------------------------------------------------------
+                                                            4,070.0     4,539.1
+Unamortized discount (net) and debt issuance costs           (123.5)     (209.3)
+Other                                                         145.3       120.1
+- -------------------------------------------------------------------------------
+Long-term debt                                             $4,091.8    $4,449.9
+===============================================================================
+</TABLE>
+
+     Interest payments (net of amounts capitalized) were $386.4, $406.3 and
+$392.6, respectively, for 1993, 1992 and 1991.
+
+     During 1993, the Company refinanced debt issues aggregating $2.7 billion in
+principal amount to take advantage of favorable interest rates. The refinancing
+resulted in an extraordinary charge to income of $77.2, net of a tax benefit of
+$47.8.
+
+
+                                     24
+
+<PAGE>
+
+                         U S WEST COMMUNICATIONS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                             (DOLLARS IN MILLIONS)
+
+NOTE 8: LEASE COMMITMENTS
+
+     The Company has entered into operating leases for office facilities,
+equipment and real estate.  Total commitments under non-cancellable operating
+leases at December 31, 1993, follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                                     OPERATING
+                                                                      LEASES
+- -------------------------------------------------------------------------------
+<S>                                                                  <C>
+1994                                                                     $92.1
+1995                                                                      83.4
+1996                                                                      74.0
+1997                                                                      72.0
+1998 thereafter                                                           69.5
+                                                                         468.9
+- -------------------------------------------------------------------------------
+Total minimum lease payments                                            $859.9
+===============================================================================
+</TABLE>
+
+      Rent expense under operating leases was $184.3 in 1993, $184.6 in 1992 and
+$144.5 in 1991.
+
+NOTE 9: CONTINGENCIES
+
+      There are pending regulatory actions in local regulatory jurisdictions
+which call for price decreases, refunds or both. In one such instance, the
+Utah Supreme Court has remanded a Utah Public Service Commission ("PSC") order
+to the PSC for reconsideration, thereby  establishing two exceptions to
+the rule against retroactive ratemaking: 1) unforeseen and extraordinary events
+and 2) misconduct. The Commission's initial order denied a refund request from
+interexchange carriers and other parties related to the Tax Reform Act of 1986.
+If the Commission finds that either of the exceptions apply, the Company could
+be liable for refunds, although at this time any such amount is not reasonably
+estimable since the case is still in the discovery process.
+
+
+
+                                     25
+
+<PAGE>
+
+
+                          U S WEST COMMUNICATIONS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                              (DOLLARS IN MILLIONS)
+
+NOTE 10: EMPLOYEE BENEFITS
+
+PENSION PLANS
+
+     The Company is a participant in a defined benefit pension plan administered
+by U S WEST, which covers substantially all management and occupational
+employees. Prior to 1993, the Company was a participant in two defined benefit
+pension plans administered by U S WEST, which were merged into one plan
+effective January 1, 1993. Benefits for management employees are based upon a
+final pay formula while occupational benefits are based upon a flat benefit
+formula.  The projected unit credit method is used for financial reporting
+purposes and the aggregate cost method for funding purposes. No funding was
+required in 1993, 1992 or 1991. Net pension credits for 1993, 1992 and  1991
+were $66.0, $101.8 and $100.6, respectively.
+
+POSTRETIREMENT BENEFITS OTHER THAN PENSIONS
+
+     The Company provides certain health care and life insurance benefits for
+retired employees.  Effective January 1, 1992, the Company adopted Statement of
+Financial Accounting Standards ("SFAS") No.  106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions." SFAS No.  106 mandates that
+employers reflect in their current expenses an accrual for the cost of providing
+retirement medical and life insurance benefits to current and future retirees.
+Prior to 1992, the Company recognized these costs as they were paid. Adoption of
+SFAS No.  106 resulted in a one-time, non-cash charge against 1992 earnings of
+$1,675.3, net of a deferred tax benefit of $1,022.1, for the prior service of
+active and retired employees. The Company used the projected unit credit method
+for the determination of postretirement medical costs for financial reporting
+purposes.
+
+     In conjunction with the adoption of SFAS No. 106, for financial reporting
+purposes,  the Company  elected to  immediately recognize  the accumulated
+postretirement benefit obligation for current and future retirees, net of the
+fair value of plan assets. In 1992, pursuant to SFAS No. 71, "Accounting for the
+Effects of Certain Types of Regulation," a regulatory asset associated with the
+recognition of the transition benefit obligation was not recorded because of
+uncertainties as to the timing and extent of recovery given the Company's
+assessment of its long-term competitive environment. However, the FCC and
+certain state jurisdictions permit amortization of the transition obligation
+over the average remaining service period of active employees for regulatory
+accounting purposes.
+
+     Net postretirement benefit costs for 1993 and 1992 were $247.5 and $258.3,
+respectively. The amount funded by the Company will generally follow the amount
+of expense allowed in regulatory jurisdictions.
+
+OTHER POSTEMPLOYMENT BENEFITS
+
+     The Company also  adopted SFAS No.  112,  "Employers' Accounting for
+Postemployment Benefits," effective January 1, 1992. SFAS No. 112 requires that
+employers accrue for  the estimated costs of benefits,  such as workers'
+compensation and disability, provided to former or inactive employees who are
+not eligible for retirement.  Adoption of SFAS No. 112 resulted in a one-time,
+non-cash charge against 1992 earnings of $49.1, net of a deferred tax benefit of
+$29.9. No adjustment to the postemployment benefit liability was necessary at
+December 31, 1993.
+
+                                26
+
+
+<PAGE>
+
+
+                                  U S WEST COMMUNICATIONS, INC.
+                           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                      (DOLLARS IN MILLIONS)
+
+NOTE 11: INCOME TAXES
+
+     The provision for income taxes consists of an amount for taxes currently
+payable and a provision for tax consequences deferred to future periods in
+accordance with SFAS No. 109, "Accounting for Income Taxes," adopted by the
+Company effective January 1, 1993. SFAS No. 109 uses a balance sheet approach
+that generally allows consideration of expected future income. Prior to 1993,
+the Company used the SFAS No. 96 approach that gave no recognition to future
+events other than the recovery of assets and settlement of liabilities at their
+carrying amounts. The cumulative effect of adopting SFAS No. 109 was not
+material to the results of operations.
+
+     The Company is included in the consolidated tax return of U S WEST. Under
+an agreement with U S WEST, the Company recognizes income taxes on a separate
+return basis. At December 31, 1993 and 1992, the Company had an outstanding tax
+payable to U S WEST of $96.3 and $22.9, respectively.
+
+     For financial statement purposes, investment tax credits are being
+amortized over the economic lives of the related property, plant and equipment
+in accordance with the deferred method of accounting for such credits.
+
+     The components of the provision for income taxes follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                YEAR ENDED DECEMBER 31,
+                                          -------------------------------------
+                                               1993           1992        1991
+- -------------------------------------------------------------------------------
+<S>                                          <C>            <C>         <C>
+Federal income taxes
+  Current                                     $393.9         $393.2      $396.0
+  Deferred                                    (122.3)          31.3       (48.1)
+  Investment tax credits - net                 (56.1)         (63.2)      (74.9)
+- -------------------------------------------------------------------------------
+                                               215.5          361.3       273.0
+- -------------------------------------------------------------------------------
+State and local
+  Current                                       61.9           58.8        72.0
+  Deferred                                     (25.9)          14.9        10.2
+- -------------------------------------------------------------------------------
+                                                36.0           73.7        82.2
+- -------------------------------------------------------------------------------
+Provision for income taxes                    $251.5         $435.0      $355.2
+===============================================================================
+</TABLE>
+
+     The unamortized balance of investment tax credits were $280.0 and $520.8 at
+December 31, 1993 and 1992, respectively. During 1993, the unamortized balance
+of investment tax credits was reduced by $185.6 in conjunction with the
+Company's decision to discontinue accounting in accordance with SFAS No. 71
+(refer to Note 5 on page 23 of the Notes to Consolidated Financial Statements).
+
+     Amounts paid for income taxes were $337.8, $464.7, and $454.8 respectively,
+for 1993, 1992 and 1991.
+
+
+
+
+
+                                27
+
+
+<PAGE>
+
+                      U S WEST COMMUNICATIONS, INC.
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                          (DOLLARS IN MILLIONS)
+
+NOTE 11: INCOME TAXES (Continued)
+
+     The effective tax rate differs from the statutory tax rate as follows:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                  YEAR ENDED DECEMBER 31,
+                                          -------------------------------------
+                                               1993           1992        1991
+- -------------------------------------------------------------------------------
+<S>                                           <C>            <C>         <C>
+Federal statutory tax rate *                   35.0 %         34.0 %      34.0 %
+Investment tax credit amortization             (3.3)          (4.7)       (6.5)
+State income taxes - net of federal effect      3.9            3.5         4.7
+Rate differential on reversing temporary
+  differences                                  (2.4)          (4.2)       (4.8)
+Depreciation on capitalized overheads           1.5            2.0         3.1
+Other                                          (0.1)           0.8         0.3
+Tax law change - catch-up adjustment            3.5              -           -
+Restructuring charge                           (1.5)             -           -
+- -------------------------------------------------------------------------------
+Effective tax rate                             36.6 %         31.4 %      30.8 %
+===============================================================================
+<FN>
+* Federal statutory tax rate increase effective January 1, 1993
+</TABLE>
+
+     The components of the net deferred tax liability follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                                        DECEMBER 31, JANUARY 1,
+                                                            1993        1993
+- -------------------------------------------------------------------------------
+<S>                                                      <C>         <C>
+Property, plant and equipment temporary differences        $1,342.6    $2,913.8
+State deferred taxes - net of federal effect                  176.7       393.6
+Revenue requirement adjustment to regulatory asset                -       356.4
+Other                                                          78.6       113.1
+- -----------------------------------------------------------------------------------
+Deferred tax liabilities                                   $1,597.9    $3,776.9
+- -----------------------------------------------------------------------------------
+Pension, postretirement and postemployment benefits           747.2       773.2
+Revenue requirement adjustment to regulatory liability            -       463.6
+Unamortized investment tax credit                              98.0       177.0
+State deferred taxes - net of federal effect                  171.5       143.5
+Restructuring                                                 327.6           -
+Other                                                         205.9       153.3
+- -------------------------------------------------------------------------------
+Deferred tax assets                                         1,550.2     1,710.6
+- -------------------------------------------------------------------------------
+Net deferred tax liability                                    $47.7    $2,066.3
+===============================================================================
+</TABLE>
+
+     The current portion of the net deferred tax liability is an asset of $292.3
+resulting primarily from restructuring charges and compensation-related items.
+
+
+
+                                      28
+
+<PAGE>
+
+                          U S WEST COMMUNICATIONS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                              (DOLLARS IN MILLIONS)
+
+NOTE 11: INCOME TAXES (Continued)
+
+     Prior to the discontinuance of SFAS  No.  71, the Company recorded
+additional deferred taxes and established a corresponding regulatory asset,
+primarily related to the cumulative amount of tax  benefits previously flowed
+through to ratepayers. In addition,  the Company  recorded a regulatory
+liability coincidental  with the reduction of the deferred tax reserves from
+higher historical to lower current tax rates.  The  regulatory asset and
+liability were  grossed up, in  accordance with SFAS No.  109,  for the tax
+effect of future  revenue requirements.  In connection with the discontinuance
+of SFAS No.  71, the remaining  balance of the regulatory asset and liability
+at  December 31, 1992, and the related  deferred tax asset and liability, were
+written off as  described in Note  5 on page  23 of the  Notes to Consolidated
+Financial Statements.
+
+     On  August 10,  1993, federal  legislation  was enacted  which increased
+the corporate tax rate from  34 percent to 35 percent effective  January 1,
+1993.  The cumulative effect on deferred  taxes of the 1993 increase in  income
+tax rates was $54.
+
+NOTE 12: COMMON SHAREOWNER'S EQUITY
+
+     Transactions affecting shareowner's equity follow:
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------
+                                               COMMON        RETAINED
+                                               SHARES        EARNINGS     TOTAL
+- -------------------------------------------------------------------------------
+<S>                                         <C>            <C>         <C>
+Balance at December 31, 1990                $5,589.5       $1,768.6    $7,358.1
+- -------------------------------------------------------------------------------
+   Net income                                      -          798.5       798.5
+   Dividends declared                              -         (798.5)     (798.5)
+   Equity infusions                            476.6              -       476.6
+   Other - net                                   6.8           (4.3)        2.5
+- -------------------------------------------------------------------------------
+Balance at December 31, 1991                 6,072.9        1,764.3     7,837.2
+- -------------------------------------------------------------------------------
+   Net loss                                        -         (774.4)     (774.4)
+   Dividends declared                              -         (989.2)     (989.2)
+   Equity infusions                            383.7              -       383.7
+   Other - net                                   0.3           (0.7)       (0.4)
+- -------------------------------------------------------------------------------
+Balance at December 31, 1992                 6,456.9           (0.0)    6,456.9
+- -------------------------------------------------------------------------------
+  Net loss                                         -       (2,682.8)   (2,682.8)
+  Dividends declared                               -         (918.7)     (918.7)
+  Equity infusions                             284.3              -       284.3
+  Other - net                                    0.3              -         0.3
+- -------------------------------------------------------------------------------
+Balance at December 31, 1993                $6,741.5      ($3,601.5)   $3,140.0
+===============================================================================
+</TABLE>
+
+
+
+
+
+
+                                       29
+
+<PAGE>
+
+                          U S WEST COMMUNICATIONS, INC.
+                          SUPPLEMENTARY FINANCIAL DATA
+                              (DOLLARS IN MILLIONS)
+
+
+
+                       QUARTERLY FINANCIAL DATA (Unaudited)
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------
+Quarter                                1st           2nd            3rd         4th        YTD
+- -------------------------------------------------------------------------------------------------
+<S>                                  <C>           <C>            <C>         <C>         <C>
+1993
+Operating revenues                   $2,141.2      $2,151.0       $2,148.0    $2,215.7    8,655.9
+Operating income (loss)                 498.8         477.4         (406.9)      504.3    1,073.6
+Income (loss) before extraordinary
+  items and cumulative effect of
+  change in accounting principle        267.3         242.7         (348.9)      274.2      435.3
+Net income (loss)                       267.3         192.5       (3,416.8)      274.2   (2,682.8)
+- --------------------------------------------------------------------------------------------------
+1992
+Operating revenues                   $2,067.8      $2,078.2       $2,072.1    $2,105.6
+Operating income                        481.8         487.0          393.9       458.7
+Income before cumulative effect
+  of change in accounting
+  principles                            264.7         244.1          196.7       244.5
+Net income (loss)                    (1,459.7)        244.1          196.7       244.5
+- ---------------------------------------------------------------------------------------
+</TABLE>
+
+     Second quarter 1993 net income reflects the costs associated with the
+refinancing of debt.
+
+     Third quarter 1993 operating income reflects the restructuring charge
+described in Note 4 on page 22 of the Notes to Consolidated Financial
+Statements.
+
+     Third quarter  1993 net loss includes  the impacts of discontinuing SFAS
+No. 71, the cumulative effect of a federally mandated increase in income taxes
+and the early extinguishment of debt.
+
+     First quarter 1992 net loss reflects the impacts of adopting SFAS No. 106
+and SFAS No. 112.
+
+
+
+
+
+                                     30
+
+<PAGE>
+                         U S WEST COMMUNICATIONS, INC.
+                                  FORM 10-K
+
+                                   PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+
+(a) Documents filed as a part of this report:                               Page
+
+
+    (1) Report of Independent Accountants  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+
+    (2) Consolidated Financial Statements and Supplementary Data:
+
+           Consolidated Statements of Income -
+              for the years ended December 31, 1993, 1992 and 1991.  .  .  .  16
+
+           Consolidated Balance Sheets -
+              as of December  31, 1993 and 1992 .  .  .  .  .  .  .  .  .  .  17
+
+           Consolidated Statements of Cash Flows -
+              for the years  ended December 31, 1993,  1992 and 1991 .  .  .  19
+
+           Notes to Consolidated Financial Statements .  .  .  .  .  .  .  .  20
+
+           Supplementary Financial  Data (Unaudited)  .  .  .  .  .  .  .  .  30
+
+
+    (3) Consolidated Financial Statement Schedules:
+
+            V - Property,  Plant and Equipment  .  .  .  .  .  .  .  .  .  .  35
+
+           VI - Accumulated Depreciation and Amortization   .  .  .  .  .  .  36
+
+         VIII - Valuation and Qualifying Accounts  .  .  .  .  .  .  .  .  .  38
+
+           IX - Short-Term  Debt .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  39
+
+            X - Supplementary Income Statement Information  .  .  .  .  .  .  40
+
+
+
+     Financial statement schedules other than those listed above have been
+omitted because the required information is contained in the Consolidated
+Financial Statements and notes thereto, or because such schedules are not
+required or applicable.
+
+
+
+
+
+                                    31
+
+
+<PAGE>
+                          U S WEST COMMUNICATIONS, INC.
+                                   FORM 10-K
+
+                                    PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+
+(b) Reports on Form 8-K:
+
+          The Company filed the following reports on Form 8-K during the fourth
+          quarter of 1993:
+
+            (i) report dated October 28, 1993, filing a form of Note in
+                connection with the Company's 5.65% notes due November 1, 2004
+
+           (ii) report dated November 15, 1993, filing a form of Note in
+                connection with the Company's 6 1/8% notes due November 15,
+                2005, and a form of Debenture with respect to the Company's
+                7 1/8% debentures due  November 15, 2043
+
+          (iii) report dated December 17, 1993, filing a First Amendment, dated
+                December 17, 1993, to Distribution Agreement, dated April 20,
+                1992, among the Company and Solomon Brothers, Inc., Goldman,
+                Sachs & Co., and Morgan Stanley & Co. Incorporated, and a form
+                of Medium-term (Floating Rate) Note with respect thereto.
+(c) Exhibits
+
+          Exhibits identified in parentheses below, on file with the Securities
+          and Exchange Commission ("SEC"), are incorporated herein by reference
+          as exhibits hereto.
+Exhibit
+Number
+
+     (2a) Articles of Merger including the Plan of Merger between The Mountain
+          States Telephone and Telegraph Company (renamed U S WEST
+          Communications, Inc.) and Northwestern Bell Telephone Company.
+          (Incorporated herein by this reference to Exhibit 2a to Form SE
+          filed on January 8, 1991, File No. 1-3040).
+
+     (2b) Articles of Merger including the Plan of Merger between The Mountain
+          States Telephone and Telegraph Company (renamed U S WEST
+          Communications, Inc.) and Pacific Northwest Bell Telephone Company.
+          (Incorporated herein by this reference to Exhibit 2b to Form SE filed
+          on January 8, 1991, File No. 1-3040).
+
+   (3a.1) Articles of Incorporation of the Registrant as amended December 22,
+          1980 (Exhibit 3a to Form 10-K for the period ended December 31, 1983,
+          File No. 1-3040).
+
+   (3a.2) Articles of Amendment to the Articles of Incorporation of The Mountain
+          States Telephone and Telegraph Company (renamed U S WEST
+          Communications, Inc.) as filed with the Colorado Secretary of State.
+          (Incorporated herein by this reference to Exhibit 3 to Form SE filed
+          on January 8, 1991, File No. 1-3040).
+
+     (3b) Bylaws of the Registrant as amended February 16, 1993.
+
+      (4) No  instrument which defines the  rights of holders of long and
+          intermediate term debt of the Registrant is filed herewith pursuant to
+          Regulation S-K, Item 601(b)(4)(iii)(A).  Pursuant to this regulation,
+          the Registrant hereby agrees to furnish a copy of any such instrument
+          to the SEC upon request.
+
+    (10a) Reorganization and Divestiture Agreement dated as of November 1, 1983,
+          between American Telephone and Telegraph Company, U S WEST, Inc., and
+          certain of their affiliated companies, including The Mountain States
+          Telephone and Telegraph Company, Northwestern Bell Telephone Company,
+          Pacific Northwest Bell Telephone Company and NewVector Communications,
+          Inc. (Exhibit 10a to Form 10-K for the period ended December 31, 1983,
+          File No. 1-3040).
+
+    (10b) Shared Network Facilities Agreement dated as of January 1, 1984,
+          between American Telephone and Telegraph Company, AT&T Communications
+          of the Midwest, Inc. and The Mountain States Telephone and Telegraph
+          Company (Exhibit 10b to Form 10-K for the period ended December 31,
+          1983, File No. 1-3040).
+
+                                       32
+
+
+<PAGE>
+
+
+
+                            U S WEST COMMUNICATIONS, INC.
+                                     FORM 10-K
+
+                                      PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+
+(c) Exhibits - continued
+
+    (10c) Agreement Concerning Termination of the Standard Supply Contract
+          effective December  31, 1983, between American Telephone and Telegraph
+          Company, Western Electric Company, Incorporated,  The Mountain  States
+          Telephone and Telegraph Company and  Central  Services  Organization
+          (Exhibit 10d to Form 10-K for the period ended December 31, 1983, File
+          No.  1-3040).
+
+    (10d) Agreement Concerning Certain Centrally Developed Computer Systems
+          effective December 31, 1983, between American Telephone and Telegraph
+          Company, Western Electric Company, Incorporated, The Mountain States
+          Telephone and  Telegraph and Central Services  Organization (Exhibit
+          10e to Form 10-K for the period ended December 31, 1983, File No.
+          1-3040).
+
+    (10e) Agreement Concerning Patents, Technical Information and Copyrights
+          effective December 31, 1983, between American Telephone and Telegraph
+          Company and U S WEST, Inc. (Exhibit 10f to Form 10-K for the period
+          ended December 31, 1983, File No. 1-3040).
+
+    (10f) Agreement Concerning Contingent Liabilities, Tax Matters and
+          Termination of Certain Agreements dated as of November  1, 1983,
+          between American Telephone and Telegraph Company, U S WEST, Inc.,
+          The Mountain States Telephone and Telegraph Company and certain of
+          their affiliates (Exhibit 10g to Form 10-K for the period ended
+          December 31, 1983, File  No. 1-3040).
+
+    (10g) Agreement Concerning Trademarks, Trade Names and Service Marks
+          effective December 31, 1983, between American Telephone and Telegraph
+          Company, American Information Technologies Corporation, Bell Atlantic
+          Corporation,  BellSouth   Corporation,  Cincinnati  Bell, Inc., NYNEX
+          Corporation, Pacific Telesis Group, The Southern New England Telephone
+          Company, Southwestern Bell Corporation and  U S WEST, Inc.
+          (Exhibit 10i to Form 10-K for the period ended December 31, 1984,
+          File No.  1-3040).
+
+    (10h) Shareholders' Agreement dated as of January 1, 1988, between Ameritech
+          Services, Inc., Bell Atlantic Management Services, Inc.,  BellSouth
+          Services, Incorporated, NYNEX Service  Company,  Pacific  Bell,
+          Southwestern Bell Telephone Company, The Mountain States Telephone and
+          Telegraph Company, Northwestern Bell Telephone  Company  and Pacific
+          Northwest Bell Telephone Company (Exhibit 10h to Form SE dated
+          March 5, 1992, File No.  1-3040).
+
+     12   Computation of Ratio of Earnings to Fixed Charges.
+
+     23   Consent of Independent Accountants.
+
+     24   Powers of Attorney.
+
+
+
+
+
+                                  33
+
+
+<PAGE>
+
+
+
+                              SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized, in the City of Denver,
+State of Colorado, on March 30, 1994.
+
+
+                                          U S WEST COMMUNICATIONS, INC.
+
+                                              /s/ DAVID R. LAUBE
+                                          By ________________________________
+                                              David R. Laube
+                                              Vice President, Controller
+                                              and Treasurer
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the date indicated.
+
+
+Principal Executive Officer:
+A. Gary Ames, President and Chief Executive Officer
+
+Principal Financial Officer:
+James T. Helwig, Vice President and Chief Financial Officer
+
+Principal Accounting Officer:
+David R. Laube, Vice President, Controller and Treasurer
+
+
+
+
+
+Directors:
+
+/s/ A. GARY AMES
+/s/ JAMES T. HELWIG
+/s/ JAMES M. OSTERHOFF
+
+
+
+
+     /s/ DAVID R. LAUBE
+By________________________________
+         David R. Laube
+(for himself and as Attorney-in-Fact)
+
+
+
+Dated: March 30, 1994
+
+
+
+
+                                       34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                  U S WEST COMMUNICATIONS, INC.
+                           SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                                      (DOLLARS IN MILLIONS)
+<TABLE>
+<CAPTION>
+   ---------------------------------------------------------------------------------------------
+                                   BALANCE AT                                         BALANCE
+                                   BEGINNING   ADDITIONS      RETIRE-     OTHER       AT END
+   CLASSIFICATION                  OF PERIOD   AT COST(A)     MENTS(B)    CHANGES(C)  OF PERIOD
+   ---------------------------------------------------------------------------------------------
+   <S>                             <C>         <C>            <C>         <C>         <C>
+   YEAR 1993
+
+   Land and buildings               $2,335.6        $76.8        $23.1        $3.3     $2,392.6
+   Central office equipment         10,143.7        933.5        540.8       215.5     10,751.9
+   Station equipment                   305.6         41.5         14.8         8.9        341.2
+   Outside plant                    10,793.5        665.4         87.6        14.7     11,386.0
+   Furniture and office equipment    1,837.7        314.2        124.6        11.2      2,038.5
+   Other communication equipment        11.0         11.1          0.7        19.0         40.4
+   Vehicles and work equipment         494.1         49.6         30.6         0.1        513.2
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service               25,921.2      2,092.1        822.2       272.7     27,463.8
+   Plant under construction            602.7         84.2            -      (166.4)       520.5
+   Property held for future use         30.0            -            -        (2.6)        27.4
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                         $26,553.9     $2,176.3       $822.2      $103.7    $28,011.7
+                                   ==========  =========== ============   =========   ==========
+   YEAR 1992
+
+   Land and buildings               $2,238.8       $115.7        $15.1       ($3.8)    $2,335.6
+   Central office equipment          9,538.7        953.8        492.4       143.6     10,143.7
+   Station equipment                   326.0         38.4         72.5        13.7        305.6
+   Outside plant                    10,175.3        725.8         73.4       (34.2)    10,793.5
+   Furniture and office equipment    2,010.2        290.8        566.3       103.0      1,837.7
+   Other communication equipment        10.7          0.7          0.4           -         11.0
+   Vehicles and work equipment         511.9         59.0         77.4         0.6        494.1
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service               24,811.6      2,184.2      1,297.5       222.9     25,921.2
+   Plant under construction            593.5        172.4            -      (163.2)       602.7
+   Property held for future use         34.7            -            -        (4.7)        30.0
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                         $25,439.8     $2,356.6     $1,297.5       $55.0    $26,553.9
+                                   ==========  =========== ============   =========   ==========
+   YEAR 1991
+
+   Land and buildings               $2,182.9        $85.7        $28.9       ($0.9)    $2,238.8
+   Central office equipment          9,007.8      1,032.2        539.7        38.4      9,538.7
+   Station equipment                   604.7         29.8        310.6         2.1        326.0
+   Outside plant                     9,697.6        562.4         92.3         7.6     10,175.3
+   Furniture and office equipment    1,949.0        298.2        295.6        58.6      2,010.2
+   Other communication equipment        47.9          4.6          2.0       (39.8)        10.7
+   Vehicles and work equipment         482.8         56.0         25.5        (1.4)       511.9
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service               23,972.7      2,068.9      1,294.6        64.6     24,811.6
+   Plant under construction            511.5         91.0            -        (9.0)       593.5
+   Property held for future use         25.4          8.3            -         1.0         34.7
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                         $24,509.6     $2,168.2     $1,294.6       $56.6    $25,439.8
+                                   ==========  =========== ============   =========   ==========
+
+
+</TABLE>
+
+   The notes on page 37 are an integral part of this Schedule.
+
+                                         35
+
+<PAGE>
+
+                                  U S WEST COMMUNICATIONS, INC.
+                     SCHEDULE VI - ACCUMULATED DEPRECIATION AND AMORTIZATION
+                                      (DOLLARS IN MILLIONS)
+<TABLE>
+<CAPTION>
+   ---------------------------------------------------------------------------------------------
+                                   BALANCE AT  ADDITIONS                              BALANCE
+                                   BEGINNING   CHARGED TO     RETIRE-     OTHER       AT END
+   DESCRIPTION                     OF PERIOD   EXPENSES       MENTS(B)    CHANGES(D)  OF PERIOD
+   ---------------------------------------------------------------------------------------------
+   <S>                             <C>         <C>            <C>         <C>         <C>
+   YEAR 1993
+
+   Buildings                          $503.9        $72.0        $21.7       $68.9       $623.1
+   Central office equipment          3,649.5        868.8        532.7     2,136.9      6,122.5
+   Station equipment                   189.2         11.7         17.4        19.1        202.6
+   Outside plant                     3,983.2        528.4         79.3     2,631.6      7,063.9
+   Furniture and office equipment      715.8        283.8        124.6       339.1      1,214.1
+   Other communication equipment         6.8          2.5          0.6        10.3         19.0
+   Vehicles and work equipment         185.4         39.4         30.6        24.9        219.1
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service                9,233.8      1,806.6        806.9     5,230.8     15,464.3
+   Property held for future use          0.3            -            -           -          0.3
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                          $9,234.1     $1,806.6       $806.9    $5,230.8    $15,464.6
+                                   ==========  =========== ============   =========   ==========
+
+   YEAR 1992
+
+   Buildings                          $444.5        $63.7        $14.9       $10.6       $503.9
+   Central office equipment          3,280.9        844.8        491.3        15.1      3,649.5
+   Station equipment                   233.6         17.3         72.4        10.7        189.2
+   Outside plant                     3,564.4        497.9         72.2        (6.9)     3,983.2
+   Furniture and office equipment      988.1        267.4        566.1        26.4        715.8
+   Other communication equipment        12.4          2.8          2.2        (6.2)         6.8
+   Vehicles and work equipment         215.9         41.5         77.4         5.4        185.4
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service                8,739.8      1,735.4      1,296.5        55.1      9,233.8
+   Property held for future use          0.4            -            -        (0.1)         0.3
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                          $8,740.2     $1,735.4     $1,296.5       $55.0     $9,234.1
+                                   ==========  =========== ============   =========   ==========
+
+   YEAR 1991
+
+   Buildings                          $418.7        $75.0        $28.3      ($20.9)      $444.5
+   Central office equipment          3,019.7        786.0        552.2        27.4      3,280.9
+   Station equipment                   496.6         44.6        310.6         3.0        233.6
+   Outside plant                     3,167.9        488.5         91.9        (0.1)     3,564.4
+   Furniture and office equipment      993.9        258.3        280.7        16.6        988.1
+   Other communication equipment         9.2         (1.1)        (0.5)        3.8         12.4
+   Vehicles and work equipment         194.4         41.5         25.3         5.3        215.9
+                                   ----------  ----------- ------------   ---------   ----------
+     Plant in service                8,300.4      1,692.8      1,288.5        35.1      8,739.8
+   Property held for future use          2.6         (2.2)           -           -          0.4
+                                   ----------  ----------- ------------   ---------   ----------
+     Total                          $8,303.0     $1,690.6     $1,288.5       $35.1     $8,740.2
+                                   ==========  =========== ============   =========   ==========
+
+</TABLE>
+
+   The notes on page 37 are an integral part of this Schedule.
+
+
+                                       36
+
+<PAGE>
+
+                             U S WEST COMMUNICATIONS, INC.
+                              NOTES TO SCHEDULES V AND VI
+                                 (DOLLARS IN MILLIONS)
+
+
+   (a) Additions include allowance for funds used during construction and
+       transfers from telephone plant under construction to telephone plant in
+       service.
+
+   (b) Items of telephone plant, when retired or sold, are deducted from the
+       property account at the amount at which they are included therein.
+
+   (c) Other changes include (1) prior year reclassifications, (2) adjustments
+       resulting from periodic physical inventories and (3) transfers from
+       construction in progress.
+
+   (d) Comprised  principally of  removal costs  and salvage  received from
+       disposals.  1993 includes the increase in accumulated depreciation
+       recorded in conjunction with the Company's decision to discontinue the
+       application of SFAS No. 71. Following is a schedule of the impacts on
+       the 1993 accumulated depreciation by class of plant:
+
+<TABLE>
+          <S>                                                             <C>
+          Buildings                                                          $80.2
+          Central office equipment                                         2,071.2
+          Station equipment                                                    8.0
+          Outside plant                                                    2,643.6
+          Furniture and office equipment                                     117.2
+          Other communication equipment                                      211.6
+          Vehicles and work equipment                                         19.7
+                                                                          ---------
+             Total adjustment to plant in service                         $5,151.5
+                                                                          =========
+</TABLE>
+
+                                         37
+
+<PAGE>
+
+                                  U S WEST COMMUNICATIONS, INC.
+                        SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                                      (DOLLARS IN MILLIONS)
+<TABLE>
+<CAPTION>
+   ---------------------------------------------------------------------------------------------
+                                   BALANCE AT              CHARGED TO                 BALANCE
+                                   BEGINNING     CHARGED      OTHER                   AT END
+   DESCRIPTION                     OF PERIOD   TO EXPENSE    ACCOUNTS     DEDUCTIONS  OF PERIOD
+   ---------------------------------------------------------------------------------------------
+   <S>                             <C>          <C>         <C>            <C>         <C>
+   ALLOWANCE FOR CREDIT LOSSES
+   Year 1993                           $26.8         55.4            -        55.0        $27.2
+   Year 1992                           $32.0         55.0          0.7        60.9        $26.8
+   Year 1991                           $29.0         73.7         (0.8)       69.9        $32.0
+
+
+   RESERVES RELATED TO 1993 BUSINESS
+   RESTRUCTURING, INCLUDING FORCE AND
+   FACILITY CONSOLIDATION
+   Year 1993                               -       $880.0            -           -       $880.0
+
+
+   RESERVES RELATED TO 1991 BUSINESS
+   RESTRUCTURING, INCLUDING FORCE
+   REDUCTIONS
+   Year 1993                          $160.2            -            -      $104.2        $56.0
+   Year 1992                          $240.0            -            -       $79.8       $160.2
+   Year 1991                               -       $240.0            -           -       $240.0
+
+<FN>
+   (a)  Allowance for  credit  losses does  not  include those  amounts  charged directly  to
+        expense in  the charged  to expense  category.  These  amounts were  $9.5, $8.9  and
+        $7.2, respectively for 1993, 1992 and 1991.
+
+   (b)  Allowance for credit losses deductions  represent customer accounts written off during
+        the period, net of recoveries.
+
+</TABLE>
+
+                                          38
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                  U S WEST COMMUNICATIONS, INC.
+                                  SCHEDULE IX - SHORT-TERM DEBT
+                                      (Dollars in millions)
+   -------------------------------------------------------------------------------------------------
+                                                                                          Weighted
+                                               Weighted      Maximum        Average       average
+                                               average       amount         amount        interest
+                                   Balance     interest      outstanding    outstanding   rate
+                                   at end of   rate at end   during         during        during
+   Description                     period      of period     period (a)     period (b)    period (c)
+   -------------------------------------------------------------------------------------------------
+   <S>                             <C>         <C>           <C>            <C>           <C>
+   YEAR 1993
+
+   Bank loans                           $0.5         6.00%          $0.8        $0.4           6.82%
+   Commercial paper                    978.2         2.73%       1,466.6       834.6           3.20%
+   Other                                   -            -                          -              -
+   Current portion of long-term
+     debt                              281.3          N/A            N/A         N/A            N/A
+                                   ----------                               ---------
+     Total                          $1,260.0                                  $835.0
+                                   ==========                               =========
+   YEAR 1992
+
+   Bank loans                           $0.3         6.33%          $0.3        $0.3           6.67%
+   Commercial paper                    270.1         3.48%         441.3       224.7           4.12%
+   Other                                 0.2         9.17%           0.3         0.2           9.05%
+   Current portion of long-term
+     debt                              279.0          N/A            N/A         N/A            N/A
+                                   ----------                               ---------
+     Total                            $549.6                                  $225.2
+                                   ==========                               =========
+   YEAR 1991
+
+   Bank loans                           $1.4         7.00%          $1.4        $0.9           8.20%
+   Commercial paper                    267.0         5.00%         638.8       420.9           6.34%
+   Other                                   -            -              -           -
+   Current portion of long-term
+     debt                               26.6          N/A            N/A         N/A            N/A
+                                   ----------                               ---------
+     Total                            $295.0                                  $421.8
+                                   ==========                               =========
+
+
+<FN>
+   (a) Computed based on the amount outstanding at month end.
+
+   (b) Computed as the  year-to-date cumulative monthly average (which is  based on the daily
+       balances outstanding) divided by 12 months.
+
+   (c) Computed as  the interest accrued year-to-date divided by  the weighted average amount
+       outstanding.
+
+
+</TABLE>
+                                        39
+
+<PAGE>
+
+                                  U S WEST COMMUNICATIONS, INC.
+                     SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                                      (DOLLARS IN MILLIONS)
+<TABLE>
+<CAPTION>
+   ---------------------------------------------------------------------------------------------
+                                                               CHARGED TO COSTS AND EXPENSES
+                                                           -------------------------------------
+        ITEM                                                      1993        1992         1991
+   ---------------------------------------------------------------------------------------------
+        <S>                                                   <C>          <C>         <C>
+        Gross Receipts Taxes                                     $73.1       $71.3        $91.3
+
+        Property Taxes                                           281.4       253.5        280.1
+
+        Maintenance and Repairs                                1,567.9     1,495.8      1,399.8
+
+
+</TABLE>
+
+                                        40
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 12
+<TEXT>
+
+<PAGE>
+
+EXHIBIT 12
+
+                         U S WEST COMMUNICATIONS, Inc.
+                         RATIO OF EARNINGS TO FIXED CHARGES
+
+<TABLE>
+<CAPTION>
+                                              Quarter       Quarter
+                                               Ended         Ended
+(Dollars in millions)                         12/31/93      12/31/92
+                                             -----------   -----------
+<S>                                          <C>           <C>
+Income before income taxes and
+  extraordinary items                             $414.5        $344.9
+Interest expense                                    87.7          97.9
+Interest factor on rentals (1/3)                    19.0          17.2
+                                             -----------   -----------
+Earnings (loss)                                   $521.2        $460.0
+                                             -----------   -----------
+Interest expense                                   $87.7         $97.9
+Interest factor on rentals (1/3)                    19.0          17.2
+                                             -----------   -----------
+Fixed charges                                     $106.7        $115.1
+                                             -----------   -----------
+Ratio of earnings (loss) to fixed charges           4.88          4.00
+                                             -----------   -----------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                Year          Year
+                                               Ended         Ended
+(Dollars in millions)                         12/31/93      12/31/92
+                                             -----------   -----------
+<S>                                          <C>           <C>
+Income before income taxes, extraordinary
+  items and cumulative effect of change in
+  accounting principles                           $686.8      $1,385.0
+Interest expense                                   373.8         401.5
+Interest factor on rentals (1/3)                    67.3          64.6
+                                             -----------   -----------
+Earnings                                        $1,127.9      $1,851.1
+                                             -----------   -----------
+Interest expense                                  $373.8        $401.5
+Interest factor on rentals (1/3)                    67.3          64.6
+                                             -----------   -----------
+Fixed charges                                     $441.1        $466.1
+                                             -----------   -----------
+Ratio of earnings to fixed charges                  2.56          3.97
+                                             -----------   -----------
+</TABLE>
+
+The year ended 1993 ratio is based on income before extraordinary
+charges associated with the decision to discontinue accounting for
+the operations of the Company in accordance with SFAS No. 71 of
+$3,040.9 and the early extinguishment of debt of $77.2. The year
+ended 1993 ratio includes a one-time restructuring charge of $880.0.
+Excluding the restructuring charge the ratio of earnings to fixed
+charges would have been 4.55.
+
+The year ended 1992 ratio is based on income before the cummulative
+effect of change in accounting principles which reduced net income
+by $1,724.4.
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>
+PAGE 1
+EXHIBIT 23
+
+
+
+
+            CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+     We consent to the incorporation by reference in the Registra-
+tion Statements of U S WEST Communications, Inc. on Forms S-3 (File
+No. 33-49647) and on Forms S-2 (File No. 33-44440) of our report,
+which includes an explanatory paragraph regarding the discontinu-
+ance of accounting for operations of U S WEST Communications, Inc.
+in accordance with Statement of Financial Accounting Standard No.
+71, "Accounting for the Effects of Certain Types of Regulation," in
+1993, and a change in the method of accounting for post-retirement
+benefits other than pensions and other post-employment benefits in
+1992, dated January 20, 1994, on our audits of the consolidated
+financial statements of U S WEST Communications, Inc. (the
+"Company"), as of December 31, 1993 and 1992, and for the three
+years ended December 31, 1993, 1992 and 1991, which is included in
+this Annual Report on Form 10-K.
+
+
+
+/s/ COOPERS & LYBRAND
+
+Denver, Colorado
+March 30, 1994
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+
+<PAGE>
+PAGE 1
+EXHIBIT 24
+
+                        POWER OF ATTORNEY
+
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+     WHEREAS, U S WEST Communications, Inc., a Colorado
+corporation (hereinafter referred to as the "Company"), proposes
+to file shortly with the Securities and Exchange Commission,
+under the provisions of the Securities Exchange Act of 1934, as
+amended an annual report on Form 10-K for the fiscal year ended
+December 31, 1993; and
+
+     WHEREAS, the undersigned is an officer or Director, or both
+of the Company and holds the office, or offices, in the Company
+as indicated below his name;
+
+     NOW THEREFORE, each of the undersigned hereby constitutes
+and appoints A. GARY AMES, DAVID R. LAUBE, BARBARA M. JAPHA, and
+STEPHEN E. BRILZ, and each of them, as attorneys for him and in
+his name, place, and stead, and in each of his offices and
+capacities in the Company, to execute and file such annual
+report, and thereafter to execute and file any amendment or
+amendments thereto on Form 10-K/A, hereby giving and granting to
+said attorneys full power and authority to do and perform all and
+every act and thing whatsoever requisite and necessary to be done
+in and about the premises as fully, to all intents and purposes,
+as he might or could do if personally present at the doing
+thereof, hereby ratifying and confirming all that said attorneys
+may or shall lawfully do, or cause to be done, by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has hereunto set his
+hand this 30th day of March, 1994.
+
+
+                              /s/ JAMES T. HELWIG
+                              ___________________________________
+                              James T. Helwig
+                              Vice President and Chief Financial
+                                Officer and Director
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+PAGE 2
+EXHIBIT 24
+                        POWER OF ATTORNEY
+
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+     WHEREAS, U S WEST Communications, Inc., a Colorado
+corporation (hereinafter referred to as the "Company"), proposes
+to file shortly with the Securities and Exchange Commission,
+under the provisions of the Securities Exchange Act of 1934, as
+amended an annual report on Form 10-K for the fiscal year ended
+December 31, 1993; and
+
+     WHEREAS, the undersigned is an officer or Director, or both
+of the Company and holds the office, or offices, in the Company
+as indicated below his name;
+
+     NOW THEREFORE, each of the undersigned hereby constitutes
+and appoints A. GARY AMES, DAVID R. LAUBE, BARBARA M. JAPHA, and
+STEPHEN E. BRILZ, and each of them, as attorneys for him and in
+his name, place, and stead, and in each of his offices and
+capacities in the Company, to execute and file such annual
+report, and thereafter to execute and file any amendment or
+amendments thereto on Form 10-K/A, hereby giving and granting to
+said attorneys full power and authority to do and perform all and
+every act and thing whatsoever requisite and necessary to be done
+in and about the premises as fully, to all intents and purposes,
+as he might or could do if personally present at the doing
+thereof, hereby ratifying and confirming all that said attorneys
+may or shall lawfully do, or cause to be done, by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has hereunto set his
+hand this 30th day of March, 1994.
+
+
+                              /s/ JAMES M. OSTERHOFF
+                              ___________________________________
+                              James M. Osterhoff
+                              Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+PAGE 3
+EXHIBIT 24
+                        POWER OF ATTORNEY
+
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+     WHEREAS, U S WEST Communications, Inc., a Colorado
+corporation (hereinafter referred to as the "Company"), proposes
+to file shortly with the Securities and Exchange Commission,
+under the provisions of the Securities Exchange Act of 1934, as
+amended an annual report on Form 10-K for the fiscal year ended
+December 31, 1993; and
+
+     WHEREAS, the undersigned is an officer or Director, or both
+of the Company and holds the office, or offices, in the Company
+as indicated below his name;
+
+     NOW THEREFORE, each of the undersigned hereby constitutes
+and appoints A. GARY AMES, DAVID R. LAUBE, BARBARA M. JAPHA, and
+STEPHEN E. BRILZ, and each of them, as attorneys for him and in
+his name, place, and stead, and in each of his offices and
+capacities in the Company, to execute and file such annual
+report, and thereafter to execute and file any amendment or
+amendments thereto on Form 10-K/A, hereby giving and granting to
+said attorneys full power and authority to do and perform all and
+every act and thing whatsoever requisite and necessary to be done
+in and about the premises as fully, to all intents and purposes,
+as he might or could do if personally present at the doing
+thereof, hereby ratifying and confirming all that said attorneys
+may or shall lawfully do, or cause to be done, by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has hereunto set his
+hand this 30th day of March, 1994.
+
+
+                              /s/ A. GARY AMES
+                              ___________________________________
+                              A. Gary Ames
+                              President and Chief Executive
+                                Officer and Director
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+PAGE 4
+EXHIBIT 24
+                        POWER OF ATTORNEY
+
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+     WHEREAS, U S WEST Communications, Inc., a Colorado
+corporation (hereinafter referred to as the "Company"), proposes
+to file shortly with the Securities and Exchange Commission,
+under the provisions of the Securities Exchange Act of 1934, as
+amended an annual report on Form 10-K for the fiscal year ended
+December 31, 1993; and
+
+     WHEREAS, the undersigned is an officer or Director, or both
+of the Company and holds the office, or offices, in the Company
+as indicated below his name;
+
+     NOW THEREFORE, each of the undersigned hereby constitutes
+and appoints A. GARY AMES, DAVID R. LAUBE, BARBARA M. JAPHA, and
+STEPHEN E. BRILZ, and each of them, as attorneys for him and in
+his name, place, and stead, and in each of his offices and
+capacities in the Company, to execute and file such annual
+report, and thereafter to execute and file any amendment or
+amendments thereto on Form 10-K/A, hereby giving and granting to
+said attorneys full power and authority to do and perform all and
+every act and thing whatsoever requisite and necessary to be done
+in and about the premises as fully, to all intents and purposes,
+as he might or could do if personally present at the doing
+thereof, hereby ratifying and confirming all that said attorneys
+may or shall lawfully do, or cause to be done, by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has hereunto set his
+hand this 30th day of March, 1994.
+
+
+                              /s/ DAVID R. LAUBE
+                              ___________________________________
+                              David R. Laube
+                              Vice President, Controller and
+                                Treasurer
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

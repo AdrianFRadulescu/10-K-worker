@@ -469,16 +469,27 @@ def main(argv):
             fargs = extract_args(argv)
             import database_creation
             database_creation.update_database(fargs['wdir'])
+
         elif argv[0] == '-uf':
-            fargs = extract_args(argv)
+
+            if argv[1] == '-rec':
+                # recover specific files
+                fargs = extract_args(argv[1:])
+                fargs['recover'] = True
+            else:
+                fargs = extract_args(argv)
+                fargs['recover'] = False
+
             import bulk_download
             bulk_download.bulk_download(fargs)
+
         elif argv[0] == '-i':
             fargs = extract_args(argv)
             modules = ['pyahocorasick', 'openpyxl', 'regex', 'bs4', 'nltk', 'pysqlite', 'pandas', 'requests', 'sqlalchemy', 'BeautifulSoup4']
             import os
             for mod in modules:
                 os.system(sys.executable + ' -m pip install ' + mod)
+
         elif argv[0] == '-tf':
             fargs = extract_args(argv)
             import file_transfering
@@ -523,6 +534,7 @@ if __name__ == "__main__":
     print "     -rblkcsv     -creates a csv file containing reports for all the files in the database which have not yet been reported"
     print "     -ud          -updates the EDGAR database register .csv file which contains information about all the files that are in the EDGAR detabase"
     print "     -uf          -updates the 10-K files that are contained in the local database"
+    print "     -uf -rec     -recover specific files"
     print "     -tf          -transfers database content between given locations"
 
     if platform.system() == 'Windows':
