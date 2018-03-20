@@ -1,0 +1,35 @@
+1. Creating the database:
+
+    The Generic_Parser.py script will go through all the files, add them to a database and
+    create an output for all of them.
+
+2. Analysing specific companies by cik
+
+    The Generic_Parser_Analyse_Specific_Files.py will take a list of CIKs and
+    analyse their corresponding files
+
+    The file containing the CIKs needs to be in CSV format
+
+RUNNING THE SCRIPTS
+
+Before running make sure to adjust the pats in the script file that you need to use and save it.
+
+NEGATIVE WORDS
+
+For both scripts, the negative words in the negative words files need to be
+separated by ','
+
+
+BAG OF WORDS
+
+In the case of the Bag of Words file, it needs to be in the same format as the
+Culture type Bag of words.ctg example
+
+This is how a category named 'Create' and abbreviated 'CRE' would be specified:
+
+->Category: Create  (CRE)
+
+The words from this category would be specified as follows:
+
+-->>words: adapt, begin, chang, creat, discontin, dream, elabor, entrepre, envis, experim, fantas, freedom, futur, idea, init, innovat, intellec, learn, new, origin, pioneer, predict, radic, risk, start, thought, trend, unafra, ventur, vision
+
